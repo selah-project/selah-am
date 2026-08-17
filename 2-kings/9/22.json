@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 9:22",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ሆደምም ⟨את⟩ ያሁን ሲያይ «ያሁሆፍ ነው?» አለ፤ እርሱም «ምን ሆፍ! የአንቺ እናት የኢዜብል አመንዝሮና ብዙ አስማቶቿ እስከ አሁን ሲቀጥሉ ነው» አለ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "ሲያይ"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "የሆደም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያሁን"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ያሁን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "ሆፍ ነው"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ያሁ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "ሆፍ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "זנוני",
+      "gloss": "አመንዝሮ"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "የኢዜብል"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "የአንቺ እናት"
+    },
+    {
+      "surface": "וכשפיה",
+      "gloss": "አስማቶቿም"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "ብዙ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:39:13.277486621Z",
+  "model": "glm-5.3"
+}

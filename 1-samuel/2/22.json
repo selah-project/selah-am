@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 2:22",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ኤሊም በጣም አረጀ፤ የልጆቹ በእስራኤል ሁሉ ላይ የሚያደርጉትን ሁሉ ሰማ፣ እና በመገናኛ ድንኳን በር ፊት እያገለገሉ ከነበሩ ⟨את⟩ ከሴቶቹ ጋር የሚተኙበትንም ሰማ።",
+  "tokens": [
+    {
+      "surface": "ועלי",
+      "gloss": "ኤሊም"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "አረጀ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "እና ሰማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚያደርጉት"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "ያደርጋሉ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "የልጆቹ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የሚተኙበትን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚተኙበት"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "ይተኛሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከሴቶቹ ጋር"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ሴቶች"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "የሚያገለግሉ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "በር"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መገናኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:40:23.331420687Z",
+  "model": "glm-5.3"
+}

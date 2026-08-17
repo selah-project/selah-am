@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "የጾር ነገሥታት ሁሉ ⟨את⟩፣ የጽድናን ነገሥታት ሁሉ ⟨את⟩፣ በባሕር ማዶ በሚገኘው ደሴትም ነገሥታት ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩…ም",
+      "marks": "የጾር ነገሥታት ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ነገሥታት"
+    },
+    {
+      "surface": "צר",
+      "gloss": "የጾር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩…ም",
+      "marks": "የጽድናን ነገሥታት ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ነገሥታት"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "የጽድናን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩…ም",
+      "marks": "የደሴቷ ነገሥታት"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ነገሥታት"
+    },
+    {
+      "surface": "האי",
+      "gloss": "የደሴቷ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "በሚገኘው"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "በ…ማዶ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕር"
+    }
+  ],
+  "timestamp": "2026-08-16T07:52:55.877837745Z",
+  "model": "glm-5.3"
+}

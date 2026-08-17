@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "esther 9:25",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እርሷም ከንጉሡ ፊት ስትገባ ከዚያ ጽሑፍ ጋር አለ፦ ከይሁዲዎች ላይ ያሰበው ክፉ ምክሩ በራሱ ራስ ላይ ይመለስ፤ እነርሱም እሱን ⟨את⟩ እና ወንዶቹን ⟨את⟩ በዛፉ ላይ አሰሩ።",
+  "tokens": [
+    {
+      "surface": "ובבאה",
+      "gloss": "ስትገባ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ከ... ፊት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ... ጋር"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ጽሑፉ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ይመለስ"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "ምክሩ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያሰበው"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "አሰበ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ይሁዲዎች"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ራሱ ራስ"
+    },
+    {
+      "surface": "ותלו",
+      "gloss": "አሰሩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እሱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ወንዶቹን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ወንዶቹን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ዛፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:24:50.420038136Z",
+  "model": "glm-5.3"
+}

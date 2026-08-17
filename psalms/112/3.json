@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 112,
+  "translation": "ሀብትና ብዛት በቤቱ ውስጥ ⟨አለ⟩፤ ጽድቁም ለዘላለም ⟨ትኖራለች⟩።",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ሀብት"
+    },
+    {
+      "surface": "ו�עשר",
+      "gloss": "እና ብዛት"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "በቤቱ"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "እና ጽድቁ"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ቆማ የምትኖር"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ለዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:21.677881179Z",
+  "model": "glm-5.3"
+}

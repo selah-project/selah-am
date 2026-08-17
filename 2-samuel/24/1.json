@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "የያህዌህ ቍጣ ደግሞ በእስራኤል ላይ ለመቃጠል ጨመረ፤ ዳዊትን ⟨את⟩ በእነርሱ ውስጥ አነቃቀው፣ እንዲህ ሲል፦ ሂህ እስራኤልን ⟨את⟩ እና ይሁዳን ⟨את⟩ ቍጠር።",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ጨመረ፤"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ደግሞ ቍጣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "ለመቃጠል"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "በእስራኤል"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "አነቃቀው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊትን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትን"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "በእነርሱ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ሂህ"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "ቍጠር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ይሁዳን"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳን"
+    }
+  ],
+  "timestamp": "2026-08-16T19:44:42.090954298Z",
+  "model": "glm-5.3"
+}

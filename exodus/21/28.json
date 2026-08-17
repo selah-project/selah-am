@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "እና በሬ አንድን ሰው ⟨את⟩ ወይም አንዲትን ሴት ⟨את⟩ ቢከርክር እና ቢሞት፣ በሬው ⟨የ⟩ በድንጋይ ይወረወራል፤ ሥጋውንም ⟨את⟩ አይበላም፤ የበሬው ባለቤት ጽድቅ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "እና ቢ"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "ቢከርክር"
+    },
+    {
+      "surface": "שור",
+      "gloss": "በሬ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አንድን ሰው"
+    },
+    {
+      "surface": "איש",
+      "gloss": "አንድን ሰው"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አንዲትን ሴት"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "አንዲትን ሴት"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "እና ቢሞት"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "የበድንጋይ"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "ይወረወራል"
+    },
+    {
+      "surface": "השור",
+      "gloss": "በሬው"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና ... አይ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበላም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሥጋውን"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ሥጋውን"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "እና ... ባለቤት"
+    },
+    {
+      "surface": "השור",
+      "gloss": "የበሬው"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ጽድቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:21:23.394502552Z",
+  "model": "glm-5.3"
+}

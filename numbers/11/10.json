@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 11:10",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሞሼም ⟨את⟩ ሕዝቡን በቤተሰቦቹ እያለቀሰ ሰማ፤ እያንዳንዱ ሰው በድንኳኑ መግቢያ ላይ፤ የያህዌህም አፍንጫ በጣም ነደወ፤ በሞሼም ዐይኖችም መጥፎ ሆነ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "እያለቀሰ"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "በቤተሰቦቹ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "በመግቢያ ላይ"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "በድንኳኑ"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ነደወ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "አፍንጫ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "በዐይኖችም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "በሞሼ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "መጥፎ ሆነ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:15:39.862820113Z",
+  "model": "glm-5.3"
+}

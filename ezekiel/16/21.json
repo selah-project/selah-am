@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ልጆችሽን ⟨את⟩ ታረድሽ እነርሱንም ⟨את⟩ በማሳልፍ ለእነሱ አስረከብሽ።",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "ታረድሽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጆችሽን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆችሽ"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "አስረከብሽ"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "በማሳልፍ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:25:28.108061596Z",
+  "model": "glm-5.3"
+}

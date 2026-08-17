@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "የሰው ልጅ፣ ኢየሩሳሌምን ⟨את⟩ በደሮቿን ⟨את⟩ አሳውቃት።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "አሳውቅ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢየሩሳሌምን"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ኢየሩሳሌም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በደሮቿን"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "በደሮቿ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:25:12.537977092Z",
+  "model": "glm-5.3"
+}

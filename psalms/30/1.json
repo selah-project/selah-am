@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "መዝሙር፣ የቤቱ በዓል ማድረግ (መቀደስ) ዝማሬ፣ ለዳዊት።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ዝማሬ"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "የበዓል ማድረግ (መቀደስ)"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "የቤቱ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:33.090935253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "job 31:32",
+  "book": "job",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "እንግዳ በውጭ አያርፍም፤ በርሄን ለመንገደኛ እከፍታለሁ፤",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "በውጭ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ያረፍ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "እንግዳ"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "በርሄን"
+    },
+    {
+      "surface": "לארח",
+      "gloss": "ለመንገደኛ"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "እከፍታለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:56:10.143925567Z",
+  "model": "glm-5.3"
+}

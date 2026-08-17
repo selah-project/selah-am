@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "እናም በእግዚአብሔር መንፈስ በጥበብ፣ በመረዳትና በእውቀት፣ እንዲሁም በሙሉ ሥራ ሥራ እንዲያው ሞላው።",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "ሞላው"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "መንፈስ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "በጥበብ"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "በመረዳት"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "እና በእውቀት"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "እንዲሁም በሙሉ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ሥራ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:36:20.113019795Z",
+  "model": "glm-5.3"
+}

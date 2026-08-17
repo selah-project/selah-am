@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 149,
+  "ref": "psalms 119:149",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ድምፄን በጸጋህ አድምጥ፣ ያህዌህ፤ በፍርድህም አንብራኝ።",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ድምፄ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "አድምጥ"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "በጸጋህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כמשפטך",
+      "gloss": "በፍርድህ"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "አንብራኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:59.541506778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "አንት መሸሸጊያ ለእኔ ነህ፤ ከመከራ ትጠብቀኛል፤ የነጻነት ዝማሬዎች ታኅዝበኛል። ሰላ።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "አንት"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "መሸሸጊያ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ከመከራ"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "ትጠብቀኛል"
+    },
+    {
+      "surface": "רני",
+      "gloss": "ዝማሬዎች"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "የነጻነት"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "ታኅዝበኛል"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:55.530469586Z",
+  "model": "glm-5.3"
+}

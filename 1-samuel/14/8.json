@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 14:8",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ዮናታንም «እነሆ እኛ ወደ እነዚያ ሰዎች እንሻገራለን፤ ከዚያም ለእነሱ እንገለጣለን» አለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ዮናታን"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "እኛ"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "እንሻገራለን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "እነዚያ ሰዎች"
+    },
+    {
+      "surface": "ונגלינו",
+      "gloss": "እንገለጣለን"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ለእነሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:47:43.573233598Z",
+  "model": "glm-5.3"
+}

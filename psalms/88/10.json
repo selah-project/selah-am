@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 88,
+  "translation": "ዓይኔ ከመከራዬ ወደርታ ተስተካክሎ ነው፤ በምኵራቤ ሁሉ ወደ አንተ ያህዌህ ጮኸሁ፤ እጄን ወደ አንተ አንረፈሁ።",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኔ"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "ወደርታ\/ደነገጠ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "መከራዬ"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ጮኸሁህ\/ጠርሁህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "አንረፈሁ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "እጄን\/እጅዬን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:04.731787575Z",
+  "model": "glm-5.3"
+}

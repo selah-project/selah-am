@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "daniel 7:18",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የዐላዊም ቅዱሳን ⟨the⟩ መንግሥትን ይቀበላሉ፤ መንግሥትንም ይወርሳሉ፣ እስከ ዘለዓለም እና እስከ የዘመናት ዘመን ድረስ።",
+  "tokens": [
+    {
+      "surface": "ויקבלון",
+      "gloss": "ይቀበላሉ"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "መንግሥትን"
+    },
+    {
+      "surface": "קדישי",
+      "gloss": "ቅዱሳን"
+    },
+    {
+      "surface": "עליונין",
+      "gloss": "የዐላዊም"
+    },
+    {
+      "surface": "ויחסנון",
+      "gloss": "ይወርሳሉ"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "መንግሥትን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "עלמא",
+      "gloss": "ዘለዓለም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እና እስከ"
+    },
+    {
+      "surface": "עלם",
+      "gloss": "የዘመናት"
+    },
+    {
+      "surface": "עלמיא",
+      "gloss": "ዘመን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:40:49.282147513Z",
+  "model": "glm-5.3"
+}

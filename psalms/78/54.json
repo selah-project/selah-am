@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 54,
+  "ref": "psalms 78:54",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "አመጣቸው ወደ የቅድሳቱ ድንበር፣ ወደ ዛችው ተራራ የተገዛው በቀኙ።",
+  "tokens": [
+    {
+      "surface": "ויביאם",
+      "gloss": "አመጣቸው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ድንበር"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅድሳቱ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ዛችው"
+    },
+    {
+      "surface": "קנתה",
+      "gloss": "የተገዛ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "በቀኙ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:53.676788710Z",
+  "model": "glm-5.3"
+}

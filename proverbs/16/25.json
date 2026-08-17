@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "የሚመስል ቀጥተኛ መንገድ አለ በሰው ፊት፤ ነገር ግን መጨረሻዋ የሞት መንገዶች ናት።",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ቀጥተኛ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "ነገር ግን መጨረሻዋ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "መንገዶች"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:28:15.039703754Z",
+  "model": "glm-5.3"
+}

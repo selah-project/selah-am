@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "አብራሃምም ሸመጋገበ፣ በዘመናት ውስጥ ገባ፤ ያህዌህም አብራሃምን ⟨את⟩ በሁሉ ባረከው።",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "አብራሃምም"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ሸመጋገበ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ገባ"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "በዘመናት"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ባረከ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አብራሃምን"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብራሃምን"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:42:49.948725595Z",
+  "model": "glm-5.3"
+}

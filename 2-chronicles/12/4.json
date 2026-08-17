@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የይሁዳንም የተመከሩ ከተሞች ⟨את⟩ ያዘ፤ እስከ ኢየሩሳሌምም መጣ።",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "ያዘ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የይሁዳን የተመከሩ ከተሞች"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ከተሞች"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "የተመከሩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ… ናቸው"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ለይሁዳ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ኢየሩሳሌምም"
+    }
+  ],
+  "timestamp": "2026-08-16T13:40:44.288199825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "job 32:21",
+  "book": "job",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "እባክህ የሰውን ⟨את⟩ ፊት አታንሳ፤ ለሰውም የአድናቆት ስም አልሰጥም።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አታ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "አታንሳ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ለ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אכנה",
+      "gloss": "አድናቆት ስም አሰጥም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:54:18.536178002Z",
+  "model": "glm-5.3"
+}

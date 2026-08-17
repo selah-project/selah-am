@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "1-samuel 8:3",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ወንዶቹም በፍርዱ አልሄዱም፤ ከጥቅም በኋላ ዘሉ፤ ሲሆን ወሰዱ፤ ፍርድንም አዘነበቡ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ሄዱ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ወንዶቹም"
+    },
+    {
+      "surface": "בדרכו",
+      "gloss": "በፍርዱ\/በመንገዱ"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "ዘሉ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ…በኋላ"
+    },
+    {
+      "surface": "הבצע",
+      "gloss": "ጥቅም\/ስርቆት"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ወሰዱ"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ሲሆን\/ጉቦ"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "አዘነበቡ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:33:45.790148141Z",
+  "model": "glm-5.3"
+}

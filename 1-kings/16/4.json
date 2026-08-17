@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ለባሽዓ በከተማ የሚሞተውን ውሾች ይበላሉ፤ ከእሱም በሜዳ የሚሞተውን የሰማይ ወፍ ይበላል።",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "የሚሞተው"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "ለባሽዓ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "በከተማ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ይበላሉ"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "ውሾች"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "የሚሞተውም"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ከእሱ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "በሜዳ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ይበላሉ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ወፍ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "የሰማይ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:29:58.716451171Z",
+  "model": "glm-5.3"
+}

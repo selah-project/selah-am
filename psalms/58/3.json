@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 58,
+  "translation": "አዎ በልብ ክፉ ነገር ታደርጋላችሁ፤ በምድር ላይ የእጃችሁን ብጥብጥ ትመዝናላችሁ።",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "አዎ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "በልብ"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ክፉ ነገር"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "ታደርጋላችሁ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር ላይ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ብጥብጥ"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "የእጃችሁን"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "ትመዝናላችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:48.483726543Z",
+  "model": "glm-5.3"
+}

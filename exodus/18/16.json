@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ነገር ሲኖራቸው ወደ እኔ ስርሆም ሰውና ባልደረቡ መካከል እፈርዳለሁ፤ የኤሎሂምን ትእዛዛት ⟨את⟩ እና ሕጌቱን ⟨את⟩ አሳውቃቸዋለሁ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ሲኖራቸው"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይኖራል"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ላቸው"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ይመጣል"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "እፈርዳለሁ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "መካከል"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰውና"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እና በመካከል"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ባልደረቡ"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "አሳውቃቸዋለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዛትን"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "ትእዛዛትን"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሕጌቱን"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "ሕጌቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:17:53.172083366Z",
+  "model": "glm-5.3"
+}

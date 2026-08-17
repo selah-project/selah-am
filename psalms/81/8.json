@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 81,
+  "translation": "በጭንቀት ጠራኸኝ፤ አዳንኩህ፤ በነጎድጓድ ስውር ምላሽ ሰጠሁህ፤ በመዲያን ውሃ ፈተንኩህ። ሴላ።",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "በጭንቀት"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ጠራኸኝ"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "አዳንኩህ"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "ምላሽ ሰጠሁህ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "በስውር"
+    },
+    {
+      "surface": "רע᝝",
+      "gloss": "ነጎድጓድ"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "ፈተንኩህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "መዲያን"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:57:14.358140905Z",
+  "model": "glm-5.3"
+}

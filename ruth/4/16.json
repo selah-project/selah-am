@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ንዐሚም ⟨את⟩ ሕፃኑን ወሰደች፤ በጐነ ጡቷም አኖረችው፤ ለእርሱም እናት-እንክብካቤ ሆነች።",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "ወሰደች"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "ንዐሚም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕፃኑን"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ሕፃኑን"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "አኖረችው"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "በጐነ ጡቷ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ሆነች"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱም"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "እናት-እንክብካቤ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:06:50.997129395Z",
+  "model": "glm-5.3"
+}

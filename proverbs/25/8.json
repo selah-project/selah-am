@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ወደ ክርጋት በፍጥነት አትውጣ፤ ካልሆነም መጨረሻው ምን ታደርጋለህ ወዳጅህ ⟨את⟩ ሲያፈርህ ግን።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "አትውጣ\/አትወጣ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ወደ ክርጋት"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "በፍጥነት"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ካልሆነም\/እንዳልሆነ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "በመጨረሻው"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "ሲያፈርህ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ወዳጅህን"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ወዳጅህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:34:49.531407916Z",
+  "model": "glm-5.3"
+}

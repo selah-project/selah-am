@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ለራስህ ቅረጻ ወይም ማንኛውንም መልክ — ከላይ በሰማያት ያለው፣ በታች በምድር ያለው፣ ወይም በምድር በታች በውኃዎች ውስጥ ያለው — አታድርግም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አታ...ም"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ታድርግ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለራስህ"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "ቅረጻ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ማንኛውንም"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "መልክ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለው"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "በሰማያት"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ከላይ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "እና ያለው"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "በታች"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "እና ያለው"
+    },
+    {
+      "surface": "במים",
+      "gloss": "በውኃዎች"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "በታች"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ለምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:19:15.143122134Z",
+  "model": "glm-5.3"
+}

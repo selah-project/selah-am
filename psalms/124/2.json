@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 124,
+  "translation": "ያህዌህ ስለ ሆነልን ካልሆነ — ሰዎች በተነሱብን ጊዜ፣",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "ካልሆነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ስለ ሆነልን"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "በመነሳት"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "በእኛ ላይ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:13.055945942Z",
+  "model": "glm-5.3"
+}

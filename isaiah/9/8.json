@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 9:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ሕዝቡም በሙሉ ያውቃል፣ ኤፍሬምና የሰማርያ ነዋሪ፣ በትምክህት እና በልብ ትርጉም እንዲህ የሚሉ፦",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ያውቃሉም"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍሬም"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "እና የ…ነዋሪ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ሰማርያ"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "በትምክህት"
+    },
+    {
+      "surface": "ובגדל",
+      "gloss": "እና በ…ትርጉም"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ የሚሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:54:04.052639526Z",
+  "model": "glm-5.3"
+}

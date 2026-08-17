@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 135,
+  "translation": "አመስግኑ ያህን፤ አመስግኑ ⟨את⟩ ስም ያህዌህን፤ አመስግኑ እናንተ አገልጋዮች የያህዌህ",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "አመስግኑ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "አመስግኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "አመስግኑ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "አገልጋዮች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:11.053088082Z",
+  "model": "glm-5.3"
+}

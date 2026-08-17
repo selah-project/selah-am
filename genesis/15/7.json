@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "genesis 15:7",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "እንዲህም አለው፤ እኔ ያህዌህ ነኝ፣ ከከልዴዎስ ኡር አወጣሁህ፣ ይህንን ⟨את⟩ ምድር በባለቤትነት እንድትወርሳት ለመስጠት።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆንሁ"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "አወጣሁህ"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "ከኡር"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ከልዴዎስ"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ለመስጠት"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድርን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህንን"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "በባለቤትነት እንድትወርሳት"
+    }
+  ],
+  "timestamp": "2026-08-16T02:36:38.666807667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "hosea 5:13",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ኤፍሬም ⟨את⟩ በሽታውን አየ፣ ይሁዳም ⟨את⟩ ቁስሉን አየ፤ ኤፍሬም ወደ አሦር ሄደ፣ ወደ ያረብ ንጉሥም ላከ፤ እርሱ ግን ሊፈውስላችሁ አይችልም፣ ከናንተም ቁስልን አያስወግድም።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍሬም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በሽታውን"
+    },
+    {
+      "surface": "חליו",
+      "gloss": "በሽታውን"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ይሁዳም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቁስሉን"
+    },
+    {
+      "surface": "מזרו",
+      "gloss": "ቁስሉን"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍሬም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "አሦር"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "ያረብ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "እርሱ ግን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይችልም"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ሊችል"
+    },
+    {
+      "surface": "לרפא",
+      "gloss": "ሊፈውስላችሁ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ላችሁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አያስወግድም"
+    },
+    {
+      "surface": "יגהה",
+      "gloss": "ማስወገድ"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ከናንተ"
+    },
+    {
+      "surface": "מזור",
+      "gloss": "ቁስልን"
+    }
+  ],
+  "timestamp": "2026-08-16T08:57:46.756738589Z",
+  "model": "glm-5.3"
+}

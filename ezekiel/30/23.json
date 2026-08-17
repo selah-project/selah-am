@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "ezekiel 30:23",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "እና ⟨את⟩ ምጽርያምን በአሕዛብ አሰባራለሁ፤ እና በምድራት አራባታለሁ።",
+  "tokens": [
+    {
+      "surface": "והפצותי",
+      "gloss": "አሰባራለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምጽርያምን"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽርያምን"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "በአሕዛብ"
+    },
+    {
+      "surface": "וזריתם",
+      "gloss": "አራባታለሁ"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "በምድራት"
+    }
+  ],
+  "timestamp": "2026-08-16T08:41:25.255371100Z",
+  "model": "glm-5.3"
+}

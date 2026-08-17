@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እስከ መቼ፣ እስከ መቼ ባንዲራውን እመለከታለሁ? የቀርንጫትን ድምፅ እሰማለሁ?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "መቼ"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "እመለከታለሁ"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ባንዲራውን"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "እሰማለሁ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ቀርንጫት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:37:30.045756428Z",
+  "model": "glm-5.3"
+}

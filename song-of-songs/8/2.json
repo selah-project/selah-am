@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "አነሳሃለሁ፤ ወደ እናቴ ቤት አስገባሃለሁ፤ ታስተምረኛለህ፤ ከቅመም ያለው ወይን እናጠጣሃለሁ፤ ከሮማኜዬ ጭማቂ።",
+  "tokens": [
+    {
+      "surface": "אנהגך",
+      "gloss": "አነሳሃለሁ"
+    },
+    {
+      "surface": "אביאך",
+      "gloss": "አስገባሃለሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "የእናቴ"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "ታስተምረኛለህ"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "እናጠጣሃለሁ"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "ወይን"
+    },
+    {
+      "surface": "הרקח",
+      "gloss": "ቅመም ያለው"
+    },
+    {
+      "surface": "מעסיס",
+      "gloss": "ጭማቂ"
+    },
+    {
+      "surface": "רמני",
+      "gloss": "የሮማኜዬ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:06:09.804412742Z",
+  "model": "glm-5.3"
+}

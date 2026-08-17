@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "አስማተኞቹም በአስማታቸው እንዲሁ አደረጉ፤ ጉላቶችንም በምጽራይ ምድር ላይ አወጡ።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "አደረጉ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲሁ"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "አስማተኞቹ"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "በአስማታቸው"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "አወጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጉላቶችን"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ጉላቶችን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽራይ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:11:20.714335667Z",
+  "model": "glm-5.3"
+}

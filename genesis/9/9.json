@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እኔም እነሆ ኪዳቴን ⟨את⟩ ከናንተ ጋር እና ⟨את⟩ ከኋላችሁ ካለ ዘርኣችሁ ጋር አቆምላለሁ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔም"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "አቆምላለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኪዳቴን"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳቴን"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ከናንተ ጋር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "ዘርኣችሁን"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "ከኋላችሁ ካለ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:33:18.281012399Z",
+  "model": "glm-5.3"
+}

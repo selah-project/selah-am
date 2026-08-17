@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "ለሁሉም ማሰርተዎቻቸው ፊት ምሕረት ⟨את⟩ ለማግኘት አደረጋቸው።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "አደረጋቸው"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "ለምሕረት ለማግኘት"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "ማሰርተዎቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:55.974573117Z",
+  "model": "glm-5.3"
+}

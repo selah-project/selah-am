@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "2-samuel 23:12",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "እርሱም በክፍሉ መካከል ቆሞ አዳነው፤ ፍልስጤምኋዩንም ⟨את⟩ መታ፤ ያህዌህም ታላቅ መዳን አደረገ።",
+  "tokens": [
+    {
+      "surface": "ויתיצב",
+      "gloss": "ቆሞም"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "በክፍሉ"
+    },
+    {
+      "surface": "ויצילה",
+      "gloss": "አዳነው"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "መታም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍልስጤምኋዩን"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤምኋዩን"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "መዳን"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ታላቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:12:26.070719369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "1-samuel 13:23",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እና የፍልስጤም ሰፊና ወደ ሚክማስ ማለፊያ ወጣ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "ሰፊና"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "የፍልስጤም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ማለፊያ"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "ሚክማስ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:36:15.832443605Z",
+  "model": "glm-5.3"
+}

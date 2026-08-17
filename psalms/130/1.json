@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 130,
+  "translation": "የደጋማዎች ዝማሬ። ከጥልቀቶች ያህዌህን ጠራሁ።",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ዝማሬ"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "የደጋማዎች"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "ከጥልቀቶች"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ጠራሁህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:37.237901253Z",
+  "model": "glm-5.3"
+}

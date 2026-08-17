@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "1-chronicles 7:9",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እነርሱም በትውልዶቻቸው በወገን ተቆጠሩ፣ የአባቶቻቸው ቤት ራሶች፣ የድል ጠንካራዎች፣ ሃያ ሺህ እና ሁለት መቶ።",
+  "tokens": [
+    {
+      "surface": "והתיחשם",
+      "gloss": "ተቆጠሩ"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "በትውልዶቻቸው"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ራሶች"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "የአባቶቻቸው"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ጠንካራዎች"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "የድል"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ሃያ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "እና ሁለት መቶ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:43:43.571343007Z",
+  "model": "glm-5.3"
+}

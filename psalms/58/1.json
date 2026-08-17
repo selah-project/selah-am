@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 58,
+  "translation": "ለመዝማሬ አለቃ «አታጥፋ» ለዳዊድ ሚኽታም።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመዝማሬ አለቃ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አታ"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ጥፋ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊድ"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ሚኽታም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:48.483267645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እናንተ የየሩሳሌም ሴቶች፣ በሜዳዋ ጋዞች ወይም በሜዳዋ ግምላዎች እማልሳላችኋለሁ — ⟨את⟩ ፍቅርን እስኪፈልግ ድረስ አታንቁት እና አታስነሱት።",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "እማልሳላለሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ኣችሁ",
+      "marks": "የየሩሳሌም ሴቶች"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ሴቶች"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የየሩሳሌም"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "በጋዞች"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "በግምላዎች"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "የሜዳ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንዳታነቁ"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "ታንቁ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "እና እንዳታስነሱ"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "ታስነሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍቅርን"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "ፍቅርን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪፈልግ ድረስ"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "እስትፈልግ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:04:21.214979065Z",
+  "model": "glm-5.3"
+}

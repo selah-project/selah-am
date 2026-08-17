@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "በልቤ ቃልህን ደብቄያለሁ፤ ወደ አንተ ዘንብብ አል እበድልም።",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "በልቤ"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "ደብቄያለሁ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ቃልህን"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ዘንብብ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "እበድልም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ወደ አንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:01.847098436Z",
+  "model": "glm-5.3"
+}

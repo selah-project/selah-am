@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "ኤሎሂም ሆይ፣ በቤተ መቅደስህ መካከል ምሕረትህን ተመሳከርን።",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "ተመሳከርን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ምሕረትህን"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "በቤተ መቅደስህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:36.582423886Z",
+  "model": "glm-5.3"
+}

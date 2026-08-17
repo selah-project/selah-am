@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "በዚያን ጊዜ መንገድህን በደህና ትሄዳለህ፤ እግርህም አይሰነጠይም።",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "በዚያን ጊዜ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ትሄዳለህ"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "በደህና"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "መንገድህን"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "እና እግርህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "አይሰነጠይም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:20:47.851962345Z",
+  "model": "glm-5.3"
+}

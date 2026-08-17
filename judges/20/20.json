@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "የእስራኤል ሰዎችም ከብንያም ጋራ ለመዋጋት ወጡ፤ የእስራኤል ሰዎችም ከነሱ ⟨את⟩ ጋራ ለጦር ተደራረቡ — ወደ ጎባዓ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጡም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "የ… ሰዎች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ለመዋጋት"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋራ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ብንያም"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "ተደራረቡም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ከነሱ ⟨את⟩",
+      "marks": "ብንያም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "የ… ሰዎች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ለጦር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "ጎባዓ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:30:52.037378179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 9:5",
+  "book": "job",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ተራሮችን የሚያንቀሳቅስ፣ እነርሱም የማያውቁ፣ እነርሱን በቁጣው የገሸቸው ነው።",
+  "tokens": [
+    {
+      "surface": "המעתיק",
+      "gloss": "የሚያንቀሳቅስ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ተራሮችን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እነርሱም የማያውቁ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "የማያውቁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እነርሱን"
+    },
+    {
+      "surface": "הפכם",
+      "gloss": "የገሸቸው"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "በቁጣው"
+    }
+  ],
+  "timestamp": "2026-08-16T18:16:15.617069349Z",
+  "model": "glm-5.3"
+}

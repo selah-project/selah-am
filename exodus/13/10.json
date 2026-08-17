@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ይህን ጽኑ ሥርዓት ⟨את⟩ በየተመደበው ጊዜው ከቀን እስከ ቀን ታስጠብቀዋለህ።",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "ታስጠብቀዋለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህን ጽኑ ሥርዓት"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "ጽኑ ሥርዓቱን"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "በየተመደበው ጊዜው"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "ከቀናት"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "እስከ ቀን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:13:56.755723373Z",
+  "model": "glm-5.3"
+}

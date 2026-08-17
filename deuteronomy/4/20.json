@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "deuteronomy 4:20",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እናንተንም ያህዌህ ⟨את⟩ ወስዶ ከብረት ምድጃ ከግብፅ አወጣችሁ፤ ለራሱ የውርስ ሕዝብ ብትሆኑ እንደዚህ ቀን።",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ እናንተንም",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ወስዶ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "አወጣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ እናንተን",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "מכור",
+      "gloss": "ከምድጃ"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "የብረት"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ከግብፅ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "እንድትሆኑ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለራሱ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "የውርስ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "እንደዚህ ቀን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:36:36.517991893Z",
+  "model": "glm-5.3"
+}

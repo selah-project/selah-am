@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የምድር ንጉሥ ለዕብራውያን ሴቶች አክብበኞች እንዲህ አለ፤ የአንዷ ስም ስፕራ እና የሁለተኛዋ ስም ፑዓ ነበረ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "ለአክብበኞች"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "ዕብራውያን ሴቶች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነችው"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "የአንዷ"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "ስፕራ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "እና ስም"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "የሁለተኛዋ"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "ፑዓ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:05:53.681094578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "እንዲሁም በአንተ የሚጠብቁት ሁሉ አይፈርሱም፤ ያለ ምክንያት እየተመናመኑ የሚያመኙ ይፈርሳሉ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "በአንተ የሚጠብቁት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ፈርሱም፤"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ይፈርሳሉ"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "እየተመናመኑ የሚያመኙ"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ያለ ምክንያት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:19.087544471Z",
+  "model": "glm-5.3"
+}

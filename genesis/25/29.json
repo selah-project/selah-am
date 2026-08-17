@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 25:29",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ያዕቆብም ሑፉ አብሶ እንደ ነበረ፣ ዔሳው ከመስኩ መጣ፤ እርሱም ደክመ።",
+  "tokens": [
+    {
+      "surface": "ויזד",
+      "gloss": "አብሶ ነበር"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብም"
+    },
+    {
+      "surface": "נזיד",
+      "gloss": "ሑፉ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዔሳው"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "መስኩ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "እርሱም"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "ደክመ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:31:23.829788582Z",
+  "model": "glm-5.3"
+}

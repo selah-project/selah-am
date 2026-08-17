@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እናንተም መጻኛን ⟨את⟩ ተዋደዱ፤ ክንየ መጻኞች ነበራችሁ በምድረ ምጽራይም።",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "እናንተም…ተዋደዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መጻኛን"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "መጻኛን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ክንየ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "መጻኞች"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ነበራችሁ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በ…ምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽራይም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:39:46.750827535Z",
+  "model": "glm-5.3"
+}

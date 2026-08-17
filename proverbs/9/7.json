@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "proverbs 9:7",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "የሚሳቀቅን የሚያስተምር ለራሱ ንድቅ ያዘ፤ ክፉን የሚወቅስ ዕድፉን ይቀበላል።",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "የሚያስተምር"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "የሚሳቀቅን"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ያዘ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለራሱ"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ንድቅ"
+    },
+    {
+      "surface": "ומוכיח",
+      "gloss": "እና የሚወቅስ"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ክፉን"
+    },
+    {
+      "surface": "מומו",
+      "gloss": "ዕድፉን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:24:48.271704864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እረኞቹም መጡ፣ አስወጡኋቸው፤ ሞሼም ተነሥቶ ረዳቸው፣ ⟨את⟩ በጎቻቸውንም አጠጣ።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "መጡም"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "እረኞቹ"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "አስወጡኋቸው"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሥቶም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "ረዳቸው"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "አጠጣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በጎቻቸውን"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "በጎቻቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:06:43.886683528Z",
+  "model": "glm-5.3"
+}

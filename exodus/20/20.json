@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ሞሼም ለሕዝቡ አለ፤ አትፍሩ፤ ኤሎሂም እናንተን ⟨את⟩ ለመፈተኝ በመጣ ጊዜ ነው፤ ፍርሃቱም በፊታችሁ ሆኖ እንዳትበደሉ ነው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ትፍሩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነውና"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "ለመፈተኝ"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "በመፈተኝ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "እናንተን ⟨את⟩",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "בא",
+      "gloss": "በመጣ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "ሆኖም"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ሆኖ"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "ፍርሃቱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "በፊታችሁ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "እንዳት"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "ትበደሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:18:29.692800730Z",
+  "model": "glm-5.3"
+}

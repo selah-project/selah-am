@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "jeremiah 32:16",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ከዚያም የመግዛቱን መጽሐፍ ⟨את⟩ ለነርያ ልጅ ለባሩክ እንዲህ እያለ ሰጥቼ በኋላ፣ ወደ ያህዌህ ጸለይሁ።",
+  "tokens": [
+    {
+      "surface": "ואתפלל",
+      "gloss": "ጸለይሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከዚያ በኋላ"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "ሰጥቼ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መጽሐፉን"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "መጽሐፉን"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "የመግዛቱን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ባሩክ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "ነርያ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ እያለ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:00:31.085122865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "በሚቀጥለው ቀን ፍልስጤሞች ተገዶችን ⟨את⟩ ለማራቆብ ሲመጡ፣ ሳኦልን ⟨את⟩ እና ሦስቱን ልጆቹን ⟨את⟩ በጊልቦዓ ተራራ ላይ ወድቀው አገኙ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "በሚቀጥለው ቀን"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤሞች"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "ለማራቆብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተገዶችን"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "ተገዶችን"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "አገኙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሳኦልን"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦልን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሦስቱን ልጆቹን"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሦስቱን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ልጆቹን"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "ወድቀው"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "በተራራ ላይ"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "ጊልቦዓ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:54:05.212822825Z",
+  "model": "glm-5.3"
+}

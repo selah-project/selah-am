@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 22:26",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እኔ ⟨את⟩ አንተን እና ⟨את⟩ የወለድህን እናትህን በሌላ ምድር ላይ ላሳልፍሃለሁ፤ በዚያ ያልተወለዳችሁበት ምድር፤ እና በዚያ ትሞታላችሁ።",
+  "tokens": [
+    {
+      "surface": "והטלתי",
+      "gloss": "ላሳልፍሃለሁ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ አንተን",
+      "marks": "አንተ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እናትህን"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "እናትህን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "ወለድህን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "ሌላ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ילדתם",
+      "gloss": "ተወለዳችሁበት"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "እና በዚያ"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "ትሞታላችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:12:31.546565672Z",
+  "model": "glm-5.3"
+}

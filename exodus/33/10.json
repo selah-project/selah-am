@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ሕዝቡ ሁሉ ⟨את⟩ የደመኑ ዓምድ በድንኳኑ በር ሲቆም ተመለከተ፤ ሕዝቡም ሁሉ ተነሥቶ እያንዳንዱ ሰው በራሱ ድንኳን በር ሰገደ።",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ተመለከተ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የደመኑ ዓምድ"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "ዓምድ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "የደመኑ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ሲቆም"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "በር"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "የድንኳኑ"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ተነሥቶ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡም"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "ሰገደ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "በር"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "በራሱ ድንኳን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:33:34.402074852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 83,
+  "translation": "አሉ፤ ኑ እናንተን ከሕዝብ እናጠፋቸው፤ የእስራኤልም ስም ከእንግዲህ ወዲያ አይነሳም።",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "አሉ፤"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ኑ"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "እናጠፋቸው፤"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ከሕዝብ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይነሳም"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "ይነሳ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ከእንግዲህ ወዲያ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:11:58.883860883Z",
+  "model": "glm-5.3"
+}

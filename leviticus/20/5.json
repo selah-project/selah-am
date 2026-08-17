@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እኔ ፊቴን በዚያ ሰው እና በቤተሰቡ ላይ እወጣለሁ፣ እኔ ⟨את⟩ እርሱን ⟨אתו⟩ እና ⟨ואת⟩ ሁሉን ከእርሱ በኋላ ወደ ሞሌክ በኋላ ለመዋላት የሚዋሉትን ሁሉ ከሕዝባቸው መካከል እጠፋለሁ።",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "እወጣለሁ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊቴን"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊቴን"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "በዚያ ሰው"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "እና በቤተሰቡ"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "እና እጠፋለሁ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ እርሱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "የሚዋሉትን"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "በእርሱ በኋላ"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "ለመዋላት"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "በኋላ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ሞሌክ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ከ…መካከል"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ሕዝባቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:56:38.473646276Z",
+  "model": "glm-5.3"
+}

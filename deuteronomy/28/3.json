@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ቡርካት ነህ በከተማ፣ እና ቡርካት ነህ በመስክ።",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ቡርካት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ነህ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "በከተማ"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "እና ቡርካት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ነህ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "በመስክ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:52:53.690985513Z",
+  "model": "glm-5.3"
+}

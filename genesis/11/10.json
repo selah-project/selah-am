@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እነዚህ የሴም ትውልዶች ናቸው፤ ሴም መቶ ዓመት ልጅ ሆኖ ⟨את⟩ አርፋክስድን ወለደ፤ ከዝናቡ በኋላ ሁለት ዓመታት።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ትውልዶች"
+    },
+    {
+      "surface": "שם",
+      "gloss": "የሴም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ሴም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አርፋክስድን"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "አርፋክስድ"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "ሁለት ዓመታት"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "በኋላ"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ከዝናቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:40.736862698Z",
+  "model": "glm-5.3"
+}

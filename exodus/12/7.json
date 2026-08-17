@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ከደሙም ይወስዳሉ፤ በዐሣሑን በሚበሉበት ቤቶች ላይ በሁለቱ ዐምዶች እና በዐምድ ጫፍ ላይ ይቀብባሉ።",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ይወስዳሉ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ደሙ"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ይቀብባሉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ሁለቱ"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "ዐምዶች"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በላይ"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "ዐምድ ጫፍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ቤቶች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚበሉበት"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "በሚበሉ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ዐሣሑን (እሱን)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "በእነሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:12:52.902516018Z",
+  "model": "glm-5.3"
+}

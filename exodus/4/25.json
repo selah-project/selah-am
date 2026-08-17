@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ጽፍራም ሐሞል ውሰደች፣ የልጇን ቅጠል ቆረጠች፣ በእግሩም ላይ አነከረችው፤ እንዲህም አለች «አንተ ለእኔ የደም ዐምዳ ነህ።»",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "ውሰደች"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "ጽፍራ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ሐሞል"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "ቆረጠች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የልጇን ቅጠል"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "የ... ቅጠል"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "የልᇋሔ"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "አነከረችው"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "በእግሩም ላይ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "አለች"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንዲህም"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ዐምዳ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "የደም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:08:39.321446174Z",
+  "model": "glm-5.3"
+}

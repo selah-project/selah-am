@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 81,
+  "translation": "በወር ላይ በቆ አንክብ፤ በሙላቱ ላይ በበዓላችን ቀን።",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "በቆ አንክብ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "በወር"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "በቆ"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "በሙላቱ ላይ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "በ... ቀን"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "በዓላችን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:34.758493455Z",
+  "model": "glm-5.3"
+}

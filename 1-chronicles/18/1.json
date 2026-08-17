@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ከዚህ በኋላ ሆኖ ዳዊት ፍልስጤሞችን ⟨את⟩ መታቸው፣ አሳመዳቸው፤ ጋትን ⟨את⟩ ከፍልስጤሞች እጅ ከተሞቿንም አንሶ ወሰደ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆኖ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከዚህ በኋላ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከዚህ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "መታቸው"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍልስጤሞችን"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤሞችን"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "አሳመዳቸው"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጋትን"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ጋትን"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ከተሞቿንም"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤሞች"
+    }
+  ],
+  "timestamp": "2026-08-16T13:03:03.719472004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "numbers 24:9",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "እንደ አንበሳ ደፈረ፣ ተኝቶ እንደ አንበሳ ዝም ብሎ ተኛ፤ ማን ያነሣዋል? የሚባርክህ ቡሩክ ነው፣ የሚረግምህ ግን የተረገመ ነው።",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "ደፈረ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ተኛ"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "እንደ አንበሳ"
+    },
+    {
+      "surface": "וכלביא",
+      "gloss": "እንደ አንበሳዋ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "יקימנו",
+      "gloss": "ያነሣዋል"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "የሚባርክህ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ቡሩክ"
+    },
+    {
+      "surface": "וארריך",
+      "gloss": "የሚረግምህ"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "የተረገመ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:22:23.034041439Z",
+  "model": "glm-5.3"
+}

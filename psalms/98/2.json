@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 98,
+  "translation": "ያህዌህ የመዳኑን አሳውቋል፤ በአሕዛብ ፊት ጽድቁን ገልጦታል።",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "አሳውቋል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "የመዳኑን"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "በፊት (በዓይን)"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ገልጦታል"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ጽድቁን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:19.238828811Z",
+  "model": "glm-5.3"
+}

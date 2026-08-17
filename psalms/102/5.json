@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 102,
+  "translation": "እንደ ሣር ተመትቼ ልቤ ደርቀዋል፤ ምክንያቱም እንጀራዬን መብላትን ረስቼ ነው።",
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "ተመትቼ"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "እንደ ሣር"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ደርቀዋል"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ረስቼ ነው"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "መብላትን"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "እንጀራዬን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:42.169169463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "hosea 6:2",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ከሁለት ቀን ያስነቃናል፤ በሦስተኛው ቀን ያነሣናል፤ በፊቱ እንኑራለን።",
+  "tokens": [
+    {
+      "surface": "יחינו",
+      "gloss": "ያስነቃናል"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "ከሁለት ቀን"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ሦስተኛው"
+    },
+    {
+      "surface": "יקמנו",
+      "gloss": "ያነሣናል"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "እንኑራለን"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "በፊቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:58:07.136456413Z",
+  "model": "glm-5.3"
+}

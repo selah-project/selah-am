@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "deuteronomy 33:11",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ያህዌህ ሆይ፣ ኃይሉን ባርክ፤ የእጆቹን ሥራ ይመርጥ፤ የሚነሱትን ወገብ ይሰብራል፤ የሚጠሉትም እንዳይነሱ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ברך",
+      "gloss": "ባርክ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ኃይሉን"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "እና ሥራ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "የእጆቹ"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "ይመርጣል"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ይሰብራል"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "ወገብ"
+    },
+    {
+      "surface": "קמיו",
+      "gloss": "የሚነሱትን"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "እና የሚጠሉትን"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "እንዳይነሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:55:45.731291197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "ለወንድሞቼ እንግዳ ሆንሁ፤ ለየእናቴ ልጆችም ስውር ሆንሁ።",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "እንግዳ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ሆንሁ"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "ለወንድሞቼ"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "እና ስውር"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለልጆች"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "የእናቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:24.710096771Z",
+  "model": "glm-5.3"
+}

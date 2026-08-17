@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ያህዌህም ከምጽራይም አወጣን በኃይለኛ እጅ፣ በዘረጋ ክንድ፣ በታላቅ ስጋት፣ በምልክቶችም እና በተአምራትም።",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "አወጣን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ከምጽራይም"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጅ"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "ኃይለኛ"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "እና በክንድ"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ዘረጋ"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "እና በስጋት"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "እና በምልክቶች"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "እና በተአምራት"
+    }
+  ],
+  "timestamp": "2026-08-16T15:03:59.298432767Z",
+  "model": "glm-5.3"
+}

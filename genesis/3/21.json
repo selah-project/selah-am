@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ያህዌህ ኤሎሂም ለአዳምና ለሚስቱ የቆዳ ቀሚሶችን ሠራ፤ እነሱንም አለበሳቸው።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ለአዳም"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "እና ለሚስቱ"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "ቀሚሶችን"
+    },
+    {
+      "surface": "עור",
+      "gloss": "የቆዳ"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "አለበሳቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:30:25.547500673Z",
+  "model": "glm-5.3"
+}

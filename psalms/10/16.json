@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ያህዌህ ለዘላለምና ለዘለዓለም ንጉሥ ⟨ነው⟩፤ አሕዛብ ከምድሩ ጠፉ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ና ለዘለዓለም"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "ጠፉ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ከምድሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:41.628080824Z",
+  "model": "glm-5.3"
+}

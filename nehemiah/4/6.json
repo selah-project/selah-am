@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "nehemiah 4:6",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እነርሱ አጠገብ የሚኖሩት አይሁዳውያን ሲመጡ እንደ ሆነ፣ ከሁሉም ስፍራዎች «ወደ እኛ ተመልሱ» ብለው በአሥር ዕድል አሉን።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እንደ ሆነ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ሲ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ሚመጡ"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "አይሁዳውያን"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "የሚኖሩት"
+    },
+    {
+      "surface": "אצלם",
+      "gloss": "አጠገብ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "አሉ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለኛ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ዕድል"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉም"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "ስፍራዎች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "תשובו",
+      "gloss": "ተመልሱ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ወደ እኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:20:43.533409728Z",
+  "model": "glm-5.3"
+}

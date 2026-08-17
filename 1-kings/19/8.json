@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "1-kings 19:8",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ተነሥቶም በላ፣ ጠጣም፤ በዚያው ምግብ ኃይልም አርባ ቀንና አርባ ሌሊት ሄደ፤ እስከ ኤሎሂም ተራራ ኮሬብ ድረስ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሥቶም"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "በላ"
+    },
+    {
+      "surface": "וישתה",
+      "gloss": "ጠጣ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "በኃይልም"
+    },
+    {
+      "surface": "האכילה",
+      "gloss": "ምግብ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ያኛው"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "አርባ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "አርባም"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ሌሊት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ…ድረስ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ኮሬብ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:31:17.902453960Z",
+  "model": "glm-5.3"
+}

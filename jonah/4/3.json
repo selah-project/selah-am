@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "አሁንም ያህዌህ ሆይ፣ እባክህ ⟨את⟩ ነፍሴን ከእኔ ውሰድ፤ መሞቴ ከሕይወቴ ይበልጣልና።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "አሁንም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ውሰድ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሴን"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ስለ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ይበልጣል"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "መሞቴ"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "ከሕይወቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:11:09.753925161Z",
+  "model": "glm-5.3"
+}

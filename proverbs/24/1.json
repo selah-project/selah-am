@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "በክፉ ሰዎች አትቅና፤ እና ከእነርሱ ⟨את⟩ ለመሆን አትመኝ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ትቅና"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "በክፉ ሰዎች"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ትመኝ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ለመሆን"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ከእነርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:34:41.878290947Z",
+  "model": "glm-5.3"
+}

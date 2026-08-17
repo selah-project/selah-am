@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ካህኑም ለዳዊት ንጉሥ የነበሩትን ⟨את⟩ በረገሙንና ⟨את⟩ እለቆቹን ለያህዌህ ቤት ላሉት ለመቶዎቹ አዛዦች አለቃዎች ሰጠ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "ለ…አለቃዎች"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "የመቶዎች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በረገሙን"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "በረገሙን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "እለቆቹን"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "እለቆቹን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የነበሩትን"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ለንጉሥ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያሉትን"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በ…ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:51:56.043432284Z",
+  "model": "glm-5.3"
+}

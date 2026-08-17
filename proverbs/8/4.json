@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እናንተ ሰዎች ሆይ፣ እጠራችኋለሁ፤ ድምፄስ ወደ ሰው ልጆች ነው።",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "እናንተ… ለእናንተ"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "ሰዎች ሆይ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "እጠራለሁ"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "እና ድምፄ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው፣ አዳም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:24:13.700278166Z",
+  "model": "glm-5.3"
+}

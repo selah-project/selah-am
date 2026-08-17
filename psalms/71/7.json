@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 71,
+  "translation": "ለብዙዎች እንደ ተአምር ሆንሁ፤ አንተ ግን ጠንካራ መጠለያዬ ነህ።",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "እንደ ተአምር"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ሆንሁ"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "ለብዙዎች"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "አንተ ግን"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "መጠለያዬ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ጠንካራ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:59.064909050Z",
+  "model": "glm-5.3"
+}

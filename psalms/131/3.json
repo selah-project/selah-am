@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 131,
+  "translation": "እስራኤል በያህዌህ ተስፋ ይሥራ፤ ከዛሬም ሆኖ እስከ ለዘላለም።",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "ተስፋ ይሥራ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ከዛሬ ሆኖ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እና እስከ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ለዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:13.536937278Z",
+  "model": "glm-5.3"
+}

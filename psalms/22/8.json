@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "የሚያዩኝ ሁሉ ያሾፍኑኛል፤ ከከንፈር ያወጣሉ፣ ራስን ያንቀሳቅሳሉ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "የሚያዩኝ"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "ያሾፍኑኛል"
+    },
+    {
+      "surface": "לי",
+      "gloss": ""
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "ያወጣሉ"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "ከከንፈር"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "ያንቀሳቅሳሉ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:20.292491116Z",
+  "model": "glm-5.3"
+}

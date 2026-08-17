@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ዝጉቶችም ምድርን ይወርሳሉ፤ በሰላም ብዛትም ደስ ይላቸዋል።",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "ዝጉቶችም"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ይወርሳሉ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "ደስ ይላቸዋል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዛት"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:33.706735003Z",
+  "model": "glm-5.3"
+}

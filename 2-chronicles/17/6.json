@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ልቡ በያህዌህ መንገዶች ከፍ አለ፤ ከይሁዳም ⟨את⟩ ከፍተኛ መስገጃዎችንና ⟨את⟩ አሼራዎችን አስወገደ።",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "ከፍ አለ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "በመንገዶች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "አስወገደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከፍተኛ መስገጃዎችን"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ከፍተኛ መስገጃዎችን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "አሼራዎችን"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "አሼራዎችን"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "ከይሁዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:50:14.638955293Z",
+  "model": "glm-5.3"
+}

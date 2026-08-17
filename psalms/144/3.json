@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 144,
+  "translation": "ያህዌህ፣ ሰው ምንድን ነው ብለህ ታውቀዋለህ፧ የሰው ልጅ ምንድን ነው ብለህ ትቆጥረዋለህ፧",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምንድን ነው"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "እና ታውቀዋለህ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "እና ትቆጥረዋለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:37.283804648Z",
+  "model": "glm-5.3"
+}

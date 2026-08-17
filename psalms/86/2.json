@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 86,
+  "translation": "ነፍሴን ጠብቅ፣ በእውነትም ቻሲድ ነኝ፤ አንተ ኤሎሄዬ ሆይ፣ በአንተ የሚታመን የአንተ አገልጋይ አድን።",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "ጠብቅ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነትም"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ቻሲድ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ነኝ"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "አድን"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "የአንተ አገልጋይ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሄዬ"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "የሚታመን"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "በአንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:02.102824073Z",
+  "model": "glm-5.3"
+}

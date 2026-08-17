@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ቀስቱን ዘርግቶአል፤ እንደ ዒላማም ለቀስት አቆሞአል።",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ዘርግቶአል"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "ቀስቱን"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "አቆሞአል"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "እንደ ዒላማም"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ለቀስት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:08:54.789938838Z",
+  "model": "glm-5.3"
+}

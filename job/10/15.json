@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 10:15",
+  "book": "job",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ክፉ ከሠራሁ ወዮልኝ፤ ጻድቅ ከሆንሁም ራሴን አልለውጥም — ንቀት ጥልቀት አገኘሁ፤ ችግሬንም አያለሁ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "ክፉ ከሠራሁ"
+    },
+    {
+      "surface": "אללי",
+      "gloss": "ወዮልኝ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ልኝ"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "ጻድቅ ከሆንሁም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ለውጥ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ራሴን"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ጥልቀት አገኘሁ"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ንቀት"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "አያለሁም"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ችግሬን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:14:13.686110519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "job 8:2",
+  "book": "job",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እስከ መቼ ነው እነዚህን የምትናገረው? የአፍህ ቃላት እንደ ኃያል ነፋስ ⟨ናቸው⟩።",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "אן",
+      "gloss": "መቼ"
+    },
+    {
+      "surface": "תמלל",
+      "gloss": "ታናገራለህ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህን"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ነፋስ"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "ኃያል"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "የአፍህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:43:07.013692336Z",
+  "model": "glm-5.3"
+}

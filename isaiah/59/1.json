@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 59,
+  "translation": "እነሆ የያህዌህ እጅ ከማዳን አልተጠራረቀም፣ እና ጆሮውም ከመስማት አልኾፈለም።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አልፈለገም።"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "አልተጠራረቀም።"
+    },
+    {
+      "surface": "יד",
+      "gloss": "እጅ።"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ።"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "ከማዳን።"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አልፈለገም።"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "አልኾፈለም።"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ጆሮውም።"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "ከመስማት።"
+    }
+  ],
+  "timestamp": "2026-08-16T07:30:58.656523757Z",
+  "model": "glm-5.3"
+}

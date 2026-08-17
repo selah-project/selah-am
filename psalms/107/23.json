@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "በመርከቦች ወደ ባሕር የሚወርዱ፣ በብዙ ውኆች ሥራ የሚሠሩ።",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "የሚወርዱ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ወደ ባሕር"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "በመርከቦች"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "የሚሠሩ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "በውኆች"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:25.504413095Z",
+  "model": "glm-5.3"
+}

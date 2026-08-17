@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 98,
+  "translation": "ለእስራኤል ቤት ምሕረቱን እና ታማኝነቱን አሰበ፤ የምድር ዳርቻዎች ሁሉ ⟨את⟩ የእኛ ኤሎሂም መዳን አዩ።",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "አሰበ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ምሕረቱን"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "እና ታማኝነቱን"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ለቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "አዩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ዳርቻዎች"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእኛ ኤሎሂም መዳን"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "መዳን"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "የእኛ ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:19.239140380Z",
+  "model": "glm-5.3"
+}

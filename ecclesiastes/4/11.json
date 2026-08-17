@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እንዲሁም ሁለት ቢተኙ ሙቀት አላቸው፤ ለአንድ ግን እንዴት ይሞቃል?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "ቢተኙ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ሙቀት አላቸው"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነርሱ"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "ለአንድ ግን"
+    },
+    {
+      "surface": "איך",
+      "gloss": "እንዴት"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ይሞቃል"
+    }
+  ],
+  "timestamp": "2026-08-16T11:13:13.749000651Z",
+  "model": "glm-5.3"
+}

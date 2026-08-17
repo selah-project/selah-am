@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ስለ ዳንም እንዲህ አለ፤ ዳን የአንበሳ ውርንጫ ⟨ነው⟩፤ ከባሳን ይዘምዳል።",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "ስለ ዳን"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ዳን"
+    },
+    {
+      "surface": "גור",
+      "gloss": "ውርንጫ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "አንበሳ"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "ይዘምዳል"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ባሳን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:55:11.588699825Z",
+  "model": "glm-5.3"
+}

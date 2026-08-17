@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ስለ የሰው ሥራዎች፥ በየከንፈሮችህ ቃል እኔ እገዛለሁ የበደለኛውን መንገዶች።",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "ስለ ሥራዎች"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "የሰው"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "በቃል"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "የከንፈሮችህ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "እገዛለሁ"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "መንገዶችን"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "የበደለኛውን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:21.804985502Z",
+  "model": "glm-5.3"
+}

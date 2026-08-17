@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "እንዲህ አለ ያህዌህ በባሕር መንገድ የሚሰጥ እና በኃይለኛ ውኃዎች መተላለፊያ የሚያደርግ።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "የሚሰጥ"
+    },
+    {
+      "surface": "בים",
+      "gloss": "በባሕር"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "እና በውኃዎች"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ኃይለኛ"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "መተላለፊያ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:20:03.812648470Z",
+  "model": "glm-5.3"
+}

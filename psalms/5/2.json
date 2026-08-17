@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ቃላቶቼን አዳምጥ ያህዌህ፤ ምኅዳሬን ተረድ።",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "ቃላቶቼን"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "አዳምጥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ተረድ"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "ምኅዳሬን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:27:41.330856078Z",
+  "model": "glm-5.3"
+}

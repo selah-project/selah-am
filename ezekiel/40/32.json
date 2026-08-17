@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "ezekiel 40:32",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "እና ወደ ውስጥ አደባባዩ በምሥራቅ መንገድ አመጣኝ፣ እና ⟨את⟩ ⟨በሩን⟩ እንደ ⟨እነዚህ⟩ እሴቶች መጠነው።",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "እና አመጣኝ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "አደባባዩ"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "ውስጥ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "በ… መንገድ"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "ምሥራቅ"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "እና መጠነው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨በሩን⟩"
+    },
+    {
+      "surface": "השער",
+      "gloss": "በሩን"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "እንደ ⟨እነዚህ⟩ እሴቶች"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:50:08.348923412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "2-samuel 17:8",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ሑሴም እንዲህ አለ፦ አንተ አባትህን ⟨את⟩ እና ሰዎቹን ⟨את⟩ ታውቃል፤ እነርሱ ጀግኖች ናቸው፣ በነፍስ በሚቆጡ ናቸው፣ በሜዳ እንደ ደረሰች ድብ ናቸው፤ አባትህም የውጊያ ሰው ነው፣ ከሕዝቡ ⟨את⟩ ጋር አያድርበትም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "ሑሴ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ታውቃል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አባትህን"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "አባትህን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሰዎቹን"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ሰዎቹን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "ጀግኖች"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ናቸው"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "በሚቆጡ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ናቸው"
+    },
+    {
+      "surface": "כדב",
+      "gloss": "እንደ ድብ"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "ደረሰች"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "በሜዳ"
+    },
+    {
+      "surface": "ואביך",
+      "gloss": "አባትህም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "የውጊያ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይደለምም"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ያድርበትም"
+    },
+    {
+      "surface": "את",
+      "gloss": "ከ…ጋር ⟨את⟩",
+      "marks": "ሕዝቡ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:04:22.340388476Z",
+  "model": "glm-5.3"
+}

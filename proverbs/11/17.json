@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "proverbs 11:17",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ነፍሱን ሞገስ የሚመልስ ሰው ለነፍሱ በጎ ያደርጋል፤ ሥጋውን የሚያስጨንቅ ደግሞ ከፋ ነው።",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "የሚመልስ በጎ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱን"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሞገስ"
+    },
+    {
+      "surface": "ועכר",
+      "gloss": "እና የሚያስጨንቅ"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "ሥጋውን"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "ከፋ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:25:42.949473652Z",
+  "model": "glm-5.3"
+}

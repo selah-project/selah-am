@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "job 42:14",
+  "book": "job",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "የ⟨the⟩ አንዲቷን ስም ይምማ አለ፣ የ⟨the⟩ ሁለተኛዋን ስም ቀጽያ አለ፣ የ⟨the⟩ ሦስተኛዋን ስም ቀረን ሃፑክ አለ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራ አለ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "አንዲቷ"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "ይምማ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "እና ስም"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ሁለተኛዋ"
+    },
+    {
+      "surface": "קציעה",
+      "gloss": "ቀጽያ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "እና ስም"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "ሦስተኛዋ"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "ቀረን"
+    },
+    {
+      "surface": "הפוך",
+      "gloss": "ሃፑክ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:02:35.596818056Z",
+  "model": "glm-5.3"
+}

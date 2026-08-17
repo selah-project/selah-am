@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 29:23",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "የንጹሁ መሥዋዕት እሪዎችን ⟨את⟩ በንጉሡ እና በሕዝቡ ፊት አቀረቡ፤ እጃቸውንም በእነሱ ላይ አኖሩ።",
+  "tokens": [
+    {
+      "surface": "ויגישו",
+      "gloss": "አቀረቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እሪዎችን"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "እሪዎችን"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "የንጹሁ መሥዋዕት"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "והקהל",
+      "gloss": "እና ሕዝቡ"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "አኖሩ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "እጃቸውን"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "በእነሱ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:44:43.395417306Z",
+  "model": "glm-5.3"
+}

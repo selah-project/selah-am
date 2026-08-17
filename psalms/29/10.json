@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "ያህዌህ በጎርፉ ላይ ተቀምጦ ነበር፤ ያህዌህም ንጉሥ ሆኖ ለዘላለም ይቀመጣል።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "በጎርፉ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ተቀምጦ ነበር"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "እና ይቀመጣል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:20.404470470Z",
+  "model": "glm-5.3"
+}

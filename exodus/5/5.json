@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ፈርዖንም እንዲህ አለ፦ እነሆ አሁን የሀገሪቱ ሕዝብ ብዙ ነው፤ እናንተ ግን ከከከለከሉአቸው ከባድ ሥራዎች ⟨את⟩ እነርሱን አሳርፋችኋል።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "הן",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የሀገሪቱ"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "አሳርፋችኋል"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "ከከከለከሉአቸው ከባድ ሥራዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T14:30:17.479981858Z",
+  "model": "glm-5.3"
+}

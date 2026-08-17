@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "በዘመንህ ብቻ አልአደርገውም፤ ስለ ዳዊት አባትህ፤ ከልጅህ እጅ እቀጣዋለሁ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "በዘመንህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "አደርገዋለሁ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "አባትህ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ከልጅህ"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "እቀጣዋለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:45:56.814155641Z",
+  "model": "glm-5.3"
+}

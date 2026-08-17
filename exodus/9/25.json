@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እና በረዶው በምድረ ምጽር በመስኩ ያለውን ሁሉ ⟨את⟩ — ከሰው እስከ እንስሳ ድረስ — መታ፤ የመስክን ሣር ሁሉንም ⟨את⟩ በረዶው መታ፤ የመስክን ዛፍ ሁሉንም ⟨את⟩ ሰበረ።",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "መታ"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "በረዶው"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉም"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለው"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "በመስክ"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ከሰው"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "እንስሳ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ሣር"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "የመስክ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "መታ"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "በረዶው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ዛፍ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "የመስክ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ሰበረ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:11:09.296305569Z",
+  "model": "glm-5.3"
+}

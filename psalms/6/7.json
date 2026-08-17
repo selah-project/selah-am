@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "በእስትናፍቀቤ ደክሜያለሁ፤ ሙሉን ሌሊት አልጋዬን እዘሻለሁ፤ በእንባዬ መኝታዬን አበላስቀዋለሁ።",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "ደክሜያለሁ"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "በእስትናፍቀቤ"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "እዘሻለሁ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ሙሉን"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ሌሊት"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "አልጋዬን"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "በእንባዬ"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "መኝታዬን"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "አበላስቀዋለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:27:49.636359339Z",
+  "model": "glm-5.3"
+}

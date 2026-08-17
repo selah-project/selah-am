@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ያህዌህ ሞሼን እና አሃሮንን ለእነሱ ሲል ተናገረ፤",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ለ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ሲል"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ለእነሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:49:19.040082172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ነቢያቱን አልላኩም ⟨את⟩ እነሱም ሮጡ፤ ወደ እነሱ አልተናገርኩም እነሱም ነበሩ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አልፈጸምም\/አልላኩም"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ላኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቢያቱን"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "ነቢያቱን"
+    },
+    {
+      "surface": "והם",
+      "gloss": "እነሱም"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "ሮጡ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አልፈጸምም\/አልተናገርኩም"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ተናገርኩ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ወደ እነሱ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "እነሱም"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "ነበሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:10:30.501518476Z",
+  "model": "glm-5.3"
+}

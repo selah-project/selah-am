@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 32:6",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ኢርምያስም እንዲህ አለ፤ የያህዌህ ቃል ወደ እኔ መጣ፤ «እንዲህ በል» እያለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለም"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ኢርምያስ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እያለ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:20:56.749090986Z",
+  "model": "glm-5.3"
+}

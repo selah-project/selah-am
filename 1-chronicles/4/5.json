@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ለአሹር የተቆዓ አባት ኹለት ሚስቶች ነበሩት፤ ሔላ እና ናዓራ።",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "ለአሹር"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባት"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "የተቆዓ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ነበሩት"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ኹለት"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ሚስቶች"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "ሔላ"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "እና ናዓራ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:37:19.104319495Z",
+  "model": "glm-5.3"
+}

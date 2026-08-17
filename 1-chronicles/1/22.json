@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እና ⟨את⟩ ዓይባልን፣ እና ⟨את⟩ አቢማኤልን፣ እና ⟨את⟩ ሰባን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዓይባልን"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "ዓይባልን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "አቢማኤልን"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "አቢማኤልን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሰባን"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ሰባን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:28:45.837613845Z",
+  "model": "glm-5.3"
+}

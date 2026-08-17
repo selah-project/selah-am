@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "1-kings 7:7",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እና የ⟨የ⟩ ዙፋኑን ምንጣፍ በዚያ የሚፈርድበትን የፍርድ ምንጣፍ አደረገ፤ እና በከረጢት ተሸፈነ ከወለል እስከ ወለል።",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "እና የምንጣፍ"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "ዙፋኑን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "በ"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "የሚፈርድበት"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "የፍርድ ምንጣፍ"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ፍርድ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "וספון",
+      "gloss": "እና ተሸፈነ"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "በከረጢት"
+    },
+    {
+      "surface": "מהקרקע",
+      "gloss": "ከወለል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "ወለል"
+    }
+  ],
+  "timestamp": "2026-08-16T06:18:47.543599874Z",
+  "model": "glm-5.3"
+}

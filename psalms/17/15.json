@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "እኔ ግን በጽድቅ ፊትህን አያለሁ፤ ሲነቃሁ በመልክህ እጠግባለሁ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "በጽድቅ"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "አያለሁ፤"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህን"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "እጠግባለሁ"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "ሲነቃሁ"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "በመልክህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:10.115041588Z",
+  "model": "glm-5.3"
+}

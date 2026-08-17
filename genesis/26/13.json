@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እና ⟨እርሱን⟩ ሰውየው አደገ፣ እና ሄደ በመሄድ እየተሰፋ እስኪሆን በጣም ተሰፋ።",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "አደገ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰውየው"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "በመሄድ"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "እየተሰፋ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪሆን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እስኪሆን ድረስ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ተሰፋ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:44:40.019854590Z",
+  "model": "glm-5.3"
+}

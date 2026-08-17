@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ዳዊትም ሰማ፤ ⟨את⟩ ዮአብንና ⟨את⟩ መላውን የጀግኖች ሠራዊት ላከ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮአብን"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መላውን የጀግኖች ሠራዊት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላውን"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ሠራዊት"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "የጀግኖች"
+    }
+  ],
+  "timestamp": "2026-08-16T13:08:00.836209420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "እና ከእናንተ ብቻ ሳይሆን እኔ ይህን ኪዳን ⟨את⟩ እና ይህን መርገም ⟨את⟩ እየቈረጥኩ ነው።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "እና...ሳይሆን"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ከእናንተ"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "እየቈረጥኩ ነው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህን ኪዳን"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ይህን መርገም"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "መርገም"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህን"
+    }
+  ],
+  "timestamp": "2026-08-16T15:23:02.267561822Z",
+  "model": "glm-5.3"
+}

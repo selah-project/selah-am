@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "job 37:20",
+  "book": "job",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "እኔ ልናገር ሲል ለእርሱ ይነገርለታልን? ወይም ሰው ቢናገር በእርግጥ ይዋጥበዋል።",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "ይነገርለታልን?"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ሲል"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "እኔ ልናገር"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ቢናገር"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእርግጥ"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "ይዋጥበዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:58:44.694193575Z",
+  "model": "glm-5.3"
+}

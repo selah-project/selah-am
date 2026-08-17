@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "joshua 22:6",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ይሆሹዌም ባረኳቸው፣ ላኳቸውም፤ እነርሱም ወደ ድኃቸው ሄዱ።",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "ባረኳቸውም"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ይሆሹዌ"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ላኳቸውም"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ሄዱም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "ድኃቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T05:11:45.579038711Z",
+  "model": "glm-5.3"
+}

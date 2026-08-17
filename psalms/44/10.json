@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "ነገር ግን ጣልከን፣ አሳፈርከንም፤ ከሠራዊታችን ጋር አትወጣም።",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "ጣልከን"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "አሳፈርከንም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አት…ም"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ታወጣ"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "ከሠራዊታችን ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:09.721642094Z",
+  "model": "glm-5.3"
+}

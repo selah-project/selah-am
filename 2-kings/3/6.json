@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ንጉሡ ይሖራም በዚያ ቀን ከሰማርያ ወጥቶ ⟨את⟩ መላውን እስራኤል ቆጠረ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጥቶ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "ይሖራም"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በዚያ ቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያኔ"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "ከሰማርያ"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ቆጠረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መላውን እስራኤል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላውን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T06:37:04.339043211Z",
+  "model": "glm-5.3"
+}

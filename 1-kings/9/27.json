@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "1-kings 9:27",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ኂራምም በመርከቡ ውስጥ ⟨את⟩ አገልጋዮቹን — የመርከብ ሰዎችን፣ ባሕርን የሚያውቁ — ከሰሎሞን አገልጋዮች ጋር ላከ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከም"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ኂራም"
+    },
+    {
+      "surface": "באני",
+      "gloss": "በመርከቡ ውስጥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አገልጋዮቹን"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "አገልጋዮቹን"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰዎችን"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "የመርከብ"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "የሚያውቁ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕርን"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋር"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "አገልጋዮች"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:23:35.931117176Z",
+  "model": "glm-5.3"
+}

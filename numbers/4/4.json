@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "numbers 4:4",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ይህ በመገናኛው ድንኳን ውስጥ የቀሃት ልጆች አገልግሎት ነው፣ ቅዱሳን ቅዱሳን።",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "አገልግሎት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ቀሃት"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "በ…ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መገናኛ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ቅዱሳን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:06:29.373682505Z",
+  "model": "glm-5.3"
+}

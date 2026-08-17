@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "እና ⟨את⟩ን እጣን ታደርጋታለህ — የተቀላቀለ እጣን፣ የተቀላቀለ ሰው ሥራ፣ ለብሶ የሚበስል ውህተት ያለው፣ ንጹህ፣ ቅዱስ።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እጣን"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "እጣን"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "የተቀላቀለ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "የተቀላቀለ ሰው"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "ለብሶ የሚበስል ውህተት ያለው"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ንጹህ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:29:01.324891076Z",
+  "model": "glm-5.3"
+}

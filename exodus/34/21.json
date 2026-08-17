@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ስድስት ቀናት ትሠራለህ እና በሰባተኛው ቀን ትዕራለህ፤ በምርሻ ጊዜ እና በመከርት ጊዜ ትዕራለህ።",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "ስድስት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ትሠራለህ"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "እና በ…ቀን"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ሰባተኛው"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "ትዕራለህ"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "በምርሻ (ጊዜ)"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "እና በመከርት (ጊዜ)"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "ትዕራለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:32:22.113916106Z",
+  "model": "glm-5.3"
+}

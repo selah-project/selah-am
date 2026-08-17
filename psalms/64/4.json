@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 64,
+  "translation": "ቋንቋቸውን እንደ ሰይፍ ያስነኩት፣ በፊታቸውን ያዘጋጁት ደግሞ አስቆሮሽታ ቃል ነው።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "አስነኩ"
+    },
+    {
+      "surface": "ᛗכחרב",
+      "gloss": "እንደ ሰይፍ"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ቋንቋቸውን"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ያዘጋጁ"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "በፊታቸውን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "מר",
+      "gloss": "አስቆሮሽታ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:36.674662258Z",
+  "model": "glm-5.3"
+}

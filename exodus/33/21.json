@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ያህዌህም እንዲህ አለ፤ እነሆ ከእኔ ጋር ⟨את⟩ ስፍሻ አለ፣ አንተም በዓለቱ ላይ ትቆማለህ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ስፍሻ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ከእኔ ጋር"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "ትቆማለህ፤"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "ዓለቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:31:40.343142032Z",
+  "model": "glm-5.3"
+}

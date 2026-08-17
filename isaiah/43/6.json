@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "ለሰሜን እለሃለሁ «እስቲ ስጥ»፤ ለደቡብም «አትከልክል»፤ ወንዶቼን ከሩቅ አምጣ፤ ሴቶቼንም ከምድር ጫፍ።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "እለሃለሁ"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "ለሰሜን"
+    },
+    {
+      "surface": "תני",
+      "gloss": "ስጥ"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "ለደቡብም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "ከልክል"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "አምጣ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወንዶቼን"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ከሩቅ"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "ሴቶቼንም"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ከጫፍ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T07:20:37.513853Z",
+  "model": "glm-5.3"
+}

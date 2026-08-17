@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ጥበብ የለም፤ አስተዋልም የለም፤ ምክርም በያህዌህ ፊት የለም።",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ደግሞ የለም"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "አስተዋል"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ደግሞ የለም"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ምክር"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "በ... ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:31:53.965236591Z",
+  "model": "glm-5.3"
+}

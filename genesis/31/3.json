@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ያህዌህም ወደ ያዕቆብ እንዲህ አለ፦ «ወደ አባቶችህ ምድርና ወደ ራስ የተወለድህበት ተመለስ፤ እኔም ከአንተ ጋር እሆናለሁ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ተመለስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "የአባቶችህ"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "ወደ ራስ የተወለድህበትም"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "እኔም እሆናለሁ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T02:50:02.919831559Z",
+  "model": "glm-5.3"
+}

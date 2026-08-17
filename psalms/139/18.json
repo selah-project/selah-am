@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 139:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 139,
+  "translation": "አቆጥራቸዋለሁ — ከአሸዋ ይበልጣሉ፤ ነቅቼም ገና ከአንተ ጋር ነኝ።",
+  "tokens": [
+    {
+      "surface": "אספרם",
+      "gloss": "አቆጥራቸዋለሁ"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "ከአሸዋ"
+    },
+    {
+      "surface": "ירבון",
+      "gloss": "ይበልጣሉ"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "ነቅቻለሁ"
+    },
+    {
+      "surface": "ועודי",
+      "gloss": "እና እኔ ገና"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:24.007844490Z",
+  "model": "glm-5.3"
+}

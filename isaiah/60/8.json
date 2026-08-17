@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 60,
+  "translation": "እነዚህ ማን ናቸው? እንደ ደመና ይበርራሉ፣ እንደ ድቦች ወደ በሮቻቸው እንደሚመጡ።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "እንደ ደመና"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "ይበርራሉ"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "እንደ ድቦች"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "በሮቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T17:04:51.913224442Z",
+  "model": "glm-5.3"
+}

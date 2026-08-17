@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እነርሷም እንዲህ አሏት፦ መልሰን ወደ ሕዝብሽ ከአንቺ ⟨את⟩ ጋር እንመለሳለን።",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "አሏት"
+    },
+    {
+      "surface": "לה",
+      "gloss": "እርሷን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእርግጥ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ጋር",
+      "marks": "ጋር (ከአንቺ ጋር)"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "እንመለሳለን"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "ወደ ሕዝብሽ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:06:25.925581481Z",
+  "model": "glm-5.3"
+}

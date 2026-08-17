@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ሚካል የሳዖል ልጅ ዳዊትን ⟨את⟩ ወደደች፤ ለሳዖልም ነገሩት፤ ነገሩም በዓይኖቹ ቀርቦ ተቀበለው።",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "ወደደች"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "ሚካል"
+    },
+    {
+      "surface": "בת",
+      "gloss": "የ…ልጅ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳዖል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊትን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "ነገሩት"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ለሳዖል"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ተቀበለው"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ነገሩ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "በዓይኖቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:49:59.006681070Z",
+  "model": "glm-5.3"
+}

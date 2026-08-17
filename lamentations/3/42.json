@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እኛ ሳንበደን አመጸን፤ አንተ አልሰለጠክም።",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "እኛ"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "ሳንበደን"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "አመጸን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "ሰለጠክም"
+    }
+  ],
+  "timestamp": "2026-08-16T11:08:53.971451945Z",
+  "model": "glm-5.3"
+}

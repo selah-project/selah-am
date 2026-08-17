@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "ሞኞች በመበደራቸው መንገድ እና በዐመፃቸውም ይሠቃያሉ።",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "ሞኞች"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "የመበደራቸው"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "እና በዐመፃቸውም"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "ይሠቃያሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:46.627344455Z",
+  "model": "glm-5.3"
+}

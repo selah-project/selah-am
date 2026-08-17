@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ያዕቆብ ወደ አራም ምድር ሸሸ፤ እስራኤልም በአንዲት ሚስት አገለገለ፤ በአንዲትም ሚስት ጠበቀ።",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "ሸሸ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "አራም"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "አገለገለ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "በአንዲት ሚስት"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "በአንዲትም ሚስት"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ጠበቀ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:00:13.561528547Z",
+  "model": "glm-5.3"
+}

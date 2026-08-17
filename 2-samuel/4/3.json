@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 4:3",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የበኤሮት ሰዎችም ወደ ጊታይም ሸሹ፤ እስከ ዛሬው ድረስ መጻእኞች ሆነው እዚያ ኖሩ።",
+  "tokens": [
+    {
+      "surface": "ויברחו",
+      "gloss": "ሸሹ"
+    },
+    {
+      "surface": "הבארתים",
+      "gloss": "የበኤሮት ሰዎች"
+    },
+    {
+      "surface": "גתימה",
+      "gloss": "ጊታይም"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ኖሩ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "መጻእኞች ሆነው"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:01:29.779840079Z",
+  "model": "glm-5.3"
+}

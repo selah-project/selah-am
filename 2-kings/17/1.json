@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "2-kings 17:1",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "በአሥራ ሁለተኛው ዓመት ለአካዝ የይሁዳ ንጉሥ፣ ሆሴዓ የኤላ ልጅ በሰማርያ በእስራኤል ላይ አገለገለ ዘጠኝ ዓመታት።",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "በ…ዓመት"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "ለአካዝ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "የይሁዳ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "አገለገለ"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "ሆሴዓ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ኤላ"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "በሰማርያ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ዘጠኝ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:49:58.448464496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እርሱም አለ፤ ምን አደረግህ? የወንድምህ ደም ድምፅ ከምድሩ ወደ እኔ ይጮካል።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "አደረግህ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "የወንድምህ"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "ይጮካል"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:07.659955919Z",
+  "model": "glm-5.3"
+}

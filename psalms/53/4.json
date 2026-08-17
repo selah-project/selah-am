@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 53,
+  "translation": "ሁሉም ፈነቀለ፣ አብረው ተበላሹ፤ መልካም የሚያደርግ የለም፣ እንኳን አንድ እንኳ የለም።",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "סג",
+      "gloss": "ፈነቀለ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "አብረው"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "ተበላሹ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "የሚያደርግ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንኳን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:01.080451523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "በእውነት የክፉ አፍ እና የሽብር አፍ በእኔ ላይ ከፈቱ፤ በሐሰት ምላስ ⟨את⟩ ከእኔ ጋር ተናገሩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፍ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "የክፉ"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "እና የ…አፍ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "የሽብር"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "ከፈቱ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ተናገሩ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ከእኔ ጋር"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ምላስ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "በሐሰት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:58.575434902Z",
+  "model": "glm-5.3"
+}

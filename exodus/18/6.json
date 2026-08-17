@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "exodus 18:6",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ለሞሼም እንዲህ አለው፦ እኔ የአገር ልጅህ ባል ይጽሐቅ ወደ አንተ መጣሁ፤ ባለቤትህም ከሁለቱ ልጆቿ ጋር ከእርሷ ጋር ⟨ናትና⟩።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለሞሼ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "חתנך",
+      "gloss": "የአገር ልጅህ ባል"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "ይጽሐቅ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጣሁ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "ባለቤትህም"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ከሁለቱ"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ልጆቿ"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ከእርሷ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:18:47.995552004Z",
+  "model": "glm-5.3"
+}

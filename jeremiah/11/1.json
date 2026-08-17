@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ወደ ኢያርሚያስ ከያህዌህ ⟨את⟩ የመጣው ቃል እንዲህ ሲል፦",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ...-ው"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ኢያርሚያስ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:45:37.469619809Z",
+  "model": "glm-5.3"
+}

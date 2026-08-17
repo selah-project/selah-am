@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "numbers 1:20",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የሩቤል የእስራኤል ብክር ልጆች ነበሩ፤ በምዝገባቸው በስም ቁጥር በአባቶቻቸው ቤት እንደ ወገኖቻቸው የወለዳቸው ነበር፤ ከሃያ ዓመት በላይ ሁሉ ወንድ፣ ወደ ጦር የሚወጣ ሁሉ።",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ነበሩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "የሩቤል"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "ብክር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "የወለዳቸው"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "እንደ ወገኖቻቸው"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "አባቶቻቸው"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "በቁጥር"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "በስም"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "በምዝገባቸው"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ወንድ"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "ከ…ወንድ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ሃያ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "የሚወጣ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ወደ ጦር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:04:03.838920166Z",
+  "model": "glm-5.3"
+}

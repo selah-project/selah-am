@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 3:3",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እንዲህም አልኋት፦ ብዙ ቀናት ለእኔ ታረፊ፤ አትታሹም፣ ለወንድም ትሆኚ አይደለም፤ እኔም እንዲሁ ለአንቺ እሆናለሁ።",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "አልኋት"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "እንዲህ ወደ እርሷ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "ታረፊ\/ትኖሪ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תזני",
+      "gloss": "ታሹም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תהיי",
+      "gloss": "ትሆኚ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ለወንድ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እኔም እንዲሁ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንቺ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:00:37.928771562Z",
+  "model": "glm-5.3"
+}

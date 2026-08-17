@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 65,
+  "translation": "የባሕርውን አውድማ የሞገዶቿን አውድማ ያስታግሳል፤ እና የሕዝቦችን ከቢዝ ያስታግሳል።",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "ያስታግሳል"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "አውድማ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "የባሕር"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "አውድማ"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "ሞገዶቻቸውን"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "እና ከቢዝ"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ሕዝቦች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:25.169691988Z",
+  "model": "glm-5.3"
+}

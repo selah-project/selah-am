@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "jeremiah 13:4",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ያገኘኸውን፣ በወገብህ ላይ ያለውን ⟨את⟩ ማንጠባጠቢያውን ውሰድ፤ ተነሥ፣ ወደ ፐራት ሂድ፣ በዚያም በዐለት ክፍተት ደብቀው።",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ውሰድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማንጠባጠቢያውን"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "ማንጠባጠቢያውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያገኘኸውን (የ…ውን)"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "ገዛህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "ወገብህ"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "ተነሥ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "ወደ ፐራት"
+    },
+    {
+      "surface": "וטמנהו",
+      "gloss": "ደብቀው"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያም"
+    },
+    {
+      "surface": "בנקיק",
+      "gloss": "በክፍተት"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "የዐለት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:48:39.986484613Z",
+  "model": "glm-5.3"
+}

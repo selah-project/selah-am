@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ያሆሽዕ ሕዝቡ በሚጮህበት ጊዜ ⟨את⟩ ድምፁን ሰማ፤ ሞሼንም «በሰፈሩ ውስጥ የጦርነት ድምፅ ⟨ነው⟩» አለው።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ያሆሽዕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምፅ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "በሚጮህበት ጊዜ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ጦርነት"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "በሰፈሩ ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:33:40.852491290Z",
+  "model": "glm-5.3"
+}

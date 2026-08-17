@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 67,
+  "translation": "ለመዘማሪው፣ በእንድሮ ዘፈኖች፤ መዝሙር፣ ዜማ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመዘማሪው"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "በእንድሮ ዘፈኖች"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ዜማ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:13.793222580Z",
+  "model": "glm-5.3"
+}

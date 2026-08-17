@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "የከሸድያውያን ሠራዊት ንጉሡን አሳደዱ፣ በየሪሆን ሜዳዎችም ⟨את⟩ አገኙት፤ ሠራዊቱም ሁሉ ከእርሱ ተበታተነ።",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "አሳደዱ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ሠራዊት"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "የከሸድያውያን"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ከኋላ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡን"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "አገኙት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "በሜዳዎች"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "የየሪሆን"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እናም ሁሉ"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ሠራዊቱ"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "ተበታተነ"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ከእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:57:03.677345065Z",
+  "model": "glm-5.3"
+}

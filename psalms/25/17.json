@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 25:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "የልቤ ጭንቀቶች ተሰፉ፤ ከመከራዬ ሁሉ አውጣኝ።",
+  "tokens": [
+    {
+      "surface": "צרות",
+      "gloss": "ጭንቀቶች"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "የልቤ"
+    },
+    {
+      "surface": "הרחיבו",
+      "gloss": "ተሰፉ"
+    },
+    {
+      "surface": "ממצוקותי",
+      "gloss": "ከመከራዬ"
+    },
+    {
+      "surface": "הוציאני",
+      "gloss": "አውጣኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:39.128842455Z",
+  "model": "glm-5.3"
+}

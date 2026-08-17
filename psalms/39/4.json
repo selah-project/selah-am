@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "ልቤ በውስጤ ሞቀ፤ በማሰቤ እሳት ተነካለት፤ በምላሴም ተናገርኩ።",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "ሞቀ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "በውስጤ"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "በማሰቤ"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ተነካለት"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ተናገርኩ"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "በምላሴ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:26.303406362Z",
+  "model": "glm-5.3"
+}

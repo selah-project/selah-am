@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 56,
+  "translation": "በኤሎሂም ተስፋ አድርጌያለሁ፤ አልፍራም፤ ሰው ምን ያደርግብኛል?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "በኤሎሂም"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ተስፋ አድርጌያለሁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ፍራም"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ያደርግብኛል?"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:35.184683765Z",
+  "model": "glm-5.3"
+}

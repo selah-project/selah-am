@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 145,
+  "translation": "እጅህን ⟨את⟩ ትከፍታለህ፤ እና ለሁሉም ሕያው ምኞቱን ታበላልፋለህ።",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "ትከፍታለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጅህን"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህን"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "እና ታበላልፋለህ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ምኞቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:43.721253006Z",
+  "model": "glm-5.3"
+}

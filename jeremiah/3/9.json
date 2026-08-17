@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እንዲሁም ከዝሙቷ ብርታት ምድሩን ⟨את⟩ አረከሰች፣ ከድንጋይም ⟨את⟩ ጋር ከእንጨትም ⟨את⟩ ጋር አመነዘረች።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "ብርታት"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "ዝሙቷ"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "አረከሰች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሩን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩን"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "አመነዘረች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድንጋይ"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ድንጋይ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "እንጨት"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "እንጨት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:35:48.281049050Z",
+  "model": "glm-5.3"
+}

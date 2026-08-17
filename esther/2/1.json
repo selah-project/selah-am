@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ከእነዚህ ነገሮች በኋላ፣ የአክስዌሮስ ንጉሡ ቍጣ ሲቀነስ ወሽታምን ⟨את⟩ አሰበ፣ ያደረገችውንም ⟨את⟩ እና በእርሷ ላይ የተወሰነውንም ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "ከ…በኋላ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ነገሮች"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "ሲቀነስ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ቍጣ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "አክስዌሮስ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "አሰበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወሽታምን"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ወሽታም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ያደረገችውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ያደረገችው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የተወሰነውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "የተወሰነው"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "በእርሷ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:18:27.431611748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "joshua 8:11",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ከእርሱ ጋር ⟨את⟩ የነበሩት የውጊያ ሕዝብ ሁሉ ወጣ፤ ቀረቡም፤ ከከተማዋ ፊት ለፊትም መጡ፤ በአይ ሰሜን አዳሩ፤ አዳሪውም ⟨በእርሱ⟩ እና በአይ መካከል ⟨ነበር⟩።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "የውጊያ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የነበሩት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ከእርሱ ጋር"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "ቀረቡ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ፊት ለፊት"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "አዳሩ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ከሰሜን"
+    },
+    {
+      "surface": "לעי",
+      "gloss": "ወደ አይ"
+    },
+    {
+      "surface": "והגי",
+      "gloss": "እና አዳሪው"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "በ…መካከል"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እና"
+    },
+    {
+      "surface": "העי",
+      "gloss": "አይ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:02:49.304425289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ለመሠዊያውም በቆሎችን ታደርጋለህ — የሰሙጥ የእንጨት በቆሎች፤ ነሐስም ⟨את⟩ ትሸልማቸዋለህ።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "በቆሎችን"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "ለመሠዊያው"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "በቆሎች"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "የእንጨት"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "የሰሙጥ"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ትሸልማቸዋለህ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ነሐስ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ነሐስ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:25:03.494567616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የሰሎሞንም ልጅ ረሐበዓም ነበር፤ አቢያ ልጁ፣ አሳ ልጁ፣ ይሆሳፓጥ ልጁ።",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ልጅም"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "የሰሎሞን"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ረሐበዓም"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "አቢያ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "አሳ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "ይሆሳፓጥ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:35:21.864785715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "hosea 6:10",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "በይስራኤል ቤት ውስጥ የሚያስፈርህ ነገር አይቼያለሁ፤ እዚያ ለኤፍሬም ፍትሻ አለ፤ እስራኤል ተርኵሷል።",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የይስራኤል"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "አይቼያለሁ"
+    },
+    {
+      "surface": "שעריריה",
+      "gloss": "የሚያስፈርህ ነገር"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "ፍትሻ"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ለኤፍሬም"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "ተርኵሷል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T08:57:51.625690871Z",
+  "model": "glm-5.3"
+}

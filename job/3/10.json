@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ሆን እንጂ የማኅፀኔን በሮች አልዘጋቸውም፤ እና መከራን ከዓይኖቼ አልሰወረም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ሆን እንጂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ዘጋ"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "በሮችን"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "የማኅፀኔን"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "አልሰወረም"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "መከራን"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "ከዓይኖቼ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:39:21.915106150Z",
+  "model": "glm-5.3"
+}

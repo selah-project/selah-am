@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ለራሴ የውሃ ማጠራቀሚያዎችን ሠራሁ፤ ከእነሱም የሚበቅል ዛፍ ያለውን ጫካ ለማጠጣት።",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "ሠራሁ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለራሴ"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "የውሃ ማጠራቀሚያዎችን"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "ለማጠጣት"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ከእነሱም"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ጫካ"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "የሚበቅል"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ዛፍ ያለው"
+    }
+  ],
+  "timestamp": "2026-08-16T11:13:48.343166327Z",
+  "model": "glm-5.3"
+}

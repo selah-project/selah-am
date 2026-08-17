@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "ለባዓል ፌኦር ተሳሰሩ እና የሙታንን መሥዋዕቶች በሉ።",
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "ተሳሰሩ"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ለባዓል"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "ፌኦር"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "መሥዋዕቶችን"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "ሙታን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:52.274242120Z",
+  "model": "glm-5.3"
+}

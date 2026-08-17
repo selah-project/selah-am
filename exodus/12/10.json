@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ከእርሱም እስከ ንᑜረም አትተዉ፤ እስከ ጠዋትም የሚቀረው በእሳት ታቃጥሉት።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "አትተዉም"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "ትተዋላችሁ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእርሱ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ጠዋት"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "የሚቀረውም"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእርሱ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ጠዋት"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "ታቃጥሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:12:58.070995086Z",
+  "model": "glm-5.3"
+}

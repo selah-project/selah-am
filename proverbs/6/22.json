@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "በምትሄድበት ጊዜ እርሷ ትመራሃለች፤ በምትተኛበት ጊዜ ⟨את⟩ ትጠብቅሃለች፤ በተነሣህም ጊዜ እርሷ ትነግርሃለች።",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "በምትሄድበት ጊዜ"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "ትመራሃለች"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "አንተ"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "በምትተኛበት ጊዜ"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ትጠብቅሃለች"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "በአንተ ላይ"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "በተነሣህም ጊዜ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እርሷ"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "ትነግርሃለች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:22:53.163101587Z",
+  "model": "glm-5.3"
+}

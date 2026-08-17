@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "1-chronicles 23:22",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ኤልዓዛርም ሞተ፤ ልጆችም አልነበሩትም ነገር ግን ሴት ልጆች ነበሩት፤ የቂስ ልጆችም የእነርሱ ወንድማማቾች እነርሱን አገቡ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተም"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ኤልዓዛር"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና… አል… ም"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ነበሩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ሴት ልጆች"
+    },
+    {
+      "surface": "וישאום",
+      "gloss": "አገቡአቸውም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "ቂስ"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ወንድማማቾቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T13:12:44.149803525Z",
+  "model": "glm-5.3"
+}

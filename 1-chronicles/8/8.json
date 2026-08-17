@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እና ሳህራይም በሞአብ ስፍራ ከወለደ በኋላ — ከላኳቸው በኋላ እነርሱን ⟨את⟩ ሑሺምን እና ⟨את⟩ ባዓራን የእርሱ ሚስቶች (ናቸው)።",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "እና ሳህራይም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "በስፍራ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞአብ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ላኳቸው"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ እነርሱን",
+      "marks": "ሑሺም"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "ሑሺም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ባዓራ"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "ባዓራ"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "የእርሱ ሚስቶች"
+    }
+  ],
+  "timestamp": "2026-08-16T12:42:47.691447581Z",
+  "model": "glm-5.3"
+}

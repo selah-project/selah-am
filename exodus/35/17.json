@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "⟨את⟩ የአዳራሹን ቅጠል መጋረጃዎች፣ ⟨את⟩ ዓምዶቹን እና ⟨את⟩ መሠረቶቹን፣ እና ⟨את⟩ የአዳራሡን በር መከራከር፤",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የቅጠል መጋረጃዎቹ"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "ቅጠል መጋረጃዎች"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "የአዳራሹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓምዶቹ"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "ዓምዶቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መሠረቶቹን"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "መሠረቶቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መከራከሩ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "መከራከር"
+    },
+    {
+      "surface": "שער",
+      "gloss": "የበሩ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "የአዳራሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:31:20.371107637Z",
+  "model": "glm-5.3"
+}

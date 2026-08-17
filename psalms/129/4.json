@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 129,
+  "translation": "ያህዌህ ጻድቅ ነው፤ የክፉዎችን ገመዶች ቈርጦ አስወግዳል።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቅ"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "ቈርጦ አስወግዳል"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "ገመዶችን"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "የክፉዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:41.794810924Z",
+  "model": "glm-5.3"
+}

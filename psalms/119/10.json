@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "በመላው ልቤ ፈልጌሃልህ፤ ከትእዛዞችህ አታ ዘንጋኝ።",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "በመላው"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "ፈልጌሃልህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አታ"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "ዘንጋኝ"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "ከትእዛዞችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:01.846957941Z",
+  "model": "glm-5.3"
+}

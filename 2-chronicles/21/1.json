@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "2-chronicles 21:1",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "የያህዌህፋጥ ከአባቶቹ ጋር ተኛቀለት፣ ከአባቶቹ ጋር በዳዊት ከተማ ተቀበረ፤ ልጁ የሆነው የሆሮም በርሱ ፋንታ መንገሠ።",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ተኛቀለት"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "የያህዌህፋጥ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "አባቶቹ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ተቀበረ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "አባቶቹ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "በ…ከተማ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "መንገሠ"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "የሆሮም"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "በርሱ ፋንታ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:57:49.059845785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "እኔ ወደ አንተ ጮኻለሁ ልክ እንደሚመልሱኝ፤ አረጋዊው ኤል ሆይ፣ ጥምርታህን ወደ እኔ አዙር፣ ቃሌን ስማ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ወደ አንተ ጮኻለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ልክ እንደ"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ሚመልሱኝ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል ሆይ"
+    },
+    {
+      "surface": "הט",
+      "gloss": "አዙር"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ጥምርታህን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ስማ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ቃሌን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:25.597492227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "ጥፋት ሳያውቅ ይመጣው፤ የሰወረውም መረቱ ያጠማው፤ በዚያው ጥፋት ውስጥ ይወድቃል።",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "ይመጣው"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "ጥፋት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ሳያውቅ አይ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ዐውቆም"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "መረቱም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "የሰወረው"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "ያጠማው"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "በጥፋት"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ይወድቃል"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሷ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:42.124076929Z",
+  "model": "glm-5.3"
+}

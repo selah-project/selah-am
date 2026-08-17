@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "ሰይፍህን በጭንህ ላይ ጠብቅ፣ ኃያል ሆይ፣ ክብርህና ክብርህ።",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "ጠብቅ"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "ሰይፍህን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ጭን"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ኃያል ሆይ"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ክብርህ"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "እና ክብርህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:17.057633052Z",
+  "model": "glm-5.3"
+}

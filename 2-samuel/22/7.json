@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "2-samuel 22:7",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "በጭንቀት ያህዌህን እጠራለሁ፤ ወደ ኤሎሄይ እጠራለሁ፤ ከቤተ መቅደሱም ድምፄን ሰማ፤ ጩኸቴም በጆሮዎቹ ደረሰ።",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "በጭንቀት"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "እጠራለሁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሄይ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "እጠራለሁ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "ከቤተ መቅደሱ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ድምፄን"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "ጩኸቴም"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "በጆሮዎቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:07:15.861321691Z",
+  "model": "glm-5.3"
+}

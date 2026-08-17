@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ሳኦልም እስከ ዐማሌቃውያን ከተማ ድረስ መጣ፤ በወንዙም ውስጥ ሽምቅ አደረገ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ…ድረስ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ዐማሌቃውያን"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "ሽምቅ አደረገ"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "በወንዙ ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:40:46.623308284Z",
+  "model": "glm-5.3"
+}

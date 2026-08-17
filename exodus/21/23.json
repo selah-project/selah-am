@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ነገር ግን ጉዳት ቢሆን፣ ነፍስን በነፍስ አካል ታስረክላለህ።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ነገር ግን ከሆነ"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "ጉዳት"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ቢሆን"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ታስረክላለህ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስን"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ… አካል"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:20:36.108776328Z",
+  "model": "glm-5.3"
+}

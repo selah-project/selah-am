@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-samuel 11:10",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "የያቤስ ሰዎችም እንዲህ አሉ፦ ነገ ወደ እናንተ እንወጣለን፤ እናንተም በዓይናችና የሚታይን ሁሉ አድርጉልን።",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "አሉ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "የ…ሰዎች"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "ያቤስ"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ነገ"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "እንወጣለን"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ወደ እናንተ"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "አድርጉልን"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "እንደ ሁሉ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "የሚታይ"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "በዓይናችና"
+    }
+  ],
+  "timestamp": "2026-08-16T05:37:45.685384146Z",
+  "model": "glm-5.3"
+}

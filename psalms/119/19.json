@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "እኔ በምድር ላይ መጓጓዥ ነኝ፤ ትእዛዞችህን ከእኔ አትሰውር።",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "መጓጓዥ፣ እንግዳ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር ላይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት፥ አትበል"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "አትሰውር"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ትእዛዞችህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:09.032854789Z",
+  "model": "glm-5.3"
+}

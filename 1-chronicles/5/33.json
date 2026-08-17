@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "መራዮት ⟨את⟩ አማርያን ወለደ፤ አማርያምም ⟨את⟩ አኪጢብን ወለደ።",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "መራዮት"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አማርያ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "አማርያ"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "አማርያምም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አኪጢብ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "አኪጢብ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:37:19.109294563Z",
+  "model": "glm-5.3"
+}

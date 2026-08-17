@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እስማለሁ፤ በአንተም እደሰታለሁ፤ ስምህን እዘምራለሁ ዐላዊ።",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "እስማለሁ"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "እደሰታለሁ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "እዘምራለሁ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህን"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ዐላዊ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:55.108369772Z",
+  "model": "glm-5.3"
+}

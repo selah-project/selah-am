@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ሳምኤም ሲረግም እንዲህ አለ፦ «ውጣ፥ ውጣ፥ የደም ሰው፥ የክፉ ሰው ሆይ።»",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ሳምኤ"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "ሲረግም"
+    },
+    {
+      "surface": "צא",
+      "gloss": "ውጣ"
+    },
+    {
+      "surface": "צא",
+      "gloss": "ውጣ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "የደም"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "እና ሰው"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "የክፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:03:20.043181410Z",
+  "model": "glm-5.3"
+}

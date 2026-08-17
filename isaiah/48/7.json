@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "isaiah 48:7",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "አሁን ተፈጠሩ፤ ከዚያን ጊዜ አልነበሩም፤ ከዕለቱ በፊትም አልሰማቸውም፤ እነሆ አውቌአቸዋለሁ እንዳትል።",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "נבראו",
+      "gloss": "ተፈጠሩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አልነበሩም"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ከዚያን ጊዜ"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ከ… በፊትም"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ዕለቱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል… ም"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "ሰማቸው"
+    },
+    {
+      "surface": "פן",
+      "gloss": "እንዳትል"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ትል"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "ידעתין",
+      "gloss": "አውቄአቸዋለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:23:53.303251485Z",
+  "model": "glm-5.3"
+}

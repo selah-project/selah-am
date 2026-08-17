@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የጎሜር ልጆችም አስክናዝ፣ ዲፋት እና ቶጋርማ ናቸው።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "እና የ… ልጆች"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ጎሜር"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "አስክናዝ"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "እና ዲፋት"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "እና ቶጋርማ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:31:02.340040780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "እጇንም ትቆርጣታለች፤ ዐይንህም አታዝናታትም።",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "ትቆርጣታለች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጇን"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "እጇን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አታዝና"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ታዝናታትም አት"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ዐይንህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:49:00.369046728Z",
+  "model": "glm-5.3"
+}

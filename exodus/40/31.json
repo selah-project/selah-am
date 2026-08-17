@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ከእርሱም ሞሼ፣ አሃሮንና ልጆቹ እጆቻቸውን ⟨את⟩ እና እግሮቻቸውን ⟨את⟩ ታጠቡ።",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "ታጠቡ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእርሱ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "እና ልጆቹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጆቻቸውን"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "እጆቻቸውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እግሮቻቸውን"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "እግሮቻቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:40:33.451805657Z",
+  "model": "glm-5.3"
+}

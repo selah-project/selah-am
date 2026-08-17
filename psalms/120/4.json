@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 120,
+  "translation": "የጀግና ቀስቶች ሰማይቃዎች፣ ከረተም ጋር ከሚቃጠሉ እንጁራች ጋር።",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "ቀስቶች"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "የጀግና"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "ሰማይቃዎች"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ...ጋር"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "እንጁራች"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "ረተም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:03.304803993Z",
+  "model": "glm-5.3"
+}

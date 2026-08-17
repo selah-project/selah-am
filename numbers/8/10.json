@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "አንተም ⟨את⟩ ሌዋውያንን በያህዌህ ፊት ታቀርባለህ፤ የእስራኤል ልጆችም እጆቻቸውን ⟨את⟩ በሌዋውያን ላይ ይጫናሉ።",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "ታቀርባለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሌዋውያንን"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ሌዋውያንን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "ይጫናሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆችም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጆቻቸውን"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "እጆቻቸውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ሌዋውያን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:11:01.822729270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ዐውያቱም ማለዳ ላይ እንጀራ እና ሥጋ፣ ማታ ላይም እንጀራ እና ሥጋ ያመጡለት ነበር፤ ከዐይኑም ይጠጣ ነበር።",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "ዐውያቱም"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "ያመጡ ነበር"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እንጀራ"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "እና ሥጋ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ማለዳ ላይ"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "እንጀራም"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "እና ሥጋ"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ማታ ላይ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ዐይኑ"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ይጠጣ ነበር"
+    }
+  ],
+  "timestamp": "2026-08-16T06:27:54.125458387Z",
+  "model": "glm-5.3"
+}

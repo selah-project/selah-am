@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "የወይን ጠሪ ነው፣ መጠጥ ደግሞ አለቃበት ነው፤ በእሱ የሚሳተፍ ሁሉ ጠበቃ አይሆንም።",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "አለቃበት"
+    },
+    {
+      "surface": "היין",
+      "gloss": "የወይን"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ነው፣ ደግሞ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "መጠጥ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "የሚሳተፍ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእሱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይሆንም"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "ጠበቃ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:31:48.481485369Z",
+  "model": "glm-5.3"
+}

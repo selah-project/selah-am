@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 108,
+  "translation": "ምክንያቱም ከሰማያት በላይ ⟨ነው⟩ ታላቅ ምሕረትህ፤ እና እስከ ደመናዎች ድረስ ⟨ነች⟩ እውነታህ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከ…በላይ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ምሕረትህ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እና እስከ…ድረስ"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ደመናዎች"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "እውነታህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:25.570496497Z",
+  "model": "glm-5.3"
+}

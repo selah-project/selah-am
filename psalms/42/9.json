@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "በቀኑ ያህዌህ ምሕረቱን ያዝዛል፤ በምሽትም ዜማ ከእኔ ጋር ይሆናል — የሕይወቴ ኤል ⟨ላይ⟩ ጸሎት።",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "በቀኑ"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "ያዝዛል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ምሕረቱን"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "በምሽትም"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "ዜማ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ከእኔ ጋር"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ጸሎት"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ለኤል"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "የሕይወቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:52.357655118Z",
+  "model": "glm-5.3"
+}

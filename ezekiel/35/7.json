@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "የሰይራ ተራራን ⟨את⟩ ለጥፋትና ለአጥፊነት አደርገዋለሁ፤ ከእርሱም የሚያልፍንና የሚመለስንም አጥፋለሁ።",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "አደርገዋለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሰይራ ተራራን"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ሰይራ"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "ለጥፋት"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "ለአጥፊነት"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "አጥፋለሁ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእርሱም"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "የሚያልፍን"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "የሚመለስን"
+    }
+  ],
+  "timestamp": "2026-08-16T08:46:13.938439209Z",
+  "model": "glm-5.3"
+}

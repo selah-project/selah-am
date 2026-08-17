@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ዳቦህን በውኆች ፊት ላይ ላክ፤ በብዙ ቀናት እርሱን ታገኘዋለህ።",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ላክ"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ዳቦህን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውኆች"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "በብዙ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "ታገኘዋለህ፤ እርሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:17:51.361023228Z",
+  "model": "glm-5.3"
+}

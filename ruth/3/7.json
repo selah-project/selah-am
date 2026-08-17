@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "ruth 3:7",
+  "book": "ruth",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ቦዓዝም በላ ጠጣም፤ ልቡም ደስ አለው፤ እርሱም ሊተኛ ወደ ⟨እህሉ⟩ መጨረሻ ሄደ፤ እርሷም በምሥጢር ገባች፤ የእግሩን ልብስ ገፈች፤ እንዲሁም ተኛች።",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "በላ"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ቦዓዝም"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "ጠጣም"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "ደስ አለው"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡም"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "ሊተኛ"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "ወደ መጨረሻ"
+    },
+    {
+      "surface": "הערמה",
+      "gloss": "እህሉ"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ገባች"
+    },
+    {
+      "surface": "בלט",
+      "gloss": "በምሥጢር"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ገፈች"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "የእግሩን"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "ተኛች"
+    }
+  ],
+  "timestamp": "2026-08-16T11:07:40.091637313Z",
+  "model": "glm-5.3"
+}

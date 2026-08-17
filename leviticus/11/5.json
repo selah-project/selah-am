@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እና ⟨את⟩ አህያ ደመኛውን ስለሚያነሳ ግን ጥምር እግር አልበከለም፤ እነሆ እርሱ ለእናንተ የተከለከለ ነው።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "አህያ ደመኛው (ሐረገ-ሥጋ)"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "አህያ ደመኛው (ሐረገ-ሥጋ)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "ያነሳል"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ደመኛውን (የተመገበውን)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "እና ጥምር እግርን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "አበክለውምም"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "የተከለከለ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለእናንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:48:50.722553135Z",
+  "model": "glm-5.3"
+}

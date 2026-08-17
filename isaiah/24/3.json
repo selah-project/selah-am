@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "በማስሆዝ ትሆዛለች ምድር፤ በማበዘብም ትበዘባለች፤ እንደ ያህዌህ ⟨את⟩ ይህን ቃል ተናግሯልና።",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "በማስሆዝ"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "ትሆዛለች"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "በማበዘብም"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "ትበዘባለች"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናግሯል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህን ቃል"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:11:43.882875532Z",
+  "model": "glm-5.3"
+}

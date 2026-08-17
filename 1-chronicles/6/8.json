@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ኤልቃና ልጁ፣ እና አብያሳፍ ልጁ፣ እና አሲር ልጁ።",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "ኤልቃና"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "እና አብያሳፍ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "እና አሲር"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:38:56.272944935Z",
+  "model": "glm-5.3"
+}

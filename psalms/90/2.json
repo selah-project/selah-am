@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 90,
+  "translation": "ተራሮች ከመወለዳቸው በፊት፣ ምድርንም ዓለምንም ከመቀረጻት በፊት፣ ከዘልአለም እስከ ዘልአለም አንተ ኤል ነህ።",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "ከፊት"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ተራሮች"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ከመወለዳቸው"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "ከመቀረጻት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "ዓለምንም"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "ከዘልአለም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘልአለም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:51.702626630Z",
+  "model": "glm-5.3"
+}

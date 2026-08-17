@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "አንተ ነህ ንጉሤ ኤሎሂም፤ መዳኞችን ለያዕቆብ ታዘዛል።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ነህ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ንጉሤ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ታዘዛል"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "መዳኞችን"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ለያዕቆብ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:20.289275308Z",
+  "model": "glm-5.3"
+}

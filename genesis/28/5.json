@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ይስሐቅም ⟨את⟩ ያዕቆብን ላከ፤ ⟨ርሱም⟩ ወደ ፓዳን አራም ሄደ — ወደ ላባን የቤቱኤል ልጅ ወደ ⟨የ⟩አራማዊው፣ የርብቃ ወንድም፣ የያዕቆብና የዔሳው እናት።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይስሐቅ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያዕቆብን"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "ፓዳን"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "አራም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ላባን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "ቤቱኤል"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "አራማዊው"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ወንድም"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ርብቃ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እናት"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "የያዕቆብ"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "እና የዔሳው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:47:45.536505890Z",
+  "model": "glm-5.3"
+}

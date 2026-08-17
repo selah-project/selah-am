@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እናቱን ⟨את⟩ በእርግጠኝነት ላክ፣ ወፍሮቹንም ⟨את⟩ ለራስህ ውሰድ፤ ደህና እንድትሆንልህ እና ቀኖችህ እንዲረዝሙ በማድረግ።",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "በእርግጠኝነት ላክ"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "በእርግጠኝነት ላክ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እናቱን"
+    },
+    {
+      "surface": "האם",
+      "gloss": "እናቱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ወፍሮቹንም"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ወፍሮቹንም"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ውሰድ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለራስህ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "በማድረግ"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ደህና እንዲሆንልህ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ልህ"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "እና እንዲረዝሙ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀኖችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:47:45.542096285Z",
+  "model": "glm-5.3"
+}

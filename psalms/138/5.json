@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 138,
+  "translation": "በያህዌህ መንገዶችም ያመሰክራሉ፣ ምክንያቱም የያህዌህ ክብር ታላቅ ነው።",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "ያመሰክራሉ፣"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "በ…መንገዶችም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:38.358397263Z",
+  "model": "glm-5.3"
+}

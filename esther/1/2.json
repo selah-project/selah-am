@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "በዚያን ዕለታት፣ የንጉሡ አኻሽወሮሽ የንግሥቱ ዙፍ በሱሳን ⟨በ⟩ቤተ መንግሥት ላይ ሲቀመጥ፣",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "በዕለታት"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ያን"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "ሲቀመጥ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "አኻሽወሮሽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ዙፍ ላይ"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "የንግሥቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኝበት"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "በሱሳን"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "በቤተ መንግሥት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:20:30.006939980Z",
+  "model": "glm-5.3"
+}

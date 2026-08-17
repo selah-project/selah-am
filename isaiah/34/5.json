@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ምክንያቱም ሰይፌ በሰማያት ተረክባለች፤ እነሆ በኤዶም ሥር ትወርዳለች፣ እና በርጉዝ የሆኑት በሕዝቤ ላይ ለፍርድ ትወርዳለች።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "ተረክባለች"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "በሰማያት"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "ሰይፌ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ሥር"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "ትወርዳለች"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ... ላይ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "የርጉዝ የሆኑት የእኔ"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ለፍርድ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:16:28.244134395Z",
+  "model": "glm-5.3"
+}

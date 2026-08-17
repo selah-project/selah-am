@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 32:26",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ሞሼም በሰፈሩ በር ቆሞ «የያህዌህ የሆነ ሰው ወደ እኔ ይምጣ» አለ፤ የሌዊ ልጆችም ሁሉ ወደ እርሱ ተሰበሰቡ።",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ቆሞ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "በሰፈሩ በር"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ሰፈሩ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "የሆነ ሰው"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ተሰበሰቡ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆችም"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "የሌዊ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:44:29.303830470Z",
+  "model": "glm-5.3"
+}

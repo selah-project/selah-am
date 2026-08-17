@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ሰሎሞን ስለ ነገራትዋ ሁሉ እሷን ⟨את⟩ ነገራት፤ ከሰሎሞን የተሰወረ ቃል የነበረው ምንም የለም፣ ያላነገራት ሳይሆን አልቀረም።",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ነገራት"
+    },
+    {
+      "surface": "לה",
+      "gloss": "እሷን"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነገራትዋ ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "ነገራትዋ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አልተሰወረም"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "የተሰወረ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "ከሰሎሞን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አልቀረም"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "አላነገራትም"
+    },
+    {
+      "surface": "לה",
+      "gloss": "እሷ"
+    }
+  ],
+  "timestamp": "2026-08-17T10:47:13.843208996Z",
+  "model": "glm-5.3"
+}

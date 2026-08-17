@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 66,
+  "translation": "ባሕሩን ወደ የበረሀ ምድር መለሰ፤ በወንዙ በእግር ተሻገሩ፤ በዚያ እኛ እናረድስበታለን።",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "መለሰ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "ወደ የበረሀ ምድር"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "በወንዙ"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "ተሻገሩ"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "በእግር"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "እናረድስበታለን"
+    },
+    {
+      "surface": "בו",
+      "gloss": "እርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:00.318823265Z",
+  "model": "glm-5.3"
+}

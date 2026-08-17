@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ትምህርቴን ውሰዱ እና ብርን ሳይሆን፤ እና እውቀትን ከተመረጠ ወርቅ።",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "ውሰዱ"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "ትምህርቴን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብርን"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "እና እውቀትን"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "ከወርቅ"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "የተመረጠ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:36.910844358Z",
+  "model": "glm-5.3"
+}

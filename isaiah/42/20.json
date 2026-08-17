@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "ብዙ ነገሮችን አይተሃል፣ እንጂ አታስተውልም፤ ክፍት የሆኑ ዦሮች አሉት፣ እንጂ ⟨እርሱ⟩ አይሰማም።",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "አይተሃል"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ብዙ ነገሮችን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንጂ"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "አታስተውልም"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "ክፍት የሆኑ"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "ዦሮች"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንጂ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "አይሰማም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:21:20.472323937Z",
+  "model": "glm-5.3"
+}

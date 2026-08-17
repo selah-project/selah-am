@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የበረሃ አህያ በለሽታ ላይ ይጮኻል? ወይስ በቆል በመኖው ላይ ያሚልም?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "ይጮኻል?"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "የበረሃ አህያ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "በለሽታ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ወይስ"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "ያሚልም?"
+    },
+    {
+      "surface": "שור",
+      "gloss": "በቆል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "በመኖው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:41:32.853295013Z",
+  "model": "glm-5.3"
+}

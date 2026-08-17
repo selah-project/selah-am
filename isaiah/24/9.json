@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "በዝማሬ ወይን አይጠጡም፤ ለሚጠጡት ጠንካራ መጠጥ መራር ይሆናል።",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "በዝማሬ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "ጠጡ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ወይን"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "መራር ይሆናል"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ጠንካራ መጠጥ"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "ለሚጠጡት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:09:42.905500394Z",
+  "model": "glm-5.3"
+}

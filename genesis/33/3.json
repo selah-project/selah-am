@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "genesis 33:3",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "እርሱም በእነርሱ ፊት አልፎ ሄደ፤ ወደ እኅዩ እስኪቀርብ ድረስ ሰባት ጊዜ ለምድር ሰገደ።",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "እርሱም"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "አልፎ ሄደ"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "በእነርሱ ፊት"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ሰገደ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ለምድር"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪ…ድረስ"
+    },
+    {
+      "surface": "גשתו",
+      "gloss": "እስኪቀርብ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "እኅዩ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:49:16.547200432Z",
+  "model": "glm-5.3"
+}

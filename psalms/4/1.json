@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ለመሪው በመርፌ ዘፈኖች ምዝሙር ለዳዊት።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመሪው"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "በመርፌ ዘፈኖች"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ምዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:29:03.728605843Z",
+  "model": "glm-5.3"
+}

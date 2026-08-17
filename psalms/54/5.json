@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 54,
+  "translation": "የሆነው እንግዶች ተነሱብኝ፣ አጃቢዎችም ነፍሴን ፈለጉ፤ ኤሎሂምን በፊታቸው አልደረጉም። ሰላ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "የሆነው"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "እንግዶች"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ተነሱብኝ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "አጃቢዎችም"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ፈለጉ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ደረጉ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂምን"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "በፊታቸው"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:45:40.725256690Z",
+  "model": "glm-5.3"
+}

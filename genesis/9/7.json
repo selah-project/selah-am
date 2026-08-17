@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እናንችም ተበዝቡና ብዙ ይሁኑ፤ በምድር ተስፋፉ፤ እና በእርሷ ብዙ ይሁኑ።",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "እናንችም"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "ተበዝቡ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "እና ብዙ ይሁኑ"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "ተስፋፉ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "እና ብዙ ይሁኑ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሷ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:32:07.524103120Z",
+  "model": "glm-5.3"
+}

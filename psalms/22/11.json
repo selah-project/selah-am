@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "በአንተ ላይ ተጣልኩ ከማኅፀን፤ ከእናቴ ሆድ ጀምሮ ኤል የኔ አንተ ⟨ነህ⟩።",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "በአንተ ላይ"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "ተጣልኩ"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ከማኅፀን"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ከሆድ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "እናቴ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ኤል የኔ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:44.846003347Z",
+  "model": "glm-5.3"
+}

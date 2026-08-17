@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 74,
+  "translation": "በልባቸው አሉ፦ እነሱን በአንድነት እናገፋቸው፤ የኤልን ሁሉን መሰብሰቢያዎች በምድር ውስጥ አቃጠሉ።",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "አሉ"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "በልባቸው"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "እናገፋቸው"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "በአንድነት"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "አቃጠሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "መሰብሰቢያዎች"
+    },
+    {
+      "surface": "אל",
+      "gloss": "የኤልን"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:22.921311217Z",
+  "model": "glm-5.3"
+}

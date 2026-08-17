@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 3:2",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የንጉሡ አገልጋዮች ሁሉ በንጉሡ በር ያሉ ለሃማን ይደፍኑ ነበር፣ ይሰግዱም ነበር፤ በርሱ ስለ እንዲህ አዘዘ ንጉሡ፤ ሞርደቃይ ግን አይደፍንም ነበር፣ አይሰግድምም ነበር።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "አገልጋዮች"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "በበር"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "כרעים",
+      "gloss": "ይደፍኑ ነበር"
+    },
+    {
+      "surface": "ומשתחוים",
+      "gloss": "ይሰግዱም ነበር"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "ለሃማን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "በርሱ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "ומרדכי",
+      "gloss": "እና ሞርደቃይ ግን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "יכרע",
+      "gloss": "ይደፍንም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ...ም"
+    },
+    {
+      "surface": "ישתחוה",
+      "gloss": "ይሰግድም"
+    }
+  ],
+  "timestamp": "2026-08-16T20:32:41.800115901Z",
+  "model": "glm-5.3"
+}

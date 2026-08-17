@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "ከባሪያዎችህ ከማን ዘንድ የሚገኘው ⟨אתו⟩ ያለው ይሙት፤ እኛም ሆንን ለጌታዬ ⟨לאדני⟩ ባሪያዎች።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኘው"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ይገኝ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ከባሪያዎችህ ከሆነው ጋር"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "ከባሪያዎችህ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ይሙት"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እኛም ሆንን"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "እኛ"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "እንሆናለን"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ለጌታዬ"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "ባሪያዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T03:00:00.116177823Z",
+  "model": "glm-5.3"
+}

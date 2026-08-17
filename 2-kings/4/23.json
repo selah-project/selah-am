@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "2-kings 4:23",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እርሱም «ለምን ዛሬ ወደ እርሱ ትሄያለሽ? የወር መጀመሪያ አይደለም፣ ሰንበትም አይደለም» አለ፤ እርሷም «ሰላም» አለች።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "አንቺ"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ትሄያለሽ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "የወር መጀመሪያ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይደለም"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ሰንበት"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "አለች"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:38:12.106780666Z",
+  "model": "glm-5.3"
+}

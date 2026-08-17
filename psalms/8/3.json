@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ከሕፃናት እና ከጡት ማጥባት ከአፋቸው ኃይል መሠረትህ፣ ስለ ጠላቶችህ፣ ጠላትንና ተበቀል አድራሽን ለማስታገስ።",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "ከአፋቸው"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "ሕፃናት"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "እና ጡት ማጥባት"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "መሠረትህ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ኃይል"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "ጠላቶችህ"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "ለማስታገስ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ጠላትን"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "እና ተበቀል አድራሽን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:29:22.908957938Z",
+  "model": "glm-5.3"
+}

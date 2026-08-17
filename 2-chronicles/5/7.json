@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 5:7",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ካህናኑም ⟨את⟩ የያህዌህ ቃል ኪዳን ታቦን ወደ ስፍራው — ወደ ቤቱ ውስጣዊ መቅደስ፣ ወደ ቅዱሳን ቅዱስ፣ ወደ ክሩቤሎች ክንፎች ሥር — አመጡ።",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "አመጡ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናኑም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦን"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦን"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ቃል ኪዳን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ስፍራው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "ውስጣዊ መቅደስ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "የቤቱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱሳን ቅዱስ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "—"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ሥር"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ክንፎች"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "የክሩቤሎች"
+    }
+  ],
+  "timestamp": "2026-08-16T18:37:41.246429510Z",
+  "model": "glm-5.3"
+}

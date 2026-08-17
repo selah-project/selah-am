@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ብቃት ያላት ሴት ለባሏ አክሊል ⟨ናት⟩፤ ያሳፊዋ ግን በአጥንቶቹ ውስጥ ቅሪት ⟨ናት⟩።",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ብቃት ያላት"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "አክሊል"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ለባሏ"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "እና እንደ ቅሪት"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "በአጥንቶቹ"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "ያሳፊዋ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:27:04.156463381Z",
+  "model": "glm-5.3"
+}

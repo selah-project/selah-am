@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 98,
+  "translation": "በያህዌህ ፊት፣ ምክንያቱም ⟨ርሱ⟩ ምድርን ለመፍረድ መጥቷል፤ ዓለሙን በጽድቅ ይፈርዳል፣ አሕዛብንም በቅናኔት ይፈርዳል።",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "በ…ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጥቷል"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ለመፍረድ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ይፈርዳል"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ዓለሙን"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "በጽድቅ"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "አሕዛብንም"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "በቅናኔት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:32.205862494Z",
+  "model": "glm-5.3"
+}

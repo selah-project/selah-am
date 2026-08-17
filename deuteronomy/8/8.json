@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "የስንድ፣ የገብስ፣ የወይን ዛፍ፣ የበለስ እና የሮማን ምድር፤ የወይራ ዘይት እና የማር ምድር።",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "ስንድ"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "እና ገብስ"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "እና ወይን ዛፍ"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "እና በለስ"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "እና ሮማን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ወይራ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘይት"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "እና ማር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:38:14.993813496Z",
+  "model": "glm-5.3"
+}

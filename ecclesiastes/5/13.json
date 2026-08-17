@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እና ያ ሀብት በክፉ ጉዳይ ይጠፋል፤ ወንድ ልጅም ያስወልዳል፣ በእጁም ውስጥ ምንም የለውም።",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "ይጠፋል"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "⟨ያ⟩ ሀብት"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "በጉዳይ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "ያስወልዳል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወንድ ልጅ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለውም"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "በእጁ ውስጥ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ምንም"
+    }
+  ],
+  "timestamp": "2026-08-16T11:16:11.621780226Z",
+  "model": "glm-5.3"
+}

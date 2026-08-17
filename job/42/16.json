@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "አይዮብም ከዚህ በኋላ መቶ እና አርባ ዓመታት ኖረ፤ ⟨את⟩ ልጆቹን እና ⟨את⟩ የልጆቹን ልጆች — አራት ትውልዶች — አየ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ኖረ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "አይዮብ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከዚህ በኋላ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህችን"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "እና አርታ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጆቹን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ልጆቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የልጆቹን ልጆች"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ ልጆች"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ልጆቹ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "አራት"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "ትውልዶች"
+    }
+  ],
+  "timestamp": "2026-08-16T11:02:35.597109889Z",
+  "model": "glm-5.3"
+}

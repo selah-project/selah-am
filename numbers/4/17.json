@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ያህዌህ እንዲህ ሲል ሞሼን እና አሃሮንን ተናገረ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:06:44.752250178Z",
+  "model": "glm-5.3"
+}

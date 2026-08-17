@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ከዳን ነገዥም ⟨את⟩ ኤልተቄን ከከተማዋ መስክ ጋር፣ ⟨את⟩ ጊቤቶንን ከከተማዋ መስክ ጋር።",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ከዳን ነገዥም"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ዳን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤልተቄን"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "ኤልተቄ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ከ…ጋር ⟨את⟩",
+      "marks": "ከከተማዋ መስክ ጋር"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ከከተማዋ መስክ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጊቤቶንን"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "ጊቤቶን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ከ…ጋር ⟨את⟩",
+      "marks": "ከከተማዋ መስክ ጋር"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ከከተማዋ መስክ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:10:24.946713035Z",
+  "model": "glm-5.3"
+}

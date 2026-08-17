@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እርሱም ገብቶ ለጌታው እንዲህ ሲል አወራ፤ እንዲህና እንዲህ በለችው ከእስራኤል ምድር ⟨የሆነችው⟩ ⟨ለ⟩ሴት ልጅ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ገብቶም"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "አወራ፤"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "ለጌታው"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "እንዲህም"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "በለችው"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "ሴት ልጁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨የሆነችው⟩"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከምድር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T19:49:25.757930949Z",
+  "model": "glm-5.3"
+}

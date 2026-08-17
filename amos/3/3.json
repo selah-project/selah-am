@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ሁለት ሰዎች አብረው ይሄዳሉን ያለሚስማሙ በይ? ",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "ይሄዳሉን"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት ሰዎች"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "አብረው"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ያለ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ካል"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "ስማሙ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:02:47.649803685Z",
+  "model": "glm-5.3"
+}

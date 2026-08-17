@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ይህ በችግሬ ውስጥ መጽናናቴ ነው፤ ቃልህ ሕይወት ስለ ሰጠኝ።",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "መጽናናቴ"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "በችግሬ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ቃልህ"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "ሕይወት ሰጠኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:51.959421248Z",
+  "model": "glm-5.3"
+}

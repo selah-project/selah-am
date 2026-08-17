@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "ezekiel 1:12",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እያንዳንዱም ወደ ፊቱ አመልካቹ ይሄዳል፤ ነፍሱ ወደሚሆንበት እዚያ ለመሄድ ይሄዳሉ፤ በመሄዳቸው አይዞሩም።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "እያንዳንዱም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "አመልካቹ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱ"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ይሄዳል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ወደዚያ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ቢሆን"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ነፍሱ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ለመሄድ"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ይሄዳሉ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "יסבו",
+      "gloss": "ይዞሩ"
+    },
+    {
+      "surface": "בלכתן",
+      "gloss": "በመሄዳቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T08:15:26.555195260Z",
+  "model": "glm-5.3"
+}

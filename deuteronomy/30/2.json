@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "deuteronomy 30:2",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ወደ ያህዌህ አምላኬ ታመልሳለህ፣ በዛሬ እኔ የምያዝህን ቃል ሁሉ በድምፁ ታደምጣለህ — አንተና ልጆችህም — በሙሉ ልብህ እና በሙሉ ነፍስህ።",
+  "tokens": [
+    {
+      "surface": "ושבת",
+      "gloss": "ታመልሳለህ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "አምላኬ"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "ታደምጣለህ"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "በድምፁ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "እንደ ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "የምያዝህ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "በዛሬ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ልጆችህም"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ልብህ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "እና በሙሉ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ነፍስህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:54:30.358807642Z",
+  "model": "glm-5.3"
+}

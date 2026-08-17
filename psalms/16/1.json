@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ለዳዊድ የተጻፈ ምክትም፤ «ኤል ጠብቀኝ፣ በአንተ እስፍነኝ ወድጄ ነው።»",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "ምክትም"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊድ"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "ጠብቀኝ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደፈለግኩ"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "እስፍነኝ ወድጄ ነው"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:00.166218229Z",
+  "model": "glm-5.3"
+}

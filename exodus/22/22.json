@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "በማጨነቅ እታገሡት ወይ ⟨את⟩፤ እንዲሁም በጮኸ ሲጮህ ወደ እኔ፣ በሰማሁ እሰማ የጮኻቸውን።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "በማጨነቅ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ታገሡት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "אם",
+      "gloss": "በሚጮህ ጊዜ"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "በጮኸ"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "ሲጮህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "በሰማሁ"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "እሰማ"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "የጮኻቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:20:39.097747478Z",
+  "model": "glm-5.3"
+}

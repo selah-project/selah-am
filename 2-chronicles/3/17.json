@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እንደዚህም ⟨את⟩ ዓምዶቹን በቤተ መቅደሱ ፊት ለፊት አቆመ፤ አንዱ በቀኝ እና አንዱ በግራ፤ የቀኙን ስም ያኺን ብሎ ጠራው፤ የግራውን ስም ብዓዝ ብሎ ጠራው።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "አቆመ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓምዶቹን"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ዓምዶቹን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ለፊት"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት ለፊት"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ቤተ መቅደሱ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንዱ"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "በቀኝ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "እና አንዱ"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "በግራ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "የቀኙን"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "ያኺን"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "እና የ…ስም"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "የግራውን"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ብዓዝ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:26:56.500604485Z",
+  "model": "glm-5.3"
+}

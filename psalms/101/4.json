@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 101,
+  "translation": "የተጣባቀ ልብ ከእኔ ይርቃል፤ ክፉን አላውቅም።",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "የተጣባቀ"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ይርቃል"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "አውቅም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:12.667580872Z",
+  "model": "glm-5.3"
+}

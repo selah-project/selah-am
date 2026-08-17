@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ከሐሰት ነገር ተራቅ፤ ንጹሁንና ጻድቁንም አትገድል፤ ክፉን አልአጸድቅምና።",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ከሐሰት"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ተራቅ"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "ንጹሁን"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ጻድቁንም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "ገድል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "አጸድቅም"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:20:45.576528410Z",
+  "model": "glm-5.3"
+}

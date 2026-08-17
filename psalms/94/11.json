@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 94,
+  "translation": "ያህዌህ የሰውን ሐሳቦች ያውቃል፣ እነሱ ⟨መንፈቅ⟩ እንደ⟨ሆኑ⟩ ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ያውቃል"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ሐሳቦችን"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነሱ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "መንፈቅ \/ ባዶነት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:35.614082626Z",
+  "model": "glm-5.3"
+}

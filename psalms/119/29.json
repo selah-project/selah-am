@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "የውሸት ⟨መንገድ⟩ ከእኔ አስወግድ፤ እና በሕግህ ምሕረት አድርግልኝ።",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ውሸት"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "አስወግድ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "እና በሕግህ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ምሕረት አድርግልኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:59.381300848Z",
+  "model": "glm-5.3"
+}

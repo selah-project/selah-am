@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ሞሼም ⟨את⟩ በትሩን ከያህዌህ ፊት ወሰደ፣ አዘዘው እንደነበረው።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በትሩን"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "በትሩን"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ከፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "አዘዘው"
+    }
+  ],
+  "timestamp": "2026-08-16T04:20:15.486363088Z",
+  "model": "glm-5.3"
+}

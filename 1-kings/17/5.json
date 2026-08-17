@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "1-kings 17:5",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ሄደ፣ እንደ ያህዌህ ቃል አደረገ፤ ሄዶም በዮርዳኖስ ፊት ባለው በከሪት ዐይን ተቀመጠ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "እንደ ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄዶም"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቀመጠ"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "በዐይን"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "ከሪት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኝበት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:27:54.125159517Z",
+  "model": "glm-5.3"
+}

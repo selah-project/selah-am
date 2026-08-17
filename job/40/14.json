@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "job 40:14",
+  "book": "job",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ከዚያም እኔም አመስግንሃለሁ፤ የአንተ ቀኝ እጅ አድንሃለት እንጂ።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "እኔም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "አመስግንሃለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንጂ"
+    },
+    {
+      "surface": "תושע",
+      "gloss": "አድንሃለት"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ቀኝ እጅህ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:00:54.108184700Z",
+  "model": "glm-5.3"
+}

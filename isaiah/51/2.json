@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "isaiah 51:2",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "ወደ አብርሃም አባታችሁ ተመልከቱ እና ወደ ሣራ የወለደቻችሁ፤ ምክንያቱም አንድ ሆኖ ጠራሁት፣ አባረኩትም እና አበዛሁትም።",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "ተመልከቱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃም"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "አባታችሁ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ሣራ"
+    },
+    {
+      "surface": "תחוללכם",
+      "gloss": "የወለደቻችሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "ጠራሁት"
+    },
+    {
+      "surface": "ואברכהו",
+      "gloss": "አባረኩትም"
+    },
+    {
+      "surface": "וארבהו",
+      "gloss": "አበዛሁትም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:27:16.061531836Z",
+  "model": "glm-5.3"
+}

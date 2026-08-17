@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 39:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "አልኩ፤ መንገዴን እጠንቀቃለሁ፣ በምላሴ እንዳልወደድኩ፤ ክፉ በፊቴ ሳለ ለአፌ መዝጊያ እቀምጣለሁ።",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "አልኩ"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "እጠንቀቃለሁ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "መንገዴን"
+    },
+    {
+      "surface": "מחטוא",
+      "gloss": "እንዳልወደድኩ"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "በምላሴ"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "እቀምጣለሁ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ለአፌ"
+    },
+    {
+      "surface": "מחסום",
+      "gloss": "መዝጊያ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ሳለ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "በፊቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:26.303120433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "የሙሉ መስዋዕቱን ⟨את⟩ ማሕረግ በመሰብሰቢያው ድንኳን መግቢያ ፊት ታደርጋለህ።",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማሕረጉን"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ማሕረግ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "የሙሉ መስዋዕት"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "መግቢያ"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ማደሪያ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መሰብሰቢያ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:40:24.050294540Z",
+  "model": "glm-5.3"
+}

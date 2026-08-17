@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 59,
+  "translation": "በእውነት እነሆ ሕይወቴን ለመደበቅ ቆለሙ፤ ኃያላን ተሰበሰቡብኝ፤ የእኔ ይኸው ኃጢኤት አይደለም፣ ኃጢኤቴም አይደለችም ያህዌህ ሆይ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "ቆለሙ"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ሕይወቴን"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ተሰበሰቡ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ብኔ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ኃያላን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "እኔ የምበዳለው"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይደለችምም"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ኃጢኤቴ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:05.116939321Z",
+  "model": "glm-5.3"
+}

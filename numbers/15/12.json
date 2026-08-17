@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "በምታዘጋጁት በቍጥር መጠን ለእያንዳንዱ እንደ ቍጥራቸው እንዲህ ታደርጋላችሁ።",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "በቍጥር መጠን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ምታዘጋጁት"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ታደርጋላችሁ"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ታደርጋላችሁ"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ለእያንዳንዱ"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "እንደ ቍጥራቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T04:15:59.737922466Z",
+  "model": "glm-5.3"
+}

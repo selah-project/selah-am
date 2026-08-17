@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "proverbs 4:10",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ልጄ ሆይ፣ ስማ፤ ቃሌን ተቀበል፤ የሕይወት ዓመታትም ይብዙልሃል።",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ስማ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጄ ሆይ"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "ተቀበል"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ቃሌን"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "ይብዙልሃል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለህ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "የሕይወት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:20:44.896182628Z",
+  "model": "glm-5.3"
+}

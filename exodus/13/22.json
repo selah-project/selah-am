@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "የደመናው ዐምድ ቀን ሳለ፣ የእሳቱም ዐምድ ሌሊት ሳለ፣ ከሕዝቡ ፊት ሆኖ አልተነሳም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "ተነሳም"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "ዐምድ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "የደመናው"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ቀን ሳለ"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "የእሳቱም ዐምድ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "የእሳቱ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ሌሊት ሳለ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ከ…ፊት"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:13:16.825561434Z",
+  "model": "glm-5.3"
+}

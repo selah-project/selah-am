@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ሞሼ በቶም አመራ፤ ወደ ምድር ስብ ብሎ ወደቀ እና ሰገደ።",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "በቶም አመራ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "ወደቀ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ወደ ምድር ስብ ብሎ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "እና ሰገደ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:32:22.887146475Z",
+  "model": "glm-5.3"
+}

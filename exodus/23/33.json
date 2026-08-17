@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.3",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "በምድርህ አይቀመጡም፣ ስለ እኔ ኃጢአት እንዲያደርጉህ ⟨את⟩ ይሆንና፤ አማልክታቸውን ⟨את⟩ ብትታደር፣ ለአንተ ማሳሳት ይሆናል።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ይቀመጣሉ"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "በምድርህ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ይሆንና"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "ኃጢአት ያደርጉሃል"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "አንተ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ስለ እኔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ብትታደር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አማልክታቸውን"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "አማልክታቸውን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "ማሳሳት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:20:21.141374241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "⟨את⟩ ታቦቱን እና ⟨את⟩ በትሮቹን፣ ⟨את⟩ የማስተስሪያውን መክደኛ እና ⟨את⟩ የሽፋኑን ብርኩር።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦቱን"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ታቦቱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "በትሮቹን"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "በትሮቹን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የማስተስሪያውን መክደኛ"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "የማስተስሪያውን መክደኛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የሽፋኑን ብርኩር"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "ብርኩር"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "የሽፋኑን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:32:07.170012639Z",
+  "model": "glm-5.3"
+}

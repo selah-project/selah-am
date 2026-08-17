@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "isaiah 11:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "የጡት ማጥባት ሕፃን በእፍንጭራ ቀዳይ ላይ ይጫወታል፣ እና የጡት የተቋረጠ ሕፃን እጁን በጥፉት ቀዳይ ላይ ያስቀምጣል።",
+  "tokens": [
+    {
+      "surface": "ושעשע",
+      "gloss": "ይጫወታል"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "የጡት ማጥባት ሕፃን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "חר",
+      "gloss": "ቀዳይ"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "እፍንጭራ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ... ላይ"
+    },
+    {
+      "surface": "מאורת",
+      "gloss": "ቀዳይ"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "ጥፉት"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "የጡት የተቋረጠ ሕፃን"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "הדה",
+      "gloss": "ያስቀምጣል፤ ዘረጋል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:02:58.181834097Z",
+  "model": "glm-5.3"
+}

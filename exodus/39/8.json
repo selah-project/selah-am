@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "የደረት ማስቀመጫውን ⟨את⟩ የአዋቂ ሥራ እንደ ኤፉድ ሥራ በወርቅ፣ በተክልት፣ በአምራን፣ በቀይ ትልት እና በተጠሐፈ ሸምበቆ አደረገ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የደረት ማስቀመጫውን"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "የደረት ማስቀመጫውን"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "የአዋቂ"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "እንደ ሥራ"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "ኤፉድ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "በወርቅ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "በተክልት"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "በአምራን"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "በትልት"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ቀይ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "እና"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "በተጠሐፈ ሸምበቆ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:38:47.096351422Z",
+  "model": "glm-5.3"
+}

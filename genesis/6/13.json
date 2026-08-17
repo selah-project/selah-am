@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 6:13",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ኤሎሂም ለኖኅም እንዲህ አለው፤ የሥጋ ሁሉ መጨረሻ በፊቴ መጥቷል፤ ምክንያቱም ምድር ከፊታቸው በደለኝነት ተሞልታለች፤ እነሆም እኔ ⟨את⟩ ምድርን አጥፊዋቸዋለሁ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "ለኖኅ"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "መጨረሻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጥቷል"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊቴ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ተሞልታለች"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "በደለኝነት"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ከፊታቸው"
+    },
+    {
+      "surface": "והנני",
+      "gloss": "እነሆም እኔ"
+    },
+    {
+      "surface": "משחיתם",
+      "gloss": "አጥፊዋቸዋለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድርን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T14:28:43.167979092Z",
+  "model": "glm-5.3"
+}

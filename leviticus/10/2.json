@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ከያህዌህ ፊት እሳት ወጣ፤ ⟨את⟩ እነሱንም በላቸው፤ በያህዌህ ፊትም ሞቱ።",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ከ…ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "በላቸው"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "ሞቱ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:49:51.869827834Z",
+  "model": "glm-5.3"
+}

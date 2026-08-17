@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "1-kings 11:42",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሰሎሞን በኢየሩሳሌም በመንግሥት የነገሠባቸው ቀናት በእስራኤል ሁሉ ላይ አርባ ዓመት ናቸው።",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "እና ቀናት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "በኢየሩሳሌም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ ... ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "አርባ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:24:18.618125345Z",
+  "model": "glm-5.3"
+}

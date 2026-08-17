@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 55,
+  "translation": "እኔም እንዲህ አልሁ፦ በዳግም እንደ አንበሪ ክንፍ ማን ይሰጠኛል? እበራለሁ፤ አርማለሁ።",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "እኔም እንዲህ አልሁ፦"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይሰጠኛል?"
+    },
+    {
+      "surface": "לי",
+      "gloss": "በዳግም"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "ክንፍ"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "እንደ አንበሪ"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "እበራለሁ፤"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "አርማለሁ።"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:04.116909190Z",
+  "model": "glm-5.3"
+}

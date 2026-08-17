@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "በምስክሮችህ ተጣብቂያለሁ፤ ያህዌህ ሆይ፣ አታፍረኝ።",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "ተጣብቂያለሁ"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "በምስክሮችህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አታ"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "አታፍረኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:59.381762812Z",
+  "model": "glm-5.3"
+}

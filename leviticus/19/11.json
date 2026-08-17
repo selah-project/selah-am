@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "አትስረቁም፣ አትክዱም፣ እንዲሁም አትዋሹም — እያንዳንዱ ሰው በአጋሩ አይዋሽም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት…ም"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "አትስረቁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አት…ም"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "አትክዱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንዲሁም አት…ም"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "አትዋሹ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "በአጋሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:55:54.899052840Z",
+  "model": "glm-5.3"
+}

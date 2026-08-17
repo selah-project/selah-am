@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እንደ እግረ-ሻጭ እግሮች ደክመዋል፤ እንዲሁም ምሳሌ በሞኞች አፍ ውስጥ ነው።",
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "ደክመዋል"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "እግሮች"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "እንደ እግረ-ሻጭ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "እንዲሁም ምሳሌ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "በአፍ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ሞኞች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:35:16.275198723Z",
+  "model": "glm-5.3"
+}

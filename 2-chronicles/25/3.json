@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "እንደ ሆነም መንግሥቱ በእርሱ ላይ በጠና ሲያድር፣ ⟨את⟩ ባሮቹን — ንጉሡን አባቱን ⟨את⟩ የመቱትን — ገደለ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እንደ ሆነም"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ሲ…ጊዜ (እንደ)"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "በጠና ያድራል"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "መንግሥቱ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ገደለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ባሮቹን"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ባሮቹን"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "የመቱትን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንጉሡን"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡን"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T14:14:01.308027561Z",
+  "model": "glm-5.3"
+}

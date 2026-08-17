@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "isaiah 38:15",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "ምን እናገራለሁ? እርሱም በእኔ አለ፥ እርሱም አደረገው፤ በነፍሴ በሚራራ ሁሉ ዓመታቼን ቀስ አድርጌ እሄዳለሁ።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "እናገራለሁ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "በእኔ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "እና እርሱም"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገው"
+    },
+    {
+      "surface": "אדדה",
+      "gloss": "ቀስ ብዬ እሄዳለሁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "ዓመታቼን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ሁሉ"
+    },
+    {
+      "surface": "מר",
+      "gloss": "በሚራራ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:16:24.691907652Z",
+  "model": "glm-5.3"
+}

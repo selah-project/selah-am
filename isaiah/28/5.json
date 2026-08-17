@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "isaiah 28:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "በዚያ ቀን የሰራዊት ያህዌህ ለቀሪው ሕዝቡ የክብር አክሊል እና የብርቅት ዙፋን-ኪንያ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "በዚያ ቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "የሰራዊት"
+    },
+    {
+      "surface": "לעטרת",
+      "gloss": "ለ...አክሊል"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "ክብር"
+    },
+    {
+      "surface": "ולצפירת",
+      "gloss": "እና ለ...ዙፋን-ኪንያ"
+    },
+    {
+      "surface": "תפארה",
+      "gloss": "ብርቅት"
+    },
+    {
+      "surface": "לשאר",
+      "gloss": "ለቀሪው"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:11:02.329712538Z",
+  "model": "glm-5.3"
+}

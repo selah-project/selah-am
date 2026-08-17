@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "ሰሜንና ደቡብ አንተ ፈጠርሃቸዋል፤ ታቦርና ሔርሞን በስምህ ያሸብልላሉ።",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "ሰሜን"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ና ደቡብ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "ፈጠርሃቸዋል"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "ታቦር"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "ና ሔርሞን"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "በስምህ"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ያሸብልላሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:37.995713708Z",
+  "model": "glm-5.3"
+}

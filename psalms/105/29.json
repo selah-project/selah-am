@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.3",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "⟨את⟩ ውሃቸውን ወደ ደም ቀወረ፤ ⟨את⟩ ዓሦቻቸውንም አስገደለ።",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "ቀወረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውሃቸውን"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "ውሃቸውን"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "ወደ ደም"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "አስገደለም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓሦቻቸውን"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "ዓሦቻቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:04.482431648Z",
+  "model": "glm-5.3"
+}

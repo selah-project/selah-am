@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እና ፀሐዩ ወጣች፣ እና ፀሐዩ ገባች፤ ወደ ስፍራዋ ትንፈሳለች፣ ወጥታ እሷ እዚያ።",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "እና ወጣች"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ፀሐዩ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "እና ገባች"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ፀሐዩ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ስፍራዋ"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "ትንፈሳለች"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "ወጥታ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እሷ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:14:35.941308122Z",
+  "model": "glm-5.3"
+}

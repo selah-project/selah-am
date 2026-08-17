@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 88,
+  "translation": "ከወደ በረታ ከሚወርዱ ጋር ተቈጠርሁ፤ እንደ ኃይል የሌለው አንድ ሰው ሆንሁ።",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "ተቈጠርሁ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ወደ በረታ የሚወርዱ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "በረታ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ሆንሁ"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "እንደ አንድ ሰው"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የሌለ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ኃይል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:56.941338695Z",
+  "model": "glm-5.3"
+}

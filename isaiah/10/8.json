@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ምክንያቱም እንዲህ ይላል፦ «ወይስ አለቆቼ ሁሉ አብረው ነገሥታት ⟨አይደሉምን⟩?»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ወይስ… አይደለምን"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "አለቆቼ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "አብረው"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ነገሥታት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:02:28.630465244Z",
+  "model": "glm-5.3"
+}

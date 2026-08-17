@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እንደ አንድ ሰው ሁሉንም የይሁዳ ሰዎች ልብ ⟨את⟩ አዘነበለ፤ ወደ ንጉሡም ሰዱ፦ «አንተና ሁሉም አገልጋዮችህ ተመለስ።»",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "አዘነበለ፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልብ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉንም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "የይሁዳ"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "እንደ አንድ ሰው"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ሰዱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ተመለስ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉም"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "አገልጋዮችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:07:41.914407848Z",
+  "model": "glm-5.3"
+}

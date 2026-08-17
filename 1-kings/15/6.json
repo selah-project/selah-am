@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "1-kings 15:6",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "እና ጦርነት በረሐበዓም እና በያሮብዓም መካከል በሕይወቱ ቀኖች ሁሉ ነበረ።",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "እና ጦርነት"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነበረ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በ…መካከል"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ረሐበዓም"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እና በ…መካከል"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ያሮብዓም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀኖች"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "በሕይወቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:28:50.747360169Z",
+  "model": "glm-5.3"
+}

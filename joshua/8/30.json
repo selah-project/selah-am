@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "joshua 8:30",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "በዚያን ጊዜ ኢያሱ ለያህዌህ ለእስራኤል ኤሎሂም በዐብል ተራራ ላይ መሠዊያ ሠራ።",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "በዚያን ጊዜ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ኢያሱ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠዊያ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ለእስራኤል"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "በተራራ ላይ"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "ዐብል"
+    }
+  ],
+  "timestamp": "2026-08-16T05:02:58.855345453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 103,
+  "translation": "መንገዱን ለሞሼ አሳወቀ፤ ሥራዎቹንም ለእስራኤል ልጆች አሳወቀ።",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "አሳወቀ"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "መንገዱን"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ለሞሼ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለ... ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ሥራዎቹንም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:15.185974386Z",
+  "model": "glm-5.3"
+}

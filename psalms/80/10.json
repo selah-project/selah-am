@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 80,
+  "translation": "ከፊቷ ቦታ አዘጋጁ፤ ስር እንድትሰድድ አደረጉአት፤ ⟨את⟩ ምድርንም ሞላች።",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "አዘጋጁ"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "ከፊቷ"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "ስር እንድትሰድድ አደረጉአት"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "ስሯን"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ሞላች"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድርን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:15.715123421Z",
+  "model": "glm-5.3"
+}

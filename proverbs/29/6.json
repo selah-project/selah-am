@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "በክፉ ሰው በደል ማንኳስ አለ፤ ጻድቅ ግን ያመሰግናል እና ደስ ይላል።",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "በበደል"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "ማንኳስ"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ጻድቅ ግን"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "ያመሰግናል"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "እና ደስ ይላል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:36:22.087200992Z",
+  "model": "glm-5.3"
+}

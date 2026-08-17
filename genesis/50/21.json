@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 50,
+  "translation": "እና አሁን አትፍሩ፤ እኔ እናኝታለሁ ያላችሁን ⟨את⟩ እና የልጆቻችሁን ⟨את⟩። እነሆኝ አጽናናቸው እና በልባቸው ላይ ተናገረ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "እና አሁን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ፍሩ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "እናኝታለሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ያላችሁን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የልጆቻችሁን (ᘠפכם)"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "የልጆቻችሁን"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "አጽናናቸው"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ እነሱን"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "እና ተናገረ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ልባቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:05:20.471235838Z",
+  "model": "glm-5.3"
+}

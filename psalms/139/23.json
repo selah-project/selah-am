@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 139,
+  "translation": "ኤል ሆይ፣ አረምኝኝ፣ ልቤንም ዐውቅ፤ ፈትነኝ፣ ሃሳቤንም ዐውቅ።",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "አረምኝኝ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል ሆይ"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "ዐውቅም"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ልቤን"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "ፈትነኝ"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "ዐውቅም"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "ሃሳቤን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:13.516632896Z",
+  "model": "glm-5.3"
+}

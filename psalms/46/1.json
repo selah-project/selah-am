@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 46,
+  "translation": "ለመዝማሬ አለቃ፤ ለቆራሕ ልጆች፤ በዓለሙቶች ላይ — መዝሙር።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመዝማሬ አለቃ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለ…ልጆች"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ቆራሕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "ዓለሙቶች"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:10.407103722Z",
+  "model": "glm-5.3"
+}

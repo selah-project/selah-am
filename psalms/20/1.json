@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ለመዝማሪው፣ መዝሙር፣ ለዳዊድ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመዝማሪው"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊድ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:07.073174286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ስለዚህ ለርሱ ወንዶችን ወለደችለት — ⟨את⟩ የዑስን፣ ⟨את⟩ ሰማርያንና ⟨את⟩ ዛሀምን።",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደችለት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለርሱ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ወንዶችን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የዑስን"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "የዑስ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሰማርያን"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "ሰማርያ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዛሀምን"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "ዛሀም"
+    }
+  ],
+  "timestamp": "2026-08-16T13:38:59.887629137Z",
+  "model": "glm-5.3"
+}

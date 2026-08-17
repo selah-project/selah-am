@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 79,
+  "translation": "የታሰረ ጩኸት ፊትህ ይግባ፤ በክንፍህ ብርታት መሞት የተባሉትን ልጆች አስቀር።",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "ይግባ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ፊትህ"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "ጩኸት"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "የታሰረ"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "በመጠን"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "የእጅህ ብርታት"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "አስቀር"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "መሞት የተባሉት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:43.982765037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ነገር ግን መንግሥቱን በሙሉ ⟨את⟩ አልቆርጥም፤ አንድ ነገዥ ለልጅህ እሰጣለሁ፤ ለዳዊት አገልጋዬ ሲል እና ለየሩሳሌም ሲል እኔ የመረጥኋት ስለሆነች።",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንግሥቱን በሙሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "መንግሥቱን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "ቆርጥም"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ነገዥ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "እሰጣለሁ"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "ለልጅህ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ሲል"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "አገልጋዬ"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "እና ሲል"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ለየሩሳሌም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "መረጥኋት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:24:38.932841253Z",
+  "model": "glm-5.3"
+}

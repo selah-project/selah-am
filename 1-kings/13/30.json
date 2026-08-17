@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ሬሳውን ⟨את⟩ በመቃብሩ አስቀመጠ፤ በእርሱም ላይ አለቁ፦ ወዮልኝ ወንድሜ!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "አስቀመጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሬሳውን"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "ሬሳውን"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "በመቃብሩ"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "አለቁ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "ወዮልኝ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ወንድሜ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:34:20.028050431Z",
+  "model": "glm-5.3"
+}

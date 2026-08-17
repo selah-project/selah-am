@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ክፉዎች ለእኔ ወጥመድ ሰርተዋል፣ እና ከትእዛዞችህ ግን አልተንኮልኩም።",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "ሰርተዋል"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉዎች"
+    },
+    {
+      "surface": "פח",
+      "gloss": "ወጥመድ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "እና ከትእዛዞችህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "ተንኮልኩም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:54.122410760Z",
+  "model": "glm-5.3"
+}

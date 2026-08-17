@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 88,
+  "translation": "ለሞታን ተአምር ታደርጋለህን? መለስተኞች ተነሥተው ያመሰግሑሃልን? ሴላ።",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "ለሞታን"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ታደርጋለህን"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "ተአምር"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ\/ወይስ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "መለስተኞች (የሞቱ መናፍስት)"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "ተነሥተው"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "ያመሰግሑሃልን"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:04.733837193Z",
+  "model": "glm-5.3"
+}

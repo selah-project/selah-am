@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "exodus 10:18",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እርሱም ከፈርዖን ዘንድ ወጣ፤ እና ወደ יהוה ኤሎሂም ተማፀነ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "እና ወጣ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ከ... ዘንድ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "እና ተማፀነ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:11:54.537644628Z",
+  "model": "glm-5.3"
+}

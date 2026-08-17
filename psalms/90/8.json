@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 90,
+  "translation": "ኃጢያቶቻችንን በፊትህ አሰራቸዋል፤ ስውር ነገሮቻችንን የፊትህ በብርሃን።",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "አሰራቸዋል"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "ኃጢያቶቻችንን"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "በፊትህ"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "ስውር ነገሮቻችንን"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "በብርሃን"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "የፊትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:43.913786150Z",
+  "model": "glm-5.3"
+}

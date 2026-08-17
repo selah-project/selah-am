@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ከአደጋው ጉድጓድ፣ ከጭቃው ጭማቂ አሸገኝ፣ እግሮቼንም በዓለት ላይ አቆመ፣ እርምጃዎቼንም አጸና።",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "አሸገኝ"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "ከጉድጓድ"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ከአደጋው"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "ከጭቃው"
+    },
+    {
+      "surface": "היון",
+      "gloss": "ጭማቂ"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "አቆመም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "ዓለት"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "እግሮቼን"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "አጸና"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "እርምጃዎቼን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:34.258702574Z",
+  "model": "glm-5.3"
+}

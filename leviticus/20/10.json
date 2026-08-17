@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እና የሰው ሚስት ⟨את⟩ የሚያመነዘር ሰው — የጎረቤቱን ሚስት ⟨את⟩ ያመነዘረ — አመንዝራውና አመንዝራዧ ሞት ይሞታሉ።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚ"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "ያመነዘር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚስት"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሚስት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚ"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "ያመነዘር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚስት"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሚስት"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ጎረቤቱ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይሞታሉ"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "አመንዝራው"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "አመንዝራዧ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:57:22.255257075Z",
+  "model": "glm-5.3"
+}

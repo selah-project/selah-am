@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 95,
+  "translation": "በእጁ የምድር ጥልቆች ናቸው፤ የተራሮችም ከፍታዎች የርሱ ናቸው።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "የሚሆነው"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "በእጁ"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "ጥልቆች"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "ከፍታዎችም"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "የተራሮች"
+    },
+    {
+      "surface": "לו",
+      "gloss": "የርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:22.397513980Z",
+  "model": "glm-5.3"
+}

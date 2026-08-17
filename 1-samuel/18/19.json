@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ሳዖልን ልጅ ሜራብን ⟨את⟩ ለዳዊት በሚሰጡበት ጊዜ ሆኖ፣ እሷ ደግሞ ሚስት ሆና ለአድርኤል ለምክላቲ ተሰጠች።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆኖ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "በ…ጊዜ"
+    },
+    {
+      "surface": "תת",
+      "gloss": "በመስጠት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሜራብን"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ሜራብ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳዖልን"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "እሷ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ተሰጠች"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "ለአድርኤል"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "ለምክላቲ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ሚስት ሆና"
+    }
+  ],
+  "timestamp": "2026-08-16T15:49:59.005500160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "አቤሴሎምና የእስራኤል ሕዝብ ሁሉ፣ የእስራኤል ሰዎች፣ ኢየሩሳሌም ገቡ፤ አኪቶፌልም ⟨את⟩ ከእርሱ ጋር ነበር።",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "አቤሴሎምና"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ገቡ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ኢየሩሳሌም"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "አኪቶፌልም"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ከእርሱ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T06:04:10.035843191Z",
+  "model": "glm-5.3"
+}

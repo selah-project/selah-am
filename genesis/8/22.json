@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "genesis 8:22",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እንደገና፣ በምድር ዘመን ሁሉ ዘርሰት እና መከር፣ ቅርጥ እና ሙቀት፣ በጋ እና ክረምት፣ ቀን እና ሌሊት አይደመዱም።",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "እንደገና"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ዘመን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘርሰት"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "እና መከር"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "እና ቅርጥ"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "እና ሙቀት"
+    },
+    {
+      "surface": "וקיץ",
+      "gloss": "እና በጋ"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "እና ክረምት"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "እና ቀን"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "እና ሌሊት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ישבתו",
+      "gloss": "ደመዱም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:31:40.909274323Z",
+  "model": "glm-5.3"
+}

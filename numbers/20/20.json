@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "numbers 20:20",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እርሱም አለ፦ አታልፍም፤ ኤዶምም በብዙ ሕዝብ እና በኃይለኛ እጅ ሊያገኙት ወጣ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አታልፍም"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ታልፋለህ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ሊያገኙት ወደ ፊቱ"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "በሕዝብ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "እና በእጅ"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "ኃይለኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:20:55.212190318Z",
+  "model": "glm-5.3"
+}

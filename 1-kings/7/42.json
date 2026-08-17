@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "1-kings 7:42",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እና ⟨את⟩ ሮማናዎችን አራት መቶ፣ ለሁለቱ መረቦች፣ ለአንዱ መረብ ሁለት ረድፎች ሮማናዎች፣ በዐምዶቹ ፊት ላይ ያሉ የእርከኖች ሁለቱን ኳሶች ⟨את⟩ ለመሸፈን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሮማናዎችን"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "ሮማናዎችን"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "አራት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "לשתי",
+      "gloss": "ለሁለቱ"
+    },
+    {
+      "surface": "השבכות",
+      "gloss": "መረቦች"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "ረድፎች"
+    },
+    {
+      "surface": "רמנים",
+      "gloss": "ሮማናዎች"
+    },
+    {
+      "surface": "לשבכה",
+      "gloss": "ለመረቡ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "አንዱ"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "ለመሸፈን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁለቱን ኳሶች"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ሁለቱን"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "ኳሶች"
+    },
+    {
+      "surface": "הכתרת",
+      "gloss": "የእርከኖች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያሉት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "የዐምዶቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:17:28.793174886Z",
+  "model": "glm-5.3"
+}

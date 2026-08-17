@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 9:8",
+  "book": "job",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ሰማያትን ብቻውን የሚዘረጋ፣ የባሕር ከፍታዎችም ላይ የሚረግጥ ነው።",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "የሚዘረጋ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያትን"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ብቻውን"
+    },
+    {
+      "surface": "ודורך",
+      "gloss": "የሚረግጥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "ከፍታዎችም"
+    },
+    {
+      "surface": "ים",
+      "gloss": "የባሕር"
+    }
+  ],
+  "timestamp": "2026-08-16T18:16:15.617580048Z",
+  "model": "glm-5.3"
+}

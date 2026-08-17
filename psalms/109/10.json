@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "ልጆቹም በዘፈቀደ ይሽከረከሩ፣ ይለምኑም፤ ከዋጋቸው ጥፋትም እንጀራቸውን ይፈልጉ።",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "በዘፈቀደ"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "ይሽከረከሩ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ልጆቹም"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "ይለምኑም"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "ይፈልጉ"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "ከዋጋቸው ጥፋት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:30.932130639Z",
+  "model": "glm-5.3"
+}

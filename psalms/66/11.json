@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 66,
+  "translation": "ወደ መረብ አስገብተኃል፤ በወገባችንም ጭንቀት አኖርሃል።",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "አስገብተኃል"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "ወደ መረብ"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "አኖርሃል"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "ጭንቀት"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "በወገባችንም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:43.718762756Z",
+  "model": "glm-5.3"
+}

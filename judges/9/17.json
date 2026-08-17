@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "አባቴ ስላችሁ ተዋግቶ ነፍሱን ⟨את⟩ ከፊቱ አሳልፎ ሰጥቶ ⟨את⟩ እናንተን ከምድያን እጅ አዳነ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "የም"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ተዋግቶ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባቴ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ስላችሁ"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "አሳልፎ ሰጥቶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሱን"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱን"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ከፊቱ"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "አዳነ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ እናንተን",
+      "marks": "እናንተ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ምድያን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:22:27.072808303Z",
+  "model": "glm-5.3"
+}

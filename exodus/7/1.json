@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ያህዌህም ሞሼን እንዲህ አለው፦ ተመልከት፣ አንተን ለፈርዖን ኤሎሂም አድርጌሃል፤ አሃሮንም የአንተ ወንድም የአንተ ነቢይ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ተመልከት"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "አድርጌሃል"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ለፈርዖን"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "አሃሮንም"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "የአንተ ወንድም"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "የአንተ ነቢይ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:09:42.555265233Z",
+  "model": "glm-5.3"
+}

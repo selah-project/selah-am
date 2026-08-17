@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ጥበበኛው ሰው ⟨በ⟩ኃይል ⟨ነው⟩፤ እውቀት ያለው ሰው ደግሞ ኃይልን ያጠናክራል።",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ጥበበኛው"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "በኃይል"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ደግሞ ሰው"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "እውቀት ያለው"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "ያጠናክራል"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ኃይልን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:33:12.124637304Z",
+  "model": "glm-5.3"
+}

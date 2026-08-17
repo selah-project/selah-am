@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እርሱ ⟨את⟩ ኤይሎትን ሠራ፤ ንጉሡ ከአባቶቹ ጋር ከተኛ በኋላ ⟨את⟩ ለይሁዳ መለሳት።",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤይሎትን"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "ኤይሎት"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "መለሳት"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ለይሁዳ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "በኋላ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ከተኛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "አባቶቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:14:16.703672240Z",
+  "model": "glm-5.3"
+}

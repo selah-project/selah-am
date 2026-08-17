@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ሞሼም ⟨את⟩ በትሮቹን በያህዌህ ፊት በምስክሩ ድንኳን ውስጥ አስቀመጠ።",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "አስቀመጠ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በትሮቹን"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "በትሮቹ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ…ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "በድንኳን"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ምስክሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:17:14.141726508Z",
+  "model": "glm-5.3"
+}

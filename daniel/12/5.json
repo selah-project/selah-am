@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 12:5",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "እኔ ዳንኤልም አየሁ፣ እነሆም ሁለት ሌሎች ቆሞዋል፤ አንዱ እዚህ በወንዙ ዳር፣ አንዱም እዚህ በወንዙ ዳር።",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "አየሁም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ዳንኤል"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆም"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ሌሎች"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ቆሞዋል"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንዱ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እዚህ"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "በ… ዳር"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ወንዙ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "አንዱም"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እዚህ"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "በ… ዳር"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ወንዙ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:38:32.326517613Z",
+  "model": "glm-5.3"
+}

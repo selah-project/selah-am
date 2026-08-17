@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "⟨את⟩ አብነርንም በኬብሮን ቀበሩ፤ ንጉሡም ⟨את⟩ ድምፁን አንሥቶ በአብነር መቃብር አለቀሰ፤ ሕዝቡም ሁሉ አለቀሰ።",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "ቀበሩም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አብነርን"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "አብነር"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "በኬብሮን"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "አንሥቶም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምፁን"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "ድምፁን"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "አለቀሰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "መቃብር"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "አብነር"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "አለቀሱም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:03:34.124679228Z",
+  "model": "glm-5.3"
+}

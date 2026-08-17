@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "በሁለተኛው ወር በአሥራ አራት ቀን በመሸሸጊያዎቹ መካከል ⟨את⟩ን ያደርጉታል፤ በቂጣ እና በምራቅ አትክልት ይበላዋል።",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "በወር"
+    },
+    {
+      "surface": "השני",
+      "gloss": "በሁለተኛው"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "በአሥራ አራት"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አራት"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በ... መካከል"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "በመሸሸጊያዎቹ"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ያደርጋሉ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እሱን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ቂጣ"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "እና በምራቅ አትክልት"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ይበላዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:11:56.226720820Z",
+  "model": "glm-5.3"
+}

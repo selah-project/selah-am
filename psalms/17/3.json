@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ልቤን ፈተንህ፥ በሌሊት ጠበቅህ፥ ጨረግኸኝ፤ ምንም አላገኘህም፤ ሐሳቤ ከአፌ አያልፍም።",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "ፈተንህ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤን"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "ጠበቅህ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "በሌሊት"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "ጨረግኸኝ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "አል"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ታገኝ"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "ሐሳቤ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "አያልፍም"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ያልፍ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ከአፌ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:21.804791071Z",
+  "model": "glm-5.3"
+}

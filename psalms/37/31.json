@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "የኤሎሂሙ ትእዛዝ በልቡ ውስጥ ⟨ናት⟩፤ እርስዎም አይረገጡም።",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "የ… ትእዛዝ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ኤሎሂሙ"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "በልቡ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "አይረገጡም"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "እርስዎም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:40:19.058318397Z",
+  "model": "glm-5.3"
+}

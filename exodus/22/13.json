@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እና ከሆነ አንድ ሰው ከጓደኛው ቢበደር እና ቢሰበር ወይም ቢሞት፣ ባለቤቱ ከእርሱ ጋር ሳይሆን፣ በእርግጠኝነት ይክፈላል።",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "እና ከሆነ"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "ቢበደር"
+    },
+    {
+      "surface": "איש",
+      "gloss": "አንድ ሰው"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ጓደኛው"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "እና ቢሰበር"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ቢሞት"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ባለቤቱ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ሳይሆን"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "በእርግጠኝነት"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ይክፈላል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:21:55.012206493Z",
+  "model": "glm-5.3"
+}

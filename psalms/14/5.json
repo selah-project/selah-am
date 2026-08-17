@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "እዚያ ፍርሃትን ፈሩ፤ ክፍታ የሚያስፈራው በጻድቁ ትውልድ ውስጥ ኤሎሂም ስለ ⟨ሆነ⟩።",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ፈሩ"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ፍርሃትን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ክፍታ ስለ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "በትውልድ ውስጥ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:32.222789319Z",
+  "model": "glm-5.3"
+}

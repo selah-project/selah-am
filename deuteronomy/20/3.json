@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "deuteronomy 20:3",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እና እንዲህ ይላቸዋል፦ እሰማ፣ እስራኤል፤ እናንተ ዛሬ በጠላቶቻችሁ ላይ ለጦርነት ታቀርባላችሁ፤ ልባችሁ አይረከብ፣ አትፍሩ፣ እና አትትደነጉ፣ እና ከፊታቸሁ አትፈሩ።",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "እና ይላቸዋል"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ለእነርሱ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "እሰማ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "קרבים",
+      "gloss": "ታቀርባላችሁ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ለጦርነት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ጠላቶቻችሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ይረከብ"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ልባችሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ፍሩ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תחפזו",
+      "gloss": "ትደነጉ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תערצו",
+      "gloss": "ትፈሩ"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ከፊታቸሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:46:17.060582161Z",
+  "model": "glm-5.3"
+}

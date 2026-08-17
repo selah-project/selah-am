@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 53,
+  "translation": "ሞኝ በልቡ አለ፦ ኤሎሂም የለም፤ አስከተዋል፣ የሚጸድፍን ክፍና አድርገዋል፤ መልካም የሚያደርግ የለም።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ሞኝ"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "በልቡ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "አስከተዋል"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "እና የሚጸድፍ አድርገዋል"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ክፍና"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "የሚያደርግ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:01.080035490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የማታለልበት ከመሆን ተሻል፣ አታልልም ደግሞ አታሟልም ይልቅ።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ተሻል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አታለል ከመሆን"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ማታለልበት አታለል"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "ደግሞ አታሟልም ይልቅ ከማታለል ደግሞ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አታ"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "ሟልም"
+    }
+  ],
+  "timestamp": "2026-08-16T18:16:47.182353804Z",
+  "model": "glm-5.3"
+}

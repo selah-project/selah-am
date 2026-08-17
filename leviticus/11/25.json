@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ከነሱ ንብርብሮች ማንኛውም የሚሸከም ልብሶቹን ይታጠባል እና እስከ ምሽቱ ድረስ የተበከለ ነው።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "እና የሚሸከመው ማንኛውም"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "የሚሸከም"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "ከነሱ ንብርብሮች"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ይታጠባል"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ልብሶቹን"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "እና የተበከለ ነው"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ምሽቱ ድረስ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:48:52.131942697Z",
+  "model": "glm-5.3"
+}

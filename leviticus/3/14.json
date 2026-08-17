@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እና ከእሱ ከእነሱ ቍርባኑን ማብራት መሥዋዕት ለያህዌህ ያቀርባል — ⟨את⟩ ስብ ሽፋን ⟨את⟩ አንጀትን የሚሸፍነውን፣ እና ⟨את⟩ ሁሉን ስብ የሚገኘውን በአንጀት ላይ።",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ያቀርባል"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእሱ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ቍርባኑን"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ማብራት መሥዋዕት"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስብ ሽፋን"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ስብ ሽፋን"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "የሚሸፍነውን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አንጀትን"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "አንጀትን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሁሉን ስብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ስብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኘውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "አንጀት"
+    }
+  ],
+  "timestamp": "2026-08-16T14:37:10.792888717Z",
+  "model": "glm-5.3"
+}

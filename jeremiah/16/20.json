@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "«ሰው ለራሱ አማልክትን ይሠራል? እነርሱም አማልክት አይደሉምኮ።»",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "ይሠራል?"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለራሱ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "አማልክትን"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "እነርሱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደሉም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "አማልክት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:47:46.900166367Z",
+  "model": "glm-5.3"
+}

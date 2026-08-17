@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እያንዳንዱ ስለታሚ በእውቀት ይሠራል፤ ሞኝ ግን ሞኝነቱን ያስተዋውቃል።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "እያንዳንዱ"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ስለታሚ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ይሠራል"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "በእውቀት"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ሞኝ ግን"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "ያስተዋውቃል"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ሞኝነቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:27:06.557468855Z",
+  "model": "glm-5.3"
+}

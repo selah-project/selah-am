@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "ይህ ማን ነው — ምክርን በአውቀት በሌሉ ቃላት የሚያጨለማ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "ያጨለማ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ምክርን"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "በቃላት"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "በሌሉ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "አውቀት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:59:47.677402753Z",
+  "model": "glm-5.3"
+}

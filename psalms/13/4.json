@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ያህዌህ ኤሎሂሜ ተመልከተኝ፣ መልስልኝ፤ ከሆነ የሞትን እንቅልፍ እንቀላፍ ዘንድ ዓይኖቼን አብራ።",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "ተመልከተኝ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "መልስልኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂሜ"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "አብራ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኖቼን"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "እንቀላፍ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "የሞትን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:12.117894268Z",
+  "model": "glm-5.3"
+}

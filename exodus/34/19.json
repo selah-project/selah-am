@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "exodus 34:19",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ማንኛውም የማህፀን ተከፈተ ሁሉ የእኔ ነው፤ የአንተም ብሔራዊ ሁሉ ወንድ ይሁን — የላም ወይም የበግ በኩር።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "የተከፈተ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ማህፀን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "የእኔ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና...ሁሉ"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "የአንተ ብሔራዊ"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ወንድ ይሁን"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "በኩር"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ላም"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ወይም በግ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:33:09.070418309Z",
+  "model": "glm-5.3"
+}

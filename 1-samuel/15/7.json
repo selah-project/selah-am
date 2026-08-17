@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ሳኦልም ⟨את⟩ ዐማሌቅን ከሐቪላህ እስከ ሱር ድረስ መታ፤ ይህም በምስር ፊት ነው።",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "መታ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዐማሌቅ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ዐማሌቅ"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "ከሐቪላህ"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "እስኪመጡ ወደ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ሱር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምስር"
+    }
+  ],
+  "timestamp": "2026-08-16T05:40:46.623782841Z",
+  "model": "glm-5.3"
+}

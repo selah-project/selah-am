@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 77,
+  "translation": "አንተ ድንቅ የሚያደርግ ⟨ሆንክ⟩ ኤል ነህ፤ በአሕዛብ ላይ ኃይልህን አሳወቅህ።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "የሚያደርግ"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "ድንቅ"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "አሳወቅህ፤"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "በአሕዛብ"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ኃይልህን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:38.619109963Z",
+  "model": "glm-5.3"
+}

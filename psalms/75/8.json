@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 75,
+  "translation": "ምክንያቱም ኤሎሂም ⟨ሆኖ⟩ ይፈርዳል፤ አንዱን ያዋርዳል አንዱንም ያነሳል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ይፈርዳል"
+    },
+    {
+      "surface": "זה",
+      "gloss": "አንዱን"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "ያዋርዳል"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "እና አንዱን"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ያነሳል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:42.260921117Z",
+  "model": "glm-5.3"
+}

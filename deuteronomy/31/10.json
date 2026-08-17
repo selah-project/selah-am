@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ሞሼም ⟨את⟩ እነርሱን እንዲህ ብሎ አዘዛቸው፦ በሰባት ዓመታት መጨረሻ በተወሰነው ወቅት የውዳቄ ዓመት በድንኳኖች በዓል፤",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "አዘዛቸው፦"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "በ…መጨረሻ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "በተወሰነው ወቅት"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "የ…ዓመት"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "የውዳቄ"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "በ…በዓል"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "ድንኳኖች"
+    }
+  ],
+  "timestamp": "2026-08-16T15:14:42.522929375Z",
+  "model": "glm-5.3"
+}

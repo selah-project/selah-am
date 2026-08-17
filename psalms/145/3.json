@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 145,
+  "translation": "ታላቅ ⟨ነው⟩ ያህዌህ፣ በጣም የሚመሰገን ⟨ነው⟩፤ ታልቅነቱም ፍተሻ የለውም።",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "እና የሚመሰገን"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "እና ታልቅነቱ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለውም"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "ፍተሻ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:44.118539320Z",
+  "model": "glm-5.3"
+}

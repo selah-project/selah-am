@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እስራኤልም በዳዊት ቤት ላይ እስከ ⟨ዛሬው⟩ ቀን ድረስ አመጸነ።",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "አመጸነ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በ…ቤት"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ…ድረስ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:37:47.561394547Z",
+  "model": "glm-5.3"
+}

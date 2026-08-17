@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ቤቱን ⟨את⟩ በወፉ በደም፣ በሕያው በውሃ፣ በሕያው በወፉ፣ በአርዝ በእንጨት፣ በዑዝፍ፣ በትልም በቀይ ቀለም ያንጥረዋል።",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "ያንጥረዋል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱን"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤቱን"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "በደም"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ወፉ"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "በውሃም"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "በወፍም"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "በእንጨትም"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "የአርዝ"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "በዑዝፍም"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "በቀይ ቀለምም"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "የትል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:50:25.621550996Z",
+  "model": "glm-5.3"
+}

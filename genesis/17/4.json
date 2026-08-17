@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "እኔ እነሆ ቃል ኪዳኔ ⟨את⟩ ከአንተ ጋር ነው፤ የብዙ ብሔራትም አባት ትሆናለህ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ቃል ኪዳኔ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ከአንተ ጋር"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ትሆናለህ"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "የ…አባት"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ብዙ ሕዝብ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ብሔራት"
+    }
+  ],
+  "timestamp": "2026-08-16T02:39:13.101679468Z",
+  "model": "glm-5.3"
+}

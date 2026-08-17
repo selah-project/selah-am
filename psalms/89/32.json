@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "ጽኑኾቼን ቢያረክሱ፣ እና ትእዛዜን ባይጠብቁ፣",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ\/ቢ"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ጽኑኾቼን"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "ቢያረክሱ"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "እና ትእዛዜን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ባይጠብቁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:40.797972894Z",
+  "model": "glm-5.3"
+}

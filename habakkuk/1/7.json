@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "አስፈራሽና ደህንነት የሌለው እርሱ ነው፤ ፍርዱ እና ክብሩ ከራሱ ይወጣሉ።",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "አስፈራሽ"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "እና ደህንነት የሌለው"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከራሱ"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "ፍርዱ"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "እና ክብሩ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ይወጣል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:15:40.308854281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ኤፍሮንም ⟨את⟩ አብራሃምን መልሶ እንዲህ አለው፦",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መልሶ አለ"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "ኤፍሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አብራሃምን"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብራሃምን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "አለው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:41:07.117240927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ሆን አብረኝ፣ ቸርነትህ ለማጽናናት ይሁንልኝ፣ እንደ ቃልህ ለአገልጋይህ።",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "נא",
+      "gloss": "አብረኝ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ቸርነትህ"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "ለማጽናናት ይሁንልኝ"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "እንደ ቃልህ"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ለአገልጋይህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:22.406372380Z",
+  "model": "glm-5.3"
+}

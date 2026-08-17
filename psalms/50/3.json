@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 50,
+  "translation": "አምላካችን ይመጣል፤ ዝምም አይልም፤ እሳት በፊቱ ይበላል፤ በዙሪያውም በጣም ሞልቶ ዐውራለት ይነሳል።",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "ይመጣል"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "አምላካችን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ዝምም አይልም"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ዝም አይበል"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "በፊቱ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ይበላል"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "በዙሪያውም"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "ዐውራለት ይነሳል"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:48.512305999Z",
+  "model": "glm-5.3"
+}

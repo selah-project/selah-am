@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "በምሪባ ውኃዎችም አስቈጡት፤ ለሞሼም ስለእነርሱ መጥፎ ሆነ።",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "አስቈጡት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ውኃ የ"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "ምሪባ"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "መጥፎ ሆነ"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ለሞሼ"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "ስለእነርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:25.670059443Z",
+  "model": "glm-5.3"
+}

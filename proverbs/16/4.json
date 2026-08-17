@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ያህዌህ ሁሉን ለራሱ ዓላማ ሠራ፤ ክፉውንም እንዲሁም ለክፉ ቀን።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "ለራሱ ዓላማ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉውን"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ለቀን"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:29:18.846121042Z",
+  "model": "glm-5.3"
+}

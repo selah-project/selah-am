@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ሀማን ግን ራሱን ገደበ፣ ወደ ቤቱ ገባ፤ ላከ እና ⟨את⟩ ወዳጆቹን እና ⟨את⟩ ዘሬሽን ሚስቱን አስገባ።",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "ራሱን ገደበ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሀማን"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ገባ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "አስገባ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወዳጆቹን"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "ወዳጆቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዘሬሽን"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "ዘሬሽን"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሚስቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:19:34.716481670Z",
+  "model": "glm-5.3"
+}

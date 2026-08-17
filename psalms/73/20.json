@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "እንደ ሕልም ከመንቃት በኋላ፣ አዶናይ፣ ስታስነሳ ምስላቸውን ትንቁላለህ።",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "እንደ ሕልም"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "ከመንቃት በኋላ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ስታስነሳ"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "ምስላቸውን"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "ትንቁላለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:08.752969853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "የርጽፓ የአያህ ሴት፣ የሳኦል ባለጸጋ፣ ያደረገችው ነገር ⟨את⟩ ለዳዊት ተነገረ።",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ተነገረ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያደረገችው ነገር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያደረገችው ነገር"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "አደረገች"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "ርጽፓ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "איה",
+      "gloss": "አያህ"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "ባለጸጋ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    }
+  ],
+  "timestamp": "2026-08-17T07:24:51.218799614Z",
+  "model": "glm-5.3"
+}

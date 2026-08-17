@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "በማርካችሁ ቀን ይበላል፣ እና በነገ፤ ቀሪውም እስከ ሦስተኛው ቀን ድረስ በእሳት ይቃጠላል።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "በ…ቀን"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "በማርካችሁ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበላል"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "እና በነገ"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "ቀሪውም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ሦስተኛው"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ይቃጠላል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:55:24.493015783Z",
+  "model": "glm-5.3"
+}

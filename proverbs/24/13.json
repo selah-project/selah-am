@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "proverbs 24:13",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ልጄ ሆይ፥ ማር ብላ፥ ምክንያቱም ⟨እርሷ⟩ መልካም ናት፤ እና የማሩ ጠፍጣፋ ጣፋጭ ነው በአፍህ ጣዕም ላይ።",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "ብላ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጄ ሆይ"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "ማር"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም ናት"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "እና የማሩ ጠፍጣፋ"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "ጣፋጭ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "አፍህ ጣዕም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:34:24.900712331Z",
+  "model": "glm-5.3"
+}

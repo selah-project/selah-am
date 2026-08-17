@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "proverbs 18:11",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "የባለጸጁ ሀብት የኃይሉ ከተማ ነው፤ እንደ ከፍታ ግንብ በምናባው ውስጥ።",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ሀብት"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "የባለጸጁ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "የኃይሉ"
+    },
+    {
+      "surface": "וכחומה",
+      "gloss": "እንደ ግንብ"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "ከፍታ"
+    },
+    {
+      "surface": "במשכיתו",
+      "gloss": "በምናባው ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:29:56.666943888Z",
+  "model": "glm-5.3"
+}

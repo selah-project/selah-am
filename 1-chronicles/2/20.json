@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ሑርም ⟨את⟩ ኡሪን ወለደ፤ ኡሪምም ⟨את⟩ ብጽልኤልን ወለደ።",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "ሑርም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኡሪ"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ኡሪ"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "ኡሪምም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብጽልኤል"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "ብጽልኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T12:33:38.892919775Z",
+  "model": "glm-5.3"
+}

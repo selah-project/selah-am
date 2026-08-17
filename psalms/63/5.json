@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 63,
+  "translation": "እንደዚህ በሕይወቴ አምለክሃለሁ፤ በስምህ እጆቼን አነሳለሁ።",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "አምለክሃለሁ"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "በሕይወቴ"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "በስምህ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "አነሳለሁ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "እጆቼን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:13.100259377Z",
+  "model": "glm-5.3"
+}

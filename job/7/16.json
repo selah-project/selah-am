@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "job 7:16",
+  "book": "job",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ጠላሁት፤ ለዘላለም አልኖርም፤ ከእኔ ተው፤ ቀኖቼ ከንትና ናቸውና።",
+  "tokens": [
+    {
+      "surface": "מאסתי",
+      "gloss": "ጠላሁት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "አኖር"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ተው"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ናቸውን"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ከንትና"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀኖቼ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:41:40.723238539Z",
+  "model": "glm-5.3"
+}

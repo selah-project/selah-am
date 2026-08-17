@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እኔም በእስራኤል ልጆች መካከል እኖራለሁ፤ ሕዝቤንም የእስራኤልን ⟨את⟩ አልተወውም።",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "እኖራለሁ፤ እኔም"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል...ምም"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "አልተወውም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቤን የእስራኤልን"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    }
+  ],
+  "timestamp": "2026-08-16T16:19:05.467175985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "ቍጣህን በእነሱ ላይ አፍስስ፤ እና የአፍንጫህ ብልጽግና ይድረሳቸው።",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "አፍስስ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "በእነሱ ላይ"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "ቍጣህን"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "እና የ…ቍጣ"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "የአፍንጫህ"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "ይድረሳቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:32.046414547Z",
+  "model": "glm-5.3"
+}

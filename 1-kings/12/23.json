@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "1-kings 12:23",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ለሰሎሞን ልጅ ለይሁዳ ንጉሥ ለሮሖብዓም እና ለይሁዳ መላው ቤት፣ ለብንያምም፣ ለቀሪው ሕዝብም ብላ፤ እንዲህ ብለህ ንገር፦",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ብለህ ንገር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ሮሖብዓም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ለ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላው"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ובנימין",
+      "gloss": "እና ብንያም"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "እና ቀሪው"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T06:26:30.494628811Z",
+  "model": "glm-5.3"
+}

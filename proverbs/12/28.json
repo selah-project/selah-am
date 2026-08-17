@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "በጽድቅ መንገድ ውስጥ ሕይወት አለ፤ የእርሷ ጎዳና ላይ ሞት የለም።",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ጽድቅ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ሕይወት"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "እና መንገድ"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "ጎዳና"
+    },
+    {
+      "surface": "אל",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:27:00.234781840Z",
+  "model": "glm-5.3"
+}

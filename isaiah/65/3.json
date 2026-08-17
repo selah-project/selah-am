@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 65,
+  "translation": "ሕዝቡ ፊቴ ፊት ሁልጊዜ የሚያስቀይሙኝ በአትክልቶች የሚያርዱ በጡቦችም ላይ የሚያጠናክሩ ነው፤",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "የሚያስቀይሙኝ"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "እኔን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊቴ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "የሚያርዱ"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "በአትክልቶች"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "የሚያጠናክሩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "ጡቦች"
+    }
+  ],
+  "timestamp": "2026-08-16T07:34:51.739289745Z",
+  "model": "glm-5.3"
+}

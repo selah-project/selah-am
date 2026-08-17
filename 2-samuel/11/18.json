@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ዮአብም ላከ እንዲህ ሲል ለዳዊት የውጊያውን ኩሉን ቃላት ነገረው።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "አያብ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ነገረው"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨እንደሆነ⟩",
+      "marks": "ኩሉን ቃላት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉን"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "የውጊያውን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:00:10.277444459Z",
+  "model": "glm-5.3"
+}

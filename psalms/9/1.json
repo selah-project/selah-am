@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ለአለቃው በዓልምዩት ላቤን ላይ፣ የዳዊት መዝሙር።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለአለቃው"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "በዓልምዩት"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ላቤን"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "የዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:55.108029166Z",
+  "model": "glm-5.3"
+}

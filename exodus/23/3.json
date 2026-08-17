@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ድሃውንም በክርክሩ አትከብረው።",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "ድሃውንም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "ትከብረውም"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "በክርክሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:23:00.458312969Z",
+  "model": "glm-5.3"
+}

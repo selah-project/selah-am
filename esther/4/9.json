@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ሀታክም ገብቶ ለእስቴር የሞርደቃይን ⟨את⟩ ቃላት ነገራት።",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "ገብቶ"
+    },
+    {
+      "surface": "התך",
+      "gloss": "ሀታክ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ነገራት"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "ለእስቴር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላትን"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "የሞርደቃይን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:18:42.311027239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "በከፍታዎች ራስ፣ በመንገዱ ላይ፣ በመንገዶች መገናኛ ትቆማለች።",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "በራስ፣ በደረጃ"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "ከፍታዎች"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት፣ መገናኛ"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "መንገዶች"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "ትቆማለች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:24:13.699987596Z",
+  "model": "glm-5.3"
+}

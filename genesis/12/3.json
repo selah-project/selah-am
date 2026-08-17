@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የሚባርኩህን እባርካለሁ፤ የሚረግሙህን እረግማለሁ፤ የምድር አፈር ቤተሰቦች ሁሉ በአንተ ይባረካሉ።",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "እባርካለሁ"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "የሚባርኩህን"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "የሚረግሙህን"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "እረግማለሁ"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "ይባረካሉ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ቤተሰቦች"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "የምድር አፈር"
+    }
+  ],
+  "timestamp": "2026-08-16T14:32:12.238460274Z",
+  "model": "glm-5.3"
+}

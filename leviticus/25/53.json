@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 53,
+  "ref": "leviticus 25:53",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "እንደ ዓመት በዓመት ተቀጥሮ ከእርሱ ጋር ይሁን፤ በጭንቀት በአንተ ፊት አይገዙት።",
+  "tokens": [
+    {
+      "surface": "כשכיר",
+      "gloss": "እንደ ተቀጥሮ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "በዓመት"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "ይገዙት"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "በጭንቀት"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "በአንተ ፊት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:00:44.855770229Z",
+  "model": "glm-5.3"
+}

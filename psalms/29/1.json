@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "የዳዊት መዝሙር። እናንተ የኤሊም ልጆች ሆይ፣ ላያህዌህ ክብር እና ኃይል ስጡ፤ ላያህዌህ ስጡ።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "የዳዊት"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ስጡ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ላያህዌህ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "የኤሊም"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ስጡ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ላያህዌህ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብር"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "እና ኃይል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:08.763706876Z",
+  "model": "glm-5.3"
+}

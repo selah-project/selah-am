@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 84,
+  "translation": "የፀሐይና መከላ ብቻ ሳይሆን፣ ያህዌህ ኤሎሂም ነውና፤ ያህዌህ ሞገስንና ክብርን ይሰጣል፤ በፍጹምነት ለሚሄዱት መልካምን አይከለክልም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ልክ እንደ… ነውና"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "የፀሐይ"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "መከላ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ሞገስን"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ክብርን"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይሰጣል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይከለክልም መልካምን"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "አይከለክልም"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካምን"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "ለሚሄዱት"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "በፍጹምነት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:14.873533225Z",
+  "model": "glm-5.3"
+}

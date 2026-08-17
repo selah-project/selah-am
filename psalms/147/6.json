@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 147,
+  "translation": "ያህዌህ ውርደተኞችን ያነሳል፤ ክፉዎችንም እስከ ምድር ድረስ ያዋርዳል።",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "ያነሳል"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ውርደተኞችን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "ያዋርዳል"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉዎችን"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "እስከ … ድረስ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:41.099395131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የሜዳውን ከተሞች ሁሉ፣ የጌልዓድንም ሁሉ፣ የባሳንንም ሁሉ እስከ ሳልካና እስከ አድሬይ — የዐውግ የመንግሥት ከተሞች በባሳን — እኛ ወረስን።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "የ…ከተሞች"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "ሜዳው"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ጌልዓድ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ባሳን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "ሳልካ"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "እና አድሬይ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ከተሞች"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "የመንግሥት"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ዐውግ"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "በባሳን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:34:20.058262341Z",
+  "model": "glm-5.3"
+}

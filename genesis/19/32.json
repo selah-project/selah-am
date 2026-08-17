@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ና አባታችንን ⟨את⟩ ወይን መጠጥ እናጠጣው፤ ከእርሱ ጋር ተኝተን ከአባታችን ዘር እናቆርጥ።",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "ና"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "እናጠጣው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አባታችንን"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "አባታችንን"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ወይን"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "ተኝተን"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "እናቆርጥ"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "ከአባታችን"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘር"
+    }
+  ],
+  "timestamp": "2026-08-16T02:39:52.123115271Z",
+  "model": "glm-5.3"
+}

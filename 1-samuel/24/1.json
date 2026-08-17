@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ዳዊትም ከዚያ ወጥቶ በዐይን ጌዲ ማዶች ውስጥ ተቀመጠ።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ወጥቶ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ከዚያ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቀመጠ"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "በማዶች ውስጥ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ዐይን"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "ጌዲ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:47:25.359950751Z",
+  "model": "glm-5.3"
+}

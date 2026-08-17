@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 8:8",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ከዚያም ወደ ፈኑኤል ወጣ፤ እነሱንም እንደዚሁ ነገራቸው፤ የፈኑኤል ሰዎችም እንደ ሱኮት ሰዎች መልስ ሰጡትና ⟨את⟩ መለሱለት።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ከዚያም"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "ፈኑኤል ወደ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ነገራቸውም"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "እነሱን"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "ויענו",
+      "gloss": "መለሱለትም"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "እሱን"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰዎች የ"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "ፈኑኤል"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "መልስ የሰጡት"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "ሱኮት"
+    }
+  ],
+  "timestamp": "2026-08-16T15:31:22.751933062Z",
+  "model": "glm-5.3"
+}

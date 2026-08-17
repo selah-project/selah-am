@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "እነሱም ዮሴፍ የሚሰማ እንደሆነ አወቁም ነበር፤ ተርጉሚ በእነሱ መካከል ነበርና።",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "እነሱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "አወቁም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ…እንደሆነ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "የሚሰማ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ…ነበርና"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "ተርጉሚ"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "በእነሱ መካከል"
+    }
+  ],
+  "timestamp": "2026-08-16T02:59:39.998353774Z",
+  "model": "glm-5.3"
+}

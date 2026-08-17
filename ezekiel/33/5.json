@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "ezekiel 33:5",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "የሰርጓሙን ድምፅ ⟨את⟩ ሰማ እና ሳይጠነቀቅ ቆየ፤ ደሙ በርሱ ላይ ይሆናል፤ እርሱ ግን ቢጠነቀቅ ኖሮ ነፍሱን ያድን ነበር።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሰርጓሙን ድምፅ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "የሰርጓሙ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና ሳይጠነቀቅ"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "ቆየ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ደሙ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በርሱ ላይ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "እርሱ ግን"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "ቢጠነቀቅ ኖሮ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱን"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "ያድን ነበር"
+    }
+  ],
+  "timestamp": "2026-08-16T08:44:06.549433260Z",
+  "model": "glm-5.3"
+}

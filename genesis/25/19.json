@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "እነዚህም የይስሐቅ ትውልዶች ናቸው፤ የአብርሃም ልጅ፤ አብርሃም ⟨את⟩ ይስሐቅን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እነዚህም"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ትውልዶች"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "የይስሐቅ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "የአብርሃም"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይስሐቅን"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይስሐቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:44:57.529246153Z",
+  "model": "glm-5.3"
+}

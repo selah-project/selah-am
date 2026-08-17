@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ኤሎሂም ሆይ፣ በአንተ ተስፋ አደረግሁ፤ አታፈርሰኝ፤ ጠላቶቼ በእኔ አይደሰቱ።",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም ሆይ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ተስፋ አደረግሁ፤"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አ"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ታፈርሰኝ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አ"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "ይደሰቱ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ጠላቶቼ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "በእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:19.087391663Z",
+  "model": "glm-5.3"
+}

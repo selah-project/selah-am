@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 60,
+  "translation": "አሕዛብም ወደ ብርሃንሽ ይሄዳሉ፣ ነገሥታትም ወደ መውጫ ብርሃንሽ ይመጣሉ።",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "ይሄዳሉም"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "ወደ ብርሃንሽ"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "ነገሥታትም"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "ወደ ብርሃን"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "መውጫ ብርሃንሽ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:31:36.451563690Z",
+  "model": "glm-5.3"
+}

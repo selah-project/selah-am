@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ሳራም ⟨את⟩ ሃጋር ለአብርሃም የወለደችውን የምጽርያዊቷ አማኝ ልጅ እየተጫወተ አየች።",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "አየች"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ሳራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጅን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ሃጋር"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "ምጽርያዊቷ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የወለደችውን"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ለአብርሃም"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "እየተጫወተ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:40:27.717739129Z",
+  "model": "glm-5.3"
+}

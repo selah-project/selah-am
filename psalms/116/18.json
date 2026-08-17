@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 116,
+  "translation": "የእጄን ቃል ለያህዌህ እከፍላለሁ፤ አሁን በአንተ ፊት ለሕዝቡ ሁሉ እንደ ሆነ።",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "የእጄን ቃል"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "እከፍላለሁ"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "נא",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለ…ሁሉ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:05.977714661Z",
+  "model": "glm-5.3"
+}

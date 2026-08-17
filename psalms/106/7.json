@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "አባቶቻችን በምጽራይም ተአምራትህን አልተረዱም፤ ⟨את⟩ ብዙ ምሕረትህን አላሰቡም፤ በባሕር ላይ እስከ ሱፍ ባሕር ድረስ አመጁ።",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "አባቶቻችን"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "በምጽራይም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "አልተረዱም"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ተአምራትህን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አላ…ም"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "አላሰቡም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብዙ ምሕረትህን"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "ምሕረትህን"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "አመጁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "בים",
+      "gloss": "በባሕር"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ሱፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:25.351722713Z",
+  "model": "glm-5.3"
+}

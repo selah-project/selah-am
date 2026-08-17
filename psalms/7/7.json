@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ቁም አንተ ያህዌህ በቍጣህ፤ በጠላቶቼ ቍጣ ላይ ተምሰው ቁም፤ እና ለእኔ አስተንቀዕ — ፍርድን ታዘዝክ።",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ቁም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "በቍጣህ"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "ተምሰው ቁም"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "በቍጣ ላይ"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "የጠላቶቼ"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "እና አስተንቀዕ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድን"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "ታዘዝክ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:29:16.161849388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "ያህዌህ ሆይ፣ በቍጣህ አትወቅሰኝ፣ በንዴትህም አትገሠጸኝ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "በቍጣህ"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "ትወቅሰኝ"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "በንዴትህም"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "ትገሠጸኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:07.146835078Z",
+  "model": "glm-5.3"
+}

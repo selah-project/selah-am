@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 66,
+  "translation": "ወፈር ያላቸውን የሚቃጠሉ መሥዋዕቶች ለህ አስወጣለሁ፤ ከአውራምቶች ዕጣን ጋር፤ ላሞችን ከአውራ ፍየሎች ጋር አደርጋለሁ። ሴላ።",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "የሚቃጠሉ መሥዋዕቶች"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "ወፈር ያላቸውን"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "አስወጣለሁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለህ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ... ጋር"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ዕጣን"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "አውራምቶች"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "አደርጋለሁ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ላሞችን"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ... ጋር"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "አውራ ፍየሎች"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:15.819957187Z",
+  "model": "glm-5.3"
+}

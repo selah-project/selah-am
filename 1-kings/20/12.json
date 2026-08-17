@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "1-kings 20:12",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ይህን ⟨את⟩ ቃል ሲሰማ እርሱ እርሱና ነገሥታቱ በዳስኞች ውስጥ ሲጠጡ ነበር፤ ወደ አገልጋዮቹም «ተዘጋጁ» አለ፤ እነሱም በከተማዋ ላይ ተዘጋጁ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነም"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ሲሰማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃል"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃልን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "እርሱም"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ሲጠጣ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "እና ነገሥታቱ"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "በዳስኞች"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "አገልጋዮቹ"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "ተዘጋጁ"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "ተዘጋጁም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:32:38.735758601Z",
+  "model": "glm-5.3"
+}

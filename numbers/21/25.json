@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "እና እስራኤል ⟨את⟩ ከተሞቹን በሙሉ ወሰደ፤ እና እስራኤል በአሞራውያን ከተሞች ሁሉ በኬስቦን እና በዳገሞቿ ሁሉ ተቀመጠ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተሞችን በሙሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በሙሉ ያለውን"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ከተሞችን"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቀመጠ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉም"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ከተሞች"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "የአሞራውያን"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "በኬስቦን"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "እና በሁሉም"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "ዳገሞቿ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:19:59.222310859Z",
+  "model": "glm-5.3"
+}

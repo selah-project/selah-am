@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ልብስህ በአንተ ላይ አልሟሰምም፤ እግርህም አልተበጠሰም፤ ይህ አርባ ዓመት ነው።",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "ልብስህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "አልሟሰመም"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "በአንተ ላይ"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "እግርህም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "አልተበጠሰም"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "አርባ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:39:39.475546725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "የጾር መሸከም። የተርሴስ መርኮች ሆይ፣ ዋዘኑ፤ ምክንያቱም ተዘፈነ — ቤት የለም፣ መግቢያ የለም፤ ከኪቲያውያን ምድር ሆኖ ተገለጠላቸው።",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "መሸከም"
+    },
+    {
+      "surface": "צר",
+      "gloss": "የጾር"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "ዋዘኑ"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "መርኮች"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "የተርሴስ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ተዘፈነ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ከቤት"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ከመግቢያ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከምድር"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "ኪቲያውያን"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "ተገለጠ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ላቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T07:10:38.335329176Z",
+  "model": "glm-5.3"
+}

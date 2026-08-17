@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ሁሉም በማይበገኝ ሕዝብ ላይ ያሳፍራል፤ ለእነርሱ አይጠቅሙም፤ ለርዳታ አይደሉም እንዲሁም ለትርፍ አይደሉም፤ ምክንያቱም ለውርደት፣ እንዲሁም ለስድብ ናቸው።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "ያሳፍራል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "ይጠቅሙም"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ላቸው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደሉምም"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "ለርዳታ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንዲሁም አይደሉም"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "ለትርፍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "ለውርደት"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "ለስድብ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:14:44.791753965Z",
+  "model": "glm-5.3"
+}

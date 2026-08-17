@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 81,
+  "translation": "ከስንዴው ስብ ⟨እርሱ⟩ እንዲበላው አደረገው፣ እና ከዐልባ ማር እኔ አጥግቼሃለሁ።",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "እንዲበላው አደረገው"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ከስብ"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "ስንዴው"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "እና ከዐልባ"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "ማር"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "አጥግቼሃለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:49.347117475Z",
+  "model": "glm-5.3"
+}

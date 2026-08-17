@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ለኤል ድድ ያበረክታልን? ብልህ ሰው እንደ ራሱ ላቸው የሚያበረክት ነውን?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "ለኤል…ን?"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "ያበረክታል"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ድድ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "ያበረክት ነው"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ላቸው\/ለራሱ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ብልህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:51:02.250730161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 46,
+  "translation": "ውኆቹ ይደምቃሉ ይንቀጠቀጣሉ፤ ተራሮች በኩራቱ ይንቀጠቀጣሉ። ሴላ።",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "ይደምቃሉ"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "ይንቀጠቀጣሉ\/ያረፍላሉ"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ውኆቹ"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "ይንቀጠቀጣሉ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ተራሮች"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "በኩራቱ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:10.407698055Z",
+  "model": "glm-5.3"
+}

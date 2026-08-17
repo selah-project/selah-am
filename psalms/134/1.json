@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 134,
+  "translation": "የመውጣጫ መዝሙር። እነሆ ያህዌህን ⟨את⟩ ያመሰግኑ፣ የያህዌህ አገልጋዮች ሁሉ፣ በያህዌህ ቤት በሌሊት የሚቆሙት።",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "የመውጣጫ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ያመሰግኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "አገልጋዮች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "የሚቆሙት"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "በሌሊት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:53.621140463Z",
+  "model": "glm-5.3"
+}

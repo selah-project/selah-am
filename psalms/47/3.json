@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 47,
+  "translation": "በእውነት ያህዌህ የላቀ፣ በጣም የሚያስፈራ ነው፤ በምድር ሁሉ ላይ ታላቅ ንጉሥ ነው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "የላቀ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "የሚያስፈራ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "በምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:11.566248817Z",
+  "model": "glm-5.3"
+}

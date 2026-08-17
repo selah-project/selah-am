@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "የሴቶችን ጥበብ ቤቷን ሠራች፤ እንጂ ሞኝነት በእጆቿ ይከብዳታል።",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "የሴቶችን"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "ሠራች"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ቤቷን"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "እንጂ ሞኝነት"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "በእጆቿ"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "ይከብዳታል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:27:28.558254589Z",
+  "model": "glm-5.3"
+}

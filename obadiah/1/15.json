@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "obadiah 1:15",
+  "book": "obadiah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "በእውነት ቀኑ ቅርብ ነው — የያህዌህ ቀን በሁሉም ሕዝቦች ላይ፤ አንተ አድርገሃል እንደሆነ በአንተ ይደረጋል፤ በራስህም ራስ ይመልሳል የአንተ እጣ ፍርድ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ቅርብ ነው"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀኑ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደሆነ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "አድርገሃል"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ይደረጋል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "የአንተ እጣ ፍርድ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ይመልሳል"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "በራስህ ራስ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:07:53.379140769Z",
+  "model": "glm-5.3"
+}

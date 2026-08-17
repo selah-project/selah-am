@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 144,
+  "translation": "ኤሎሂም፣ አዲስ መዝሙር ላንተ እበራለሁ፤ በነበልባል፣ በአሥር አውታር፣ ላንተ አመሰግንሃለሁ።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "አዲስ"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "እበራለሁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ላንተ"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "በነበልባል"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "በአሥር አውታር"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "አመሰግንሃለሁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ላንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:02.910146751Z",
+  "model": "glm-5.3"
+}

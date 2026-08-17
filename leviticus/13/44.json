@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 44,
+  "ref": "leviticus 13:44",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "የቅማል ችግር ያለበት ሰው ⟨እርሱ⟩ ነው፤ እርኩስ ⟨እርሱ⟩ ነው፤ በራሱ ላይ ቁስሉ ስለሆነ ካህኑ እኩስ ብሎ ይነግረዋል።",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "የቅማል ችግር ያለበት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨እርሱ⟩"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "እኩስ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨እርሱ⟩"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "እኩስ"
+    },
+    {
+      "surface": "יטמאנו",
+      "gloss": "እኩስ ብሎ ይነግረዋል"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "በራሱ ላይ"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "ቁስሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:50:24.974930462Z",
+  "model": "glm-5.3"
+}

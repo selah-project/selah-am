@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "leviticus 10:17",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ለምን አልበላታችሁም ⟨את⟩ የኃጢአት መሥዋዕቱን በተቀደሰው ስፍራ? ቅዱስ ቅዱሳን ነውና፤ እርሷንም ሰጣችሁ፤ የማኅበሩን በደል እናንተ ትሸከሙ ዘንድ፣ በያህዌህ ፊት ላስተስሐባቸው።",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አልበላታችሁም"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "በላታችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የኃጢአት መሥዋዕቱን"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "የኃጢአት መሥዋዕት"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "በ…ስፍራ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "በተቀደሰው ስፍራ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነውና"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ቅዱሳን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ነው"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "⟨את⟩ እና"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጣችሁ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለእናንተ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ትሸከሙ ዘንድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በደል"
+    },
+    {
+      "surface": "עון",
+      "gloss": "በደል"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "የማኅበር"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "ላስተስሐባቸው"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "እነርሱን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ…ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:49:46.504454837Z",
+  "model": "glm-5.3"
+}

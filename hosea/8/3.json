@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እስራኤል መልካሙን አጣ፤ ጠላት ይከተለዋል።",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "አጣ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካሙን"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ጠላት"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "ይከተለዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T08:59:27.795167760Z",
+  "model": "glm-5.3"
+}

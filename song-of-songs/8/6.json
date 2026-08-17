@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "song-of-songs 8:6",
+  "book": "song-of-songs",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እንደ ታምራ በልብህ ላይ አኑረኝ፣ እንደ ታምራ በእጅህ ላይ፤ ምክንያቱም ፍቅር እንደ ሞት ኃያል ናት፤ ቅናት እንደ ሲኦል አስቸጋሪ ናት፤ ብርሾቿ የእሳት ብርሾች የያህ ነበልባል ናት።",
+  "tokens": [
+    {
+      "surface": "שימני",
+      "gloss": "አኑረኝ"
+    },
+    {
+      "surface": "כחותם",
+      "gloss": "እንደ ታምራ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ልብህ"
+    },
+    {
+      "surface": "כחותם",
+      "gloss": "እንደ ታምራ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "እጅህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ኃያል"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "እንደ ሞት"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ፍቅር"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "አስቸጋሪ"
+    },
+    {
+      "surface": "כשאול",
+      "gloss": "እንደ ሲኦል"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ቅናት"
+    },
+    {
+      "surface": "רשפיה",
+      "gloss": "ብርሶቿ"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "የ…ብርሶች"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "שלהבת",
+      "gloss": "ነበልባል"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:07:04.516233549Z",
+  "model": "glm-5.3"
+}

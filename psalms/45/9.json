@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "ሙራ፣ አሎስና ቀጥያ ሁሉ ልብሶችህ ⟨ናቸው⟩፤ ከየስን ቤተ መንግሥታት የዜማ መሣሪያዎች አስደሰቱህ።",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "ሙራ"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "አሎስ"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "ቀጥያ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "ልብሶችህ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "ቤተ መንግሥታት"
+    },
+    {
+      "surface": "שן",
+      "gloss": "የስን"
+    },
+    {
+      "surface": "מני",
+      "gloss": "የዜማ መሣሪያዎች"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "አስደሰቱህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:33.473231305Z",
+  "model": "glm-5.3"
+}

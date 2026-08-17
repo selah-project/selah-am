@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ብቻ ሰው አይክራክር እና ሰውን አይወቅስ፤ ሕዝብህም ካህንን እንደሚክራክሩት ነው።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "ይክራክር"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "ይወቅስ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰውን"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "እና ሕዝብህ"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "እንደሚክራክሩት"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ካህን"
+    }
+  ],
+  "timestamp": "2026-08-16T08:57:58.335441512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 36:20",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "ከሰይፉም የቀሩትን ቅሬታ ወደ ባቢሎን ጠረገ፤ እነርሱም ለእርሱና ለወንዶች ልጆቹ አገልጋዮች ሆኑ — እስከ ፋርስ መንግሥት መንግሥ ድረስ።",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "ጠረገ\/ሰደደ"
+    },
+    {
+      "surface": "השארית",
+      "gloss": "ቅሬታውን"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ሰይፉ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ባቢሎን"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ሆኑ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "እና ለወንዶች ልጆቹ"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "አገልጋዮች"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "መንግሥ ድረስ"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "መንግሥት የ"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "ፋርስ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:03:12.735221165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 115,
+  "translation": "ኤሎሂሚና በሰማያት ⟨ነው⟩፤ የፈለገውን ሁሉ አደረገ።",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "ኤሎሂሚና"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "በሰማያት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ን"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ፈለገው"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:03.479693031Z",
+  "model": "glm-5.3"
+}

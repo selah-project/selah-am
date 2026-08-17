@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "የኤፍራይም ልጆች ፊተኞች ሆነው ቀስት የሚያስተናግዱ በውጊያ ቀን ተመለሱ።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "የሚያስተናግዱ"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "ፊተኞች ሆነው"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ቀስት"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "ተመለሱ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በ… ቀን"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ውጊያ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:44.074167664Z",
+  "model": "glm-5.3"
+}

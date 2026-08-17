@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እና እርሷን ⟨את⟩ የሚያቃጥለው ሰው ልብሶቹን በውሃ ያጠባል፣ ሥጋውንም በውሃ ያጠባል፤ እስከ ምሽት ድረስ የረከስ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "የሚያቃጥለው ሰው"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እርሷን"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ያጠባል"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ልብሶቹን"
+    },
+    {
+      "surface": "במים",
+      "gloss": "በውሃ"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ያጠባልም"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ሥጋውን"
+    },
+    {
+      "surface": "במים",
+      "gloss": "በውሃ"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "የረከስ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ… ድረስ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ምሽት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:19:33.571947361Z",
+  "model": "glm-5.3"
+}

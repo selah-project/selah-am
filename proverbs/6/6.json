@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ወደ ጉንዳን ሂድ፣ አንተ ሰንብተኛ፤ መንገዷን ተመልከት፣ እና ብልህ ሁን።",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "ጉንዳን"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ሰንብተኛ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ተመልከት"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "መንገዷን"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "እና ብልህ ሁን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:23:04.066066087Z",
+  "model": "glm-5.3"
+}

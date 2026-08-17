@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ከአንበሳ አፍ አድነኝ፤ ከራሞች ቀንዶችም መለስኝ።",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "አድነኝ"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "ከአፍ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "አንበሳ"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "እና ከቀንዶች"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "ራሞች"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "መለስኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:48.866667315Z",
+  "model": "glm-5.3"
+}

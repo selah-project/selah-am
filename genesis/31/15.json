@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ወደ እርሱ የሞገዳት ተቆጠርን አይደለንም? ሳይሆን ሸጠን፤ እንዲሁም ብርናችንን ⟨את⟩ ፈጽሞ በላ።",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "አይደለንም?"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "የሞገዳት"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "ተቆጠርን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ሳይሆን"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "ሸጠን"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "በላ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "ፈጽሞ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብርናችንን"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "ብርናችንን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:51:19.924813022Z",
+  "model": "glm-5.3"
+}

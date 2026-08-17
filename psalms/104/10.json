@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 104,
+  "translation": "ምንጮችን በሸለሆች የሚልክ፤ በተራሮች መካከል ይሄዳሉ።",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "የሚልክ"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "ምንጮችን"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "በሸለሆች"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በ…መካከል"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ተራሮች"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "ይሄዳሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:10.220383374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 102,
+  "translation": "እንዲህ አለሁ፦ አምላኬ ኤል፣ በዓመታቼ መካከል አትውሰደኝ፤ ዓመታትህ በትውልድ ትውልድ ሁሉ ናቸው።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "እንዲህ አለሁ፦"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "አምላኬ ኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "ትውሰደኝ"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "የዓመታቼ"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "በትውልድ"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "ትውልድ ሁሉ"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "ዓመታትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:44.757707077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ዳዊትም ላከ እና ስለ እርሷ ሴቲቱን ጠየቀ፤ እርሱም እንዲህ አለ፦ ይህችታ ባት-ሴባ የኤልያም ልጅ የዑርያ ሔጢ ሚስት አይደለችም?",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "ጠየቀ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ስለ ሴቲቱን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "አይደለችም?"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህች"
+    },
+    {
+      "surface": "בת",
+      "gloss": "የ…ልጅ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ባት-ሴባ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "ኤልያም"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሚስት"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ዑርያ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ሔጢ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:02:11.814871118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "ስለዚህ ሕዝቡ እዚህ ይመለሳል፤ የሙላት ውሃም ይረጭላቸዋል።",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ይመለሳል"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "እዚህ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ውሃም"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "የሙላት"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "ይረጭላቸዋል"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ላቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:12.954536934Z",
+  "model": "glm-5.3"
+}

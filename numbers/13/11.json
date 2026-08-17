@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ለዮሴፍ ነገዥ ለምናሴ ነገዥ ጋዲ የሱሲ ልጅ።",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ለ...ነገዥ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ለ...ነገዥ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሴ"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "ጋዲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "ሱሲ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:13:24.739136995Z",
+  "model": "glm-5.3"
+}

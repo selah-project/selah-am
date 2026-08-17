@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 115,
+  "translation": "ጆሮዎች አሏቸው፣ ነገር ግን አይሰሙም፤ አፍንጫ አላቸው፣ ነገር ግን አያሽ አይሆኑም።",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "ጆሮዎች"
+    },
+    {
+      "surface": "להם",
+      "gloss": "አሏቸው"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ነገር ግን አይ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ሰሙም"
+    },
+    {
+      "surface": "אף",
+      "gloss": "አፍንጫ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "አላቸው"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ነገር ግን አይ"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "ያሽ አይሆኑም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:45.705240156Z",
+  "model": "glm-5.3"
+}

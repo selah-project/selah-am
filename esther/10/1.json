@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ንጉሡም አክስወሮስ በምድሩ እና በባሕሩ ደሴቶች ላይ ግብር አደረገ።",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "አክስወሮስ"
+    },
+    {
+      "surface": "מס",
+      "gloss": "ግብር"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "በምድሩ"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "እና ደሴቶች"
+    },
+    {
+      "surface": "הים",
+      "gloss": "የባሕሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:22:10.910430838Z",
+  "model": "glm-5.3"
+}

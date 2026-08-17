@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "እኔ ግን አልኳለሁ፤ ለከንቱ ደከምኩ፤ ለአላቀም እና ለምንም ኃይሌን አባክንኩ፤ እውነት ግን ፍርዴ ⟨את⟩ ያህዌህ ከሆደ ነው፤ እና ብድሜዬ ⟨את⟩ ከኤሎሂም ነው።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "አልኳለሁ"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "ለከንቱ"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "ደከምኩ"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "ለአላቀም"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "እና ለምንም"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ኃይሌን"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "አባክንኩ"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "እውነት ግን"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ፍርዴ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "እና ብድሜዬ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂም"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:24:55.810737931Z",
+  "model": "glm-5.3"
+}

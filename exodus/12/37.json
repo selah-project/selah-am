@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 37,
+  "ref": "exodus 12:37",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የይስራኤል ልጆችም ከራዕሜስ ወደ ሱኮት ተጓዙ፤ እንደ ስድስት መቶ ሺህ የኳስ ጋላቢ ወንዶች፣ ከሕፃናት በቀር።",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ተጓዙ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "ከራዕሜስ"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "ወደ ሱኮት"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "እንደ ስድስት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "የኳስ ጋላቢዎች"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "ወንዶች"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "በቀር"
+    },
+    {
+      "surface": "מטף",
+      "gloss": "ከሕፃናት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:13:57.951263016Z",
+  "model": "glm-5.3"
+}

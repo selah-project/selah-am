@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 63,
+  "translation": "የመበቀል ቀን በልቤ ነበርና፣ የቤዛዬም ዓመት መጥቷል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደፈለግኩ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "የመበቀል"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "በልቤ"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "ዓመትም"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "የቤዛዬ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "መጥቷል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:30:52.486071050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "ተገደሉ፣ ተደፈጡም፤ በጨቋታ፣ በክፉነትና በሀዘን።",
+  "tokens": [
+    {
+      "surface": "וימעטו",
+      "gloss": "ተገደሉ"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "ተደፈጡም"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "በጨቋታ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "በክፉነት"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "በሀዘን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:32.288742138Z",
+  "model": "glm-5.3"
+}

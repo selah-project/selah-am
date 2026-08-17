@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ምስክሮችህን ለዘላለም ወርሻዬ አድርጌያለሁ፤ ክብር ልቤ ናቸውና።",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "ወርሻዬ አድርጌያለሁ"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ምስክሮችህን"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ደስታ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:54.122601052Z",
+  "model": "glm-5.3"
+}

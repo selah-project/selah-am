@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ከሦስት ቀናት መጨረሻ ላይ ሆነ፤ ሹማምት በሰፈሩ መካከል ዞሩ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ከ… መጨረሻ ላይ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "ዞሩ"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "ሹማምት"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "በ… መካከል"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ሰፈሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:00:05.751398149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 102,
+  "translation": "እንቅልፌን አጥቼ ቆይሁ፤ እንደ ጠጅራ ብቻዬን በቤት ጣሪያ ላይ ኾኜያለሁ።",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "እንቅልፌን አጥቼ ቆይሁ፤"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "ኾኜያለሁ።"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "እንደ ጠጅራ"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "ብቻዬን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "גג",
+      "gloss": "በቤት ጣሪያ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:42.171512906Z",
+  "model": "glm-5.3"
+}

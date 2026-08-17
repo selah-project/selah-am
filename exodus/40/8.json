@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "⟨את⟩ አደባባዩን በዙሪያው ታዘጋጃለህ፤ ⟨את⟩ የአደባባዩን በር መጋረጃም ታዘጋጃለህ።",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ታዘጋጃለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አደባባዩን"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "አደባባይ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "በዙሪያ"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ታዘጋጃለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የበሩን መጋረጃ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "መጋረጃ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "በር"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "አደባባይ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:40:24.050650316Z",
+  "model": "glm-5.3"
+}

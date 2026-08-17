@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "በዚያን ጊዜ ሰሎሞን፦ ያህዌህ በጭብጥ ጨለማ ውስጥ እንዲኖር ብሏል፤ አለ።",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "በዚያን ጊዜ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ብሏል"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "እንዲኖር"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "በጭብጥ ጨለማ ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:20:37.251671710Z",
+  "model": "glm-5.3"
+}

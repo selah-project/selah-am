@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "2-chronicles 3:15",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "በቤቱ ፊትም ሁለት አምዶችን አደረገ፤ የርዝመታቸው ሠላሳ አምስት ክንዘት ነው፤ እነርሱም በራሳቸው ራስ ላይ ያለው ከፍታ አምስት ክንዘት ነው።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገም"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ… ፊት"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "עמודים",
+      "gloss": "አምዶችን"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ክንዘት"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሠላሳ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "የርዝመት"
+    },
+    {
+      "surface": "והצפת",
+      "gloss": "ከፍታም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለው"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "በራሳቸው ራስ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ክንዘት"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "አምስት"
+    }
+  ],
+  "timestamp": "2026-08-16T13:33:07.812665756Z",
+  "model": "glm-5.3"
+}

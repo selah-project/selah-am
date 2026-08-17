@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ለጥበበምታ ስጥ እና ⟨እርሱ⟩ ደግሞ ይጠበባል፤ ለጻድቅ አሳውቅ እና ⟨እርሱ⟩ ትምህርትን ይጨምራል።",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "ስጥ"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ለጥበበምታ"
+    },
+    {
+      "surface": "ויחכם",
+      "gloss": "ይጠበባል"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "አሳውቅ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ለጻድቅ"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ይጨምራል"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ትምህርትን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:23:25.018732001Z",
+  "model": "glm-5.3"
+}

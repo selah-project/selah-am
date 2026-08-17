@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እኔ ቀድሼ ያለቁትን ⟨את⟩ ከዚያው እስከ አሁን እየኖሩ ካሉት ሕያዋን እንደ ሚያመሰግን አመሰግናለሁ፤",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "አመሰግናለሁ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያለቁትን"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ያለቁትን"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "ቀድሞ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ሞተዋል"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ሕያዋን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እነርሱ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነርሱ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "እየኖሩ"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "እስከ አሁን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:15:05.218692300Z",
+  "model": "glm-5.3"
+}

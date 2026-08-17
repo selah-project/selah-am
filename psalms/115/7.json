@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 115,
+  "translation": "እጆቻቸው አሏቸው፣ ነገር ግን አይነኩም፤ እጎቻቸው አሏቸው፣ ነገር ግን አይሄዱም፤ በጉሮሮአቸውም አያጅሙም።",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "እጆቻቸው"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ነገር ግን አይ"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "ነኩም"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "እጎቻቸው"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ነገር ግን አይ"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "ሄዱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "ያጅሙም"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "በጉሮሮአቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:45.707141564Z",
+  "model": "glm-5.3"
+}

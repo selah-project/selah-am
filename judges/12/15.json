@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "judges 12:15",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ዐብድወን የሂሌል ልጅ ፒራጤናዊው ሞተ፤ በፒራጤንም በኤፍሬም ምድር በዓማሌቁ ተራራ ተቀበረ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "ዐብድወን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "ሂሌል"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "ፒራጤናዊው"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ተቀበረ"
+    },
+    {
+      "surface": "בפרעתון",
+      "gloss": "በፒራጤን"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በ… ምድር"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍሬም"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "በ… ተራራ"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "ዓማሌቁ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:22:49.551761860Z",
+  "model": "glm-5.3"
+}

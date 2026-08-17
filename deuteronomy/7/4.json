@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እንደገና ልጅህን ⟨את⟩ ከኋላዬ ይለያያል፣ እነርሱም ሌላ ኤሎሂም ያገለግላሉ፤ የያህዌህ ቁጭት በናንተ ላይ ይነድዳል እና በፍጥነት ያጠፋችኋል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደገና"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "ይለያያል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጅህን"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ልጅህን"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ከኋላዬ"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ያገለግላሉ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ሌላ"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "ይነድዳል"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ቁጭት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "በናንተ ላይ"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "ያጠፋችኋል"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "በፍጥነት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:37:26.112877447Z",
+  "model": "glm-5.3"
+}

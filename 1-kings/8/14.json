@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ንጉሡም ⟨את⟩ ፊቱን መለሰ፤ ⟨את⟩ መላውን የእስራኤልን ማኅበር ባረከ፤ የእስራኤል ማኅበርም ሁሉ ቆሞ ነበር።",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "መለሰ፤"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊቱን"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱን"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ባረከ፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መላውን የእስራኤልን ማኅበር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላውን"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ማኅበር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤልን"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "…ሁሉም"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ማኅበር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ቆሞ ነበር"
+    }
+  ],
+  "timestamp": "2026-08-16T06:21:30.624886587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "እና ቀድሶ ያደረገው ቤቱን መልሶ ሊያድን ከሆነ ⟨את⟩ ቤቱን በአንተ ግመታ በላዩ ላይ የብር አምስተኛ ይጨምራል፤ እርሱ የሆነው ለርሱ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እና ከሆነ"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "ቀድሶ ያደረገው"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ሊያድን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱን"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱን"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ይጨምራል"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "አምስተኛ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "የብር"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "የአንተ ግመታ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በላዩ ላይ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "የሆነው ይሆናል"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:03:56.676048785Z",
+  "model": "glm-5.3"
+}

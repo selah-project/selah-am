@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ጥበበኛ ልጅ የአባት ተገሠጻ ይሰማል፤ አትባክን ግን ስደብ አይሰማም።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ጥበበኛ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ተገሠጻ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "አባት"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "አትባክን ግን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይሰማም"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ይሰማል"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "ስደብ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:27:32.359017333Z",
+  "model": "glm-5.3"
+}

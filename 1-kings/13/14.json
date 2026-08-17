@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "1-kings 13:14",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "የኤሎሂምውን ሰውም ተከተለው ሄደ፤ በእሾቱ ሥር ተቀምጦት አገኘው፤ እርሱም እንዲህ አለው፤ «አንተ ከይሁዳ የመጣኸው የኤሎሂም ሰው ነህን?» እርሱም «እኔ ነኝ» አለ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ተከተለው"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "አገኘው"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ተቀምጦ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በሥር"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እሾቱ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "አንተ…ነህን?"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "באת",
+      "gloss": "የመጣኸው"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "ከይሁዳ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:26:48.071561792Z",
+  "model": "glm-5.3"
+}

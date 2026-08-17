@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ለጠላቶቼ ምኞት አትስጠኝ፤ ሐሰተኛ መስካሪዎች በደረሱብኝ እና በጭቆራ እስትንፋስ ያወጣሉ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "አትስጠኝ"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ለ…ምኞት"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ለጠላቶቼ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ስለወጡብኝ"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "በደረሱብኝ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በእኔ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "መስካሪዎች"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሐሰተኛ"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "ያወጣሉ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "በጭቆራ እስትንፋስ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:04.865292776Z",
+  "model": "glm-5.3"
+}

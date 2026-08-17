@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "የወፈረ ነፍስ ትመኛለች ነገር ግን የላትም፤ የትጉሖች ነፍስ ግን ደማ ትሆናለች።",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "ትመኛለች"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ነገር ግን የላትም"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "የወፈረ"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ነፍስ ግን"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "የትጉሖች"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "ደማ ትሆናለች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:27:32.359469329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 92,
+  "translation": "ያህዌህ ሥራዎችህ ምን ያህሉ ታላቅ ናቸው፤ አሳቦችህም በጣም ጥልቅ ናቸው።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ምን ያህሉ"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ታላቅ ናቸው"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ሥራዎችህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "ጥልቅ ናቸው"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "አሳቦችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:39.175120301Z",
+  "model": "glm-5.3"
+}

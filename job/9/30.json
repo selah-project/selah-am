@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "በበረዶ ቢታጠብሁ፣ እጄንም በአልካሊ ቢነጽህ፣",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ቢ"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "ታጠብሁ"
+    },
+    {
+      "surface": "במו",
+      "gloss": "በ"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "በረዶ"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "ነጽህሁ፤ ቢነጽህ"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "በአልካሊ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "እጄን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:44:17.009132491Z",
+  "model": "glm-5.3"
+}

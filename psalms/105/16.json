@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "ረሃብንም በምድሩ ላይ ጠራ፤ የእንጀራ ትረን ሙሉ በላዩ ሰበረ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ረሃብን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሙሉ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ትረን"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "የእንጀራ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ሰበረ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:26.181242458Z",
+  "model": "glm-5.3"
+}

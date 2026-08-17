@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 55,
+  "translation": "ማታ እና ጠዋት እና ቀን እነጋገራለሁ እንባም አፈስሳለሁ፤ ድምፄንም ሰማ።",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "ማታ"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "እና ጠዋት"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "እና ቀን"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "እነጋገራለሁ"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "እንባም አፈስሳለሁ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ድምፄን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:37.118686924Z",
+  "model": "glm-5.3"
+}

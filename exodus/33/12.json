@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "exodus 33:12",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ሞሼም ያህዌህን እንዲህ አለው፦ ተመልከት፣ ይህን ሕዝብ ⟨את⟩ አስወጣህ ብለኸኛል፤ ከእኔም ጋር የምትልከውን ⟨את⟩ ግን አላሳወቅህኝም፤ እንደዚሁም በስም አውቄሃለሁ፣ በዓይኖቼም ፊት ጸጋ አግኝተሃል በልህ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ተመልከት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ብለህኛል"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "העל",
+      "gloss": "አስወጣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህን ሕዝብ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "አንተም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "הודעתני",
+      "gloss": "አሳወቅህኝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የምትልከውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ውን"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "የምትልከው"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ከእኔ ጋር"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "እንደዚሁም አንተ"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "በልህ"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "አውቄሃለሁ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "በስም"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "አግኝተሃል"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ጸጋ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "በዓይኖቼ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:33:34.402426701Z",
+  "model": "glm-5.3"
+}

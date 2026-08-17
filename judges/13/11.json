@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "judges 13:11",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ሞንዋሕም ተነሥቶ ከሚስቱ በኋላ ሄደ፤ ወደ ⟨ሰውም መጣ፤ «ወደ ⟨ሴቷ የተናገርከው ⟨ሰው አንተ ነህን?» አለው፤ ⟨እርሱም «እኔ ነኝ» አለ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሥቶ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "ሞንዋሕም"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ… በኋላ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሚስቱ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰውም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "አንተ ነህን"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ው"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ተናገርከው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሴቷ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ ነኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:23:16.723106715Z",
+  "model": "glm-5.3"
+}

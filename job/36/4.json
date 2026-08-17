@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "job 36:4",
+  "book": "job",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "እውነት እንደ ሆነ ቃላቼ ውሸት ⟨አይደሉም⟩፤ በዕውቀት ፍጹም የሆነው ⟨እርሱ⟩ ከአንተ ጋር ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "እውነት እንደ ሆነ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ውሸት"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "ቃላቼ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ፍጹም"
+    },
+    {
+      "surface": "דעות",
+      "gloss": "በዕውቀት"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:58:39.210165385Z",
+  "model": "glm-5.3"
+}

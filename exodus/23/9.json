@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "እንግዳንም አታጨንቅ፤ እናንተ ⟨את⟩ የእንግዳውን ነፍስ ታውቃላችሁ፤ እናንተ በምድረ ምጥርምር እንግዶች ነበራችሁ።",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "እንግዳንም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አታ"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "ጨንቅ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "ታውቃላችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእንግዳውን ነፍስ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "የእንግዳው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "እንግዶች"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ነበራችሁ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድረ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጥርምር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:21:22.797924589Z",
+  "model": "glm-5.3"
+}

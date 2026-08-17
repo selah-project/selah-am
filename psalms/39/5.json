@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "ያህዌህ ሆይ፣ መጨረሻዬን አስወቀኝ፤ የቀኖቼንም መጠን ስንት እንደ⟨ናት⟩ አውቃለሁ — እኔ ምን አልተሟላም እንደሆንኩ።",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "አስወቀኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "መጨረሻዬን"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "የመጠንም"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀኖቼን"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ስንት"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ናት"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "አውቃለሁ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "አልተሟላም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:22.987097323Z",
+  "model": "glm-5.3"
+}

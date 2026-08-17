@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 63,
+  "translation": "ንጉሡም በኤሎሂም ደስ ይሠማው፤ በእርሱ የሚሆን ሁሉ ይመሰግናል፤ ውሸት የሚናገሩ አፍ መዘጋቱን ነው።",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ደስ ይሠማው፤ ይደሰታል"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "በኤሎሂም"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "ይመሰግናል፤ ይተመካል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "የሚሆን\/የሚምህልህ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ፤ መዝገብ ነው ስለዚህ"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "ይዘጋል"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፍ"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "የሚናገሩ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ውሸት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:34.475435428Z",
+  "model": "glm-5.3"
+}

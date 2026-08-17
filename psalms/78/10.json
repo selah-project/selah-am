@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "የኤሎሂምን ቃል ኪዳን አልጠበቁም፤ በእርሱ በሕግ ለመሄድም አልተለመዱም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አል… ም"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "አልጠበቁ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ቃል ኪዳንን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "በእርሱ በሕግም"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "አልተለመዱም"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ለመሄድ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:44.074689204Z",
+  "model": "glm-5.3"
+}

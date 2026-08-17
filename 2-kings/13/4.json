@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ይሆአሐዝ የያህዌህን ⟨את⟩ ፊት ለመነ፤ ያህዌህ ወደ እርሱ በመስማት ሰማው፤ የእስራኤልን ⟨את⟩ ጭንቀት ስለ ተመለከተ እና የአራም ንጉሥ ⟨את⟩ እነርሱን ስለ ጨበጣቸው።",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ለመነ\/ፈተነ"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "ይሆአሐዝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊትን"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማው"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ተመለከተ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጭንቀትን"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ጭንቀት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤልን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ጨበጣቸው"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "የአራም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:47:52.646840801Z",
+  "model": "glm-5.3"
+}

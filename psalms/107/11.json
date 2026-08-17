@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "የኤልን ⟨את⟩ ቃላት ስለ ነቀነቁ፣ የልዑሉንም ምክር አዋሩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "ነቀነቁ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "እና ምክር"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "የልዑሉን"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "አዋሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:36.600319789Z",
+  "model": "glm-5.3"
+}

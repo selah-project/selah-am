@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እሷንም ማዕዘን በመንገድ ማለፍ ወደ ቤቷም መንገድ እርምጥር እያለ ይራመዳል፤",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "ማለፍ"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "እሷንም"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ማዕዘን"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "መንገድም"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ወደ ቤቷ"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "ይራመዳል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:23:35.480517552Z",
+  "model": "glm-5.3"
+}

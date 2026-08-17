@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "isaiah 25:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "እንደ በጋ በደረቅ ስፍራ የከበሮችን ጩኸት ታሳንሳለህ፤ እንደ በጋ በደመና ጥላ ሥር የበደኞች ዝማሬ ይቀነሳል።",
+  "tokens": [
+    {
+      "surface": "כחרב",
+      "gloss": "እንደ በጋ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "በደረቅ ስፍራ"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ጩኸት"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "የከበሮች"
+    },
+    {
+      "surface": "תכניע",
+      "gloss": "ታሳንሳለህ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "በጋ"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "በጥላ ሥር"
+    },
+    {
+      "surface": "עב",
+      "gloss": "የደመና"
+    },
+    {
+      "surface": "זמיר",
+      "gloss": "ዝማሬ"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "የበደኞች"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ይቀነሳል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:11:11.841794620Z",
+  "model": "glm-5.3"
+}

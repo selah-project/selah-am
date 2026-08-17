@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ካህኑም ለናንተ እንዲቀበል ጢሙን ⟨את⟩ በያህዌህ ፊት ያንሸራትታል፤ ከሰንበት መንገድ በለላ ቀን ካህኑ ያንሸራትታል።",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "ያንሸራትታል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጢሙን"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "ጢሙን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ… ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "ለናንተ እንዲቀበል"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ከ… በለላ ቀን"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ሰንበት"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "ያንሸራትታል"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:58:23.870880137Z",
+  "model": "glm-5.3"
+}

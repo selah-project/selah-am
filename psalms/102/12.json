@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 102,
+  "translation": "ቀኖቼ እንደ ተዘረጋ ጥላ ናቸው፤ እኔም እንደ ሣር ደርቂያለሁ።",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "ቀኖቼ"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "እንደ ጥላ"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "ተዘረጋ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "እኔም"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "እንደ ሣር"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "ደርቂያለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:14.965068098Z",
+  "model": "glm-5.3"
+}

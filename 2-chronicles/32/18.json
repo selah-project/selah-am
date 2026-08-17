@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 32:18",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "በአይሁድም ቋንቋ በታላቅ ድምፅ ወደ እየሩሳሌም በቅጥር ላይ ላለው ሕዝብ ጮክ ብለው ጠሩ፤ ሊያስፈሩና ሊያስደንቋቸው፣ ከተማዋን ⟨את⟩ ሊያዝዙ ይፈልጉ ነበር።",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "ጮክ ብለው ጠሩ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "በ… ድምፅ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "በአይሁድ ቋንቋ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የእየሩሳሌም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኝበት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "በቅጥር"
+    },
+    {
+      "surface": "ליראם",
+      "gloss": "ሊያስፈሩና"
+    },
+    {
+      "surface": "ולבהלם",
+      "gloss": "ሊያስደንቋቸውም"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ውን"
+    },
+    {
+      "surface": "ילכדו",
+      "gloss": "ሊያዝዙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተማዋን"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:54:56.079151141Z",
+  "model": "glm-5.3"
+}

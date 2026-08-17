@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ለአብርሃምም እንዲህ አለች፦ ይህችን አማኝ አስወጣት እና ⟨את⟩ ልጇንም፤ ይህች አማኝ ልጅ ከልጄ ጋር ከይስሃቅ ጋር ተወራርሶ አይወርስምና።",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "እንዲህ አለች"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ለአብርሃም"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "አስወጣት"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "አማኝ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህችን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ልጇን"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ልጇን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከመሆኑም\/እንደሆነም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይወርስም"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "ተወራርሶ ይወርሳል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "አማኝ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህች"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋር"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ከልጄ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋር"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይስሃቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:40:27.717996423Z",
+  "model": "glm-5.3"
+}

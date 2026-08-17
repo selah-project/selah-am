@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 135,
+  "translation": "በእውነት ያህዌህ ሕዝቡን ይፈርዳል፤ ከአገልጋዮቹም ይተሳለ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ይፈርዳል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ከ…ም"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "አገልጋዮቹ"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "ይተሳለ ይሆናል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:42.596607597Z",
+  "model": "glm-5.3"
+}

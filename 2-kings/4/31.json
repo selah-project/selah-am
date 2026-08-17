@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "2-kings 4:31",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ጌሐዚምም በፊታቸው ሄዶ ⟨את⟩ በትራውን በሕፃኑ ፊት ላይ አኑረው፤ ድምፅ የለም፣ መስማትም የለም፤ ወደ እርሱም ተመልሶ ነገረው እንዲህ ብሎ፦ ሕፃኑ አልነቀሰም።",
+  "tokens": [
+    {
+      "surface": "וגחזי",
+      "gloss": "ጌሐዚምም"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ሄዶ"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "በፊታቸው"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "አኑረው፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በትራውን"
+    },
+    {
+      "surface": "המשענת",
+      "gloss": "በትራውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "የሕፃኑ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለም፣"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለም፣"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "መስማት"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተመልሶ"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ነገረው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ፦"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "ነቀሰ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ሕፃኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:38:33.415926506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "genesis 26:21",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ሌላ በር ቈፈሩ፤ በእርሷም ላይ እንዲሁ ጣተው፤ ስሟንም ስጥና ብሎ ጠራት።",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "ቈፈሩ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "በር"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "ሌላ"
+    },
+    {
+      "surface": "ויריבו",
+      "gloss": "ጣተው"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "በእርሷ ላይ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ስሟን"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "ስጥና"
+    }
+  ],
+  "timestamp": "2026-08-16T02:44:42.247515519Z",
+  "model": "glm-5.3"
+}

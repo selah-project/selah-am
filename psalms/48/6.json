@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "እነርሱ አዩ፤ ዕውን ተደነቁ፤ ተረበሹ፤ በፍጥነት ሮጡ።",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "እነርሱ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "አዩ፤"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዕውን"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "ተደነቁ፤"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ተረበሹ፤"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "በፍጥነት ሮጡ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:30.710521042Z",
+  "model": "glm-5.3"
+}

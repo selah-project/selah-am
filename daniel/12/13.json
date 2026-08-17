@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "አንተ ግን እስከ ⟨መጨረሻው⟩ ሂድ፤ እና ታረፋለህ፣ በክፍልህ ትቆማለህ በቀኖች ⟨መጨረሻ⟩ ላይ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተ ግን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "እስከ ⟨መጨረሻው⟩"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "እና ታረፋለህ"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ትቆማለህ"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "በክፍልህ"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "በ...መጨረሻ"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ቀኖች"
+    }
+  ],
+  "timestamp": "2026-08-16T11:46:14.183885978Z",
+  "model": "glm-5.3"
+}

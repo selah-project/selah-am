@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "zephaniah 2:8",
+  "book": "zephaniah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የሞዓብን ንድፈ ሐሳብ እና የዓሞን ልጆችን ስድብ ሰምቻለሁ፤ እነርሱ ሕዝቤን ⟨את⟩ አዋረዱ፣ እና በድንበራቸው ላይ ተመኩረዋል።",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "ሰምቻለሁ"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "የ... ንድፈ ሐሳብ\/ስድብ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብን"
+    },
+    {
+      "surface": "וגדופי",
+      "gloss": "እና የ... ስድብ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆችን"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ዓሞን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እነርሱ"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "አዋረዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቤን"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤን"
+    },
+    {
+      "surface": "ויגדילו",
+      "gloss": "እና ተመኩረዋል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ድንበራቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:18:19.898602764Z",
+  "model": "glm-5.3"
+}

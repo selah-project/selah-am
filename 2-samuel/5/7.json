@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ዳዊትም ⟨את⟩ የጽዮን ምሽግ ያዘ፤ እርሷ የዳዊት ከተማ ናት።",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "ያዘ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የጽዮን ምሽግ"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "ምሽግ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "የጽዮን"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እርሷ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "የዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:56:58.261851185Z",
+  "model": "glm-5.3"
+}

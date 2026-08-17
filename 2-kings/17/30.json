@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "የባቢሎን ሰዎች ሱኮት ቤኖትን ⟨את⟩ አደረጉ፣ የኩት ሰዎችም ነርጋልን ⟨את⟩ አደረጉ፣ የሐማት ሰዎችም አሺማን ⟨את⟩ አደረጉ።",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "የ... ሰዎችም"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ባቢሎን"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "አደረጉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሱኮት ቤኖትን"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "ሱኮት"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ቤኖት"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "የ... ሰዎችም"
+    },
+    {
+      "surface": "כות",
+      "gloss": "ኩት"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "አደረጉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነርጋልን"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "ነርጋል"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "የ... ሰዎችም"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ሐማት"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "አደረጉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አሺማን"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "አሺማ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:48:28.665427504Z",
+  "model": "glm-5.3"
+}

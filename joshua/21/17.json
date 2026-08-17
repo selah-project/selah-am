@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ከብንያም ነገድም ⟨את⟩ ጌባዎንን እና ⟨את⟩ መስክዋን፣ ⟨את⟩ ጌባን እና ⟨את⟩ መስክዋን።",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ከነገድም"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ብንያም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጌባዎንን"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ጌባዎን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መስክዋን"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መስክዋን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጌባን"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "ጌባ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መስክዋን"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መስክዋን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:11:12.782104643Z",
+  "model": "glm-5.3"
+}

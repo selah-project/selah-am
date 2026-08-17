@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 62,
+  "translation": "በጥቃት አትተማመኑ፣ በማጥፊያም አትታለሉ፤ ብዛት ቢበዛ ወደ እርሱ ልብ አትይዙ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "አትተማመኑ"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "በጥቃት"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "እና በማጥፊያ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "አትታለሉ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ብዛት\/ባለጸግነት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ቢ"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "ቢበዛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "አትይዙ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:51.496773197Z",
+  "model": "glm-5.3"
+}

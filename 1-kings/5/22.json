@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "1-kings 5:22",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ሖራምም ወደ ሰሎሞን ሰድዶ እንዲህ አለው፦ ወደ እኔ የላክኸውን ⟨את⟩ ሰምቻለሁ፤ አንተ የምትፈልገውን ሁሉ ⟨את⟩ በአረዶ ዛፎችና በበሮሽ ዛፎች አደርግልሃለሁ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰድዶ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ሖራምም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ አለው"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ሰምቻለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የላክኸውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "ላክኸውን"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "አደርጋለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "חפצך",
+      "gloss": "የምትፈልገውን"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "በ...ዛፎች"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "አረዶ"
+    },
+    {
+      "surface": "ובעצי",
+      "gloss": "እና በ...ዛፎች"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "በሮሽ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:18:20.743701554Z",
+  "model": "glm-5.3"
+}

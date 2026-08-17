@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ያህዌህ በምድር ላይ ⟨את⟩ ሰውን እንደ ሠራ ተጸጸተ፤ ወደ ልቡም አዘነ።",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ተጸጸተ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰውን"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "አዘነ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:31:45.717305611Z",
+  "model": "glm-5.3"
+}

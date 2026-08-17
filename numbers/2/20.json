@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "numbers 2:20",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ከእሱ ⟨ጋር⟩ የምናሴ ነገዥም ⟨ይሆናል⟩፤ የምናሴ ልጆች አለቃም ገምልኤል የፕዳሹር ልጅ ⟨ይሆናል⟩።",
+  "tokens": [
+    {
+      "surface": "ועליו",
+      "gloss": "ከእሱ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ነገዥ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "የምናሴ"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "አለቃም"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "የልጆች"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሴ"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "ገምልኤል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "ፕዳሹር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:05:21.755362585Z",
+  "model": "glm-5.3"
+}

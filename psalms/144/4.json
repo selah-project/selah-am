@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 144,
+  "translation": "ሰው ለሐዋር ተመስሏል፤ ቀኖቹ እንደ ጥላ ያለፈ ናቸው።",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "ለሐዋር"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ተመስሏል"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ቀኖቹ"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "እንደ ጥላ"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "ያለፈ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:37.283923911Z",
+  "model": "glm-5.3"
+}

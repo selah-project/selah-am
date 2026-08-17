@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "isaiah 48:2",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "እንደ \/ ሆኖ ከተቀደሰች ከተማ ይባላሉ፣ እና በእስራኤል ኤሎሂም ላይ ይተማመናሉ፤ የሠራዊት ያህዌህ ስሙ ነው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "የተቀደሰች"
+    },
+    {
+      "surface": "נקראו",
+      "gloss": "ይባላሉ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ…ላይ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "נסמכו",
+      "gloss": "ይተማመናሉ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "የሠራዊት"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:24:34.537651464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "isaiah 51:16",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "ቃላቶቼን በአፍህ አኖርሃለሁ፤ በእጄ ጥላም ሰውራለሁ፤ ሰማያትን ለመትከል፣ ምድርን ለመመሥረት፣ ለጽዮንም «ሕዝቤ አንተ ነህ» ለማለት ነው።",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "አኖርሃለሁ፤"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላቶቼን"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "በአፍህ"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "በጥላም"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "በእጄ"
+    },
+    {
+      "surface": "כסיתיך",
+      "gloss": "ሰውራለሁ"
+    },
+    {
+      "surface": "לנטע",
+      "gloss": "ለመትከል"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያትን"
+    },
+    {
+      "surface": "וליסד",
+      "gloss": "ለመመሥረት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "ולאמר",
+      "gloss": "ለማለት"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "ለጽዮንም"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ ነህ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:27:58.593805826Z",
+  "model": "glm-5.3"
+}

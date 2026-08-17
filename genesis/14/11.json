@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "እነርሱም የሰዶምን እና የዐሞራን ሁሉን ንብረት ⟨את⟩ ወሰዱ፤ የምግባቸውንም ሁሉ ⟨את⟩ ወስደው ሄዱ።",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "እና ወሰዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን ንብረት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "ንብረት"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "ሰዶም"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "እና ዐሞራ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሁሉን ምግብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ምግባቸውን"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "እና ሄዱ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:28:53.274123209Z",
+  "model": "glm-5.3"
+}

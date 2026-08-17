@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "በርስታችሁ ምድር ሁሉም ለምድሪቱ መውደስ ትሰጣላችሁ።",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "በሁሉም"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "ርስታችሁ"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "መውደስ"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ትሰጣላችሁ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ለምድሪቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:46:46.877102086Z",
+  "model": "glm-5.3"
+}

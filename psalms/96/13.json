@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 96,
+  "translation": "በያህዌህ ፊት ፤ ምክንያቱም የሚመጣው ስለ ሆነ፣ ምድርን ሊዳኝ ስለ ሆነ ይመጣል፤ ዓለምን በጽድቅ ይፈርዳል፣ አሕዛብንም በሐቀኝነቱ ይፈርዳል።",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "በ…ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ይመጣል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ ሆነ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ይመጣል"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ሊዳኝ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ይፈርዳል"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ዓለምን"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "በጽድቅ"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "አሕዛብንም"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "በሐቀኝነቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:10.003550376Z",
+  "model": "glm-5.3"
+}

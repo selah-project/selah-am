@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 11:42",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "በሆድ ⟨ላይ⟩ የሚራመድ ሁሉ እና በአራት ⟨ላይ⟩ የሚራመድ ሁሉ፣ እስከ እግሮችን በሚበዙ ሁሉ ድረስ፣ በምድር ⟨ላይ⟩ የሚንቀሳቀስ እንሽላላ ሁሉ፣ እነሱን አትብሉ፣ ርኵሰት ⟨ናቸውና⟩።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "የሚራመድ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "גחון",
+      "gloss": "ሆድ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ... ሁሉ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "የሚራመድ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "አራት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ ... ድረስ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מרבה",
+      "gloss": "የሚበዛ"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "እግሮች"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለ...ሁሉ"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "እንሽላላው"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "የሚንቀሳቀስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תאכלום",
+      "gloss": "ብሉዋቸውም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "...ና"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ርኵሰት"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨ናቸው⟩"
+    }
+  ],
+  "timestamp": "2026-08-16T14:46:15.525979385Z",
+  "model": "glm-5.3"
+}

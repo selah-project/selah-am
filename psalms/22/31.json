@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ዘርን እርሱን ያገለግለዋል፤ ስለ አዶናይ ለትውልድ ይነገራል።",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "ዘርን"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "እርሱን ያገለግለዋል"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ይነገራል"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ለአዶናይ"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ለትውልድ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:11:14.265892372Z",
+  "model": "glm-5.3"
+}

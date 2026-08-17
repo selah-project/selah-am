@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 118:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 118,
+  "translation": "ይስራኤል አሁን ይበል፣ ለዘላለም ⟨ነው⟩ ሞገሱ።",
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "ይበል"
+    },
+    {
+      "surface": "נא",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሞገሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:54.082106802Z",
+  "model": "glm-5.3"
+}

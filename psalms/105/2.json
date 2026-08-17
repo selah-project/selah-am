@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "ለእርሱ ዘምሩ፤ ለእርሱ አመስግኑ በዜማ፤ በሁሉት ድንቆቹ ላይ ተናገሩ።",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ዘምሩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "አመስግኑ በዜማ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ተናገሩ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉት"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ድንቆቹ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:27.204793069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 7:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ለእርሱም የሞት መሣሪያዎችን አዘጋጅቶለታል፤ በሙሉ የተነደዱ ቀስቶቹን ያነጣጥራል።",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "ለእርሱም"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "አዘጋጅቶለታል"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "መሣሪያዎችን"
+    },
+    {
+      "surface": "מות",
+      "gloss": "የሞት"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "ቀስቶቹን"
+    },
+    {
+      "surface": "לדלקים",
+      "gloss": "የተነደዱ"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "ያነጣጥራል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:28:14.987555845Z",
+  "model": "glm-5.3"
+}

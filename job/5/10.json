@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ዝናብን በምድር ገጽ ላይ የሚሰጥ፣ ውኃንም በመንገዶች ገጽ ላይ የሚልክ ነው፤",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "የሚሰጥ"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ዝናብን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "እና የሚልክ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውኃን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "መንገዶች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:41:52.078578136Z",
+  "model": "glm-5.3"
+}

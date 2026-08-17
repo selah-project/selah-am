@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "ዐለትን ከፈተ እና ውኃ ፈሰሰ፤ በደረቁ ቦታዎች እንደ ወንዝ ሄዱ።",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ከፈተ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ዐለትን"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "እና ፈሰሰ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውኃ"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ሄዱ"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "በደረቁ ቦታዎች"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "እንደ ወንዝ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:08.070969539Z",
+  "model": "glm-5.3"
+}

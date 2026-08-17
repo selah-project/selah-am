@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 5:2",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እና አራም ወራሪ ቡድኖች ወጥተው ከእስራኤል ምድር አንዲት ትንሽ ልጅ በምርኮ ወሰዱ፤ እናም በናዓማን ሚስት ፊት እንደምትገኝ ሆነች።",
+  "tokens": [
+    {
+      "surface": "וארם",
+      "gloss": "እና አራም"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ወጥተው"
+    },
+    {
+      "surface": "גדודים",
+      "gloss": "ወራሪ ቡድኖች"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ወሰዱ (በምርኮ)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከምድር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "ትንሽ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ሆነች"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሚስት"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "ናዓማን"
+    }
+  ],
+  "timestamp": "2026-08-16T19:49:34.554833238Z",
+  "model": "glm-5.3"
+}

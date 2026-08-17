@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 72,
+  "translation": "እንደ ዝናብ በተቆረጠ ሣር ላይ ይወርዳል፤ እንደ ደመና ዝናቦች ⟨ስበት⟩ ምድርን ያጠጣሉ።",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "ይወርዳል"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "እንደ ዝናብ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "גז",
+      "gloss": "ተቆረጠ ሣር"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "እንደ ደመና ዝናቦች"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "ስበት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድርን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:34.515482498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "hosea 9:15",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ክፉነታቸው ሁሉ በጊልጋል ⟨ነው⟩፤ መስክረዋል — ክፉ ሥራቸውን በምክንያት እኔ ከቤቴ እንገዳቸዋለሁ፤ ፍቅሬን አልጨምርም — አለቆቻቸው ሁሉ አመጣጆች ⟨ናቸው⟩።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "ክፉነታቸው"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "በጊልጋል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "መስክረዋል —"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "ጠላኋቸዋለሁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በምክንያት"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ሥራቸውን"
+    },
+    {
+      "surface": "מביתי",
+      "gloss": "ከቤቴ"
+    },
+    {
+      "surface": "אגרשם",
+      "gloss": "እንገዳቸዋለሁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אוסף",
+      "gloss": "ጨምርም"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "ፍቅሬን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "አለቆቻቸው"
+    },
+    {
+      "surface": "סררים",
+      "gloss": "አመጣጆች"
+    }
+  ],
+  "timestamp": "2026-08-16T08:59:22.644630387Z",
+  "model": "glm-5.3"
+}

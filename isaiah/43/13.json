@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "isaiah 43:13",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "እንዲሁም ከቀኑ ጀምሮ እኔ እኔ ነኝ፤ ከእጄም የሚያድን የለም፤ አደርጋለሁ፣ በማን ይመልሳታል?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ከቀኑ ጀምሮ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እኔ ነኝ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ከእጄ"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "የሚያድን"
+    },
+    {
+      "surface": "אפעל",
+      "gloss": "አደርጋለሁ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "እና በማን"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "ይመልሳታል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:20:03.812019708Z",
+  "model": "glm-5.3"
+}

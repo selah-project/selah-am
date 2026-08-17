@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እኔ ንቡከደነጾር በቤቴ ዝም ብዬ ነበር፣ በቤተ መንግሥቴም ዕለት አድሮ ነበር።",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "ንቡከደነጾር"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "ዝም ብዬ (ማረፍ)"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "ነበር"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "በቤቴ"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "ዕለት አድሮ"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "በቤተ መንግሥቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:30:33.264783180Z",
+  "model": "glm-5.3"
+}

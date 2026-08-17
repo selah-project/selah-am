@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "እንደ የዓይን አንቀላፋ እንደ ዓይን ልጅ ጠብቀኝ፤ በክንፎችህ ጥላ ሥር ደብቀኝ።",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "ጠብቀኝ"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "እንደ የዓይን አንቀላፋ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "እንደ ልጅ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ዓይን"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "በጥላ ሥር"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ክንፎችህ"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "ደብቀኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:25.597784929Z",
+  "model": "glm-5.3"
+}

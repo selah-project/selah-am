@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 5:20",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "አንቺ ግን ከባልሽ በታች ስለ በደልሽ፣ እና ርኵሰት ስለ ሆነብሽ፣ እና ከባልሽ በስተቀር ሌላ ሰው የመኝትን ⟨את⟩ በአንቺ ላይ ስለ ጨመረብሽ —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "አንቺ ግን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "שטית",
+      "gloss": "በደልሽ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በታች"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "ከባልሽ"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "እና ስለ"
+    },
+    {
+      "surface": "נטמאת",
+      "gloss": "ርኵሰት ሆነብሽ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ጨመረብሽ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንቺ ላይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የመኝትን"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "የመኝትን"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ከ…በስተቀር"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "ከባልሽ"
+    }
+  ],
+  "timestamp": "2026-08-17T06:05:59.577101904Z",
+  "model": "glm-5.3"
+}

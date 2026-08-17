@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ከዚህ በኋላ ከሆነ በነዚህ ቃላት በኋላ ኤሎሂም ⟨את⟩ አብራሃምን ፈተነው፤ እንዲህም አለው። አብራሃም፤ ⟨እርሱም⟩ እንዲህ አለ። እነሆኝ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ከዚህ በኋላ ከሆነ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "በኋላ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ነዚህ"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "ኤሎሂምም"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "ፈተነው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አብራሃምን"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብራሃም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብራሃም፤"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እነሆኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:36:23.050992223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "አንድ ቶራህ የምትሆን ለ⟨የሀገር ልጅ⟩ እና ለእናንተ መካከል ለሚቀመጥ ⟨መጻኛ⟩ ናት።",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "ቶራህ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "የምትሆን"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "ለ⟨የሀገር ልጅ⟩"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "እና ለ⟨መጻኛ⟩"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ለሚቀመጥ"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "እናንተ መካከል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:13:26.742465750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ዮአብም ተነሣ፣ ወደ ጌሹር ሄደ፣ ⟨את⟩ አብስሎምንም ወደ ኢየሩሳሌም አመጣው።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሣ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "ወደ ጌሹር"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "አመጣው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አብስሎምን"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "አብስሎምን"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ወደ ኢየሩሳሌም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:02:52.078952254Z",
+  "model": "glm-5.3"
+}

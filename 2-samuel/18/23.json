@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "2-samuel 18:23",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "«ምንም ቢሆን እሮጥ» አለ፤ እርሱም አለው፦ «ሮጥ።» አኪማዕሥም በሜዳው መንገድ ሮጠ እና ⟨את⟩ ኩሽዊውን አለፈ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨ይሁን⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምንም"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "እሮጥ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "רוץ",
+      "gloss": "ሮጥ"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "ሮጠ"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "አኪማዕሥ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "የሜዳው"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "አለፈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሽዊውን"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "ኩሽዊው"
+    }
+  ],
+  "timestamp": "2026-08-16T06:09:00.494322815Z",
+  "model": "glm-5.3"
+}

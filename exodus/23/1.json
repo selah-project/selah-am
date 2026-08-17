@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ሐሰተኛን ወሬ አትሸክም፤ የጥፋት ምስክር እንድትሆን ከክፉ ጋር እጅህን አታድርግ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ታሸክምም"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ወሬ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ሐሰተኛን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አታ"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "ታድርግም"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህን"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "להית",
+      "gloss": "እንድትሆን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ምስክር"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "የጥፋት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:23:00.457802861Z",
+  "model": "glm-5.3"
+}

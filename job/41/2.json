@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "job 41:2",
+  "book": "job",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "ጨካኙ ሆኖ የሚያነቀው የለም፤ እንግዲህ በፊቴ የሚቆም ማን ⟨እርሱ⟩ ነው?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "ጨካኙ ሆኖ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንግዲህ"
+    },
+    {
+      "surface": "יעורנו",
+      "gloss": "ያነቀው"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "እና ማን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨እርሱ⟩ ነው"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊቴ"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "የሚቆም"
+    }
+  ],
+  "timestamp": "2026-08-16T11:01:36.336124574Z",
+  "model": "glm-5.3"
+}

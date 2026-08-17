@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "የእነሱን ርኵሰቶች ⟨את⟩ እና የእነሱን ጣኦታት ⟨את⟩ አይታችኋል — እነሱ ዘንድ ያለውን እንጨትና ድንጋይ፣ ብርና ወርቅ።",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "አይታችኋል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእነሱን ርኵሰቶች"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "ርኵሰቶች (የእነሱ)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የእነሱን ጣኦታት"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "ጣኦታት (የእነሱ)"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "እንጨት"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "እና ድንጋይ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "እና ወርቅ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለውን"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "እነሱ ዘንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:23:02.268387827Z",
+  "model": "glm-5.3"
+}

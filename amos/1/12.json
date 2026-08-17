@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "amos 1:12",
+  "book": "amos",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "በቴማን ላይ እሳትን እልካለሁ፣ እርሷም የቦጽራ መንግሥታትን ትበላለች።",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "እልካለሁ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳትን"
+    },
+    {
+      "surface": "בתימן",
+      "gloss": "በቴማን ላይ"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "እርሷም ትበላለች"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "መንግሥታትን"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "የቦጽራ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:03:29.064736639Z",
+  "model": "glm-5.3"
+}

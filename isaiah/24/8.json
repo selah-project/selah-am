@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "isaiah 24:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "የከበሮዎች ደስታ አቁቷል፤ የደስተኞች ጩኸት ቆመ፤ የበገናውም ደስታ አቁቷል።",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "አቁቷል"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "ደስታ"
+    },
+    {
+      "surface": "תפים",
+      "gloss": "ከበሮዎች"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ቆመ"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ጩኸት"
+    },
+    {
+      "surface": "עליזים",
+      "gloss": "ደስተኞች"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "አቁቷል"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "ደስታ"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "በገና"
+    }
+  ],
+  "timestamp": "2026-08-16T07:10:29.201702750Z",
+  "model": "glm-5.3"
+}

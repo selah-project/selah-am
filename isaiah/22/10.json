@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "የየሩሳሌም ቤቶችን ⟨את⟩ ቁጠራችኋል፤ ሙላቱን ለማጠናከር ቤቶቹን አፍርሳችኋል።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የየሩሳሌም ቤቶችን"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ቤቶችን"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሳሌም"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "ቁጠራችኋል"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "አፍርሳችኋል"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ቤቶቹን"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "ለማጠናከር"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ሙላቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:07:18.161018774Z",
+  "model": "glm-5.3"
+}

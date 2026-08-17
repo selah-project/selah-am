@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "ሥጋት በአጥንቶቼ ላይ ጠላቶቼ አዋርዱኝ፤ በእኔ ላይ ሁሉ ቀን «ኤሎሂምህ ወዴት?» ሲሉ።",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "ሥጋት"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "በአጥንቶቼ"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "አዋርዱኝ"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ጠላቶቼ"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "በማለታቸው"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "እኔን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ወዴት"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:52.358172240Z",
+  "model": "glm-5.3"
+}

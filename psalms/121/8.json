@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 121,
+  "translation": "ያህዌህ መውጣትህን እና መግባትህን ይጠብቃል፤ ከእንግዲህ እስከ ዘለዓለም ድረስ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ይጠብቃል"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "መውጣትህን"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "እና...መግባትህን"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ከእንግዲህ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እና...እስከ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለዓለም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:06.349911701Z",
+  "model": "glm-5.3"
+}

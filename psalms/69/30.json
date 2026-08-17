@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "እኔ ግን ደብደብ እና የህመም ታማሚ ነኝ፤ የመዳንህ ኤሎሂም ከፍ ያደርገኛል።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ደብደብ"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "እና የህመም ታማሚ"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "የመዳንህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "ከፍ ያደርገኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:21.819501676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "ዙፍራሽ፣ ኤሎሂም፣ ለዘለቶም እና ለዘለአለም ነው፤ የመንግሥትህ በትር ቅንነት የሆነ በትር ነው።",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "ዙፍራሽ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ለዘለቶም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እና ለዘለአለም"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "በትር"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "ቅንነት"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "በትር"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "የመንግሥትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:45:05.753182030Z",
+  "model": "glm-5.3"
+}

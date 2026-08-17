@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "jeremiah 13:1",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እንዲህ አለኝ ያህዌህ — ሂድ፣ ለራስህ የበፍታ ማንጠባጠቢያ ግዛ፣ በወገብህ ላይ እሰድረው፣ ወደ ውሃም አታስገባው።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "አለኝ (ወደ እኔ)"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "וקנית",
+      "gloss": "ግዛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለራስህ"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "ማንጠባጠቢያ"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "የበፍታ"
+    },
+    {
+      "surface": "ושמתו",
+      "gloss": "እሰድረው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "ወገብህ"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ወደ ውሃ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አታ"
+    },
+    {
+      "surface": "תבאהו",
+      "gloss": "ስገባው"
+    }
+  ],
+  "timestamp": "2026-08-16T07:48:39.986018560Z",
+  "model": "glm-5.3"
+}

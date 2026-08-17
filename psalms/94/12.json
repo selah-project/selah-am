@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 94,
+  "translation": "ተባረከ ሰው ያህ ታስተምረዋል እና ከኦሪትህ ታስተምረዋል።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ተባረከ \/ የተመሰገነ"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "ታስተምረዋል"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "ከኦሪትህ"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "ታስተምረዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:35.614831040Z",
+  "model": "glm-5.3"
+}

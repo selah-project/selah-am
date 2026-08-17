@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ሞሼም ለኤሎሂም እንዲህ አለ። እኔ ማን ነኝ፤ ወደ ፈርዖን እሄድና የእስራኤል ልጆችን ⟨את⟩ ከግብፅ እወጣ ዘንድ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ዘንድ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "እሄድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "እና …ዘንድ"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "እወጣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጆችን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ከግብፅ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:07:45.718186208Z",
+  "model": "glm-5.3"
+}

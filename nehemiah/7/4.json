@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 7:4",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ከተማዋም የሰፊ እጆች እና ታላቅ ነበረች፤ ሕዝቡ ግን በእርሷ ውስጥ ጥቂት ነበረ፤ ቤቶችም የተሠሩ የለም።",
+  "tokens": [
+    {
+      "surface": "והעיר",
+      "gloss": "ከተማዋም"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "የሰፊ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "እጆች"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "እና ታላቅ"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ሕዝቡ ግን"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ጥቂት"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "በእርሷ ውስጥ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ቤቶችም"
+    },
+    {
+      "surface": "בנוים",
+      "gloss": "የተሠሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:33:23.838807634Z",
+  "model": "glm-5.3"
+}

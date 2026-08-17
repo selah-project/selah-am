@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እንዲሁም በነዚያ ቀናት በባሪያዎች እና በእጅኛዎች ላይ መንፈሴን ⟨את⟩ አ፫ለሁ።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "ባሪያዎች"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ...ላይ"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "እጅኛዎች"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "በቀናት"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ነዚያ"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "አ፫ለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንፈሴን"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "መንፈሴን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:02:25.549265228Z",
+  "model": "glm-5.3"
+}

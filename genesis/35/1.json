@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "genesis 35:1",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "ኤሎሂምም ለያዕቆብ ተናገረ፤ ተነስና ወደ ቤት ኤል ውጣ፣ እናኔው እዚያ ተቀምጥ፤ እና በአንተ ላይ የታየውን ለኤል በእርስህ ከወንድምህ ከዔሳው ፊት በሸሸህ ጊዜ እዚያ መሠዊያ አድርግ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተናገረ፤ ብሎ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ፡ወደ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ተነስ፤ አስተነስ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ውጣ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "እና ተቀምጥ፤ እና ተከላከል"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "እና አድርግ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠዊያ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ለኤል"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "የታየው"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "በአንተ ላይ"
+    },
+    {
+      "surface": "בברחך",
+      "gloss": "በሸሸህ ጊዜ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከፊት፡ስለ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዔሳው"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ወንድምህ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:54:42.092528310Z",
+  "model": "glm-5.3"
+}

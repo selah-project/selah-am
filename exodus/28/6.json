@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "እነርሱም ⟨את⟩ ኤፉዱን ያደርጋሉ፣ ወርቅ፣ ሰማያዊ፣ አረገማ፣ የትሎዓት ሐምራዊ እና የተሳሰረ ጥሩ በፍታ፣ የአስቢ ሥራ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "ያደርጋሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤፉዱን"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ኤፉዱን"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቅ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ሰማያዊ"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "አረገማ"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "የትሎዓት"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሐምራዊ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "እና ጥሩ በፍታ"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "የተሳሰረ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "የአስቢ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:26:49.926087733Z",
+  "model": "glm-5.3"
+}

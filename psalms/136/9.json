@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 136,
+  "translation": "⟨את⟩ ጨረቁን እና ከዋክብትን በሌሊቱ እንዲነግሡ አደረገ፤ ምክንያቱም ለዘላለም ምሕረቱ ትኖራለች።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጨረቁን"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "ጨረቁን"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "እና ከዋክብትን"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "እንዲነግሡ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "በሌሊቱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ምሕረቱ ትኖራለች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:48.249910004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "በአባሪህ ላይ ሐሰተኛ ምስክርነት አትመስክር።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት-"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ትመልስ\/ትመስክር"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "በአባሪህ ላይ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ምስክርነት"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሐሰተኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:16:42.003891905Z",
+  "model": "glm-5.3"
+}

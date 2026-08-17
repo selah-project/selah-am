@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "ንጉሡም ውበትህን ይመኛል፣ እርሱ ጌታህ ⟨ነውና⟩፤ ለእርሱ ስገድ።",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "ይመኛልም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "ውበትህን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ነውና"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ጌታህ"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "ስገድ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:33.473745922Z",
+  "model": "glm-5.3"
+}

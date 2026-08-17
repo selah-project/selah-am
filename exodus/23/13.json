@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "exodus 23:13",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "እኔ ወደ እናንተ ያነገርኋቸውን በሁሉም ነገር ትጠነቀቃላችሁ፤ የሌሎች ኤሎሂም ስምን አትጠሩ፤ በአፍህ አይሰማም።",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "እና በሁሉም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያነገርኋቸውን (ነገር የሆነውን)"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ያነገርኋቸውን"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ወደ እናንተ"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ትጠነቀቃላችሁ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "እና የ… ስምን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም የሌሎች"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ሌሎች"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תזכירו",
+      "gloss": "ጠሩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ይሰማም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "በአፍህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:22:09.366386878Z",
+  "model": "glm-5.3"
+}

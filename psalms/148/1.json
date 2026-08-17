@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 148,
+  "translation": "አመስግኑ ያህ፤ ያህዌህን ⟨את⟩ ከሰማያት አመስግኑ፤ በከፍታዎች አመስግኑት።",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "አመስግኑ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "አመስግኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "አመስግኑት"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "በከፍታዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:02.812132215Z",
+  "model": "glm-5.3"
+}

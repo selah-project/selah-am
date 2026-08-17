@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "አጥንቶቼ ሁሉ ይላሉ፤ ያህዌህ ሆይ፣ እንደ አንተ ማን ⟨ነው⟩? ድሀን ከሚያጠናክረው የሚያድን፣ ድሀንና ድሃዬን ከዘራፊው የሚያድን።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "አጥንቶቼ"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "ይላሉ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "እንደ አንተ"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "የሚያድን"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ድሀን"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "ከሚያጠናክረው"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእርሱ"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ድሀንና"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ድሃዬን"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "ከዘራፊው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:30.180991839Z",
+  "model": "glm-5.3"
+}

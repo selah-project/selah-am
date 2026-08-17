@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 20:1",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ከዚህ በኋላ የሞዓብ ልጆች እና የዓሞን ልጆች እና ከእነሱ ጋር ካሉት ከዓሞናውያን አንዳንዶች በይሆሻፋጥ ላይ ለጦርነት መጡ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነበር"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ...በኋላ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ...ልጆች"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "እና የ...ልጆች"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ዓሞን"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "እና ከእነሱ ጋር"
+    },
+    {
+      "surface": "מהעמונים",
+      "gloss": "ከዓሞናውያን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "ይሆሻፋጥ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ለጦርነት"
+    }
+  ],
+  "timestamp": "2026-08-16T18:49:22.584266515Z",
+  "model": "glm-5.3"
+}

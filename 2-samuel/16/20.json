@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "አብሻሎምም ለአኪቶፌል እንዲህ አለው፦ እናንተ ለራሳችሁ ምክር ስጡ፤ ምን እናድርግ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለው"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "አብሻሎም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "አኪቶፌል"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ስጡ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለራሳችሁ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ምክር"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "እናድርግ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:04:04.891215465Z",
+  "model": "glm-5.3"
+}

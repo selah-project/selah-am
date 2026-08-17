@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "አሁንም ያህዌህ ኤሎሃዬ፣ አንተ ⟨את⟩ አገልጋይህን ከዳዊት አባቴ በታች ንጉሥ አድርገሃል፤ እኔ ግን ትንሽ ልጅ ነኝ፤ መውጣትና መግባትን አላውቅም።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "አሁንም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሃዬ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "ንጉሥ አድርገሃል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አገልጋይህን"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "አገልጋይህን"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ከ… በታች \/ ፈንታ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባቴ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "ትንሽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "አውቅም"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "መውጣትን"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "መግባትንም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:15:36.744012656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ጠዋት፣ የጠዋቱን ቍርባን በሚቀርብበት ጊዜ እነሆ ውሃ በኤዶም መንገድ መጣ፤ ምድሪቱም ⟨את⟩ ውሃውን በላት ተሞላች።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኾነ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ጠዋት"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "በሚቀርብበት ጊዜ"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "የጠዋቱን ቍርባን"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "באים",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "የኤዶም"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ተሞላችም"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውሃውን"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውሃውን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:37:53.652738975Z",
+  "model": "glm-5.3"
+}

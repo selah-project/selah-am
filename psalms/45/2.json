@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "ልቤ መልካምን ነገር ያፈሳል፤ እኔ ሥራዬን ስለ ንጉሡ እናገራለሁ፤ ቋንቄ የፈጣን ጸሐፊ ብዕር ⟨ናት⟩።",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "ያፈሳል"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ነገርን"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካምን"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "እናገራለሁ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ሥራዬን"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ስለ ንጉሡ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ቋንቄ"
+    },
+    {
+      "surface": "עט",
+      "gloss": "ብዕር"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "የጸሐፊ"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "ፈጣን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:17.057282016Z",
+  "model": "glm-5.3"
+}

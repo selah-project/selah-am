@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "እንዲያውቁም ይህ እጅህ መሆኑን፣ አንተ ያህዌህ አድርገሃት ይታወቁ።",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "እንዲያውቁም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "መሆኑን ይታወቁ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "አድርገሃት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:26.054303344Z",
+  "model": "glm-5.3"
+}

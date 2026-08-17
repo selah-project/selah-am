@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 5:17",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "አንተ አባቴን ⟨את⟩ ዳዊትን ታውቃለህ፤ ያህዌህ አምላኩ ስም ቤት ለመሥራት ስለዚህ አልቻለም — ዞረውት የነበረው ጦርነት ምክንያት፣ እስከ ያህዌህ እነሱን ⟨את⟩ የእግሩ ኳሶች ሥር እስኪያስቀምጥ ድረስ።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ታውቃለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊትን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባቴ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አልም"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "ቻለ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ለመሥራት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "አምላኩ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ምክንያት"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ጦርነቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "סבבהו",
+      "gloss": "ዞረውት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "תת",
+      "gloss": "እስኪያስቀምጥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ሥር"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "ኳሶች"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "የእግሩ"
+    }
+  ],
+  "timestamp": "2026-08-17T09:12:54.539496448Z",
+  "model": "glm-5.3"
+}

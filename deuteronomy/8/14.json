@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ልብህ ደግሞ ይመልድ፣ ⟨את⟩ ያህዌህ ኤሎሂምህንም — ከምድረ ትእምርገም ከባሪያዎች ቤት ያወጣህን — ትረሳዋለህ፤",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "ይመልድ፣ ይደረቅል"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ልብህን"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "ትረሳለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ ኤሎሂምህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምህን"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "ያወጣህን"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ትእምርገም"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ከቤት"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ባሪያዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T04:38:08.329236373Z",
+  "model": "glm-5.3"
+}

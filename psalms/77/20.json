@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 77,
+  "translation": "በባሕር መንገድህ ⟨ነበረ⟩፤ በብዙ ውኃዎችም ጎዳናዎችህ፤ እነርሱም እንደሆኑ እሳብዎችህ አልታወቁም።",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "በባሕር"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "መንገድህ"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "ጎዳናዎችህም"
+    },
+    {
+      "surface": "במים",
+      "gloss": "በውኃዎች"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "እሳብዎችህም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "ታወቁም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:39.419002873Z",
+  "model": "glm-5.3"
+}

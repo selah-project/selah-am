@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ከራሱም ⟨את⟩ ርጉዝን ላከ፣ ውሃው ከምድሩ ገጽታ ላይ እንደቀነሰ ለማየት።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ርጉዝን"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ርጉዝን"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "ከራሱ ⟨את⟩"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ለማየት"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "እንደቀነሰ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውሃው"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከላይ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽታ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:32:34.916691575Z",
+  "model": "glm-5.3"
+}

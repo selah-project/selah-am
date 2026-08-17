@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ካህኑም ⟨את⟩ ንቁ ሥጋውን ባየ ጊዜ ያ ርኵስ ይሆናል፤ ንቁ ሥጋ ርኵስ ነው፤ ያ ቁጥር ነው።",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ባየ ጊዜ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንቁ ሥጋውን"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ሥጋውን"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ንቁ"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "ያ ርኵስ ይሆናል፤"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ንቁ ሥጋ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ርኵስ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ነው፤"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ቁጥር"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:50:00.736720073Z",
+  "model": "glm-5.3"
+}

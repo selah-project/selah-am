@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 63,
+  "translation": "ነፍሴ በአንተ ትጠቅላለች፤ በእኔ ላይ በቀኝ እጅህ ታቀርባለች።",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "ትጠቅላለች"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "ታቀርባለች"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "በቀኝ እጅህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:34.473198623Z",
+  "model": "glm-5.3"
+}

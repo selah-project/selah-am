@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ከሃሲድ ጋር ሃሲድነትን ትሠራለህ፤ ከታም ጀግና ጋር ታም ትሆናለህ።",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ከ...ጋር"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ሃሲድ"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "ሃሲድነትን ትሠራለህ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ...ጋር"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ጀግና"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ታም"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "ታም ትሆናለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:10:58.858436928Z",
+  "model": "glm-5.3"
+}

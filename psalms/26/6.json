@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እጄን በንጹሕነት አጥባለሁ፤ ያህዌህ ሆይ፤ ⟨את⟩ መሠዊያህን አኅድራለሁ።",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "አጥባለሁ"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "በንጹሕነት"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "እጄን"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "እና አኅድራለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሠዊያህን"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "መሠዊያህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:07.731794001Z",
+  "model": "glm-5.3"
+}

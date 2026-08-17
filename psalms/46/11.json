@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 46,
+  "translation": "ተዉ እና አውቁ እኔ ኤሎሂም እንደ ሆንሁ፤ በሕዝቦች መካከል እንዤራለሁ በምድርም እንዤራለሁ።",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "ተዉ"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "እና አውቁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "እንዤራለሁ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "በሕዝቦች"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "እንዤራለሁ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:32.958308883Z",
+  "model": "glm-5.3"
+}

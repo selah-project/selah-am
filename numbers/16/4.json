@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ሞሼም ሰማ፤ በፊቱም ወደቀ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ወደቀ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:17:56.198166120Z",
+  "model": "glm-5.3"
+}

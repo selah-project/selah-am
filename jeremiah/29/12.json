@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "እናንተ ⟨את⟩ ወደ እኔ ትጠራላችሁ፣ ትሄዳላችሁ፣ ወደ እኔ ትማጸናላችሁ፤ እኔም ወደ እናንተ እሰማለሁ።",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "ትጠራላችሁ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "እኔን"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "ትሄዳላችሁ"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "ትማጸናላችሁ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "እሰማለሁ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ወደ እናንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:57:44.479156085Z",
+  "model": "glm-5.3"
+}

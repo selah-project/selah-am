@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 6:13",
+  "book": "micah",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እናም እኔ አሳምቼሃለሁ በመታትህ፣ አጥፍቼዋለሁ ስለ ኃጢያትህ።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "እናም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "החליתי",
+      "gloss": "አሳምቼሃለሁ"
+    },
+    {
+      "surface": "הכותך",
+      "gloss": "በመታትህ"
+    },
+    {
+      "surface": "השמם",
+      "gloss": "አጥፍቼዋለሁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "ኃጢያትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:28:57.225142756Z",
+  "model": "glm-5.3"
+}

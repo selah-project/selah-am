@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "መቀመጫህን መውጫህን መግቢያህን አውቄያለሁ፤ በእኔ ላይ ⟨את⟩ የሚያስቀውም ንዴትህን አውቄያለሁ።",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "መቀመጫህን"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "መውጫህን"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "መግቢያህን"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "አውቄያለሁ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ንዴትህን"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "ንዴትህን"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "በእኔ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:17:00.469886152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ያህዌህ እንደ ሞሼ ቃል አደረገ፤ አጃዎቹም ከቤቶች፣ ከአደባባዮች፣ እና ከሜዳዎች ሞቱ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "እንደ ቃል"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "ሞቱ"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "አጃዎቹ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ቤቶች"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "አደባባዮች"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "እና ከ"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "ሜዳዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T03:11:13.999127214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 20:3",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ይሆሻፋጥም ፈራ፤ ⟨את⟩ ፊቱን ወደ ያህዌህ ለመሻት አደረገ፤ በመላው ይሁዳም ላይ ጾም አወጀ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ፈራ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "ይሆሻፋጥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊቱን"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱን"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "ለመሻት"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ወደ ያህዌህ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "አወጀ"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ጾም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላው"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:49:22.584758077Z",
+  "model": "glm-5.3"
+}

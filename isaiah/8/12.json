@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ይህ ሕዝብ «ሴራ» የሚለውን ሁሉ «ሴራ» አትብሉ፤ ከእርሁ ⟨את⟩ አትፍሩ እንዳትሮጡም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "ብሉ"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "ሴራ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚለውን"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "ሴራ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ከእርሁ\/ስጋቱን"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "ከእርሁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ፍሩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንዳት"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "ትሮጡ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:00:17.234484676Z",
+  "model": "glm-5.3"
+}

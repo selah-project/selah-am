@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 55,
+  "translation": "አንድ ላይ ሆነን ምክርን እናጣምር ነበር፤ በኤሎሂም ቤት በሕዝብ ተራራቅን።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "…ን"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "አንድ ላይ ሆነን"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "እናጣምር ነበር"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "ምክርን"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በ…ቤት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "ተራራቅን"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "በሕዝብ\/በማኅበር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:18.409318212Z",
+  "model": "glm-5.3"
+}

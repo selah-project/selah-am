@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 81,
+  "translation": "ሕዝቤ ሆይ አድምጥ፣ እኔም በአንተ ላይ እመስክርሃለሁ፤ እስራኤል ሆይ ወደ እኔ ብትሰማ።",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "አድምጥ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤ ሆይ"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "እኔም እመስክርሃለሁ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል ሆይ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ብትሰማ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ወደ እኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:08.755783626Z",
+  "model": "glm-5.3"
+}

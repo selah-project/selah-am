@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ዳዊት ሲመኝ አለ፤ በበሩ አጠገብ ባለው በቢት ለሕም ጕድጓድ ውኃ ማን ያጠጣኛል? አለ።",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "ሲመኝ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "ያጠጣኛል"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውኃ"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "ከጕድጓድ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቢት"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ለሕም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኘው"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "በበሩ አጠገብ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:12:13.597675133Z",
+  "model": "glm-5.3"
+}

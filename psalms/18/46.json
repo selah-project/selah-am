@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 46,
+  "ref": "psalms 18:46",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "የባዕድ ልጆች ያድራሉ፤ እየሮጡ ከምሽጎቻቸው ይወጣሉ።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ባዕድ"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "ያድራሉ"
+    },
+    {
+      "surface": "ויחרגו",
+      "gloss": "እየሮጡ ይወጣሉ"
+    },
+    {
+      "surface": "ממסגרותיהם",
+      "gloss": "ከምሽጎቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:56.914929851Z",
+  "model": "glm-5.3"
+}

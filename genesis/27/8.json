@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "አሁን አንደሁ ልጄ፣ የምነግርህን ቃሌን ስማ፤ እኔ ⟨את⟩ የምዘዝህን ነገር ሁሉ አድርግ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "አሁን አንደሁ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጄ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ስማ"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ቃሌን"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "የምነግርህን…ነገር"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "የምዘዝ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "አንተን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:45:29.933498994Z",
+  "model": "glm-5.3"
+}

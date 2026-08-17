@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "ትንኞቻችሁ፣ ሚሶቻችሁ እና በሰፈሮችህ ውስጥ ያለው መጻኛህ፣ ከእንጨትህ አጥሪ እስከ ውሃህ አጠራሪ ድረስ፤",
+  "tokens": [
+    {
+      "surface": "טפכם",
+      "gloss": "ትንኞቻችሁ"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "ሚሶቻችሁ"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "እና መጻኛህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚሆነው"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "በውስጥ"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "ሰፈሮችህ"
+    },
+    {
+      "surface": "מחטב",
+      "gloss": "ከአጥሪ"
+    },
+    {
+      "surface": "עציך",
+      "gloss": "እንጨትህ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ ድረስ"
+    },
+    {
+      "surface": "שאב",
+      "gloss": "አጠራሪ"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "ውሃህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:52:23.853063273Z",
+  "model": "glm-5.3"
+}

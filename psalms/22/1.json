@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ለመሪው፣ በማለዳዋ ግመላ ላይ፣ ዘመር ለዳዊት።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመሪው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "ግመላ"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ማለዳዋ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ዘመር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:24.939753979Z",
+  "model": "glm-5.3"
+}

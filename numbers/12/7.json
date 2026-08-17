@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "አገልጋዬ ሞሼ ግን እንደዚህ አይደለም፤ በመላው ቤቴ ውስጥ እርሱ የታመነ ነው።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "አገልጋዬ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በመላው"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ቤቴ"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "የታመነ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:14:10.167015249Z",
+  "model": "glm-5.3"
+}

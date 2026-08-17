@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ነገር ግን ከአንተ ጋር ሰላም ካልተደረገች፣ ከአንተ ጋር ጦርነት እንድትሠራ ከሆነ፣ ታዘጋታለህ።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ነገር ግን ከሆነ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ካልተደረገች"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "እንድትሠራ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ጦርነት"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ታዘጋታለህ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "እሷን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:44:54.272003167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 91,
+  "translation": "በክንፎቹ ይሸፍንሃል እና በክንፎቹ ሥር ትጠላለህ ጋሻ እና ትንሽ ጋሻ ናቸው ታማኝነቱ።",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "በክንፎቹ"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "ይሸፍንሃል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "እና ሥር"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "በክንፎቹ"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "ትጠላለህ"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ጋሻ"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "እና ትንሽ ጋሻ"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "ታማኝነቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:36.523232749Z",
+  "model": "glm-5.3"
+}

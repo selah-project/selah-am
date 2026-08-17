@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ለእስራኤል ሁሉ እያንዳንዱ ሰው፣ ከወንድ እስከ ሴት፣ ለእያንዳንዱ ሰው አንድ የዳቦ ክብ፣ የወይን አመልካች እና የዘቢብ ኬክ አከፋፈለ።",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "አከፋፈለ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ከወንድ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ለእያንዳንዱ ሰው"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ክብ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦ"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "አመልካች"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "የዘቢብ ኬክ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:02:21.666928698Z",
+  "model": "glm-5.3"
+}

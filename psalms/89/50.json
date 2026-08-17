@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "አዶናይ፤ የመጀመሪያዎቹ ሞገሶችህ የት ናቸው? በታማኝነትህ ለዳዊት የማልልከው?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "የት"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "ሞገሶችህ"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "የመጀመሪያዎቹ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "ማልልከው"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "በታማኝነትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:18.087500476Z",
+  "model": "glm-5.3"
+}

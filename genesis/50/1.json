@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 50,
+  "translation": "ዮስፍ በአባቱ ፊት ላይ ወደቀ፤ በእርሱም ላይ አለቀሰ፤ አንበሳከለውም።",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ወደቀ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮስፍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "አለቀሰ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "አንበሳከለው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "እርሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:06:14.811244291Z",
+  "model": "glm-5.3"
+}

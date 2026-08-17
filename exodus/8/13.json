@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 8:13",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እንዲያው አደረጉ፤ አሃሮንም ⟨את⟩ እጁን በበትሩ ዘረጋ፤ የምድርንም ⟨את⟩ አፈር መታ፤ እንቁራሪስም በሰው እና በእንስሳት ላይ ሆነ፤ የምድር አፈር በኩሉ በምድረ ምጽራይ እንቁራሪስ ሆነ።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "እንዲያው አደረጉ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲያው"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ዘረጋ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮንም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጁን"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "በበትሩ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "መታ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አፈር"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "አፈር"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድርን"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ሆነም"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "እንቁራሪስ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "በሰው"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "እና በእንስሳት ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "የምድር አፈር በኩሉ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "አፈር"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "እንቁራሪስ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በኩሉ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽራይ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:09:00.363865994Z",
+  "model": "glm-5.3"
+}

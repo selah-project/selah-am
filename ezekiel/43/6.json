@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 43:6",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "ከቤቱ ወደ እኔ የሚናገር ድምፅ ሰማሁ፣ አንድ ሰውም እኔ አጠገብ ቆሞ ነበር።",
+  "tokens": [
+    {
+      "surface": "וָאֶשְׁמַע",
+      "gloss": "ሰማሁ"
+    },
+    {
+      "surface": "מְדַבֵּר",
+      "gloss": "የሚናገር"
+    },
+    {
+      "surface": "אֵלַי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "מִן הַבַּיִת",
+      "gloss": "ከቤቱ"
+    },
+    {
+      "surface": "וְאִישׁ",
+      "gloss": "አንድ ሰውም"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "ነበር"
+    },
+    {
+      "surface": "עֹמֵד",
+      "gloss": "ቆሞ"
+    },
+    {
+      "surface": "אֵצְלִי",
+      "gloss": "እኔ አጠገብ"
+    }
+  ],
+  "timestamp": "2026-08-17T10:12:58.990267321Z",
+  "model": "glm-5.3"
+}

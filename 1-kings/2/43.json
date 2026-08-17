@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ለምንስ የያህዌህን ⟨את⟩ ቃል ኪዳንና ⟨את⟩ በአንተ ላይ ያዘዝኩትን ትእዛዝ አልጠበቅክም?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "ለምንስ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አልክም"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ጠበቅክ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃል ኪዳንን"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ቃል ኪዳን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዙን"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ትእዛዙን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያዘዝኩትን"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "አዘዝኩ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "በአንተ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:15:10.375912355Z",
+  "model": "glm-5.3"
+}

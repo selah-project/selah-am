@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "1-samuel 31:3",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "የጦርነቱም ኃይል በሳኦል ላይ ከባድ ሆነ፤ ቀስተኞቹም ሰዎች በቀስት አገኙት፤ ከቀስተኞቹም በእጅጉ ደከመ።",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "ከባድ ሆነ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "የጦርነቱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "አገኙት"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "ቀስተኞቹም"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "በቀስት"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "ደከመ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በእጅጉ"
+    },
+    {
+      "surface": "מהמורים",
+      "gloss": "ከቀስተኞቹም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:54:53.738662639Z",
+  "model": "glm-5.3"
+}

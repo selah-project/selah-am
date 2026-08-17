@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 23:30",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ስለዚህ እነሆ እኔ በነቢያት ላይ አለሁ የያህዌህ አስተዋል፣ ቃሌን የሚሰርቁ እያንዳንዱ ከመልካሙ ⟨מאת⟩።",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እነሆ እኔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "በነቢያት"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "የ…አስተዋል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מגנבי",
+      "gloss": "የሚሰርቁ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃሌን"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨מאת⟩",
+      "marks": "ከመልካሙ (רעהו)"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ከመልካሙ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:08:09.843818404Z",
+  "model": "glm-5.3"
+}

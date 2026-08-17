@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እነዚያ ሰዎች ⟨את⟩ ያህዌህን በታላቅ ፍርሃት ፈሩ፤ ለያህዌህም መስዋዕት አቀረቡ፣ ቃል ኪዳኖችንም ተሳሉ።",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "ፈሩ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ሰዎቹ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ፍርሃት"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "አቀረቡ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "መስዋዕት"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "ተሳሉ"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "ቃል ኪዳኖችን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:10:35.130309902Z",
+  "model": "glm-5.3"
+}

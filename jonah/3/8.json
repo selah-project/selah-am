@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 3:8",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ሰውና እንስስት ዐበይት ጠበብ ይሸፈኑ፣ ወደ ኤሎሂም በኃይል ይጮኹ፤ እያንዳንዱ ሰው ከክፉ መንገዱ፣ እና እጁ በሆነው በበቀል እንዲመለስ።",
+  "tokens": [
+    {
+      "surface": "ויתכסו",
+      "gloss": "ይሸፈኑ"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "ዐበይት ጠበብ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "እና እንስስት"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ይጮኹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בחזקה",
+      "gloss": "በኃይል"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "እንዲመለስ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "ከመንገዱ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "እና ከ"
+    },
+    {
+      "surface": "החמס",
+      "gloss": "በቀል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ነው"
+    },
+    {
+      "surface": "בכפיהם",
+      "gloss": "በእጁ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:02:00.293272882Z",
+  "model": "glm-5.3"
+}

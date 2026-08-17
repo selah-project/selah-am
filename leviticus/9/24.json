@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "leviticus 9:24",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እሳትም ከያህዌህ ፊት ወጥታ በመሠዊያው ላይ ⟨את⟩ የሚቃጠለውን መሥዋዕት እና ⟨את⟩ ስብን በላች፤ ሕዝቡም ሁሉ ባየ ጊዜ ጮኸ፣ በፊታቸውም ወደቁ።",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "ወጥታ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ከ…ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "በላች"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሚቃጠለውን መሥዋዕት"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "የሚቃጠል መሥዋዕት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስብን"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "ስብ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ባየ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "וירנו",
+      "gloss": "ጮኸ"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ወደቁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ፊታቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:47:47.590549864Z",
+  "model": "glm-5.3"
+}

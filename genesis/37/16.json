@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "እርሱም እንዲህ አለው፤ ⟨את⟩ ወንድሞቼን እፈልጋለሁ። እባክህ እነሱ ወዴት እንደሚረሩ ንገረኝ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንድሞቼን"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ወንድሞቼን"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "እፈልጋለሁ"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ንገረኝ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ወዴት"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እነሱ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "እንደሚረሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:54:47.753297705Z",
+  "model": "glm-5.3"
+}

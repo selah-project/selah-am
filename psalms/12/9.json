@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ክፉዎች በየዳርኩ እየተዘዋወሩ ይኖራሉ፣ ልኅነት በሰው ልጆች መካከል በሚመሰገንበት ጊዜ።",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "በየዳርኩ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉዎች"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "እየተዘዋወሩ ይኖራሉ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "በሚመሰገንበት ጊዜ"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "ልኅነት"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T18:07:12.353171381Z",
+  "model": "glm-5.3"
+}

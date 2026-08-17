@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "የይሁዳን ነገዥ ⟨את⟩ መረጠ፤ የወደዳትን የጽዮን ተራራ ⟨את⟩ም መረጠ።",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "መረጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የይሁዳን ነገዥ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ነገዥ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የጽዮን ተራራ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ወደዳትን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:51.971028203Z",
+  "model": "glm-5.3"
+}

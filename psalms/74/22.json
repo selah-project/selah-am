@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 74,
+  "translation": "ተነሣ፣ ኤሎሂም ሆይ፤ የራስህን ክርክር ክራር፤ ከእጅግ ሳተኛው ሰው ሁሉ በዕለት የሚደርስህን ንቀት አስታውስ።",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ተነሣ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም ሆይ"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "ክራር"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "የራስህን ክርክር"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "አስታውስ"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "የሚደርስህን ንቀት"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "እጅግ ሳተኛው ሰው"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "በዕለት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:06.229255606Z",
+  "model": "glm-5.3"
+}

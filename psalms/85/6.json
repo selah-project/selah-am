@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 85,
+  "translation": "እስከ ዘላለም በእኛ ታቃውራለህን? ቍጣህን እስከ ትውልድና ትውልድ ታራዝማለህን?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "እስከ ዘላለም"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "ታቃውራለህን?"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "በእኛ"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "ታራዝማለህን?"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ቍጣህን"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "እስከ ትውልድ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ትውልድ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:27.273407911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ካህኑም ⟨את⟩ እርሷን በመልካምና በክፉ መካከል ያስተመድታል፤ አንተ ካህን ሆኖ እንደምታስተምደው እንዲሁ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "ያስተመድታል"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እርሷን"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በ...መካከል"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እና በ...መካከል"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "እንደ ስተምድህ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲሁ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    }
+  ],
+  "timestamp": "2026-08-16T14:50:14.195549694Z",
+  "model": "glm-5.3"
+}

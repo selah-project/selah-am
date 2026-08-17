@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "leviticus 3:6",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "መስዋዕቱም ከመንጋው ከበጎች ከላሞች ከሆነ፣ ለያህዌህ የደህንነት መስዋዕት ይሆናል፤ ወንድ ወይም ሴት ያለክህሳ ያቀርባል።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ከሆነም"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "መንጋው"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "መስዋዕቱ"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ለመስዋዕት"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "የደህንነት"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ወንድ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ያለክህሳ"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "ያቀርባል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:41:52.336545923Z",
+  "model": "glm-5.3"
+}

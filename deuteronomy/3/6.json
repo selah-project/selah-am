@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እነርሱንም ⟨את⟩ ሙሉ በሙሉ አጠፋን፣ ለሲሆን ለከስቦን ንጉሥ እንደ አደረግነው፤ እያንዳንዱን ከተማ ሙሉ በሙሉ አጥፍተን ወንዶችን፣ ሴቶችንና ሕፃናትን አጠፋን።",
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "አጠፋን"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "አደረግነው"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "ለሲሆን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ከስቦን"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "ሙሉ በሙሉ አጥፍተን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "እያንዳንዱን"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "ወንዶችን"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ሴቶችን"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "እና ሕፃናትን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:33:33.299689031Z",
+  "model": "glm-5.3"
+}

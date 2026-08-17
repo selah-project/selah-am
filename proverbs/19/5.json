@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "የሐሰት ምስክሮች አይናከምም፤ ውሐ የሚናፈስም አይድንም።",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ምስክር"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "የሐሰት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "ይናከምም"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "እና የሚናፈስ"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ውሐ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ይድንም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:31:39.345419528Z",
+  "model": "glm-5.3"
+}

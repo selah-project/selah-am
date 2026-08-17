@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እጅ ለእጅ፣ ክፉ ያለደንብ አይወጣም፤ የጻድቃን ዘር ግን ይድናል።",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "እጅ"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ለእጅ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይወጣም"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "ያለደንብ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "የጻድቃን ዘር ግን"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ጻድቃን"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "ይድናል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:25:33.362174Z",
+  "model": "glm-5.3"
+}

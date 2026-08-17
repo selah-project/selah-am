@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ከእርሱ ጥሬ አትብሉ፤ በውሃ የተበሰለውንም አትብሉ፤ ነገር ግን በእሳት የተጠበሰ — ራሱ፣ በእግሮቹ ላይ እና በአንጀቱ ላይ ብላቹ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ብሉ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእርሱ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ጥሬ"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "የተበሰለውንም"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "የተበሰለ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "በውሃ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "אם",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "የተጠበሰ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "በእሳት"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ራሱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "በእግሮቹ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በላይ"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "በአንጀቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:12:58.070697263Z",
+  "model": "glm-5.3"
+}

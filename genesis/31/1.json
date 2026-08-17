@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "genesis 31:1",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ያዕቆብም የላባን ወንዶች ቃላትን ሰማ፤ «ያዕቆብ ⟨את⟩ ሁሉን የአባታችንን ወሰደ፤ ከአባታችን የነበረውንም የዚህን ሁሉ ክብር አደረገ» ብለው በሚሉ ጊዜ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላትን"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላትን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወንዶች"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "የላባን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "በሚሉ ጊዜ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ...ን"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "የአባታችን"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "ከየነበረውም"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "የአባታችን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ክብር"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "የዚህን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:50:02.919260922Z",
+  "model": "glm-5.3"
+}

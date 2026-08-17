@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "job 4:16",
+  "book": "job",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ቆም አለ፤ ቅርጹንም አልለየውም፤ ቅርጽ በዓይኖቼ ፊት ነበረ፤ ጸጥታና ድምፅ ሰማሁ።",
+  "tokens": [
+    {
+      "surface": "יעמד",
+      "gloss": "ቆም አለ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል... ም"
+    },
+    {
+      "surface": "אכיר",
+      "gloss": "አልለየው"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "ቅርጹን"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "ቅርጽ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "በ... ፊት"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኖቼ"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "ጸጥታ"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ድም፝ም"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ሰማሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:39:31.677888570Z",
+  "model": "glm-5.3"
+}

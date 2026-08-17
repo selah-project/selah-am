@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ጠሾቼ ሲመለሱ ወደ ኋላ፣ ከፊትህ ይናወጣሉ፣ ይጠፋሉም።",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "ሲመለሱ"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ጠሾቼ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ወደ ኋላ"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ይናወጣሉ"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "ይጠፋሉም"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ከፊትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:55.108480448Z",
+  "model": "glm-5.3"
+}

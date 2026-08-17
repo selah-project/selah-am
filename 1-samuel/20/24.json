@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ዳዊትም በመስክ ደበቀ የራሱን፤ ወሩም ሲመጣ ንጉሡ ለመብላት በምግቱ ላይ ተቀመጠ።",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "ደበቀ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "በመስክ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ወሩ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቀመጠ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "በምግቱ"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "ለመብላት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:43:19.731050293Z",
+  "model": "glm-5.3"
+}

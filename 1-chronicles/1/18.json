@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "አርፋክሳድም ⟨את⟩ ሳላን ወለደ፤ ሳላምም ⟨את⟩ ዔቤርን ወለደ።",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "አርፋክሳድም"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሳላን"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ሳላ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ሳላምም"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዔቤርን"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ዔቤር"
+    }
+  ],
+  "timestamp": "2026-08-16T12:31:53.244677470Z",
+  "model": "glm-5.3"
+}

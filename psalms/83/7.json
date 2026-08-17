@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 83,
+  "translation": "የኤዶም ድንኳኖችና ይስማኤላውያን፣ ሞዓብና ሀጋራውያን፤",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "ድንኳኖች"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም የ"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "ይስማኤላውያን፣"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "ሀጋራውያን፤"
+    }
+  ],
+  "timestamp": "2026-08-16T18:11:58.884753329Z",
+  "model": "glm-5.3"
+}

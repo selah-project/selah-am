@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "በንጹሑ መቅደስ በሱ ላይ ⟨את⟩ መብራቶቹን ያዘጋጃል፤ በያህዌህ ፊት ማልደም።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "በሱ ላይ"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "መቅደስ"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "ንጹሑ"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ያዘጋጃል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መብራቶቹን"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "መብራቶቹን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት ለፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ማልደም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:01:15.329397609Z",
+  "model": "glm-5.3"
+}

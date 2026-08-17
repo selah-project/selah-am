@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ክፉዎች ይጠፋሉና፤ የያህዌህም ጠሾች እንደ በጎች ወፈር እንደ ጤና ይጨርሳሉ፤ እንደ ጢስ ይጨርሳሉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ክፉዎች...ና፤"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉዎች"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ይጠፋሉና፤"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "ጠሾችም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "እንደ ወፈር፣ እንደ ክብር"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "በጎች"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ይጨርሳሉ፤"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "እንደ ጢስ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ይጨርሳሉ።"
+    }
+  ],
+  "timestamp": "2026-08-16T09:40:23.074605418Z",
+  "model": "glm-5.3"
+}

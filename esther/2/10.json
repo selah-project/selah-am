@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እስቴር ⟨את⟩ ሕዝቧን እና ⟨את⟩ ዘርአባቶቿን አልነገረችም፤ ምክንያቱም ሞርዱካይ ባልታወቅ፣ እንዳትነግር አዘዛት።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ነግራለችም"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "እስቴር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቧን"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ሕዝቧን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዘርአባቶቿን"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "ዘርአባቶቿን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ሞርዱካይ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዛት"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ባለበት\/ስለእሷ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንዳትነግር"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "ትነግርም"
+    }
+  ],
+  "timestamp": "2026-08-16T11:19:21.605057551Z",
+  "model": "glm-5.3"
+}

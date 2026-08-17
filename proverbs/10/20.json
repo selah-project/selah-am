@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የጻድቁ ምላስ ተመርጦ ብር ነው፤ የክፉዎች ልብ ግን እንደ ጥቂቱ ነው።",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "ተመርጦ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ምላስ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "የጻድቁ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "የክፉዎች"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "እንደ ጥቂቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:24:54.094124739Z",
+  "model": "glm-5.3"
+}

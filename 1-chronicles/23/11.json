@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "1-chronicles 23:11",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ያሐት አለቃ ሆነ፣ ዚዛም ሁለተኛ፤ ይዑስና በርያ ግን ብዙ ልጆች አልነበራቸውም፤ በአንድ ቆጠራ ለአንድ የአባት ቤት ሆኑ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ያሐት"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "וזיזה",
+      "gloss": "እና ዚዛ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ሁለተኛ"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "እና ይዑስ"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "እና በርያ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "አበዙ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ሆኑ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ለ…ቤት"
+    },
+    {
+      "surface": "אב",
+      "gloss": "አባት"
+    },
+    {
+      "surface": "לפקדה",
+      "gloss": "በቆጠራ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "አንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:14:16.890569640Z",
+  "model": "glm-5.3"
+}

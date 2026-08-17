@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 2:2",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ዳዊትም ወደ ዚያ ወጣ፤ እንዲሁም ሁለቱ ሚሳዮቹ — አኺኖዓም የይስረኤላዊቷ እና አቢጋይል የናባል የከርሚላዊው ሚስት።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ወደ ዚያ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ሁለቱ"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ሚሳዮቹ"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "አኺኖዓም"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "የይስረኤላዊቷ"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "እና አቢጋይል"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሚስት"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "የናባል"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "የከርሚላዊው"
+    }
+  ],
+  "timestamp": "2026-08-16T16:05:05.883069798Z",
+  "model": "glm-5.3"
+}

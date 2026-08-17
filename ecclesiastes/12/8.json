@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ከከንዱ የሚበልጥ ከንዱ፣ ይላል ቋሌሉ፤ ሁሉም ከንድ ነው።",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "ከንድ"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ከከንዱ የሚበልጥ ከንዱ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "ቋሌሉ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ከንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:18:37.015694178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 127,
+  "translation": "እንደ ቀስቶች በእጅ ሆነው በጀግና እጅ፣ እንዲሁ የወጣትነት ልጆች ናቸው።",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "እንደ ቀስቶች"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጅ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ጀግና"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲሁ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "የወጣትነት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:17.390270104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ዳዊትም ከእርሱ ጋር የነበሩትን ሰዎቹን — እያንዳንዱ ሰው ከቤቱ ጋር — አወጣ፤ በኬብሮን ከተሞችም ኖሩ።",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "ሰዎቹን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "አወጣ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "ከቤቱ ጋር"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ኖሩ"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "በከተሞች"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ኬብሮን"
+    }
+  ],
+  "timestamp": "2026-08-16T16:05:05.885750836Z",
+  "model": "glm-5.3"
+}

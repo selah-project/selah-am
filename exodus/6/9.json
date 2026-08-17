@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "exodus 6:9",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ሞሼም እንደዚህ ተናገረ ወደ የእስራኤል ልጆች፤ እነሆም ከነፍስ ምቹት እና ከከባድ ባርነት የተነሳ ወደ ሞሼ አልሰሙም።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እነሆም አልሰሙም"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "አልሰሙም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "מקצר",
+      "gloss": "ከምቹት"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "ומעבדה",
+      "gloss": "እና ከባርነት"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ከባድ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:07:16.737435001Z",
+  "model": "glm-5.3"
+}

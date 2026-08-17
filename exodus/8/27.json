@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "exodus 8:27",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ያህዌህም በሞሼ ቃል መሠረት አደረገ፤ የውኾችም መንጋ ከፈርዖን፣ ከባለሟሎቹ፣ ከሕዝቡም ተነሳ፤ አንድ እንኳ አልቀረም።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "በቃል"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ተነሳ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "የውኾችም መንጋ"
+    },
+    {
+      "surface": "מפרעה",
+      "gloss": "ከፈርዖን"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "ከባለሟሎቹ"
+    },
+    {
+      "surface": "ומעמו",
+      "gloss": "ከሕዝቡም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "ቀረ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ እንኳ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:12:34.264730214Z",
+  "model": "glm-5.3"
+}

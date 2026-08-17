@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "በእሷም ውስጥ አንድ ድሃ ጠቢብ ሰው ተገኘ፤ እርሱም በጥበቡ ⟨את⟩ ከተማዋን አዳነ፤ ማንም ሰው ግን ያንን ድሃ ሰው ⟨את⟩ አላስታወሰም።",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "ተገኘም"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእሷ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "ድሃ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ጠቢብ"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "አዳነም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተማዋን"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋን"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "በጥበቡ"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ሰውም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "አስታወሰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰውውን"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰውውን"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "ድሃውን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያንን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:16:46.445908792Z",
+  "model": "glm-5.3"
+}

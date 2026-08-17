@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ወገን አለ — አባቱን ያረግሳል፣ ⟨את⟩ እናቱንም አያበርቅም።",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ወገን"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱን"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ያረግሳል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እናቱን"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "እናቱን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ያበርቅም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:37:23.527601226Z",
+  "model": "glm-5.3"
+}

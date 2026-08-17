@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "እና ⟨את⟩ ወንዶቹን ታቀርባለህ፤ ኩታኔቶችንም ታለብሳቸዋለህ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ወንዶቹን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ወንዶቹን"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "ታቀርባለህ"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "ታለብሳቸዋለህ"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ኩታኔቶችን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:27:59.141685024Z",
+  "model": "glm-5.3"
+}

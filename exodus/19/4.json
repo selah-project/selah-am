@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እናንተ ለግብፃውያን ያደረግሁትን አይታችኋል፤ በንስሮች ክንፍ ላይ አንቀሳቅስኋችኋለሁ፤ ወደ እኔም ⟨את⟩ አመጣኋችኋለሁ፤",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "አይታችኋል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያደረግሁትን"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "አደርግሁ"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "ለግብፃውያን"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "አንቀሳቅስኋችኋለሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ እናንተን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ክንፍ"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "ንስሮች"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "አመጣኋለሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:17:12.905930063Z",
+  "model": "glm-5.3"
+}

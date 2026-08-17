@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ከዚያም የሳኦልን ⟨את⟩ አጥንት እና የልጁ የዮናታንን ⟨את⟩ አጥንት አወጣ፤ የተሰቀሉትንም ⟨את⟩ አጥንት ሰበሰቡ።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "አወጣ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ከዚያም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አጥንት"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "አጥንት"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "አጥንት"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "አጥንት"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ዮናታን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ሰበሰቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አጥንት"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "አጥንት"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "የተሰቀሉት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:08:39.959032035Z",
+  "model": "glm-5.3"
+}

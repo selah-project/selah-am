@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ዳዊትም ⟨את⟩ ሕዝቡን የነበረውን መለከተ፤ በእነርሱም ላይ የሺህ አለቆችንና የመቶ አለቆችን ሾመ።",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "መለከተ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የነበረውን"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ከእርሱ ጋር ⟨את⟩"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ሾመ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "በእነርሱ ላይ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "አለቆችን"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "የሺህ"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "እና አለቆችን"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "የመቶ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:19:54.659005491Z",
+  "model": "glm-5.3"
+}

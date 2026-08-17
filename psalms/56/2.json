@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 56,
+  "translation": "ውዴኝኝ ኤሎሂም፤ በውጭ ሞተኛው ሊያርቅኛል፤ ዅሉን ቀን የሚዋጋ ይታገሰኛል።",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "ውዴኝኝ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በውጭ"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "ሊያርቅኛል"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሞተኛው"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ዅሉን"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ቀኑን"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "የሚዋጋ"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "ይታገሰኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:42.680093422Z",
+  "model": "glm-5.3"
+}

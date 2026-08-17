@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "በላዕ የበኦር ልጅ በኤዶም ነገሠ፤ የከተማውም ስም ዲንሃባ ነበር።",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "በኤዶም"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "በላዕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "በኦር"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ስምም"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ከተማው"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "ዲንሃባ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:53:01.254004852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ሰው ወንድሙን ⟨את⟩ አላየም፤ ሦስት ቀንም ሰው ከስፍራው አልነሳም፤ ለእስራኤል ልጆች ሁሉ ግን በቀበላቸው ብርሃን ነበረ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አል... ም"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንድሙን"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሙን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል... ም"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ነሳ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "ከስፍራው"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ለ... ሁሉም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበረ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "በቀበላቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:12:40.661028260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ኖባሕም ሄዶ ⟨את⟩ ቀናትን እና ⟨את⟩ ሴት ልጆቿን ያዘ፤ በራሱ ስም ኖባሕ ብሎ ጠራት።",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "ኖባሕ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ሄዶ"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ያዘ፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቀናትን"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "ቀናትን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሴት ልጆቿን"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "ሴት ልጆቿን"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራት፤"
+    },
+    {
+      "surface": "לה",
+      "gloss": "እሷን"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "ኖባሕ"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "በራሱ ስም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:27:33.507705652Z",
+  "model": "glm-5.3"
+}

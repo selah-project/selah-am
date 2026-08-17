@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ሐማንም አይቶ ወደ ራሱ አድሮት ሞረዳይ እንደማይንቀሳቀስም እንደማይሰግድም ሆኖ ሐማን በቁጭት ተሞላ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "አይቶ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሐማን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ሞረዳይ"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "ማይንቀሳቀስ"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "እንደማይሰግድ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለራሱ"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ተሞላ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሐማን"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "በቁጭት"
+    }
+  ],
+  "timestamp": "2026-08-16T20:32:54.515201047Z",
+  "model": "glm-5.3"
+}

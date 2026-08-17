@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ብቻ ሕዝቡ በከፍታ መስጊቶች ይሠዋል ነበር፤ በያህዌህ ስም ቤት በዚያን ጊዜ ድረስ አልተሠራም እንጂ።",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "ይሠዋል ነበር"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "በከፍታ መስጊቶች"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንጂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አልተሠራም"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "ተሠራ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "በስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ድረስ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "በዚያን ጊዜ"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ያንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:15:58.384685103Z",
+  "model": "glm-5.3"
+}

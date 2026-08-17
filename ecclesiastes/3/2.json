@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የመወለድ ጊዜ አለ፤ እና የመሞት ጊዜ አለ፤ የመትከል ጊዜ አለ፤ እና የተተከለውን የመንቀል ጊዜ አለ።",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "የመወለድ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "እና ጊዜ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "የመሞት"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "የመትከል"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "እና ጊዜ"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "የመንቀል"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "የተተከለውን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:13:46.029819100Z",
+  "model": "glm-5.3"
+}

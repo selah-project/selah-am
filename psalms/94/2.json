@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 94,
+  "translation": "የምድር ዳኛ ሆይ፣ ራስህን አንሳ፤ በትዕቢተኞች ላይ ካሸለ በል።",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "ራስህን አንሳ"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ዳኛ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "השב",
+      "gloss": "መልስ\/ካሸለ"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "አሸለ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "ትዕቢተኞች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:54.835129979Z",
+  "model": "glm-5.3"
+}

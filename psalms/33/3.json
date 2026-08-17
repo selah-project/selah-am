@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "አዲስ መዝሙር ዝምሩለት፤ በድምፅ ከፍ አድርጓችሁ ተንቀሳቅሶ ተንቀሳቅሶ ተጫውቱ።",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ዝምሩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "አዲስ"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "በድምፅ ከፍ አድርጓችሁ ተጫውቱ"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "ተንቀሳቅሶ ተጫውቱ"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "በድምፅ ከፍ አድርጓችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:36.128713474Z",
+  "model": "glm-5.3"
+}

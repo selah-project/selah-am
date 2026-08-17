@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 74,
+  "translation": "ወደ ኪዳኑ ተመልከት፤ የምድር ጨለማ ስፍራዎች በዓመጸኝነት መናኸሪያዎች ስለ ተሞሉና።",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "ተመልከት"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "ወደ ኪዳኑ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ተሞሉ"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "የ...ጨለማ ስፍራዎች"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "መናኸሪያዎች"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "የዓመጸኝነት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:57.828083603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "ruth 3:8",
+  "book": "ruth",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "በአጋራው ሌሊትም ሆነ፤ ⟨ሰውየው⟩ ተንቀጠቀጠ እንዲሁም ተነበበ፤ እነሆም ሴት በእግሩ አካባቢ ተኝታ ነበር።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "በአጋራው"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ሌሊትም"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "ተንቀጠቀጠ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰውየው"
+    },
+    {
+      "surface": "וילפת",
+      "gloss": "ተነበተ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆም"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "ተኝታ"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "በእግሩ አካባቢ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:07:40.091850371Z",
+  "model": "glm-5.3"
+}

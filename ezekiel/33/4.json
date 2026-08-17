@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ሰሚውም ⟨את⟩ የቀንደ-ጎሹን ድምፅ ሰምቶ ካልተጠነቀቀ፣ ሰይፍ ቢመጣው ወስጦታል፤ ደሙ በራሱ ራስ ላይ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "ሰምቶ"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "ሰሚው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምፁን"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "የቀንደ-ጎሹ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ካል"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "ተጠነቀቀ"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ቢመጣው"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "ወስጦታል"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ደሙ"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "በራሱ ራስ ላይ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    }
+  ],
+  "timestamp": "2026-08-16T08:43:21.805114518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 6:10",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እና በስምንተኛው ቀን ሁለት የዱር ርግቦችን ወይም ሁለት የይልባ ጨለሎችን ወደ ካህኑ ወደ መገኛው ድንኳን መግቢያ ያመጣል።",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "እና በ…ቀን"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ስምንተኛው"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ያመጣል"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "የዱር ርግቦችን"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ውርሶችን\/ጨለሎችን"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ይልባ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "መግቢያ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መገኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:49:15.158878648Z",
+  "model": "glm-5.3"
+}

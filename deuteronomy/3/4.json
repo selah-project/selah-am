@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "በዚያም ጊዜ ⟨את⟩ ከተሞቹን ሁሉ ያዝን፤ ⟨את⟩ እነርሱን ያላንሳበት ከተማ የነበረም አልነበረም — ስድሳ ከተማ፣ የአርጎብ ክልል ሁሉ፣ የዐግ መንግሥት በባሳን።",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "ያዝን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተሞቹን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "ከተሞቹን"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "በጊዜ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነበረችም"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "ያንሳበት"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "እነርሱን ⟨את⟩ ዘንድ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ስድሳ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ክልል"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "የአርጎብ"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "መንግሥት"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ዐግ"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "በባሳን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:34:38.347008876Z",
+  "model": "glm-5.3"
+}

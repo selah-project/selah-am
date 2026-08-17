@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እኛም «እንሥራ አሁን መሠዊያን ⟨את⟩ ለራሳችን እንገነባ — ለዕለተ ሰዊያ አይደለም፣ ለመሥዋዕትም አይደለም» አልን።",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "እኛም አልን"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "እንሥራ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለራሳችን"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "እንገነባ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሠዊያን"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያውን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "ለዕለተ ሰዊያ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይደለም"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ለመሥዋዕት"
+    }
+  ],
+  "timestamp": "2026-08-16T19:28:27.943300503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 145,
+  "translation": "ያህዌህ ለሁሉም በላጋ ነው፣ እና ምሕረቶቹ በሁሉም ሥራዎቹ ላይ ናቸው።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "በላጋ ነው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "እና ምሕረቶቹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ሥራዎቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:03.298488947Z",
+  "model": "glm-5.3"
+}

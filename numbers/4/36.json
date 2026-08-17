@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 36,
+  "ref": "numbers 4:36",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እነሆም በቤተሰቦቻቸው የተቆጠሩት ሁለት ሺህ ሰባት መቶ አምሳ ናቸው።",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "እና…ናቸው"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "የተቆጠሩት"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "በቤተሰቦቻቸው"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሁለት ሺህ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "እና አምሳ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:05:47.586674058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "የእርሱን ድርጊቶች እና በርሱ አሳያቸው የነበሩትን ድንቆች እርሱን ዘንብለው ረሱ።",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "ረሱ"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "የእርሱን ድርጊቶች"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "እና ድንቆቹን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ… ወት"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "አሳያቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:44.074967528Z",
+  "model": "glm-5.3"
+}

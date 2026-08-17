@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "proverbs 20:17",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "የውሸት እንጀራ ለሰው ጣፋጭ ነው፤ ከዚያ በኋላ ግን አፉ በሸክላ አለባት ይሞላል።",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "ጣፋጭ ነው"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ለሰው"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እንጀራ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "የውሸት"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ከዚያ በኋላ"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ይሞላል"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "አፉ"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "በሸክላ አለባት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:31:15.806783899Z",
+  "model": "glm-5.3"
+}

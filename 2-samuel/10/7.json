@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ዳዊት ሰማ፤ ⟨את⟩ ዮአብን እና ⟨את⟩ የጀግኖችን ሠራዊት ሁሉ ላከ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮአብን"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የጀግኖችን ሠራዊት ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ሠራዊት"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "ጀግኖች"
+    }
+  ],
+  "timestamp": "2026-08-16T05:58:44.404772361Z",
+  "model": "glm-5.3"
+}

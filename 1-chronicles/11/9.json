@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ዳዊትም በሄደ ቁጥር እየሄደ እየጎለመለ በዓበየ ስለዚህ ያህዌህ የሰራዊት አለቃ ከእርሱ ጋር ነበር።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄደም"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "እየሄደ"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "እየጎለመለ በዓበየ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "የሰራዊት አለቃ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር ነበር"
+    }
+  ],
+  "timestamp": "2026-08-16T12:48:21.194609574Z",
+  "model": "glm-5.3"
+}

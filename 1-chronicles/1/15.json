@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እና ⟨את⟩ ሕዊያዊውን፣ እና ⟨את⟩ ዐርቃዊውን፣ እና ⟨את⟩ ሲናዊውን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዊያዊውን"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ሕዊያዊው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዐርቃዊውን"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "ዐርቃዊው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሲናዊውን"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "ሲናዊው"
+    }
+  ],
+  "timestamp": "2026-08-16T12:30:27.034092326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ኤሎሂም ⟨את⟩ እነዚህን ሁሉን ቃላት ተናገረ፤ በማለት።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን ቃላት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "በማለት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:19:15.142460840Z",
+  "model": "glm-5.3"
+}

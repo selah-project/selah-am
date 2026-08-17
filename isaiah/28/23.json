@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "isaiah 28:23",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ጆሮ አዘጋጁ እና ድምፄን ስሙ፤ ቆሙ እና ቃሌን ስሙ።",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "ጆሮ አዘጋጁ"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "እና ስሙ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ድምፄን"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "ቆሙ"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "እና ስሙ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ቃሌን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:12:40.591228962Z",
+  "model": "glm-5.3"
+}

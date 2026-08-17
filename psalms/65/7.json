@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 65,
+  "translation": "ተራሮችን በኃይሉ ያረጋግጣል፤ በጀግንነት ይታሰራል።",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "ያረጋግጣል"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ተራሮችን"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "በኃይሉ"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "ይታሰራል"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "በጀግንነት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:25.169285533Z",
+  "model": "glm-5.3"
+}

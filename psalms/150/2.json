@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 150,
+  "translation": "እርሱን በጀግኖችነቱ አመስግኑት፤ እርሱን እንደ ታላቅነቱ ርብቀት አመስግኑት።",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "እርሱን አመስግኑት"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "በጀግኖችነቱ"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "እርሱን አመስግኑት"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "እንደ ርብቀት"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ታላቅነቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:36.953516555Z",
+  "model": "glm-5.3"
+}

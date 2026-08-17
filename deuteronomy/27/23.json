@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ከሚስቱ እናት ጋር የሚተኛ የተረገመ ነው፤ ሕዝቡም ሁሉ አሜን ይላል።",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "የተረገመ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "የሚተኛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋር"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "የሚስቱ እናትን"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ይላል፤"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡም"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "አሜን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:51:27.783802388Z",
+  "model": "glm-5.3"
+}

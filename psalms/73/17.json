@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "እስከ መቅደስ ቅዱሳን ስፍራዎች ስመጣ ለኤል፣ የኋላቸውን መጨረሻ ⟨ተረድቻለሁ⟩።",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ስመጣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ…ስፍራዎች ወደ"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "መቅደስ ቅዱሳን ስፍራዎች"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "⟨ተረድቻለሁ⟩"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "የኋላቸውን መጨረሻ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:08.745528577Z",
+  "model": "glm-5.3"
+}

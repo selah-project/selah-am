@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ከይሴይ ግንድ ትንኩስ በቀር ይወጣል፣ ከስሮቹም ቅርንጫፍ ያፈራል።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ይወጣል"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "ትንኩስ"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "ከግንድ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ይሴይ"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "ቅርንጫፍ"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "ከስሮቹ"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "ያፈራል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:04:19.998094662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "በምድረ በዳም ምኞትን አመኙ፤ በምድረ በዳውም ኤልን ፈተኑ።",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "አመኙ"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "ምኞትን"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በምድረ በዳም"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ፈተኑ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤልን"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "በምድረ በዳውም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:29.951031233Z",
+  "model": "glm-5.3"
+}

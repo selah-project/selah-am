@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እርሱም እንዲህ አለ። እኔ ከአንተ ጋር ⟨እኖራለሁ⟩፤ እኔ የላኵህ ዘንድ ይህም ለአንተ ምልክት ነው፤ ሕዝቡን ⟨את⟩ ከግብፅ ሳወጣህ በዚህ ተራራ ላይ ⟨את⟩ ኤሎሂምን ታመልካላችሁ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ…ስለሆነ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "እኖራለሁ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ይህም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "האות",
+      "gloss": "ምልክቱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ዘንድ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "የላኵህ"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "ሳወጣህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ከግብፅ"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "ታመልካላችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂምን"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂምን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ተራራው"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ዚህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:07:45.718365218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ያህዌህ አድን፤ ንጉሡ በምንጠራበት ቀን ይመልሰውልን።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "አድን"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "ይመልሰውልን"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በ…ቀን"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "ምንጠራበት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:34.112091379Z",
+  "model": "glm-5.3"
+}

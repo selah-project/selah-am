@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ሁለት ተያይዘው የሚገኙ ትከልቦች እንዲሆኑት ይሆናል፣ በሁለቱ ጫፎቹ ላይ፣ እንዲታሠርም ይሆናል።",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "ትከልቦች (ጉበጆች)"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "ተያይዘው የሚገኙ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "לו",
+      "gloss": "እንዲሆኑት (ለእርሱ)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለቱ"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "ጫፎቹ"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "እንዲታሠር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:26:49.926219801Z",
+  "model": "glm-5.3"
+}

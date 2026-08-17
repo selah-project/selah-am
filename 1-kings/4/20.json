@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ይሁዳና እስራኤል እንደ ባሕሩ ዳር አሸዋ በብዛት ብዙ ሆኑ፤ ይበሉ፣ ይጠጡ፣ ደስም ይላሉ።",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "እና እስራኤል"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "እንደ አሸዋ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ \/ ዳር"
+    },
+    {
+      "surface": "הים",
+      "gloss": "የባሕሩ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "በብዛት"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "ይበሉ"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "እና ይጠጡ"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "እና ደስ ይላሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:16:40.094538396Z",
+  "model": "glm-5.3"
+}

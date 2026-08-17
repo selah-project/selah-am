@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ሮሐብዓም ሸኬም ሄደ፣ ምክንያቱም በእርሱ ንጉሥ እንዲደረግ ሸኬም ወደ ⟨את⟩ ⟨אֵת⟩ እርሱ መጡ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ሮሐብዓም"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "ሸኬም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ሸኬም"
+    },
+    {
+      "surface": "באו",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "ንጉሥ እንዲደረግ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨אֵת⟩ እርሱ",
+      "marks": "እርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:45:13.246674173Z",
+  "model": "glm-5.3"
+}

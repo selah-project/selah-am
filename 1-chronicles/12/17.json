@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "1-chronicles 12:17",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ከብንያም እና ከይሁዳ ልጆች ወደ ዳዊት እስከ ⟨ምሽጉ⟩ ድረስ መጡ።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ብንያም"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "እና ይሁዳ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "ወደ ምሽጉ"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ወደ ዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T12:54:25.272789298Z",
+  "model": "glm-5.3"
+}

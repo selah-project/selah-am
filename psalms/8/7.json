@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "በእጅህ ሥራዎች ላይ እንዲነግሥ አድርገሃል፤ ሁሉን በእግሩ ሥር አቅርበሃል፤",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "እንዲነግሥ አድርገሃል"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "በ… ሥራዎች ላይ"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "የእጅህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "አቅርበሃል"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ… ሥር"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "የእግሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:00.466964698Z",
+  "model": "glm-5.3"
+}

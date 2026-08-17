@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 50,
+  "translation": "ፈርዖንም አለ፦ ውጣ አባትህን ⟨את⟩ በማደረገው ቃል መሠረት ቅበረው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ውጣ"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "ቅበረው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አባትህን"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "አባትህን"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "በ…መሠረት"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "በማደረገው ቃል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:05:38.073996617Z",
+  "model": "glm-5.3"
+}

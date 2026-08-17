@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "jeremiah 16:1",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "የያህዌህ ቃል ሆኖ ወደ እኔ መጣ፤ «እንዲህ በለ፦»",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆኖ መጣ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ በለ፦"
+    }
+  ],
+  "timestamp": "2026-08-16T07:47:40.618917066Z",
+  "model": "glm-5.3"
+}

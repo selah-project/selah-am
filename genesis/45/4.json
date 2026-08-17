@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "ዮስፍም ለወንድሞቹ «እባክኹም ወደ እኔ ቅረቡ» አለ፤ ተቀርበውም አለ፦ «እኔ ወንድማችኹ ዮስፍ ነኝ፤ ወደ ግብፅ የሸጣችኹኝ ⟨את⟩ እኔ ነኝ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮስፍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሞቹ"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "ቅረቡ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክኹም"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "እና ተቀርበው"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮስፍ"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ወንድማችኹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "ሸጣችኹኝ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ እኔን",
+      "marks": "እኔን (ዮስፍን)"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ወደ ግብፅ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:03:02.013634396Z",
+  "model": "glm-5.3"
+}

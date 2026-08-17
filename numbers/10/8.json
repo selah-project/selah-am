@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "numbers 10:8",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የአሃሮን ልጆች ካህናን በቀርነቶች ይነፋሉ፤ ይህ ለናንᰉ ለዘላለም ለትውልዳች ኑ ሕግ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "የ... ልጆች"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናን"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "ይነፋሉ።"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "በቀርነቶች"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ይሆናል።"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለናንተ"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "ሕግ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "ለትውልዳችን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:12:08.916525385Z",
+  "model": "glm-5.3"
+}

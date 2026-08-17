@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እንደ እነዚያም ቀናት ያህዌህ ይናገራል፣ ⟨את⟩ መጨረሻን ሙሉ ማድረግ አልሠራችሁም።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "እንደ እነዚያም"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "በቀናት"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "እነዚያ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ይናገራል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ሠራችሁም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "መጨረሻን ሙሉ ማድረግ"
+    }
+  ],
+  "timestamp": "2026-08-17T07:53:58.064898406Z",
+  "model": "glm-5.3"
+}

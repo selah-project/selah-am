@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ጀግናውን እና የጦር ሰውን፣ ፈራጁን እና ነቢዩን፣ አስተዋላጁን እና አዋቂውን፣",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "ጀግናውን"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "እና የ…ሰውን"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ጦር"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "ፈራጁን"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "እና ነቢዩን"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "እና አስተዋላጁን"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "እና አዋቂውን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:58:01.182566331Z",
+  "model": "glm-5.3"
+}

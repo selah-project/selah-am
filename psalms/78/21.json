@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "ስለዚህ ያህዌህ ሰማ እና ተቆጣ፤ እሳትም በያዕቆብ ተነሳ፣ ቍጣም በእስራኤል ወጣ።",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "ተቆጣ"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "እና እሳትም"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "ተነሳ"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "በያዕቆብ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ቍጣም"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እንዲሁ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "በእስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:53.753817595Z",
+  "model": "glm-5.3"
+}

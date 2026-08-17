@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "proverbs 20:16",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ልብሱን ውሰድ፣ ለሰው ራሲ ሆኖ ስለሆነ፤ እና ከውጭ ሰዎች ስለ ያሳልፈው።",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "ውሰድ"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ልብሱን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለሆነ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ራሲ ሆኖ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ለሰው"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "እና ከ… ስለ"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "ውጭ ሰዎች"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "ያሳልፈው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:32:01.927291794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እና መልእክተኞችን ወደ አክዓብ የእስራኤል ንጉሥ ወደ ⟨ዩ⟩ ከተማዋ ላከ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "እና…ላከ"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "መልእክተኞችን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "አክዓብ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "የ…ንጉሥ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "ወደ ከተማዋ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:32:33.313420613Z",
+  "model": "glm-5.3"
+}

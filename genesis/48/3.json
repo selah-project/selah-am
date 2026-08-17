@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "ያዕቆብም ለዮሴፍ እንዲህ አለ፦ ኤል ሻዳይ በሉዝ በከነዓን ምድር ታየኝ፤ እና በረከኝ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ሻዳይ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ታየ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "በሉዝ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በ… ምድር"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነዓን"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "እና ባረከ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ እኔን",
+      "marks": "እኔን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:03:47.343237859Z",
+  "model": "glm-5.3"
+}

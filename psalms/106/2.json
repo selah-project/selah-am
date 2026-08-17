@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "ማን የያህዌህን አድምቆች ይናገራል? ማን መላውን ምስጋናውን ያሰማል?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "ይናገራል"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "አድምቆች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "ያሰማል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላውን"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ምስጋናውን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:52.029076492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "አዶናይ ያህዌህ እንዲህ ብሏል፤ የባቢሎንን ንጉሥ ኔቡኻድነጽር በእጁ የምድርን ብዛት ⟨את⟩ አስቆምላለሁ።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ብሏል"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "አስቆምላለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብዛት"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ብዛት"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "የምድርን"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጁ"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "ኔቡኻድነጽር"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "የባቢሎንን"
+    }
+  ],
+  "timestamp": "2026-08-16T08:39:29.646693528Z",
+  "model": "glm-5.3"
+}

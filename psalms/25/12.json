@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ያህዌህን የሚፈራ ሰው ማን ⟨הוא⟩? በሚመርጠው መንገድ ያስተምረዋል።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "የሚፈራ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "ያስተምረዋል"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "የሚመርጠው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:42.193112845Z",
+  "model": "glm-5.3"
+}

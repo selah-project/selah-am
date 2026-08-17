@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ፀሐይ በገባ ጊዜ ይንጹል፤ ከዚያም በኋላ ከቅዱሳን ነገሮች ይብላል፣ የርሱ ምግብ ነውና።",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "እና በገባ ጊዜ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ፀሐይ"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "እና ይንጹል"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "እና ከዚያም በኋላ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይብላል"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ቅዱሳን ነገሮች"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነውና"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "የርሱ ምግብ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:57:09.440774561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 32:10",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "እንዲህ አለ ሳንሸሪብ የአሦር ንጉሥ፦ በምን ላይ እያመካችሁ በኢየሩሳሌም በቀጠቃጠሮዋ ውስጥ ትቀመጣላችሁ?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "ሳንሸሪብ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "የአሦር"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "በምን"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "እያመካችሁ"
+    },
+    {
+      "surface": "וישבים",
+      "gloss": "ትቀመጣላችሁ"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "በቀጠቃጠሮዋ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "በኢየሩሳሌም"
+    }
+  ],
+  "timestamp": "2026-08-16T18:54:43.249248375Z",
+  "model": "glm-5.3"
+}

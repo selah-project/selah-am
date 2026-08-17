@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "ምጽራይም በሚወጡአት ጊዜ ደሰተች፤ ብርታታቸው በእነርሱ ላይ ወደቀናቸው።",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "ደሰተች"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽራይም"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "በመውጣታቸው ጊዜ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ወደቀ"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "ፍርሃታቸው"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "በእነርሱ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:15.090729558Z",
+  "model": "glm-5.3"
+}

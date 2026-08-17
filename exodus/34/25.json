@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "የእኔን መሥዋዕት ደም ከእርሾ ጋር አታረድ፤ የፋሲካ በዓል መሥዋዕትም እስከ ጠዋት አይደርስም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "ታረድ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "እርሾ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "የእኔን መሥዋዕት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ይደርስ\/ይቀር"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "እስከ ጠዋት"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "መሥዋዕት"
+    },
+    {
+      "surface": "חג",
+      "gloss": "የበዓል"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "የፋሲካ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:36:45.093796715Z",
+  "model": "glm-5.3"
+}

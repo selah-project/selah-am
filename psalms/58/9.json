@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 58,
+  "translation": "እንደ ደረቅ ሆኖ እንደ ሚቀላቀል ይሄዳል፤ የሴት የወደቀ ሕፃን ፀሐይን አያውቅም።",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "ደረቅ"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "ሆኖ እንደ ሚቀላቀል"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ይሄዳል"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "የወደቀ ሕፃን"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "בל",
+      "gloss": "አያውቅም"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "አያዩ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ፀሐይን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:18.945908421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 116,
+  "translation": "ሞገሳም ⟨ነው⟩ ያህዌህ እና ጻድቅ፤ ኤሎሂምም ምሕረት ያደርጋል።",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "ሞገሳም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "እና ጻድቅ"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "እኛም ኤሎሂም"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ምሕረት ያደርጋል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:39.800150032Z",
+  "model": "glm-5.3"
+}

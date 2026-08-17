@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ምክንያቱም ⟨ያ⟩ ባል በቤቱ የለም፤ ወደ ⟨የ⟩ሩቅ መንገድ ሄዷል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ባል"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "በቤቱ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ሄዷል"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ወደ መንገድ"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ከሩቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:24:05.825129700Z",
+  "model": "glm-5.3"
+}

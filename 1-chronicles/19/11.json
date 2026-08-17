@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "1-chronicles 19:11",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "የሕዝቡንም ቀሪውን ⟨את⟩ በወንድሙ አብሻይ እጅ አሳለፈ፤ እነርሱም የዐምሶን ልጆችን አግኝተው አዘጋጁ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቀሪውን (የሕዝቡን)"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ቀሪውን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "የሕዝቡን"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "አሳለፈ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጅ"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "አብሻይ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሙ"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "አዘጋጁ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ወደ መገናኛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆችን"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ዐምሶን"
+    }
+  ],
+  "timestamp": "2026-08-16T13:06:01.862238722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የሰሎሞን ንጉሥ በመላው እስራኤል ላይ ንጉሥ ሆኖ ነበር።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነበር"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ ሆኖ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በመላው"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T06:15:36.305853022Z",
+  "model": "glm-5.3"
+}

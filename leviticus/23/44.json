@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ሞሼም ⟨את⟩ የያህዌህን የተሾሩ በዓላት ለእስራኤል ልጆች ተናገረ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የተሾሩ በዓላትን"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "የተሾሩ በዓላት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ…"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:58:52.919701003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እርሱም ⟨את⟩ ከእርሱ ጋር ተመለሰ፤ በቤቱም ዳቦ በላ እና ውሃ ጠጣ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተመለሰም"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ከእርሱ ጋር",
+      "marks": "እሱን (የእግዚአብሔርን ሰው)"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "እና በላ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦ"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "በቤቱ"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "እና ጠጣ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:27:10.304068485Z",
+  "model": "glm-5.3"
+}

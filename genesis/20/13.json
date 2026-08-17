@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "genesis 20:13",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ሆኖም ኤሎሂም ከአባቴ ቤት ⟨את⟩ ሲያስከድለኝ፣ ስለዚህ ለእርሷ እንዲህ አልኋት — ይህ ከአንቺ የሚጠበቅብኝ ርኅራኄ ነው፤ በምንም ስፍራ ሁሉ እንመጣው ከሆነ እኔን አንድም እንወንድ አባት ነው በሉ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆኖም"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ሲ"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "ያስከድለኝ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "እኔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ከቤት"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "የአባቴ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "አልኋት"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ለእርሷ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "የአንቺ ርኅራኄ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምትሠራው"
+    },
+    {
+      "surface": "תעשי",
+      "gloss": "ታደርጊኛለህ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ከእኔ ጋር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ስፍራ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "እንመጣው"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ስለ እኔ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ወንድም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "አባት ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:40:42.833412161Z",
+  "model": "glm-5.3"
+}

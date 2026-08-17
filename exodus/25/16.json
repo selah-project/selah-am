@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ወደ እቃው ውስጥ ⟨את⟩ ምስክርነቱን ትጨምራለህ፣ እኔ የምሰጥህን።",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ትጨምራለህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "እቃው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምስክርነቱን"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ምስክርነቱን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "የምሰጥህን"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ለአንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:24:08.217028577Z",
+  "model": "glm-5.3"
+}

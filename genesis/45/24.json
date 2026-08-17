@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "ወንድሞቹንም ⟨את⟩ ሰደዳቸው፤ እነሱም ሄዱ፤ «በመንገድም አትበዛበዙ» አላቸው።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደዳቸውም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንድሞቹን"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሞቹን"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ሄዱ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አላቸውም"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ለነሱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "ትበዛበዙ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገድ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:02:00.833083492Z",
+  "model": "glm-5.3"
+}

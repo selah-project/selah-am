@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ሳሙኤልም ⟨את⟩ በሕዝቡ ሁሉ ቃላት ሰማ፤ እነሱንም በያህዌህ ጆሮዎች ተናገረ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤልም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በሕዝቡ ሁሉ ቃላት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "העם",
+      "gloss": "በሕዝቡ"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "እነሱንም ተናገረ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "በጆሮዎች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:32:37.108578694Z",
+  "model": "glm-5.3"
+}

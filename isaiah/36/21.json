@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "isaiah 36:21",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "ቸለው ብለው ዝም አሉ፤ ለእርሱ ⟨את⟩ ቃል አልመለሱም፤ ምክንያቱም የንጉሡ ትእዛዝ «አትመልሱትም» ብላ ነበርና።",
+  "tokens": [
+    {
+      "surface": "ויחרישו",
+      "gloss": "ዝም አሉ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል፣ አል...ም"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "መለሱ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ቃል"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ነበረች"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብላ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት...ም"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "ትመልሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T07:15:42.596166004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "አዶኒ-ቤቅም ሸሸ፤ ከኋላውም ተከተሉ፤ ያዙትም ⟨את⟩፤ የእጆቹን ከንፎች ⟨את⟩ እና የእግሮቹን ቆረጡ።",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "ሸሸ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶኒ"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "ቤቅ"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ተከተሉ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ከኋላው"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "ያዙ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን (ያዙት)"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "ቆረጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከንፎችን"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "ከንፎች"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "የእጆቹ"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "የእግሮቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:13:13.587322808Z",
+  "model": "glm-5.3"
+}

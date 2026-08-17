@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እኔም ማለዳ ልጄን ልምጣው ዘንድ ተነሳሁ፤ እነሆ ሞተ፤ እኔም ማለዳ ወደ ⟨את⟩ ልጄ ተመለከትኩ፤ እነሆ የወለድሁት ልጄ አልነበረም።",
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "ተነሳሁ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ማለዳ"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "ልምጣው ዘንድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጄን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጄን"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "ተመለከትኩ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ማለዳ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበረም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጄ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "ወለድሁት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:14:57.188367854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 136,
+  "translation": "ለዚያ የሣር ባሕርን በክፍሎች የቈረጠ፣ ምክንያቱም ምሕረቱ ለዘላለም ናት።",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "ለዚያ የቈረጠ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ሣር"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "በክፍሎች"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ምሕረቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:59.710011402Z",
+  "model": "glm-5.3"
+}

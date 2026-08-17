@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "isaiah 34:2",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "በአሕዛብ ሁሉ ላይ ለያህዌህ ቍጣ አለ፤ በሠራዊታቸውም ሁሉ ላይ ንዴት አለ፤ እነርሱን አዋርዶ አጠፋቸው፥ ለመታረድ አሳልፏቸው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ቍጣ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "וחמה",
+      "gloss": "ንዴትም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ሠራዊታቸው"
+    },
+    {
+      "surface": "החרימם",
+      "gloss": "አዋርዶ አጠፋቸው"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "አሳልፏቸው"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "ለመታረድ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:16:10.046654344Z",
+  "model": "glm-5.3"
+}

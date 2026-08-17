@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 96:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 96,
+  "translation": "ምክንያቱም የሕዝቦቹ አማልክት ሁሉ አሻጥሮች ⟨ናቸው⟩፤ ያህዌህ ግን ሰማያትን አደረገ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "አማልክት"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "የሕዝቦቹ"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "አሻጥሮች"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ ግን"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያትን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:22.981265770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እነሱም ⟨את⟩ ኢያሱን መልሰው እንዲህ አሉት፦ ያዘዝከን እርሱን ሁሉ እናደርጋለን፤ እና ወደምትልከን ወደ ሁሉም ስፍራ እንሄዳለን።",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "እነሱም መልሰው አሉት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢያሱን"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ኢያሱ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "ያዘዝከን"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "እናደርጋለን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "ትልከን"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "እንሄዳለን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:58:43.560365390Z",
+  "model": "glm-5.3"
+}

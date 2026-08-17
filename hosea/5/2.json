@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "hosea 5:2",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እስከ ሰብዓትም ገብተዋል ክፋታቸው፤ እኔ ግን ተግሰግስ አደርጋቸዋለሁ ሁላቸውን።",
+  "tokens": [
+    {
+      "surface": "ושחטה",
+      "gloss": "እስከ ሰብዓትም"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ክፋታቸው"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "ገብተዋል"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ተግሰግስ"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "ሁላቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T08:58:02.093459598Z",
+  "model": "glm-5.3"
+}

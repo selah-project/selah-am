@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "ezekiel 42:4",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "እና ከክፍሎቹ ፊት ለፊት ወደ ውስጥ የሚወስድ አሥር ክንድ ስፋት ያለው መሄጃ ነበረ፤ ወደ ውስጡም አንድ ክንድ ስፋት መንገድ ነበረ፤ በሮቻቸውም ወደ ሰሜን የሚመለከቱ ነበሩ።",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "እና ፊት ለፊት"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "ክፍሎቹ"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "መሄጃ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ክንድ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ስፋት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "ውስጡ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "አንድ ክንድ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "ופתחיהם",
+      "gloss": "እና በሮቻቸው"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "ወደ ሰሜን"
+    }
+  ],
+  "timestamp": "2026-08-16T08:51:06.363134697Z",
+  "model": "glm-5.3"
+}

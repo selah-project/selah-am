@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "2-kings 17:10",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "የተቀረጹ የድንጋይ ሐውልቶችንም ሆነ አሼራ ዓምዶችን ለራሳቸው አቆሙ፤ በከፍታው በከፍተኛው ኮረብታ ሁሉ ላይ እና በለምለም ዛፍ ሁሉ ሥር አኖሩ።",
+  "tokens": [
+    {
+      "surface": "ויצבו",
+      "gloss": "አቆሙ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለራሳቸው"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "የድንጋይ ሐውልቶችን"
+    },
+    {
+      "surface": "ואשרים",
+      "gloss": "እና አሼራ ዓምዶችን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "ኮረብታ"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "ከፍተኛ"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "እና ሥር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ዛፍ"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "ለምለም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:49:06.814907570Z",
+  "model": "glm-5.3"
+}

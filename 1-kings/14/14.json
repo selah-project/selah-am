@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 14:14",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "እና ያህዌህ ለርሱ በእስራኤል ላይ ንጉሥ ያስቀምጣል፤ የያረብዓምን ቤት ⟨את⟩ የሚያጠፋ ሰው፤ ዛሬው ይህ ነው፤ እንዴትስ ደግሞ አሁንም።",
+  "tokens": [
+    {
+      "surface": "והקים",
+      "gloss": "ያስቀምጣል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለርሱ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚያጠፋ"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "ያጠፋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የያረብዓም ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ያረብዓም"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬው"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "እንዴትስ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "አሁንም"
+    }
+  ],
+  "timestamp": "2026-08-16T16:27:10.361259589Z",
+  "model": "glm-5.3"
+}

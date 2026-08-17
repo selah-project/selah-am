@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "psalms 106:21",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "ኤልን አዳኛቸውን ረሱ፤ ⟨ያ⟩ በምጽራይም ታላቅ ነገሮችን የሠራ ነው።",
+  "tokens": [
+    {
+      "surface": "שכחו",
+      "gloss": "ረሱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤልን"
+    },
+    {
+      "surface": "מושיעם",
+      "gloss": "አዳኛቸውን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "የሠራ"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ታላቅ ነገሮችን"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "በምጽራይም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:12.392487568Z",
+  "model": "glm-5.3"
+}

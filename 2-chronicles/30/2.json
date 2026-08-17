@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 30:2",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ንጉሡም እና አለቆቹ እና ሙሉ ማኅበሩ በኢየሩሳሌም ፋሲካን በሁለተኛው ወር እንዲያደርጉ ወሰኑ።",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "ወሰኑ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "እና አለቆቹ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሙሉ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ማኅበሩ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "በኢየሩሳሌም"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "እንዲያደርጉ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ፋሲካን"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "በወር"
+    },
+    {
+      "surface": "השני",
+      "gloss": "በሁለተኛው"
+    }
+  ],
+  "timestamp": "2026-08-16T20:47:26.998980984Z",
+  "model": "glm-5.3"
+}

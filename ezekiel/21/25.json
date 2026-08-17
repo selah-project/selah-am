@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "መንገድ ታዘጋለህ ሾመው ⟨את⟩ የዐሞን ልጆችን ረባት እንዲመጣ፣ እና ⟨את⟩ ይሁዳን በኢየሩሳሌም የተመከበችው።",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ታዘጋለህ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "እንዲመጣ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሾመው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ረባት የዐሞን ልጆችን"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "ረባት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ዐሞን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ይሁዳን"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "በኢየሩሳሌም"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "የተመከበችው"
+    }
+  ],
+  "timestamp": "2026-08-16T20:20:58.224906722Z",
+  "model": "glm-5.3"
+}

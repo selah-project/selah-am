@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "job 8:5",
+  "book": "job",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እንደ ሆነ አንተ ለኤል ቀድመህ ብትሻው፣ እና ለሻዳይ ብትማረኝ፣",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንደ ሆነ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "תשחר",
+      "gloss": "ቀድመህ ብትሻው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ለ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ሻዳይ"
+    },
+    {
+      "surface": "תתחנן",
+      "gloss": "ብትማረኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:41:51.253670658Z",
+  "model": "glm-5.3"
+}

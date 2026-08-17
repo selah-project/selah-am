@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "exodus 24:9",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ሞሼም ወጣ፣ አሃሮንም፣ ናዳብና አቢሁም፣ ከይስራኤል ሽማግሌዎችም ሰባሺም ወጡ።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "አሃሮንም"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ናዳብ"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "አቢሁም"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ሰባሂምም"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "ከሽማግሌዎች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:22:44.005014032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ጉልብት ደመናም ከምድር ወጥቶ ⟨את⟩ የምድሩን ፊት ሁሉ ያጠጣ ነበር።",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "ጉልብት ደመና \/ ትንሽ ወንዝ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ወጥቶ ያረገ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "እና ያጠጣ ነበር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የምድሩን ፊት ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "የምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:17.633091277Z",
+  "model": "glm-5.3"
+}

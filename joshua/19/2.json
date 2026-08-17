@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "በርስታቸውም ⟨ነበረላቸው⟩ ብር-ሸብዓ፣ ሸብዓ እና ሞላዳህ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እና ⟨ነበረላቸው⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ላቸው"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "በርስታቸው"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ብር-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸብዓ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "እና ሸብዓ"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "እና ሞላዳህ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:09:39.902711129Z",
+  "model": "glm-5.3"
+}

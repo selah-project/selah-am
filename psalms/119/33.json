@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ያህዌህ ሆይ፣ የሥርዓት ዐዋጆችህን መንገድ አስተምረኝ፣ እኔም እስከ መጨረሻው እጠብቀዋለሁ።",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "አስተምረኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "የሥርዓት ዐዋጆችህን"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "እኔም እጠብቀዋለሁ"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "እስከ መጨረሻው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:49.584053674Z",
+  "model": "glm-5.3"
+}

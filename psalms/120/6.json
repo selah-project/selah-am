@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 120,
+  "translation": "ብዙ ጊዜ ነው የነፍሴ ሕይወት ከሰላም ጠላት ጋር ያደረው።",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "ብዙ ጊዜ ነው"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "ያደረው"
+    },
+    {
+      "surface": "לה",
+      "gloss": "የ..."
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "የነፍሴ ሕይወት"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ... ጋር"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ጠላት"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:56.250651356Z",
+  "model": "glm-5.3"
+}

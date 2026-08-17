@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "በጾይን ስለ ያህዌህ እየዘማሩ፤ ስለ ሰይኖን ለተቀመጠው፤ በሕዝቦች መካከል ተግባራቱን ንገሩ።",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "እየዘማሩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ስለ ያህዌህ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ለተቀመጠው"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ስለ ሰይኖን"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "ንገሩ"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "በሕዝቦች"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ተግባራቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:31.940747454Z",
+  "model": "glm-5.3"
+}

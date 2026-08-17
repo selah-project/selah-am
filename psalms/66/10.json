@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 66,
+  "translation": "በእውነት አንተ ኤሎሂም ፈተንከን፤ እንደ ብር እንደሚጠመቅ ጠመቅከን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "ፈተንከን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "ጠመቅከን"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "እንደሚጠመቅ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:43.718568927Z",
+  "model": "glm-5.3"
+}

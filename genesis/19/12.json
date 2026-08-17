@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "genesis 19:12",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እነዚያ ሰዎችም ወደ ሎጥ እንዲህ አሉ፦ «ከዚህ በላይ ማን አለህ? የሚርያት፣ ወንዶችህ፣ ሴቶችህ፣ በከተማዋም የምትወደው ሁሉ — ከዚህ ስፍራ አውጣ።»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "አሉ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "እነዚያ ሰዎችም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ሎጥ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ከዚህ በላይ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "አለህ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "እዚህ"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "የሚርያት"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ወንዶችህ፣"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "ሴቶችህ፣"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምትወደው"
+    },
+    {
+      "surface": "לך",
+      "gloss": "የአንተ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "በከተማዋም"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "አውጣ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ዚህ ስፍራ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:38:02.500745091Z",
+  "model": "glm-5.3"
+}

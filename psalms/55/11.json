@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 55,
+  "translation": "ቀንና ሌሊት በግድግዳዎቿ ላይ ይዞራታል፤ ክፉነትና መከራ በከተማዋ መካከል ⟨አለ⟩።",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "እና ሌሊት"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "ይዞራታል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "ግድግዳዎቿ"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ክፉነትና"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "መከራ"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "በከተማዋ መካከል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:17.545751339Z",
+  "model": "glm-5.3"
+}

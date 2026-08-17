@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ለመዝማሪው፣ ለዳዊት። ሞኝ በልቡ አለ፦ ኤሎሂም የለም፤ አጠፉ፣ ተጠፉ፣ ክፉ ሥራ፤ መልካም የሚያደርግ የለም።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመዝማሪው"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ሞኝ"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "በልቡ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "አጠፉ"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "ተጠፉ"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "ሥራ (ክፉ)"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "የሚያደርግ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:31.084420933Z",
+  "model": "glm-5.3"
+}

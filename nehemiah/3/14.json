@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 3:14",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እና ⟨את⟩ የመጥፋቱን በር ሠራ መልኪያ የሬካብ ልጅ፣ የቤት-ሐከሬም አውራጃ አለቃ፤ እርሱ ሠራው እና የበሩን በሮች፣ በሮቹን ቁልፎች እና በሮቹን አሞሌዎች አቆመ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የመጥፋቱን በር"
+    },
+    {
+      "surface": "שער",
+      "gloss": "በር"
+    },
+    {
+      "surface": "האשפות",
+      "gloss": "የመጥፋት"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "መልኪያ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ሬካብ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "አውራጃ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት-"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "ሐከሬም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "יבננו",
+      "gloss": "ሠራው"
+    },
+    {
+      "surface": "ויעמיד",
+      "gloss": "አቆመ"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "በሮቹን"
+    },
+    {
+      "surface": "מנעליו",
+      "gloss": "ቁልፎቹን"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "እና አሞሌዎቹን"
+    }
+  ],
+  "timestamp": "2026-08-16T20:42:41.423527872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 104,
+  "translation": "መልአኮቹን ነፋሳት ያደርጋል፤ አገልጋዮቹን የሚቃጠል እሳት።",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ያደርጋል"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "መልአኮቹን"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "ነፋሳት"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "አገልጋዮቹን"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "להט",
+      "gloss": "የሚቃጠል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:49.014392900Z",
+  "model": "glm-5.3"
+}

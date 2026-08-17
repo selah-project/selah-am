@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ይህን ታቀፍልህ መልካም ነው፤ እንዲሁም ከዚህ እጅህን አታስቀምጥ፤ ኤሎሂምን የሚፈራ ከሁሉም ⟨את⟩ ይወጣል።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "ታቀፍልህ"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "በዚህ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ከዚህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "አታስቀምጥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጅህን"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "የሚፈራ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂምን"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ይወጣል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉንም"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ሁሉንም"
+    }
+  ],
+  "timestamp": "2026-08-16T11:16:45.180122917Z",
+  "model": "glm-5.3"
+}

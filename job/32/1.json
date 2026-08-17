@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "job 32:1",
+  "book": "job",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "እነዚህ ሦስት ሰዎች እዮብን ⟨את⟩ ከመመለስ ተዉ፤ እርሱ በራሱ ዓይኖች ጻድቅ ስለሆነ።",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "ተዉ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "מענות",
+      "gloss": "ከመመለስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እዮብን"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "እዮብ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ፤ ስለሆነ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቅ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "በራሱ ዓይኖች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:56:26.061109403Z",
+  "model": "glm-5.3"
+}

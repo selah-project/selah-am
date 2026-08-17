@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ከነገውም ቀን ፍልስጤም ወደቀኞቹን ⟨את⟩ ለማራቆት ሲመጡ፣ ሣኦልን ⟨את⟩ እና ልጆቹን ⟨את⟩ በጊልቦዓ ተራራ ላይ ወድቀው አገኙ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኾነም"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ከነገውም ቀን"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ሲመጡ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤም"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "ለማራቆት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወደቀኞቹን"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "ወደቀኞቹን"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "አገኙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሣኦልን"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሣኦልን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ልጆቹን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ልጆቹን"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "ወድቀው"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "በተራራ ላይ"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "በጊልቦዓ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:49:59.572605894Z",
+  "model": "glm-5.3"
+}

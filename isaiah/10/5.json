@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ውዮ ለአሦር፣ የቁጣዬ ኮረቃ ⟨ናት⟩፤ እና በእጃቸው ያለው መዘንግ የንዴቤ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ውዮ ለ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "አሦር"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ኮረቃ"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "የቁጣዬ"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "እና መዘንግ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "በእጃቸው"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "የንዴቤ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:02:28.629962178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "የዱቄታችሁ በኩር እንጀራ እንደ መባ ታነሳላችሁ፤ እንደ የወፍጮ ቦታ መባ ሁሉ ⟨את⟩ እንዲሁ ታነሳታላችሁ።",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "በኩር"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "የዱቄታችሁ"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "እንጀራ"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ታነሳላችሁ"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "መባ"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "እንደ መባ"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "የወፍጮ ቦታ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲሁ"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ታነሳታላችሁ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ እርሷን",
+      "marks": "እርሷን (መባውን)"
+    }
+  ],
+  "timestamp": "2026-08-16T04:16:22.727980427Z",
+  "model": "glm-5.3"
+}

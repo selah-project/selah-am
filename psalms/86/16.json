@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 86,
+  "translation": "ወደ እኔ ተመልከትልኝ፤ ሞገስም አድርግልኝ፤ ኃይልህን ለአገልጋይህ ስጥ፤ የእጅኛሽ ልጅንም አድን።",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "ተመልከትልኝ፤"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ሞገስም አድርግልኝ፤"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ስጥ፤"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ኃይልህን"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ለአገልጋይህ"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "አድን።"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "የልጅን"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "የእጅኛሽ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:33.931313186Z",
+  "model": "glm-5.3"
+}

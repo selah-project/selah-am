@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "የያህዌህ አይኖች ⟨ናቸው⟩ ወደ ጻድቃን እና ጆሮዎቹ ⟨ናቸው⟩ ወደ ጩኸታቸው።",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "አይኖች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ጻድቃን"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "እና ጆሮዎቹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "ጩኸታቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:00.152573449Z",
+  "model": "glm-5.3"
+}

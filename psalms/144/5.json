@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 144,
+  "translation": "ያህዌህ ሰማያትህን አዘንብልና ውረድ፤ ተራሮችን ነክና ይደማቁ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הט",
+      "gloss": "አዘንብል"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "ሰማያትህን"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "እና ውረድ"
+    },
+    {
+      "surface": "גע",
+      "gloss": "ነክ"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "ተራሮችን"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "እና ይደማቁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:00.491324306Z",
+  "model": "glm-5.3"
+}

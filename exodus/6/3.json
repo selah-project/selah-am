@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ለአብራሃም፣ ለይስሐቅና ለያዕቆብ በኤል ሻዳይ ተገለጥላቸዋለሁ፤ ስሜ ያህዌህ ግን አልታወቃቸውም ነበር።",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "ተገለጥላቸዋለሁም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብራሃም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይስሐቅ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ለምናም"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "באל",
+      "gloss": "በኤል"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ሻዳይ"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "ስሜም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "ታወቅሁ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ላቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:09:58.798863275Z",
+  "model": "glm-5.3"
+}

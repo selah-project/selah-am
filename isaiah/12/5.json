@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ለያህዌህ ዜም በዛኝ ስለ ሠራ፤ ይህ በምድር ሁሉ ታውቃለች።",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ዜም በዛኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ክብርን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "ታውቃለች"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በ…ሁሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T07:01:53.706196565Z",
+  "model": "glm-5.3"
+}

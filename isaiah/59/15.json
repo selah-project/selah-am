@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "isaiah 59:15",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 59,
+  "translation": "እውነትም ጎድላለች፤ ከክፉ የሚርቅ ሰው ለዘረፍ አሳልፎ ተሰጠ፤ ያህዌህም አየ፤ በዓይኖቹም በዓይኑም ክፉ ሆነ፤ ምክንያቱም ፍርድ የለምና።",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ሆነችም"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "እውነት"
+    },
+    {
+      "surface": "נעדרת",
+      "gloss": "ጎድላለች"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "የሚርቅ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ከክፉ"
+    },
+    {
+      "surface": "משתולל",
+      "gloss": "ለዘረፍ አሳልፎ ተሰጠ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "አየም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "ክፉ ሆነ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "በዓይኑ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:30:56.979173878Z",
+  "model": "glm-5.3"
+}

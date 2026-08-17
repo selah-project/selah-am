@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ማን ⟨ነው⟩ እንደ ጥበበኛው? እና ማን የቃል ትርጉምን ያውቃል? የሰው ጥበብ ፊቱን ያበራዋል፣ እና የፊቱ ጽንፈኝነት ይቀየራል።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "እንደ ጥበበኛው"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "እና ማን"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ያውቃል"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "ትርጉምን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "የቃል"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "የሰው"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "ያበራዋል"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱን"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "እና ጽንፈኝነት"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "የፊቱ"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ይቀየራል"
+    }
+  ],
+  "timestamp": "2026-08-16T11:17:25.603471006Z",
+  "model": "glm-5.3"
+}

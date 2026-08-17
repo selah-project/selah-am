@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ዓይኖቼን ክፈት፣ ከቶራትህም ድንቆችን እያየሁ ነው።",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "ክፈት፣ ጋልብ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኖቼን"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "እእያይም"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ድንቆችን"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "ከቶራትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:09.032094973Z",
+  "model": "glm-5.3"
+}

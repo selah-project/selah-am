@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ነቡዛርአዳን የጋሻዎች አለቃ ⟨את⟩ እነሱን ወሰደ፤ እነሱንም ⟨את⟩ ወደ ባቢሎን ንጉሥ ወደ ሪብላታ አመጣቸው።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "ነቡዛርአዳን"
+    },
+    {
+      "surface": "רב",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ጋሻዎች"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "አመጣቸው"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ባቢሎን"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "ሪብላታ"
+    }
+  ],
+  "timestamp": "2026-08-17T07:47:11.481426472Z",
+  "model": "glm-5.3"
+}

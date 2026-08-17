@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "ኃጢአት በኃጢአታቸው ላይ ጨምር፤ በጽድቅህም እንዳይገቡ።",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "ጨምር"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ኃጢአትን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ኃጢአታቸው"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ይገቡ"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "በጽድቅህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:32.052138063Z",
+  "model": "glm-5.3"
+}

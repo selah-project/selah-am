@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "job 24:9",
+  "book": "job",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ከጡት ካለው ህጻን ይቀምጣሉ፤ እና በድሃ ላይ በዋስ የሚያዝ ነገር ይወስዳሉ።",
+  "tokens": [
+    {
+      "surface": "יגזלו",
+      "gloss": "ይቀምጣሉ"
+    },
+    {
+      "surface": "משד",
+      "gloss": "ከጡት"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ካለው ህጻን"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ… ላይ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ድሃ"
+    },
+    {
+      "surface": "יחבלו",
+      "gloss": "ይወስዳሉ በዋስ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:52:35.559017282Z",
+  "model": "glm-5.3"
+}

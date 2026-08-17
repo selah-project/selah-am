@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ሁሉም ቃላት ያደክማሉ፤ ማንም ሰው መናገር አይችልም፤ ዓይን ከማየት አይጠግብም፣ እና ጆሮ ከመስማት አይሞላም።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "ያደክማሉ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ይችል አይ…"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ማንኛውም ሰው"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "መናገር"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ይጠግብ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ዓይን"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ከማየት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ…ም"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ይሞላ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ጆሮ"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ከመስማት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:14:35.942043994Z",
+  "model": "glm-5.3"
+}

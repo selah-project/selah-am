@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እነዚህ የዕብራይል ዮሴፍ ልጆች ናቸው፡ ሮቤን፣ ስምዖን፣ ሌዊ፣ ይሁዳ፣ ይሣኮርና ዘብሉን።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ዕብራይል"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ሮቤን"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ስምዖን"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ሌዊ"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ይሣኮር"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "ዘብሉን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:32:59.593140361Z",
+  "model": "glm-5.3"
+}

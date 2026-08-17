@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "መዝሙሮች ሆኑልኝ ትእዛዞችህ በማረፊያዬ ቤት።",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "መዝሙሮች"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ሆኑ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ልኝ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ትእዛዞችህ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "ማረፊያዬ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:32.921811554Z",
+  "model": "glm-5.3"
+}

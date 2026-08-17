@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ሕዝቅያስም ወደ ያህዌህ ጸለየ በማለት።",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "ጸለየም"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ሕዝቅያስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "በማለት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:17:57.756020211Z",
+  "model": "glm-5.3"
+}

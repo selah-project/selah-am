@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ምክንያቱም የጸጋ አክሊል እነሱ ለራስህ ናቸው፣ እንዲሁም ሐቅሎች ለአንገትህ ናቸው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "አክሊል"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ጸጋ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እነሱ"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "ለራስህ"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "እንዲሁም ሐቅሎች"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "ለአንገትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:26.952413969Z",
+  "model": "glm-5.3"
+}

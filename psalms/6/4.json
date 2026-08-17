@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ነፍሴም በጣም ተናወጠች፤ አንተም ያህዌህ ሆይ፣ እስከ መቼ?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "እና ነፍሴ"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "ተናወጠች"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና አንተ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "መቼ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:28:21.701667398Z",
+  "model": "glm-5.3"
+}

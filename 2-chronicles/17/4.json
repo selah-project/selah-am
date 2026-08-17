@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "2-chronicles 17:4",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ነገር ግን ለአባቱ ኤሎሂም አመለከተ፤ በትእዛዙም ሄደ፤ የእስራኤልን ሥራም አልከተለም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ነገር ግን\/ስለ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ለኤሎሂም"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "አመለከተ\/ፈለገ"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "እና በትእዛዙ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "እንደ ሥራ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T13:49:02.557722923Z",
+  "model": "glm-5.3"
+}

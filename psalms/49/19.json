@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "በሕይወቱ ወቅት ነፍሱን ይባርካታል፤ በራስህ በታመንክ ጊዜ ሰዎች ያወድሱሃል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በ…ወቅት"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱን"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "በሕይወቱ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ይባርካታል"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "ያወድሱሃል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በ…ጊዜ"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "በራስህ ታመን\/ታረጋጋ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለራስህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:01.769937362Z",
+  "model": "glm-5.3"
+}

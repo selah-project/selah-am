@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ለይሁዳ ያህዌህን ⟨את⟩ የአባቶቻቸውን ኤሎሂም እንዲፈልጉና ታላዊን ትእዛዝን እንዲያደርጉ አዘዘ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ለይሁዳ"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "እንዲፈልጉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "የአባቶቻቸውን"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "እንዲያደርጉ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ታላዊን"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "እና ትእዛዝን"
+    }
+  ],
+  "timestamp": "2026-08-16T13:46:09.207852392Z",
+  "model": "glm-5.3"
+}

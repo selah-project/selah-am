@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ራምም ⟨את⟩ ዓሚናዳብን ወለደ፤ ዓሚናዳብም ⟨את⟩ ናኽሾንን ወለደ — የይሁዳ ልጆች አለቃ።",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "ራምም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓሚናዳብን"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ዓሚናዳብ"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "ዓሚናዳብም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ናኽሾንን"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "ናኽሾን"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:32:10.924475085Z",
+  "model": "glm-5.3"
+}

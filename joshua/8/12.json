@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ወደ አምስት ሺህ ወንዶችም ወሰደ፤ ⟨את⟩ እነርሱንም በቤት ኤልና በአይ መካከል በከተማዋ ምዕራብ መደበቂያ አድርጎ አቀምጣቸው።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "ወደ አምስት"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ወንዶች"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "አቀምጣቸው"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "መደበቂያ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በ…መካከል"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እና"
+    },
+    {
+      "surface": "העי",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ከምዕራብ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ወደ ከተማዋ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:02:49.304593157Z",
+  "model": "glm-5.3"
+}

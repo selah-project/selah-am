@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "በጎችንና ላሞችን ሁሉን፣ እንዲሁም የበረሃ እንስሳትን፤",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "በጎችን"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "እና ላሞችን"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "እንስሳትን"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "የበረሃ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:00.467082368Z",
+  "model": "glm-5.3"
+}

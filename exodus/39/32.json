@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "exodus 39:32",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "የመገኛው የስብሰቃ ድንኳን አገልግሎት ሁሉ ተፈጸመ እና የያዕቆብ ልጆቹ የእስራኤል ልጆች እንደ ያዘዘ ያህዌህ ⟨את⟩ ሞሼን ሁሉ አደረጉ እንዲሁ አደርጉ።",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "ተፈጸመ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "አገልግሎት"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "መገኛው"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "የስብሰቃ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "አደረጉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "እንደ ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የያዘዘውን"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ያዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሼን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼን"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲሁ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "አደርጉ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:40:27.062887635Z",
+  "model": "glm-5.3"
+}

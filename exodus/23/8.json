@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ሽለትም አትቀበልም፤ ሽለት አይቶችን ያውራልና የጻድቃንን ነገሮች ያጣራል።",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "ሽለትም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ትቀበልም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "ሽለት"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "ያውራል"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "አይቶችን"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "ያጣራል"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "የ… ነገሮችን"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ጻድቃን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:20:45.576694024Z",
+  "model": "glm-5.3"
+}

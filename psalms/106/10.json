@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "ከጠላታቸው እጅ አዳናቸው፤ ከተቃዋሚ እጅም አስወጣቸው።",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "አዳናቸው"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ከጠላታቸው\/ከሚጠላው"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "አስወጣቸው\/መለሳቸው"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ከተቃዋሚ\/ጠላት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:30.033985461Z",
+  "model": "glm-5.3"
+}

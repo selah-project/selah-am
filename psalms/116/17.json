@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 116,
+  "translation": "ለአንተ የምስጋና መሥዋዕት አበዛለሁ፣ በያህዌህ ስም እጠራለሁ።",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "አበዛለሁ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "መሥዋዕት"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "የምስጋና"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "በ…ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "እጠራለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:05.977145068Z",
+  "model": "glm-5.3"
+}

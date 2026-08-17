@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የኸጽሮንም ልጆች የተወለዱለት — ⟨את⟩ ይርኸምኤልንና ⟨את⟩ ራምን፣ ⟨את⟩ ከሉባይንም።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "የ…ልጆችም"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ኸጽሮን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የተወለዱለት"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "ተወለዱ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይርኸምኤልን"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "ይርኸምኤል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩…ና",
+      "marks": "ራምን"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ራም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩…ም",
+      "marks": "ከሉባይን"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "ከሉባይ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:32:10.924212953Z",
+  "model": "glm-5.3"
+}

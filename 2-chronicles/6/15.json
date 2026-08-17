@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "2-chronicles 6:15",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ለአገልጋይህ ለዳዊት አባቴ እንደ ተናገርከው ⟨את⟩ የተናገርከውን ጠብቀህ ቆይ፤ በአፍህ ተናግረህ በእጅህ እንደ ዛሬው ቀን ሞልተሃል።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ጠብቀህ"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ለአገልጋይህ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባቴ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የተናገርከውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ተናገርከው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "ተናግረህ"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "በአፍህ"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "በእጅህ"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "ሞልተሃል"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "እንደ ዛሬው ቀን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:33:42.519425864Z",
+  "model": "glm-5.3"
+}

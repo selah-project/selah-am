@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "ይህን ሰሙ፣ ሕዝቦች ሁሉ፤ እንደገና ጆሮ ስጡ፣ የዓለም ተከላኪያዎች ሁሉ።",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ሰሙ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "ጆሮ ስጡ"
+    },
+    {
+      "surface": "᛭כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ተከላኪያዎች"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "ዓለም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:33.276494223Z",
+  "model": "glm-5.3"
+}

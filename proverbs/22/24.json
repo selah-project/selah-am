@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ከቁጭተኛ ጋራ የቅርብ ጓደኛ ⟨את⟩ አትሁን፣ እና ከንዴት ወዳጅ ⟨את⟩ አትሂድም፤",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት…ም"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "የቅርብ ጓደኛ አትሁን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቁጭተኛ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ባለ…"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ቁጭት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ወዳጅ"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "ንዴት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት…ም"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "አትሂድ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:32:50.457311764Z",
+  "model": "glm-5.3"
+}

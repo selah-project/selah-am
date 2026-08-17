@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እነዚህ የይስራኤል ልጆች ስሞች ወደ ግብፅ ሲገቡ ናቸው፤ ⟨את⟩ ያዕቆብ፣ እያንዳንዱ ሰው እና ቤተሰቡ ገቡ።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ስሞች"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የይስራኤል"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "ሲገቡ"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ወደ ግብፅ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያዕቆብ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "እና ቤተሰቡ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ገቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:06:21.132341869Z",
+  "model": "glm-5.3"
+}

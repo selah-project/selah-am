@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እና ማደሪያ ከቀኑ ሙቀት በፋንታ ለጥላ፣ እና ለሸሸጊያ፣ እና ከማዎች እና ከዝናብ ለመሸሸጊያ ትሆናለች።",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "እና ማደሪያ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ትሆናለች"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "ለጥላ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ከሙቀት"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "እና ለሸሸጊያ"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "እና ለመሸሸጊያ"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "ከማዎች\/ከጠመዝማዛ ዝናብ"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "እና ከዝናብ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:58:53.754242276Z",
+  "model": "glm-5.3"
+}

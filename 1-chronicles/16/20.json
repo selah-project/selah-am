@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ከሕዝብ ወደ ሕዝብ፣ ከመንግሥትም ወደ ሌላ ሕዝብ አልቀመዱ።",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "አልቀመዱ"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ከሕዝብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "ከመንግሥትም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ሌላ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:57:56.258899694Z",
+  "model": "glm-5.3"
+}

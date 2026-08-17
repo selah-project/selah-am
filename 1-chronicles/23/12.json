@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "የቂሃት ልጆች ዓምራም፣ ይጽሐር፣ ኬብሮን እና ዐዝኤል — አራት ናቸው።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ቂሃት"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "ዓምራም"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ይጽሐር"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ኬብሮን"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "እና ዐዝኤል"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "አራት"
+    }
+  ],
+  "timestamp": "2026-08-16T13:14:16.890742416Z",
+  "model": "glm-5.3"
+}

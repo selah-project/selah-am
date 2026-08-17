@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 92,
+  "translation": "እንስሳዊ ሰው አያውቅም፤ ሞኞችም ⟨את⟩ ይህንን አያስተውሉም።",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "בער",
+      "gloss": "እንስሳዊ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አያውቅም"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ያውቅ"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "እና ሞኟን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አያስተውሉም"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ያስተውል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህንን"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህንን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:39.175387162Z",
+  "model": "glm-5.3"
+}

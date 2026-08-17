@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "isaiah 24:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ምድሪቱም በነዋሪዎቿ ሥር ተበላሽታለች፤ ሕጎችን ተላልፈዋል፣ ሥርዓትን ቀይረዋል፣ የዘላለምን ቃል ኪዳን በደሉታልና።",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "ምድሪቱም"
+    },
+    {
+      "surface": "חנפה",
+      "gloss": "ተበላሽታለች"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ… ሥር"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "በነዋሪዎቿ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ተላልፈዋል"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ሕጎችን"
+    },
+    {
+      "surface": "חלפו",
+      "gloss": "ቀይረዋል"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ሥርዓትን"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "በደሉ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ቃል ኪዳንን"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "የዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:10:29.201153353Z",
+  "model": "glm-5.3"
+}

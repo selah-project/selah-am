@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 1:6",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ከእግር ማረፊያ እስከ ራስ ድረስ ጤናማነት የለውም፤ ቁስል አለ፣ ደምቀም አለ፣ የትኩስ ምት አለ፤ አልታሸገም፣ አልተሸፈነም፣ በዘይትም አልተለማም።",
+  "tokens": [
+    {
+      "surface": "מכף",
+      "gloss": "ከእግር ማረፊያ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "እግር"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እና እስከ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእሱ"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "ጤናማነት"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ቁስል"
+    },
+    {
+      "surface": "וחבורה",
+      "gloss": "እና ደምቀም"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "እና ምት"
+    },
+    {
+      "surface": "טריה",
+      "gloss": "የትኩስ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "ታሸገም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "ተሸፈነም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "רככה",
+      "gloss": "ተለማም"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "በዘይት"
+    }
+  ],
+  "timestamp": "2026-08-16T16:54:44.248761828Z",
+  "model": "glm-5.3"
+}

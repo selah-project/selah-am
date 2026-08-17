@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ያህዌህ ሆይ፣ ድምፄን ስጮኅ ስማኝ፤ በምሕረት ታድሰኛል፣ እና መልስ ስጠኝ።",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ስማኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ድምፄን"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ስጮኅ"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "በምሕረት ታድሰኛል"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "እና መልስ ስጠኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:27.574204527Z",
+  "model": "glm-5.3"
+}

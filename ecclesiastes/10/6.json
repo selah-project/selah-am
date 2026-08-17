@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ሞኝ በከፍታ መቀመጫዎች ይቀመጣል፣ ባለጸጆች ደግሞ በዝቅተኛ ስፍራ ይቀመጣሉ።",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "ይቀመጣል\/ተቀምጧል"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "ሞኝ"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "በከፍታ ስፍራዎች"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "እና ባለጸጆች"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "በዝቅተኛ ስፍራ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ይቀመጣሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:16:38.011980412Z",
+  "model": "glm-5.3"
+}

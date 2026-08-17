@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 73:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "እንዴት ወደ ጥፋት ⟨ደረሱ⟩! እንደ አንድ ክሽታ፤ ወደቁ፣ ከመደምመር አለቃቸው ተጠኑ።",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "እንዴት"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨ደረሱ⟩"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "ወደ ጥፋት"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "እንደ አንድ ክሽታ"
+    },
+    {
+      "surface": "ספו",
+      "gloss": "ወደቁ"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "አለቃቸው"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "መደምመር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:08.751311992Z",
+  "model": "glm-5.3"
+}

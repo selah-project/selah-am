@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "መት ብለህ ትመታለህ ⟨את⟩ የኒያቺው ከተማ ነዋሪዎችን በሰይፍ አፍ፤ እጥፋት ታደርጋታለህ — ⟨את⟩ እሷን እና ⟨את⟩ ሁሉን ባለበት እና ⟨את⟩ እንስሳቷን በሰይፍ አፍ።",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "መት"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "ትመታለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነዋሪዎችን"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ነዋሪዎችን"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "የ…ከተማ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ኒያቺው"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "በ…አፍ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "እጥፋት ታደርጋታለህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እሷን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ባለበት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እንስሳቷን"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "እንስሳቷን"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "በ…አፍ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:42:34.972388374Z",
+  "model": "glm-5.3"
+}

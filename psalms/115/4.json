@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 115,
+  "translation": "ጣዖታቸው ብርና ወርቅ ⟨ናቸው⟩፣ የሰው እጆች ሥራ።",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "ጣዖታቸው"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "እና ወርቅ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "እጆች"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "የሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:03.480244630Z",
+  "model": "glm-5.3"
+}

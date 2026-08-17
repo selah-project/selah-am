@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 57,
+  "translation": "ተነሳ ክብሬ ሆይ፥ ተነሳ ናብል እና ኪናር፤ እኔ ንድፉን አስነሳለሁ።",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "ተነሳ"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ክብሬ ሆይ"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "ተነሳ"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "ናብል"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "እና ኪናር"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "አስነሳለሁ"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ንድፉን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:15.992732911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "1-samuel 1:17",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ኤሊም መለሰ እንዲህም አለ፦ በሰላም ሂጂ፤ የእስራኤል ኤሎሂምም ⟨את⟩ ጥያቄሽን የጠየቅሽውን ከእርሱ ይስጥልሽ።",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መለሰ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኤሊ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ሂጂ"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "በሰላም"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ኤሎሂምም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይስጥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጥያቄሽን"
+    },
+    {
+      "surface": "שלתך",
+      "gloss": "ጥያቄሽን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የጠየቅሽውን"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "ጠየቅሽ"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ከእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:31:28.376574345Z",
+  "model": "glm-5.3"
+}

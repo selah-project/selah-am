@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "isaiah 66:13",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 66,
+  "translation": "እንደ ሰው እናቱ የምትጽናነው፣ እንዲሁ እኔ እናንተን እጽናናችኋለሁ፤ በኢየሩሳሌምም ትጽናናዋላችሁ።",
+  "tokens": [
+    {
+      "surface": "כאיש",
+      "gloss": "እንደ ሰው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "እናቱ"
+    },
+    {
+      "surface": "תנחמנו",
+      "gloss": "የምትጽናነው"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲሁ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אנחמכם",
+      "gloss": "እጽናናችኋለሁ"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "በኢየሩሳሌምም"
+    },
+    {
+      "surface": "תנחמו",
+      "gloss": "ትጽናናዋላችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:35:38.558458065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 112,
+  "translation": "ክፉው ያይና ይበሳጭ፤ ጥርሶቹን ያፈራል፣ ይበታተናል፤ የክፉዎች ምኞት ይጠፋል።",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "ክፉው"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ያይ"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ይበሳጭ"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ጥርሶቹን"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "ያፈራል"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "ይበታተናል"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "ምኞት"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉዎች"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ይጠፋል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:48.807509610Z",
+  "model": "glm-5.3"
+}

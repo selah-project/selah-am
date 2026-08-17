@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 48:13",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "ሞዓብ ከከሞሽ ያፈራል፣ እንደሆነ የይስራኤል ቤት ከቤት-ኤል ከመተማቸው ሲፈራ።",
+  "tokens": [
+    {
+      "surface": "ובש",
+      "gloss": "ያፈራል"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    },
+    {
+      "surface": "מכמוש",
+      "gloss": "ከከሞሽ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደሆነ"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "ሲፈራ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የይስራኤል"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ከቤት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "מבטחם",
+      "gloss": "ከመተማቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T17:34:07.815961674Z",
+  "model": "glm-5.3"
+}

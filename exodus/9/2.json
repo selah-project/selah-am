@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ከእነሆ ብትከለክል ልታስለቅቅ፣ እስከ አሁንም በእነርሱ ታስቀምጣለህ፤",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ከ…ከእነሆ ብት"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከእነሆ ብት"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ትከለክል"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ልታስለቅቅ"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "እስከ አሁንም"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "ታስቀምጣለህ እየያዘህ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በእነርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:11:30.600528968Z",
+  "model": "glm-5.3"
+}

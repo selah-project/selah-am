@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "በፍጹምነት የሚሄድ፣ ጽድቅን የሚሠራ፣ በልቡም ውስጥ እውነትን የሚናገር፤",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "የሚሄድ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "በፍጹምነት"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "እና የሚሠራ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቅን"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "እና የሚናገር"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "እውነትን"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "በልቡ ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:10.881129874Z",
+  "model": "glm-5.3"
+}

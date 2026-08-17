@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "2-chronicles 29:3",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "እርሱ በመንገᡊው በአንደኛው ዓመት በአንደኛው ወር የያህዌህ ቤት በሮችን ⟨את⟩ ከፈተ፤ እነሱንም አጠናከረ።",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "በ…ዓመት"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "በአንደኛው"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "በመንገᡊው"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "በ…ወር"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "በአንደኛው"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ከፈተ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በሮችን"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "በሮች"
+    },
+    {
+      "surface": "בית",
+      "gloss": "የ…ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "አጠናከረ፤ እነሱንም"
+    }
+  ],
+  "timestamp": "2026-08-16T14:17:15.231380599Z",
+  "model": "glm-5.3"
+}

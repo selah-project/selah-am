@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የሞኞች መስበር ይገድላቸዋል፤ የደደቦችም ዕረፍት ያጠፋቸዋል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "መስበር"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "የሞኞች"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "ይገድላቸዋል"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "እና የዕረፍት"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "የደደቦች"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "ያጠፋቸዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:20:24.934128877Z",
+  "model": "glm-5.3"
+}

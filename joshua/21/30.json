@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "እና ከየአሸር ጎሣ — ⟨את⟩ ሚሻልን እና ⟨את⟩ መስክ መጓሻዋን፣ ⟨את⟩ ዓብድንን እና ⟨את⟩ መስክ መጓሻዋን።",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "እና ከየ...ጎሣ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "አሸር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚሻልን"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "ሚሻል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መስክ መጓሻዋን"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መስክ መጓሻዋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓብድንን"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "ዓብድን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መስክ መጓሻዋን"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መስክ መጓሻዋ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:11:13.513767359Z",
+  "model": "glm-5.3"
+}

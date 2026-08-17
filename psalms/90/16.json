@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 90,
+  "translation": "ሥራህ ወደ አገልጋዮችህ ትታይ፤ እና ክብርህ በልጆቻቸው ላይ።",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "ይታይ\/ትታይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "አገልጋዮችህ"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "ሥራህ"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "እና ክብርህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ልጆቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:58.659841888Z",
+  "model": "glm-5.3"
+}

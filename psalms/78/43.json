@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "ምልክቶቹን በምጽራይ፣ ድንቆቹንም በጾን ሜዳ ያደረገውን።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ያደረገውን"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "በምጽራይ"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "ምልክቶቹን"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "ድንቆቹንም"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "በሜዳ"
+    },
+    {
+      "surface": "צען",
+      "gloss": "የጾን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:28.018482321Z",
+  "model": "glm-5.3"
+}

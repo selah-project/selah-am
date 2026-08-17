@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "እና የሚያዩት ዓይኖች አይደንቁም፣ እና የሚሰሙት ጆሮዎች ያደምጣሉ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "እና አይደሉም"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "አይደንቁም"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኖች"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "የሚያዩት"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "እና ጆሮዎች"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "የሚሰሙት"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "ያደምጣሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:56:59.740665535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "የዳዊት ጸሎት። ያህዌህ ሆይ፥ ጽድቅን ስማ፥ የኔን ጩኸት ቆርም አድርግ፥ የኔን ጸሎት አዳምጥ፥ ያለ የተታለሉ ከንፈሮች የሚያልቅ ያለ ማታለል ከንፈሮች።",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "ጸሎት"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "የዳዊት"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ስማ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቅን"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "ቆርም አድርግ"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "የኔን ጩኸት"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "አዳምጥ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "የኔን ጸሎት"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ያለ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ከንፈሮች"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ማታለል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:21.804270574Z",
+  "model": "glm-5.3"
+}

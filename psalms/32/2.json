@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "እንዴት ደስ ያለው ነው ⟨እርሱ⟩ ሰው፣ ያህዌህ አመኽእሉን አይቆጥርበትም፣ በመንፈሱም ውስጥ ተንኮል የለም።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "እንዴት ደስ ያለው"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይም"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ይቆጥር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "አመኽእል"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "በመንፈሱ ውስጥ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ተንኮል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:09.381529699Z",
+  "model": "glm-5.3"
+}

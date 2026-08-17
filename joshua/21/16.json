@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "joshua 21:16",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ዓይንን ⟨את⟩ ከመሬቶቿ ጋር፣ ዩጣን ⟨את⟩ ከመሬቶቿ ጋር፣ ቤት ሰመስን ⟨את⟩ ከመሬቶቿ ጋር — ከእነዚህ ከሁለቱ ነገዶች ዘንድ ዘጠኝ ከተሞች።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓይንን"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ዓይን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ከ...ጋር ⟨את⟩",
+      "marks": "መሬቶቿን"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መሬቶቿ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዩጣን"
+    },
+    {
+      "surface": "יטה",
+      "gloss": "ዩጣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ከ...ጋር ⟨את⟩",
+      "marks": "መሬቶቿን"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መሬቶቿ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት ሰመስን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ሰመስ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ከ...ጋር ⟨את⟩",
+      "marks": "መሬቶቿን"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መሬቶቿ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ከተሞች"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ዘጠኝ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ከ...ዘንድ ⟨את⟩",
+      "marks": "እነዚህ ከሁለቱ ነገዶች"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለቱ"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "ነገዶች"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:10:51.675637358Z",
+  "model": "glm-5.3"
+}

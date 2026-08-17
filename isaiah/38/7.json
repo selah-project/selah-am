@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "ይህም ከያህዌህ ⟨את⟩ ሆኖ ለአንተ ምልክት ይሆናል፤ ያህዌህ ⟨את⟩ ይህን ቃል ያደርጋል፣ የተናገረውን።",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ይህም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "האות",
+      "gloss": "ምልክት"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ከ…⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚያደርገው"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ያደርጋል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህን ቃል"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:16:52.738844744Z",
+  "model": "glm-5.3"
+}

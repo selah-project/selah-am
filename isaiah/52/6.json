@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 52,
+  "translation": "ስለዚህ ሕዝቤ ስሜን ያውቃል፤ ስለዚህ በዚያ ቀን እኔ እኔ ነኝ ተናጋሪው የሚል ይወቃል፤ እነሆ እኔ።",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ያውቃል"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ስሜን"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በዚያ ቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያኔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እኔ ነኝ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ተናጋሪው"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እነሆ እኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:28:46.419950169Z",
+  "model": "glm-5.3"
+}

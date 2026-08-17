@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "genesis 29:6",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "እነርሱንም «ሰላም አለው?» አላቸው። እነርሱም «ሰላም አለው፤ እንሆ፣ ልጁ ራሔል ከበጎች ጋር ትመጣ ነበር፤ በመጣችም ጊዜ ነበር» አሉ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አላቸው"
+    },
+    {
+      "surface": "להם",
+      "gloss": "እነርሱን"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "ሰላም አለው?"
+    },
+    {
+      "surface": "לו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "እነርሱም አሉ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም አለው"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እንሆም"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ራሔል"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ትመጣ ነበር"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋር"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ከበጎች"
+    }
+  ],
+  "timestamp": "2026-08-16T02:47:53.327123733Z",
+  "model": "glm-5.3"
+}

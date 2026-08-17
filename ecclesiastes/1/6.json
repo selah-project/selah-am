@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ወደ ደቡብ ይሄዳል እና ወደ ሰሜን ይዞራል፤ ይዞር ዞሮ ነፋሱ ይሄዳል፣ እና በዙሪያዎቹ ላይ ነፋሱ ይመለሳል።",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ይሄዳል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "ደቡብ"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "እና ይዞራል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ሰሜን"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "ይዞር"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "ዞሮ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ይሄዳል"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ነፋሱ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ…ላይ"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "ዙሪያዎቹ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ይመለሳል"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ነፋሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:14:35.941613030Z",
+  "model": "glm-5.3"
+}

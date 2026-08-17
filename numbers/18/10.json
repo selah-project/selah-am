@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "በቅዱስ ቅዱሳን ቦታ ትበላዋለህ፤ ሁሉም ወንድ ⟨את⟩ እሱን ይበላል፤ ቅዱስ ለአንተ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "በቅዱስ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ቅዱሳን"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ትበላዋለህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ወንድ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበላል"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እሱን"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:18:41.001782569Z",
+  "model": "glm-5.3"
+}

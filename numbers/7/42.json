@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "በስድስተኛው ቀን የጋድ ልጆች አለቃ የደኡኤል ልጅ ኤልያሳፍ ነበረ።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "በ…ቀን"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "በስድስተኛው"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ኤልያሳፍ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "ደኡኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:08:58.841108641Z",
+  "model": "glm-5.3"
+}

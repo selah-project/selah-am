@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ካህኑ ወደ ሰፈሩ ውጭ ይወጣል፤ ካህኑ ያያል፤ እነሆ፣ የቸፈራው መታት ከቸፈረኛው ⟨ተፈውሶ⟩ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ይወጣል"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ውጭ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ሰፈር"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ያያል"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "ተፈውሶ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "መታት"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "የቸፈራው"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "ቸፈረኛው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:51:32.247497866Z",
+  "model": "glm-5.3"
+}

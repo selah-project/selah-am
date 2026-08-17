@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እና የእርሱ ሠራዊት እና የተቆጠሩት አራት መቶ ስልሳ አራት ሺህ ናቸው።",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "እና የእርሱ ሠራዊት"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "እና የተቆጠሩት"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "አራት"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "እና ስልሳ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "እና አራት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:04:58.242141230Z",
+  "model": "glm-5.3"
+}

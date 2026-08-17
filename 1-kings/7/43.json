@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እና ⟨את⟩ መደቦቹን አሥር፣ እና ⟨את⟩ መታጠቢያዎቹን አሥር፣ በመደቦቹ ላይ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መደቦቹን"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "መደቦቹን"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መታጠቢያዎቹን"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "መታጠቢያዎቹን"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "መደቦቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:17:28.793340139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እኔም ለምርኰኞቹ ሁሉን ⟨את⟩ የያህዌህን ቃላት እንደ አሳየኝ ተናገርሁ።",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "ተናገርሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ምርኰኞቹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "አሳየኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:21:04.784245121Z",
+  "model": "glm-5.3"
+}

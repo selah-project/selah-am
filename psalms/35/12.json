@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "ለበጎ ክፉ ይመልሱብኛል፤ የልጅ ማጣት ለነፍሴ።",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "ይመልሱብኛል"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ፈንታ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ለበጎ"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "የልጅ ማጣት"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ለነፍሴ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:30.181298920Z",
+  "model": "glm-5.3"
+}

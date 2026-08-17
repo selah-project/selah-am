@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 9:21",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ዮታምም ሮጠ፣ አመለጠ፣ ወደ ቤርም ሄደ እና እዚያ ተቀመጠ፤ ከወንድሙ ከአቢሜሌክ ፊት ስለ ፈራ።",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "ሮጠ"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "ዮታምም"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "አመለጠ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "ወደ ቤር"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቀመጠ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከ… ፊት ስለ ፈራ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "አቢሜሌክ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሙ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:28:42.666576886Z",
+  "model": "glm-5.3"
+}

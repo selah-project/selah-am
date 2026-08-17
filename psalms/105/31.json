@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "ተናገረ፤ ዝምባ መጣ፣ ትንኞችም በድንበራቸው ሁሉ።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "መጣም"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ዝምባ"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ትንኞችም"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉ"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ድንበራቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:04.486726877Z",
+  "model": "glm-5.3"
+}

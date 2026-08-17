@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 22:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ልብሴን እነሱ በመካፈል ይከፍላሉ እና ልብሴ ላይ ዕጣ ይጥላሉ",
+  "tokens": [
+    {
+      "surface": "יחלקו",
+      "gloss": "ይከፍላሉ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ልብሴን"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነሱ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ... ላይ"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "ልብሴ ላይ"
+    },
+    {
+      "surface": "יפילו",
+      "gloss": "ይጥላሉ"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "ዕጣ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:21.422953860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የባዓልን ⟨את⟩ ሐውል አፈሩ፣ የባዓልን ⟨את⟩ ቤት አፈሩ፣ እስከ ዛሬ ድረስ መጠሪያ አድርገውት አደረጉት።",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "አፈሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሐውሉን"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "ሐውል"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "የባዓል"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "አፈሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "የባዓል"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "አደረጉት"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "መጠሪያ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:43:37.187095296Z",
+  "model": "glm-5.3"
+}

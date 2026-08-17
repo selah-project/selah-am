@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "እና ⟨את⟩ ኬጢያንን እና ⟨את⟩ ፈሪዚያንን እና ⟨את⟩ ራፋይምን",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ኬጢያንን"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ኬጢያንን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ፈሪዚያንን"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "ፈሪዚያንን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ራፋይምን"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "ራፋይምን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:37:20.992707722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "numbers 6:7",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ለአባቱ ለእናቱ ለወንድሙ ለእህቱ በሚሞቱለት ጊዜ አያረክስም፤ የኤሎሂሙ ንዝር በራሱ ራስ ላይ ⟨ስለ⟩ ሆነ።",
+  "tokens": [
+    {
+      "surface": "לאביו",
+      "gloss": "ለአባቱ"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ለእናቱ"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ለወንድሙ"
+    },
+    {
+      "surface": "ולאחתו",
+      "gloss": "ለእህቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "አያረክስም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ላቸው"
+    },
+    {
+      "surface": "במתם",
+      "gloss": "በሚሞቱለት ጊዜ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "ንዝር"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "የኤሎሂሙ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ራሱ ራስ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:08:05.970018039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ሮሐባም ወደ ሸኬም ሄደ፤ በምክንያቱም ሸኬም እስራኤል ሁሉ መጥቶ እርሱን ንጉሥ እንዲያደርገው ⟨את⟩ እነዚያም ቦታ ነበር።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ሮሐባም"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ወደ ሸኬም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በምክንያቱም"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ሸኬም"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጥቶ ነበር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "ንጉሥ እንዲያደርገው"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ እርሱን",
+      "marks": "ሮሐባምን"
+    }
+  ],
+  "timestamp": "2026-08-16T16:27:58.155966029Z",
+  "model": "glm-5.3"
+}

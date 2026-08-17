@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ቆሞ የእስራኤልን ማኅበር ሁሉ በታላቅ ድምፅ ባረከ፤ እንዲህ ሲል፦",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ቆሞ"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ባረከ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ማኅበር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤልን"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T16:26:15.266896348Z",
+  "model": "glm-5.3"
+}

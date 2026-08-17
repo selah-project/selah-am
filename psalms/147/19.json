@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 147:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 147,
+  "translation": "ቃሉን ለያዕቆብ ያስተዋውቃል፤ ሥርዓቶቹንና ፍርዶቹን ለእስራኤል።",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "ያስተዋውቃል"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ቃሉን"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ለያዕቆብ"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ሥርዓቶቹን"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "እና ፍርዶቹን"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ለእስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:12.810205426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 23:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "በብዙ ውኃዎች የሺሖር ዘር ነው፤ የወንዙ መከር ገቢዋ ነው፤ እርሷም የሕዝቦች ንግድ ማዕከል ሆነች።",
+  "tokens": [
+    {
+      "surface": "ובמים",
+      "gloss": "በውኃዎች"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "በብዙ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘር"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ሺሖር"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "መከር"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "ወንዙ"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ገቢዋ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ሆነችም"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "ንግድ ማዕከል"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ሕዝቦች"
+    }
+  ],
+  "timestamp": "2026-08-16T07:10:38.335756013Z",
+  "model": "glm-5.3"
+}

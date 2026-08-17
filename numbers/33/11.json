@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "numbers 33:11",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ከዕፅ ባሕር ተነሱ፣ በሲን ምድረ በዳ አደሩ።",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ተነሱ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ከባሕር"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ዕፅ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "አደሩ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በ… ምድረ በዳ"
+    },
+    {
+      "surface": "סין",
+      "gloss": "ሲን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:29:36.675129347Z",
+  "model": "glm-5.3"
+}

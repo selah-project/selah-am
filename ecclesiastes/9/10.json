@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ሁሉን የምታገኘውን በእጅህ ⟨את⟩ በኃይልህ አድርገህ አድርግ፤ ምክንያቱም ሥራም ስሌትም እውቀትም ጥበብም የለም በስኦል ውስጥ፣ አንተ ወደምትሄድበት እዚያ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምታገኘውን"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ታገኛል"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "በእጅህ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ለማድረግ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን የምታገኘውን"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "በኃይልህ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አድርግ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "ስሌትም"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "እውቀትም"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "ጥበብም"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "በስኦል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ወደምትሄድበት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ትሄዳል"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "እዚያ"
+    }
+  ],
+  "timestamp": "2026-08-17T10:23:06.793559397Z",
+  "model": "glm-5.3"
+}

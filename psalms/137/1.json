@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 137,
+  "translation": "በባቢሎን ወንዞች ላይ እዚያ ተቀመጥን፤ ጽዮንን ⟨את⟩ በተዘከርን ጊዜ እኛም አለቅስን።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ወንዞች"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ባቢሎን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "ተቀመጥን"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እኛም"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "አለቅስን"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "በተዘከርን ጊዜ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጽዮንን"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮንን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:55.373860378Z",
+  "model": "glm-5.3"
+}

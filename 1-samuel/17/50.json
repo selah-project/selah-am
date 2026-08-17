@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ዳዊትም ከፍልስጤማዊው ጋር በመወርወሪያና በድንጋይ አሸነፈ፤ ⟨את⟩ ፍልስጤማዊውን መታውና ገደለው፤ በዳዊት እጅ ግን ሰይፍ የለም ነበር።",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "አሸነፈ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ፍልስጤማዊው"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "በመወርወሪያ"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "በድንጋይ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "መታው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍልስጤማዊውን"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ፍልስጤማዊውን"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ገደለው"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ሰይፍ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በ…እጅ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:44:29.766659849Z",
+  "model": "glm-5.3"
+}

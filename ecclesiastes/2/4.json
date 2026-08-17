@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ሥራዬን አሳደግሁ፥ ለራሴ ቤቶችን ሠራሁ፥ ለራሴ የወይን እርሻዎችን ተከልሁ።",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "አሳደግሁ"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ሥራዬን"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ሠራሁ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለራሴ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ቤቶችን"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "ተከልሁ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለራሴ"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "የወይን እርሻዎችን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:14:23.295578910Z",
+  "model": "glm-5.3"
+}

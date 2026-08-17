@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እኔም ወደ ሚናገረኝ ወደ ⟨ה⟩ መልአኩ እነዚህ ምንድን ናቸው? አልሁ፤ ⟨ה⟩ ይህንን እንዲህ አለኝ፦ እነዚህ ⟨את⟩ ይሁዳን ⟨את⟩ እስራኤልንና ⟨את⟩ ኢየሩሳሌምን ያስከፋፉ ⟨ה⟩ ቀንዶች ናቸው።",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "አልሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "መልአኩ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ሚናገረኝ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በእኔ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምንድን"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "አለኝ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "ቀንዶች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያስከፋፏቸው"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "አስከፋፉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይሁዳን"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ኢየሩሳሌምን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:20:52.916751481Z",
+  "model": "glm-5.3"
+}

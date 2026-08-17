@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 116,
+  "translation": "አንቀጠቀጡኝ የሞት ጥምዝማዜዎች፣ የሰውን ዓለም መከራዎችም አገኑኝ፤ መከራና ሀዘን አገኘሁ።",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "አንቀጠቀጡኝ"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "የሞት ጥምዝማዜዎች፣"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "የሰውን ዓለም መከራዎችም"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሰውን ዓለም"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "አገኑኝ፤"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "መከራና"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "ሀዘን"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "አገኘሁ።"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:35.969933886Z",
+  "model": "glm-5.3"
+}

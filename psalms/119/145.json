@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 145,
+  "ref": "psalms 119:145",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "በመላው ልብ ጮኻለሁ፤ ያህዌህ ሆይ፣ መልስልኝ፤ ዐዋጆችህን እጠብቃለሁ።",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "ጮኻለሁ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በመላው"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "መልስልኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ዐዋጆችህን"
+    },
+    {
+      "surface": "אצרה",
+      "gloss": "እጠብቃለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:28.435471972Z",
+  "model": "glm-5.3"
+}

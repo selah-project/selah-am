@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "በዚህ አውቃለሁ በእኔ ደስ እንዳለህ፤ ምክንያቱም ጠላቴ በእኔ ላይ አያለቅስም።",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "በዚህ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "አውቃለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "ደስ ያለህ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በእኔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አያለቅስም"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "ያለቅሳል"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ጠላቴ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:38.991942077Z",
+  "model": "glm-5.3"
+}

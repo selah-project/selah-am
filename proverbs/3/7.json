@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "በዓይኖችህ ጥበበኛ አትሁን፤ ያህዌህን ⟨את⟩ ስብር፤ እና ክፉን ራቅ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ሁን"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ጥበበኛ"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "በዓይኖችህ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ስብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "እና ራቅ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ከክፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:20:43.365881253Z",
+  "model": "glm-5.3"
+}

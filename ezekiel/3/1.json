@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እንዲህም አለኝ፦ የሰው ልጅ፤ ⟨את⟩ የምታገኘውን ብላ፤ ይህችን መጽሐፍ ብላ፤ ሂድም ወደ የእስራኤል ቤት ተናገር።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለኝ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "እንዲህም ወደ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "የሰው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የምታገኘውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምታገኘው"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ታገኛለህ"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "ብላ"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "ብላ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህችን መጽሐፍ"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "መጽሐፉን"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህችን"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ሂድም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T08:19:50.412388627Z",
+  "model": "glm-5.3"
+}

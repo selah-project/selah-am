@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "1-kings 12:17",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የእስራኤል ልጆች በይሁዳ ከተሞች የሚኖሩ በእነርሱ ላይ ሮብዓም ነገሠ።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "የሚኖሩ"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "በ…ከተሞች"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "በእነርሱ ላይ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ሮብዓም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:24:32.927324788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 46,
+  "translation": "አሕዛብ አወደሙ፤ መንግሥታት ተናወጡ፤ በድምፀው ሰጠ፤ ምድር ተቀልባበረች።",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "አወደሙ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "ተናወጡ"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "መንግሥታት"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "በድምፀው"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "ተቀልባበረች"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:51.019417346Z",
+  "model": "glm-5.3"
+}

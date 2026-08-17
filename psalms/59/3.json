@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 59,
+  "translation": "ከክፉ ሠሪዎች አድነኝ፤ ከደም ሰዎችም አድኝኝ።",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "አድነኝ"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "ከሠሪዎች"
+    },
+    {
+      "surface": "און",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "ከሰዎችም"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "አድኝኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:05.116764940Z",
+  "model": "glm-5.3"
+}

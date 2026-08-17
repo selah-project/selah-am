@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ትእዛዙን የለቀቁ ክፉን ያመሰግናሉ፤ ትእዛዙን የሚጠብቁ ግን በእነርሱ ላይ ይከራከራሉ።",
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "የለቀቁ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "ትእዛዙን"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ያመሰግናሉ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉን"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "እና የሚጠብቁ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "ትእዛዙን"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "ይከራከራሉ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በእነርሱ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:37:47.542821089Z",
+  "model": "glm-5.3"
+}

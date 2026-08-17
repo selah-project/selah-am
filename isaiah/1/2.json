@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ሰማያት ስሙ፣ ምድርም አዳምጊ፤ ያህዌህ ተናግሯልና፦ ወንዶችን አሳደግሁ፣ አንሥቼ አሳደግሁ፣ እነርሱ ግን በእኔ ላይ አመጹ።",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "እና አዳምጊ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ልክ፦"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናግሯል"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ወንዶችን"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "አሳደግሁ"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "አንሥቼ አሳደግሁ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "እነርሱ ግን"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "አመጹ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በእኔ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:52:06.412214012Z",
+  "model": "glm-5.3"
+}

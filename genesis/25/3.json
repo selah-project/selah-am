@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ያቅሻንም ⟨את⟩ ሰባን እና ⟨את⟩ ደዳን ወለደ፤ የደዳን ልጆችም ⟨አሹራውያን⟩፣ ለቱሻውያን እና ለኡማውያን እነርሱ ነበሩ።",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "ያቅሻንም"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰባን"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ሰባን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ደዳን"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "ደዳን"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "የደዳን ልጆችም"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "ደዳን"
+    },
+    {
+      "surface": "היו",
+      "gloss": "እነርሱ ነበሩ"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "አሹራውያን"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "ለቱሻውያን"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ለኡማውያን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:44:40.435684417Z",
+  "model": "glm-5.3"
+}

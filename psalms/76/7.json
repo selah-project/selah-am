@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 76,
+  "translation": "የያዕቆብ ኤሎሂም ሆይ፣ በቅጣትህ ሰረገላም ሆነ ፈረስም ጥልቅ አንቀልፈዋል።",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "በቅጣትህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም የ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "ጥልቅ አንቀልፈዋል"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "እና ሰረገላ"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "እና ፈረስ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:36.954292920Z",
+  "model": "glm-5.3"
+}

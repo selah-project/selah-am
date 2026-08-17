@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 32:5",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ባቢሎንም ⟨את⟩ ጸድቅያን ወሰደዋል፤ እና እዚያ ⟨הוּא⟩ ይኖራል እስኪያዘኝ ድረስ፤ የያህዌህ ቃል ነው። ምክንያቱም ከከለዳውያን ጋር ⟨את⟩ ትጋደላላችሁ፣ አትበልጹም።",
+  "tokens": [
+    {
+      "surface": "ובבל",
+      "gloss": "ባቢሎንም"
+    },
+    {
+      "surface": "יולך",
+      "gloss": "ወሰደዋል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጸድቅያን"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ጸድቅያን"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "እና እዚያ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይኖራል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪ"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "ያዘኝ ድረስ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "ትጋደላላችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ከ"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "ከለዳውያን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תצליחו",
+      "gloss": "ትበልጹም"
+    }
+  ],
+  "timestamp": "2026-08-16T17:20:56.748830959Z",
+  "model": "glm-5.3"
+}

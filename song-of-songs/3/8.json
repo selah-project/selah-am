@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "song-of-songs 3:8",
+  "book": "song-of-songs",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ሁሉም ሰይፍ የሚያዙ፣ ውጊያ የተለመዱ ናቸው፤ እያንዳንዱ ሰው በሌሊት ፍርሐት ሰይፉን በጭኑ ላይ አለው።",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "אחזי",
+      "gloss": "የሚያዙ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "የተለመዱ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ውጊያ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ሰይፉን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "ጭኑ"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ከፍርሐት"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "በሌሊት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:04:21.215804816Z",
+  "model": "glm-5.3"
+}

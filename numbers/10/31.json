@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 10:31",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እናም አለ፦ እባክህ ⟨את⟩ን አትተው፤ ምክንያቱም በዚህ በምድረ በዳ መተኛታችንን ታውቃለህ፣ እና ለእኛ እንብር ትሆናለህ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እናም አለ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ተው"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ን",
+      "marks": "እኛን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ታውቃለህ"
+    },
+    {
+      "surface": "חנתנו",
+      "gloss": "መተኛታችንን"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በምድረ በዳ"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ትሆናለህ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "እንብር"
+    }
+  ],
+  "timestamp": "2026-08-16T19:16:41.016512038Z",
+  "model": "glm-5.3"
+}

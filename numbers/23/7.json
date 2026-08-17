@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "numbers 23:7",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ምሳሌውን ተሸከመ እና እንዲህ አለ፦ ከአራም ባላቅ አመራኝ፣ የሞዓብ ንጉሥ፣ ከምሥራቅ ተራሮች፤ «ና፣ ለእኔ ያዕቆብን ራቱ፤ ና እስራኤልን ተቈጣ»።",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ተሸከመ"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ምሳሌውን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "አራም"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "አመራኝ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ባላቅ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "ከተራራዎች"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ምሥራቅ"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ና"
+    },
+    {
+      "surface": "ארה",
+      "gloss": "ራቱ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብን"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "ና"
+    },
+    {
+      "surface": "זעמה",
+      "gloss": "ተቈጣ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:23:04.770979117Z",
+  "model": "glm-5.3"
+}

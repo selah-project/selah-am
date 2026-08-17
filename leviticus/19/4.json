@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ወደ ⟨የሐሰቱ አማልክት አትመለሱ፤ የተቀረጹ አማልክትንም ለራሳችሁ አትሥሩ፤ እኔ ነኝ ያህዌህ አምላካችሁ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "ትመለሱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "የሐሰቱ አማልክት"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "አማልክትንም"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "የተቀረጹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ትሥሩ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለራሳችሁ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "አምላካችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:55:27.899456419Z",
+  "model": "glm-5.3"
+}

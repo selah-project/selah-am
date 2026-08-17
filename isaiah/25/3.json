@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 25:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ስለዚህ ኃያሉ ሕዝብ ያከብርሃል፤ የአስቸጋሪ አሕዛብ ከተማ ያፈራሃል።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "יכבדוך",
+      "gloss": "ያከብርሃል"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ኃያሉ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "የአሕዛብ"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "የአስቸጋሪ"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "ያፈራሃል"
+    }
+  ],
+  "timestamp": "2026-08-16T17:00:22.987756850Z",
+  "model": "glm-5.3"
+}

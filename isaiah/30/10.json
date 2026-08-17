@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "«ለሚያዩት አትመልከቱ፤ ለሚናገሩትም ቀጥተኛ ነገር አትናገሩልን፤ ለእኛ ለስላሳ ነገሮችን ተናገሩ፤ ውሸቶችን ተመልከቱ» ያሉ ናቸው።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ያሉ ናቸው"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "ለሚያዩት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "ትመልከቱ"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "ለሚናገሩትም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "ትናገሩ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ልን"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "ቀጥተኛ ነገር"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ተናገሩ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "ለስላሳ ነገሮችን"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ተመልከቱ"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "ውሸቶችን"
+    }
+  ],
+  "timestamp": "2026-08-16T16:58:18.347648459Z",
+  "model": "glm-5.3"
+}

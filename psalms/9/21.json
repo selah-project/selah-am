@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ያህዌህ ሆይ፣ መፍራትን አድርግባቸው፤ አሕዛብ እነርሱ የሚሞቱ ሰዎች መሆናቸውን ይወቁ። ሰላ።",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "አድርግ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "መፍራትን"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ባቸው"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ይወቁ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "የሚሞቱ ሰዎች"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነርሱ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:29:52.535472167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "በደስታ እና በሐሤት ይመጣሉ፤ የንጉሡ ቤተ መንግሥት ይገባሉ።",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "ይመጣሉ\/ይመራሉ"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "በደስታ"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "እና በሐሤት"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "ይገባሉ"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "በቤተ መንግሥት"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "የንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:05.111848698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ችግሮኬን ተመልከት፣ አድነኝ፤ በሕግህ ላይ ስለማልረሳው ነው።",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ተመልከት"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ችግሮኬን"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "እና አድነኝ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ\/ነው"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "በሕግህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አልፈጸምኩም\/ማልረሳው"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ረሳሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:35.724794482Z",
+  "model": "glm-5.3"
+}

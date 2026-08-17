@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ሳኦል በመንገዱ ሲጀምር የአንድ ዓመት ልጅ ነበር፤ እና በእስራኤል ላይ ሁለት ዓመታት ነገሠ።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "የአንድ ዓመት"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "በመንገዩ"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "እና ሁለት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T15:43:23.198912245Z",
+  "model": "glm-5.3"
+}

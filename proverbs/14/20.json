@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ድሆ እንኳ በወዳጁ ይጸየፋል፤ እና የባለጸጉን የሚወዱ ብዙ ናቸው።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እንኳ"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "በወዳጁ"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ይጸየፋል"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ድሆ"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "እና የሚወዱ"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "የባለጸጉን"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙ ናቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:27:31.281736322Z",
+  "model": "glm-5.3"
+}

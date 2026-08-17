@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ሰውው ይላጣል፣ ነቅፉን ግን አይላጥም፤ ካህኑም ⟨את⟩ ነቅፉን ሰባት ቀናት ሁለተኛ ያገባዋል።",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "ይላጣል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነቅፉን"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ነቅፉን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "ይላጥም"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ያገባዋል"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቅፉን"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ነቅፉን"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ሁለተኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:50:41.688752491Z",
+  "model": "glm-5.3"
+}

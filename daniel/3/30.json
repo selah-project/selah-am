@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "በዚያን ጊዜ ንጉሡ ሰድራቅን፣ ሜሳክን እና አበድነጎን በባቢሎን ግዛት አሳደጋቸው።",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "በዚያን ጊዜ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "አሳደጋቸው"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "ሰድራቅን"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "ሜሳክን"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "እና"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "አበድነጎን"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "በ…ግዛት"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ባቢሎን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:29:53.493135390Z",
+  "model": "glm-5.3"
+}

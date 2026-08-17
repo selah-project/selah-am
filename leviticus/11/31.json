@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 11:31",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እነዚህ ለእናንተ የሚበከሉ ናቸው በማንኛውም የሚንቀሳቀስ ፍጡር፤ ከእነሱ በሙታቸው ማንኛውም የሚነካ እስከ ምሽት ድረስ ይበከላል።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "הטמאים",
+      "gloss": "የሚበከሉ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለእናንተ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በማንኛውም"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "የሚንቀሳቀስ ፍጡር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ማንኛውም"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "የሚነካ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ከእነሱ"
+    },
+    {
+      "surface": "במתם",
+      "gloss": "በሙታቸው"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ይበከላል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ምሽት ድረስ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:11:22.809529603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "የእስራኤል ልጆች ማኅበር ሁሉ ከሞሼ ፊት ወጣ፤",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ወጡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ማኅበር"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ከፊት"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:31:20.372275713Z",
+  "model": "glm-5.3"
+}

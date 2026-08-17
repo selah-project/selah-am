@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 150,
+  "translation": "እርሱን በሽፋር ድምፅ አመስግኑት፤ እርሱን በነበል እና በቀነጽር አመስግኑት።",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "እርሱን አመስግኑት"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "በድምፅ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ሽፋር"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "እርሱን አመስግኑት"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "በነበል"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "እና በቀነጽር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:36.953749580Z",
+  "model": "glm-5.3"
+}

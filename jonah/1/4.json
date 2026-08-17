@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ያህዌህ ታላቅ ነፋስ ወደ ⟨ባሕሩ⟩ ጣለ፤ በባሕር ውስጥ ታላቅ ማዕበል ሆነ እና ⟨ት⟩መርከቢቱ እንድትሰባበር ተቃረበች።",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "ጣለ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ነፋስ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "סער",
+      "gloss": "ማዕበል"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "בים",
+      "gloss": "በባሕር ውስጥ"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "እና ⟨ት⟩መርከቢቱ"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "እንድትሰባበር ተቃረበች"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "እንድትሰባበር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:11:04.002146641Z",
+  "model": "glm-5.3"
+}

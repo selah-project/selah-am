@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ከእኅቱ — ከአባቱ ልጅ ወይም ከእናቱ ልጅ — ጋር የሚተኛ የተረገመ ነው፤ ሕዝቡም ሁሉ አሜን ይላል።",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "የተረገመ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "የሚተኛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋር"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "እኅቱን"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "እናቱ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ይላል፤"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡም"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "አሜን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:51:27.783651182Z",
+  "model": "glm-5.3"
+}

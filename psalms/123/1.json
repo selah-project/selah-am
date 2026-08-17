@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 123,
+  "translation": "የመቃለል መዝሙር። ወደ አንተ ዓይኖቼን አንሥቻለሁ፣ በሰማያት ⟨ላይ⟩ የሚቀመጥ።",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "የመቃለል"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "አንሥቻለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓይኖቼን"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኖቼን"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "የሚቀመጥ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "በሰማያት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:08.477481083Z",
+  "model": "glm-5.3"
+}

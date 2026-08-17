@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ይህ በያህዌህ ዓይኖች ውስጥ ወጥ ይሆናል፤ ሞዓብንም ⟨את⟩ በእጃችሁ ይሰጣል።",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "ወጥ ይሆናል"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "በዓይኖች ውስጥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ይሰጣልም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞዓብን"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብን"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "በእጃችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:37:53.652395941Z",
+  "model": "glm-5.3"
+}

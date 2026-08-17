@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ንጉሡም ከእርሱ ⟨את⟩ ጋር የነበረ ሕዝቡ ሁሉ ደክመው መጡ፤ በዚያም ራሳቸውን አንስተው ዕረፍት አደረጉ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የነበረ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ጋር"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "ደክመው"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "ራሳቸውን አንስተው ዕረፍት አደረጉ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:04:10.035545890Z",
+  "model": "glm-5.3"
+}

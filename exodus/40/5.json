@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ለዕጣን የሆነውን ⟨את⟩ የወርቅ ማሕረግ በምስክርነቱ ታቦት ፊት ታደርጋለህ፤ ⟨את⟩ የማደሪያውን የመግቢያ መጋረጃም ታዘጋጃለህ።",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የወርቁን ማሕረግ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ማሕረግ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "የወርቅ"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "ለዕጣን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "የምስክርነት"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ታዘጋጃለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የመግቢያውን መጋረጃ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "መጋረጃ"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "የመግቢያ"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ለማደሪያ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:40:24.050058789Z",
+  "model": "glm-5.3"
+}

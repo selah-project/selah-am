@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እና ⟨את⟩ ዑባልን፣ ⟨את⟩ አቢማኤልን እና ⟨את⟩ ሼባን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዑባልን"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "ዑባል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "አቢማኤልን"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "አቢማኤል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሼባን"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ሼባ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:44.778604566Z",
+  "model": "glm-5.3"
+}

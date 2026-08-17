@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ለንፍታሌ፣ አኽራ የዐይናን ልጅ።",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "ለንፍታሌ"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "አኽራ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "ዐይናን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:03:07.671103182Z",
+  "model": "glm-5.3"
+}

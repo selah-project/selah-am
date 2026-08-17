@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "ጥንድ በሖሬብ ሠሩ፤ ለተቀረጸው ምስል ሰገዱ።",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "ሠሩ"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ጥንድ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "በሖሬብ"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ሰገዱ"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "ለተቀረጸው ምስል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:28.643889017Z",
+  "model": "glm-5.3"
+}

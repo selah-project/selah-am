@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 139,
+  "translation": "ጨለማም ከአንተ አይሸፈንም፤ ሌሊትም እንደ ቀን ያበራል፤ ጨለማም እንደ ብርሃን ነው።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ም"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጨለማም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይሸፈንም"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "ያጠቃል"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ከአንተ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ሌሊትም"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "እንደ ቀን"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ያበራል"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "ጨለማም እንደ"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "እንደ ብርሃን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:06.089062191Z",
+  "model": "glm-5.3"
+}

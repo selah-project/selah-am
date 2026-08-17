@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 5:11",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ሀማን ለእነርሱ ስለ ሀብቱ ክብር እና ስለ ልጆቹ ብዛት እና ⟨את⟩ ንጉሡ ያሳደገውን ሁሉ እና ⟨את⟩ ከአለቆች እና ከንጉሡ አገልጋዮች ላይ ያነሳውን በዝርዝር ነገራቸው።",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "ነገራቸው"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነርሱ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሀማን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክብር"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብር"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "የሀብቱ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "እና ብዛት"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "የልጆቹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ያሳደገውን"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ያ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ያነሳውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ከ... ላይ"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "ከአለቆች"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "እና ከአገልጋዮች"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:19:34.716672133Z",
+  "model": "glm-5.3"
+}

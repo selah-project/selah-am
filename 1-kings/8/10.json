@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ካህናቱም ከቅዱሱ ስፍራ በወጡ ጊዜ ደመናው የያህዌህን ቤት ⟨את⟩ ሞላው።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነም"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "በወጡ ጊዜ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናቱም"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ቅዱሱ ስፍራ"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "ደመናውም"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ሞላው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የያህዌህን ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:20:37.251317507Z",
+  "model": "glm-5.3"
+}

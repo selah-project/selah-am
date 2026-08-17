@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 72,
+  "translation": "በዘመኑ ጻድቁ ያፈራል፤ የሰላም ብዛትም ጨረቃ እስኪልቀቅ ድረስ ይኖራል።",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "ያፈራል"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "በዘመኑ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቁ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "የ…ብዛት"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪልቀቅ ድረስ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ሳይኖር"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ጨረቃ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:34.516993151Z",
+  "model": "glm-5.3"
+}

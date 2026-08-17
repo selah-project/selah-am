@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "2-chronicles 7:11",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ሰሎሞንም የያህዌህን ቤት ⟨את⟩ እና የንጉሡን ቤት ⟨את⟩ እንዲሁም በያህዌህ ቤት እና በራሱ ቤት ማድረግ በሰሎሞን ልብ ላይ የመጣውን ሁሉ ⟨את⟩ ጨረሰ፤ በዚህም ሠራ።",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ጨረሰ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞንም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የያህዌህን ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የንጉሡን ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እንዲሁም ⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "የመጣውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ማድረግ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ובביתו",
+      "gloss": "በራሱ ቤትም"
+    },
+    {
+      "surface": "הצליח",
+      "gloss": "ሠራ\/አገረገ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:36:02.490643593Z",
+  "model": "glm-5.3"
+}

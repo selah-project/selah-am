@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ኧረ በረከት ተቀብያለሁ፤ ⟨ርሱም⟩ ባረከ፤ እኔ ግን ልመልሳት አይችልም።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ኧረ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "በረከት"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "ተቀብያለሁ"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ባረከም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እኔ ግን… አይደለም"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "ልመልሳት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:23:27.613226522Z",
+  "model": "glm-5.3"
+}

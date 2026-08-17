@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "1-kings 9:26",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ንጉሡም ሰሎሞን መርከብ በዕጽዮን ገበር አዘጋጀ — እርሷም በኤዶም ምድር በሱፍ ባሕር ዳር ⟨את⟩ ኤላት አጠገብ የምትገኝበት።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "መርከብ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አዘጋጀ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "בעציון",
+      "gloss": "በዕጽዮን"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ገበር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምትገኝበት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤላትን"
+    },
+    {
+      "surface": "אלות",
+      "gloss": "ኤላትን"
+    },
+    {
+      "surface": "על",
+      "gloss": "አጠገብ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ዳር"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ሱፍ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:23:35.930680542Z",
+  "model": "glm-5.3"
+}

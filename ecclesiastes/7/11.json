@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ጥበብ ከወራሽ ሀብት ጋር መልካም ናት፤ እንዲሁም ለፀሐይን ለሚያዩት ትርፍ ትሆናለች።",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ወራሽ ሀብት"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "እንዲሁም ትርፍ"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "ለሚያዩ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ፀሐይ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:15:31.728368279Z",
+  "model": "glm-5.3"
+}

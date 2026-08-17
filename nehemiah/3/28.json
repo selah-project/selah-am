@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "nehemiah 3:28",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ከፈረሶቹ በር በላይ ካህናቱ ሠሩ፤ እያንዳንዱ ሰው በቤቱ ፊት ለፊት።",
+  "tokens": [
+    {
+      "surface": "מעל",
+      "gloss": "ከ… በላይ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "በር"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "የፈረሶቹ"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "ጠንክረዋል \/ ሠሩ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናቱ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ፊት ለፊት"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "በቤቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:12:01.549353784Z",
+  "model": "glm-5.3"
+}

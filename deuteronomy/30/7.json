@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ያህዌህ ኤሎሂም የነዚህን ሁሉ መርገሞች ⟨את⟩ በጠላቶችህ፤ በጠላትህ፤ በሚያሳድዱህ ላይ ይቀምጣል።",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ይቀምጣል\/ይሰጣል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂም አምላክህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የነዚህን ሁሉ መርገሞች"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "መርገሞች"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "የነዚህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ጠላቶችህ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ... ላይ"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "ጠላትህ\/የሚጠሉህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚያሳድዱህ"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "ያሳድዱሃል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:53:27.637757758Z",
+  "model": "glm-5.3"
+}

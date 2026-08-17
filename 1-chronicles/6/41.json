@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እና ⟨את⟩ የከተማዋን ማሳደጃ መስክ እና ⟨את⟩ አደባባዮችዋን ለከለብ ልጅ የይፉኔ ሰጡ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የከተማዋን ማሳደጃ መስክ"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ማሳደጃ መስክ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "የከተማዋ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "አደባባዮችዋን"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "አደባባዮችዋ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ሰጡ"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ለከለብ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "የይፉኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:39:51.072841086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እነርሱም ⟨את⟩ ⟨ፈጢሱን⟩ ሠዉ፣ ⟨את⟩ ⟨ልጁንም⟩ ወደ ኤሊ አመጡ።",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "ሠዉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፈጢሱን"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ፈጢሱን"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "አመጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጁን"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ልጁን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኤሊ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:31:32.764662423Z",
+  "model": "glm-5.3"
+}

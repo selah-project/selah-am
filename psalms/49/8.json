@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "ወንድምን ሰው በማንኛውም መንገድ ሊዋጽኦ አይችልም፤ ለኤሎሂምም የመታረቂያውን ዋጋ መስጠት አይችልም።",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "ወንድምን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ሊዋጽኦ"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ሊዋጽኦ አይችልም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይስጥም"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ለኤሎሂም"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "የመታረቂያውን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:34.319669140Z",
+  "model": "glm-5.3"
+}

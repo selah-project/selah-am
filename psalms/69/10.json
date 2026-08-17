@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "ምክንያቱም ለቤትህ ያለው ቍጣ በላኝ፤ አንተን የሰደቡት ንቀቶችም በእኔ ላይ ወደቁ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ቍጣ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ለቤትህ"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "በላኝ"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "እና የንቀቶች"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "የሰደቡህ"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ወደቁ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:24.712372949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "job 20:8",
+  "book": "job",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እንደ ሕልም ይበርሳል፣ አይገኝምም፤ እንደ የሌሊት ራእይ ይባረራል።",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "እንደ ሕልም"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "ይበርሳል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይገኝምም"
+    },
+    {
+      "surface": "ימצאוהו",
+      "gloss": "ያገኙትና"
+    },
+    {
+      "surface": "וידד",
+      "gloss": "ይባረራልም"
+    },
+    {
+      "surface": "כחזיון",
+      "gloss": "እንደ ራእይ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "የሌሊት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:49:58.856121920Z",
+  "model": "glm-5.3"
+}

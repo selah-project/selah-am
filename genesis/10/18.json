@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እና ⟨את⟩ ዐርዋዲ፣ እና ⟨את⟩ ጸማሪ፣ እና ⟨את⟩ ሐማቲ፤ ከዚያም በኋላ የከነዓን ስድሳቆች ተከፋፈሉ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዐርዋዲ"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "ዐርዋዲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ጸማሪ"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "ጸማሪ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሐማቲ"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "ሐማቲ"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ከዚያም በኋላ"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "ተከፋፈሉ"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ስድሳቆች"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "የከነዓን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:30.130096234Z",
+  "model": "glm-5.3"
+}

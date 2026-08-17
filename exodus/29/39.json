@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "⟨את⟩ አንዱን በግ በጠዋት ታደርጋለህ፤ እና ⟨את⟩ ሁለተኛውን በግ በመንፈቅያው ጊዜ ታደርጋለህ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አንዱን በግ"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "በጉ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "አንዱን"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "በጠዋት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁለተኛውን በግ"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "በጉ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ሁለተኛውን"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በ…ጊዜ"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "መንፈቅያው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:28:25.737744697Z",
+  "model": "glm-5.3"
+}

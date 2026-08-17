@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 92,
+  "translation": "የምሕረትህን በጠዋት እና የምስክርነትህን በሌሊቶች ማስታወቅ ⟨ስንል ነው⟩።",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "ማስታወቅ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "በጠዋት"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "የምሕረትህን"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "እና የምስክርነትህን"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "በሌሊቶች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:05.989308751Z",
+  "model": "glm-5.3"
+}

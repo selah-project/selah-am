@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 130,
+  "translation": "ከሆነ ያህ በደሎችን ብትጠብቅ፣ አዶናይ፣ ማን ይቆማል?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "በደሎችን"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ብትጠብቅ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ይቆማል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:37.238359098Z",
+  "model": "glm-5.3"
+}

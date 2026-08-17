@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 104,
+  "translation": "ወደ ምድር የሚመለከተው እርሷም ትርጋለች፤ ተራሮችን የሚነካው እነሱም ይደማሉ።",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "የሚመለከተው"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ወደ ምድር"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "ትርጋለች"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "የሚነካው"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "ተራሮችን"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "ይደማሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:29.145247932Z",
+  "model": "glm-5.3"
+}

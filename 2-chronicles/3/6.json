@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ቤቱንም ⟨את⟩ በውድ ድንጋይ ለውበት አጌጠው፤ ወርቁም የፓርዋይም ወርቅ ነበር።",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "አጌጠው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱን"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤቱን"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ድንጋይ"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "ውድ"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "ለውበት"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ወርቁም"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቅ"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "የፓርዋይም"
+    }
+  ],
+  "timestamp": "2026-08-16T13:30:56.427005081Z",
+  "model": "glm-5.3"
+}

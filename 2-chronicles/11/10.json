@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እና ⟨את⟩ ጾራን፣ እና ⟨את⟩ አይሎንን፣ እና ⟨את⟩ ኬብሮንን — በይሁዳ እና በብንያም ያሉትን — የተመከሩ ከተሞች።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ጾራን"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "ጾራን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "አይሎንን"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "አይሎንን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ኬብሮንን"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ኬብሮንን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያሉትን"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "በይሁዳ"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "እና በብንያም"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ከተሞች"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "የተመከሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:46:40.634682870Z",
+  "model": "glm-5.3"
+}

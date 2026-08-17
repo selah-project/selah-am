@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እና የኤሎሂም ታቦት ተማረከ፣ እና ሁለቱ የዔሊ ወንድሞች ሞቱ — ሐፍኒ እና ፊንሐስ።",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "እና ታቦት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "ተማረከ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "እና ሁለቱ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወንድሞች"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "የዔሊ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ሞቱ"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "ሐፍኒ"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "እና ፊንሐስ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:33:45.019769425Z",
+  "model": "glm-5.3"
+}

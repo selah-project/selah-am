@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 1:37",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እንደ ነበረ ያህዌህ ከጌታዬ ከንጉሡ ጋር፣ እንዲሁ ይሁን ከሰሎሞን ጋር፣ እና ያሳድግልት ዘንድ ⟨את⟩ ዙፋኑን ከዙፋን ጌታዬ ከንጉሡ ከዳዊት በላይ።",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጌታዬ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲሁ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋር"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "ያሳድግልት ዘንድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዙፋኑን"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ዙፋኑ"
+    },
+    {
+      "surface": "מכסא",
+      "gloss": "ከዙፋን"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጌታዬ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T16:22:04.929763038Z",
+  "model": "glm-5.3"
+}

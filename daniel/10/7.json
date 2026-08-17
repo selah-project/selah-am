@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "daniel 10:7",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እኔ ግን ዳንኤል ብቻዬን ⟨את⟩ ራእዩን አየሁ፤ ከእኔ ጋር የነበሩት ሰዎች ግን ⟨את⟩ ራእዩን አላዩም፤ ነገር ግን ትልቅ መደነግም ወረደባቸው፤ እነሱም ተሸሽገው ተሰወሩ።",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "አየሁ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ዳንኤል"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ብቻዬን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራእዩን"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "ራእዩን"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "ከእኔ ጋር የነበሩት ሰዎች ግን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የነበሩት"
+    },
+    {
+      "surface": "היו",
+      "gloss": "የነበሩ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ከእኔ ጋር"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "አዩም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራእዩን"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "ራእዩን"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "መደነግም"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "ትልቅ"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "ወረደባቸው"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ባቸው"
+    },
+    {
+      "surface": "ויברחו",
+      "gloss": "እነሱም ተሸሽገው"
+    },
+    {
+      "surface": "בהחבא",
+      "gloss": "ተሰወሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:45:34.440483951Z",
+  "model": "glm-5.3"
+}

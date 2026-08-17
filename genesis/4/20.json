@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ዓዳም ⟨את⟩ ያባልን ወለደች፤ እርሱ የድንኳን ነዋሪዎች እና የብትኖ ባለቤቶች አባት ሆነ።",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ዓዳም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያባልን"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "ያባልን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባት"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "የድንኳን ነዋሪዎች"
+    },
+    {
+      "surface": "אוהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "እና የብትኖ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:56.760399668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ጥቂት ከጽድቅ ጋር መሆኑ ከብዙ ትርፍ ከፍትህ አልባነት ይሻላል።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ይሻላል"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ጥቂት"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "ከጽድቅ ጋር"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ከብዙ"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "ትርፍ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ከ… አልባነት"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:29:18.608136513Z",
+  "model": "glm-5.3"
+}

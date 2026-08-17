@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "እና ከምናሤ ነገድ ከፍክል ተዓናክን ⟨את⟩ እና መስኮቿን ⟨את⟩፣ ጋት-ሪሞንን ⟨את⟩ እና መስኮቿን ⟨את⟩ — ሁለት ከተሞች።",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "እና ከፍክል"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ነገድ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተዓናክን"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "ተዓናክ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መስኮቿን"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መስኳዋ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ጋት-ሪሞንን"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ጋት"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ሪሞን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መስኮቿን"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መስኳዋ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ከተሞች"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ሁለት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:11:05.912560466Z",
+  "model": "glm-5.3"
+}

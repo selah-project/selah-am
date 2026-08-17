@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ኤሎሂምም ⟨את⟩ ብርሃኑን እንደ መልካም አየ፤ ኤሎሂምም ብርሃኑንና ጨለማውን አስለየ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "አየም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብርሃኑን"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ብርሃኑን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "አስለየም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ከ…ጋር በአንድነት መለየት (ብርሃኑን)"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ብርሃኑንና"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "…ጋር (ጨለማውን)"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ጨለማውን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:28:30.700814077Z",
+  "model": "glm-5.3"
+}

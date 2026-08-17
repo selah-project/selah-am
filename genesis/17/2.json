@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ቃል ኪዳኔን በእኔና በአንተ መካከል አደርጋለሁ፤ እንዲሁም ⟨את⟩ በእጅጉ እብዛለሁህ።",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "አደርጋለሁ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ቃል ኪዳኔን"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "በእኔ"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "እና በአንተ"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "እብዛለሁህ"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "አንተን"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "በእጅጉ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "እጅግ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:39:13.101374460Z",
+  "model": "glm-5.3"
+}

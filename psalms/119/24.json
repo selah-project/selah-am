@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "እንዲሁም ምስክሮችህ ደስታዬ ናቸው፣ አማካሪዎቼም ናቸው።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ምስክሮችህ"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "ደስታዬ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "አማካሪዎቼ"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "የእኔ ምክር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:41.099865817Z",
+  "model": "glm-5.3"
+}

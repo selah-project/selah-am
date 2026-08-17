@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "እርሷም ከቤቱ በወጣች በኋላ በመሄዷ ለሌላ ወንድ ትሆናለች።",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "በወጣች ጊዜ"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "ከቤቱ"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "በመሄዷ"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ትሆናለች"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ለወንድ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ለሌላ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:19:58.208356293Z",
+  "model": "glm-5.3"
+}

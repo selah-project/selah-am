@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "1-kings 1:7",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ቃሉም ከዮአብ የሰሩያ ልጅ ጋርና ከአቢያታር ⟨ካህኑ⟩ ጋር ነበር፤ እነርሱም ከአዶኒያ በኋላ ሆነው ረዱት።",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ነበር"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ቃሉ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ሰሩያ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ከ… ጋርም"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "አቢያታር"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "ויעזרו",
+      "gloss": "ረዱት"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ… በኋላ ሆነው"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "አዶኒያ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:13:08.249728943Z",
+  "model": "glm-5.3"
+}

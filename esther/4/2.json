@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እስከ የንጉሡ በር እስከ ፊቱም መጣ፤ በጥቅል ልብስ ወደ የንጉሡ በር ለመግባት የሚቻል አልነበረምና።",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "እስከ ፊቱም"
+    },
+    {
+      "surface": "שער",
+      "gloss": "የ በር"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነገር ግን ባለመቻሉ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "አልነበረም"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ለመግባት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "የ በር"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "በ ልብስ"
+    },
+    {
+      "surface": "שק",
+      "gloss": "ጥቅል"
+    }
+  ],
+  "timestamp": "2026-08-16T11:26:59.926881839Z",
+  "model": "glm-5.3"
+}

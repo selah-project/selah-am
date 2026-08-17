@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 84,
+  "translation": "ለመዘምሩ በጊትዊቱ ምስል፤ ለቆሬሽ ልጆች መዝሙር።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመዘምሩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "ጊትዊቱ ምስል"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለ…ልጆች"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ቆሬሽ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:29.464820556Z",
+  "model": "glm-5.3"
+}

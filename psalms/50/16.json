@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 50,
+  "translation": "ለክፉ ሰው ግን ኤሎሂም አለው፦ ታላቸውማ ታለ ድንጋጌዬን እንድታስተላልፍ እና ኪዳኜን በአፍህ ላይ እንድታነሳ፧",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "ለክፉ ሰው ግን"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለው፦"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ታላቸውማ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ታለ"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "እንድታስተላልፍ"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "ድንጋጌዬን"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "እንድታነሳ፧"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳኜን"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "አፍህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:48.888726478Z",
+  "model": "glm-5.3"
+}

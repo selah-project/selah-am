@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "isaiah 59:20",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 59,
+  "translation": "አዳኪ ለጽዮን ይመጣል፣ ከያዕቆብ የኅጢአት ምላሽ ለሚሉትም — የያህዌህ ቃል ነው።",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ይመጣል"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "ለጽዮን"
+    },
+    {
+      "surface": "גואל",
+      "gloss": "አዳኪ"
+    },
+    {
+      "surface": "ולשבי",
+      "gloss": "ለሚመለሱትም"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "የኅጢአት ምላሽ"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ከያዕቆብ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:30:03.879909942Z",
+  "model": "glm-5.3"
+}

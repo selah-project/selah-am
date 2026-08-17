@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እና ⟨את⟩ ምልክቶቹን እና ⟨את⟩ ሥራዎቹን በምድረ በዳው መካከል በሚጽራይም ለፈርዖን ለሚጽራይም ንጉሥ እና ለመላው ለምድሩ ያደረገውን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምልክቶቹን"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "ምልክቶቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሥራዎቹን"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ሥራዎቹን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያደረገውን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ያደረገውን"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በ…መካከል"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "በሚጽራይም"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ለፈርዖን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ለሚጽራይም"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "እና ለመላው"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ለምድሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:18:34.050221552Z",
+  "model": "glm-5.3"
+}

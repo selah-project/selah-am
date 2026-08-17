@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 85,
+  "translation": "አዎን ያህዌህ መልካሙን ይሰጣል፤ እና ምድራችንም አፈሩን ታፈራለች።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "አዎን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይሰጣል"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "⟨መልካሙን⟩"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "እና ምድራችንም"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ታፈራለች"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "አፈሩን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:57:54.263360234Z",
+  "model": "glm-5.3"
+}

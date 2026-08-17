@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 6:20",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ሥጋዋን የሚነካ ሁሉ ይቀደሳል፤ ደሟ በልብስ ላይ የሚረጭ ከሆነ የተረጭበትን ልብስ በቅዱስ ስፍራ ታጠባዋለች።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚ"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "ይነካ"
+    },
+    {
+      "surface": "בבשרה",
+      "gloss": "ሥጋዋን"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "ይቀደሳል"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "እና የሚ"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "ይረጭ"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "ከደሟ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "ልብስ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የተረጭበት"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "የሚረጭ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "በእርሷ ላይ"
+    },
+    {
+      "surface": "תכבס",
+      "gloss": "ታጠባዋለች"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "በ…ስፍራ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:40:26.380668912Z",
+  "model": "glm-5.3"
+}

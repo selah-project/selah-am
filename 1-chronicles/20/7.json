@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እስራኤልን ⟨את⟩ ሲሳደብ ኖሮ የዳዊት ወንድም የሽምዓ ልጅ ይሆናን መታው።",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "ሲሳደብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "መታው"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ይሆናን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "ሽምዓ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ወንድም"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T13:06:31.583868438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ዮቅጣንም ⟨את⟩ አልሞዳድን፣ ⟨את⟩ ሸሌፍን፣ ⟨את⟩ ሐሰርማዌትን እና ⟨את⟩ ያራኅን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "ዮቅጣንም"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አልሞዳድን"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "አልሞዳድ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሸሌፍን"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "ሸሌፍ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሐሰርማዌትን"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "ሐሰርማዌት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ያራኅን"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ያራኅ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:44.778243929Z",
+  "model": "glm-5.3"
+}

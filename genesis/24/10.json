@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "genesis 24:10",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "እና አገልጋዩ ከጌታው ግመሎች አሥር ግመሎችን ወሰደ፤ የጌታው መልካም ነገር ሁሉ በእጁ ነበረ፤ ተነሥቶ ወደ አራም-ናሃራይም ወደ ናኮር ከተማ ሄደ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "አገልጋዩ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "ግመሎችን"
+    },
+    {
+      "surface": "מגמלי",
+      "gloss": "ከ… ግመሎች"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ጌታው"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "…ሁሉ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም ነገር"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "የጌታው"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "በእጁ"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሥቶ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "አራም"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "ናሃራይም (የባሕሮች)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ናኮር"
+    }
+  ],
+  "timestamp": "2026-08-16T02:42:16.892224914Z",
+  "model": "glm-5.3"
+}

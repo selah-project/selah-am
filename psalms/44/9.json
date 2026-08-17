@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "በኤሎሂም ሁሉን ⟨ቀን⟩ አመስግነን ያለን፤ ስምህንም ለዘላለም እናመሰግናለን። ሴላ።",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "በኤሎሂም"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "አመስግነን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "ስምህንም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "እናመሰግናለን"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:09.721396533Z",
+  "model": "glm-5.3"
+}

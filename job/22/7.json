@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ደክሞ ለነበረው ሰው ውሃ አትሰጥም፣ እና በራበው ሰው ላይ ዳቦ ትከለክላለህ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት...ም"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "ደክሞ የነበረውን"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "ታጠጣለህ"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "እና ከራበው"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ትከለክላለህ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:50:15.539057781Z",
+  "model": "glm-5.3"
+}

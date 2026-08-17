@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "numbers 25:1",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "የእስራኤል ሕዝብ በሰሙኳዊ ተቀምጦ ነበር፤ ከዚያም ሕዝቡ ከሞዓብ ሴቶች ጋራ አመንዝሮ ጀመረ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተቀምጶ ነበር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "בשטים",
+      "gloss": "በሰሙኳዊ"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "ጀመረ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "አመንዝሮ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ጋራ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ሴቶች"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:23:36.717788417Z",
+  "model": "glm-5.3"
+}

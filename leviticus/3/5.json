@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የአሃሮን ልጆችም ⟨אתו⟩ በማደወያው ላይ፣ በእንጨቱ ላይ በሚገኘው በሙሉው መስዋዕት ላይ፣ እንደሆነው በእሳቱ ላይ ያጠሳሉ፤ ለያህዌህ የሚያረሰርስ መዓዛ ያለው የእሳት መባ ነው።",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "ያጠሳሉ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "በማደወያው ላይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "በሙሉው መስዋዕት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደሆነው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "በእንጨቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደሆነው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "በእሳቱ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "የእሳት መባ"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "መዓዛ"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "የሚያረሰርስ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:41:52.336266286Z",
+  "model": "glm-5.3"
+}

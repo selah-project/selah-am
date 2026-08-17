@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 118,
+  "translation": "ማስወደቅ አሳልፈህ ገፋኸኝ፤ ያህዌህ ግን አግዞኝ።",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "ማስወደቅ"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "ገፋኸኝ"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "እንዳወድቅ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "አግዞኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:56.807247552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 132,
+  "translation": "ጠላቶቹን በንቀት አልብሳለሁ፤ ነገር ግን በእርሱ ላይ አክሊሉ ያበብል።",
+  "tokens": [
+    {
+      "surface": "אויביו",
+      "gloss": "ጠላቶቹን"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "አልብሳለሁ"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "በንቀት"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "ነገር ግን በእርሱ ላይ"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "ያበብል"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "አክሊሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:23.067065579Z",
+  "model": "glm-5.3"
+}

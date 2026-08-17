@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "መልካም ለክፉ አይሆንም፣ እንደ ጥላም ቀኖችን አያርዝምም፣ በኤሎሂም ፊት ስለማይፈራ።",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆንም"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ለክፉ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንዲሁም አይ…ም"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "አያርዝምም"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀኖችን"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "እንደ ጥላ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚያደርግልት"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "የሚፈራ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ከፊት ፊት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T11:18:28.877525087Z",
+  "model": "glm-5.3"
+}

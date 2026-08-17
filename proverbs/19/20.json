@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ምክርን ስማ እና ተግሣጽን ተቀበል፤ በመጨረሻህ ጥበበኛ እንድትሆን።",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ስማ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ምክርን"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "እና ተቀበል"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ተግሣጽን"
+    },
+    {
+      "surface": "למען",
+      "gloss": "እንድትሆን"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "ጥበበኛ"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "በመጨረሻህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:31:17.100500925Z",
+  "model": "glm-5.3"
+}

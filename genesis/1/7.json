@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ኤሎሂምም ⟨את⟩ የሰማይ ወለሉን ሠራ፤ በሰማይ ወለሉ ሥር ያሉትን ውኃዎችና በሰማይ ወለሉ ላይ ያሉትን ውኃዎች ለየ፤ እንደዚህም ሆነ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ሠራም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሰማይ ወለሉን"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "የሰማይ ወለሉን"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "ለየም"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ከ…በኩል በኩል"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውኳዎችን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያሉትን"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "በ…ሥር"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "ለሰማይ ወለሉ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እና ከ…በኩል በኩል"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውኳዎችን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያሉትን"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "ለሰማይ ወለሉ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚህ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:28:21.820489112Z",
+  "model": "glm-5.3"
+}

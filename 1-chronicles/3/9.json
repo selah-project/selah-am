@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እነዚህ ሁሉ የዳዊት ወንዶች ልጆች ናቸው፤ ከፍትወት ሴቶች (ከእግር ልጆች) ልጆች በቀር፤ ታማርም እህታቸው ናት።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወንዶች ልጆች"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "የዳዊት"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "ከ…በቀር"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "ፍትወት ሴቶች (እግር ልጆች)"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "ታማርም"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "እህታቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T12:35:21.864447504Z",
+  "model": "glm-5.3"
+}

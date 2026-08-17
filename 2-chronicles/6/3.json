@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ንጉሡም ⟨את⟩ ፊቱን መለሰ፤ ⟨את⟩ መላውን የይስራኤል ማኅበርም ባረከ፤ የይስራኤል ማኅበርም ሁሉ ቆሞ ነበር።",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "መለሰም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊቱን"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱን"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ባረከም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መላውን የይስራኤል ማኅበርን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላውን"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ማኅበር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የይስራኤል"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "የ…ማኅበር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "ቆሞ ነበር"
+    }
+  ],
+  "timestamp": "2026-08-16T13:34:17.664744195Z",
+  "model": "glm-5.3"
+}

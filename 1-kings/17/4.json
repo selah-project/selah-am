@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "«እንደሆነ ከወንዙ ትጠጣለህ፣ ⟨את⟩ ጥቁር ዋኖችን እዚያ ለመመገብህ አዘዝሁ።»",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "እንደሆነ"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "ከወንዙ"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ትጠጣለህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጥቁር ዋኖችን"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ጥቁር ዋኖች"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "አዘዝሁ"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "ለመመገብህ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:30:45.977593956Z",
+  "model": "glm-5.3"
+}

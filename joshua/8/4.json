@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 8:4",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እነርሱንም ⟨את⟩ እንዲህ ብሎ አዘዛቸው፦ እነሆ፣ እናንተ ለከተማዋ በኋላዋም አጥር ተቀምጣችሁ ነው፤ ከከተማዋ በጣም አትርቁ፤ እናንተም ሁላችሁ ተዘጋጃችሁ ትኖራላችሁ።",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "አዘዛቸው"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "አጥር ተቀምጣችሁ ነው"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ለከተማዋ"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "በኋላዋም"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "የከተማዋ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "ርቁ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ትኖራላችሁ"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "ሁላችሁ"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "ተዘጋጃችሁ"
+    }
+  ],
+  "timestamp": "2026-08-17T08:41:54.561273206Z",
+  "model": "glm-5.3"
+}

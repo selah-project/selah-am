@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የእስራኤል ንጉሥም እንዲህ አለ፦ ወዮ፣ ያህዌህ እነዚህን ሦስት ነገሥታት ጠርቶ ⟨את⟩ ያለብሳቸው በሞአብ እጅ ነው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "ወዮ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ፦ ስለዚህ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ጠርቶ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "ሦስት…ን"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ነገሥታት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ያለብሳቸው"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን (ነገሥታቱን)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በ…እጅ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞአብ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:40:58.859445259Z",
+  "model": "glm-5.3"
+}

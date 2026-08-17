@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ጥሩም አድርገህ አቆምከዋል የምድሩን ሁሉን ክፉዎች፤ ስለዚህ የመሥክሮችህን ተወድጄያለሁ።",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "ጥሩም"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "አቆምከዋል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "ክፉዎችን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ተወድጄያለሁ"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "የመሥክሮችህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:04.712501652Z",
+  "model": "glm-5.3"
+}

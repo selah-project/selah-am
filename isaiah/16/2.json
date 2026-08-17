@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "isaiah 16:2",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "እንደ ተሽኮኮ ወፍ፣ እንደ ተጣለ ጥምር ቤት የሞአብ ሴት ልጆች በአርኖን ዋሽኞች ይኾናሉ።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ይኾናል"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "እንደ ወፍ"
+    },
+    {
+      "surface": "נודד",
+      "gloss": "ተሽኮኮ"
+    },
+    {
+      "surface": "קן",
+      "gloss": "ጥምር ቤት"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ተጣለ"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ይኾናሉ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ሴት ልጆች"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞአብ"
+    },
+    {
+      "surface": "מעברת",
+      "gloss": "ዋሽኞች"
+    },
+    {
+      "surface": "לארנון",
+      "gloss": "በአርኖን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:07:41.985497320Z",
+  "model": "glm-5.3"
+}

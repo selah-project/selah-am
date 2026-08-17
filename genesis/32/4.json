@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ያዕቆብም መልአኮችን ከፊቱ ላከ፤ ወደ ወንድሙ ወደ ዔሳው ዘንድ፣ ወደ ሰዓር ምድር፣ ወደ ኤዶም መስክ ላከ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብም"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "መልአኮችን"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ከፊቱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዔሳው"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሙ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ወደ ምድር"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ሰዓር"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "መስክ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:50:34.340559807Z",
+  "model": "glm-5.3"
+}

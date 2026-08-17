@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 6:9",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የኤሎሂም ሰውዬ ወደ እስራኤል ንጉሥ ልኮ እንዲህ አለው፦ ከዚህ ስፍራ ማለፍ መጠንቀቅ፣ ምክንያቱም በዚያ አራሞች ወርደዋልና።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ልኮ"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "ሰውዬ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ አለው፦"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "መጠንቀቅ"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ከማለፍ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ስፍራ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ከዚህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "አራሞች"
+    },
+    {
+      "surface": "נחתים",
+      "gloss": "ወርደዋልና"
+    }
+  ],
+  "timestamp": "2026-08-16T16:43:46.770479766Z",
+  "model": "glm-5.3"
+}

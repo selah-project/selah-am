@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 149,
+  "translation": "ስሙን በጭፈራ ያመሰግሉ፤ በከበሮ እና በቀኔ ይዘምሩለት።",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "ያመሰግሉ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "በጭፈራ"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "በከበሮ"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "እና በቀኔ"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ይዘምሩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:31.180811537Z",
+  "model": "glm-5.3"
+}

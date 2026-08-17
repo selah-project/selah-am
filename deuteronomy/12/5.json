@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 12:5",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ነገር ግን ወደ ⟨ቦታው⟩ — ከነዚያ የናንተ ነገዶች ሁሉ ያህዌህ ኤሎሂም የሚመርጠው — ስሙን ⟨את⟩ እዚያ እንዲያኖር፣ ወደ መኖሪያው ትሻላል፤ እና ወደ እዚያ ትመጣለህ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨ቦታው⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "የሚመርጠው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከ…ሁሉ"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "የናንተ ነገዶች"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "እንዲያኖር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሙን"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "לשכנו",
+      "gloss": "ወደ መኖሪያው"
+    },
+    {
+      "surface": "תדרשו",
+      "gloss": "ትሻላል"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ትመጣለህ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ወደ እዚያ"
+    }
+  ],
+  "timestamp": "2026-08-17T06:18:02.709980408Z",
+  "model": "glm-5.3"
+}

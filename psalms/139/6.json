@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 139,
+  "translation": "እውቀትህ በእኔ ዘንድ ድንቅ ናት፤ ከፍ ብላለች፤ ልበቃኋት አይደልም።",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "ድንቅ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "እውቀትህ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "በእኔ ዘንድ"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "ከፍ ብላለች"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደልም"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ልበቃኋት እችል"
+    },
+    {
+      "surface": "לה",
+      "gloss": "እሷን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:07.997406279Z",
+  "model": "glm-5.3"
+}

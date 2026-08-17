@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 83,
+  "translation": "እነሆ ጠላቶችህ እየተኮሱ ናቸው፤ የሚጠሉህም ራሳቸውን አንሥተዋል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ፤ በእውነት"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "ጠላቶችህ"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "እየተኮሱ ናቸው"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "እና የሚጠሉህ"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "አንሥተዋል"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:50.719510034Z",
+  "model": "glm-5.3"
+}

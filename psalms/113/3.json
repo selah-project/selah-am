@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 113,
+  "translation": "ከፀሐይ መውጫ እስከ መግቢያዋ ድረስ የያህዌህ ስም የሚመሰገን ነው።",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "ከመውጫ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ፀሐይ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "መግቢያዋ"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "የሚመሰገን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:37.301547369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የሰንበትን ቀን ⟨את⟩ ለማብቃት እንደ ተነገረህ ያህዌህ ኤሎሂም አምላክህ እንዳዘዘህ ጠብቀው።",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "ጠብቀው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሰንበትን ቀን"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀንን"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "የሰንበትን"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ለማብቃት"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "እንዳዘዘህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂም አምላክህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:35:11.517117456Z",
+  "model": "glm-5.3"
+}

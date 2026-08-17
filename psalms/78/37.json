@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "ልባቸውም ከእርሱ ጋር አልተገጣጠመም፣ በቃል ኪዳኑም አላረጋገጡም።",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "ልባቸውም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አልተገጣጠመም (አይኮንም)"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "አልተገጣጠመም"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አላረጋገጡም"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "አላረጋገጡም"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "በቃል ኪዳኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:19.919355245Z",
+  "model": "glm-5.3"
+}

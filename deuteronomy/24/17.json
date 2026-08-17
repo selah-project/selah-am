@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "የጀምላተኛን ፍርድ፣ የድሆውንም አታጥል፤ የመበለችዋንም ልብስ በዋስ አትውሰድ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "አታጥል"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "የጀምላተኛ"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "የድሆውንም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "በዋስ አትውሰድ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ልብስ"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "የመበለችዋን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:50:28.179072769Z",
+  "model": "glm-5.3"
+}

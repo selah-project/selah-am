@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እንዴ ትንሽ አይደሉም ቀኖቼ? ያቁም፣ ከእኔ ያኑር፣ እና ትንሽ አጽናለሁ።",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "እንዴ አይደሉም"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ትንሽ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀኖቼ"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "ያቁም"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "ከእኔ ያኑር"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "እና አጽናለሁ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ትንሽ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:45:51.847865624Z",
+  "model": "glm-5.3"
+}

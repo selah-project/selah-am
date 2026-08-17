@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ሚካልም ⟨את⟩ ዳዊትን በመስኮቱ በኩል አወረወረችው፤ እርሱም ሄደ፣ ሸሸ፣ ያመለጠም።",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "አወረወረችው\/አወረደች"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "ሚካል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊትን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትን"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "በኩል"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "መስኮቱ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ሸሸ"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ያመለጠ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:43:45.393184534Z",
+  "model": "glm-5.3"
+}

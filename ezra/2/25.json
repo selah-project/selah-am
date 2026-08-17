@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "ezra 2:25",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የቂርያት ዓራም፣ የከፍይራህ እና የቤኤሮት ልጆች ሰባት መቶ አርባ እና ሦስት።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ቂርያት"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ዓራም"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "ከፍይራህ"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "እና ቤኤሮት"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "አርባ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "እና ሦስት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:49:43.567750201Z",
+  "model": "glm-5.3"
+}

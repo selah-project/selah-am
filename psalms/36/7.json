@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "ጽድቅህ እንደ ኤል ተራሮች ነው፤ ፍርድህ ታላቅ ጥልቅ ባሕር ነው፤ ያህዌህ ሆይ፣ ሰውንና እንስሳን ታድናለህ።",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "ጽድቅህ"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "እንደ ተራሮች"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "ፍርድህ"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "ጥልቅ ባሕር"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰውን"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "እና እንስሳን"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "ታድናለህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:21.873438998Z",
+  "model": "glm-5.3"
+}

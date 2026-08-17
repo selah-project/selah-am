@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ለትውልድ እና ለትውልድ እምነትህ ነው፤ ምድርን አቆምክ፣ እነሆም ቆመዋል።",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "ለትውልድ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "እና ለትውልድ"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "እምነትህ"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "አቆምክ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "እነሆም ቆመዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:59.140482194Z",
+  "model": "glm-5.3"
+}

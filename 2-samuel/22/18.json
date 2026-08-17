@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "2-samuel 22:18",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ከጠንካራ ጠላቶቼ አዳነኝ፤ እነርሱም ከእኔ ጠንካኞች ነበሩ።",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "አዳነኝ"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "ከጠላቶቼ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ጠንካራ"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "ከጠላቶቼ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "ጠንካኖች ነበሩ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:11:26.381730197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "2-chronicles 26:7",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ኤሎሂምም በፕልስቲም ላይና በጓር-በዓል በሚኖሩት ዓረቦች ላይ፣ እንዲሁም በማዑኒም ላይ ረዳው።",
+  "tokens": [
+    {
+      "surface": "ויעזרהו",
+      "gloss": "ረዳው"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂምም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፕልስቲም"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እንዲሁም በ… ላይ"
+    },
+    {
+      "surface": "הערביים",
+      "gloss": "ዓረቦች"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "በሚኖሩት"
+    },
+    {
+      "surface": "בגור",
+      "gloss": "በጓር-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "በዓል"
+    },
+    {
+      "surface": "והמעונים",
+      "gloss": "በማዑኒም"
+    }
+  ],
+  "timestamp": "2026-08-16T14:11:17.165823256Z",
+  "model": "glm-5.3"
+}

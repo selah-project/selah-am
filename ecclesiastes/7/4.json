@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የጠቢባን ልብ በማዘን ቤት ⟨ነው⟩፤ የሞኞችም ልብ በደስታ ቤት ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ጠቢባን"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ማዘን"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "እና ልብ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ሞኞች"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ደስታ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:16:35.393859414Z",
+  "model": "glm-5.3"
+}

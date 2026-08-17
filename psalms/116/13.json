@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 116,
+  "translation": "የመዳን ስሉስ አነሳለሁ፣ በያህዌህ ስም እጠራለሁ።",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "ስሉስ"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "የመዳን"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "አነሳለሁ"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "በ…ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "እጠራለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:16.754130975Z",
+  "model": "glm-5.3"
+}

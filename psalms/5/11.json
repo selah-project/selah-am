@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ክፉ አድርጋቸው ኤሎሂም፤ ከምክሮቻቸው ይወድቃሉ፤ በብዙ መተላለፋቸው አስወጣቸው፤ በአንተ ላይ ክፉ አመጹን።",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "ክፉ አድርጋቸው"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ይወድቃሉ"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "ከምክሮቻቸው"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "በብዙ"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "መተላለፋቸው"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "አስወጣቸው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "ክፉ አመጹን"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:27:40.227412114Z",
+  "model": "glm-5.3"
+}

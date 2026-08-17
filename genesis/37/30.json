@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ወደ ወንድሞቹም ተመለሰ እና አለ፦ ልጁ የለም፤ እኔም ወዴት እሄዳለሁ?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሞቹም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ፦"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "የለም፤"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "እኔም"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ወዴት"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "እሄዳለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:55:25.260475648Z",
+  "model": "glm-5.3"
+}

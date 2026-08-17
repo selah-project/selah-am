@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እኔ ራሴ ምድሩን ⟨את⟩ አጠፋለሁ፤ በእርሷም ላይ የሚኖሩባት ጠላቶቻችሁ ታደምሩባታል።",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "አጠፋለሁ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ ራሴ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሩን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩን"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "ታደምሩባታል"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "በእርሷም ላይ"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ጠላቶቻችሁ"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "የሚኖሩባት"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሷ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:01:58.854390315Z",
+  "model": "glm-5.3"
+}

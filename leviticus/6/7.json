@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ይህችም የስጦታው ሕግ ⟨ናት⟩፤ የአሃሮን ልጆች ⟨את⟩ እሷን ያዕህዌህ ፊት በመሠዊያው ፊት ያቀርባሉ።",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ይህችም"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "የ…ሕግ"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "የስጦታው"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ያቀርባሉ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እሷን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያዕህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ…"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    }
+  ],
+  "timestamp": "2026-08-16T14:40:15.823917304Z",
+  "model": "glm-5.3"
+}

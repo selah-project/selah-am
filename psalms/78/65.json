@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "አዶናይ እንደ ተኝ ከእንቅልፉ ተነሳ፤ እንደ ጠንካራ ጀግና ከወይን ጠርሞ የሚያስተጋባ ሆኖ።",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "ተነሳ"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "እንደ ተኝ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "እንደ ጠንካራ ጀግና"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "የሚያስተጋባ"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "ከወይን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:51.969234225Z",
+  "model": "glm-5.3"
+}

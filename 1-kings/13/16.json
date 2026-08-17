@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እርሱም እንዲህ አለ፤ «ከአንተ ⟨את⟩ ጋር ልመለስ አልችልም፣ ከአንተ ⟨את⟩ ጋርም ልገባ አይደለም፤ በዚህም ስፍራ ከአንተ ⟨את⟩ ጋር ምግብም አልበላም፣ ውሃም አልጠጣም።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "እችላለሁ"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ልመለስ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ከአንተ ጋር"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "ልገባ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ከአንተ ጋር"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "በላ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ምግብ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "ጠጣ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ከአንተ ጋር"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "በስፍራ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "በዚህ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:26:48.072248139Z",
+  "model": "glm-5.3"
+}

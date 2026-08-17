@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ከነሱ አትፈራ፤ ያህዌህ ኤሎሂምህ ለፈርዖን እና ለሁሉም ለምጽራይም ⟨את⟩ ያደረገውን አስታውስ ታስታውሳለህ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ትፈራ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ከነሱ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "አስታውስ"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ታስታውሳለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያደረገውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ያደረገው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምህ"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ለፈርዖን"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "እና ለሁሉም"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ለምጽራይም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:38:42.042520495Z",
+  "model": "glm-5.3"
+}

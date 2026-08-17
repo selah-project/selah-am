@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ያህዌህ ኤሎሂምም በእጃችን እንዲሁም ⟨את⟩ የባሳን ንጉሥ ዐግን እና ⟨את⟩ ሕዝቡን ሁሉ ሰጠ፤ ውክ ቀሪ እንዳይቀርለት ድረስ መታን።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂም (የእኛ)"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "በእጃችን"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዐግን"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ዐግ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ባሳን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "መታን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ድረስ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "እንዳይሆን"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "እንዲቀር"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለርሱ"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "ውክ ቀሪ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:34:38.346847279Z",
+  "model": "glm-5.3"
+}

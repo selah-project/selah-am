@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ጽድቅህ ጽድቅ ለዘላለም ነው፤ እና ቶራህ እውነት ⟨ናት⟩።",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "ጽድቅህ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቅ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "እና ቶራህ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "እውነት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:53.433415947Z",
+  "model": "glm-5.3"
+}

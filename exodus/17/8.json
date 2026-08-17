@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ዓማሌቅም መጥቶ ከእስራኤል ጋር በረፊዲም ተዋጋ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "እና መጣ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ዓማሌቅ"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "እና ተዋጋ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ... ጋር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "በረፊዲም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:19:28.640561368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "leviticus 15:8",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "እና ቢሆንም ቢትበርብ የሚፈስ ሰው ባረጸው ላይ አንብሮ ልብሶቹን ያጠባል፣ በውሃም ይታጠባል፣ እና እስከ ምሽቱ ድረስ እንደ ርኵስ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "እና ቢሆንም"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "ቢትበርብ አንብሮ"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "የሚፈስ ሰው"
+    },
+    {
+      "surface": "בטהור",
+      "gloss": "ባረጸው ላይ"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "ያጠባል"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ልብሶቹን"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "እና ይታጠባል"
+    },
+    {
+      "surface": "במים",
+      "gloss": "በውሃ"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "እና እንደ ርኵስ ይሆናል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ምሽቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:53:17.897252246Z",
+  "model": "glm-5.3"
+}

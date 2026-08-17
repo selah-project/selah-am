@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እና አለ፦ ስሙን ሎ-አሚ ብለህ ጥራው፤ በእውነት እናንተ ሕዝቤ አይደላችሁም፣ እኔም ለናንተ ⟨አለመሆን⟩ አይሆንም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ጥራ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሎ-አሚ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደላችሁም"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "እኔም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይሆንም"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "⟨አለመሆን⟩ እሆናለሁ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለናንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:55:02.037432551Z",
+  "model": "glm-5.3"
+}

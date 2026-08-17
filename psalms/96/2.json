@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 96,
+  "translation": "ለያህዌህ ዘምሩ፤ ስሙን አመስግኑ፤ የመዳኑን በሮር ከቀን ወደ ቀን።",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ዘምሩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "አመስግኑ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "በሮር"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ከቀን"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ወደ ቀን"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "የመዳኑን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:39.888870986Z",
+  "model": "glm-5.3"
+}

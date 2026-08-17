@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "እስራኤልም በዳዊት ቤት ላይ እስከ ዛሬ ዕለት ድረስ አመጸበ።",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "አመጸበ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልም"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በ…ቤት"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ…ድረስ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዕለት"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ዛሬ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:24:32.927903085Z",
+  "model": "glm-5.3"
+}

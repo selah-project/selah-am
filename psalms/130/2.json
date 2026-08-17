@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 130,
+  "translation": "አዶናይ፣ ድምፄን ስማ፤ ጆሮዎችህ ትኩር ቢሆኑ፣ ለልመናዬ ድምፅ ⟨ለ⟩ ይስሙ።",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ስማ"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ድምፄን"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ቢሆኑ"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "ጆሮዎችህ"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "ትኩር"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ለድምፅ"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ለልመናዬ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:37.238180088Z",
+  "model": "glm-5.3"
+}

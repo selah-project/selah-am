@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "1-chronicles 2:6",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የዘራህ ወንዶችም ዝምሪ፣ ኤሳን፣ ሄማን፣ ከልከል እና ዳራ — ሁሉም አምስት ናቸው።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "የ…ወንዶችም"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ዘራህ"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "ዝምሪ"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "እና ኤሳን"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "እና ሄማን"
+    },
+    {
+      "surface": "וכלכל",
+      "gloss": "እና ከልከል"
+    },
+    {
+      "surface": "ודרע",
+      "gloss": "እና ዳራ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "አምስት"
+    }
+  ],
+  "timestamp": "2026-08-16T12:31:42.965869642Z",
+  "model": "glm-5.3"
+}

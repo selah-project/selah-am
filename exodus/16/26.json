@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ስድስት ቀን ትሰብሱት፤ በሰባተኛው ቀን ግን ሰንበት ነው — በዚያ የሚገኝ አይሆንም።",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "ስድስት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "ትሰብሱት"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "በ…ቀን ግን"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "በሰባተኛው"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ሰንበት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይሆንም"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በዚያ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:17:00.903811726Z",
+  "model": "glm-5.3"
+}

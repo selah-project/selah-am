@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ለራስህ ጣኦት፣ በሰማያት ከላይ ያለውን ወይም በምድር ከታች ያለውን ወይም በውኃው ውስጥ ከምድር በታች ያለውን ማናቸውንም ቅርጽ አትሥራ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለራስህ"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "ጣኦት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ማናቸውንም"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "ቅርጽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "በሰማያት"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ከላይ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "እና የ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ከታች"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ወይም የ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "በውኃው"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ከታች"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ለምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:35:10.606614521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 40:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ጽድቅህን በልቤ ውስጥ አልሰወርሁም፤ ታማኝነትህንና መድኃኒትህን ተናገርሁ፤ ቸርነትህንና እውነትህን ከብዙ ማኅበር አልደበቅሁም።",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "ጽድቅህን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "ሰወርሁም"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በውስጥ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ታማኝነትህን"
+    },
+    {
+      "surface": "ותשועתך",
+      "gloss": "መድኃኒትህንና"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ተናገርሁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "ደበቅሁም"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ቸርነትህን"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "እውነትህንና"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "ከማኅበር"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:34.125014722Z",
+  "model": "glm-5.3"
+}

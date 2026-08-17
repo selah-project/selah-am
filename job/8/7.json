@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "job 8:7",
+  "book": "job",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "የመጀመሪያህ ትንሽ ቢሆንም፣ እና መጨረሻህ በጣም ይበዛል።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ቢሆንም"
+    },
+    {
+      "surface": "ראשיתך",
+      "gloss": "የመጀመሪያህ"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "ትንሽ"
+    },
+    {
+      "surface": "ואחריתך",
+      "gloss": "እና መጨረሻህ"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "ይበዛል"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:41:51.254099417Z",
+  "model": "glm-5.3"
+}

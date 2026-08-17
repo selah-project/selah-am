@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ምክንያቱም የሚሆነው ምን እንደሆነ አያውቅም፤ ምክንያቱም ሲሆን ማን ይነግረዋል?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "የለም፤ አያውቅም"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "አያውቅም"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "የሚሆነው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ሲሆን"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ሆኖ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ይነግረዋል"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:17:32.218322496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ያህዌህ ከሞገድ ⟨את⟩ ኢዮብን መልሶ እንዲህ አለው።",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መልሶ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢዮብን"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኢዮብን"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "ሞገድ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:59:54.084184657Z",
+  "model": "glm-5.3"
+}

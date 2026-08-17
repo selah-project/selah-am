@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ሹልም ሳሙኤል እንደ ቈረጠው ለተሰበሰቡበት ቀን ሰባት ቀን ቆየ፤ ሳሙኤልም ጌልጐላል አልመጣም፤ ሕዝቡም ከእሱ ተፈናቀለ።",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "ቆየ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "ለተሰበሰቡበት ቀን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…ም አል"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ጌልጐላል"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "ተፈናቀለም"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ከእሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:36:21.554556420Z",
+  "model": "glm-5.3"
+}

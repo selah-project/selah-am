@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "በመርገም እናንተ ተረግማችኋል፣ እኔን ⟨את⟩ ⟨אֹתִי⟩ እናንተ እየተንጠቀቃችኋል — ⟨የሕዝቡ ሁሉ⟩።",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "በመርገም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "ተረግማችኋል"
+    },
+    {
+      "surface": "ו אתי",
+      "gloss": "⟨את⟩ ⟨אֹתִי⟩",
+      "marks": "እኔን"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "እየተንጠቀቃችኋል"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "⟨የሕዝቡ⟩"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ሁሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:28:33.081169643Z",
+  "model": "glm-5.3"
+}

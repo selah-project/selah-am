@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 85,
+  "translation": "አንተ ብትመለስ ታነሣናለህ እንዴ? ታነሣናለህ፤ ሕዝብህም በአንተ ደስ ይላል።",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "…እንዴ?"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ብትመለስ"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "ታነሣናለህ"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ሕዝብህም"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ደስ ይላል።"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:27.275395407Z",
+  "model": "glm-5.3"
+}

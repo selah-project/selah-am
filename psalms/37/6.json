@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ጽድቅህን እንደ ብርሃን ያወጣል፤ ፍርድህንም እንደ ከሰዓት ብርሃን።",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "ያወጣል"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "እንደ ብርሃን"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ጽድቅህን"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "ፍርድህንም"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "እንደ ከሰዓት ብርሃን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:46.809154196Z",
+  "model": "glm-5.3"
+}

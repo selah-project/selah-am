@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "2-kings 16:16",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ኡርያ ካህኑም ንጉሡ አካዝ ያዘዘውን ሁሉ አደረገ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ኡርያ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑም"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያዘዘውን"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "አካዝ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:49:24.051432597Z",
+  "model": "glm-5.3"
+}

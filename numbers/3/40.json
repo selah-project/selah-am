@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 40,
+  "ref": "numbers 3:40",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ያህዌህም ሞሼን እንዲህ አለው፦ ከእስራኤል ልጆች ሁሉን ወንድ የበኵር ልጅ ከአንድ ወር ልጅ እና ከዚያ በላይ ቍጠር፤ የእነርሱንም ስም ቁጥር ⟨את⟩ አንሣ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ቍጠር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "የበኵር ልጅ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ወንድ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ከ… ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "ከ… ልጅ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "አንድ ወር"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "እና ከዚያ በላይ"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "እንዲሁም አንሣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእነርሱን ስም ቁጥር"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ቁጥር"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "የእነርሱ ስም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:06:03.290375505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የይስካር ልጆች ደግሞ — ቶላ፣ ፑዋ፣ ያሹብና ሲምሮን — አራት ናቸው።",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "የ…ልጆች ደግሞ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ይስካር"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "ቶላ"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "እና ፑዋ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ያሹብ"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "እና ሲምሮን"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "አራት"
+    }
+  ],
+  "timestamp": "2026-08-16T12:43:36.220482977Z",
+  "model": "glm-5.3"
+}

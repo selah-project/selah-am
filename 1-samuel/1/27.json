@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "1-samuel 1:27",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ስለ ይህ ልጅ ሐኘሁ፣ ያህዌህም ⟨את⟩ የለመንሁትን ለመኘቴን ሰጠኝ፤ ከእርሱም የለመንሁትን።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ይህ ልጅ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "התפללתי",
+      "gloss": "ሐኘሁ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሰጠኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለኝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ለመኘቴን"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ለመኘቴን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የለመንሁትን"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "የለመንሁትን"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ከእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:31:32.765065440Z",
+  "model": "glm-5.3"
+}

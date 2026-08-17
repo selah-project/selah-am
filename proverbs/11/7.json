@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ክፉ ሰው ሲሞት ተስፋው ይጠፋል፤ የኃይለኞችም መጠበቅ ጠፍቷል።",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "ሲሞት"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ይጠፋል"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "ተስፋው"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "መጠበቅም"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "የኃይለኞች"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "ጠፍቷል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:25:40.583616861Z",
+  "model": "glm-5.3"
+}

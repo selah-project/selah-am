@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "1-chronicles 2:5",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የፈርስ ወንዶች አጽሮን እና ካሙል።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "የ…ወንዶች"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ፈርስ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "አጽሮን"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "እና ካሙል"
+    }
+  ],
+  "timestamp": "2026-08-16T12:31:42.965512484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "መከራውን ⟨את⟩ አይቼያለሁ፣ ኤሎሂም ለሰዎች ልጆች የሰጠው፣ በእርሱ እንዲንቀጥቀጡ ዘንድ።",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "አይቼያለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መከራውን"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "መከራውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ው"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለልጆች"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "እንዲንቀጥቀጡ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:13:48.371381979Z",
+  "model": "glm-5.3"
+}

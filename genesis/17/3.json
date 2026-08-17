@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "አብራምም በፊቱ ላይ ወደቀ፤ ኤሎሂምም ⟨את⟩ ከእርሱ ጋር ተናገረ እንዲህ ሲል፦",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ወደቀ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "አብራም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "በፊቱ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T02:39:13.101512962Z",
+  "model": "glm-5.3"
+}

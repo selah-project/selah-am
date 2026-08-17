@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 56,
+  "translation": "የመስክ አራዊት ሁሉ፣ ኑ ተብላችሁ ተመገቡ፤ የገዳሙ አራዊት ሁሉ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "የመስክ አራዊት"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "በመስኩ"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "ኑ ተብላችሁ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ተመገቡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "አራዊት"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "በገዳሙ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:27:42.021657169Z",
+  "model": "glm-5.3"
+}

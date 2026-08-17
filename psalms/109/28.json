@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "እነሱ ይረግሙ፣ አንተ ግን ባርክ፤ ተነሥተው ይደነገጡ፣ አገልጋይህም ይደሰታል።",
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "ይረግሙ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነሱ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "አንተ ግን"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "ባርክ"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ተነሥተው"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ይደነገጡ"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "አገልጋይህም"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ይደሰታል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:26.054452495Z",
+  "model": "glm-5.3"
+}

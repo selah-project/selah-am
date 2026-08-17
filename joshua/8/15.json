@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "joshua 8:15",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ያዕሶርና መላ እስራኤል በእነርሱ ፊት ተሸነፉ ብለው ወደ ምድረ በዳ መንገድ ሮጡ።",
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "ተሸነፉ ብለው\/ተመቱ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ያዕሶር"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ከመላ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "በእነርሱ ፊት"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ሮጡ\/ሸሹ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ወደ መንገድ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ምድረ በዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:02:12.969963597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "እና ኢብሳን ሞተ፤ በቤተልሔም ተቀበረ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "እና ሞተ"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "ኢብሳን"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ተቀበረ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በቤተ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ልሔም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:22:49.713154159Z",
+  "model": "glm-5.3"
+}

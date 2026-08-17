@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እኔም በዚያው ጊዜ ወደ ያህዌህ ልምነት ጠየቅሁ እንዲህ ሲል።",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "ልምነት ጠየቅሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "በጊዜ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያንን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:32:51.535405193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "የእስራኤል ቤት ስሙን ⟨את⟩ ማን ብሎ ጠራው፤ ⟨እርሱም⟩ እንደ ወይን ዘር ነጭ ነው፤ ጣዕሙም እንደ በማር ያለ ጣፋጭ ኩካይ ነው።",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "ጠሩ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሙን"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "እርሱም"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "እንደ ዘር"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ወይን"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ነጭ"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "ጣዕሙም"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "እንደ ኩካይ"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "በማር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:17:03.932285448Z",
+  "model": "glm-5.3"
+}

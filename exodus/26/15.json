@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ለመንደርዱም ⟨את⟩ የሚቆማቸውን ሰሌዳዎች ከሲታ እንጨት ቆሞ ሆኖ ታደርጋቸዋለህ።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ታደርጋቸዋለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰሌዳዎቹን"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ሰሌዳዎች"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ለመንደርዱ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "የእንጨት"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ሲታ"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ቆሞ ሆኖ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:08:58.379854433Z",
+  "model": "glm-5.3"
+}

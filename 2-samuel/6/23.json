@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ለሳኦል ሴት ልጅ ለሚካልም እስከ ሞቷ ቀን ድረስ ልጅ አልነበራትም።",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "ለሚካልም"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ሴት ልጅ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበረ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ላት"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "ሞቷ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:03:24.325603845Z",
+  "model": "glm-5.3"
+}

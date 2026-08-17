@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ውድቀት ላቸው ለክፉ ድንጋጌ የሚያዝዙት እና መከራን ለሚጽፉት።",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ውድቀት ላቸው"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "ለሚያዝዙት"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "ድንጋጌዎችን"
+    },
+    {
+      "surface": "און",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "እና ለሚጽፉት"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "መከራን"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "የሚጽፉት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:04:01.998850179Z",
+  "model": "glm-5.3"
+}

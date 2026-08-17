@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "2-samuel 8:15",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ዳዊትም በሙሉ እስራኤል ላይ ነገሠ፤ ዳዊትም ለሕዝቡ ሁሉ ፍርድና ጽድቅን ያደርግ ነበር።",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሠም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ነበርም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ያደርግ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድን"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ጽድቅንም"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:56:39.629346592Z",
+  "model": "glm-5.3"
+}

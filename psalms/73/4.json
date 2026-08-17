@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "ሞታቸው ላይ ምንም ዐይነት የማትረበብ የሕመም እሰረት የላቸውም፤ ራሳቸውም ብልጽግና የተሞላ ነው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የላቸውም"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "እሰረት የሕመም"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "ሞታቸው ላይ"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "ብልጽግና የተሞላ"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ራሳቸውም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:08.031921610Z",
+  "model": "glm-5.3"
+}

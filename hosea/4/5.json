@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ዛሬ ትወድቃለህ፣ ነቢይም ከአንተ ጋር በሌሊት ይወድቃል፤ እናቴንም አጠፋታለሁ።",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "ትወድቃለህ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "ይወድቃል"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ነቢይም"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ነቢይ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "በሌሊት"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "አጠፋታለሁ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "እናቴን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:02:59.207662052Z",
+  "model": "glm-5.3"
+}

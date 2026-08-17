@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ኳስ እግራችሁ እንደምትረገጠው እንድናችሁ ስጤችሁት እንደ ነገርኩለት ለሞሼ እንደ ሆነው።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደምትረገጠው"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "እንደምትረገጥ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ኳስ"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "እግራችሁ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእሱ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "እንድናችሁ"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "ሰጤችሁት"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "እንደ ነገርኩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:00:27.305330435Z",
+  "model": "glm-5.3"
+}

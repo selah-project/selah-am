@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "ዮሴፍ ⟨את⟩ ወንድሞቹን አወቀ፤ እነርሱ ግን አልወቁትም።",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "አወቀ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንድሞቹን"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሞቹን"
+    },
+    {
+      "surface": "והם",
+      "gloss": "እነርሱ ግን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "ወቁትም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:58:56.032206777Z",
+  "model": "glm-5.3"
+}

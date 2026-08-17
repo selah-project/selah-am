@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እና አይሁዶች ማድረግ የጀመሩትን ⟨את⟩ እና ሞርዴቃይ ወደ እነርሱ የጻፈውን ⟨את⟩ ተቀበሉ።",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "እና ተቀበሉ"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "አይሁዶች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የጀመሩትን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "የጀመሩት"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ማድረግ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ወ⟨את⟩",
+      "marks": "የጻፈውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "ጻፈ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ሞርዴቃይ"
+    },
+    {
+      "surface": "אליהḝ",
+      "gloss": "ወደ እነርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:22:57.838125495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ያህዌህ ኤሎሂምም ሰው ብቻውን መሆኑ መልካም አይደለም አለ፤ ለእርሱ ተቃራኒ እረዳት አደርግለታለሁ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "…አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "היות",
+      "gloss": "መሆኑ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ብቻውን"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "አደርጋለሁ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "እረዳት"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "ተቃራኒ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:30.847475774Z",
+  "model": "glm-5.3"
+}

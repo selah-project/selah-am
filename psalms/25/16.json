@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ወደ እኔ ተመልከተኝ፣ አዘንኝም፤ ብቻዬን ደካማም እኔ ነኝና።",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "ተመልከተኝ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "አዘንኝም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነኝና"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "ብቻዬን"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ደካማም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:47.242122078Z",
+  "model": "glm-5.3"
+}

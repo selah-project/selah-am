@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "obadiah 1:10",
+  "book": "obadiah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ከወንድምህ ከያዕቆብ በደል ውርደት ይሸፍንሃል፤ እንዲሁም ለዘላለም ትቀጠፋለህ።",
+  "tokens": [
+    {
+      "surface": "מחמס",
+      "gloss": "ከበደል"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ወንድምህ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "ይሸፍንሃል"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "ውርደት"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "ትቀጠፋለህ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:08:12.612405526Z",
+  "model": "glm-5.3"
+}

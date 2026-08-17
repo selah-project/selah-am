@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "ቃል ኪዳኔን አላቃልልም፣ ከከንፈሮቼ የወጣውንም አልለውጥም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "አቃልል"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ቃል ኪዳኔን"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "የወጣውንም"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ከከንፈሮቼ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "አልለውጥም"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:14.358260405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እና በእውነት ለያህዌህ የደህንነት መሥዋዕት ቢታርኩ፣ ለመደሰታችሁ ታርኩት።",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "እና በእውነት ቢ"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "ቢታርኩ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "መሥዋዕት"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "የደህንነት"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "ለመደሰታችሁ"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "ታርኩት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:55:24.492688432Z",
+  "model": "glm-5.3"
+}

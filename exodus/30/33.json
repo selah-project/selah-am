@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 33,
+  "ref": "exodus 30:33",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "እንደዚያው የሚቀላቅለው ሰው፣ እና ከእርሱ ወደ መገርደሚያ ላይ የሚሰጠው ሰው፣ ከሕዝቡ ይጠፋል።",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚ"
+    },
+    {
+      "surface": "ירקח",
+      "gloss": "ይቀላቅለው"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "እንደዚያው"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "እና የሚ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "የሚሰጠው"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእርሱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "መገርደሚያ"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "ይጠፋል"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "ከሕዝቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:29:01.324296472Z",
+  "model": "glm-5.3"
+}

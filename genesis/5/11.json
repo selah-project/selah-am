@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የኤኖሽም ሁሉም ቀናት አምስት ዓመታትና ዘጠኝ መቶ ዓመት ሆኑ፤ እርሱም ሞተ።",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ሆኑ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "የኤኖሽ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታትና"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ዘጠኝ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:40.822532361Z",
+  "model": "glm-5.3"
+}

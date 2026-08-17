@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ጮክ አሁን — ⟨አለ ወይ?⟩ መልስ የሚሰጥህ፤ ወደ ቅዱሳን መካከል ደግሞ ወደ ማን ታዘንባለህ?",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "ጮክ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "היש",
+      "gloss": "አለ ወይ?"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "መልስ የሚሰጥህ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "ቅዱሳን"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "ታዘንባለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:43:51.556686003Z",
+  "model": "glm-5.3"
+}

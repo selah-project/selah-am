@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እንደ አሕዛብ ያህዌህ ከፊታችሁ የሚያጠፋቸው እናንተም እንዲሁ ትጠፋላችሁ፤ ስለዓረፍና የያህዌህ የኤሎሂምችሁ ድምፅ ካልታዘዛችሁ እንጂ።",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "እንደ አሕዛብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚያጠፋቸው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "የሚያጠፋቸው"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "ከፊታችሁ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲሁ"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "ትጠፋላችሁ"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ስለዓረፍና"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ካልታዘዛችሁ"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "ካልታዘዛችሁ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:57:03.693128007Z",
+  "model": "glm-5.3"
+}

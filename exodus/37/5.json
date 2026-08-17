@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ትንባሮቹንም ⟨את⟩ በታቦቱ ጎኖች ላይ ባሉት ቀለበቶች ውስጥ አስገባ፤ ታቦቱንም ⟨את⟩ ለመሸከም።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "አስገባ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትንባሮቹን"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ትንባሮቹን"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "በቀለበቶች"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "ጎኖች"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ታቦቱ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ለመሸከም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦቱን"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ታቦቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:36:08.489541365Z",
+  "model": "glm-5.3"
+}

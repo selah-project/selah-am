@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 12:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ከመዳን ምንጮችም በደስታ ውኃ ታጠጣላችሁ።",
+  "tokens": [
+    {
+      "surface": "ושאבתם",
+      "gloss": "ታጠጣላችሁ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውኃ"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "በደስታ"
+    },
+    {
+      "surface": "ממעיני",
+      "gloss": "ከ...ምንጮችም"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "መዳን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:02:39.953937310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "hosea 11:9",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "የንዴቴን ቍጣ አላደርግም፣ ኤፍሬምን ለማጥፋት አልመለስም፤ እንደ ኤል ⟨እኔ⟩ ነኝ፣ ሰው አይደለሁም — በአንተ መካከል ቅዱስ — እና ወደ ⟨ከተማ⟩ አልገባም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "አደርግም"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "ቍጣ"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "የንዴቴ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "አልመለስም"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "ለማጥፋት"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍሬምን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "በአንተ መካከል"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "አልገባም"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ወደ ከተማ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:00:20.857230363Z",
+  "model": "glm-5.3"
+}

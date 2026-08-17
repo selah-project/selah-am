@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 5:9",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ናዕማን በፈረሶቹም በሠረገላውም መጣ፤ በኤልይሳ ቤት በር ፊት ቆመ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "ናዕማን"
+    },
+    {
+      "surface": "בסוסו",
+      "gloss": "በፈረሶቹም"
+    },
+    {
+      "surface": "וברכבו",
+      "gloss": "በሠረገላውም"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ቆመ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "በር"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "לאלישע",
+      "gloss": "ለኤልይሳ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:42:08.248906662Z",
+  "model": "glm-5.3"
+}

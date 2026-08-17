@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 100,
+  "translation": "የምስጋና መዝሙር። ለያህዌህ አስደምቃችሁ ጮኹ፣ መላው ምድር ሁሉ።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "የምስጋና"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "አስደምቃችሁ ጮኹ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላው"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር ሁሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:13.641461910Z",
+  "model": "glm-5.3"
+}

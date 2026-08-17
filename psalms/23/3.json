@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ነፍሴን ይመልስልኛል፤ በጽድቅ መንገዶች ይመራኛል — ስሙን ስለሆነ።",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "ይመልስልኛል"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "ይመራኛል"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "በ…መንገዶች"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቅ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:48.863314251Z",
+  "model": "glm-5.3"
+}

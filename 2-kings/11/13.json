@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "አትልያም የሯጮችንና የሕዝቡን ድምፅ ሰምታ ወደ ሕዝቡ ወደ ያህዌህ ቤት ገባች።",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "ሰምታ"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "አትልያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምፅ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "የሯጮችን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "የሕዝቡን"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ገባች"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:47:08.723420840Z",
+  "model": "glm-5.3"
+}

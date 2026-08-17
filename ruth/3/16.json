@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እርሷም ወደ አማቷ ተመለሰች፤ እርሷም «ልጄ ሴት፣ አንቺ ማን ነሽ?» አለችው፤ እርሷም ሰውዬው ላት ያደረገውን ⟨את⟩ ሁሉ ነገረችው።",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "ገባች"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "አማቷ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "አለችው"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "את",
+      "gloss": "አንቺ"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ልጄ ሴት"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "ነገረችው"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ላት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያደረገውን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ያደረገው"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ላት"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰውዬው"
+    }
+  ],
+  "timestamp": "2026-08-16T11:07:20.229672527Z",
+  "model": "glm-5.3"
+}

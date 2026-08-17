@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ሞሼም እስራኤልን ⟨את⟩ ከሱፍ ባሕር አስነሳ፤ ወደ ሹር ምድረ በዳም ወጡ፤ በምድረ በዳውም ሦስት ቀን ሄዱ እንጂ ውሃ አላገኙም።",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "አስነሳ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ሱፍ\/ጥም"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ወጡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ምድረ በዳ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ሹርም"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ሄዱ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በምድረ በዳውም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንጂ አል"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "አላገኙም"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:13:52.974370807Z",
+  "model": "glm-5.3"
+}

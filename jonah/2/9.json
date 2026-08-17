@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "jonah 2:9",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የከንቆችን ሐሰት የሚጠብቁ ርኅራኄያቸውን ይተዋሉ።",
+  "tokens": [
+    {
+      "surface": "משמרים",
+      "gloss": "የሚጠብቁ"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "የከንቆችን"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ሐሰት"
+    },
+    {
+      "surface": "חסדם",
+      "gloss": "ርኅራኄያቸውን"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "ይተዋሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:08:56.546360512Z",
+  "model": "glm-5.3"
+}

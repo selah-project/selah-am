@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 103,
+  "translation": "ለዘላለም አይከራከርም፤ ወደ ዘላለምም ቍጣውን አይጠብቅም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ይከራከር"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንደገና አይ…ም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ወደ ዘላለም"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "ቍጣውን ይጠብቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:44.686506328Z",
+  "model": "glm-5.3"
+}

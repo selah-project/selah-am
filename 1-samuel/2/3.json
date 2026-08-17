@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "1-samuel 2:3",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ዝቅ ብላችሁ አትናገሩ፤ ከአፋችሁ የማይገባ ትልቅ ቃል አይውጣ፤ የእውቀት ኤል ያህዌህ ነውና፤ ሥራዎችም አይለኩም።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "᪶",
+      "gloss": ""
+    },
+    {
+      "surface": "תרבו",
+      "gloss": "ዝቅ ብላችሁ"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "አትናገሩ"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "ትልቅ"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "አይውጣ"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "የማይገባ"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "ከአፋችሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነውና"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "דעות",
+      "gloss": "የእውቀት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይለኩም"
+    },
+    {
+      "surface": "נתכנו",
+      "gloss": "ሥራዎችም ይለካሉ፤ ⟨አይ…ም⟩"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "ሥራዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T05:31:51.932628320Z",
+  "model": "glm-5.3"
+}

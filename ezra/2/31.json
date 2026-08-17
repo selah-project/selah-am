@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "ezra 2:31",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የሌላው ኤላም ልጆች አንድ ሺህ ሁለት መቶ ሃምሳ እና አራት።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ኤላም"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ሌላው"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "አንድ ሺህ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ሁለት መቶ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ሃምሳ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "እና አራት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:50:12.854811713Z",
+  "model": "glm-5.3"
+}

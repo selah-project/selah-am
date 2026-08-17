@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እናንደ ጮክ አደረጋች ሲነፍሱ ነፍሱ፣ በምሥራቅ የሚታፈኑት ሠፈሮች ይነሣሉ።",
+  "tokens": [
+    {
+      "surface": "ותקעתם",
+      "gloss": "እናንደ ጮክ አደረጋች ሲነፍሱ"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "የጦር ጮኽ"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "ይነሣሉ።"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "ሠፈሮች"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "የሚታፈኑት"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "በምሥራቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:12:08.915700125Z",
+  "model": "glm-5.3"
+}

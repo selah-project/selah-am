@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "genesis 15:15",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "አንተ ግን በሰላም ወደ አባቶችህ ትመለሳለህ፤ በጥሩ እድሜ ትቀበራለህ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተ ግን"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ትመለሳለህ፤ ትገባለህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "አባቶችህ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "በሰላም"
+    },
+    {
+      "surface": "תקבר",
+      "gloss": "ትቀበራለህ"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "በእድሜ፤ በሽኝነት"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ጥሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:37:21.394835433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "1-kings 16:8",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "በይሁዳ ንጉሥ በአሳ በሃያ እና ስድስት ዓመት፣ የባዕሻ ልጅ ኤላ በትዕርዛ በእስራኤል ላይ ነገሠ፤ ሁለት ዓመት።",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "በ…ዓመት"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ሃያ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "እና ስድስት"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "አሳ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ኤላ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ባዕሻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "በትዕርዛ"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "ሁለት ዓመት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:29:45.904624469Z",
+  "model": "glm-5.3"
+}

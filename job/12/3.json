@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ደግሞ ለእኔ እንደ እናንተ ልብ አለኝ፤ እኔ ከእናንተ አልወደቅሁም፤ እና ⟨את⟩ ማን ነው እነዚህን ያልረዳው?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "እንደ እናንተ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ወደቅሁ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ከእናንተ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ማን"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለውም"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:45:48.160582211Z",
+  "model": "glm-5.3"
+}

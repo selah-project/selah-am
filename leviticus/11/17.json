@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እነዚህም፦ ⟨את⟩ ጉጉምን፣ ⟨את⟩ የውሃ ወፍን፣ ⟨את⟩ ነብርን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጉጉምን"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ጉጉም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የውሃ ወፍን"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "የውሃ ወፍ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነብርን"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "ነብር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:49:16.888348143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 102,
+  "translation": "ወደ ብለጹ ጸሎት ዞረ፤ የእነርሱንም ⟨את⟩ ጸሎት አላሰበም አላዋረደም።",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "ዞረ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "ጸሎት"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "ብለጹ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አላሰበም አላዋረደም"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "አዋረደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጸሎታቸውን"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ጸሎታቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:57.396671622Z",
+  "model": "glm-5.3"
+}

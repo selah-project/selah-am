@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "በክፉ ቀናት ለምን እፈራለሁ? ዐመፀን አንበሮቼን ይከብበኛል።",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "እፈራለሁ"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "በቀናት"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ዐመፀን"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "አንበሮቼን"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "ይከብበኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:34.319359344Z",
+  "model": "glm-5.3"
+}

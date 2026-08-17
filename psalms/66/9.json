@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 66,
+  "translation": "ነፍሳችንን በሕይወት የኖረው እርሱ ነው፤ እግራችንም እንዳይወዛወዝ አልሰጠም።",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "የኖረው"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ነፍሳችንን"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "በሕይወት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አልሰጠም"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "አልሰጠም"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "እንዳይወዛወዝ"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "እግራችንም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:43.718215896Z",
+  "model": "glm-5.3"
+}

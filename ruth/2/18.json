@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "ruth 2:18",
+  "book": "ruth",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ረከባችም ወደ ⟨ከተማዋ⟩ ገባች፤ አማትዋም ⟨את⟩ የተከለሰችውን አየች፤ እርሷም እራቷን ከበላች በኋላ የቀረውን ⟨את⟩ አውጥታ ለእርሷ ሰጠች።",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "ረከባችም"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ገባች"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ወደ ⟨ከተማዋ⟩"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "አየችም"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "አማትዋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የተከለሰችውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "ተከለሰችው"
+    },
+    {
+      "surface": "ותוצא",
+      "gloss": "አውጥታም"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "ሰጠች"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ለእርሷ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የቀረውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "הותרה",
+      "gloss": "የቀረው"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "ከበላች በኋላ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:08:03.880973753Z",
+  "model": "glm-5.3"
+}

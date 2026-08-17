@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ያህዌህም ቃሩን ⟨את⟩ ማንሰራትያ አደረገ፤ የምድር አገር ሙሉ የአባቶች ሁሉ ሞተ፤ ከእስራኤል ልጆች አገላቢያም አንድ እንኳ አልሞተም።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃሩን"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃሩን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ማንሰራትያ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "የአባቶች"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "የምድር አገር"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "ከአገላቢያም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞተም"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:12:49.478207318Z",
+  "model": "glm-5.3"
+}

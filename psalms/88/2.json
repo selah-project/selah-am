@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 88,
+  "translation": "ያህዌህ ኤሎሂም የመዳኄቴ፣ ቀን ጮኻሁ፣ በምሽት ፊትህ",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም የ…"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "መዳኄቴ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "ጮኻሁ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "በምሽት"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "ፊትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:29.096277848Z",
+  "model": "glm-5.3"
+}

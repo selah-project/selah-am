@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እርሱም ከስጋቡ ስለዚህ ወደ አብነር ⟨את⟩ ቃል መመለስ አልቻለም።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "አልቻለም።"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "ቻለ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ከዚህ በኋላ ወይም እንደገና መመለስ አልቻለም"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "መመለስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አብነርን"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "አብነር"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "ከስጋቡ ስለዚህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    }
+  ],
+  "timestamp": "2026-08-17T07:10:54.584461795Z",
+  "model": "glm-5.3"
+}

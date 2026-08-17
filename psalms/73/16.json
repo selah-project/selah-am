@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "ይህንም ለመረዳት ስናስብ፣ ጉልበት አለብኝ የሚል ዓይኔን አስጨነቀ ነበር።",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "ስናስብ፣\/ስገምግም"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ለመረዳት\/ለማወቅ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህንም"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ጭንቀት\/ድካም"
+    },
+    {
+      "surface": "היא",
+      "gloss": "አለብኝ የሚል\/ያለበትው ነው"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ዓይኔን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:09.176776347Z",
+  "model": "glm-5.3"
+}

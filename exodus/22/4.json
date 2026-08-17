@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ሰው መስክን ወይም ወይን እርሻን ቢያሳልስ የቤቱን እንስሳ ቢሰድድ ⟨את⟩ በሌላው መስክ ቢበላ፣ ከመልካሙ መስኩ እና ከመልካሙ ወይን እርሻው ያካክላል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ቢ"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "ቢያሳልስ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "መስክ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ወይን እርሻ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ቢሰድድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እንስሳ"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "እንስሳ"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "ቢበላ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "በመስክ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ሌላ"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "ከመልካሙ"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "መስኩ"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "እና ከመልካሙ"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "ወይን እርሻው"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ያካክላል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:22:49.449342621Z",
+  "model": "glm-5.3"
+}

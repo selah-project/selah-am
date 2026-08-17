@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "እንደ አንበሳ ስፍራ ቦታ በስቅለትን እና በወርቃማ ጥላ ሸፈንእናል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "በስቅለትን"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "በ…ስፍራ ቦታ"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "አንበሳ"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "እና ሸፈንᥐናል"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "እናል"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "በወርቃማ ጥላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:58.477453434Z",
+  "model": "glm-5.3"
+}

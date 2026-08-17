@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የእስራኤል ንጉሥ ኤልሻዕን ሲያያቸው እነሆ ⟨את⟩ አባቴ፣ እመታቸውን እመታቸውን? አለው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ኤልሻዕ"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "ሲያያቸው"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱ (የተያዙትን ሰዎች)"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "እመታቸውን?"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "እመታቸውን?"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:39:46.818478158Z",
+  "model": "glm-5.3"
+}

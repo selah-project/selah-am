@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "እነሆ በውስጣዊ ክፍል እውነትን ፈልገሃል፤ በተሰወረውም ጥበብን ታሳውቀኛል።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "እውነትን"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "ፈልገሃል"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "በውስጣዊ ክፍል"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "በተሰወረውም"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብን"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "ታሳውቀኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:01.016688936Z",
+  "model": "glm-5.3"
+}

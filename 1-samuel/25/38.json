@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ከአሥር ቀናት በኋላ ሆነ፣ ያህዌህ ⟨את⟩ ናባልን መታው፤ እርሱም ሞተ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "ከአሥር"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "መታው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ናባልን"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ናባልን"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:34:50.507135618Z",
+  "model": "glm-5.3"
+}

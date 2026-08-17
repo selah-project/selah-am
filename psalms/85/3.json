@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 85,
+  "translation": "የሕዝብህን ኀጢአት ተሸክመሃል፤ ኃጢአታቸውን በሙሉ ሸፍነሃል። ሰላ።",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "ተሸክመሃል"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ኀጢአትን"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "የሕዝብህን"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "ሸፍነሃል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ኃጢአታቸውን"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:57:59.596165157Z",
+  "model": "glm-5.3"
+}

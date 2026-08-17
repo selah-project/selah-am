@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 23:28",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "የዮስያስ የቀሩት ነገሮች እና ያደረጋቸው ሁሉ እንዳሉ፣ በይሁዳ ነገሥታት የዕለት ታሪክ መጽሐፍ ላይ የተጻፉ አይደሉምን?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "እና የቀሩት"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ነገሮች"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ዮስያስ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "አይደሉምን"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እነሆም"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "የተጻፉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "መጽሐፍ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "የ…ነገር"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "የዕለት"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "የነገሥታት"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:50:44.760041600Z",
+  "model": "glm-5.3"
+}

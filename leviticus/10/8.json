@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ያህዌህም ለአሃሮን እንዲህ ብሎ ተናገረ፦",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:49:25.493394455Z",
+  "model": "glm-5.3"
+}

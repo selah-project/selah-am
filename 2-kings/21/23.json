@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "እናም የአሞን አገልጋዮች በእርሱ ላይ ሴራ ሠሩ፤ ንጉሡንም ⟨את⟩ በቤቱ ውስጥ ገደሉት።",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "ሴራ ሠሩ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "የ…አገልጋዮች"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "አሞን"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "ገደሉት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንጉሡን"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡን"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "በቤቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:52:16.415152350Z",
+  "model": "glm-5.3"
+}

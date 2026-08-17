@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ያህዌህም እንዲህ አለው፦ ሂድ፣ በመንገድህ ተመለስ፣ ወደ ደማስቆ ምድረ በዳ፤ ስትገባም ⟨את⟩ ሐዛኤልን የአራም ንጉሥ ትቀብታለህ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ተመለስ"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "በመንገድህ"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "ወደ ምድረ በዳ"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ደማስቆ"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ስትገባ"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ትቀብታለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሐዛኤልን"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "ሐዛኤልን"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "አራም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:32:17.089693533Z",
+  "model": "glm-5.3"
+}

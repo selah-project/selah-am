@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "ሲገድላቸው ፈለጉት፤ ተመለሱም ኤልን በማለዳ ፈለጉ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ሲ"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "ይገድላቸው"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "ፈለጉትና"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ተመለሱም"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "በማለዳ ፈለጉ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤልን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:50.278614954Z",
+  "model": "glm-5.3"
+}

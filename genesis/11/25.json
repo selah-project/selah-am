@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ናሖርም ከወለደ በኋላ ⟨את⟩ ቴራሕን ዘጠኝ አሥራ ዘጠኝ ዓመት እና መቶ ዓመት ኖረ፤ ወለደም ወንዶችን እና ሴቶችን።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ኖረም"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ናሖር"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ… በኋላ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቴራሕን"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ቴራሕ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ዘጠኝ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "አሥራ ዘጠኝ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "እና መቶ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደም"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ወንዶችን"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "እና ሴቶችን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:55.001374343Z",
+  "model": "glm-5.3"
+}

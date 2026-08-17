@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "በቃላቱም አመኑ፤ ዝማሬውንም ዘምሩ።",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "አመኑ"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "በቃላቱ"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "ዘምሩ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ዝማሬውን\/ምስጋናውን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:30.037388085Z",
+  "model": "glm-5.3"
+}

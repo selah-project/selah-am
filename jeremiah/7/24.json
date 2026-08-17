@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "jeremiah 7:24",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እነሱ ግን አልሰሙም የእነሱንም ⟨את⟩ ጆሮ አልጋለዱም፤ ነገር ግን በምክሮቻቸው በክፉ ልባቸው አንጸባረቀ ሄዱ፤ ወደ ኋላ ሆኑ ወደ ፊት አልሆኑም።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "አል...ም ግን"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "አልሰሙም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንደዚሁም አል...ም"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "አልጋለዱም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጆሮአቸውን"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "ጆሮአቸውን"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ሄዱ"
+    },
+    {
+      "surface": "במעצות",
+      "gloss": "በምክሮቻቸው"
+    },
+    {
+      "surface": "בשררות",
+      "gloss": "በአንጸባረቀ"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ልባቸው"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ሆኑ"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "ወደ ኋላ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንደዚሁም አል...ም"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ወደ ፊት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:43:22.761235187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ነፋሱን የሚቆጠር አይዘራም፤ ደመናዎችን የሚመለከት አይከስከምም።",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "የሚቆጠር"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ነፋሱን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "አይዘራም"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "የሚመለከት"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "ደመናዎችን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "አይከስከምም"
+    }
+  ],
+  "timestamp": "2026-08-16T11:17:51.361658472Z",
+  "model": "glm-5.3"
+}

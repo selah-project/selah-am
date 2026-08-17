@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 88,
+  "translation": "በመቃብር ሞገስህ ይነገራልን? የአስተማሪነትህ በአባዶን ይታወቃልን?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "ይነገራልን"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "በመቃብር"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ሞገስህ\/ችሮታህ"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "የሃጢያት አምነትህ\/ታማኝነትህ"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "በአባዶን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:04.735156893Z",
+  "model": "glm-5.3"
+}

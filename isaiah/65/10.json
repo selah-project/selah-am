@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 65:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 65,
+  "translation": "ሳሮን ለበጎች መካከር ይሆናል፣ የዓኮርም ሸለቆ ለከብት ማረፊያ ይሆናል፤ ለሕዝቄ ሆኖ ለእኔ የሰጠኝ።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ይሆናል፣"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "ሳሮን"
+    },
+    {
+      "surface": "לנוה",
+      "gloss": "ለመካከር"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ለበጎች"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "የዓኮርም ሸለቆ"
+    },
+    {
+      "surface": "עכור",
+      "gloss": "ዓኮር"
+    },
+    {
+      "surface": "לרבץ",
+      "gloss": "ማረፊያ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ለከብት"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "ለሕዝቄ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ሆኖ"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "ለእኔ የሰጠኝ።"
+    }
+  ],
+  "timestamp": "2026-08-16T07:34:27.516504241Z",
+  "model": "glm-5.3"
+}

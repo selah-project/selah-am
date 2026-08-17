@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 96,
+  "translation": "ሰማያት ይደሰቱ፣ ምድርም ትገሰጽ፤ ባሕር የሚታወቅበት ሁሉ ጮክ ይላል።",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "ይደሰቱ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ትገሰጽም"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "ጮክ ይላል"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "የሚታወቅበት ሁሉም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:17.347198847Z",
+  "model": "glm-5.3"
+}

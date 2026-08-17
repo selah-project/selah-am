@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ሞሼም ⟨את⟩ መውጫዎቻቸውን በመጓዛታቸው መሠረት በያህዌህ አፍ ጻፈ፤ እነዚህም መጓዛታቸው ናቸው በመውጫዎቻቸው መሠረት።",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ጻፈ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መውጫዎቻቸውን"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "መውጫዎቻቸው"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "በመጓዛታቸው መሠረት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "እነዚህም"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "መጓዛታቸው"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "በመውጫዎቻቸው መሠረት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:30:16.355332331Z",
+  "model": "glm-5.3"
+}

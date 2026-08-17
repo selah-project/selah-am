@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 11:22",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ረሐበዓም ⟨את⟩ አቢያን የማዓኻ ልጅ ለአለቃ በወንድሞቹ መካከል ሾመው፤ እርሱን ለማንግሥነት ስለፈለገ።",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ሾመው"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "ለራስ\/ለአለቃ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ረሐበዓም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አቢያን የማዓኻ ልጅ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "አቢያን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ…ልጅ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ማዓኻ"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "ለመሪ\/ለአለቃ"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "በወንድሞቹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እርሱን…ስለፈለገ"
+    },
+    {
+      "surface": "להמליכו",
+      "gloss": "ለማንግሥነት"
+    }
+  ],
+  "timestamp": "2026-08-16T18:44:33.997286849Z",
+  "model": "glm-5.3"
+}

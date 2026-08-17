@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "ዝም አልኩ፤ በጸጥታ ተቀምጫለሁ፤ ከበጎም ቆጥቤ በሰቀልሁ፤ ሕመሜም ተነካከተ።",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "ዝም አልኩ"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "በጸጥታ"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "በሰቀልሁ"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "ከበጎ"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "ሕመሜም"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "ተነካከተ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:26.303270717Z",
+  "model": "glm-5.3"
+}

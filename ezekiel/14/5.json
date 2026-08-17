@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "የእስራኤል ቤትን ⟨את⟩ በልባቸው እያዘሁ፣ ሁሉም በጣዖታቸው ከእኔ ራሳቸውን ወስደዋልና።",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ዳሮ"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "እያዘሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእስራኤል ቤትን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "በልባቸው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ራሳቸውን ወስደዋል"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "በጣዖታቸው"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ሁሉም"
+    }
+  ],
+  "timestamp": "2026-08-16T08:27:14.632490795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "በነፍሳችሁ በእጅግ ተጠንቀቁ፤ ያህዌህ ኤሎሂምን ⟨את⟩ እንድትወዱ።",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "ተጠንቀቁ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በእጅግ"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "በነፍሳችሁ"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "እንድትወዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ ኤሎሂምን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:13:30.603800995Z",
+  "model": "glm-5.3"
+}

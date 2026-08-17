@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 11:23",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ያህዌህም ሞሼን እንዲህ አለው፤ የያህዌህ እጅ ተቀንሳለችን? አሁን ቃሌ በአንተ ይፈጸምልሃል ወይስ አይፈጸምልሃል ታያለህ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው፤"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ... እንዲህ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼን"
+    },
+    {
+      "surface": "היד",
+      "gloss": "የ... እጅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "ተቀንሳለችን?"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ታያለህ፤"
+    },
+    {
+      "surface": "היקרך",
+      "gloss": "በአንተ ይፈጸምልሃል ወይስ አይፈጸምልህ፤"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃሌ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ወይስ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይፈጸምልህ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:53:24.138348722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ዳዊትም ከሳኦል ወደ ቤት ለሄም ሄዶ ተመልሶ መንጋን ⟨את⟩ የአባቱን በጎች ያሰማል።",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ሄዶ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ተመልሶ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከ…"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "ያሰማል።"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የአባቱን በጎች"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "በጎች"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "የአባቱን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ለሄም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:42:20.905158540Z",
+  "model": "glm-5.3"
+}

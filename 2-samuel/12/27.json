@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ዮአብ መልክተኞችን ወደ ዳዊት ላከ፤ «በረባ ተዋጋለሁ፤ ደግሞም ⟨את⟩ የውሃውን ከተማ ያዘሁ» አለ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብ"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "መልክተኞችን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "ተዋጋለሁ"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "በረባ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ደግሞም"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "ያዘሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተማዋን"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማዋን"
+    },
+    {
+      "surface": "המים",
+      "gloss": "የውሃ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:02:12.972689181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "የዚህን ኪዳን ቃላት ⟨את⟩ ጠብቃችሁ አንተነታቸውን ⟨את⟩ ተግብሩ፤ የምታደርጉትን ሁሉ ⟨את⟩ ትበሰራሩ ዘንድ።",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ጠብቃችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የዚህን ኪዳን ቃላት"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "የዚህ"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ተግብሩ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "አንተነታቸውን (ቃላቱን)"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ዘንድ"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "ትበሰራሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምታደርጉትን"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ታደርጉ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:52:07.194655550Z",
+  "model": "glm-5.3"
+}

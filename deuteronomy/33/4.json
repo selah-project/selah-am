@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ኦሪት ሞሼ ያዘዘን ናት፤ የያዕቆብ ማኅበር ቅርስ ናት።",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "ኦሪት"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "ቅርስ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "የ…ማኅበር"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:56:51.760177330Z",
+  "model": "glm-5.3"
+}

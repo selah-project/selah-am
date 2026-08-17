@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 101,
+  "translation": "ዐይኖቼ የምድሪቱ ታማኞች ላይ ይሆናሉ፤ ከእኔ ጋር እንዲኖሩ — በፍጹም መንገድ የሚሄድ እርሱ ያገለግለኛል።",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ዐይኖቼ"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "በታማኞች"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "እንዲኖር"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ከእኔ ጋር"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "የሚሄድ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ፍጹም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "ያገለግለኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:28.031708523Z",
+  "model": "glm-5.3"
+}

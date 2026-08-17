@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እንኳና በእውነት ቢስለበስብኩም ስህተቴ ከእኔ ጋር ⟨את⟩ ትቀራለች።",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "እንኳና…ም"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "ቢስለበስብኩ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ከእኔ ጋር ⟨את⟩",
+      "marks": "ከእኔ ጋር"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "ትቀራለች"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "ስህተቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:49:18.269921050Z",
+  "model": "glm-5.3"
+}

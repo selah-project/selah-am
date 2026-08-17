@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እና ⟨ደረሰው⟩ ቀኑ፤ ኤልቃና መሥዋዕት ሠዋ እና ለፕኒና ሚስቱ እና ለሁሉም ልጆቿ እና ሴት ልጆቿ ድርሻዎችን ሰጠ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እና ⟨ደረሰው⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ቀኑ"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "መሥዋዕት ሠዋ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ኤልቃና"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "እና ሰጠ"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "ለፕኒና"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሚስቱ"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "እና ለሁሉም"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ልጆቿ"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "እና ሴት ልጆቿ"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "ድርሻዎችን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:31:32.732051475Z",
+  "model": "glm-5.3"
+}

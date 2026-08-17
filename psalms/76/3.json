@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 76,
+  "translation": "በሰለም ድንኳኑ ሆነ፤ መኝታውም በጽዮን ነው።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "በሰለም"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "ድንኳኑ"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "መኝታውም"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "በጽዮን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:36.794570968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "ማስተማሪያ የአሳፍ — አድምጡ ሕዝቤ ለቶራቴ እጆችናችሁን ወደ አፌ ቃላት አዙሩ።",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "ማስተማሪያ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "የአሳፍ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "አድምጡ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤ"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ለቶራቴ"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "አዙሩ"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "እጆችናችሁን"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ወደ ቃላት"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፌ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:11.265100277Z",
+  "model": "glm-5.3"
+}

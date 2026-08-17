@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 8:6",
+  "book": "amos",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ወዳጆችን በገንዘብ ለመግዛት እና ድሆችን ለጫማ እና የተረፈውን ስንቴ ለመሸጥ።",
+  "tokens": [
+    {
+      "surface": "לקנות",
+      "gloss": "ለመግዛት"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "በገንዘብ"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ወዳጆችን"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "እና ድሆችን"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "በ"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "ጫማ"
+    },
+    {
+      "surface": "ומפל",
+      "gloss": "እና የተረፈውን"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ስንቴ"
+    },
+    {
+      "surface": "נשביר",
+      "gloss": "ለመሸጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:58:58.567524550Z",
+  "model": "glm-5.3"
+}

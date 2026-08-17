@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 112,
+  "translation": "አሰራጨ፣ ለድሆች ሰጠ፤ ጽድቁ ለዘላለም ትኖራለች፤ ከርኑ በክብር ይታሸጋል።",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "አሰራጨ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "ለድሆች"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ጽድቁ"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ትኖራለች"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "ከርኑ"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ይታሸጋል"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "በክብር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:48.806726369Z",
+  "model": "glm-5.3"
+}

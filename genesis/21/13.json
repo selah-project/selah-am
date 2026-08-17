@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "እንዲሁም የከንቲባዋን ⟨את⟩ ልጅ ሕዝብ አደርገዋለሁ፤ ከብርሃ እርሱ ዘርህ ነው።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጅ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "የከንቲባዋ"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "አደርገዋለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከብርሃ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ዘርህ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:41:35.288142085Z",
+  "model": "glm-5.3"
+}

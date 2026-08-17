@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "በእሷም የነበሩትን ⟨את⟩ ሴቶች ከታናሽ እስከ ታላቅ ወሰዱ፤ አንድንም ሰው አልገደሉም፤ ወሰዷቸውም ወደ መንገዳቸው ሄዱ።",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ወሰዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሴቶችን"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ሴቶችን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የነበሩትን"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእሷም"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "ከታናሽ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ገደሉም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "አንድን ሰው"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "ወሰዷቸውም"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ሄዱ"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "ወደ መንገዳቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T05:52:03.916970616Z",
+  "model": "glm-5.3"
+}

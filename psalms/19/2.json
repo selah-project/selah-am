@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ሰማያት የኤልን ክብር ይነግራሉ፤ እና ራቁቤ ⟨את⟩ የእጁን ሥራ ያስተዋውቃል።",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "ይነግራሉ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "የኤልን"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "እና የእጁን ሥራ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "የእጁን"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "ያስተዋውቃል"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "ራቁቤ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:45.148526357Z",
+  "model": "glm-5.3"
+}

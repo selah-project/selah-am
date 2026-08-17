@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ኢያሱም እንዲህ አለ፦ የዋሻውን አፍ ክፈቱ፣ እነዚህን አምስት ነገሥታት ⟨את⟩ ከዋሻው አውጥታችሁ ወደ እኔ አምጡ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ኢያሱ"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "ክፈቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አፉን"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፍ"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "የዋሻው"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "አውጡ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አምስቱን ነገሥታት"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ነገሥታት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "ዋሻው"
+    }
+  ],
+  "timestamp": "2026-08-16T05:03:58.807406689Z",
+  "model": "glm-5.3"
+}

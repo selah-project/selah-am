@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "ጥበበኛው ሰው የሞኝን ሰው ⟨את⟩ ይፈርድበታል፤ እርሱ ይቆጣልም ይስቅም፣ ዕረፍትም የለም።",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ጥበበኛው"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "ይፈርድበታል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሞኝን ሰው"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ሞኝ"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "ይቆጣልም"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "ይስቅም"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለምም"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ዕረፍት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:35:59.950460179Z",
+  "model": "glm-5.3"
+}

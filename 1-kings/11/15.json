@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ዳዊት ከኤዶም ⟨את⟩ ጋር በነበረበት ጊዜ፣ ዮአብ የሠራዊቱ አለቃ የተገደሉትን ⟨את⟩ ለመቅበር በወጣበት፣ በኤዶም ያለውን ወንድ ሁሉ መታ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "በነበረበት ጊዜ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከኤዶም ጋር"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "በወጣበት"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "የሠራዊቱ"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "ለመቅበር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የተገደሉትን"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "የተገደሉትን"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "መታ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ወንድ"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "በኤዶም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:24:38.933296877Z",
+  "model": "glm-5.3"
+}

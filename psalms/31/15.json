@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "እኔ ግን በአንተ ተስማምቻለሁ ያህዌህ፤ አልሁ «ኤሎሂም አንተ ነህ» እኔም አመነሁ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ተስማምቻለሁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "አልሁ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ ነህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:39.758050731Z",
+  "model": "glm-5.3"
+}

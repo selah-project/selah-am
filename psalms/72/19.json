@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 72,
+  "translation": "የክብሩ ክብር ስም ለዘላለም የተባረከ ይሁን፤ ክብሩ ከምድር ሁሉ ⟨את⟩ ሙላት ይሞላል፤ አሜን፣ አሜን።",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "የተባረከ ይሁን፤"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "የክብሩ ክብር"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ይሞላል"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ክብሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድር ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "አሜን፣"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "አሜን።"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:59.315510085Z",
+  "model": "glm-5.3"
+}

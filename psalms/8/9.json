@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "የሰማይ ወፎች እና የባሕሩ ዓሦች፣ በባሕሮች መንገዶች ላይ የሚያልፉ ሁሉ።",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "ወፎች"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "የሰማይ"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "እና የዓሦች"
+    },
+    {
+      "surface": "הים",
+      "gloss": "የባሕሩ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "የሚያልፉ"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "መንገዶች"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "በባሕሮች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:29:57.024504235Z",
+  "model": "glm-5.3"
+}

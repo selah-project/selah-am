@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "መንቀጥቀጥ እዚያ ያዛቸው፤ ሕመም እንደ ወላዲቱ።",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "መንቀጥቀጥ"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "ያዛቸው፤"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ሕመም"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "እንደ ወላዲቱ።"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:30.710658721Z",
+  "model": "glm-5.3"
+}

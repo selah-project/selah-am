@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 31:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "እንደ ሙት ከልብ ተረስኩ፤ እንደ ጠፍቶ የሚጠፋ ዕቃ ሆንሁ።",
+  "tokens": [
+    {
+      "surface": "נשכחתי",
+      "gloss": "ተረስኩ"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "እንደ ሙት"
+    },
+    {
+      "surface": "מלב",
+      "gloss": "ከልብ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ሆንሁ"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "እንደ ዕቃ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ጠፍቶ የሚጠፋ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:39.757572526Z",
+  "model": "glm-5.3"
+}

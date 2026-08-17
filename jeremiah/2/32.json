@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "jeremiah 2:32",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ድንግሉ የጌጧን ትረሳለች? ሙሽራዋም ቀበቶዋን? ሕዝቤ ግን ለቁጥር የሌላቸው ቀናት ረሱኝ።",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "ትረሳለች?"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "ድንግሉ"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "የጌጧን"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ሙሽራዋም"
+    },
+    {
+      "surface": "קשריה",
+      "gloss": "ቀበቶዋን"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "ሕዝቤ ግን"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "ረሱኝ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የሌላቸው"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ለቁጥር"
+    }
+  ],
+  "timestamp": "2026-08-16T07:35:18.747096054Z",
+  "model": "glm-5.3"
+}

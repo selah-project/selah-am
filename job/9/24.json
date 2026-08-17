@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "job 9:24",
+  "book": "job",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ምድር በክፉ እጅ ተሰጠች፤ ፈራጆቿን ፊት ይሸፋዋል፤ ካልሆነ እርሱ ከሆነ፣ ወይደማ ማን ነው?",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ተሰጠች"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጅ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "ፈራጆቿን"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ይሸፋዋል"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ካልሆነ"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "ወይደማ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:44:32.114605271Z",
+  "model": "glm-5.3"
+}

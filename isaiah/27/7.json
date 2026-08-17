@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "እንደ መታዊው መታ ነው ያነካውን? ወይስ እንደ ተገደሉት መገደል ገደላቸው?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "እንደ መታዊው መታ"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "መቶት"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "ያነካውን"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ወይስ"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "እንደ ተገደሉት መገደል"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "ተገደሉት"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ገደላቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T07:08:52.495013129Z",
+  "model": "glm-5.3"
+}

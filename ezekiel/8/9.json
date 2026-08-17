@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እናም እንዲህ አለኝ፦ እተው፣ እነሆ ⟨את⟩ ክፉዎቹን ርኵሰኞች እነርሱ እየሠሩ ያሉትን እዚህ ተመልከት።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እናም አለ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "እነኝ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "እተው"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ተመልከት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክፉዎቹን ርኵሰኞች"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "ርኵሰኞችን"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "ክፉዎቹን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚሠሩትን"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እነርሱ"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "እየሠሩ ያሉትን"
+    },
+    {
+      "surface": "פה",
+      "gloss": "እዚህ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:21:10.325786094Z",
+  "model": "glm-5.3"
+}

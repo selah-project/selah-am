@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "በሰማያት አይደለችም፣ የምትሉት፦ «ማን ለእኛ ወደ ሰማይ ይወጣልና እሷን ወስዶ ለእኛ ያስማናል፣ እኛም ⟨את⟩ እናከናውናታለን?» እንጂ አይደለም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይደለችም"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "በሰማያት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እሷ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "የምትሉት"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ይወጣል"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "ወደ ሰማይ"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "እና ወስዶ እሷን"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "ያስማናል"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እናከናውናታለን (ונעשנה)"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "እናከናውናታለን"
+    }
+  ],
+  "timestamp": "2026-08-16T15:14:59.195163697Z",
+  "model": "glm-5.3"
+}

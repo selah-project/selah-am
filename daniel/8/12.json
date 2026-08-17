@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "daniel 8:12",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ሠራዊትም በድርገት በዘላቂው ላይ ተሰጠ፤ እውነትንም ወደ ምድር ወርውራ ወረወረ፤ ያደርግ ነበር፤ ተሳካም ነበር።",
+  "tokens": [
+    {
+      "surface": "וצבא",
+      "gloss": "ሠራዊትም"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "ተሰጠ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "ዘላቂው"
+    },
+    {
+      "surface": "בפשע",
+      "gloss": "በድርገት"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "ወርውራ ወረወረም"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "እውነትን"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ወደ ምድር"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "አደረገም"
+    },
+    {
+      "surface": "והצליחה",
+      "gloss": "ተሳካም"
+    }
+  ],
+  "timestamp": "2026-08-16T11:38:09.183391674Z",
+  "model": "glm-5.3"
+}

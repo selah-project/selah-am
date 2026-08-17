@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "isaiah 42:4",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "አይደክምም አይሰበርም፤ ፍርድን በምድር ላይ እስኪያደርግ ድረስ፤ እና ለቶራቱ ደሴቶች ያጠባበቃሉ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "יכהה",
+      "gloss": "ይደክማል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ...ም"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "ይሰበራል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪ... ድረስ"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ያደርጋል"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር ላይ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድን"
+    },
+    {
+      "surface": "ולתורתו",
+      "gloss": "እና ለቶራቱ"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ደሴቶች"
+    },
+    {
+      "surface": "ייחילו",
+      "gloss": "ያጠባበቃሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:21:44.981416984Z",
+  "model": "glm-5.3"
+}

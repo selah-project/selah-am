@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "እኔ ግን ደዌ፣ አላወቅኩም፤ ከአንተ ጋር እንስሳ ሆኜ ነበር።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ደዌ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ወቀ"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "እንስሳ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ሆኜ ነበር"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:05.133304497Z",
+  "model": "glm-5.3"
+}

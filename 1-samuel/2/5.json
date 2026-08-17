@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "1-samuel 2:5",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የጠገቱት ለእንቅብ ተቀጠሩ፤ የራቡት ደግሞ አቁተዋል፤ እስከ መካርቱም ሰባት ወለደች፤ ብዙ ልጆች ያሏትም ደከመች።",
+  "tokens": [
+    {
+      "surface": "שבעים",
+      "gloss": "የጠገቱት"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "ለእንቅብ"
+    },
+    {
+      "surface": "נשכרו",
+      "gloss": "ተቀጠሩ"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "እና የራቡት"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "አቁተዋል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "መካርቱ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ורבת",
+      "gloss": "እና ብዙ-ወላዶች ያሏት"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "ደከመች"
+    }
+  ],
+  "timestamp": "2026-08-16T05:30:50.401027893Z",
+  "model": "glm-5.3"
+}

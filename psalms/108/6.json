@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 108,
+  "translation": "ከሰማያት በላይ ከፍ አድርግህ ኤሎሂም፤ እና በ⟨ሙሉ⟩ ምድር ላይ ⟨ይሁን⟩ ክብርህ።",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "ከፍ አድርግህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ…ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ክብርህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:25.570875378Z",
+  "model": "glm-5.3"
+}

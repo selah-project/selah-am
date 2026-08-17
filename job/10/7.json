@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "job 10:7",
+  "book": "job",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "በዕውቀትህ እኔ አልተከሳሁም ታውቃለህ፤ ከእጅህም ⟨መንገድ⟩ የሚያድን የለም።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "דעתך",
+      "gloss": "በዕውቀትህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "አልተከሳሁም"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ከእጅህ"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "የሚያድን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:45:03.843625590Z",
+  "model": "glm-5.3"
+}

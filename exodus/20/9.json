@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ስድስት ቀናትን ታገለግላለህ እና ሥራህን ሁሉን ታደርጋለህ።",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "ስድስት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀናትን"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ታገለግላለህ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "እና ታደርጋለህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "ሥራህን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:19:45.599960352Z",
+  "model": "glm-5.3"
+}

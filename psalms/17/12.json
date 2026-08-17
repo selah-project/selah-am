@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "መሰሎ እንደ አንበሳ ለመብላት ያምናል፤ እንደ የበጎች ነብርም በስውር ስፍራዎች ተቀምጦል።",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "መሰሉ"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "እንደ አንበሳ"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "ያምናል"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "ለመብላት"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "እንደ የበጎች ነብርም"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ተቀምጦል"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "በስውር ስፍራዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:10.635909178Z",
+  "model": "glm-5.3"
+}

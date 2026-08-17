@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 94,
+  "translation": "ያህዌህ እርዳታ ለእኔ ካልነበረ፣ ትንሽ ቀርቶ ነፍሴ ጸጥታ ⟨ትኖር ነበር⟩።",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "ካልነበረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "እርዳታ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ትንሽ ቀርቶ"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "ትኖር ነበር"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "ጸጥታ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:31.109462513Z",
+  "model": "glm-5.3"
+}

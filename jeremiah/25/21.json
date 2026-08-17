@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ኤዶምን ⟨את⟩፣ ሞአብን ⟨את⟩፣ የዓሞን ልጆችንም ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤዶምን"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶምን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩…ም",
+      "marks": "ሞአብን"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞአብን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩…ም",
+      "marks": "የዓሞን ልጆችን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆችን"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "የዓሞን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:52:55.877501967Z",
+  "model": "glm-5.3"
+}

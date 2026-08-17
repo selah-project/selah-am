@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ምድር ተንቀጠቀጠችና አረገጠጠች፤ የተራሮች መሠረቶችም ተናወጡ፤ ተንቀጠቀጡም፤ በእርሱ ቍጣ ስለነበረው።",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "ተንቀጠቀጠች"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "አረገጠጠች"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "መሠረቶችም"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "የተራሮች"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "ተናወጡ"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "ተንቀጠቀጡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ቍጣ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "በእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:44.456167181Z",
+  "model": "glm-5.3"
+}

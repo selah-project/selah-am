@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ወደ ሸክላ ሠሪው ቤት ወረድሁ፤ እነሆ፣ እርሱ በአሸዋዎቹ ላይ ሥራ እየሠራ ነበር።",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "ወረድሁ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "ሸክላ ሠሪው"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "እነሆ እርሱ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "እየሠራ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "አሸዋዎቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:52:05.463989513Z",
+  "model": "glm-5.3"
+}

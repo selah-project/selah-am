@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ሌያም «እድል ደረሰኝ!» አለች፤ ⟨את⟩ ስሙንም ጋድ ብላ ጠራችው።",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "አለች"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ሌያ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "እድል ደረሰኝ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ጠራች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሙን"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:46:17.307783912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "በሜዳው አንድ የግብፅ ሰው አገኙ፤ ⟨את⟩ ወደ ዳዊት ወሰዱት፤ ዳቦ ሰጡት፤ ወደተ፤ ውሃም አጠጡት።",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "አገኙ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "የግብፅ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "በሜዳ"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ወሰዱ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ሰጡ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦ"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ወደተ"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "አጠጡት"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:50:54.536476666Z",
+  "model": "glm-5.3"
+}

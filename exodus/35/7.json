@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "እና የተቀመጡ በቀዩ የአውራ ሌላች ቆዳዎች፣ እና የተካክሉ ቆዳዎች፣ እና የሽዕባ እንጨት፤",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "እና የ... ቆዳዎች"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "የአውራ ሌላች"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "በቀዩ የተቀመጡ"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "እና ቆዳዎች"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "የተካክሉ"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "እና የ... እንጨት"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "የሽዕባ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:31:23.721871285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "በመጀመሪያው ወር፣ በወሩ አሥራ አራትኛ ቀን፣ በመሸሻዎቹ መካከል፣ የፋሣህ በዓል ለያህዌህ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "በመጀመሪያው ወር"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "መጀመሪያው"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "አሥራ አራትኛ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥራ አራት"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "በወሩ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በ…መካከል"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "መሸሻዎቹ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ፋሣህ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:58:32.823050396Z",
+  "model": "glm-5.3"
+}

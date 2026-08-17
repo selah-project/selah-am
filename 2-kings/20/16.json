@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ኢሳይያስም ወደ ይጽሐቅ «የያህዌህን ቃል ስማ» አለው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ኢሳይያስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ይጽሐቅ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ስማ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:52:40.369247096Z",
+  "model": "glm-5.3"
+}

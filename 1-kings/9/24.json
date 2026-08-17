@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "1-kings 9:24",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "የፈርዖን ሴት ልጅ ብቻ ከዳዊት ከተማ ወደ ሰሎሞን የሠራላት ቤቷ ወጣች፤ በዚያን ጊዜ ሰሎሞን ⟨את⟩ ሚሎን ሠራ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ሴት ልጅ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ወጣች"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ከከተማ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ቤቷ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሠራላት"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ላት"
+    },
+    {
+      "surface": "אז",
+      "gloss": "በዚያን ጊዜ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚሎን"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "ሚሎን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:20:58.557814541Z",
+  "model": "glm-5.3"
+}

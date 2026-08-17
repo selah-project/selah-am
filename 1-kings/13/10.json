@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "በሌላ መንገድ ሄደ፤ ወደ ቤት ኤል የገባበትን መንገድ አልተመለሰም።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ሌላ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ገባ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሷ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T06:26:07.213574307Z",
+  "model": "glm-5.3"
+}

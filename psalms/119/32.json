@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "የትእዛዞችህን ⟨መንገድ⟩ እሮጣለሁ፤ ምክንያቱም ልቤን ታስሰፋለህ።",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ትእዛዞችህ"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "እሮጣለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "ታስሰፋለህ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:59.381926602Z",
+  "model": "glm-5.3"
+}

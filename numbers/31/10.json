@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "በሚኖሩበት ስፍራ ከተሞቻቸውን ሁሉ ⟨את⟩ እና አጥራቶቻቸውን ሁሉ ⟨את⟩ በእሳት በሩ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "ከተሞቻቸውን"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "በሚኖሩበት ስፍራ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "አጥራቶቻቸውን"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "በሩ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:28:06.855105893Z",
+  "model": "glm-5.3"
+}

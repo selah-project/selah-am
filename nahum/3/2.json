@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የጅምላ ድምፅ፣ የጎማ ተንቀሳቃሽ ድምፅ፣ የሚደፋፈር ፈረስ፣ የሚዘል ሹመት ሰረገላ፤",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "ጅምላ"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "እና ድምፅ"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "ተንቀሳቃሽ"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "ጎማ"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "እና ፈረስ"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "የሚደፋፈር"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "እና ሰረገላ"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "የሚዘል\/የሚዘፈን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:14:25.188544236Z",
+  "model": "glm-5.3"
+}

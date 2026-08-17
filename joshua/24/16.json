@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ሕዝቡም መለሰ እና እንዲህ አለ — ከእኛ ላይ ይርቅ! ⟨את⟩ ያህዌህን መተውና ሌሎችን አማልክት ማገልገል።",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መለሰም"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "ይርቅ!"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ከእኛ ላይ"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "መተው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ማገልገል"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "አማልክትን"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ሌሎችን"
+    }
+  ],
+  "timestamp": "2026-08-16T15:25:20.471739915Z",
+  "model": "glm-5.3"
+}

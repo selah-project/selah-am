@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 20:7",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ጻድቅ በትክክለኝነቱ የሚራመድ ነው፤ ከእርሱ በኋላ የልጆቹ በጎዎች ናቸው።",
+  "tokens": [
+    {
+      "surface": "מתהלך",
+      "gloss": "የሚራመድ"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "በትክክለኝነቱ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቅ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "የ… በጎዎች\/ምስጉን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "የልጆቹ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ከእርሱ በኋላ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:40.990419434Z",
+  "model": "glm-5.3"
+}

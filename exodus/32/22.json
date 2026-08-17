@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "አሃሮንም እንዲህ አለ፦ «ጌታዬ አይቆጣኝ፤ ሕዝቡን ⟨את⟩ ታውቃል፣ በክፉ ውስጥ ነውና።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለም"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮንም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "ይቆጣ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ንዴት"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጌታዬ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ታውቃል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነውና"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "በክፉ ውስጥ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:31:47.151578414Z",
+  "model": "glm-5.3"
+}

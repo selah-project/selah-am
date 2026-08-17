@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "እንባዬ ዳቦ ሆነችልኝ ቀንና ሌሊት፣ በሚሉኝ ጊዜ ሁሉ፣ «ኤሎሂምህ ወዴት ⟨ነው⟩?»",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "ሆነችልኝ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ልኝ"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "እንባዬ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ና ሌሊት"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "በሚሉኝ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "እኔን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ወዴት"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:14.503725831Z",
+  "model": "glm-5.3"
+}

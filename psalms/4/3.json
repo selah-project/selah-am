@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የሰው ልጆች ሆይ፣ እስከ መቼ ክብረቱን ለውርደት ትወዳላችሁ ከንቱን ትፈልጋላችሁ ውሸትን ትሻላችሁ፧ ሴላ።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "איש",
+      "gloss": "የሰው"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "መቼ"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ክብረቱን"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "ለውርደት"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "ትወዳላችሁ"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ከንቱን"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "ትሻላችሁ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ውሸትን"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:29:03.728985024Z",
+  "model": "glm-5.3"
+}

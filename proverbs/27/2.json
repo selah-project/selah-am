@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ያመስግንህ እንጂ አንተ አፍህ አይደለም፤ የሌላው ሰው ወይም የባዕዱ ከንፈሮችህ ሳይሆን እንጂ የባዕዱ ይመስግንህ።",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "ያመስግንህ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "የሌላው"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንጂ አይደለም"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "አፍህ"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "የባዕዱ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ሳይሆን"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "ከንፈሮችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:36:57.658913546Z",
+  "model": "glm-5.3"
+}

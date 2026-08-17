@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ዳዊትም ⟨את⟩ ሕዝቡን ሁሉ አሰበ፣ ወደ ራባም ሄደ፣ በእርሷም ዋገ፣ እና ያዘት።",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "አሰበ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "ወደ ራባም"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ዋገ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሷም"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "ያዘት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:01:31.794642705Z",
+  "model": "glm-5.3"
+}

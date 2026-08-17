@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 56,
+  "translation": "ጠላቶቼ ዅሉን ቀን ሊያርቁኝ ነው፤ በውጭ ብዙዎች የሚዋጁኝ ናቸው፣ ልዑል ሆይ።",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "ሊያርቁኝ ነው"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "ጠላቶቼ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ዅሉን"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ቀኑን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በውጭ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙዎች"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "የሚዋጁኝ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "እኔን"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ልዑል ሆይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:42.680250759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 134,
+  "translation": "ያህዌህ ከጽዮን ያመስግንህ፣ ሰማያትንና ምድርን የሠራው።",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "ያመስግንህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ከጽዮን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "የሠራው"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያትን"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "እና ምድርን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:53.621500988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "በእስራኤልም ውስጥ እንደ ሞሼ ያለ ነቢይ ከዚያ በኋላ አልተነሳም፣ ያህዌህ ፊት ለፊት የወቀደው።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "קם",
+      "gloss": "ተነሳ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ነቢይ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ከዚያ በኋላ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "በእስራኤል"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "እንደ ሞሼ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ወቀደው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ፊት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:58:55.657852515Z",
+  "model": "glm-5.3"
+}

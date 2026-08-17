@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ምክንያቱም ለክፉ ⟨መጨረሻ⟩ የለውም፤ የኃጢአተኞች መብራት ይጠፋል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ይኖራል\/ይሆንም"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "መጨረሻ\/የፊት ተስፋ"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ለክፉ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "መብራት"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኃጢአተኞች"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "ይጠፋል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:34:13.863241138Z",
+  "model": "glm-5.3"
+}

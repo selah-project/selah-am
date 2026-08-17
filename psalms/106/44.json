@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "በመከራቸውም ጊዜ አየ፤ በጮኸበት ጊዜም ⟨את⟩ ጮኳቸውን ሰማ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "አየ፤"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "በመከራቸውም ጊዜ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ያቸውን"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "ሰማ፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጮኳቸውን"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "ጮኳቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:56.234413302Z",
+  "model": "glm-5.3"
+}

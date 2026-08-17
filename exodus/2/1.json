@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ከሌዊ ቤት አንድ ሰው ሄደ፤ የሌዊን ሴት ልጅም ⟨את⟩ ወሰደ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "አንድ ሰው"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ከ...ቤት"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ሌዊ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሌዊን ሴት ልጅ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ሴት ልጅ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ሌዊ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:06:46.066623756Z",
+  "model": "glm-5.3"
+}

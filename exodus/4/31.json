@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ሕዝቡም አመነ፤ ያህዌህ የእስራኤል ልጆችን ⟨את⟩ ሲጎበኝ እና መከራቸውን ⟨את⟩ ሲያይ ሰሙ፤ ራሳቸውንም አጠፉና ሰገዱ።",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "አመነ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ሰሙ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ጎበኘ\/ሲጎበኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእስራኤል ልጆችን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆችን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "እና እንደ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ያይ\/ሲያይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መከራቸውን"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "መከራቸውን"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "አጠፉ\/ራሳቸውን አጠፉ"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ሰገዱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:07:58.187328234Z",
+  "model": "glm-5.3"
+}

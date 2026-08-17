@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ከባሕር እስከ ባሕር ይቅበያበታሉ፣ ከሰሜንም እስከ ምሥራቅ ያንሳሉ፤ የያህዌህን ቃል ⟨את⟩ ለመፈለግ ይሮጡሮጣሉ፣ አይደርሱትም።",
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "ይቅበያበታሉ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ከባሕር"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "ከሰሜንም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "ምሥራቅ"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "ይሮጡሮጣሉ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ለመፈለግ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃልን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይደለምም"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "ያገኙታል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:06:56.079632318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "isaiah 42:19",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "ማን ነው ዕውር የሆነው? ከአገልጋጄ በስተቀር? ጦር የሆነውም እንደ መልአኬ እልክለዋለሁ? ማን ነው ዕውር እንደ ተሟላው? እንደ ያህዌህ አገልጋይ የሆነ ዕውር?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ዕውር"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከ...በስተቀር"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "አገልጋጄ"
+    },
+    {
+      "surface": "וחרש",
+      "gloss": "ጦርም"
+    },
+    {
+      "surface": "כמלאכי",
+      "gloss": "እንደ መልአኬ"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "እልክለዋለሁ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ዕውር"
+    },
+    {
+      "surface": "כמשלם",
+      "gloss": "እንደ ተሟላው"
+    },
+    {
+      "surface": "ועור",
+      "gloss": "ዕውርም"
+    },
+    {
+      "surface": "כעבד",
+      "gloss": "እንደ አገልጋይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:21:20.472197209Z",
+  "model": "glm-5.3"
+}

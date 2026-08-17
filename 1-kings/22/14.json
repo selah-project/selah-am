@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ሚካያሁም እንዲህ አለ፤ ያህዌህ እንደ ሕያው፣ ያህዌህ የሚናገረኝን ⟨את⟩ እኔ እናገራለሁ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "ሚካያሁ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "እንደ ሕያው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሚናገረኝን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚናገረኝ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ይናገራል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "እኔን"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እናገራለሁ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "እናገራለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:35:26.331230045Z",
+  "model": "glm-5.3"
+}

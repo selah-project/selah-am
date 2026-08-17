@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 136,
+  "translation": "ውርስ ለእስራኤል አገልጋዩ፤ ምክንያቱም ለዘለቄታው የርሱ ችሮታ ነው።",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "ውርስ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ለእስራኤል"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "አገልጋዩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘለቄታው"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "የርሱ ችሮታ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:38.869737640Z",
+  "model": "glm-5.3"
+}

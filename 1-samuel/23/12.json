@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ዳዊትም የቀዓላ አለቆች እኔን ⟨את⟩ እና ⟨את⟩ ወንድሞቼን በሳኦል እጅ ይሰጣሉ? አለ፤ ያህዌህም ይሰጣሉ አለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "ይሰጣሉ?"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "የ… አለቆች"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ቀዓላ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "እኔን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ወንድሞቼን"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ወንድሞቼን"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በ… እጅ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "ይሰጣሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:46:32.854725555Z",
+  "model": "glm-5.3"
+}

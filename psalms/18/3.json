@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ያህዌህ ደጋዬ፣ ግንቤ፣ አድናኝ፣ ኤላዬ ዓለተዬ ⟨ነው⟩፤ በእርሱ እጠላለሁ፤ መከላከያዬ እና የመዳኔ ቀንድ፣ መሸሸኛዬ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "ደጋዬ"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ግንቤ"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "አድናኝ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ኤላዬ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ዓለተዬ"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "እጠላለሁ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "መከላከያዬ"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "እና ቀንድ"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "የመዳኔ"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "መሸሸኛዬ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:30.200167880Z",
+  "model": "glm-5.3"
+}

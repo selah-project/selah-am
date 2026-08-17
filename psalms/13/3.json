@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እስከ መቼ በነፍሴ ውስጥ ምክሮችን አደርጋለሁ፧ በየቀኑ በልቤ ሀዘን፧ እስከ መቼ ጠላቴ በእኔ ላይ ይደረቅብኛል፧",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "መቼ"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "አደርጋለሁ"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "ምክሮችን"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "በነፍሴ"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "ሀዘን"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "በልቤ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "በየቀኑ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "መቼ"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "ይደረቅብኛል"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ጠላቴ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:12.117690560Z",
+  "model": "glm-5.3"
+}

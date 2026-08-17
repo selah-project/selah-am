@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "exodus 20:5",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ለእነሱ አትሰግድ፤ አትገዛቸውም፤ በምክንያቱም እኔ ያህዌህ ኤሎሂም ከንቱውን የሚጠላ ኤል ነኝ፤ የሚጠሉኝን ሦስተኛና አራተኛ ልጆች በአባቶች ዓመፅ ላይ የሚቆጣ ነው።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "ሰግድ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነሱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አትገዛቸውም"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "አገልግሎት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በምክንያቱም"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ከንቱውን የሚጠላ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "የሚቆጣ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ዓመፅ"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "አባቶች"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሦስተኛ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ…ላይ"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "አራተኛ"
+    },
+    {
+      "surface": "לשנאי",
+      "gloss": "የሚጠሉኝን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:17:15.186309918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የአዛዮቹንም ምክር — ያነጉትን — ትቶ፣ ⟨את⟩ ከእርሱ ጋር ያደጉትን ወጣቶች የቆሙትን በፊቱ አማከረ።",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "ትቶ፣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምክሩን"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ምክር"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "የአዛዮቹንም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "ያነጉትን"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "አማከረ፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወጣቶችን"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ወጣቶች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ያደጉትን"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ከእርሱ ጋር"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "የቆሙትን"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "በፊቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:45:17.472959657Z",
+  "model": "glm-5.3"
+}

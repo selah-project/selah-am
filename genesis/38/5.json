@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "እናም በድጋሚ በመጨመር ልጅ ወለደች፤ ስሙንም ሸላን ብላ ጠራች፤ እርሷም በኪዚብ እርሷ ልጁን ⟨אתו⟩ በወለደችበት ጊዜ ⟨ነበረው።",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "በመጨመር"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "በድጋሚ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ጠራች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሙን"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "ሸላን"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ነበረው"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "በኪዚብ"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "በወለደችበት ጊዜ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ልጁን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:55:30.387461234Z",
+  "model": "glm-5.3"
+}

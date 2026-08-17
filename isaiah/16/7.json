@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 16:7",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ስለዚህ ሞአብ ያለቅሳል፤ ለሞአብ ሙሉ ሞአብ ያለቅሳል፤ የቂር-ሐሬስቴ አጫጭሚዎችን ታሙራላችሁ፤ በእውነት ተደበደባችሁ።",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "ያለቅሳል"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞአብ"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "ለሞአብ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ሙሉ"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "ያለቅሳል"
+    },
+    {
+      "surface": "לאשישי",
+      "gloss": "አጫጭሚዎችን"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "ቂር"
+    },
+    {
+      "surface": "חרשת",
+      "gloss": "ሐሬስቴ"
+    },
+    {
+      "surface": "תהגו",
+      "gloss": "ታሙራላችሁ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "נכאים",
+      "gloss": "ተደበደባችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:52:17.262630482Z",
+  "model": "glm-5.3"
+}

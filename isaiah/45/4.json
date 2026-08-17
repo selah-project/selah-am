@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "ስለ አገልጋጄ ስለ ያዕቆብ እና ስለ ተመራጄ ስለ እስራኤል በስምህ ጠርቼሃለሁ፤ ተሰይምሃለሁ፤ አንተ ግን አልወቀዝኝም።",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "አገልጋጄ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "እና…እስራኤል"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "ተመራጄ"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "ጠርቼሃለሁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "በስምህ"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "ተሰይምሃለሁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "ወቀዝኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:24:12.101422762Z",
+  "model": "glm-5.3"
+}

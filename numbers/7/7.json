@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ሁለቱን ጋሪዎች እና ⟨את⟩ አራቱን ከብቶች ለጌርሶን ልጆች በአገልግሎታቸው መጠን ሰጠ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁለቱን ጋሪዎች"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ሁለቱን"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "ጋሪዎች"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "አራቱን ከብቶች"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "አራቱን"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ከብቶች"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለ…ልጆች"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ጌርሶን"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "በ…መጠን"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "አገልግሎታቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T04:07:42.965477106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "በጭንቀታቸው ወደ ያህዌህ ጮኩ፤ ከመከራዎቻቸውም አድናቸው።",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "ጮኩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "በጭንቀታቸው"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ላቸው"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "ከመከራዎቻቸውም"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "አድናቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:46.628213154Z",
+  "model": "glm-5.3"
+}

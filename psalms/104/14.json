@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 104,
+  "translation": "ለእንስሳት ሣር ያበቅላል፣ ለሰውም ሥራ እጽዋት፣ ከምድር ዳቦ ማውጣት ይችል ዘንድ።",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "ያበቅላል፤"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ሣር"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "ለእንስሳት"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "እና እጽዋትን"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "ለሥራ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ማውጣት ይችል ዘንድ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:48.183765213Z",
+  "model": "glm-5.3"
+}

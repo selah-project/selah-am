@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የሴራ የተባለችም ሴት ልጅ ነበረች፤ እርሷም የታችኛውን ⟨את⟩ ቤት-ሖሮን፣ ⟨את⟩ የላዕላዊውን ቤት-ሖሮንም እንዲሁም ⟨את⟩ ኡዘን-ሴራን ሠራች።",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "ሴት ልጁ"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "የሴራ የተባለች"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "ሠራች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የታችኛውን ቤት-ሖሮን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "ሖሮን"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "የታችኛው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የላዕላዊውን ቤት-ሖሮን"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "የላዕላዊው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኡዘን-ሴራን"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ኡዘን"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "ሴራ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:41:33.185288753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ካህኑ ⟨את⟩ ብልሹን ያያል፤ ⟨את⟩ ብልሹን ሰባት ቀን ይዘጋዋል።",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ያያል"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብልሹን"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ብልሹን"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ይዘጋዋል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብልሹን"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ብልሹን"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀን"
+    }
+  ],
+  "timestamp": "2026-08-16T19:11:52.519655149Z",
+  "model": "glm-5.3"
+}

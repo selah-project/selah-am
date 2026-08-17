@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 34:18",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ጻፊው ሻፋን ለንጉሡ እንዲህ አለው፤ ካህኑ ሕልቅያሁ መጽሐፍ ሰጠኝ፤ ሻፋንም በንጉሡ ፊት ከእርሱ አነበበ።",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "ሻፋን"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "ጻፊው"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ለንጉሡ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "መጽሐፍ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "ሕልቅያሁ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "አነበበ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ከእርሱ"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "ሻፋን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:56:40.419884063Z",
+  "model": "glm-5.3"
+}

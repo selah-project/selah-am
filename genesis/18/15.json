@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ሣራም እንዲህ ብላ አለች፤ እምነት ስለሌላት አልስቅቅም አለች፤ ያህዌህ አዶናይ ግን አይደለም እንጂ ስቀሃል።",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "ምንም አልስቅቅም አለችም"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ሣራ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብላ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "ስቅቅም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "እምነት ስለሌላት"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንጂ"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "ስቀሃል"
+    }
+  ],
+  "timestamp": "2026-08-16T02:38:12.674790139Z",
+  "model": "glm-5.3"
+}

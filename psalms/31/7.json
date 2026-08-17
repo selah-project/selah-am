@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ከአውዳሴ ነገሮች የሚጠብቁትን በጠላሁ፤ እኔ ግን በያህዌህ ተስፋ አደርጋለሁ።",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "በጠላሁ"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "የሚጠብቁትን"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "ከአውዳሴ ነገሮች"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ውድሽ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ተስፋ አደርጓለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:37:12.287293794Z",
+  "model": "glm-5.3"
+}

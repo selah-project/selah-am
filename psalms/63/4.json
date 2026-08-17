@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 63,
+  "translation": "ምክንያቱም ሞገስህ ከሕይወት ይሻላል፤ ከንፈሮቼ ያመሰግኑሃሉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ይሻላል"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ሞገስህ"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "ከሕይወት"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ከንፈሮቼ"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "ያመሰግኑሃሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:45.729539120Z",
+  "model": "glm-5.3"
+}

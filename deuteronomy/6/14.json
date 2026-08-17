@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ከእነርሱም በኋላ አትሂዱ፦ ከዙሪያችሁ ካሉት ሕዝቦች አማልክት ከሆኑ ሌላ አማልክት ተከተሉ አትበሉ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አትብሉ"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "አትሂዱ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከእነርሱም በኋላ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "አማልክት"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ሌላ"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "ከ…አማልክት"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆኑ"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "ዙሪያችሁ ያሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:35:54.072863446Z",
+  "model": "glm-5.3"
+}

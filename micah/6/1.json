@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ስሙ አሁን ⟨את⟩ ያህዌህ የሚናገረውን፤ ተነሣ ከተራሮች ጋር ክርክር፣ እና ኮረብታዎችም ድምፅህን ይስሙ።",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ የሚናገረውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚናገረውን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ይናገራል"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ተነሣ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ክርክር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ከ…ጋር"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ተራሮች"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "እና…ይስሙ"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ኮረብታዎችም"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ድምፅህን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:02:10.517867104Z",
+  "model": "glm-5.3"
+}

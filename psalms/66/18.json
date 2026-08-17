@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 66,
+  "translation": "ኀጢአት በልቤ እንደ አየሁኋት ከሆነ አዶናይ አይሰማኝም።",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "ኀጢአት"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "እንደ አየሁኋት"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "በልቤ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ይሰማ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:31.877126037Z",
+  "model": "glm-5.3"
+}

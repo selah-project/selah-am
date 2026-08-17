@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "በየሩሳሌምና በብንያምም የተገኙትን ሁሉ አቆማቸው፤ የየሩሳሌም ነዋሪዎችም እንደ አባቶቻቸው አምላክ የኤሎሂም ኪዳን አደረጉ።",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "አቆማቸው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "የተገኙትን"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "በየሩሳሌም"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "በብንያምም"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "አደረጉ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ነዋሪዎች"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የየሩሳሌም"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "እንደ ኪዳን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "የአምላክ"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "አባቶቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T19:02:38.858193661Z",
+  "model": "glm-5.3"
+}

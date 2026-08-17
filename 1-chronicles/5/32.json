@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ዑዚም ዘራህያን ⟨את⟩ ወለደ፤ ዘራህያምም ምራዮትን ⟨את⟩ ወለደ።",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "ዑዚም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዘራህያን"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "ዘራህያ"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "ዘራህያም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምራዮትን"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "ምራዮት"
+    }
+  ],
+  "timestamp": "2026-08-16T12:38:48.519658937Z",
+  "model": "glm-5.3"
+}

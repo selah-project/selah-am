@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 43,
+  "ref": "2-samuel 22:43",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እንደ ምድር አፈር አርቀኋቸው፤ እንደ መንገድ ጭቃ አራምዳቸው አወረድኋቸው።",
+  "tokens": [
+    {
+      "surface": "ואשחקם",
+      "gloss": "አርቀኋቸው"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "እንደ አፈር"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "እንደ ጭቃ"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "אדקם",
+      "gloss": "አራምዳቸው"
+    },
+    {
+      "surface": "ארקעם",
+      "gloss": "አወረድኋቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T06:11:24.948152496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "በትጉህታዎች ስለ ኃጢአት ሰውን ታስተምረዋለህ፤ እንደ ቅማል ውድ ዕቃውን ታሠርሰዋለህ፤ በእውነት ሰው ሁሉ ከረገድ ነው። ሴላ።",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "በትጉህታዎች"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ኃጢአት"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "ታስተምረዋለህ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰውን"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "ታሠርሰዋለህ"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "እንደ ቅማል"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "ውድ ዕቃውን"
+    },
+    {
+      "surface": "אך",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ከረገድ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:23.027335140Z",
+  "model": "glm-5.3"
+}

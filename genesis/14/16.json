@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "መንቀሪቱን ሁሉ ⟨את⟩ መለሰ፤ እንዲሁም ወንድሙን ሎጥን ⟨את⟩ ከመንቀሪቱ ጋር መለሰ፤ እንዲሁም ሴቶቹን ⟨את⟩ ሕዝቡንም ⟨ו᰼את⟩ መለሰ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "መለሰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንቀሪቱን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "መንቀሪቱን"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሎጥን"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ሎጥን"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሙን"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "መንቀሪቱ ጋር"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "መለሰ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሴቶቹን"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ሴቶቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ו᰼את⟩",
+      "marks": "ሕዝቡንም"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡንም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:36:06.265164198Z",
+  "model": "glm-5.3"
+}

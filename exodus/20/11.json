@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "exodus 20:11",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "በስድስት ቀናት ያህዌህ ⟨את⟩ ሰማያትን እና ⟨את⟩ ምድርን፣ ⟨את⟩ ባሕሩን እና ⟨את⟩ በእነሱ ውስጥ ያለውን ሁሉ ሠራ፤ በሰባተኛውም ቀን ዐረፈ፤ ስለዚህ ያህዌህ ⟨את⟩ የሻባቱን ቀን ባረከው እና ቀደሰው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በ"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ስድስት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰማያትን"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያትን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ምድርን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ባሕሩን"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሩን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለውን"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በእነሱ ውስጥ"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "ዐረፈ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀኑም"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ሰባተኛው"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ባረከ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሻባቱን ቀን"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "የሻባት"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "እና ቀደሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:19:45.600620414Z",
+  "model": "glm-5.3"
+}

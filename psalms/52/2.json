@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 52,
+  "translation": "ዶኤግ ኤዶማዊው በመጣ ጊዜ ለሳኦል አወራ፤ «ዳዊት ወደ አኪሜሌክ ቤት መጣ» አለው።",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "በመጣ ጊዜ"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "ዶኤግ"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "ኤዶማዊው"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "አወራ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ለሳኦል"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "እሱን"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "አኪሜሌክ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:53.982574529Z",
+  "model": "glm-5.3"
+}

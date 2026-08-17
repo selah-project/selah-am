@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "1-kings 10:18",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ንጉሡም ትልቅ የዝሆን ጥርስ ዙፋን ሠራ፤ ንጹህ ወርቅም እሱን አከበረው።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ሠራም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ዙፋን"
+    },
+    {
+      "surface": "שן",
+      "gloss": "የዝሆን ጥርስ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ትልቅ"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "አከበረውም"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቅ"
+    },
+    {
+      "surface": "מופז",
+      "gloss": "ንጹህ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:23:15.189383601Z",
+  "model": "glm-5.3"
+}

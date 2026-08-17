@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 94,
+  "translation": "ያፈሳሉ፣ የደፋር ነገር ይናገራሉ፤ ክፉ የሚሠሩት ሁሉ ይኮራሉ።",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "ያፈሳሉ"
+    },
+    {
+      "surface": "᙮דברו",
+      "gloss": "ይናገራሉ"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "የደፋር"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "ይኮራሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "የሚሠሩት\/ሠሪዎች"
+    },
+    {
+      "surface": "און",
+      "gloss": "ክፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:54.835907169Z",
+  "model": "glm-5.3"
+}

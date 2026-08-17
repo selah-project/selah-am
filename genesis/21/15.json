@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ከቆዳው ውሃውም አልቆ ነበር፤ እርሷም ⟨את⟩ ልጁን ከቁጥቆች አንዱ በታች ጣለች።",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "አልቆ ነበር"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውሃው"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "ቆዳው"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "ጣለች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጁን"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ልጁን"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በታች"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንዱ"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "የቁጥቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:41:35.288553902Z",
+  "model": "glm-5.3"
+}

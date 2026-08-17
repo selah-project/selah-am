@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "genesis 48:14",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "እስራኤልም ቀኙን ⟨את⟩ ዘረጋ በኤፍሬም ራስ ላይ አኖረው፤ ⟨ርሱም⟩ ታናሹ ነው፤ ግራውንም ⟨את⟩ በምናሴ ራስ ላይ አኖረ፤ እጆቹንም ⟨את⟩ በአዋቂነት መራ፤ ምክንያቱም ምናሴ በኵር ነው።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ዘረጋም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቀኙን"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ቀኙን"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "አኖረውም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍሬም"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "⟨ርሱም⟩"
+    },
+    {
+      "surface": "הצעיר",
+      "gloss": "ታናሹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ግራውንም"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "ግራውንም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሴ"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "በአዋቂነት መራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጆቹንም"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "እጆቹንም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሴ"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "በኵር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:03:53.199546774Z",
+  "model": "glm-5.3"
+}

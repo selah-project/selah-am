@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እኔም አይቻለሁ፣ ጥበብ ከሞኝነት በላይ ትርፍ እንዳላት፣ እንደ ብርሃን በጨለማ ላይ ያለው ትርፍ።",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "አይቻለሁም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "እንዳላት"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ትርፍ"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "ሞኝነት"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "እንደ ትርፍ"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ጨለማ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:14:37.544772342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "genesis 21:14",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "አብርሃምም ማለዳ በጠዋት ተነሣ፣ ዳቦና የውሃ ቆዳ ወሰደ፣ ለሀጋር ሰጠ፣ በትከሻዋ ላይ አኖረ፣ እና ⟨את⟩ ልጁን፣ ላከች፤ እርሷም ሄደች በበአርሸበዓ ምድረ በዳ ተሳተ።",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ተነሣ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃም"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "በጠዋት"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦ"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "እና ቆዳ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ሀጋር"
+    },
+    {
+      "surface": "שם",
+      "gloss": "አኖረ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "ትከሻዋ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ልጁን"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ልጁን"
+    },
+    {
+      "surface": "וישלחה",
+      "gloss": "ላከች"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ሄደች"
+    },
+    {
+      "surface": "ותתע",
+      "gloss": "ተሳተ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በምድረ በዳ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "በአር"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸበዓ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:41:35.288391574Z",
+  "model": "glm-5.3"
+}

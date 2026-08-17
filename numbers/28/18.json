@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "በአንደኛው ቀን የተቀደሰ ማሰባሰብ ይሁን፤ ምንም የዋና ሥራ አትሥሩ።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "በአንደኛው"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "ማሰባሰብ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "የተቀደሰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "የዋና ሥራ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "የጉልበት ሥራ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ሥሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:26:18.310033571Z",
+  "model": "glm-5.3"
+}

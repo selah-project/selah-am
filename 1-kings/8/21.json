@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እና ለሳንዲቅ ለኤሎሂም ኪዳን በያህዌህ ከአባቶቻችን ጋር የቈረጠው በማውጣቸው ጊዜ ⟨את⟩ እነሱ ከግብፅ ምድር በሚገኝበት ቦታ እዚያ አዘጋጅቻለሁ።",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "አዘጋጅቻለሁና"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "ለሳንዲቅ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "በሚገኝበት"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "የቈረጠው"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "አባቶቻችን"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "በማውጣቸው"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱ (ከግብፅ ምድር)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፅ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:22:32.912702864Z",
+  "model": "glm-5.3"
+}

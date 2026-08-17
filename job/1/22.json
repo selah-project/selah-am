@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "job 1:22",
+  "book": "job",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "በዚህ ሁሉ ውስጥ ኢዮብ አልበደለም፣ ለኤሎሂምም ሞኝነትን አልሰጠም።",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "በ…ሁሉ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "በደለ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኢዮብ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…ም አል…ም"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ሞኝነትን"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ለኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:39:03.631832159Z",
+  "model": "glm-5.3"
+}

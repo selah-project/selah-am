@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "በምድር ሁሉ መስመራቸው ወጥቷል፣ በዓለምም ዳር ቃላቸው ⟨ናቸው⟩፤ ለፀሐይ በእነሱ ውስጥ ድንኳን አድርጓል።",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "በ…ሁሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ወጥቷል"
+    },
+    {
+      "surface": "קום",
+      "gloss": "መስመራቸው"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "እና በ…ዳር"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ዓለም"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "ቃላቸው"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "ለፀሐይ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "አድርጓል"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "በእነሱ ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:44.914422482Z",
+  "model": "glm-5.3"
+}

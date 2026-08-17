@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ከፊታቸው አትፍራ፤ ምክንያቱም ⟨את⟩ ከአንተ ጋር እኔ አለሁ — እንድያዝህ፤ የያህዌህ ንግግር ነው።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ትፍራ"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ከፊታቸው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ከአንተ ጋር"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "እንድያዝህ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ንግግር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:35:03.047689959Z",
+  "model": "glm-5.3"
+}

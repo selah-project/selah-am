@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ያህዌህን አምላክህን በመላው ልብህ፣ በመላው ነፍስህ፣ በመላው ኃይልህ ታስቀድማለህ ⟨את⟩ ትወዳለህ።",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "ትወዳለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "አምላክህን"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በመላው"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ልብህ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "በመላውም"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ነፍስህ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "በመላውም"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "ኃይልህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:35:08.863574270Z",
+  "model": "glm-5.3"
+}

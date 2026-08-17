@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ከንዝረቱም በኋላ እሳት ነበረ፤ ያህዌህ ግን በእሳቱ አልነበረም፤ ከእሳቱም በኋላ የቀስቀሽ ድምጽ፣ ዝምታ ድምጽ ተሰማ።",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ከ…በኋላ"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "ከንዝረቱ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳቱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ከ…በኋላ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ከእሳቱ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምጽ"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "ዝምታ"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "ቀስቀሽ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:32:15.040084068Z",
+  "model": "glm-5.3"
+}

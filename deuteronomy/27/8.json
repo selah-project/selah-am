@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "በድንጋዮቹ ላይም ⟨את⟩ የ⟨the⟩ ትእዛዝ ይህችዋን ቃላት ሁሉ በግልጽ ጻፍ።",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "ታጽፋለህም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ድንጋዮቹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላት ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "የትእዛዝ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህችዋን"
+    },
+    {
+      "surface": "באר",
+      "gloss": "በግልጽ ጻፍ"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "በደንብ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:50:13.952280651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "1-chronicles 20:5",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እንደገና ⟨את⟩ ፍልስጤምን ጦርነት ሆነ፤ ያዕይር ልጅ ኤልሐናን ጋትዊው ጎልያት ወንድም የሆነውን ላሕሚን ⟨את⟩ መታ፤ የእርሱ የእስከት እንጨት እንደ ተራራቢዎች መልበሪያ ዘንግ ነበረ።",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "እንደገና"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ጦርነት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍልስጤምን"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤምን"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "መታ"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "ኤልሐናን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "ያዕይር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ላሕሚን"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ላሕሚን"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ወንድም"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "ጎልያት"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "ጋትዊው"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "የእንጨት"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "እስከቱ"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "እንደ መልበሪያ ዘንግ"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "ተራራቢዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T13:06:31.583365954Z",
+  "model": "glm-5.3"
+}

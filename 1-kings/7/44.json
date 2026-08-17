@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እና ⟨את⟩ ባሕሩን አንዱ፣ እና ⟨את⟩ ከብቶችን አሥራ ሁለት፣ በባሕሩ በታች።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ባሕሩን"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሩን"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "አንዱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ከብቶችን"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ከብቶችን"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ…በታች"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:17:28.793468821Z",
+  "model": "glm-5.3"
+}

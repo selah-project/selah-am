@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 97,
+  "translation": "ጽዮን ሰማችና ደሰተች፤ የይሁዳ ሴቶች በፍርድህ ስለ ደሰቱ፣ ያህዌህ ሆይ።",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "ሰማች"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "እና ደሰተች"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "እና ተደሰቱ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ሴቶች የ…"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ፍርድህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:38.726291634Z",
+  "model": "glm-5.3"
+}

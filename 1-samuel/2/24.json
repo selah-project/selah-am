@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 2:24",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "አትሥሩ ልጆቼ ሆይ፤ የምሰማው ዜና መልካም አይደለም፤ የያህዌህን ሕዝብ እያሳለፈ ነው።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆቼ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "השמעה",
+      "gloss": "የሚሰማው ዜና"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰማሁ"
+    },
+    {
+      "surface": "מעברים",
+      "gloss": "እያሳለፈ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:40:23.331868483Z",
+  "model": "glm-5.3"
+}

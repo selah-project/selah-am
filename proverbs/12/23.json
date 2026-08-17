@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "proverbs 12:23",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ብልሃት ያለው ሰው እውቀትን ይሰውራል፤ የሞኞች ልብ ግን ሞኝነትን ይጮኃል።",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ብልሃት ያለው"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ይሰውራል"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "እውቀትን"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ልብ ግን"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "የሞኞች"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ይጮኃል"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ሞኝነትን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:25:54.606347392Z",
+  "model": "glm-5.3"
+}

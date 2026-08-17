@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ኤሳውም ወደ መገናኘቱ ሮጠ፤ ደረበውም በአንገቱ ላይ ወደቀ፣ መሳለቀውም፤ አለቀሱም።",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "ሮጠ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ኤሳውም"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ወደ መገናኘቱ"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "ደረበውም"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ወደቀ፣"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "በአንገቱ"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "መሳለቀውም"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "አለቀሱም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:49:16.547327841Z",
+  "model": "glm-5.3"
+}

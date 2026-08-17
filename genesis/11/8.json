@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ያህዌህም ⟨את⟩ ⟨እነሱን⟩ ከዚያ በምድር ፊት ሁሉ ላይ በከፋፋቸው፤ ከተማዋን መገንባትም አቁመዋል።",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "በከፋፋቸው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ከዚያ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "አቁመዋል"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "መገንባትን"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:35:08.330463668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "አክአብም ለኢዜበል ኤሊያስ የሠራውን ⟨את⟩ ሁሉ እና ነቢያትን ⟨את⟩ ሁሉ በሰይፍ የገደለውን ⟨את⟩ ሁሉ ነገራት።",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ነገራት"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "አክአብም"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "ለኢዜበል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሠራውን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "የሠራውን"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤሊያስ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የገደለውን"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "የገደለውን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ነቢያትን"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "በሰይፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:48:46.296940550Z",
+  "model": "glm-5.3"
+}

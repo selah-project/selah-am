@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እነርሱም ለእነርሱ በይሁዳ ምድር ⟨את⟩ ከብሮንን እና ⟨את⟩ ከበራቢያውን ሰጡ።",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ሰጡ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነርሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከብሮን"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ከብሮን"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ו⟨את⟩",
+      "marks": "ከበራቢያው"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ከበራቢያው"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "ዙሪያው"
+    }
+  ],
+  "timestamp": "2026-08-16T12:40:17.036221395Z",
+  "model": "glm-5.3"
+}

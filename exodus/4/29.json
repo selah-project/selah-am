@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ሞሼ እና አሃሮን ሄዱ፣ የእስራኤል ልጆችን ሽማግሌዎች ሁሉን ⟨את⟩ ሰበሰቡ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄደዋል"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "እና አሃሮን"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ሰበሰቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሽማግሌዎችን ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ሽማግሌዎችን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆችን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:07:58.186792696Z",
+  "model": "glm-5.3"
+}

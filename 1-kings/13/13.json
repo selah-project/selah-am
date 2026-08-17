@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "1-kings 13:13",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ለወንዶቹ ልጆችም እንዲህ አለ፤ «አህያዬን ስለግሣኝ»፤ አህያዬንም ሰሉለት፤ እርሷንም ወጣ ብሎ ተቀመጠባት።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ልጆቹ"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "ስለግሡ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "አህያዬን"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "ሰሉም"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "አህያዬን"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "ወጣ ብሎ ተቀመጠ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሷ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:26:48.070916676Z",
+  "model": "glm-5.3"
+}

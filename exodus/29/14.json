@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "የበሬውን ሥጋ ⟨את⟩ ቆዳውን ⟨את⟩ እና ፍሪሱን ⟨את⟩ በሰፈሩ ውጭ በእሳት ታቃጥለዋለህ፤ መሥዋዕተ ኃጢአት ነው።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሥጋውን"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "የበሬው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ቆዳውን"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "ቆዳው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ፍሪሱን"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "ፍሪሱ"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "ታቃጥለዋለህ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "በውጭ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ለሰፈሩ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "መሥዋዕተ ኃጢአት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:28:46.508116169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 49,
+  "ref": "1-chronicles 6:49",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የእስራኤል ልጆች ለሌዋውያን ⟨את⟩ ከተሞችን እና ⟨את⟩ የከተሞቹን መግቻዎች ሰጡ።",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ሰጡ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ለሌዋውያን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተሞችን"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ከተሞችን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የከተሞቹን መግቻዎች"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "የከተሞቹን መግቻዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T12:42:11.208289238Z",
+  "model": "glm-5.3"
+}

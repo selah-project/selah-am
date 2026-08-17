@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እኔ ግን በምሕረትህ ታመንሁ፤ ልቤ በመዳናትህ ይደለጋል፤ ለያህዌህ እዘምራለሁ፤ በላዬ ላይ በጎ አድርጎኛልኝ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "በምሕረትህ"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ታመንሁ"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "ይደለጋል"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "በመዳናትህ"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "እዘምራለሁ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በኩር"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "በጎ አድርጎ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በላዬ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:00.179750183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "joshua 3:5",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የሆሽዕ ሕዝቡን እንዲህ አለ፦ ብቁ ቅዱሳን ሁኑ፤ ላኅር በእናንተ መካከል ያህዌህ ድንቆችን ያደርጋልና።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሽዕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ፦"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "ብቁ ቅዱሳን ሁኑ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ፦"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ላኅር"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ያደርጋል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "በእናንተ መካከል"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ድንቆችን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:58:35.924880789Z",
+  "model": "glm-5.3"
+}

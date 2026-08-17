@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "የወፍታው ምኞት ይገድለዋል፤ ምክንያቱም እጆቹ ለመሥራት ከለከሉ።",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "ምኞት"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ወፍታ"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "ይገድለዋል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ከለከሉ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "እጆቹ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ለመሥራት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:31:54.240726902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 3:11",
+  "book": "amos",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ስለዚህ እንዲህ አለ አዶናይ ያህዌህ፦ ጠላት ⟨በ⟩ምድሩን ዙሪያ ይከብባታል፣ ኃይልህን ከአንተ ያወርዳል፣ ቤተ መንግሥቶችህም ይበዘበዛሉ።",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ጠላት"
+    },
+    {
+      "surface": "וסביב",
+      "gloss": "ዙሪያ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩን"
+    },
+    {
+      "surface": "והורד",
+      "gloss": "ያወርዳል"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ከአንተ"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ኃይልህን"
+    },
+    {
+      "surface": "ונבזו",
+      "gloss": "ይበዘበዛሉ"
+    },
+    {
+      "surface": "ארמנותיך",
+      "gloss": "ቤተ መንግሥቶችህ"
+    }
+  ],
+  "timestamp": "2026-08-17T10:15:08.800986331Z",
+  "model": "glm-5.3"
+}

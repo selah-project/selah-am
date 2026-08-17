@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "በሕዝብህ መካከል እንደ አስመሳይ አትሄድ፤ በደሙም ላይ አትቁም፤ እኔ ያህዌህ ነኝ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ትሄድም"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "እንደ አስመሳይ"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "በሕዝብህ መካከል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ትቁምም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ደሙ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "የጓደኛህ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:56:11.703124332Z",
+  "model": "glm-5.3"
+}

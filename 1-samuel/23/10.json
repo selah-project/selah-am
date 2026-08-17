@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ዳዊትም ያህዌህ የእስራኤል ኤሎሂም ሆይ፣ የአንተ አገልጋይ ሰምቶ አውቋል፤ ሳኦል ስለ እኔ ከተማዋን ለማጥፋት ወደ ቀዓላ ለመግባት እየፈለገ ነው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "የ… ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "መስማት"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምቶ አውቋል"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "የአንተ አገልጋይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "እየፈለገ ነው"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ለመግባት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ቀዓላ"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "ለማጥፋት"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ከተማዋን"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "ስለ እኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:46:32.854289442Z",
+  "model": "glm-5.3"
+}

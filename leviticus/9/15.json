@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "የሕዝቡን ⟨את⟩ መባ አቀረበ፤ የሕዝቡ የሆነውን ⟨את⟩ የኃጢአት ፍየል ወሰደ፤ በላዩ፤ እንደ አራመደው ኃጢአት አደረገው።",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "አቀረበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መባ"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "መባ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍየል"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ፍየል"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "የኃጢአት መስዋዕት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነው"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ለሕዝብ"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "በላዩ"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "ኃጢአት አደረገው"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "እንደ አራመደው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:47:49.152565098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "በወረርሽኙም የሞቱት አራት እና ሃያ ሺህ ኾኑ።",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ኾኑ"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "የሞቱት"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "በወረርሽኙም"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "አራት"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "እና ሃያ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:23:03.910008833Z",
+  "model": "glm-5.3"
+}

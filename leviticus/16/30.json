@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "በዚህ ቀን ያህዌህ ለእናንተ ይበቅዳል፤ ⟨את⟩ እናንተን ከሁሉም ኃጢያታችሁ ማንጻት ነው፤ በያህዌህ ፊት ትነጻላችሁ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ…ስለዚህ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በ…ቀን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ያበቅዳል"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ለእናንተ"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "ለማንጻት"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉም"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "ኃጢያታችሁ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ…ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "ትነጻላችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:55:25.597486076Z",
+  "model": "glm-5.3"
+}

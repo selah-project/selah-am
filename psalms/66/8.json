@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 66,
+  "translation": "ሕዝቦች ሆይ ኤሎሂማችንን አመስግኑ፤ የምስገባን ድምፅ ያሰሙ።",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "አመስግኑ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝቦች ሆይ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂማችንን"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "ያሰሙ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "የምስገባን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:00.319443768Z",
+  "model": "glm-5.3"
+}

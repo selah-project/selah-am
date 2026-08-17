@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "በመንፈስህ ለመቆጣት አትቸነፍስ፤ በእርግጥ ቍጣ በሞኞች ልብ ያርፋል።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "ትቸነፍስ"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "በመንፈስህ"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "ለመቆጣት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእርግጥ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ቍጣ"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "በልብ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ሞኞች"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ያርፋል"
+    }
+  ],
+  "timestamp": "2026-08-16T11:15:31.728016440Z",
+  "model": "glm-5.3"
+}

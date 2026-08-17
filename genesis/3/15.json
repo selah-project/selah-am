@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "«በአንተና በሴቲቱ መካከል፣ በዘርህና በዘሯ መካከል ጠብ አደርጋለሁ፤ እርሱ ራስህን ይሰብርሃል፣ አንተም አረንጓዴውን ትሰብረዋለህ።»",
+  "tokens": [
+    {
+      "surface": "ואיבה",
+      "gloss": "ጠብ"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "አደርጋለሁ"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እና በ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሴቲቱ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እና በ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ዘርህ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እና በ"
+    },
+    {
+      "surface": "זרעה",
+      "gloss": "ዘሯ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "ישופך",
+      "gloss": "ይሰብርሃል"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "አንተም"
+    },
+    {
+      "surface": "תשופנו",
+      "gloss": "ትሰብረዋለህ"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "አረንጓዴ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:30:34.747478080Z",
+  "model": "glm-5.3"
+}

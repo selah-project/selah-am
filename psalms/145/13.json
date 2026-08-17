@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 145,
+  "translation": "መንግሥትህ የሁሉም ዘመናት ⟨ነው⟩ መንግሥት፤ እና አገዛዝህ በሁሉም ትውልድ እና ትውልድ ⟨ይቆያል⟩።",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "መንግሥትህ"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "መንግሥት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "ዘመናት"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "እና አገዛዝህ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉም"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ትውልድ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "እና ትውልድ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:43.720794038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ያህዌህ ላችሁ ይዋጋል፤ እናንተም ትፈጽሙታል።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "ይዋጋል"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ላችሁ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "እናንተም"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "ትፈጽሙታል"
+    }
+  ],
+  "timestamp": "2026-08-16T19:08:36.662355077Z",
+  "model": "glm-5.3"
+}

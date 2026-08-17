@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ጠላትህ በራበ ከሆነ ለብራት እገበው፤ እና ተጠማ ከሆነ ውሃ አጠጣው።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "በራበ"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "የሚጠልህ"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "እገበው"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ለብራት"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "እና ከሆነ"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "ተጠማ"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "አጠጣው"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:34:00.189245869Z",
+  "model": "glm-5.3"
+}

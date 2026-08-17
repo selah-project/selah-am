@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "የክፉዎች ዘረፋ አሳልፎ ያወጣቸዋል፤ ፍርድን ማድረግ ስለተቃወሙ ነው።",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "ዘረፋ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "የክፉዎች"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "አሳልፎ ያወጣቸዋል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ተቃወሙ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ማድረግ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:31:19.587059503Z",
+  "model": "glm-5.3"
+}

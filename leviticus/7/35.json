@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 7:35",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ይህ የአሃሮን መቀባት እና የልጆቹ መቀባት ነው፣ ከያህዌህ የእሳት መባዎች ውስጥ፣ ⟨את⟩ እነሱን ለካህንነት ለያህዌህ በቀረቡበት ቀን።",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "መቀባት"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "የአሃሮን"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "እና የ...መቀባት"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ልጆቹ"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "ከየእሳት መባዎች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በ...ቀን"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "በቀረቡበት"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ለካህንነት"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:43:58.536007580Z",
+  "model": "glm-5.3"
+}

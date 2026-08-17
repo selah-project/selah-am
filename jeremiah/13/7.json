@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "jeremiah 13:7",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እኔም ወደ ፕራት ሄጄ፣ ቈፈርሁ፣ እና ⟨את⟩ ኤዛሩን ከዚያ ቦታ ወሰድሁ የሸፈንሁት፤ እነሆ፣ ኤዛሩ ተበላሸ ለምንም አይጠቅምም።",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "ሄጄ"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "ወደ ፕራት"
+    },
+    {
+      "surface": "ואחפר",
+      "gloss": "ቈፈርሁ"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "ወሰድሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤዛሩን"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "ኤዛሩን"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ዚያ ቦታ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ...ን"
+    },
+    {
+      "surface": "טמנתיו",
+      "gloss": "ሸፈንሁት"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "נשחת",
+      "gloss": "ተበላሸ"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "ኤዛሩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "ጠቅም"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለምንም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:47:40.872773499Z",
+  "model": "glm-5.3"
+}

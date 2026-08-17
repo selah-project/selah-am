@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "የያህዌህ የኤሎሂምህን ቃል ታደምጣለህ እና ⟨את⟩ ትእዛዞቹን እና ⟨את⟩ ሥርዓቶቹንም ታከናውናለህ፣ እነሆ ዛሬ አንተን የማዝዝህ።",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ታደምጣለህ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "የ…ን ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምህ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "እና ታከናውናለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዞቹን"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "ትእዛዞቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሥርዓቶቹንም"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ሥርዓቶቹንም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "የማዝዝህ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:49:38.887455128Z",
+  "model": "glm-5.3"
+}

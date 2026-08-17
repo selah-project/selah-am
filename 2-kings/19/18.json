@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እና ⟨את⟩ አማልክታቸውን በእሳት ጣሉ፤ በእውነት አማልክት አይደሉም፣ ነገር ግን የሰው እጅ ሥራ — እንጨት እና ድንጋይ — ስለዚህ አጠፋቸው።",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "እና ጣሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አማልክታቸውን"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "አማልክታቸውን"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደሉም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "አማልክት"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነሱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "የሰው እጅ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "የሰው"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "እንጨት"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "እና ድንጋይ"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "አጠፋቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T06:52:29.040050712Z",
+  "model": "glm-5.3"
+}

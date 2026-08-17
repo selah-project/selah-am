@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "ለመመሪው፤ መማሪያ፤ ለቆረሃ ልጆች።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመመሪው"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "መማሪያ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለልጆች"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ቆረሃ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:14.503230192Z",
+  "model": "glm-5.3"
+}

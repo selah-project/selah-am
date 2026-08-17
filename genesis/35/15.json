@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "ያዕቆብም ኤሎሂም ከእርሱ ጋር በተናገረበት ቦታ ⟨את⟩ ስም ቤትኤል ብሎ ጠራው።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ቦታውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኝበት"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "አነጋገረ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T02:54:24.591410685Z",
+  "model": "glm-5.3"
+}

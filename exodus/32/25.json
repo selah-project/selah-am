@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ሞሼም ⟨את⟩ ሕዝቡን አየ፣ እንደ ሆነ ያራባ ሆኗል፤ ምክንያቱም አሃሮን በተናቃት ዘንድ ለተቃዋሚዎቻቸው አሳርፎታቸዋል።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ ሆነ"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "ያራባ ሆኗል"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "አሳርፎታቸዋል"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "በተናቃት ዘንድ"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "ለተቃዋሚዎቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T14:44:29.302781906Z",
+  "model": "glm-5.3"
+}

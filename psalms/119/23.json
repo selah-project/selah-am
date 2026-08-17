@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "እንዲሁም አለቆች ተቀምጠው ስለ እኔ ተነጋገሩ፤ አገልጋይህ ግን በሥርዓትህ ላይ አሰበ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ተቀምጠው"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "አለቆች"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ስለ እኔ"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "ተነጋገሩ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "አገልጋይህ"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "አሰበ"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "በሥርዓትህ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:41.099442259Z",
+  "model": "glm-5.3"
+}

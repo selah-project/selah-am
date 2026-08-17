@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ሞሼም የያህዌህን ⟨את⟩ ፊት ያገለግል ነበር፤ ልጅ ሆኖ በባድ የተሠራ ኤፉድ ይታሰር ነበር።",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "ያገለግል ነበር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊት"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ልጅ ሆኖ"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "ይታሰር ነበር"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ኤፉድ"
+    },
+    {
+      "surface": "בד",
+      "gloss": "በባድ የተሠራ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:32:10.165676652Z",
+  "model": "glm-5.3"
+}

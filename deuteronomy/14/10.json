@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ቀንበር እና ቅርጫት የሌለው ሁሉ ግን አትብሉትም፤ እነርሱ እናንተን አይብስ ናቸው።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ያለው"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የሌለው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለርሱ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "ቀንበር"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "እና ቅርጫት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ብሉትም"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "አይብስ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እነርሱ ናቸው"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "እናንተን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:41:03.564466114Z",
+  "model": "glm-5.3"
+}

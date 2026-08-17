@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "genesis 32:13",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "አንተ ያህዌህ «በእርገት እበልሃለሁ፣ ዘርህን ⟨את⟩ እንደ ባሕሩ አሸዋ አደርጋለሁ፤ ከብዛቱ ሊቆጠር የማይችል» ብለሃል።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ብለሃል"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "በእርገት አመስግናለሁ ብለህ"
+    },
+    {
+      "surface": "איטיב",
+      "gloss": "እበልሃለሁ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "አደርጋለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዘርህን"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ዘርህን"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "እንደ አሸዋ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "የባሕሩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚሆነው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ሊቆጠር"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ከብዛቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:50:31.143646191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "exodus 6:17",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የጌርሾን ልጆች ሊብኒ እና ሳምዒ እነሆ ⟨በ⟩ቤተሰቦቻቸው ይመዘናሉ።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ጌርሾን"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ሊብኒ"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "እና ሳምዒ"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "በቤተሰቦቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:07:38.505231810Z",
+  "model": "glm-5.3"
+}

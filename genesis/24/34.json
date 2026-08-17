@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "እርሱም የአብርሃም አገልጋይ እኔ ነኝ አለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "አገልጋይ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃም"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ ነኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:43:01.558395395Z",
+  "model": "glm-5.3"
+}

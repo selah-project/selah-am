@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 47,
+  "translation": "የሕዝቦች መሳፍንት ተሰብስበዋል፤ የአብራሃም አምላክ ሕዝብ ⟨ናቸው⟩፤ በእውነት የምድር ጋሻዎች ለኤሎሂም ናቸው፤ እጅግ ውላይ ነው።",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "መሳፍንት"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "የሕዝቦች"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "ተሰብስበዋል"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "የ…አምላክ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብራሃም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ለኤሎሂም"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ጋሻዎች"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "እጅግ"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "ውላይ ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:57.561086192Z",
+  "model": "glm-5.3"
+}

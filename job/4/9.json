@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "job 4:9",
+  "book": "job",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "በኤሎሃ ንፈስ ይጠፋሉ፤ በንዴቱ ነፋስም ⟨እነሱ⟩ ያልቃሉ።",
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "በንፈስ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ኤሎሃ"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ይጠፋሉ"
+    },
+    {
+      "surface": "ומרוח",
+      "gloss": "በነፋስም"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ንዴቱ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ያልቃሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:39:30.703197823Z",
+  "model": "glm-5.3"
+}

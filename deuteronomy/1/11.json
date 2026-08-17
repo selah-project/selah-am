@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ያህዌህ የአባቶቻችሁ ኤሎሂም እናንተን እንደሆናችሁ ሺህ እጥፍ ይጨምርብታል፤ እንደ ተናገራችሁ ⟨את⟩ ይባርካችሁ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም የ"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "አባቶቻችሁ"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ይጨምር"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "በእናንተ ላይ"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "እንደሆናችሁ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ጊዜ (እጥፍ)"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "እና ይባርክ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለእናንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:31:59.970676813Z",
+  "model": "glm-5.3"
+}

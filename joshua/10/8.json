@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "joshua 10:8",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ያህዌህም ኢያሱን፦ ከእነሱ አትፍራ፤ በእጅህ ሰጥቻቸዋለሁና፤ ከእነሱ አንድ ሰው እንኳ በፊትህ አይቆማም አለው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው፦"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ኢያሱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት..."
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ፍራ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ከእነሱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም፤ እንኳ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "በእጅህ"
+    },
+    {
+      "surface": "נתתים",
+      "gloss": "ሰጥቻቸዋለሁ፤"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይኳም"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "አይቆማም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው አንድ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ከእነሱ"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "በፊትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:04:36.872687076Z",
+  "model": "glm-5.3"
+}

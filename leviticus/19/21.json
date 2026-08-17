@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እርሱም ⟨את⟩ በደሉን ለያህዌህ ወደ መገናኛ ድንኳን በር ያመጣል — የበደል መባ አውራ በግ።",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ያመጣል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በደሉን"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "በደሉን"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "በር"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መገናኛ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "አውራ በግ"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "የበደል መባ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:56:28.841437667Z",
+  "model": "glm-5.3"
+}

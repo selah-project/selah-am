@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "1-kings 16:24",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ለሸሜርም ⟨את⟩ ሰማርያን ተራራ በሁለት ቄስ ብር ከሱ ገዛ፤ በተራራውም ላይ ሠራ፤ የሠራውንም ከተማ ስም በተራራው ጌታ በሸሜር ስም ሰማርያ ብሎ ጠራ።",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "ገዛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰማርያን ተራራን"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ተራራውን"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ሰማርያን"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ከ⟨את⟩ ከሱ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ሸሜር"
+    },
+    {
+      "surface": "בככרים",
+      "gloss": "በሁለት ቄስ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተራራውን"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ተራራውን"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስምን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስምን"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "የከተማዋን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሠራውን"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ\/በ… ስም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ሸሜር"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጌታ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "የተራራው"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ሰማርያ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:31:23.056892888Z",
+  "model": "glm-5.3"
+}

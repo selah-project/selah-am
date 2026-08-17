@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ወታደሮቹም ምርኮዎቹን ⟨את⟩ እና ዘይቤውን ⟨את⟩ በአለቆቹና በምኅበሩ ሁሉ ፊት ተወት።",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "ተወት"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "ወታደሮቹም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምርኮዎቹን"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "ምርኮዎቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዘይቤውን"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "ዘይቤውን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ… ፊት"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "በአለቆቹ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና በሁሉ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ምኅበሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:49:20.403086263Z",
+  "model": "glm-5.3"
+}

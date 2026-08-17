@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ተመለከቱ ነገር ግን መዳኛ የለም፤ እስከ ያህዌህ ድረስ፣ እንኳን አልመለሳቸውም።",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "ተመለከቱ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ነገር ግን የለም"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "መዳኛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንኳን አል"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "መለሳቸውም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:11:24.947982283Z",
+  "model": "glm-5.3"
+}

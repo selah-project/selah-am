@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ፈርዖን በእርሱ ላይ ሰዎችን አዘዛቸው እና እነርሱ ⟨את⟩ እሱን፣ እና ⟨את⟩ ሚስቱን፣ እና ⟨את⟩ ሁሉን ያለውን ላኳቸው።",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "አዘዛቸው"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ሰዎችን"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "እና ላኳቸው"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ እሱን",
+      "marks": "እሱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሚስቱን"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሚስቱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሁሉን ያለውን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለውን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:35:40.141838123Z",
+  "model": "glm-5.3"
+}

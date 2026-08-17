@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 65,
+  "translation": "እና ይሆናል — እንዳይጠሩ እኔ እመልሳለሁ፤ እንደ ሆነ እነርሱ ሲናገሩ እኔ እሰማለሁ።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "እና ይሆናል"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "እንዳይጠሩ ከ"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ይጠራሉ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "እመልሳለሁ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "እንደ ሆነ እስከ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እነርሱ"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "ሲናገሩ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "እሰማለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:33:16.829169310Z",
+  "model": "glm-5.3"
+}

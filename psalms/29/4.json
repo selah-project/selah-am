@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "የያህዌህ ድምፅ በኃይል ⟨ነው⟩፤ የያህዌህ ድምፅ በክብረ በዓል ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "በኃይል"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "በክብረ በዓል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:08.764172637Z",
+  "model": "glm-5.3"
+}

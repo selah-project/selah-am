@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ሕዝቡም በዚያ ለውኃ ተጠማ፤ ሕዝቡም በሞሼ ላይ አሉቀሰፉ፤ «ወይትልንልን ከግብፅ አወጣኸን፣ ⟨את⟩ እኔን፣ ⟨את⟩ ልጆቼንም፣ ⟨את⟩ ብረተኞቼንም በጥም እንድንሞት?» አሉ።",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "ተጠቃል፤"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡም"
+    },
+    {
+      "surface": "למים",
+      "gloss": "ለውኃ"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "አሉቀሰፉ፤"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አሉ፤"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ለምን፣"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "አወጣኸን"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ከግብፅ"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "እንድንሞት"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "እኔን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ልጆቼንም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆቼን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ብረተኞቼንም"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "ብረተኞቼን"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "በጥም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:19:28.421054839Z",
+  "model": "glm-5.3"
+}

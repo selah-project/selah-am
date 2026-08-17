@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "jeremiah 7:15",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እና እወርዳችኋለሁ ⟨את⟩ ከፊቴ እንደ ወረድኩ ⟨את⟩ ሁሉን ወንድሞቻችሁን ⟨את⟩ ሁሉን ዘር ኤፍራይምን።",
+  "tokens": [
+    {
+      "surface": "והשלכתי",
+      "gloss": "እና እወርዳለሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ እናንተን"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከ…ላይ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊቴ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "ወረድኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን ወንድሞቻችሁን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ወንድሞቻችሁን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን ዘር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘር"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይምን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:40:24.607160432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ያህዌህም ⟨את⟩ ይሁዳን ድርሻው በቅዱስ ምድር ይወርሳል፤ በኢየሩሳሌምም ደግሞ ይመርጣል።",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "ይወርሳል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይሁዳን"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳን"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "ድርሻውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "ይመርጣል"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "በኢየሩሳሌም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:20:24.222943527Z",
+  "model": "glm-5.3"
+}

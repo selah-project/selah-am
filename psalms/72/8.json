@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 72,
+  "translation": "ከባሕር እስከ ባሕር ይገዛል፤ ከወንዙም እስከ ምድር ጫፎች ድረስ።",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ይገዛል"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ከባሕር"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "ከወንዙም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ጫፎች ድረስ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:34.518676831Z",
+  "model": "glm-5.3"
+}

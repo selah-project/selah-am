@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "ቤቶችን ሠሩ፣ ተቀምጡ፤ አትክሊቶችን ተከሉ፣ ከፍራቸውም ⟨את⟩ ፍሬያቸውን ብሉ።",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "ሠሩ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ቤቶችን"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ተቀምጡ"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "ተከሉ"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "አትክሊቶችን"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ብሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍራቸውን"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "ፍሬያቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:56:59.697425870Z",
+  "model": "glm-5.3"
+}

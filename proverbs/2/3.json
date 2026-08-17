@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "አዎ፣ ለብልህነት ብትጮኽ እና ለአስተውሎት ድምፅህን ብታሰምብ፣",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "አዎ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ብትጮኽ"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ለብልህነት"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ብትጮኽ ብትጠራ"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "ለአስተውሎት"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ብታሰምብ ብትሰጥ"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ድምፅህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:22:23.292185667Z",
+  "model": "glm-5.3"
+}

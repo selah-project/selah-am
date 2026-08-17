@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "numbers 26:3",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ሞሼ እና ካህኑ አኤልዓዛር በሞዓብ ሜዳ፣ በዮርዳኖስ አጠገብ በይሪሆ አንደበታቸውን ⟨את⟩ በማለት ተናገሩ፦",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገሩ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "እና አኤልዓዛር"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "አንደበታቸውን"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "በሜዳ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    },
+    {
+      "surface": "על",
+      "gloss": "አጠገብ"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "ዮርዳኖስ"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "ይሪሆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "በማለት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:24:22.670490914Z",
+  "model": "glm-5.3"
+}

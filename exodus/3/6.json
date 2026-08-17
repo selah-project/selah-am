@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "exodus 3:6",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እንዲሁም አለ፦ እኔ የአባትህ ኤሎሂም ነኝ፤ የአብራሃም ኤሎሂም፣ የይጽሐቅ ኤሎሂም እና የያዕቆብ ኤሎሂም። ሞሼም ፊቱን ሰደፈ፤ እርሱም ⟨ስለ⟩ ከኤሎሂም ማየት ተመልክቶ ፈራ፤",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "የ…ኤሎሂም"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "አባትህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "የ…ኤሎሂም"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብራሃም"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "የ…ኤሎሂም"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይጽሐቅ"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "እና የ…ኤሎሂም"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "ሰደፈ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ስለ⟩"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ፈራ"
+    },
+    {
+      "surface": "מהביט",
+      "gloss": "ከማመልከት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:07:15.627200655Z",
+  "model": "glm-5.3"
+}

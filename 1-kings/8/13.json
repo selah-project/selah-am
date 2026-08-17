@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "መገንባት ገነባሁ ለአንተ የመኖሪያ ቤት፣ ለዘላለም ለመቀመጥህ የተጸናጀ ስፍራ።",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "መገንባት"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ገነባሁ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "የመኖሪያ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "የተጸናጀ ስፍራ"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "ለመቀመጥህ"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ለዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:21:30.624553435Z",
+  "model": "glm-5.3"
+}

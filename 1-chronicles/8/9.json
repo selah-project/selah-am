@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ከሆደስም ከሚስቱ ⟨את⟩ ዮባብን እና ⟨את⟩ ጽብያን እና ⟨את⟩ ሜሻን እና ⟨את⟩ ማልካምን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ሆደስ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ከሚስቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮባብን"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "ዮባብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ጽብያን"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "ጽብያ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሜሻን"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "ሜሻ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ማልካምን"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "ማልካም"
+    }
+  ],
+  "timestamp": "2026-08-16T12:41:54.066001876Z",
+  "model": "glm-5.3"
+}

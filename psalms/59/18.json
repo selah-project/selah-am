@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 59,
+  "translation": "ኃይሌ ሆይ፣ ወደ አንተ እዘምራለሁ፤ እንጂ ኤሎሂም መተላለፊያዬ የምሕረቴ ኤሎሂም ነው።",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "ኃይሌ ሆይ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "እዘምራለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንጂ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "መተላለፊያዬ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "የ... ኤሎሂም"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "ምሕረቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:57.796981802Z",
+  "model": "glm-5.3"
+}

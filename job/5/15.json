@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "job 5:15",
+  "book": "job",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ከአፋቸው ሰይፍ ያድናል፤ ደሃውንም ከኃያል እጅ ያድናል።",
+  "tokens": [
+    {
+      "surface": "וישע",
+      "gloss": "ያድናል፤"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ከ…ሰይፍ"
+    },
+    {
+      "surface": "מפיהם",
+      "gloss": "ከአፋቸው"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ከ…እጅም"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ኃያል"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ደሃውን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:41:42.291895751Z",
+  "model": "glm-5.3"
+}

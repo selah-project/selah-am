@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ባለጸጁ በደሃው ላይ ይገዛል፤ ተበዳሪ ተበዳሪውን ባለው ሰው አገልጋይ ነው።",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "ባለጸጁ"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "በደሃው ላይ"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "ይገዛል"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "አገልጋይ ነው፤"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "ተበዳሪው"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "ባለው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:32:13.091206652Z",
+  "model": "glm-5.3"
+}

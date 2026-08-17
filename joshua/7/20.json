@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "joshua 7:20",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ዓካን ያሁሻዕን ⟨את⟩ መልሶ እንዲህ አለ፦ እውነት ነው፤ ለእስራኤል አምላክ ለያህዌህ አመፀኝ፤ እንዲህና እንዲህ አደረግሁ።",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መልሶ አለ"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "ዓካን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያሁሻዕን"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ያሁሻዕ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለ"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "እውነት ነው"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "አመ፸ኝ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "አምላክ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "አደረግሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:03:13.300093876Z",
+  "model": "glm-5.3"
+}

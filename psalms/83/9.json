@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 83,
+  "translation": "እንዲሁም አሦር ከእነርሱ ጋር ተቀላቀለ፤ ለሎጥ ልጆች ክንፍ ሆኑ። ሰላ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "አሦር"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "ተቀላቀለ"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ከእነርሱ ጋር"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ሆኑ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ክንፍ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለ…ልጆች"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ሎጥ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:28.491636849Z",
+  "model": "glm-5.3"
+}

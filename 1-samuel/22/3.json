@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "1-samuel 22:3",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ዳዊትም ከዚያ ወደ ሞዓብ ሚጽፔ ሄደ፤ የሞዓብ ንጉሥም አለው፦ አባቴና እናቴ እስክናውቅ ኤሎሂም ምን እንደሚያደርግልኝ ⟨אתכם⟩ አብረውኝ ይውጡ እንጂ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ከዚያ"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "ሚጽፔ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለውም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥም"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ይውጡ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እንጂ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባቴ"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "እናቴም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እስክናውቅ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "እንደሚያውቅ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "እንደሚያደርግ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ልኝ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:47:58.753556216Z",
+  "model": "glm-5.3"
+}

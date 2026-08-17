@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "jeremiah 37:18",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ኢይርምያሁም ንጉሡ ጽድቅያሁ «ምን አመፈጸምልህ? ለአገልጋዮችህስ? ለዚህ ሕዝብስ? እንደ ሆነ ወደ እስር ቤት ⟨את⟩ እኔ አሳረፋችሁኝ» አለው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ኢይርምያሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ጽድቅያሁ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "አመፈጸምልህ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ላንተ"
+    },
+    {
+      "surface": "ולעבדיך",
+      "gloss": "ለአገልጋዮችህም"
+    },
+    {
+      "surface": "ולעם",
+      "gloss": "ለሕዝብም"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ ሆነ"
+    },
+    {
+      "surface": "נתתם",
+      "gloss": "አሳረፋችሁኝ"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ እኔ",
+      "marks": "ወደ እስር ቤት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "እስር"
+    }
+  ],
+  "timestamp": "2026-08-16T08:05:14.082753875Z",
+  "model": "glm-5.3"
+}

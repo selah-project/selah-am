@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ሰይጣንም ⟨את⟩ ያህዌህን በመመለስ እንዲህ አለ፦ ቆዳ በቆዳ ክፍል፤ ሰውም ያለውን ሁሉ ለነፍሱ ይሰጣል።",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "በመመለስ"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ሰይጣን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ቆዳ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "በ…ክፍል"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ቆዳ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለውን"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ለሰው"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይሰጣል"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ለ…"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ለነፍሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:40:40.585737534Z",
+  "model": "glm-5.3"
+}

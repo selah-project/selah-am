@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እነርሱም የዚህን ቃል መልስ አራት ጊዜ ወደ እኔ ላኩ፤ እኔም ⟨את⟩ የዚህን ቃል መልስ መልሼ የውሰጃቸው ሆንኩ።",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ላኩ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "የዚህን ቃል መልስ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "የዚህ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "አራት"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "እኔም መልሼ የውሰጃቸው ሆንኩ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "የዚህን ቃል መልስ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "የዚህን ቃል መልስ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "የዚህ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:34:47.858548930Z",
+  "model": "glm-5.3"
+}

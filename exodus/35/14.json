@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "እና ⟨את⟩ የመብራት መቅረጽን እና ⟨את⟩ ዕቃዎቿን እና ⟨את⟩ መብራቶቿን እና ⟨את⟩ የመብራቱን ዘይት።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መቅረጽ"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "የመብራት መቅረጽ"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "መብራት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዕቃዎቿን"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ዕቃዎቿን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መብራቶቿን"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "መብራቶቿን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዘይት"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘይት"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "የመብራት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:33:23.932813493Z",
+  "model": "glm-5.3"
+}

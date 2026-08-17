@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "1-kings 12:26",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የሮብዓምም በልቡ አለ፤ አሁን መንግሥት ወደ ዳዊት ቤት ትመለሳለች።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "የሮብዓምም"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "በልቡ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ትመለሳለች"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "መንግሥት"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ወደ ቤት"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:25:23.043606787Z",
+  "model": "glm-5.3"
+}

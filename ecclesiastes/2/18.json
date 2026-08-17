@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እኔ እኔ ድካሜን ሁሉ ⟨את⟩ ጠላሁ፤ በፀሐይ ሥር የምደክምበትን፤ ከእኔ በኋላ ለሚኾነው ሰው እተወዋለሁ ስለዚህ።",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "ጠላሁ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድካሜን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "ድካሜን"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "የምደክምበትን"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "እደክም ያለሁበት"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በሥር"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "የፀሐይ"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "እተወዋለሁ ስለዚህ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ለሰው"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ለሚኾነው"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከእኔ በኋላ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:14:46.549733482Z",
+  "model": "glm-5.3"
+}

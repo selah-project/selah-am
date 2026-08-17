@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 88,
+  "translation": "ለምን ያህዌህ ነፍሴን ትጥላለህ? ፊትህን ከእኔ ትሰውራለህ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "ትጥላለህ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ትሰውራለህ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህን"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:49.848072036Z",
+  "model": "glm-5.3"
+}

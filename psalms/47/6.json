@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 47,
+  "translation": "ኤሎሂም በድምፀ ለምላም ወጥቷል፣ ያህዌህ በሰውን ቀርጽ ድምፅ።",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "ወጥቷል"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "በድምፀ ለምላም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "በድምፅ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ሰውን ቀርጽ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:15.890386321Z",
+  "model": "glm-5.3"
+}

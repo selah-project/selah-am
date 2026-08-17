@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "የቃላትህ መከፈቻ ብርሃን ያበራል፤ ለቀላሎች ማስተዋል ይሰጣል።",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "መከፈቻ"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "የቃላትህ"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ብርሃን ያበራል"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "ማስተዋል ይሰጣል"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "ለቀላሎች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:30.939381878Z",
+  "model": "glm-5.3"
+}

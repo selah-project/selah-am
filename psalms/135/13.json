@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 135,
+  "translation": "ያህዌህ ሆይ፣ ስምህ ለዘላለም (ይኖራል)፤ ያህዌህ ሆይ፣ መታሰቢያህ ለትውልድ ትውልድ (ነው)።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ ሆይ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ ሆይ"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "መታሰቢያህ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ለትውልድ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ትውልድ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:42.596348330Z",
+  "model": "glm-5.3"
+}

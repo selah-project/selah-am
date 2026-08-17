@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 87,
+  "translation": "ለቆራሕ ልጆች መዝሙር፣ ዘፈን፤ መሠረቱ በቅዱሳን ተራሮች ⟨ውስጥ⟩ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "ለ…ልጆች"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ቆራሕ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ዘፈን"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "መሠረቱ"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "በተራሮች"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱሳን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:30.998682427Z",
+  "model": "glm-5.3"
+}

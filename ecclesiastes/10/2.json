@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የጥበብ ባለው ልብ በቀኙ ነው፤ የሞኝ ልብ ግን በግራው ነው።",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ጥበብ ያለው"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "በቀኙ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "እና ልብ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ሞኝ"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "በግራው"
+    }
+  ],
+  "timestamp": "2026-08-16T11:17:39.273469055Z",
+  "model": "glm-5.3"
+}

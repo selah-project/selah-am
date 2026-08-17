@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ያህዌህም ከሞሼ ጋር ተናገረ፦ «ሂድ፣ ውረድ፤ ሕዝብህ ከግብፅ ምድር ያወጣኸው ተበላሽቷልና።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ከሞሼ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ውረድ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ተበላሸ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ሕዝብህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምትወጣው"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "ያወጣኸው"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከ… ምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፅ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:31:34.763226845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "እናም ⟨את⟩ ቍርጭበተቶቹን አፈራረሰ፣ ⟨את⟩ አሴራዎቹን ቈረጠ፣ እናም ⟨את⟩ ቦታቸውን በሰዎች አጽንዖት ሞላ።",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "አፈራረሰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቍርጭበተቶቹን"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "ቍርጭበተቶቹን"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ቈረጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አሴራዎቹን"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "አሴራዎቹን"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ሞላ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቦታቸውን"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "ቦታቸውን"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "አጽንዖት"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T19:52:45.405337956Z",
+  "model": "glm-5.3"
+}

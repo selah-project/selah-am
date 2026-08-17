@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ክብር ለሰው ከክርክር መቆም ነው፤ ሁሉም ሞኝ ግን ይከራከራል።",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "ክብር"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ለሰው"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "መቆም"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "ከክርክር"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ሞኝ"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "ይከራከራል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:31:48.481911774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ዮሴፍ ሕልም አለምም እና ⟨את⟩ን ለወንድሞቹ ነገራቸው፤ እነሱም ደግሞ ተጨምረው ⟨את⟩ እሱን ጠሉ።",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "አለምም"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ሕልም"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ነገራቸው"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ለወንድሞቹ"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "ተጨምረው"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ጠሉ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:55:11.352286250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የያፌት ልጆች — ገመርና ማጎግ፣ ማዳይና ያዋን፣ ቱባልና ሜሸክ፣ እና ቲራስ።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ያፌት"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ገመር"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "እና ማጎግ"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "እና ማዳይ"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "እና ያዋን"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "እና ቱባል"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "እና ሜሸክ"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "እና ቲራስ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:33:15.035760849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ያህዌህ ሆይ ፣ ለነገሥታችን ለአለቆቻችን እና ለአባቶቻችን ለእኛ የፊት ውርደት ነው፣ እነሱ ለአንተ አመጸን።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "ውርደት"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "የፊት"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "ለነገሥታችን"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "ለአለቆቻችን"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "እና ለአባቶቻችን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እነሱ"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "አመጸን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:45:56.946204427Z",
+  "model": "glm-5.3"
+}

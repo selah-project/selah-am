@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ዳዊትም እንደገና በያህዌህ ጠየቀ፤ ያህዌህም መለሰለትና፦ ተነሥ፣ ወደ ቀዓላ ውረድ፤ እኔ ⟨את⟩ ፍልስጤሞችን በእጅህ እሰጣቸዋለሁ አለው።",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "እንደገና… ጠየቀ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "እንደገና"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "ጠየቀ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "በያህዌህ"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "መለሰለትም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለውም"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ተነሥ"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ውረድ"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ወደ ቀዓላ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "እሰጣቸዋለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍልስጤሞችን"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤሞች"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "በእጅህ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:47:02.202016608Z",
+  "model": "glm-5.3"
+}

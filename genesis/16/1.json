@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ሣራይ የአብራም ሚስት ልጅ አልወለደችለትም፤ ለእርሷም የምትስፈራ ገበያ አንዲት ምጽራዊት ነበረች፤ ስምዋም ሃጋር ነበር።",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "እና ሣራይ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "የ…ሚስት"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "አብራም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "እና ለእርሷ"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "የምትስፈራ ገበያ"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "ምጽራዊት"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "እና ስምዋ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ሃጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T02:37:59.836406334Z",
+  "model": "glm-5.3"
+}

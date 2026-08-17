@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ለሰላም ተስፋ አደረግን ነገር ግን መልካም የለም፤ ለፈውስ ጊዜ እና እነሆ ፍርሃት!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "ተስፋ አደረግን"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ለሰላም"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ነገር ግን የለም"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ለፈውስ ጊዜ"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "ለፈውስ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እና እነሆ"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "ፍርሃት"
+    }
+  ],
+  "timestamp": "2026-08-16T19:57:44.684899112Z",
+  "model": "glm-5.3"
+}

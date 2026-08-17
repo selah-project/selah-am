@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 139,
+  "translation": "እንዲህም አልሁ፣ እውነት ጨለማ ይሸኘኛል፤ እንደዚያም ሌሊት በዙሪያዬ ብርሃን ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "አልሁም"
+    },
+    {
+      "surface": "אך",
+      "gloss": "እውነት"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጨለማ"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "ይሸኘኛል"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "እንደዚያም ሌሊት"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "በዙሪያዬ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:06.088894703Z",
+  "model": "glm-5.3"
+}

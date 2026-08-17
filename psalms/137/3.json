@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 137,
+  "translation": "ምክንያቱም እዚያ ባርኳችን የዘፈን ቃላትን ጠየቁን፤ አሰቃዮቻችንም ደስታን — «ከጽዮን ዘፈን ተሟልቱልን» አሉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "ጠየቁን"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "ባርኳችን"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "የ...ቃላትን"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ዘፈን"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "አሰቃዮቻችንም"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ደስታን"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ተሟልቱልን"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "ከ...ዘፈን"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:55.374176155Z",
+  "model": "glm-5.3"
+}

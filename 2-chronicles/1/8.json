@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "2-chronicles 1:8",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ጽሎሞንም ለኤሎሂም እንዲህ አለ — አንተ ከአባቴ ከዳዊት ጋር ታላቅ ምሕረት አድርገሃል፤ እንዲሁም በርሱ ፋንታ ነገሥተሃኝ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለ፤ አለም"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ጽሎሞን"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ለኤሎሂም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "አድርገሃል"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባቴ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ምሕረት"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "והמלכתני",
+      "gloss": "ነገሥተሃኝም"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "በርሱ ፋንታ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:25:11.381418892Z",
+  "model": "glm-5.3"
+}

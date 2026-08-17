@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 97,
+  "translation": "ለጻድቃን ብርሃን ተዘርቷል፣ ለቀጥተኛ ልብ ያላቸውም ደስታ ነው።",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ተዘርቷል"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ለጻድቃን"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "ለቀጥተኛ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ደስታ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:06.664510031Z",
+  "model": "glm-5.3"
+}

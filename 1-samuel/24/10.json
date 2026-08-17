@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ዳዊትም ለሳኦል አለ፦ ስለ ምን የሰውን ቃላት «እነሆ ዳዊት ክፉ እንዲያደርስብህ ይፈልጋል» ብለው ⟨את⟩ የሰዎችን ቃላት ታዳምጣለህ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ለሳኦል"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ስለ ምን"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ታዳምጣለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሰዎችን ቃላት"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "የ…ቃላት"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብለው"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ይፈልጋል"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "ክፉ ነገርህን"
+    }
+  ],
+  "timestamp": "2026-08-16T19:33:25.337906196Z",
+  "model": "glm-5.3"
+}

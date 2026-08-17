@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "1-chronicles 4:17",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የዕዝራ ወንዶችም ይተር፣ መሬድ፣ ዔፈርና ያሎን ናቸው፤ ⟨את⟩ ሚርያምንም፣ ⟨את⟩ ሻማይንም፣ ⟨את⟩ የእስተሞዓ አባት ይስባሕንም ወለደች።",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "የ…ወንዶችም"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "ዕዝራ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ይተር"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "መሬድ"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "ዔፈር"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "ያሎን"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚርያምን"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "ሚርያም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሻማይን"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ሻማይ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ይስባሕን"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "ይስባሕ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "የ…አባት"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "እስተሞዓ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:38:09.303076487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "exodus 8:8",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ሞሼና አሃሮንም ከፈርዖን ዘንድ ወጡ፤ ሞሼም ፈርዖን ላይ ያደረገውን የጉላቶችን ቃል በያህዌህ ዘንድ ጮኸ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጡም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "አሃሮንም"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ከ… ዘንድ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "ጮኸም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ… ዘንድ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "የጉላቶችን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያደረገውን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ያደረገ"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ፈርዖን ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:11:09.769394996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "አሥራ ሁለት አንበሶችም በዚያ በስድስቱ ደረጃዎች ላይ ከዚህ እና ከዚያ ቆመው ነበር፤ ለማንኛውም መንግሥት እንዲህ አልተሠራም።",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "እና ሁለት"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "አንበሶች"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ቆመው ነበር"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ስድስቱ"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ደረጃዎች"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ከዚህ"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "እና ከዚያ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ተሠራም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለማንኛውም"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "መንግሥት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:23:15.189789935Z",
+  "model": "glm-5.3"
+}

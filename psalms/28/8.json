@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ያህዌህ ለእነርሱ ኃይል ነው፣ የመድኃኒትም መሸሸጊያ ለመሢሑ እርሱ ነው።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ኃይል"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ለእነርሱ"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "መሸሸጊያም"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "የመድኃኒት"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ለመሢሑ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T18:08:15.776310534Z",
+  "model": "glm-5.3"
+}

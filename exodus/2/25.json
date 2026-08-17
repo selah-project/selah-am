@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ኤሎሂም የእስራኤልን ልጆች ⟨את⟩ አየ፤ ኤሎሂምም ዐወቀ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእስራኤልን ልጆች"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ዐወቀ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:04:05.759325942Z",
+  "model": "glm-5.3"
+}

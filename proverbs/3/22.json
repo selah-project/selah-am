@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "proverbs 3:22",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እነሱ ለነፍስህ ሕይወት እና ለአንገትህ ጸጋ ይሁኑ።",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ይሁኑ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ሕይወት"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "ለነፍስህ"
+    },
+    {
+      "surface": "וחן",
+      "gloss": "እና ጸጋ"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "ለአንገትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:20:47.851831429Z",
+  "model": "glm-5.3"
+}

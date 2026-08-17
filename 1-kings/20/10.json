@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-kings 20:10",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ቤን-ሐዳድም ወደ እርሱ ላከ፤ «ኤሎሂም እንዲህ ያድርጉኝ፣ እንዲህም ይጨምሩ፣ የሸማሮን አፈር በእግሬ ላለው ሕዝብ ሁሉ ለእጆች ከልኩ ቢበቃ» አለ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከም"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ቤን"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "-ሐዳድ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "ያድርጉ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "እኔን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "እንዲህም"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "ይጨምሩ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "ישפק",
+      "gloss": "ከልኩ ቢሞላ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "አፈር"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "የሸማሮን"
+    },
+    {
+      "surface": "לשעלים",
+      "gloss": "ለእጆች ከልክ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "በእግሬ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:32:38.735139933Z",
+  "model": "glm-5.3"
+}

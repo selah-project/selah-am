@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እና ዳዊት ከአባቶቹ ጋር ተኝቶ በዳዊት ከተማ ተቀበረ።",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "እና ተኝቶ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ... ጋር"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "አባቶቹ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "እና ተቀበረ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "በከተማ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:13:41.125606675Z",
+  "model": "glm-5.3"
+}

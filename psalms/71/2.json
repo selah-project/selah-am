@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 71,
+  "translation": "በጽድቅህ አድነኝ እና አምልጠኝ፤ ጥምርህን ወደ እኔ አዘንብል እና አድነኝ።",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "በጽድቅህ"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "አድነኝ"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "እና አምልጠኝ"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "አዘንብል"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ጥምርህን"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "እና አድነኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:55.540853840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "ከአሥር ቀናት መጨረሻ በኋላ የያህዌህ ቃል ወደ ኢርምያስ መጣ፤ እንደ ሆነም ሆነ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እንደ ሆነም ሆነ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ከ...መጨረሻ በኋላ"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ነበረ\/መጣ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ኢርምያስ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:05:58.903934808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ስርቆቱ በእጁ ሕያው ቢገኝ በእውነት — ከበሬ እስከ አህያ እስከ በግ — ሁለት እጥፍ ይከፍላል።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ቢ"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "ቢገኝ በእውነት"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ቢገኝ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "በእጁ"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "ስርቆቱ"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ከበሬ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "አህያ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "በግ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት እጥፍ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ይከፍላል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:22:49.449114825Z",
+  "model": "glm-5.3"
+}

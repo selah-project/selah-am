@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "በቅዱሱ ሥራ ሁሉ የሚሠሩ ጥበበኞች ሁሉ እያንዳንዱ እያንዳንዱ ከራሱ ሥራ መጡ፤ እነርሱ የሚሠሩትን።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "ጥበበኞች"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "የሚሠሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን የቅዱስ ሥራ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "የቅዱሱ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "ከራሱ ሥራ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነርሱ"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "የሚሠሩትን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:38:25.135229354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 98,
+  "translation": "ባሕሩ እና ሙላቱ ይጮሁ፤ ዓለምም እና የምትኖሩባት ሁሉ ናቸው።",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "ይጮሁ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሩ"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "እና ሙላቱ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ዓለም"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "እና የሚኖሩባት"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሷ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:27.099433981Z",
+  "model": "glm-5.3"
+}

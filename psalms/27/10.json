@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "አባቴ እና እናቴ ቢተዉኝም ያህዌህ ያሰበሰለኛል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…ቢተዉኝም"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባቴ"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "እና እናቴ"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "ቢተዉኝም"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "ያሰበሰለኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:04.864978993Z",
+  "model": "glm-5.3"
+}

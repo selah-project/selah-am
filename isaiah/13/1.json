@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "የባቢሎን ሸክም፣ ያኢሳይያስ ልጅ የአሞጽ ያየው።",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ሸክም"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "የባቢሎን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ያየው"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ያኢሳይያስ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "አሞጽ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:04:37.526860293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ምንጹም ሴትዋን «በእውነት አትሞቱም» አላት።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ምንጹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሴትዋ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "ትሞቱም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:30:20.578799910Z",
+  "model": "glm-5.3"
+}

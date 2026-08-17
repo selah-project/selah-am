@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እንደሆነ የላይኑን የሚቀመጡትን ያህዌህ ያሳወረ ከፍ ያለችውን ከተማ ያሳወራታል፤ እስከ ምድር ድረስ ያሳወራታል፤ እስከ አፈር ድረስ ያደርሳታል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደሆነ"
+    },
+    {
+      "surface": "השח",
+      "gloss": "ያሳወረ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "የሚቀመጡትን"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "የላይኑን"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "ከፍ ያለችውን"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "ያሳወራታል"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "ያሳወራታል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "ያደርሳታል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "አፈር"
+    }
+  ],
+  "timestamp": "2026-08-16T07:09:31.952132059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 92,
+  "translation": "ዝማሬ ዘፈን ለሰንበት ቀን ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ዝማሬ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ዘፈን"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ለቀን"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "የሰንበት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:05.988321971Z",
+  "model": "glm-5.3"
+}

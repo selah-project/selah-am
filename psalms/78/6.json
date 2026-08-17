@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "የመጪው ትውልድ እንዲያውቅ፣ የሚወለዱ ልጆች ተነሥተው ለልጆቻቸው እንዲናገሩ ለዚህ ምክንያት ነው።",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ለዚህ ምክንያት"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "እንዲያውቅ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ትውልድ"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "የመጪው"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "የሚወለዱ"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "ተነሥተው"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "እንዲናገሩም"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ለልጆቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:51.485490833Z",
+  "model": "glm-5.3"
+}

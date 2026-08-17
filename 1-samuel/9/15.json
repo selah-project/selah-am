@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ያህዌህ የሳሙኤልን እንደ ⟨את⟩ ጉንዳን ገለጠለት ሳኦል ከመምጣቱ አንድ ቀን በፊት እንዲህ ብሎ።",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ገለጠለት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጉንዳን (የሳሙኤልን)"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ጉንዳን"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "የሳሙኤልን"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "መምጣቱ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:36:38.883228982Z",
+  "model": "glm-5.3"
+}

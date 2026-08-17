@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "የሌዋዊም ልጆች ያህዌህ በቃሉ እንደ አዘዘው ሞሼ እንደ አዘዘ የኤሎሂምን ታቦት ⟨את⟩ በትረዎቹ በከንፈሮቻቸው ላይ ታጥቀው ተሸከሙ።",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ተሸከሙ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ሌዋዊም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦት"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂምን"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "እንደ ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "በከንፈሮቻቸው"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "በትረዎቹ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "በላያቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T12:56:46.611353378Z",
+  "model": "glm-5.3"
+}

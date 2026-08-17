@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 130,
+  "translation": "እስራኤል ሆይ፥ በያህዌህ ተስፋ አድርግ፤ በያህዌህ ዘንድ ምሕረት አለና በእርሱም ዘንድ ብዙ መዋጽድ አለ።",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "ተስፋ አድርግ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል ሆይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "አለና"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ዘንድ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "ምሕረት"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "በእርሱም ዘንድ"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "መዋጽድ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:59.484905908Z",
+  "model": "glm-5.3"
+}

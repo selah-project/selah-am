@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ሕዝቡም ወደ መታው አልተመለሰም፤ ⟨את⟩ የሰራዊት ያህዌህንም አልፈለጉም።",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "ሕዝቡም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "መታው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የሰራዊት ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "የሰራዊት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ፈለጉ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:02:09.351794885Z",
+  "model": "glm-5.3"
+}

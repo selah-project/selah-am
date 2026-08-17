@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ጠሉኝ፣ ከእኔ አርቀው፣ እና ከፊቴ ትፋት አልአቀረቡም።",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "ጠሉኝ"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "አርቀው"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "እና ከፊቴ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "አቀረቡ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ትፋት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:54:54.113235232Z",
+  "model": "glm-5.3"
+}

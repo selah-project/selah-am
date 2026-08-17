@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 115,
+  "translation": "ያህዌህ አስታውሰናል፤ ይባርካል፣ የእሺራኤልን ቤት ⟨את⟩ ይባርካል፣ የአሃሮንን ቤት ⟨את⟩ ይባርካል።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "አስታውሰናል"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ይባርካል"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ይባርካል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤትን (የእሺራኤልን)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እሺራኤል"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ይባርካል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤትን (የአሃሮንን)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:59.338492427Z",
+  "model": "glm-5.3"
+}

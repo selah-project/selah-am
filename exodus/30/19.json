@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "አሃሮንና ወንዶቹ ⟨את⟩ እጆቻቸውንና ⟨את⟩ እግሮቻቸውን ከእርሱ ያጠባሉ።",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "ያጠባሉ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "እና ወንዶቹ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእርሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጆቻቸውን"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "እጆቻቸውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እግሮቻቸውን"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "እግሮቻቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:29:49.361935312Z",
+  "model": "glm-5.3"
+}

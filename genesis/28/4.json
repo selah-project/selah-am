@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "እንዲሁም ⟨את⟩ የአብርሃምን ቡራኬ ለአንተ እና ለዘርህ ⟨את⟩ ጋር ይስጥህ፤ አልፎ በቆየህበት ምድር ⟨את⟩ ተውረስ — ኤሎሂም ለአብርሃም ያደረገውን።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ይስጥም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የአብርሃምን ቡራኬ"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "የ…ቡራኬ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "እና ለዘርህ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ጋር"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "ተውረስህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድርን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "የቆየህበት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ያደረገ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ለአብርሃም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:48:37.210619966Z",
+  "model": "glm-5.3"
+}

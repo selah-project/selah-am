@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "2-kings 13:16",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ወደ እስራኤልም ንጉሥ «እጅህን በሐረጉ ላይ አኑር» አለው፤ እርሱም እጁን አነራ፤ ኤልሳዕም እጆቹን በንጉሡ እጆች ላይ አኑራቸው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው፤"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ንጉሡን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "አኑር"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "ሐረጉ"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "አነራ፤"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "አኑራቸው፤"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ኤልሳዕ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "እጆቹን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "እጆች"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:47:00.906510678Z",
+  "model": "glm-5.3"
+}

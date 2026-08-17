@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "job 5:22",
+  "book": "job",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ለውድቀትና ለራብ ትስቅባቸዋለህ፣ እና ከምድሪቱ አራዊት አትፈራም።",
+  "tokens": [
+    {
+      "surface": "לשד",
+      "gloss": "ለውድቀት"
+    },
+    {
+      "surface": "ולכפן",
+      "gloss": "እና ለራብ"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "ትስቅባቸዋለህ"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "እና ከአራዊት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድሪቱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ትፈራም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:41:20.193271165Z",
+  "model": "glm-5.3"
+}

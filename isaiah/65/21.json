@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 65,
+  "translation": "ቤቶችን ይገነባሉ እና ይኖሩበታል፤ የወይን እርሾዎችን ይተከላሉ እና ፍሬያቸውን ይበላሉ።",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ይገነባሉ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ቤቶችን"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ይኖሩበታል"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "ይተከላሉ"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "የወይን እርሾዎችን"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ይበላሉ"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ፍሬያቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:33:16.828424803Z",
+  "model": "glm-5.3"
+}

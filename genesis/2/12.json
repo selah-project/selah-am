@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የዚያችውም ምድር ወርቅ መልካም ነው፤ በዚያ በዶላኽና የሾሀም ድንጋይ አለ።",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "ወርቅም"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የ…ምድር"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያችው"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "በዶላኽ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ድንጋይም"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "የሾሀም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:03.233518698Z",
+  "model": "glm-5.3"
+}

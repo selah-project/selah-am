@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "በዚህ መልኩ ሰው ያታለል ⟨את⟩ ወዳጁን እና ይላል «አልተጫወትኩም ወይ? እኔ ተጫዋች ነኝ።»",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "በዚህ መልኩ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ያታለል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወዳጁን"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ወዳጁን"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "እና ይላል"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "አልተጫወትኩም ወይ?"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "ተጫዋች"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:36:20.639895001Z",
+  "model": "glm-5.3"
+}

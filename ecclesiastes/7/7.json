@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ግፍ ጠቢብን ያሞናል፤ ጉቦም ⟨את⟩ ልብን ትጠፋለች።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንኳ"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ግፍ"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "ያሞናል"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ጠቢብ"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "እና ትጠፋለች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልብን"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "ጉቦ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:15:51.529374333Z",
+  "model": "glm-5.3"
+}

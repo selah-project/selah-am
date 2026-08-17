@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "ezekiel 14:2",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "የያህዌህ ቃል ሆኖ ወደ እኔ መጣ፦",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆኖ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "በሚል፦"
+    }
+  ],
+  "timestamp": "2026-08-16T08:24:26.741035392Z",
+  "model": "glm-5.3"
+}

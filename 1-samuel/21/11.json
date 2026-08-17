@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ዳዊትም ተነሥቶ በዚያው ቀን ከሳኦል ፊት ሸሸ፤ ወደ ጋት ንጉሥ አኪስም ቀርቦ ገባ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሥቶ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ሸሸ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በ…ቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "በዚያው"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከ…ፊት"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ገባ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "አኪስ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ጋት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:47:16.246554367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "የያህዌህ ቃል ወደ እርሱ መጥቶ እንዲህ አለው፦",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እንደሆነ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ አለው"
+    }
+  ],
+  "timestamp": "2026-08-16T06:30:45.977299595Z",
+  "model": "glm-5.3"
+}

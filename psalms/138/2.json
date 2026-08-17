@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 138,
+  "translation": "ወደ ቅድስት መቅደስህ እሰግዳለሁ፤ ስምህንም ⟨את⟩ አመሰግናለሁ፤ በቸርነትህና በእውነትህ ምክንያት፤ በሁሉም ስምህ ላይ ቃልህን አብዝተሃልና።",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "እሰግዳለሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "መቅደስህ"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "አመሰግናለሁም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስምህን"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ቸርነትህ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "እውነትህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "አብዝተሃል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ቃልህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:22.507914741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "በላህ፣ ጠገብህ፣ ያህዌህን ⟨את⟩ ኤሎሂምህንም በመልካሙ ምድር ላይ ባረክህ፣ የሰጠህ።",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "በላህ"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ጠገብህ"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "ባረክህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምህን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "መልካሙ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጠህ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:37:48.425993313Z",
+  "model": "glm-5.3"
+}

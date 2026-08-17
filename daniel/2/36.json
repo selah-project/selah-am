@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "daniel 2:36",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ይህ ራእይ ነው፤ ትርጉሙንም በንጉሡ ፊት እንነግራለን።",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "ራእይ"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "ትርጉሙንም"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "እንነግራለን"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "በ... ፊት"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:28:35.918393643Z",
+  "model": "glm-5.3"
+}

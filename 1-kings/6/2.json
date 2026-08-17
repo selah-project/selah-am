@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-kings 6:2",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ንጉሡ ሰሎሞን ለያህዌህ የሠራው ⟨the⟩ ቤት ርዝመቱ ስድሳ ክንድ ነበር፤ ስፋቱ ሃያ ክንድ፣ ቁመቱም ሰላሳ ክንድ ነበር።",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "እና ⟨the⟩ ቤት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ው"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ስድሳ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ክንድ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ርዝመቱ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "እና ሃያ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ስፋቱ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "እና ሰላሳ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ክንድ"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ቁመቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:17:28.632716710Z",
+  "model": "glm-5.3"
+}

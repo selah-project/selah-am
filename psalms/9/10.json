@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ያህዌህ ለተጨቋኙ ከፍታ መጠለያ ይሆናል፤ በጭንቀት ወቅቶች መጠለያ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "ከፍታ መጠለያ"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "ለተጨቋኙ"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "መጠለያ"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "በወቅቶች"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "በጭንቀት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:31.940418772Z",
+  "model": "glm-5.3"
+}

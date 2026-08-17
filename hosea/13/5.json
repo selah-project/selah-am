@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እኔ በምድረ በዳ አውቄሃለሁ፣ በደረቀና በጠፋ ምድር።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "አውቄሃለሁ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በምድረ በዳ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "ደረቀና ጠፋ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:00:43.727006530Z",
+  "model": "glm-5.3"
+}

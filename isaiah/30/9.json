@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 30:9",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ምክንያቱም ⟨ይህ⟩ አመጣጣቂ ሕዝብ ነው፣ ሐሰተኛ ልጆች፣ ትምህርተ ያህዌህን ሊሰሙ የማይፈልጉ ልጆች።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "አመጣጣቂ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ይህ⟩"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "כחשים",
+      "gloss": "ሐሰተኞች"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "ፈለጉም"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ሊሰሙ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ትምህርተ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    }
+  ],
+  "timestamp": "2026-08-16T16:58:18.347309496Z",
+  "model": "glm-5.3"
+}

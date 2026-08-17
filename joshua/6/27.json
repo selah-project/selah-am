@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እንዲህም ሆነ፤ ያህዌህ ⟨את⟩ ሆሽዕን ከእርሱ ጋር ነበር፤ የሚሰማውም ወሬ በምድር ሁሉ ላይ ነበር።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እንዲህም ሆነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሆሽዕን ከእርሱ ጋር"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ሆሽዕን"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ነበር"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ወሬ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T15:15:07.531313413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 85,
+  "translation": "ምሕረት እና እውነት ተገናኙ፤ ጽድቅ እና ሰላም አንዱ ሌላውን ሳቀ።",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "ምሕረት"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "እና እውነት"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "ተገናኙ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቅ"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "እና ሰላም"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "ሳቀ (ተሳቀ)"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:13.495403211Z",
+  "model": "glm-5.3"
+}

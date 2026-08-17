@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እናም ሁለቱን ቤቶች ⟨את⟩ ሰለሞን የገነባ በነበረበት ጊዜ ከዐሥር ዓመታት መጨረሻ ላይ የያህዌህን ቤት ⟨את⟩ እና የንጉሡን ቤት ⟨את⟩ — ዐሥራ ዓመት ሲሟላ ሆነ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እናም ሆነ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "መጨረሻ ላይ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ዐሥራ ሁለት"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነው"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ገነባ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰለሞን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁለቱን ቤቶችን"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለቱን"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ቤቶችን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የያህዌህን ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤትን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የንጉሡን ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤትን"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:45:57.101667560Z",
+  "model": "glm-5.3"
+}

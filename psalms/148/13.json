@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 148,
+  "translation": "የያህዌህን ስም ያመሰግኡ፤ በርሱ ስም ብቻ ከፍ ብሎ ተመስላልና፤ ክብሩ በምድር እና በሰማያት ላይ ነው።",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "ያመሰግኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስምን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስምን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "ከፍ ብሎ ተመስላልና"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ክብሩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "እና በሰማያት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:02.383252737Z",
+  "model": "glm-5.3"
+}

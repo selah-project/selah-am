@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "genesis 48:13",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "ዮስፍም ሁለቱንም ⟨את⟩ ወሰደ፤ ኤፍሬምን ⟨את⟩ በቀኙ በእስራኤል ግራ በኩል፣ ምናሴንም ⟨את⟩ በግራው በእስራኤል ቀኝ በኩል፣ ወደ እርሱም አቀረባቸው።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደም"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮስፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁለቱንም"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ሁለቱንም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤፍሬምን"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍሬምን"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "በቀኙ"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "ግራ በኩል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምናሴንም"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሴንም"
+    },
+    {
+      "surface": "בשמאלו",
+      "gloss": "በግራው"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "ቀኝ በኩል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "አቀረባቸውም"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:03:53.199224794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ከልብ የጎደለው ሰው እጁን ይመታል፤ በጓዙ ፊት ቋሚ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "የጎደለ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "ይመታል"
+    },
+    {
+      "surface": "כף",
+      "gloss": "እጅ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ቋሚ ይሆናል"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "ቋሚነት"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ጓዙ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:29:42.453536445Z",
+  "model": "glm-5.3"
+}

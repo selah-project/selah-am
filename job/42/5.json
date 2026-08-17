@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "በጆሮ መስማት ሰምቻችሁ ነበር፤ እና አሁን ዓይኔ አይቶታል።",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "በመስማት"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ጆሮ"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "ሰምቻችሁ ነበር"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "እና አሁን"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኔ"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "አይቶታል"
+    }
+  ],
+  "timestamp": "2026-08-16T18:14:04.187710747Z",
+  "model": "glm-5.3"
+}

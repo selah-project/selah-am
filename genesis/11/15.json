@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሸላኅም ከወለደ ⟨את⟩ ዔበር በኋላ አራት መቶ ሦስት ዓመት ኖረ፤ ወንዶችንና ሴቶችን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ኖረ፤"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ሸላኅም"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "በኋላ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ከወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዔበር"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ዔበር"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "አራትም"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ፤"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ወንዶችን"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ሴቶችንም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:58.484294905Z",
+  "model": "glm-5.3"
+}

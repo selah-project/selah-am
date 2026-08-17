@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ከፍርሃትህ ሥጋዬ አስተኮሰዋል እና ከፍርዶችህ ተገርፋለሁ።",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "አስተኮሰዋል\/አፈራዋል"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "ከፍርሃትህ"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ሥጋዬ"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "እና ከፍርዶችህ"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "ተገርፋለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:04.712669850Z",
+  "model": "glm-5.3"
+}

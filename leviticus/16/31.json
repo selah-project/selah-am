@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ሰንበት የሙሉ ዕረፍት ሰንበት ናት ለእናንተ፤ ⟨את⟩ ነፍሳችሁን ታሳዝናላችሁ — ለዘላለም ሕግ ናት።",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "ሰንበት"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "የሙሉ ዕረፍት"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ናት"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለእናንተ"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "ታሳዝናላችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሳችሁን"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ነፍሳችሁን"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ሕግ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ለዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:55:25.597631941Z",
+  "model": "glm-5.3"
+}

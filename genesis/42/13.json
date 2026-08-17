@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 42:13",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "እነርሱም አሉ፦ የአንተ አገልጋይ አሥራ ሁለት ወንድሞች ነን፤ በከነዓን ምድር የአንድ ሰው ልጆች ነን፤ እነሆ፣ ትንሹም ዛሬ ⟨את⟩ ከአባታችን ጋር ነው፤ አንዱ የለምም።",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "አሉ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "የአንተ አገልጋይ"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ወንድሞች"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ነን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "איש",
+      "gloss": "የሰው"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በ…ምድር"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነዓን"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆም"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ትንሹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከአባታችን ጋር"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "አባታችን"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "አንዱም"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "የለምም"
+    }
+  ],
+  "timestamp": "2026-08-16T14:29:12.836428237Z",
+  "model": "glm-5.3"
+}

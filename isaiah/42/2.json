@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "አይጮኽም አያነሳም፣ ድምፁንም በመንገድ አያሰማም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "ያጮካል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ...ም"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ያነሳል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አያ...ም"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "ያሰማል"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "በመንገድ (በውጭ)"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "ድምፁን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:21:44.981131325Z",
+  "model": "glm-5.3"
+}

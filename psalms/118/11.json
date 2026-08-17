@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 118,
+  "translation": "አከበቡኝ፣ እንዲሁም አከበቡኝ፤ በያህዌህ ስም እውን እቀጥፋቸዋለሁ።",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "አከበቡኝ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "አከበቡኝ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "በ…ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "እቀጥፋቸዋለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:35.420567538Z",
+  "model": "glm-5.3"
+}

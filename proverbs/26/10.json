@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ሁሉን የሚያርድ ታላቅ ተኩሶች አሉ፤ ሞኝን የሚቀጥር እና እንሰራቦችን የሚቀጥርም እንደ እርሱ ነው።",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "የሚያርድ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "እና…የሚቀጥር"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ሞኝን"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "እና…የሚቀጥር"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "እንሰራቦችን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:34:51.985580437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እነዚህም ያሉት አለቆቹ እነዚህ ናቸው፤ ካህኑ የሳቆቅ ልጅ ዓዛርያስ።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እነዚህም"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "አለቆቹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያሉት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "የራሱ"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "ዓዛርያስ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ሳቆቅ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:15:36.306062161Z",
+  "model": "glm-5.3"
+}

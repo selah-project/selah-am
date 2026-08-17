@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 5:10",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ኤልይሳ መልእክተኛ ወደ እርሱ ላከ በሚል፦ ሂድ፤ በዮርዳኖስ ሰባት ጊዜ ታጥባለህ፤ ሥጋህ ወደ አንተ ይመለሳል፤ ትከብራለህ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ኤልይሳ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "መልእክተኛ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "በሚል"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ታጥባለህ፤"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "በዮርዳኖስ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ይመለሳል፤"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "ሥጋህ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ትከብራለህ፤"
+    }
+  ],
+  "timestamp": "2026-08-16T16:42:08.249479399Z",
+  "model": "glm-5.3"
+}

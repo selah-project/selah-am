@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "ኤሎሂም አንተ ሞኝነቴን አውቀኸዋል ከአንተ ዘንድ ወንጀሌዬ አልተሰወረም።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "አውቀኸዋል"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "ሞኝነቴን"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "ወንጀሌዬ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ከአንተ ዘንድ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "ተሰወረም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:33.549395671Z",
+  "model": "glm-5.3"
+}

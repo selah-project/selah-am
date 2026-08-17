@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "አሃሮንም ልጆች ካህናት ቁርጦቹን ⟨את⟩፣ ራሱን ⟨את⟩ እና ስቡን ⟨את⟩ በእሳቱ ላይ ባለው በእንጨቱ ላይ፣ በመሠዊያው ላይ ባለው በእሳቱ ላይ በደንብ ያስተናግዳሉ።",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "ያስተናግዳሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቁርጦቹን"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "ቁርጦቹን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራሱን"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ስቡን"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "ስብ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "እንጨቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኝበት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "እሳቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኝበት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:41:02.600848828Z",
+  "model": "glm-5.3"
+}

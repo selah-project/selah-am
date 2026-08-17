@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "እኔ ቃላትን እመልስልሃለሁ፣ ⟨את⟩ ወዳጅህንም ከአንተ ጋር።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "እመልስልሃለሁ"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "ቃላትን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ወዳጅህን"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "ወዳጅህን"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:57:06.569615393Z",
+  "model": "glm-5.3"
+}

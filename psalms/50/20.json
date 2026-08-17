@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 50,
+  "translation": "ትቀመጣለህ፣ በወንድምህ ላይ ትናገራለህ፤ በየእናትህ ልጅ ላይ ስድብን ታስቀምጣለህ።",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "ትቀመጣለህ"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "በወንድምህ ላይ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ትናገራለህ"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "በ... ልጅ ላይ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "የእናትህ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ታስቀምጣለህ"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "ስድብን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:20.211333663Z",
+  "model": "glm-5.3"
+}

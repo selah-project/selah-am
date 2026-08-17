@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "jeremiah 50:3",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 50,
+  "translation": "ምክንያቱም ከሰሜን ሕዝብ በእርሷ ላይ ይወጣል፤ እርሱ ⟨את⟩ ምድሯን ወደ ደረሰኝነት ያደርጋታል፣ በእርሷም ውስጥ ነዋሪ አይኖርም፤ ከሰው እስከ እንስሳ ድረስ ተንቀላቀሉ፣ ሄዱ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ይወጣል"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "በእርሷ ላይ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ከሰሜን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "ያደርጋታል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሯን"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ምድሯን"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "ወደ ደረሰኝነት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይኖርም"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ነዋሪ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሷ ውስጥ"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ከሰው"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "እንስሳ"
+    },
+    {
+      "surface": "נדו",
+      "gloss": "ተንቀላቀሉ"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ሄዱ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:13:40.525496108Z",
+  "model": "glm-5.3"
+}

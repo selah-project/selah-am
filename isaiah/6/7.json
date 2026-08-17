@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "በአፌም ነካው፤ እንዲህም አለ፣ እነሆ ይህ ከንፈሮችህን ነክቷል፤ ዓመፃህም ወጥቷል፣ ኃጢያትህም ተሸፍኗል።",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "ነካው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፌ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ነክቷል"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "ከንፈሮችህ"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "ወጥቷል"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "ዓመፃህ"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "ኃጢያትህ"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "ተሸፍኗል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:00:24.403622086Z",
+  "model": "glm-5.3"
+}

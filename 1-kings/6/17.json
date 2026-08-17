@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እና ⟨በ⟩አርባ እጥር ቤቱ ነበረ፤ እርሱ እንደ ⟨ነው⟩ ኃል ቤቱ በፊቱ ነው።",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "እና አርባ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "በእጥር"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበረ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ኃል ቤቱ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:17:18.281645006Z",
+  "model": "glm-5.3"
+}

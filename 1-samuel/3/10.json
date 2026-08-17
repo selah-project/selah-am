@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ያህዌህ መጣ፤ ቆመ፤ እና እንደ አንድ ጊዜ በአንድ ጊዜ «ሰሙኤል፣ ሰሙኤል» ብሎ ጠራ፤ ሰሙኤልም «ተናገር፣ አገልጋይህ ይሰማልና» አለ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "ቆመ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "እንደ አንድ ጊዜ"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "በአንድ ጊዜ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሰሙኤል"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሰሙኤል"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሰሙኤልም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገር"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ይሰማልና"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "አገልጋይህ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:39:59.104034750Z",
+  "model": "glm-5.3"
+}

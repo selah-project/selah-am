@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 26:20",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እና አሁን ደሜ በያህዌህ ፊት ርቆ ወደ ምድር አይውደቅ፣ ምክንያቱም የእስራኤል ንጉሥ አንድ ጉንዳን እንዲፈልግ ⟨את⟩ ወጥቷል፣ እንደ ሰው በተራሮች ውስጥ የደመራን እንደሚከተል ነው።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "እና አሁን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "አይውደቅ"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ደሜ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ወደ ምድር"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ርቆ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ወጥቷል"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "እንዲፈልግ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጉንዳን"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ጉንዳን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "ይከተላል"
+    },
+    {
+      "surface": "הקרא",
+      "gloss": "የደመራን"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "በተራሮች ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-17T08:58:17.279377791Z",
+  "model": "glm-5.3"
+}

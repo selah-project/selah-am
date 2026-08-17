@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እንግዲህ እነሆ የእስራኤል ልጆች ጮክ ወደ ⟨እኔ⟩ ደርሷል፤ የግብፅ ሰዎች የሚጨነቁትን ⟨את⟩ መከራም አይቻለሁ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "እንግዲህ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "ጮክ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ደርሷል"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "አይቻለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መከራን"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "መከራውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ውን"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፃውያን"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "የሚጨነቁት"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ እነሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:07:45.717746327Z",
+  "model": "glm-5.3"
+}

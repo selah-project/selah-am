@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "አሳልፌ ቆርቄአለሁ እናንተን ⟨את⟩ የየሩሳሌም ሴቶች፤ ምን ታስነቃቃላችሁ? እንዴትስ ፍቅርን ⟨את⟩ ታንቃቃላችሁ? እስኪፈልግ ድረስ።",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "አሳልፌ ቆርቄአለሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ሴቶች"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የየሩሳሌም"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "ታስነቃቃላችሁ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "እንዴትስ"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "ታንቃቃላችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍቅርን"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "ፍቅርን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪ...ድረስ"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "ትፈልግ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:06:09.804875570Z",
+  "model": "glm-5.3"
+}

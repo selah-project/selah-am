@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 149,
+  "translation": "የኤል ከፍታ ምስጋናዎች በጉሮሮአቸው፣ ባለሁለት ጥርስ ሰይፍም በእጃቸው፤",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "ከፍታ ምስጋናዎች"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "በጉሮሮአቸው"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "እና ሰይፍ"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "ባለሁለት ጥርስ"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "በእጃቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:00.501015044Z",
+  "model": "glm-5.3"
+}

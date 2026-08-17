@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "2-samuel 10:1",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ከዚህ በኋላ የአሞን ልጆች ንጉሥ ሞተ፣ ሐኑንም ልጁ በርሱ ፋንታ ነገሠ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ከዚህ በኋላ ሆነ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ… በኋላ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "አሞን"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "ሐኑን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "በርሱ ፋንታ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:58:26.196780135Z",
+  "model": "glm-5.3"
+}

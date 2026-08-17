@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ዳዊትም ሰዎቹን ⟨את⟩ በቃላት አግዞ ወደ ሳኦል እንዲነሱ አልፈቀዳቸውም፤ ሳኦልም ከዋሻው ተነሥቶ በመንገዱ ሄደ።",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "አግዞ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰዎቹን"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ሰዎቹን"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "በቃላት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "ፈቀደላቸው"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "እንዲነሱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ሳኦልም"
+    },
+    {
+      "surface": "קם",
+      "gloss": "ተነሥቶ"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "ከዋሻው"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገዱ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:46:18.764108757Z",
+  "model": "glm-5.3"
+}

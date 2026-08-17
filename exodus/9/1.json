@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "exodus 9:1",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ያህዌህም ሞሼን እንዲህ አለው፦ ወደ ፈርዖን ግባ፤ እንዲህም በለው፦ ያህዌህ የዕብራውያን ኤሎሂም እንዲህ ይላል፦ ሕዝቤን ⟨את⟩ ላክ፤ ያመልኩኝም ዘንድ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ግባ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "በለውም"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም የ"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ዕብራውያን"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ላክ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቤን"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤን"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ያመልኩኝም ዘንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:11:30.600273739Z",
+  "model": "glm-5.3"
+}

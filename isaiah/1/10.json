@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የያህዌህን ቃል ሰሙ፤ የሰዶም አለቆች፤ አድምጁ፤ የኤሎሂምን ትምህርት የአሞራ ሕዝብ ሆይ።",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ሰሙ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃልን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "አለቆች"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "ሰዶም"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "አድምጁ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ትምህርትን"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "አሞራ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:55:45.566704740Z",
+  "model": "glm-5.3"
+}

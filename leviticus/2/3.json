@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እና የሚቀረው ከምግብ መሥዋዕቱ ለአሃሮን እና ለልጆቹ ይሆናል፤ ከያህዌህ የእሳት መሥዋዕቶች የተቀደሰ ቅዱሳን ቅዱስ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "እና የሚቀረው"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ምግብ መሥዋዕቱ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ለአሃሮን"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "እና ለልጆቹ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "የተቀደሰ ቅዱሳን"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "ከየእሳት መሥዋዕቶች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:11:35.566507228Z",
+  "model": "glm-5.3"
+}

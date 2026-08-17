@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ከተክህሎች እንስሳት፣ ከእነርሱም እንስሳት የማይከርሁት፣ ከወፎችም፣ እንዲሁም በምድሩ ላይ ከሚንቀሳቀስ ሁሉ።",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "እንስሳት"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "ተክህሎች"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ከእነርሱም"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "እንስሳት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "የማይ"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "ከርሁት"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ከ...ም"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ወፎች"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እንዲሁም ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚ"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ንቀሳቀስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:31:14.448503500Z",
+  "model": "glm-5.3"
+}

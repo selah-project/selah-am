@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "2-chronicles 17:15",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "እና ከእጁ ሥር ይሆሐናን ሹም ነበረ፤ ከእርሱም ጋር ሁለት መቶ ሰማንያ ሺህ ነበሩ።",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "እና በ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁ"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "ይሆሐናን"
+    },
+    {
+      "surface": "השר",
+      "gloss": "ሹሙ"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "እና ከእርሱ ጋር"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ሁለት መቶ"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "እና ሰማንያ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:45:11.114210158Z",
+  "model": "glm-5.3"
+}

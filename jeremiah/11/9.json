@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 11:9",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ያህዌህም አነገረኝ፤ በይሁዳ ሰዎች መካከል እና በየሩሳሌም ነዋሪዎች መካከል ሴራ ተገኘ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አነገረኝም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "እነሆ ወደ እኔ"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ተገኘ"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "ሴራ"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "በሰዎች መካከል"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ובישבי",
+      "gloss": "እና በነዋሪዎች"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሳሌም"
+    }
+  ],
+  "timestamp": "2026-08-16T17:15:43.868136925Z",
+  "model": "glm-5.3"
+}

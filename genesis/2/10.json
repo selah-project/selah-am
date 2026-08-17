@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ወንዙም ገነቱን ⟨את⟩ ለማጠጣት ከዔድን ይወጣል፤ ከዚያም ይከፈላል፤ አራት ራሶችም ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "ወንዙም"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ይወጣል"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "ከዔድን"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "ለማጠጣት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገነቱን"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ገነቱን"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ከዚያም"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "ይከፈላል"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "አራት"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "ራሶች"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:03.233234441Z",
+  "model": "glm-5.3"
+}

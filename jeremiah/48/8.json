@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "jeremiah 48:8",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "አጥፊው ወደ ከተማዋ ሁሉ ይመጣል፤ ምንም ከተማ አትመልጥም፤ ሸለቆው ይጠፋል፣ ሜዳውም ይሟጠጣል — ያህዌህ እንደ ተናገረው።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ይመጣል"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "አጥፊው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "እና ከተማ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አትመልጥም"
+    },
+    {
+      "surface": "תמלט",
+      "gloss": "ትመልጣለች"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ይጠፋል"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "ሸለቆው"
+    },
+    {
+      "surface": "ונשמד",
+      "gloss": "ይሟጠጣል"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "ሜዳው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "እንደ ተናገረው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:09:50.376329224Z",
+  "model": "glm-5.3"
+}

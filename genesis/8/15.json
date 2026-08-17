@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ኤሎሂምም እንዲህ ሲል ለኖህ ተናገረ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T02:32:26.203827977Z",
+  "model": "glm-5.3"
+}

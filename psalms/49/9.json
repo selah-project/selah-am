@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "እንዲሁም የነፍሳቸው መዋጫ ውድ ስለ⟨ሆነ⟩ ለዘላለም ያቆማል።",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "ውድ ስለሆነ"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "መዋጫ"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "የነፍሳቸው"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "ያቆማል"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T18:12:37.025355800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ከወርቅና ከብዙ ቀጭን ወርቅ ይልቅ ሊመኙ የሚገቡ ናቸው፤ ከማርና ከአንበሮ ማርም ይበልጣሉ ጣፋጭ።",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "ሊመኙ የሚገቡ ናቸው"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "ከወርቅ"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "እና ከቀጭን ወርቅ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "ይበልጣሉ ጣፋጭ"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "ከማር"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "እና ከ…ማር"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "አንበሮ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:07.341564505Z",
+  "model": "glm-5.3"
+}

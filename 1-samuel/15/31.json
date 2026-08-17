@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "1-samuel 15:31",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ሳሙኤልም በሳኦል ኋላ ተመለሰ፤ ሳኦልም ለያህዌህ ሰገደ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤልም"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "በ… ኋላ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ሰገደ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦልም"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:40:49.690796905Z",
+  "model": "glm-5.3"
+}

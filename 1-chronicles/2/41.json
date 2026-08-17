@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ሰሎምም ⟨את⟩ የቀምያን ወለደ፤ የቀምያም ⟨את⟩ ኤልይሻማን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "ሰሎምም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የቀምያን"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "የቀምያን"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "የቀምያም"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤልይሻማን"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "ኤልይሻማን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:28:49.624621386Z",
+  "model": "glm-5.3"
+}

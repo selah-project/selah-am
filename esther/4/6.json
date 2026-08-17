@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ሃታኽም በንጉሡ በር ፊት ለሚገኘው በከተማዋ መንገድ ወደ ሞርዱካይ ወጣ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "התך",
+      "gloss": "ሃታኽም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ሞርዱካይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "የከተማዋ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ለሚገኘው"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "שער",
+      "gloss": "በር"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:33:00.990275540Z",
+  "model": "glm-5.3"
+}

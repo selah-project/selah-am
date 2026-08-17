@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 77,
+  "translation": "በእጅህ ሕዝብህን አዳንህ፤ የያዕቆብና የዮሴፍ ልጆችን፤ ሰላህ።",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "አዳንህ፤"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "በእጅህ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ሕዝብህን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆችን"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ዮሴፍንም"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:38.619443996Z",
+  "model": "glm-5.3"
+}

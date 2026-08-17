@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 122,
+  "translation": "በአንተ በርዕስ ውስጥ እግሮቻችን ቆም ብለዋል፣ ኢየሩሳሌም።",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "ቆም ብለዋል"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ናቸውፈኝ"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "እግሮቻችን"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "በአንተ በርዕስ ውስጥ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ኢየሩሳሌም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:38.985054034Z",
+  "model": "glm-5.3"
+}

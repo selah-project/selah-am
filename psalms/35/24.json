@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "እንደ ጽድቅህ ፈርድልኝ ያህዌህ ኤሎሂም የእኔ፤ እና በእኔ ላይ አይደስቱ።",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "ፈርድልኝ"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "እንደ ጽድቅህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም የእኔ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ደስ ይበሉ \/ ያስቡ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "በእኔ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:30.642929674Z",
+  "model": "glm-5.3"
+}

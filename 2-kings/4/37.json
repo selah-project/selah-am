@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 37,
+  "ref": "2-kings 4:37",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እርሷም ገብታ በእግሮቹ ላይ ወደቀች፤ ለምድርም ሰገደች፤ ወንድ ልጇንም ⟨את⟩ ሰበሰበች እና ወጣች።",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ገብታ"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "ወደቀች"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "እግሮቹ"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "ሰገደች"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ለምድር"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "ሰበሰበች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንድ ልጇን"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ወንድ ልጇን"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "ወጣች"
+    }
+  ],
+  "timestamp": "2026-08-16T06:39:06.830964277Z",
+  "model": "glm-5.3"
+}

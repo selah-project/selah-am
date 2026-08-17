@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ሰላምም ይጠይቁሃል፤ ሁለት ዳቦም ይሰጡሃል፤ ከእጃቸውም ትቀበላለህ።",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "ይጠይቁሃልም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ስለ አንተ"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ይሰጡሃልም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦ"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ትቀበላለህም"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ከእጃቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T05:37:04.074874547Z",
+  "model": "glm-5.3"
+}

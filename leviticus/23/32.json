@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ሰባት የሙሉ እረፍት ሰባት እርሷ ላችሁ ⟨ናት⟩፤ ነፍሳችሁን ⟨את⟩ ታልቃችኋል፤ በወሩ በዘጠነኛው ቀን በምሽት፣ ከምሽት እስከ ምሽት ሰባታችሁን ታርፋላችኋል።",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "የሙሉ እረፍት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሷ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ላችሁ"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "እና ታልቃችኋል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሳችሁን"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ነፍሳችሁን"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "በዘጠነኛው"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ወር"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "በምሽት"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "ከምሽት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ምሽት"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "ታርፋላችኋል"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "ሰባታችሁን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:00:24.963661831Z",
+  "model": "glm-5.3"
+}

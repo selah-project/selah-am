@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "በራሱ ልብስ ብቻ ከገባ በራሱ ልብስ ብቻ ይወጣል፤ የሴት ባል ከሆነ እርሱም ሚስቱ ከእርሱ ጋር ትወጣለች።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "በራሱ ልብስ ብቻ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ከገባ"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "በራሱ ልብስ ብቻ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ይወጣል"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "የሴት ባል"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ ከሆነ"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "ትወጣለች"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሚስቱ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:22:33.362978214Z",
+  "model": "glm-5.3"
+}

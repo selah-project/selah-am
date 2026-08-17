@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "proverbs 23:32",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "መጨረሻው እንደ እባብ ይነክሳል፤ እንደ አጥቢ እባብም ያረቅቃል።",
+  "tokens": [
+    {
+      "surface": "אחריתו",
+      "gloss": "መጨረሻው"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "እንደ እባብ"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ይነክሳል"
+    },
+    {
+      "surface": "וכצפעני",
+      "gloss": "እንደ አጥቢ እባብም"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "ያረቅቃል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:34:16.837066792Z",
+  "model": "glm-5.3"
+}

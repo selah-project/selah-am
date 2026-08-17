@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "የይሁዳ ንጉሥ ያሆነው ይሆሳፓጥ ገና እዚህ ላይ የያህዌህ ነቢይ የለምን? ከእርሱ ⟨את⟩ እንጠይቅ ዘንድ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "ይሆሳፓጥ"
+    },
+    {
+      "surface": "האין",
+      "gloss": "የለምን?"
+    },
+    {
+      "surface": "פה",
+      "gloss": "እዚህ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ነቢይ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ገና"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "እንጠይቅ ዘንድ"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "ከእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-17T10:48:23.536220331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 50:16",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 50,
+  "translation": "ከባቢሎን አርሶ ዘራቹን እና በመከር ጊዜ መጓደድ የሚያዝ ሰውን ቁረጡ፤ ከገዳይ ሰይፍ ፊት እያንዳንዱ ወደ ሕዝቡ ይመለሳል፤ እና እያንዳንዱ ወደ ምድሩ ያመልጣል።",
+  "tokens": [
+    {
+      "surface": "כרתו",
+      "gloss": "ቁረጡ"
+    },
+    {
+      "surface": "זורע",
+      "gloss": "አርሶ ዘራቹን"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "ከባቢሎን"
+    },
+    {
+      "surface": "ותפש",
+      "gloss": "እና የሚያዝ"
+    },
+    {
+      "surface": "מגל",
+      "gloss": "መጓደድ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "በ... ጊዜ"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "መከር"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከ... ፊት"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ገዳይ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "יפנו",
+      "gloss": "ይመለሳል"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "እና እያንዳንዱ"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "ወደ ምድሩ"
+    },
+    {
+      "surface": "ינסו",
+      "gloss": "ያመልጣል"
+    }
+  ],
+  "timestamp": "2026-08-16T20:10:53.946731462Z",
+  "model": "glm-5.3"
+}

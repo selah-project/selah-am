@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "እንደ ስምህ ሁሉ ኤሎሂም ሆይ፣ እንዲያውም ምስገጋትህ እስከ ምድር ጫፎች ድረስ ነው፤ ፍትሐዊነት ቀኝ እጅህን ሞልቶታል።",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "እንደ ስምህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲያውም"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ምስገጋትህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "ጫፎች"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ፍትሐዊነት"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ሞልቶታል"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ቀኝ እጅህን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:36.582565393Z",
+  "model": "glm-5.3"
+}

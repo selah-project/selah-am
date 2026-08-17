@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 114,
+  "translation": "እስራኤል ሲወጣ ከግብፅ፣ የያዕቆብ ቤት ሲርቅ ከቋንቋው በማይገባው ሕዝብ፤",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "ሲወጣ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ከግብፅ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "የያዕቆብ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ከሕዝብ"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "ቋንቋው በማይገባ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:52.066769672Z",
+  "model": "glm-5.3"
+}

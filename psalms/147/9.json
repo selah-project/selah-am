@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 147,
+  "translation": "ለእንስሳት ምግባቸውን ይሰጣል፤ ለጥቁር ወፍ ወጣቶችም የሚጮኁትን ይሰጣል።",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "ይሰጣል"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "ለእንስሳት"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "ምግባቸውን"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለ…ወጣቶች"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ጥቁር ወፍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚ…ው"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "የሚጮኁት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:34.682470127Z",
+  "model": "glm-5.3"
+}

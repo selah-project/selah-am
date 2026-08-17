@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "judges 4:19",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እርሷንም እንዲህ አላት — እባክሽ ትንሽ ውሃ አጠጣኝ፣ በጣም ጠምቻለሁና፤ ⟨את⟩ የወተት ከረጢትን ከፈተች፣ አጠጣችውም፣ ሸፈነችውም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "እርሷን"
+    },
+    {
+      "surface": "השקיני",
+      "gloss": "አጠጣኝ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክሽ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ትንሽ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "צמאתי",
+      "gloss": "ጠምቻለሁ"
+    },
+    {
+      "surface": "ותפתח",
+      "gloss": "ከፈተችም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የወተት ከረጢትን"
+    },
+    {
+      "surface": "נאוד",
+      "gloss": "ከረጢት"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "የወተት"
+    },
+    {
+      "surface": "ותשקהו",
+      "gloss": "አጠጣችውም"
+    },
+    {
+      "surface": "ותכסהו",
+      "gloss": "ሸፈነችውም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:16:55.912294086Z",
+  "model": "glm-5.3"
+}

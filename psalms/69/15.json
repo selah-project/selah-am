@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "ከጭቃ አድነኝ፤ አልጠልቅም፤ ከጠላቶቼ እንድድን በል፤ እና ከጥልቅ ውኃዎች።",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "አድነኝ"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "ከጭቃ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "አልጠልቅም"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "እድናለሁ"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "ከጠላቶቼ"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "እና ከጥልቅ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውኃዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:47.051393506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "ከምኞታቸውም አልተመለሱም፤ ምግባቸውም በአፋቸው ውስጥ እያለ ነበር።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አልፎታልም"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "ተመለሱ"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "ከምኞታቸው"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "እያለ"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ምግባቸው"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "በአፋቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T18:12:28.003228204Z",
+  "model": "glm-5.3"
+}

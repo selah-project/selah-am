@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "genesis 27:9",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "እሺ አሁን ወደ መንጋው ሂድ፣ ከዚያም ሁለት ጥሩ የፍየል ጠጆችን ስለኝ፤ አባትህ እንደሚወዳቸው ለአባትህ ⟨את⟩ እነሱን ጣፋጭ ምግብ አደርጋለሁ።",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እሺ አሁን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "መንጋው"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "ስለኝ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ከዚያ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "ጠጆችን"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "የፍየል"
+    },
+    {
+      "surface": "טבים",
+      "gloss": "ጥሩ"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "አደርጋለሁ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን (ጣፋጭ ምግብን)"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "ጣፋጭ ምግብ"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "ለአባትህ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ሚወዳቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:46:21.746159600Z",
+  "model": "glm-5.3"
+}

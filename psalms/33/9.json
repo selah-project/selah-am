@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "በእርግጥ እርሱ ብሎ ⟨ሆነ፤⟩ እርሱ አዝዞ ⟨ቆመ።⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእርግጥ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ብሎ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "⟨ሆነ፤⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዝዞ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "⟨ቆመ።⟩"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:18.385236774Z",
+  "model": "glm-5.3"
+}

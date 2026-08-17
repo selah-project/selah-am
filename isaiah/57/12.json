@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 57,
+  "translation": "እኔ ጽድቅህን አስቀምጣለሁ፣ እና ⟨את⟩ ሥራዎችህንም፤ እነሱም አይጠቅሙህም።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "አስቀምጣለሁ"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ጽድቅህን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሥራዎችህን"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ሥራዎችህን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እነሱም አይ...ም"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "አይጠቅሙህም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:28:55.041509095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "አሃሮንን ⟨את⟩ እና ኤልዓዛርን የሱንን ልጅ ⟨את⟩ ውሰድ፤ ወደ ሐውር ⟨את⟩ ተራራው አውጣቸው።",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ውሰድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አሃሮንን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ኤልዓዛርን"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ኤልዓዛር"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "የሱን ልጅ"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "አውጣቸው"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ሐውር"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ተራራው"
+    }
+  ],
+  "timestamp": "2026-08-16T04:20:24.285619791Z",
+  "model": "glm-5.3"
+}

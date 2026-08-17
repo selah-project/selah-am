@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እነሱም እዚያ በድንጋዮቹ ላይ ⟨את⟩ የሞሼ ሕግ ቅጂ እንደ ጻፈው በእስራኤል ልጆች ፊት ፊት ጻፉ።",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ጻፉ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "በድንጋዮቹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሞሼ ሕግ ቅጂ"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ቅጂ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ሕግ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "እንደ ጻፈው"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት ፊት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T05:02:58.855704866Z",
+  "model": "glm-5.3"
+}

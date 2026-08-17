@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ሞሼም የዚህን ቅኔ ቃላት ⟨את⟩ የእስራኤል ሙሉ ማኅበር ሁሉ ጆሮ ሲሆን እስከ ፍጻሜው ድረስ ተናገረ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ጆሮ ሲሆን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ማኅበር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላት"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "የቅኔ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "የዚህን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ... ድረስ"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ፍጻሜው"
+    }
+  ],
+  "timestamp": "2026-08-16T04:55:06.649259343Z",
+  "model": "glm-5.3"
+}

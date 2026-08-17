@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ዳዊትም የጾባ ንጉሥ የረሖብ ልጅ የሆነውን ⟨את⟩ ሐዳድዐዘርን በነብሩ ላይ እጁን ለመመለስ በሄደ ጊዜ መታው።",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "መታው፤"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሐዳድዐዘርን"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ሐዳድዐዘርን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "የረሖብ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "የጾባ"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "በሄደ ጊዜ"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "ለመመለስ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "በነብሩ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:58:28.188002347Z",
+  "model": "glm-5.3"
+}

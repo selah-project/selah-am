@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ሁለቱን አውራ ጠቦች ይወስዳል እና ⟨את⟩ በያህዌህ ፊት፣ በስብሰባ ድንኳን እርገብ ላይ ያቆማቸዋል።",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ይወስዳል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁለቱን አውራ ጠቦች"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለቱን"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "አውራ ጠቦች"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "ያቆማል"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "አውራ ጠቦቹን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "እርገብ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ስብሰባ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:54:49.100485990Z",
+  "model": "glm-5.3"
+}

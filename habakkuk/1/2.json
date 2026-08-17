@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እስከ መቼ ያህዌህ እጮኽለሁ እና ትሰማለህ የለም፤ ወደ አንተ አስጮኽልሃለሁ በዓመፅ ላይ እና አትድንም።",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "መቼ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "እጮኽለሁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ትሰማለህ"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "አስጮኽልሃለሁ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "በዓመፅ ላይ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "አትድንም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:15:45.759708326Z",
+  "model": "glm-5.3"
+}

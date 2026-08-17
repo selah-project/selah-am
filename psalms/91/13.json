@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 91,
+  "translation": "የአንበሳን ላይ እና የመርዝን ላይ ትረገጣለህ፤ የግልገል አንበሳን እና አውድሚን ትቀጠቅጣለህ።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "አንበሳ"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "እና መርዝ"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "ትረገጣለህ"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "ትቀጠቅጣለህ"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "ግልገል አንበሳ"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "እና አውድሚ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:41.105291726Z",
+  "model": "glm-5.3"
+}

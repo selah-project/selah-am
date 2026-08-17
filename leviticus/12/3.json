@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "በስምንተኛውም ቀን የውርሱን ሥጋ ያስመዘንዛል።",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "በቀንም"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ስምንተኛው"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "ያስመዘንዛል"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "የውርሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:49:51.651066730Z",
+  "model": "glm-5.3"
+}

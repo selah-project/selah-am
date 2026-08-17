@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "1-samuel 12:22",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ያህዌህ ሕዝቡን ⟨את⟩ ስለ ታላቁ ስሙ አይተውም፤ ያህዌህ እናንተን ለራሱ ሕዝብ ሊያደርጋችሁ ፈቃደኛ ሆኗልና።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ...ና"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "ተውም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ታላቁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ና"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "ፈቃደኛ ሆኗል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ሊያደርጋችሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "እናንተን ⟨אתכם⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለራሱ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ሕዝብ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:37:48.058318164Z",
+  "model": "glm-5.3"
+}

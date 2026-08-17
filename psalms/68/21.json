@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "psalms 68:21",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "ኤል ⟨ለኛ ነው⟩፣ ኤል ለማዳን፣ ያህዌህ አዶናይ ለእርሱ ⟨ናቸው⟩ የሞት መውጫዎች።",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "ኤሉ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለኛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "למושעות",
+      "gloss": "ለማዳን"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ለሞት"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "መውጫዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:37.738349573Z",
+  "model": "glm-5.3"
+}

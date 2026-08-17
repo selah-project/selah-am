@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "isaiah 64:7",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 64,
+  "translation": "እና አሁን ያህዌህ አባታችን አንተ ነህ፤ እኛ ⟨ሆንን⟩ ሸክላ፣ አንተም አንጠቂያችን ነህ፤ የእጅህ ሥራ እኛ ሁላችን ነን።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "እና አሁን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "አባታችን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "እኛ"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "ሸክላ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "እና አንተ"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "አንጠቂያችን"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "እና የሥራ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህ"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "ሁላችን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:32:40.000306228Z",
+  "model": "glm-5.3"
+}

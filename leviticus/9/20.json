@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ስቦቹንም ⟨את⟩ የደረቶቹ ላይ አኖሩ፤ እርሱም ስቦቹን በመሠዊያው ላይ አጣመረ።",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "አኖሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስቦቹን"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "ስቦቹንም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "የደረቶቹ"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "አጣመረ"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "ስቦቹን"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "በመሠዊያው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:47:38.277082353Z",
+  "model": "glm-5.3"
+}

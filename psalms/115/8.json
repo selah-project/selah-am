@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 115,
+  "translation": "ከእነርሱ መሳሪያዎቻቸው ይሆናሉ፤ ሁሉም በእነርሱ የሚተማከር እንደ እነርሱ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "እንደ እነርሱ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ይሆናሉ"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "መሳሪያዎቻቸው\/የሠሩኋቸው"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ተማከር"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "በእነርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:45.708839745Z",
+  "model": "glm-5.3"
+}

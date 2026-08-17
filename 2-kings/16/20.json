@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "አሃዝም ከአባቶቹ ጋር ተኛ፤ ከአባቶቹም ጋር በዳዊት ከተማ ተቀበረ፤ ልጁም ሕዝቅያስ በርሱ ፋንታ ነገሠ።",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ተኛ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "አሃዝም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋር"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ከአባቶቹ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ተቀበረ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋር"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ከአባቶቹም"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "በ...ከተማ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ሕዝቅያስ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁም"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "በርሱ ፋንታ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:49:45.852817152Z",
+  "model": "glm-5.3"
+}

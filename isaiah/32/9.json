@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 32:9",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "የሚረጋጉ ሴቶች ሆይ፥ ተነሱ፥ ድምጄን ስሙ፤ የሚተማመኑ ሴት ልጆች ሆይ፥ ቃሌን አዳምጡ።",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "ሴቶች"
+    },
+    {
+      "surface": "שאננות",
+      "gloss": "የሚረጋጉ"
+    },
+    {
+      "surface": "קמנה",
+      "gloss": "ተነሱ"
+    },
+    {
+      "surface": "שמענה",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ድምጄን"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ሴት ልጆች"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "የሚተማመኑ"
+    },
+    {
+      "surface": "האזנה",
+      "gloss": "አዳምጡ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ቃሌን"
+    }
+  ],
+  "timestamp": "2026-08-16T19:53:56.262079607Z",
+  "model": "glm-5.3"
+}

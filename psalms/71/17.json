@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 71,
+  "translation": "ኤሎሂም ከሕፃናትነቴ ጀምሮ አስተማርኸኝ፤ እስከ ዛሬም ድረስ ድንቆችህን አወራለሁ።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "አስተማርኸኝ"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ከሕፃናትነቴ ጀምሮ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ዛሬም ድረስ"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "አወራለሁ"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ድንቆችህን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:58.996416398Z",
+  "model": "glm-5.3"
+}

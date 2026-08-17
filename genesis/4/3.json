@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ከቀናት መጨረሻ በኋላ፣ ቀይን ከምድሩ ፍሬ መባ ለያህዌህ አመጣ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ከመጨረሻ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "የቀናት"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "አመጣ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "ቀይን"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ከፍሬ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "መባ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:30:05.781547809Z",
+  "model": "glm-5.3"
+}

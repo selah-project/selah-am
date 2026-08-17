@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "በሦስተኛው ቀን አብራሃም ዓይኖቹን ⟨את⟩ አንሥቶ ያ ስፍራ ⟨את⟩ ከሩቅ አየ።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ሦስተኛው"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "አንሥቶ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብራሃም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓይኖቹን"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ዓይኖቹን"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "አየ፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያ ስፍራ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ስፍራ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ከሩቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:36:23.052575557Z",
+  "model": "glm-5.3"
+}

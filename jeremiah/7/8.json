@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እነሆ፣ እናንተ በምንም አትጠቀሙም ብላችሁ በሐሰት ቃላት ታምናላችሁ።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "ታምናችሁ\/ደህና ብላችሁ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ላንተ\/ለራሳችሁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት ላይ"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "የሐሰት"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ወደ እንቅስቃሴ ያልሆነ (አለመሆን ለ)"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "አትጠቀሙም\/አይጠቅምም"
+    }
+  ],
+  "timestamp": "2026-08-16T17:08:32.896071418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "jeremiah 37:3",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ንጉሡ ሲድቂያም የሰለምያ ልጅ የሆነውን ይሁካልን ⟨את⟩ እና ካህኑን የማዕሰያ ልጅ የሆነውን ሰፍንያን ⟨את⟩ ወደ ነቢዩ ኤርምያስ ላከ፤ «እባክህ በእኛ ወኪልነት ስለ እኛ ወደ ኤሎሂም ያህዌህ ጸልይ» ብሎ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ሲድቂያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይሁካል"
+    },
+    {
+      "surface": "יהוכל",
+      "gloss": "ይሁካል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "שלמיה",
+      "gloss": "ሰለምያ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሰፍንያ"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "ሰፍንያ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "ማዕሰያ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ኤርምያስ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነቢዩ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብሎ"
+    },
+    {
+      "surface": "התפלל",
+      "gloss": "ጸልይ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "בעדנו",
+      "gloss": "ስለ እኛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂም አምላካችን"
+    }
+  ],
+  "timestamp": "2026-08-16T08:04:28.157690606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ወደ መስክ አትውጣ፤ በመንገድም አትሂድ፤ ምክንያቱም የጠላት ሰይፍ ⟨ነው⟩፤ ፍርሃት በዙሪያው ሁሉ ⟨አለ⟩።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "ትውጣ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ወደ መስክ"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "በመንገድም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ትሂድ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "የጠላት"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "ፍርሃት"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "በዙሪያው ሁሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:37:43.795684403Z",
+  "model": "glm-5.3"
+}

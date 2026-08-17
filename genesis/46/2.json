@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "genesis 46:2",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 46,
+  "translation": "ኤሎሂምም በሌሊት ራዕይ ወደ እስራኤል ተናገረ፤ «ያዕቆብ፣ ያዕቆብ» አለው፤ «እነሆ እኔ» አለም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂምም"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ወደ እስራኤል"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "በራዕይ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ሌሊት"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እነሆ እኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:02:18.551878103Z",
+  "model": "glm-5.3"
+}

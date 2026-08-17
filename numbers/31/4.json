@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ለእያንዳንዱ ነገዥ ሺህ፣ ለእያንዳንዱ ነገዥ ሺህ — ለእስራኤል ነገሥታት ሁሉ — ወደ ጦር ትልኳችሁ።",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ለነገዥ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ለነገዥ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "ነገሥታት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "ትልኳችሁ"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "ወደ ጦር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:28:35.187749431Z",
+  "model": "glm-5.3"
+}

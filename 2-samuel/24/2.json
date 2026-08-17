@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 24:2",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ንጉሡም ለዮአብ የሠራዊቱ አለቃ ከእርሱ ⟨את⟩ ጋር ለነበረው እንዲህ አለው፦ እባክህ በእስራኤል ነገዶች ሁሉ በኩል ከዳን እስከ ቤርሰቤዓ ድረስ ሂህ እየዞርህ ሕዝቡን ⟨את⟩ ቍጠሩ፤ የሕዝቡንም ቁጥር ⟨את⟩ አውቃለሁ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለው፤"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "የሠራዊቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ጋር ነበረው",
+      "marks": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "እየዞርህ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በ… ሁሉ"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ነገዶች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "ከዳን"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ቤር"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሰቤዓ"
+    },
+    {
+      "surface": "ופקדו",
+      "gloss": "ቍጠሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "አውቃለሁ፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሕዝቡን ቁጥር"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ቁጥር"
+    },
+    {
+      "surface": "העם",
+      "gloss": "የሕዝቡን"
+    }
+  ],
+  "timestamp": "2026-08-16T19:44:42.091299504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የከብቱን ⟨את⟩ ልጅ በያህዌህ ፊት ይበድላል፤ አሃሮንም ልጆች ካህናት ደሙን ⟨את⟩ ያቀርባሉ፣ ደሙንም ⟨את⟩ በሚገኝበት በመገናኛ ድንኳን በር ላይ ባለው መሠዊያ ዙሪያ ያረክሳሉ።",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ይበድላል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የከብቱን ልጅ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "የበሬ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "ያቀርባሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደሙን"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ያረክሳሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደሙን"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ዙሪያ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኝበት"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "በር"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መገናኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:41:02.600275596Z",
+  "model": "glm-5.3"
+}

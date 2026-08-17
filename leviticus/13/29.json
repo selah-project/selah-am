@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እና ወንድ ወይም ሴት በራስ ወይም በግምቢ ቁስል ቢኖርበት፣",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "እና ወንድ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ቢኖር"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ቢኖርበት"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በራሱ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ቁስል"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "በራስ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "በግምቢ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:51:25.616568842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "በዚያም ጊዜ ⟨את⟩ ፈርድአችሁን እንዲህ እያለ አዘዝሁ፦ በወንድሞቻችሁ መካከል ሰሙ፣ በሰውና በወንድሙ መካከል እንዲሁም በእርሱ መጋሪ መካከል ጽድቅን ፈርዱ።",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "አዘዝሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፈርድአችሁን"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "ፈርድአችሁን"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "በዚያም ጊዜ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እያለ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰሙ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በ...መካከል"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ወንድሞቻችሕ"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "ፈርዱ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቅን"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በ...መካከል"
+    },
+    {
+      "surface": "איש",
+      "gloss": "በሰው"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እንዲሁም በ...መካከል"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሙ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እንዲሁም በ...መካከል"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "እርሱ መጋሪ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:33:08.429670491Z",
+  "model": "glm-5.3"
+}

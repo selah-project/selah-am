@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 23:13",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "በሳምርያ ነቢያትም መሃንነት አይቼ ነው፤ በበዓል ነበዩ፣ የእኔን ሕዝብ ⟨את⟩ የእስራኤልን ⟨את⟩ አሳትነዋል።",
+  "tokens": [
+    {
+      "surface": "ובנביאי",
+      "gloss": "በነቢያትም"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ሳምርያ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "አይቼ ነው"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "መሃንነት"
+    },
+    {
+      "surface": "הנבאו",
+      "gloss": "ነበዩ"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "በበዓል"
+    },
+    {
+      "surface": "ויתעו",
+      "gloss": "አሳትነዋል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእኔን ሕዝብ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "የእኔን ሕዝብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤልን"
+    }
+  ],
+  "timestamp": "2026-08-16T17:09:33.619352644Z",
+  "model": "glm-5.3"
+}

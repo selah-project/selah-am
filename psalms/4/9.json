@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "በሰላም አብረህ እተኛለሁ እና አንቀላፋለሁ፤ ምክንያቱም አንተ ያህዌህ ብቻ፣ በእምነት ታስተናግደኛለህ።",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "በሰላም"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "አብረህ"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "እተኛለሁ"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "እና አንቀላፋለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "በእምነት"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "ታስተናግደኛለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:26:44.928053863Z",
+  "model": "glm-5.3"
+}

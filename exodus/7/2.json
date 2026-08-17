@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "አንተ እትአዘዘህን ⟨את⟩ ሁሉን ታወራለህ፤ የአንተም ወንድም አሃሮን ከፈርዖን ጋር ይናገራል፤ እርሱም የእስራኤልን ልጆች ⟨את⟩ ከምድሩ ይልካል።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ታወራለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የተአዘዘህን"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "እትአዘዘህን"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "አሃሮንም"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "የአንተ ወንድም"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ይናገራል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ከ... ጋር"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ይልካልም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእስራኤልን ልጆች"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ከምድሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:09:42.555547826Z",
+  "model": "glm-5.3"
+}

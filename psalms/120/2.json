@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 120,
+  "translation": "ያህዌህ ሆይ፣ ነፍሴን ከውሸት ከንፈሮች እና ከብርቅታ ምላስ አድነው።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "አድነው"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "ከ...ከንፈሮች"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ውሸት"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "ከ...ምላስ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ብርቅታ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:03.304517041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "እና ለእኔ አለ። አገልጋዬ አንተ ነህ እስራኤል፤ በአንተ እኮራለሁ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "አገልጋዬ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "እኮራለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:24:55.810541225Z",
+  "model": "glm-5.3"
+}

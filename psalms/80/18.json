@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 80,
+  "translation": "እጅህ በምንህ በቀኝ ሰው ላይ ይሁን፣ በሰው ልጅ ላይ — ለራስህ አጠናክረኸው።",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "በቀኝህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው\/አዳም"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "አጠናክረኸው"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለራስህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:18.073420957Z",
+  "model": "glm-5.3"
+}

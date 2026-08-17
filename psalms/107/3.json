@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "እነርሱንም ከምድሮች ሰበሰበ፤ ከምሥራቅና ከምዕራብ፣ ከሰሜንና ከባሕር።",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "ከምድሮች"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "ሰበሰባቸው"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ከምሥራቅ"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ከምዕራብ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ከሰሜን"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ከባሕር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:03.397713127Z",
+  "model": "glm-5.3"
+}

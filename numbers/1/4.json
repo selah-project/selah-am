@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እናንተም ⟨את⟩ ከእያንዳንዱ ሐብት አንድ አንድ ሰው ይሁን፤ እያንዳንዱ የአባቶቹ ቤት ራስ እርሱ ነው።",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "እናንተም ⟨את⟩"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "איש",
+      "gloss": "አንድ አንድ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ከእያንዳንዱ ሐብት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "የቤት"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "የአባቶቹ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T04:04:24.430315395Z",
+  "model": "glm-5.3"
+}

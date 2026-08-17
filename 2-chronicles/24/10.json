@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "አለቃዎቹም ሁሉ እና ሕዝቡም ሁሉ ደስ አላቸው፤ አመጡም፣ ወደ ሳጥኑም ወረውሩ እስኪጨርስ ድረስ።",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "ደስ አላቸው"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "አለቃዎቹ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "አመጡ"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "ወረውሩ"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "ወደ ሳጥኑ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪ…ድረስ"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "ጨርስ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:03:44.040218151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ወደ አንተ ጮኩ፣ ወጥተው ተረቱ፤ በአንተ ተስፋ አደረጉ፣ አልተዋረዱምም።",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "ጮኩ"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "ወጥተው ተረቱ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ተስፋ አደረጉ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል...ምም"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "ተዋረዱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:20.292169397Z",
+  "model": "glm-5.3"
+}

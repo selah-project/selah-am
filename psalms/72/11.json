@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 72,
+  "translation": "ነገሥታት ሁሉ ለእርሱ ይሰግዱለታል፤ አሕዛብ ሁሉ ያገለግሉታል።",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "ይሰግዱለታልና"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ነገሥታት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "ያገለግሉታል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:34.712497372Z",
+  "model": "glm-5.3"
+}

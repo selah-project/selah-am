@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ንጉሡም እንዲህ አለ፦ ሕያዉን ልጅ ለሁለት ቁረጡ፤ ⟨את⟩ ግማሹን ለአንዷ በዳት፤ ⟨את⟩ ግማሹንም ለሌላዋ በዳት።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "ቁረጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕያዉን ልጅ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ሕያዉን ልጅ"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "ለሁለት"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "በዳትም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ግማሹን"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "ግማሽ"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ለአንዷ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ም",
+      "marks": "ግማሹን"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "ግማሽ"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ለሌላዋ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:16:42.993964813Z",
+  "model": "glm-5.3"
+}

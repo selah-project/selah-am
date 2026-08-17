@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እንደዚህ በያህዌህ ቃል ⟨את⟩ ታዘዘኝ እንዲህ ብሎ፦ ቂጣ አትብላ፣ ውሃ አትጠጣ፣ በሄድክበትም መንገድ አትመለስ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ታዘዘኝ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "በያህዌህ ቃል"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "በቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ብላ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ቂጣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ጠጣ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ተመለስ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሄድክበት"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "ሄድክ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:26:07.213313090Z",
+  "model": "glm-5.3"
+}

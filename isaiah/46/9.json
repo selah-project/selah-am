@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "isaiah 46:9",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 46,
+  "translation": "የመጀመሪያን ነገሮች ከዘመን መጀመሪያ አስታውሱ፤ በእውነት እኔ ኤል ነኝ፣ ሌላ የለም፤ ኤሎሂም የለም፣ እንደ እኔ የሆነ የለምም።",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "አስታውሱ"
+    },
+    {
+      "surface": "ראשנות",
+      "gloss": "የመጀመሪያን ነገሮች"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ከዘመን መጀመሪያ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል ነኝ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ሌላ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "የለምም"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "እንደ እኔ የሆነ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:22:19.444597946Z",
+  "model": "glm-5.3"
+}

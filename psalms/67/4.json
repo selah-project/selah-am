@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 67,
+  "translation": "ሕዝቦች ያመሰግኑሃል ኤሎሂም፤ ሕዝቦች ሁሉ ያመሰግኑሃል።",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "ያመሰግኑሃል"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "ያመሰግኑሃል"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝች ሁሉ፤ ሕዝቦች"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ሁሉም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:13.795795929Z",
+  "model": "glm-5.3"
+}

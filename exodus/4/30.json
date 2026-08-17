@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "አሃሮን ሞሼን ያህዌህ የተናገራቸውን ቃላት ሁሉን ⟨את⟩ ተናገረ፤ እርሱም ምልክቶቹን በሕዝቡ ፊት አደረገ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላት ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላትን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገራቸው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ምልክቶቹን"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "በፊት\/በዓይን ፊት"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:07:58.187123824Z",
+  "model": "glm-5.3"
+}

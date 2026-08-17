@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "ድንቶቹን ያደረጋቸውን አስታውሱ፤ ምልክቶቹን እና የአፉን ፍርዶች።",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "አስታውሱ"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ድንቶቹን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያደረጋቸውን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "ምልክቶቹን"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "እና ፍርዶች"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "የአፉን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:07.112226864Z",
+  "model": "glm-5.3"
+}

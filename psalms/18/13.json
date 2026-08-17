@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ከፊቱ ብርሃን ደመናዎቹ አለፉ — ᐨበረዶ እና የእሳት ጋድማዎች።",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "ከብርሃን"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "ከፊቱ"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "ደመናዎቹ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "አለፉ"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "በረዶ"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "እና የእሳት ጋድማዎች"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:32.714435701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ኡርያም ወደ እርሱ መጣ፤ ዳዊትም የዮአብን ሰላም፣ የሕዝቡን ሰላም እና የጦርነቱን ሰላም ጠየቀ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጣም"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ኡርያ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "ጠየቀም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ሰላምን"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብን"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "እና ሰላምን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "እና ሰላምን"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ጦርነቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:01:11.602512600Z",
+  "model": "glm-5.3"
+}

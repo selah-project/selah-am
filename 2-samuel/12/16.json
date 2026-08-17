@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ዳዊትም ስለ ልጁ ⟨את⟩ ኤሎሂምን ፈለገ፤ ዳዊትም ጾም ጾመ፤ ገብቶ ሌሊትም አደረ፤ በምድርም ተኝቶ ዋለ።",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "ፈለገም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂምን"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂምን"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "ጾመም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ጾም"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ገብቶ"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "ሌሊት አደረ"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "ተኝቶ ዋለ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "በምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T06:01:00.816161264Z",
+  "model": "glm-5.3"
+}

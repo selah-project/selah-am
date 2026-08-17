@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ዳዊትም ወደ ማኅናይም መጣ፤ አቤሴሎምም ⟨את⟩ ዮርዳኖስን ዞረ — ⟨እርሱ⟩ እና የእስራኤል ሰዎች ሁሉ ከእርሱ ጋር።",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "ወደ ማኅናይም"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "አቤሴሎምም"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ዞረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮርዳኖስን"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T06:05:28.160355471Z",
+  "model": "glm-5.3"
+}

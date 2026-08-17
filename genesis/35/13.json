@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "ኤሎሂም ከርሱ ላይ በሚናገርበት ቦታ ከእርሱ ላይ ወጣ።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ከርሱ ላይ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "በሚናገርበት ቦታ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚናገርበት"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "አነጋገረ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:54:24.591043015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 46,
+  "translation": "ለማን ታመሳስሉኛል እና ታስተካክሉኛል እና ታወዳድሩኛል እና እንመሳሰላለን?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "ለማን"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "ታመሳስሉኛል"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "እና ታስተካክሉኛል"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "እና ታወዳድሩኛል"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "እና እንመሳሰላለን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:23:15.209713034Z",
+  "model": "glm-5.3"
+}

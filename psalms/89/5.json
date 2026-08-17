@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "እስከ ዘላለም ዘርህን አጸናለሁ፣ እና ለትውልድ ትውልድ ዙፋንህን እሠራለሁ። ሰላ።",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘላለም"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "አጸናለሁ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ዘርህን"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "እሠራለሁ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ለትውልድ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ትውልድ"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ዙፋንህን"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:54.996734145Z",
+  "model": "glm-5.3"
+}

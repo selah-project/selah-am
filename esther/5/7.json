@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "esther 5:7",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እስቴርም መልሳ እንዲህ አለች፤ የምለምረውና የምለምነው ይህ ነው።",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "መልሳ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "እስቴርም"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "እንዲህ አለች፤"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "የምለምረውና"
+    },
+    {
+      "surface": "ובקשתי",
+      "gloss": "የምለምነው"
+    }
+  ],
+  "timestamp": "2026-08-16T11:25:14.447887028Z",
+  "model": "glm-5.3"
+}

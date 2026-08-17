@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "እና በሖርማ ያሉት፣ እና በቆር-ዓሻን ያሉት፣ እና በዓታኽ ያሉት፤",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "እና ለ… ያሉት"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "በሖርማ"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "እና ለ… ያሉት"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "በቆር"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ዓሻን"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "እና ለ… ያሉት"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "በዓታኽ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:50:03.625320229Z",
+  "model": "glm-5.3"
+}

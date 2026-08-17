@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ከኬጢያውያን፣ ከአሞራውያን፣ ከፕረዝያውያን፣ ከሕዌውያንና ከይቡሳውያን በቀሩት ሕዝብ ሁሉ — እነርሱ ከእስራኤል ያልነበሩ ናቸው።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "በቀሩት"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ኬጢያውያን"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "እና ከአሞራውያን"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "እና ከፕረዝያውያን"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "እና ከሕዌውያን"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "እና ከይቡሳውያን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ከእስራኤል"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነርሱ ናቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T13:38:23.651509754Z",
+  "model": "glm-5.3"
+}

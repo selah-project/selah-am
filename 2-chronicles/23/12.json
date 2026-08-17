@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "አታሊያም ⟨את⟩ የሕዝቡን ድምፅ — የሚሮጡትንና የሚያመሰግኑትን ⟨את⟩ ንጉሡን — ሰማች፤ ወደ ሕዝቡም ወደ ያህዌህ ቤት ገባች።",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "ሰማች"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "አታሊያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምፅ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "የሕዝቡን"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "የሚሮጡትን"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "የሚያመሰግኑትን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንጉሡን"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡን"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ገባች"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:06:10.855087833Z",
+  "model": "glm-5.3"
+}

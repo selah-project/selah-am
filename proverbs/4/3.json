@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ምክንያቱም ለአባቴ ልጅ ነበርሁ፤ ረኅራሄና ብቻ አንድ ልጅ በእናቴ ፊት።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ነበርሁ"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "ለአባቴ"
+    },
+    {
+      "surface": "רך",
+      "gloss": "ረኅራሄ"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "ብቻ አንድ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "እናቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:22:05.342680748Z",
+  "model": "glm-5.3"
+}

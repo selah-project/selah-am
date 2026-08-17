@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ያህዌህ ሞሼን በላይ በዚህ መልክ ተናገረ፦ «እንዲህ በል»",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለእርሱ በላይ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ በል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:25:58.653810946Z",
+  "model": "glm-5.3"
+}

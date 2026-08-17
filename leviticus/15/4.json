@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ዝባው ⟨the⟩ በእሱ ላይ የሚተኛበት አልጋ ሁሉ ይከርከማል፣ እና በእሱ ላይ የሚቀመጥበት ዕቃ ሁሉ ይከርከማል።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "⟨the⟩አልጋ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚተኛበት"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ይተኛል"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእሱ ላይ"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "⟨the⟩ዝባው"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ይከርከማል"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉም"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "⟨the⟩ዕቃ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚቀመጥበት"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ይቀመጣል"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእሱ ላይ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ይከርከማል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:53:05.469281948Z",
+  "model": "glm-5.3"
+}

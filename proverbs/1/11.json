@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ከሆነ ቢሉህ፣ «ና ⟨את⟩ ከእኛ ጋር፤ ለደም እንንጠር፤ ለንጹሃን ሳንባዝን እንደብቃለን»።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ቢሉህ"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ና"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ከእኛ ጋር",
+      "marks": "ከእኛ ጋር"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "እንንጠር"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "ለደም"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "እንደብቃለን"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "ለንጹሃን"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ሳንባዝን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:26.953083548Z",
+  "model": "glm-5.3"
+}

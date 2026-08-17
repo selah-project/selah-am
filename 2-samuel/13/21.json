@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ንጉሡ ዳዊትም ⟨את⟩ ሁሉን የነዚህን ቃላት ሰማ፤ በራሱም በጣም ተቈጣ።",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "የነዚህ"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ተቈጣ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "በራሱ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:59:41.979494879Z",
+  "model": "glm-5.3"
+}

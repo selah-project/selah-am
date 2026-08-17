@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 53,
+  "translation": "ኤሎሂም ከሰማያት ወርዶ በሰው ልጆች ላይ ተመለከተ፣ አስተዋይ የሆነ ባለመሆኑ፣ ኤሎሂምን ⟨את⟩ የሚሻ አለ ወይ ለማየት።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ከሰማያት"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "ወርዶ ተመለከተ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ለማየት"
+    },
+    {
+      "surface": "היש",
+      "gloss": "አለ ወይ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "አስተዋይ"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "የሚሻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂምን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:01.080230812Z",
+  "model": "glm-5.3"
+}

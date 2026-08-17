@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የያህዌህ ቃል ወደ ዮናህ ሁለተኛ ጊዜ መጣ፣ በማለት፦",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ዮናህ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ሁለተኛ ጊዜ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "በማለት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:10:45.536139706Z",
+  "model": "glm-5.3"
+}

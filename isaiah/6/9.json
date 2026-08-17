@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እና አለ፦ ሂጥ፣ እና በል ለዚህ ሕዝብ፦ እየሰማችሁ ተከስሱ፣ ነገር ግን አትረዱ፤ እና እያየችሁ ተመልከቱ፣ ነገር ግን አታውቁ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ሂጥ"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "እና በል"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ለሕዝብ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ተከስሱ"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "እየሰማችሁ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ነገር ግን አት"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "ረዱ"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "እና ተመልከቱ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "እያየችሁ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ነገር ግን አት"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "ውቁ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:01:01.486476183Z",
+  "model": "glm-5.3"
+}

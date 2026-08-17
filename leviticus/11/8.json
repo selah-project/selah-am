@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ከሥጋቸው አትብሉ እና በአራሶቻቸው አትንኹ፤ እነሱ ለእናንተ የተከለከሉ ናቸው።",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "ከሥጋቸው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ብሉ"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "እና በአራሶቻቸው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "ንኹ"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "የተከለከሉ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እነሱ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለእናንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:48:50.723197216Z",
+  "model": "glm-5.3"
+}

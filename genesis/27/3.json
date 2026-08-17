@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "genesis 27:3",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "እና አሁን እባክህ መሣሪያዎችህን የቀስት ማስቀመጫህንና ቀስትህን ማንሳት ተም፤ ወደ መስኩም ውጣ እና ስለ እኔ አድን እዳቸውን፤",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "እና አሁን"
+    },
+    {
+      "surface": "שא",
+      "gloss": "ማንሳት ተም"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "መሣሪያዎችህን"
+    },
+    {
+      "surface": "תליך",
+      "gloss": "የቀስት ማስቀመጫህን"
+    },
+    {
+      "surface": "וקשתך",
+      "gloss": "ቀስትህን"
+    },
+    {
+      "surface": "וצא",
+      "gloss": "እና ውጣ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ወደ መስኩም"
+    },
+    {
+      "surface": "וצודה",
+      "gloss": "እና አድን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ስለ እኔ"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "እዳቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:45:21.133816605Z",
+  "model": "glm-5.3"
+}

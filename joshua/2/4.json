@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ሴቷም ⟨את⟩ ሁለቱን ሰዎች ወሰደች እና ደበቀቻቸው፤ እንዲህም አለች፤ «አዎ፣ ሰዎቹ ወደ እኔ መጡ፤ ከየትኛው እንደሆኑ ግን አላወቁም።»",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "ወሰደች"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሴቷም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁለቱን ሰዎች"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለቱን"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "ደበቀችዋቸው"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "አለች"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲህም\/አዎ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ሰዎቹ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ግን አል"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ወቀውም"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ከየትኛው"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እንደሆኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:59:46.073235288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ያህዌህም ለእነርሳቸው እንደ አደረገለቸው ለሲሆንና ለዖግ ለአሞራውያን ነገሥታት እንዲሁም ለምድራቸው ያደርጋል፤ ⟨את⟩ አጥፍቶአቸዋልና።",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ያደርጋል፤"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነርሳቸው"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገለቸው"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "ለሲሆን"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "ለዖግ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ነገሥታት"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ለአሞራውያን"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "እንዲሁም ለምድራቸው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ፥አጥፍቶአቸዋልና"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "አጥፍቶአቸዋል"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሳቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:57:13.762935588Z",
+  "model": "glm-5.3"
+}

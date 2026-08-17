@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ከሑሺምም ⟨את⟩ አቢቱብን እና ⟨את⟩ ኤልፓልን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "እና ከሑሺም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አቢቱብን"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "አቢቱብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ኤልፓልን"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "ኤልፓል"
+    }
+  ],
+  "timestamp": "2026-08-16T12:41:54.066562539Z",
+  "model": "glm-5.3"
+}

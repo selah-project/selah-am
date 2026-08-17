@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "እኔ ግን ለእነርሱ ነቅፋ ሆንሁ፤ ያዩኛል፣ ራሳቸውን ይንዘፋሉ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ሆንሁ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ነቅፋ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነርሱ"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "ያዩኛል"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "ይንዘፋሉ"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "ራሳቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:26.053910746Z",
+  "model": "glm-5.3"
+}

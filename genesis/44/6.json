@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "አሸከማቸው፤ እነርሱንም ⟨את⟩ ቃላቱን እነዚህን ተናገረ።",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "አሸከማቸው"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "እነርሱን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላቱን"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላቱን"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:00:42.055777539Z",
+  "model": "glm-5.3"
+}

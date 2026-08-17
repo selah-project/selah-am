@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "በሰባተኛውም ዓመት ምድሪቱ ለያህዌህ የሰባት ቀን ሙሉ ዕረፍት ትሆናለች፤ መስክህን አትዘራ፣ የወይን ቦታህንም አትከትን።",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "በዓመትም"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "በሰባተኛው"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "የሰባት ቀን ዕረፍት"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ሙሉ ዕረፍት"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ትሆናለች"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ምድሪቱ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "የሰባት ቀን ዕረፍት"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "መስክህን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ዘራ"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "የወይን ቦታህንም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "ከትን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:00:52.599167838Z",
+  "model": "glm-5.3"
+}

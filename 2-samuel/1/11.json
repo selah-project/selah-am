@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ዳዊትም በልብሶቹ ያዘ፤ እነሱንም ቈረጠ፤ ከእርሱ ጋር ⟨את⟩ የነበሩት አጋሮችም ሁሉ እንዲሁ።",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ያዘ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "በልብሶቹ"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "ቈረጠ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እና እንዲሁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "አጋሮች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የነበሩት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ከእርሱ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T16:04:23.436775182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ለቀደሙት ትውስታ የለም፤ እንዲሁም ለሚሆኑት ኋላዎች ከኋለኞቹ ጋር ትውስታ አይኾላቸውም።",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ትውስታ"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "ለቀደሙት"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "ለኋላዎች"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "ለሚሆኑት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይኾል"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ላቸው"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ትውስታ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "ሚሆኑት"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "ከኋለኞቹ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T11:13:12.867851965Z",
+  "model": "glm-5.3"
+}

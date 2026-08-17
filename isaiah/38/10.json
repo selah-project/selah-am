@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 38:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "እኔ አልኩ በመቁረጤ የቀኖቼ ወደ ሴኦል በሮች ⟨እሄዳለሁ⟩፤ የቀሩትን ዓመታቼ ተቆጠርኩ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "አልኩ"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "በመቁረጤ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "የቀኖቼ"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "እሄዳለሁ"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "ወደ በሮች"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሴኦል"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "ተቆጠርኩ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "የቀሩትን"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "ዓመታቼ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:16:29.315214113Z",
+  "model": "glm-5.3"
+}

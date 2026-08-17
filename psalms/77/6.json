@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 77,
+  "translation": "የቀደሙን ቀኖችን፣ የዘላለሙን ዓመታትን አሰብሁ።",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "አሰብሁ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀኖችን"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ከቀደሙ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ዓመታትን"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "የዘላለሙን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:57.104234203Z",
+  "model": "glm-5.3"
+}

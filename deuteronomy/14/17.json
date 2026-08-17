@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "እና ⟨את⟩ ራጫማውን፣ እና ⟨את⟩ ጋሪኑን።",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "እና ቀያታውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ራጫማውን"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "ራጫማውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጋሪኑን"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "ጋሪኑን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:41:00.331811686Z",
+  "model": "glm-5.3"
+}

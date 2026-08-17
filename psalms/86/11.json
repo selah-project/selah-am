@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 86,
+  "translation": "ያህዌህ ሆይ፣ መንገድህን አስተምረኝ፤ በእውነትህ እሄዳለሁ፤ ልቤ አንድ ይሁን ስምህን ለመፍራት።",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "አስተምረኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "መንገድህን"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "እሄዳለሁ"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "በእውነትህ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "አንድ ይሁን"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "ለመፍራት"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:53.350717230Z",
+  "model": "glm-5.3"
+}

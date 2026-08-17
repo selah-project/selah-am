@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "jonah 2:5",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እኔ ግን እንዲህ አልሁ፣ «ከዓይኖችህ ፊት ተባርኻለሁ፤ ከዚያም ወደ ቅድስት መቅደስህ ደግሞ እመለከታለሁ።»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "አልሁ"
+    },
+    {
+      "surface": "נגרשתי",
+      "gloss": "ተባርኻለሁ"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ከ…ፊት"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ዓይኖችህ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ከዚያም"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ደግሞ እጨምራለሁ"
+    },
+    {
+      "surface": "להביט",
+      "gloss": "እመለከታለሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "መቅደስ"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ቅድስትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:10:16.164199872Z",
+  "model": "glm-5.3"
+}

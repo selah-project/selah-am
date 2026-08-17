@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "አባቱን የሚያፈርስ፣ እናቱን የሚያሰድድ ልጅ የዋህ እና የሚያሳፍር ነው።",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "የሚያፈርስ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "አባቱን"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "ያሰድዳል"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እናቱን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "የሚያሳፍር"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "እና የሚያሳፍር\/ያፋርሳል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:31:23.133327703Z",
+  "model": "glm-5.3"
+}

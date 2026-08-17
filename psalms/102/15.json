@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 102,
+  "translation": "ባሮችህ የእርሷን ⟨את⟩ ድንጋዮች ወደዱ፣ የእርሷንም ⟨את⟩ አፈር ያዘኑ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…ቢል"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "ወደዱ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ባሮችህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእርሷን ድንጋዮች"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "የእርሷን ድንጋዮች"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የእርሷን አፈር"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "የእርሷን አፈር"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "ያዘኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:09.573347007Z",
+  "model": "glm-5.3"
+}

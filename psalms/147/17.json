@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 147,
+  "translation": "በረዶውን እንደ ቍርጥራጮች ይዘረውላል፤ ከቀዝቃዛው ፊት ማን ሊቆም ይችላል?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "ይዘረውላል"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "በረዶውን"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "እንደ ቍርጥራጮች"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ከ…ፊት"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "ቀዝቃዛው"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ሊቆም ይችላል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:12.809835272Z",
+  "model": "glm-5.3"
+}

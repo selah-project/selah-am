@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የሳኦል አጎትም እንዲህ አለ፦ «እባክህ አሳየኝ፣ ሰሙኤል ምን አለላችሁ?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "አጎት"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "አሳየኝ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ላችሁ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሰሙኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T05:37:56.897668519Z",
+  "model": "glm-5.3"
+}

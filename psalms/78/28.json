@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "psalms 78:28",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "በሰፈሩ መካከል አሳወራቸው፤ በድንኳኖቹ ዙሪያ ሁሉ።",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "አሳወራቸው"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "በ…መካከል"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "ሰፈሩ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ዙሪያ ሁሉ"
+    },
+    {
+      "surface": "למשכנתיו",
+      "gloss": "በድንኳኖቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:19.808771774Z",
+  "model": "glm-5.3"
+}

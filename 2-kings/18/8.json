@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "እርሱ ⟨את⟩ ፍልስጤማውያንን እስከ ዓዛ፣ ⟨את⟩ ድንበሯንም መታ፤ ከጠባቂዎች ግንብ እስከ የተጠበቀች ከተማ።",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "መታ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍልስጤማውያንን"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤማውያንን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ዓዛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ድንበሯን"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "ድንበሯን"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "ከግንብ"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "የጠባቂዎች"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "የተጠበቀች"
+    }
+  ],
+  "timestamp": "2026-08-16T06:49:02.008537887Z",
+  "model": "glm-5.3"
+}

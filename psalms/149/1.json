@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 149,
+  "translation": "ሃሌልያ — ያህን ያመሰግሉ፤ ለያህዌህ አዲስ መዝሙር ዘምሩ፤ ውዳሴው በቅዱሳን ጉባኤ ይሁን።",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ያመሰግሉ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህን"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ዘምሩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "አዲስ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ውዳሴው"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "በጉባኤ"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "ቅዱሳን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:31.180422066Z",
+  "model": "glm-5.3"
+}

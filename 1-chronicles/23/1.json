@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ዳዊትም አረጀ እና በዕለታት ተረከበ፤ ልጁን ሰሎሞንንም በእስራኤል ላይ አንገሠ።",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "አረጀ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ተረከበ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "በዕለታት"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "አንገሠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰሎሞንን"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞንን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "በእስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T13:13:23.652769487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "በጮኸሁ ጊዜ አንተ መልሰህኝ ኤሎሂም ሆይ፣ የጽድቄ ኤሎሂም፤ በማጥመድ ስፋት ሰጠኸኝ፤ ቸርነት አሳየኝ እና ልማጄን ስማ።",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "በጮኸሁ ጊዜ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "መልሰህኝ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም ሆይ"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "የጽድቄ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "በማጥመድ"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "ስፋት ሰጠኸኝ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ቸርነት አሳየኝ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "እና ስማ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ልማጄን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:29:03.728855762Z",
+  "model": "glm-5.3"
+}

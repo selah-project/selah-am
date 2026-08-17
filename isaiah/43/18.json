@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "isaiah 43:18",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "የቀድሞችን ነገሮች አትዘንጉ፤ የድሮንንም ነገሮች አትገነዘቡ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תזכרו",
+      "gloss": "ዘንጉ"
+    },
+    {
+      "surface": "ראשנות",
+      "gloss": "የቀድሞችን ነገሮች"
+    },
+    {
+      "surface": "וקדמניות",
+      "gloss": "እና የድሮንን ነገሮች"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תתבננו",
+      "gloss": "ገነዘቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:21:01.577097859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "አብራሃም ⟨את⟩ ሁሉን የነበረውን ለይጽሐቅ ሰጠ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብራሃም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን የነበረውን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የነበረውን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "የርሱ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ለይጽሐቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:43:37.128888444Z",
+  "model": "glm-5.3"
+}

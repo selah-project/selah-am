@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 86,
+  "translation": "ሁሉንም አሕዛብ ያደረግሃቸው ይመጣሉ፣ አዶናይ ፊትህን ሎታቸዋለሁ ይላውቃሉ ስምህን።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉንም"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያደረግሃቸው"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "አደረግህ"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "ይመጣሉ"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ያለቃሉ\/ይሰግዳሉ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ፊትህን"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "ያከብራሉ"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ስምህን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:53.346872072Z",
+  "model": "glm-5.3"
+}

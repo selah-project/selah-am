@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "joshua 2:15",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እሷም በገመል በዊንዶው በኩል አወረዳቸው፤ ቤቷ በቅጥሩ ግድግዳ ላይ ነበርና፣ እና በግድግዳው ላይ ⟨እሷ⟩ ትኖር ነበር።",
+  "tokens": [
+    {
+      "surface": "ותורדם",
+      "gloss": "እና አወረዳቸው"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "በገመል"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "በኩል"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "የዊንዶው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነበርና"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ቤቷ"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "በቅጥሩ"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ግድግዳ"
+    },
+    {
+      "surface": "ובחומה",
+      "gloss": "እና በግድግዳው ላይ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨እሷ⟩"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ትኖር ነበር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:59:26.285550584Z",
+  "model": "glm-5.3"
+}

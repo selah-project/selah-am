@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ሐሰተኛ ምስክር ያለቅጣት አይናከምም፤ ናቅሮችን የሚናፈስ ይጠፋል።",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ምስክር"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "የሐሰት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይናከምም"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "ያለቅጣት"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "የሚናፈስ"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ናቅሮችን"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "ይጠፋል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:30:51.035069688Z",
+  "model": "glm-5.3"
+}

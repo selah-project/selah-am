@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "2-chronicles 15:13",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "እና ያህዌህን፣ የእስራኤል ኤሎሂምን የማይሻ ሁሉ ይገደላል፣ ከታናሹ እስከ ታላቁ፣ ከወንድም እስከ ሴትም።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የማይሻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "ይሻ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "የ... ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይገደላል"
+    },
+    {
+      "surface": "למן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "ታናሹ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቁ"
+    },
+    {
+      "surface": "למאיש",
+      "gloss": "ከወንድም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሴትም"
+    }
+  ],
+  "timestamp": "2026-08-16T13:51:22.947021487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የነገር መጨረሻ ከመጀመሪያው ይሻላል፤ የረጅም መንፈስ ከከፍ መንፈስ ይሻላል።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ይሻላል"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "መጨረሻ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "ከመጀመሪያው"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ይሻላል"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ረጅም"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "ከከፍ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:15:51.529489860Z",
+  "model": "glm-5.3"
+}

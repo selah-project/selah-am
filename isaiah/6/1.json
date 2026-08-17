@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "isaiah 6:1",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "በዓመቱ ላይ በንጉሡ ሞት የዐዝያሁ እኔ አዶናይን ⟨את⟩ ተመልክቼ አየሁ፤ ከፍ ብሎ ተሸክሞ በዙፋን ላይ ተቀምጦ፤ እና ክንፎቹ ⟨את⟩ ቤተ መቅደሱን ሞልተው ነበር።",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "በዓመቱ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "የዐዝያሁ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "አየሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አዶናይን"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ተቀምጦ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ዙፋን"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ከፍ ብሎ"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ተሸክሞ"
+    },
+    {
+      "surface": "ושוליו",
+      "gloss": "እና ክንፎቹ"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "ሞልተው ነበር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤተ መቅደሱን"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ቤተ መቅደሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:01:29.335523959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ያህዌህም እንዲህ አለው፦ «እኔ ከአንተ ጋር እሆናለሁና ምድያምን ⟨את⟩ እንደ አንድ ሰው ትደቍበዋለህ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "እንዲህ ለእርሱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "እሆናለሁ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "ትደቍበዋለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድያምን"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ምድያምን"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "እንደ ሰው"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:24:20.287159565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 21:12",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ከ⟨the⟩ መቅደስም አይወጣም፤ የኤሎሂሙንም ⟨את⟩ መቅደስ አያረክስም፤ የኤሎሂሙ የመቀባት ዘይት የመለየት ምልክት በእርሱ ላይ ነውና፤ እኔ ያህዌህ ነኝ።",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ከ…ም"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "መቅደስ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "አይወጣም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…ም አይ"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "አያረክስም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መቅደስ"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "መቅደስ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "የኤሎሂሙ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነውና"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "የመለየት ምልክት"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘይት"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "የመቀባት"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "የኤሎሂሙ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:51:58.776170471Z",
+  "model": "glm-5.3"
+}

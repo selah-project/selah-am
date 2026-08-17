@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ያህዌህ ወደ አካዝ ደግሞ እንዲህ ሲል ተናገረ፦",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "ደግሞ ተናገረ\/ጨመረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "አካዝ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T06:59:29.366344910Z",
+  "model": "glm-5.3"
+}

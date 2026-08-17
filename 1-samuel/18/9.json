@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "እና ሳኦል ከዚያው ቀን ጀምሮ እስከ በኋላም ድረስ ዳዊትን ⟨את⟩ በስጋት ተመለከተ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እና ሆነ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "עון",
+      "gloss": "በስጋት ተመለከተ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊትን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "ከዚያው ቀን ጀምሮ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "እስከ በኋላም ድረስ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:43:29.983046373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እና በአማኑነት አሳምቼሻታለሁ ለእኔ፤ እና ⟨את⟩ ያህዌህን ታውቃለህ።",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "አሳምቼሻታለሁ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "በአማኑነት"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ታውቃለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:57:11.630425246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 3:9",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የእስራኤል ንጉሥ፣ የይሁዳ ንጉሥም፣ የኤዶም ንጉሥም ሄዱ፤ የሰባት ቀን መንገድ ዞሩ፤ ለሰፈሩም ለእግራቸውም ባሉት እንስሳትም ውሃ አልነበረም።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄዱ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "የይሁዳ ንጉሥም"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "የኤዶም ንጉሥም"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "ዞሩ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አልነበረም፤"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበረ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ለሰፈሩ"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "ለእንስሳትም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የነበሩት"
+    },
+    {
+      "surface": "ברגליהם",
+      "gloss": "በእግራቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T16:40:58.858819559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "isaiah 50:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 50,
+  "translation": "የሚያጸድቀኝ ቅርብ ነው፤ ማን ⟨את⟩ ከእኔ ጋር ይከራከተኛል? አብረን እንቁምጣለን፤ ማን ክሴቱን የሚይዘኝ ነው? ወደ እኔ ይቅርብ።",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ቅርብ"
+    },
+    {
+      "surface": "מצדיקי",
+      "gloss": "የሚያጸድቀኝ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ይከራከተኛል"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ከእኔ ጋር",
+      "marks": "ከእኔ ጋር"
+    },
+    {
+      "surface": "נעמדה",
+      "gloss": "እንቁምጣለን"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "አብረን"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "የሚይዝ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ክሴቱን"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "ይቅርብ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:27:21.670302305Z",
+  "model": "glm-5.3"
+}

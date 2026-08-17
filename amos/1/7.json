@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 1:7",
+  "book": "amos",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "በዓዛ ግንብ ላይ እሳት እልካለሁ፤ መናንቅቷንም ትበላለች።",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "እልካለሁ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "በ…ግንብ ላይ"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ዓዛ"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ትበላለች"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "መናንቅቷን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:01:19.241694355Z",
+  "model": "glm-5.3"
+}

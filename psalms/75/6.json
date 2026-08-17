@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 75,
+  "translation": "«ቀንዳችሁን ወደ ላይ ወደ ሰማይ አትስሩ፤ በደለ አንገት አትናገሩ።»",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ስሩ"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "ወደ ላይ ወደ ሰማይ"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "ቀንዳችሕን"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "አትናገሩ"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "በደለ አንገት"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "(የተደፋ)"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:42.259450523Z",
+  "model": "glm-5.3"
+}

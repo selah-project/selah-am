@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 56,
+  "translation": "የምፈራበት ቀን እኔ በአንተ እተማመናለሁ።",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "የምፈራበት"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "እተማመናለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:42.680437234Z",
+  "model": "glm-5.3"
+}

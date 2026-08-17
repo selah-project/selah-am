@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ያህዌህ፣ እንደ አንተ የለም፤ ከ አንተ ሌላ ኤሎሂምም የለም፤ በጆሮቻችን የሰማነው ሁሉ እንደሆነ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "እንደ አንተ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ደግሞ የለም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "ከ አንተ ሌላ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሰማነው እንደሆነ"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "የሰማነው"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "በጆሮቻችን"
+    }
+  ],
+  "timestamp": "2026-08-16T13:07:03.322083033Z",
+  "model": "glm-5.3"
+}

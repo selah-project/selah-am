@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ሞሼም ወደ ያህዌህ ጮክ ብሎ «ለዚህ ሕዝብ ምን አደርጋለሁ? ትንሽ ቀርቶ ያጠሩኛል» አለ።",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ጮክ ብሎ ጮኸ፤"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ልብል፤"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "አደርጋለሁ?"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ለሕዝብ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ትንሽ ቀርቶ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ጥቂት"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "ያጠሩኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:19:28.421350708Z",
+  "model": "glm-5.3"
+}

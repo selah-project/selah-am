@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 116,
+  "translation": "አምነያለሁ፣ ስለዚህ እናገራለሁ፤ እኔ በጣም ተጨነቅሁ።",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "አምነያለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "እናገራለሁ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ተጨነቅሁ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:11.653463264Z",
+  "model": "glm-5.3"
+}

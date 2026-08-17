@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "leviticus 22:1",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ያህዌህ ሞሼን ተናገረ እንዲህ ሲል፦",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:58:38.542082343Z",
+  "model": "glm-5.3"
+}

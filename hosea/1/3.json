@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ሄደ፣ ⟨את⟩ ጎሜርን የዲብላይም ሴት ልጅ ወሰደ፤ እርሷም ከወነች፣ ለእርሱም ወንድ ልጅ ወለደች።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጎሜርን"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ጎሜር"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ሴት ልጅ"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "ዲብላይም"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ከወነች"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወንድ ልጅ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:56:43.172082975Z",
+  "model": "glm-5.3"
+}

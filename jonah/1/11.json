@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "jonah 1:11",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እነርሱም እንዲህ አሉት፦ ባሕርም ከእኛ ላይ እንዲጸናፍ ምን እናድርግልህ? ባሕር በእውነት እየተናወጠ ነውና።",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "አሉት"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "እናድርግልህ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ላንተ"
+    },
+    {
+      "surface": "וישתק",
+      "gloss": "እንዲጸናፍ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "ከእኛ ላይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነውና"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "እየሄደ"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "እየተናወጠ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:11:00.230331220Z",
+  "model": "glm-5.3"
+}

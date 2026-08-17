@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "በሩ በመጠረዙ ላይ እንደሚዞር፣ እንዲሁም አንቀላፋተኛው በአልጋው ላይ ይዞራል።",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "በሩ"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "ይዞራል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "መጠረዙ"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "እና አንቀላፋተኛው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "አልጋው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:35:22.639330831Z",
+  "model": "glm-5.3"
+}

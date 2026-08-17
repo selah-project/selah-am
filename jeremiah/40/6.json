@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 40:6",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "የመጣው ኢያርምያሁ ወደ ግዳልያ ልጅ አኪቃም ወደ ⟨המצפתה⟩ ምጽፓ ሄደ፤ ከቀሩት በምድር በሆነው ሕዝብ መካከል ⟨את⟩ ከእርሱ ጋር ኖረ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጣ\/ሄደ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ያርምያሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "גדליה",
+      "gloss": "ግዳልያ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "አኪቃም"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "ምጽፓ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ኖረ\/ተቀመጠ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "የቀሩት"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    }
+  ],
+  "timestamp": "2026-08-17T08:15:55.148091018Z",
+  "model": "glm-5.3"
+}

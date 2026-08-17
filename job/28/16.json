@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "job 28:16",
+  "book": "job",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "በኦፊር ሰሙር ወርቅ አትተመንም፤ በውድ ሸሐምና በሳፋይርም አትተመንም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תסלה",
+      "gloss": "ትተመንም"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "በሰሙር ወርቅ"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ኦፊር"
+    },
+    {
+      "surface": "בשהם",
+      "gloss": "በሸሐም"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ውድ"
+    },
+    {
+      "surface": "וספיר",
+      "gloss": "እና ሳፋይር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:53:21.946021660Z",
+  "model": "glm-5.3"
+}

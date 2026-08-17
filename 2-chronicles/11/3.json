@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "2-chronicles 11:3",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "የሰሎሞን ልጅ ሆኖ የይሁዳ ንጉሥ ሮሐባምን፣ እና በይሁዳና በብንያም ያለውን መላውን እስራኤል፣ እንዲህ በላቸው፦ ንገር።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ንገር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ… እንዲህ በላቸው"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ሮሐባምን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "የሰሎሞን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "የይሁዳ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ለ…ን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላውን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "በይሁዳ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "እና በብንያም"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:42:48.837963930Z",
+  "model": "glm-5.3"
+}

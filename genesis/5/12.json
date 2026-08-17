@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ቀይናንም ሰባ ዓመት ኖረ፤ በራሱ ዘመን ⟨את⟩ ማህለለልን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ኖረ"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "ቀይናን"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ሰባ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማህለለልን"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "ማህለለል"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:40.822697084Z",
+  "model": "glm-5.3"
+}

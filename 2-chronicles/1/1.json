@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "2-chronicles 1:1",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ሰሎሞን የዳዊት ልጅ በመንግሥቱ ላይ ተጠናከረ፤ ያህዌህ ኤሎሂም ⟨ነበር⟩ ከእርሱ ጋራ፣ እንደ ላይም አሳደገው።",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "ተጠናከረ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "የዳዊት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "መንግሥቱ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋራ"
+    },
+    {
+      "surface": "ויגדלהו",
+      "gloss": "አሳደገው"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "እንደ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:22:58.204186836Z",
+  "model": "glm-5.3"
+}

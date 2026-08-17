@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 29,
+  "ref": "psalms 104:29",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 104,
+  "translation": "ፊትህን ብትሰውር ይደነግጣሉ፤ መንፈሳቸውን ብታስቀምጥ ይሞታሉ፤ ወደ አፈራቸውም ይመለሳሉ።",
+  "tokens": [
+    {
+      "surface": "תסתיר",
+      "gloss": "ብትሰውር"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህን"
+    },
+    {
+      "surface": "יבהלון",
+      "gloss": "ይደነግጣሉ"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ብታስቀምጥ"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "መንፈሳቸውን"
+    },
+    {
+      "surface": "יגועון",
+      "gloss": "ይሞታሉ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "አፈራቸውም"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "ይመለሳሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:29.141222720Z",
+  "model": "glm-5.3"
+}

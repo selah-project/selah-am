@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "ኤፉዱን ⟨את⟩ አደረገ፤ በወርቅ፣ በወይን ሰማያዊ፣ በአርግማን፣ በቺትናዊ ተንቅጥ እና በዘረጋ ሰፍና የተሠራ ነው።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤፉዱን"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ኤፉዱን"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቅ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ወይን ሰማያዊ"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "አርግማን"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ቺትናዊ ተንቅጥ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "(የቺት)"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ሰፍና"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "የዘረጋ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:48:01.103978878Z",
+  "model": "glm-5.3"
+}

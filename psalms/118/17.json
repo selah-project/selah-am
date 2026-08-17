@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 118,
+  "translation": "አልሞትም፣ ነገር ግን እንሥራለሁ፤ የያህንም ሥራዎች አገልብቻለሁ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አልሞትም"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "አልሞትም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "እንሥራለሁ"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "እና አገልብቻለሁ"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ሥራዎችን"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:01.779902761Z",
+  "model": "glm-5.3"
+}

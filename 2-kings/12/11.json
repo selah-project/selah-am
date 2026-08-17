@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 12:11",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ሆኖም በሳጥኑ ውስጥ ገንዘቡ ብዙ መሆኑን ሲያዩ፣ የንጉሡ ጸሐፊና ታላቁ ካህን ወጡ፤ አሰሩትም፣ በያህዌህ ቤት የተገኘውን ገንዘብ ⟨את⟩ ቆጠሩ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆኖም"
+    },
+    {
+      "surface": "כראותם",
+      "gloss": "ሲያዩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…መሆኑን"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ገንዘቡ"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "በሳጥኑ ውስጥ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ወጡ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ጸሐፊ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "ካህኑም"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ታላቁ"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "አሰሩትም"
+    },
+    {
+      "surface": "וימנו",
+      "gloss": "ቆጠሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገንዘብ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ገንዘብ"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "የተገኘውን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:43:16.814671244Z",
+  "model": "glm-5.3"
+}

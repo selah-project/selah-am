@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 28:15",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ፍጹም ነህ ⟨ነበር⟩ በመንገዶችህ ውስጥ፣ ከተፈጠርህ ቀን ጀምሮ፣ እስከ ተገኘ ድረስ ክፉነትህ በአንተ ውስጥ።",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "ፍጹም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ነህ"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "በመንገዶችህ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ከ…ቀን"
+    },
+    {
+      "surface": "הבראך",
+      "gloss": "ተፈጠርህ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ተገኘ"
+    },
+    {
+      "surface": "עולתה",
+      "gloss": "ክፉነትህ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:25:03.608715706Z",
+  "model": "glm-5.3"
+}

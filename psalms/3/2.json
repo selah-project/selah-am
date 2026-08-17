@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ያህዌህ ሆይ፣ ጠቃሚዎቼ ስንት በዝተዋል! ብዙዎች በእኔ ላይ ተነሥተዋል።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ስንት"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "በዝተዋል"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ጠቃሚዎቼ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙዎች"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "ተነሥተዋል"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:28:13.224360461Z",
+  "model": "glm-5.3"
+}

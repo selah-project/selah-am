@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "እናት ማሳያውን ⟨את⟩ ካላዳነ ወይም ማሳያውን ⟨את⟩ ለሌላ ሰው ከሸጠው፣ ከእንግዲህ አይድንም።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እናት ከሆነ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ያድንም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማሳያውን"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ማሳያውን"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ወይም ከሆነ"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "ሸጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማሳያውን"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ማሳያውን"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ለሰው"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ለሌላ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ይድንም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ከእንግዲህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:03:10.418176157Z",
+  "model": "glm-5.3"
+}

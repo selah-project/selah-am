@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ያህዌህ የአሕዛቦችን ምክር አበላሸ፤ የሕዝቦችን አሳቦች አሳነሰ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "አበላሸ"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ምክር"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "አሕዛቦችን"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "አሳነሰ"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "አሳቦች"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝቦችን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:18.385507463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የሰሎሞን ምግብ በአንድ ቀን ሠላሳ ኮር ጥሩ ዱቄት እና ስልሳ ኮር ዱቄት ነበር።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነበር"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ምግብ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "የሰሎሞን"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "በአንድ ቀን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሠላሳ"
+    },
+    {
+      "surface": "כר",
+      "gloss": "ኮር"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ጥሩ ዱቄት"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "እና ስልሳ"
+    },
+    {
+      "surface": "כר",
+      "gloss": "ኮር"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "ዱቄት"
+    }
+  ],
+  "timestamp": "2026-08-16T16:21:26.531883970Z",
+  "model": "glm-5.3"
+}

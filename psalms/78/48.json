@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 48,
+  "ref": "psalms 78:48",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "ከብታቸውን ለበረዶ አሳልፎ ሰጠ፤ እና መንጋቸውን ለነበልባል ፍንጮች።",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "አሳልፎ ሰጠ"
+    },
+    {
+      "surface": "לברד",
+      "gloss": "ለበረዶ"
+    },
+    {
+      "surface": "בעירם",
+      "gloss": "ከብታቸውን"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "እና መንጋቸውን"
+    },
+    {
+      "surface": "לרשפים",
+      "gloss": "ለነበልባል ፍንጮች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:04.552229548Z",
+  "model": "glm-5.3"
+}

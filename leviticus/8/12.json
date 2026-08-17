@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ከየመቀባት ዘይቱም በአሃሮን ራስ ላይ አፈሰሰ፤ ⟨את⟩ እርሱንም ቀባ — ለመቀደሱ።",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "አፈሰሰ"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ከዘይት"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "የመቀባት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "ቀባ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ለመቀደሱ።"
+    }
+  ],
+  "timestamp": "2026-08-16T03:47:03.122357581Z",
+  "model": "glm-5.3"
+}

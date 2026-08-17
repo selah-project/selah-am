@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 7:12",
+  "book": "micah",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "በዚያ ቀን እርሷ ወደ አንተ ትመጣለች፤ ከአሾር እና ከሸለቆ ከተሞች፣ እና ከሸለቆ እስከ ወንዝ ድረስ፤ ከባሕር እስከ ባሕር፣ እና ከተራራ እስከ ተራራ።",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሷ"
+    },
+    {
+      "surface": "ועדיך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ትመጣለች"
+    },
+    {
+      "surface": "למני",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "አሾር"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "እና ከተሞች"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ሸለቆ"
+    },
+    {
+      "surface": "ולמני",
+      "gloss": "እና ከ"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ሸለቆ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ወንዝ"
+    },
+    {
+      "surface": "וים",
+      "gloss": "እና ከባሕር"
+    },
+    {
+      "surface": "מים",
+      "gloss": "እስከ ባሕር"
+    },
+    {
+      "surface": "והר",
+      "gloss": "እና ከተራራ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "እስከ ተራራ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:28:34.386774271Z",
+  "model": "glm-5.3"
+}

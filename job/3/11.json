@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ለምን ከማኅፀን አልሞትሁም? ከሆድ ወጥቼ እና አልሞትም ነበርኩ።",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ከማኅፀን"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "አልሞትሁም"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ከሆድ"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "ወጥቼ"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "እና አልሞትም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:39:21.915336852Z",
+  "model": "glm-5.3"
+}

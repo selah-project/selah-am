@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "እጅህ ለሁሉ ጠላቶችህ ያገኛል፤ ቀኝህ የሚጠሉህን ያገኛል።",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "ያገኛል"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ጠላቶችህ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ቀኝህ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ያገኛል"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "የሚጠሉህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:58.036748931Z",
+  "model": "glm-5.3"
+}

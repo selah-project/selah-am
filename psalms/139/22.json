@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 139,
+  "translation": "በፍጹም ጥላት ጠልኋቸዋለሁ፤ ለጠላቶቼ ሆነውልኛል።",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "በፍጹም"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ጥላት"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "ጠልኋቸዋለሁ"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "ለጠላቶች"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ሆነውልኛል"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ልኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:13.516458565Z",
+  "model": "glm-5.3"
+}

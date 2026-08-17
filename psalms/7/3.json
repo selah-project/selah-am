@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ውጊያው እንዳልሆነ ነፍሴን እንደ አንበሳ ሊንጠቅ አለበት፣ ሲበታተንም አድን የሚችል የለም።",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ውጊያው እንዳልሆነ"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "ሊንጠቅ አለበት"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "እንደ አንበሳ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ሲበታተንም"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለምም"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "አድን የሚችል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:29:15.440033217Z",
+  "model": "glm-5.3"
+}

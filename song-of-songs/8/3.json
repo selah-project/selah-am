@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ግራ እጁ ራሴ ሥር ትሆናለች፤ ቀኝ እጁም ታቀፈኛለች።",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "ግራ እጁ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ሥር"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ራሴ"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "ቀኝ እጁም"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "ታቀፈኛለች"
+    }
+  ],
+  "timestamp": "2026-08-16T11:06:09.804650729Z",
+  "model": "glm-5.3"
+}

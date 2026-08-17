@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "መንግሥቱ ⟨את⟩ የዳዊትን ዙፋን ከሳኦል ቤት እንዲዛወር፣ በይስራኤልና በይሁዳ ላይ ከዳን እስከ ቤርሳቤ እንዲደረግ ይኼድ ነበር።",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "እንዲዛወር"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "መንግሥቱ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ከ...ቤት"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "እንዲደረግ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የዳዊትን ዙፋን"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ዙፋን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "በይሁዳም ላይ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "ከዳን"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ቤር"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሳቤ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:42:49.859480978Z",
+  "model": "glm-5.3"
+}

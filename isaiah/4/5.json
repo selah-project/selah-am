@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "isaiah 4:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ያህዌህ በጽዮን ተራራ ሁሉ ማደሪያ እና በመሰብሰቢያዋ ላይ በቀን ደመና እና ጭምብል፣ በሌሊት የነበልባል እሳት ብርሃን ይፈጥራል፤ በክብራት ሁሉ ላይ ማደሪያ-ሽፋን ይሆናልና።",
+  "tokens": [
+    {
+      "surface": "וברא",
+      "gloss": "ይፈጥራል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "ማደሪያ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ…ላይ"
+    },
+    {
+      "surface": "מקראה",
+      "gloss": "መሰብሰቢያዋ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ደመና"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "እና ጭምብል"
+    },
+    {
+      "surface": "ונגה",
+      "gloss": "እና ብርሃን"
+    },
+    {
+      "surface": "אש",
+      "gloss": "የእሳት"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "ነበልባል"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "በሌሊት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ\/ስለዚህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብራት"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "ማደሪያ-ሽፋን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:58:53.753938179Z",
+  "model": "glm-5.3"
+}

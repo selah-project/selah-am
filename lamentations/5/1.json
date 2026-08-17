@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ያህዌህ ሆይ፣ ምን እንደ ሆነብን አስታውስ፤ ተመልከትና ⟨את⟩ ዕርጉራችንን አይ።",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "አስታውስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "היה",
+      "gloss": "እንደ ሆነብን"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ተመልከት"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዕርጉራችንን"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "ዕርጉራችን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:13:06.555227384Z",
+  "model": "glm-5.3"
+}

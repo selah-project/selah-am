@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ልጁን በመንገዱ አንደ አፉ ማሰለጠን፤ እንዲሁም ሲያርጅ ከእሱ አይወጣም።",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "ማሰለጠን"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ልጁን"
+    },
+    {
+      "surface": "על",
+      "gloss": "አንደ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፉ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "መንገዱ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ሲያርጅ"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "ሲያርጅ ይሆናል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ይወጣም"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ከእሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:32:13.091047520Z",
+  "model": "glm-5.3"
+}

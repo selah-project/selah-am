@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ምክንያቱም እያንዳንዱ ሰው አባቱን ⟨את⟩ እና እናቱን ⟨את⟩ የሚሳድብ ሞት ይሞታል፤ አባቱንና እናቱን አሳድቧል፤ ደሙ በርሱ ላይ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚ"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ይሳድብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አባቱን"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እናቱን"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "እናቱን"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይሞታል"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱን"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "እናቱን"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "አሳድቧል"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "ደሙ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:57:22.254987608Z",
+  "model": "glm-5.3"
+}

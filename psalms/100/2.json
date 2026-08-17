@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 100,
+  "translation": "ያህዌህን ⟨את⟩ በደስታ አገልግሉ፤ በመዝለቅ ፊቱ ፊት ቀደምታችሁ ኑ።",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "አገልግሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "በደስታ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ኑ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ፊቱ ፊት ቀደምታችሁ"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "በመዝለቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:13.643057640Z",
+  "model": "glm-5.3"
+}

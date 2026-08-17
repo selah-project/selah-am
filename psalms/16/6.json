@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "መለኪያ መስመሮች በሚያረሱ ቦታዎች ለእኔ ወደቁ፤ አዎ፣ ውብ ርስት በእኔ ላይ ⟨አለኝ⟩።",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "መለኪያ መስመሮች"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ወደቁ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "በሚያረሹ ቦታዎች"
+    },
+    {
+      "surface": "אף",
+      "gloss": "አዎ"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ርስት"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "ውብ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:32.439045629Z",
+  "model": "glm-5.3"
+}

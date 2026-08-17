@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ፀሐይ በእርሱ ላይ ቢያበራ፣ ደም አለበት፤ ሙሉ ካሳ ይከፍላል፤ ካለው ከሌለ በስርቆቱ ይሸጣል።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ቢ"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "ቢያበራ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ፀሐይ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ካሳ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ይከፍላል"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሌለው"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ከሌለ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "ይሸጣል"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "በስርቆቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:22:49.448916216Z",
+  "model": "glm-5.3"
+}

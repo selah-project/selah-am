@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 93,
+  "translation": "ዙፋንህ ከዚያን ጊዜ ጀምሮ ተረጋግጧል፤ ከዘላለም አንተ ነህ።",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ተረጋግጧል"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ዙፋንህ"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ከዚያን ጊዜ ጀምሮ"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ከዘላለም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ ነህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:56.337693793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ሞሼም ⟨את⟩ የመቀባት ዘይቱን ወሰደ፤ ⟨את⟩ መካኑን እና ⟨את⟩ በውስጡ ያለውን ሁሉ ቀባ፤ እነሱንም ቀደሰ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የመቀባት ዘይቱን"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘይት"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "የመቀባት"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "ቀባ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መካኑን"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "መካኑን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለውን"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በውስጡ"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ቀደሰ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ እነሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:47:03.121981375Z",
+  "model": "glm-5.3"
+}

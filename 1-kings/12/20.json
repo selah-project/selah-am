@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "1-kings 12:20",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የሆነው መላው እስራኤል ያሮብዓም ተመልሶ መጣ ሲሰሙ ላኩ፤ ወደ ምክረ ሕብሩ ደግሞ ⟨את⟩ እርሱን ጠሩ፤ በመላው እስራኤል ላይም ⟨את⟩ እርሱን አነገሱ፤ የዳዊት ቤትን የሚከተል የላለም፤ የይሁዳ ነገዥ ብቻ ሲቀር በቀረ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "የሆነው"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ሲሰሙ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላው"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ን"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ተመልሶ መጣ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ያሮብዓም"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ላኩ"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ጠሩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ወደ ምክረ ሕብሩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ምክረ ሕብሩ"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "አነገሱ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላው"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "የላለም"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበረ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "የሚከተል"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…ቤትን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "በቀረ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "የ…ነገዥ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ብቻ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:24:32.928084415Z",
+  "model": "glm-5.3"
+}

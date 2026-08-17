@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 83,
+  "translation": "በዒን-ዶር ጠፉ፤ ለአፈሩ ፍግ ሆኑ።",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "ጠፉ"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "በ…ዒን"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "ዶር"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ሆኑ"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "ፍግ"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "ለምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:28.495733328Z",
+  "model": "glm-5.3"
+}

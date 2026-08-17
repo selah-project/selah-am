@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ከእርሱ በኋላ እስራኤልን ⟨את⟩ ኤሎን ዘውሉናዊው ፈረደ፤ እና እስራኤልን ⟨את⟩ አሥር ዓመታት ፈረደ።",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ፈረደ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ከእርሱ በኋላ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "ኤሎን"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "ዘውሉናዊው"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "እና ፈረደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:22:49.713297579Z",
+  "model": "glm-5.3"
+}

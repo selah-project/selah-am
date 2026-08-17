@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የሥጋ ዓይኖች አሉህ? ወይስ እንደ ሟች ማየት ታያለህ?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "ዓይኖች"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "የሥጋ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "አሉህ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ወይስ"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "እንደ ማየት"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሟችን"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ታያለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:46:41.585092983Z",
+  "model": "glm-5.3"
+}

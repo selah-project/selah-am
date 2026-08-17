@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "ቀኖቹ ጥቂት ይሁኑ፤ ሹመቱንም ሌላ ይውሰድ።",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ይሁኑ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ቀኖቹ"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "ጥቂት"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "ሹመቱን"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ይውሰድ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ሌላ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:02.968360763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እና ፈረደ ሳሙኤል ⟨את⟩ እስራኤልን ሁሉ የቀናት የሕይወቱ።",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "እና ፈረደ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "የቀናት"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "የሕይወቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:33:14.253289996Z",
+  "model": "glm-5.3"
+}

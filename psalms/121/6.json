@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 121,
+  "translation": "በቀን ፀሐይ አይመታህ፣ ጨረቃም በሌሊት።",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ፀሐይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "ይመታህ"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "እና...ጨረቃ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "በሌሊት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:06.349577157Z",
+  "model": "glm-5.3"
+}

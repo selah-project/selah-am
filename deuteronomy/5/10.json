@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እና ለሚወዱኝ ለትውልዶች ሺዎች ድረስ፣ ትእዛዜንም ለሚጠብቁ ለእነሱ ችሮታ የሚያደርግ ነኝ።",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "እና የሚያደርግ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ችሮታ"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "ለሺዎች ድረስ (ለትውልዶች)"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ለሚወዱኝ"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "ለሚጠብቁም"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "ትእዛዜን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:35:11.516740057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "አውራ ጎዳናዎች ተጠፉ፤ በመንገድ የሚያልፍ ሰው ቆመ፤ ኪዳንን በደለ፤ ከተሞችን አዋረደ፤ ሰውን አልቆጠረም።",
+  "tokens": [
+    {
+      "surface": "נשמו",
+      "gloss": "ተጠፉ"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "አውራ ጎዳናዎች"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ቆመ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "የሚያልፍ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "በደለ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ኪዳንን"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "አዋረደ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ከተሞችን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ቆጠረም"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሰውን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:13:07.895315229Z",
+  "model": "glm-5.3"
+}

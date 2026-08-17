@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "joshua 10:7",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ኢያሱም እርሱ ከጊልጋል ከወጣ፣ የውጊያው ሕዝብ ሁሉ ከእርሱ ጋር፣ እንዲሁም ኃያላን ጀግኖች ሁሉ።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ኢያሱ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ጊልጋል"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉ ከ... ጋር"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ የ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ውጊያው"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እንዲሁም ሁሉ"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ኃያላን ጀግኖች የ"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ኃይል"
+    }
+  ],
+  "timestamp": "2026-08-16T05:04:36.872539717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "በዚያም ቀን ታመሰግናለህ እንዲህ ትላለህ፦ አመሰግኝሃለሁ ያህዌህ ሆይ፤ በእኔ በቀለህኝ ያህዌህ ሆይ፤ ቍጣህ ተመልሶ አጽናኝኝ ነበር።",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ትላለህ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በዚያም ቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "አመሰግኝሃለሁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "በቀለህኝ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በእኔ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ተመልሶ"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ቍጣህ"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "አጽናኝኝ ነበር"
+    }
+  ],
+  "timestamp": "2026-08-16T07:02:39.953572785Z",
+  "model": "glm-5.3"
+}

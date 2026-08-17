@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "«ድምፅህን ⟨את⟩ በገነቱ ሰማሁ፤ ባለቀሚስ ስለ ሆንሁ ፈራሁ፤ ራሴንም ደበቅሁ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምፅህን"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "ድምፅህን"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ሰማሁ፤"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "በገነቱ"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "ፈራሁ፤"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ባለቀሚስ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ሆንሁ"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "ራሴንም ደበቅሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:28:46.009353474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 59,
+  "translation": "ኃይሉ፣ ወደ አንተ እጠብቃለሁ፤ ኤሎሂም መጠለያዬ ⟨ነው⟩ና።",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "ኃይሉ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "እጠብቃለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነውና"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "መጠለያዬ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:01.841364328Z",
+  "model": "glm-5.3"
+}

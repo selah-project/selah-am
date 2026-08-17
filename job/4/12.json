@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እኔ ዘንድ ቃል በስውር ይመጣል፤ እንድሰማም ከእርሱ ግርጌ ድምፅ ተቀበለች።",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "እኔ ዘንድ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "በስውር ይመጣል"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ተቀበለችም"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "እንድሰማ"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "ግርጌ ድምፅ"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "ከእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:39:30.703754412Z",
+  "model": "glm-5.3"
+}

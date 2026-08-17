@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 3:15",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ምን ላችሁ? ሕዝቤን ትሰብራላችሁ፤ የድሆችንም ፊት ትፈጽማላችሁ — የአዶናይ ያህዌህ የሰራዊት ቃል ነው።",
+  "tokens": [
+    {
+      "surface": "מלכם",
+      "gloss": "ምን ላችሁ"
+    },
+    {
+      "surface": "תדכאו",
+      "gloss": "ትሰብራላችሁ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤን"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "የ…ፊት"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "የድሆችን"
+    },
+    {
+      "surface": "תטחנu",
+      "gloss": "ትፈጽማላችሁ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "የ…ቃል"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "የሰራዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T16:53:52.005042892Z",
+  "model": "glm-5.3"
+}

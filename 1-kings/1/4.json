@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እንደዚያውም ልጂቱ በጣም ውብ ነበረች፤ ለንጉሡም አሳም ሆነች፣ አገለገለችውም፤ ንጉሡ ግን አላወቃትም።",
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "ልጂቱም"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ውብ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ሆነችም"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ለንጉሡ"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "አሳም"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "አገለገለችውም"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "ወቃት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:12:52.476419468Z",
+  "model": "glm-5.3"
+}

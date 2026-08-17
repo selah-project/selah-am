@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 142,
+  "translation": "መንፈሴ በእኔ ላይ ሲደነግጥ፣ አንተ ግን መንገቴን ታውቃለህ፤ በምሄድበት መንገድ ላይ ማዘጋጃ ደበቁልኝ።",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "ሲደነግጥ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "መንፈሴ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "አንተ ግን"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ታውቃለህ"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "መንገቴን"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "በ...መንገድ ላይ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ይህችን"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ምሄድበት"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ደበቁልኝ"
+    },
+    {
+      "surface": "פח",
+      "gloss": "ማዘጋጃ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:05.321899560Z",
+  "model": "glm-5.3"
+}

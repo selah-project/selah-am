@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "deuteronomy 28:26",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "አስከሬንህ ለሰማይ ወፎች ሁሉ እና ለምድር እንስሳት ምግብ ይሆናል፤ የሚያስፈራቸውም የለም።",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "נבלתך",
+      "gloss": "አስከሬንህ"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "ምግብ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ወፎች"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ለሰማይ"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "እና ለ…እንስሳት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለምም"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "የሚያስፈራ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:51:45.626635696Z",
+  "model": "glm-5.3"
+}

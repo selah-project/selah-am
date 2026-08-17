@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ማንም ሰው የሚጻፈው ⟨את⟩ አፍህን እና የማይሰማ ⟨את⟩ ቃላትህን፣ በሁሉ የታዘዘው፣ ይገደላል፤ ብቻ ጠንካራ ሁኍ እና ጀግና።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ማንም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚጻፈው"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "ጻፈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አፍህን"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "አፍህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ያሰማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላትህን"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ቃላትህ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "በሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የታዘዘው"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "ታዘዘው"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይገደላል"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ጠንካራ ሁኍ"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "እና ጀግና"
+    }
+  ],
+  "timestamp": "2026-08-16T04:58:30.530751266Z",
+  "model": "glm-5.3"
+}

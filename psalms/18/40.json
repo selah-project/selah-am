@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ለጦርነት በኃይል አጠበቅኸኛል፤ ተነሣኞቼንም በእኔ ሥር አድፈኸዋል።",
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "አጠበቅኸኛል"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "በኃይል"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ለጦርነት"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "አድፈኸዋል"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "ተነሣኞቼን"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "በእኔ ሥር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:56.345350048Z",
+  "model": "glm-5.3"
+}

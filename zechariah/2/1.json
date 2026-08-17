@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ዓይኖቼን አነሳሁ፣ ⟨את⟩ ዓይኖቼን፣ አየሁ፣ እነሆ፣ አራት ቀንዶች።",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "አነሳሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓይኖቼን"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኖቼን"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "አየሁ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "አራት"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "ቀንዶች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:20:52.916444772Z",
+  "model": "glm-5.3"
+}

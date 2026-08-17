@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ልጄ ሆይ ያህዌህን ⟨את⟩ እና ንጉሥን እድገፍ፤ ከተቀያየሪዎች ጋር አትተባበር።",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "እድገፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጄ ሆይ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "እና ንጉሥን"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "ተቀያየሪዎች"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት-"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "ተባበር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:33:26.788673593Z",
+  "model": "glm-5.3"
+}

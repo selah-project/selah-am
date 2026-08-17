@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ደግፈኝ እና ተድነያለሁ እና በሥርዓቶችህ ሁልጊዜ እንገለገላለሁ።",
+  "tokens": [
+    {
+      "surface": "סעדני",
+      "gloss": "ደግፈኝ"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "እና ተድነያለሁ"
+    },
+    {
+      "surface": "ואשעה",
+      "gloss": "እና እንገለገላለሁ"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "በሥርዓቶችህ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:04.712097471Z",
+  "model": "glm-5.3"
+}

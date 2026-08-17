@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እና አሁን ወደ እናንተ ይህች ትእዛዝ ናት ካህናት ሆይ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "እና አሁን"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ወደ እናንተ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ትእዛዙ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህች"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት ሆይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:26:28.581714649Z",
+  "model": "glm-5.3"
+}

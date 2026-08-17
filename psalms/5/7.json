@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ውሸትን የሚናገሩትን ታጠፋለህ፤ የደምና የማታለል ሰውን ያህዌህ ይጸየፋል።",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "ታጠፋለህ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "የሚናገሩ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ውሸትን"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰውን"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "የደም"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "የማታለል"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "ይጸየፋል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:27:50.376770448Z",
+  "model": "glm-5.3"
+}

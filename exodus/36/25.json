@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "ለመገናኛው ማደርቢያ ሁለተኛው ጎን፣ ለሰሜን አቅጣጫ፣ ሃያ ሰሌዳዎችን አደረገ።",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "ለ…ጎን"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "መገናኛው ማደርቢያ"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ሁለተኛው"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ለ…አቅጣጫ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ሰሜን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ሃያ"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "ሰሌዳዎችን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:36:41.109223396Z",
+  "model": "glm-5.3"
+}

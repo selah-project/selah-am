@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ቤትጹርን፣ ሶኮንና ዓዱላምን ⟨את⟩ (ሠራ)።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ቤትጹርን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ጹርን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሶኮን"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "ሶኮን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዓዱላምን"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "ዓዱላምን"
+    }
+  ],
+  "timestamp": "2026-08-16T13:37:16.025081466Z",
+  "model": "glm-5.3"
+}

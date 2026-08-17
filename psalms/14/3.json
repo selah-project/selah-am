@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ሁሉም አፈነገጡ፣ አንድነት ተበከሉ፤ መልካም የሚያደርግ የለም፣ አንድ እንኳ የለም።",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "סר",
+      "gloss": "አፈነገጡ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "አንድነት"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "ተበከሉ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "የሚያደርግ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንኳ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:31.085008101Z",
+  "model": "glm-5.3"
+}

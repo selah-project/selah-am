@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "የሕዝቅያስ ንጉሥ ማለዳ ተነሥቶ ⟨את⟩ የከተማዋን አለቆች ሰበሰበ፤ ወደ ያህዌህ ቤትም ወጣ።",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ማለዳ ተነሥቶ"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "ሕዝቅያስ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ሰበሰበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አለቆች"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "አለቆች"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "የከተማዋን"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:44:52.340978459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "በቅዱስነትዬ አንዴ በውለት ማልኩ፤ ለዳዊት አታምላም።",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "አንዴ"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "በውለት ማልኩ"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "በቅዱስነትዬ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እውነት ነው"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "አታምላም"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:14.358429025Z",
+  "model": "glm-5.3"
+}

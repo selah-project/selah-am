@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 5:19",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ኤልሳይ ወደ እርሱም እንዲህ አለው፦ «በሰላም ሂድ።» እርሱም ከእርሱ እስከ ⟨את⟩ የምድር ኵብሪት ራቀ እርሱ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "በሰላም"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "ከእርሱ ⟨את⟩",
+      "marks": "ኤልሳይ የተባለው ሰው"
+    },
+    {
+      "surface": "כברת",
+      "gloss": "ኵብሪት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-17T07:37:45.484371982Z",
+  "model": "glm-5.3"
+}

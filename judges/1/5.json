@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "አዶኒ-ቤቅን ⟨את⟩ በቤቅ አገኙ፤ ከእርሱም ጋር ዋገኑ፤ ከነዓኒውን ⟨את⟩ እና ፐሪዚውን ⟨את⟩ መቱ።",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "አገኙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አዶኒ-ቤቅ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶኒ"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "ቤቅ"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "በቤቅ"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ዋገኑ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "መቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከነዓኒውን"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ከነዓኒው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ፐሪዚውን"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "ፐሪዚው"
+    }
+  ],
+  "timestamp": "2026-08-16T05:13:13.586925149Z",
+  "model": "glm-5.3"
+}

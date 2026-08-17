@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ሞሼም እንደዚያ ያህዌህ እንዳዘዘው ⟨את⟩ እሱን በእስራኤል ልጆች የሁሉን ⟨את⟩ በኩር ቆጠረ።",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "ቆጠረ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደዚያ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እሱን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን በኩር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "በኩር"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "በ…ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:05:29.787817114Z",
+  "model": "glm-5.3"
+}

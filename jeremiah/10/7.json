@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 10:7",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ማን ነው ያልፈራህ? የአሕዛብ ንጉሥ ሆይ፤ ምክንያቱም ለአንተ ይገባል፤ ምክንያቱም በአሕዛብ ጠቢባን ሁሉ እና በመንግሥታቸው ሁሉ ውስጥ ልክ እንደ አንተ የለም።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "יראך",
+      "gloss": "ፈራህ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "የአሕዛብ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "יאתה",
+      "gloss": "ይገባል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በ…ሁሉ"
+    },
+    {
+      "surface": "חכמי",
+      "gloss": "ጠቢባን"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "የአሕዛብ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "እና በ…ሁሉ"
+    },
+    {
+      "surface": "מלכותם",
+      "gloss": "በመንግሥታቸው"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ልክ እንደ አንተ የለም"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "እንደ አንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:11:48.482113756Z",
+  "model": "glm-5.3"
+}

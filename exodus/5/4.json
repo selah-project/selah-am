@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የግብፅ ንጉሥም እንዲህ አላቸው፦ ሞሼ እና አሃሮን፣ ሕዝቡን ⟨את⟩ ከሥራው ለምትለያዩት ለምንድን ነው? ወደ ሸክማችሁ ሂዱ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አላቸው"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "እነርሱን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "የግብፅ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ለምንድን ነው"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "እና አሃሮን"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "ለምትለያዩት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "ከሥራው"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ሂዱ"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "ወደ ሸክማችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:09:47.310176789Z",
+  "model": "glm-5.3"
+}

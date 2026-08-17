@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ልጄ ሆይ፣ ቃላቴን ብትቀበል እና ትእዛዜችን ⟨את⟩ ከአንተ ጋር ብትደብቅ፣",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ልጄ ሆይ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ብት"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ትቀበል"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ቃላቴን"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "እና ትእዛዜችን"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "ብትደብቅ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ከአንተ ጋር",
+      "marks": "ከአንተ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:22:23.291873978Z",
+  "model": "glm-5.3"
+}

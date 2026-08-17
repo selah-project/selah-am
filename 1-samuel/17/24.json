@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "የእስራኤል ሰዎች ሁሉ ሰውየውን ⟨את⟩ ባዩ ጊዜ ከፊቱ ሮጡ፤ በጣም ፈሩም።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "ባዩ ጊዜ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰውየውን"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰውየውን"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ሮጡ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ከፊቱ"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ፈሩም"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:41:28.430789142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ሞሼም ⟨את⟩ እጁን ወደ ሰማያት ዘረጋ፤ በየሩሻላይም ምድር ሁሉ ላይም ጥቅቅ ጨለማ ሦስት ቀን ሆነ።",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ዘረጋም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጁን"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነም"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጨለማ"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "ጥቅቅ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በ... ሁሉ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:12:40.660853448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "1-samuel 3:6",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ያህዌህም ዳግመኛ የስሙኤልን ስም ጠራው፤ ስሙኤልም ተነሥቶ ወደ ኤሊ ሄደ እና «እነሆ እኔ ነኝ፣ አንተ ጠራኸኝ እንጂ» አለው፤ እርሱም «አልጠርኩም ልጄ፤ ተመለስ፣ ተኝ» አለ።",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ዳግመኛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ስሙኤልን"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሥቶ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ስሙኤልም"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኤሊ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እነሆ እኔ ነኝ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንጂ"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ጠራኸኝ"
+    },
+    {
+      "surface": "לי",
+      "gloss": ""
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ጠርኩም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጄ"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ተመለስ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ተኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:33:21.655891775Z",
+  "model": "glm-5.3"
+}

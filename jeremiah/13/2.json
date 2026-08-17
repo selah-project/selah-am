@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ያህዌህ ቃል በመሠረት ⟨את⟩ ማንጠባጠቢያውን ገዛሁ፤ በወገቤም ላይ አኑርዋለሁ።",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "ገዛሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማንጠባጠቢያውን"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "ማንጠባጠቢያውን"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ቃል በመሠረት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "አኑርዋለሁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "ወገቤ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:48:39.986236136Z",
+  "model": "glm-5.3"
+}

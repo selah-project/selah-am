@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እንዲሁም የያህዌህ እጅ በእነርሱ ላይ ነበረች፤ ከሰፈሩ መካከል እንዲጠፉ እስከ ተፈጸሙ ድረስ።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "יד",
+      "gloss": "እጅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነበረች"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በእነርሱ ላይ"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "እንዲጠፉ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ከመካከል"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ሰፈሩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ተፈጸሙ ድረስ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:32:22.734410493Z",
+  "model": "glm-5.3"
+}

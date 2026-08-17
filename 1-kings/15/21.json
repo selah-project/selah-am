@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "እንደ ሆነ ባዕሻ ሰማ ጊዜ፣ ከራማን ⟨את⟩ ከመገንባት አቆመ፤ በትርዛህም ተቀመጠ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እንደ ሆነ"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ሰማ ጊዜ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ባዕሻ"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "አቆመ"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ከመገንባት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራማን"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "ራማን"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቀመጠ"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "በትርዛህ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:30:22.292323088Z",
+  "model": "glm-5.3"
+}

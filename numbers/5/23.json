@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ካህኑም ⟨את⟩ እነዚህን መርገሞች በመጽሐፍ ይጽፋል፤ እና ወደ መራራው ውኃ ያጥፋቸዋል።",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "እና ይጽፋል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መርገሞችን"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "መርገሞችን"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህን"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "በመጽሐፍ"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "እና ያጥፋል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ውኃ"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "የመራራው"
+    }
+  ],
+  "timestamp": "2026-08-16T04:08:02.577205855Z",
+  "model": "glm-5.3"
+}

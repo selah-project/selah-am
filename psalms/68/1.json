@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "ለዘፈኝ አለቃ፣ ለዳዊድ፣ መዝሙር፣ ዜማ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለዘፈኝ አለቃ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊድ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ዜማ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:13.022107691Z",
+  "model": "glm-5.3"
+}

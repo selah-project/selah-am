@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ከፊትህ የኔ ፍርድ ይውጣ፤ ዓይኖችህ ቀጥተኛነትን ያዩ።",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "ከፊትህ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "የኔ ፍርድ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ይውጣ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ዓይኖችህ"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "ያዩ"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ቀጥተኛነትን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:21.804533067Z",
+  "model": "glm-5.3"
+}

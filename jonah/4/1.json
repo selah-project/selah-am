@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "በዮናስ ዘንድ ትልቅ የሆነ ክፉ ነገር ሆነ፤ እርሱም በጣም ተቈጣ።",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ክፉ ሆነ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ…ዘንድ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ዮናስ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ ነገር"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ትልቅ"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ተቈጣ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "በእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:11:09.753333423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "የዮሴፍ ወንድሞች አሥር በግብፅ እህል እንዲገዙ ወረዱ።",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "ወረዱ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ወንድሞች"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "እንዲገዙ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "እህል"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ከግብፅ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:00:32.139797471Z",
+  "model": "glm-5.3"
+}

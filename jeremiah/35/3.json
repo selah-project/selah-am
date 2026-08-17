@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "እኔም ወሰድሁ ⟨את⟩ ያዕዛንያሁን የኢያርምያሁ ልጅ የሐብጻንያሁ ልጅ እና ⟨את⟩ ወንድሞቹን እና ⟨את⟩ ሁሉን ልጆቹን እና ⟨את⟩ መላውን የሩሻባውያን ቤት።",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "ወሰድሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያዕዛንያሁን"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "ያዕዛንያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "የኢያርምያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "የሐብጻንያሁ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ወንድሞቹን"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሞቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን ልጆቹን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ልጆቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መላውን ቤት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላውን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "የሩሻባውያን"
+    }
+  ],
+  "timestamp": "2026-08-16T08:01:52.188050925Z",
+  "model": "glm-5.3"
+}

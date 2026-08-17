@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እና በሱሳን በምሥራቅ ሕንጻው ውስጥ አይሁድ አምስት መቶ ሰዎችን ገደሉና ያጡ።",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "እና በሱሳን"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "በምሥራቅ ሕንጻው ውስጥ"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ገደሉ"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "አይሁድ"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ያጡ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰዎችን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:22:04.167693447Z",
+  "model": "glm-5.3"
+}

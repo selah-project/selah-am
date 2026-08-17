@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 46,
+  "translation": "መጨረሻን ከመጀመሪያ የሚናገር፣ ከቀድሞም ገና ያልተደረጉትን የሚናገር፤ እንዲህ ይላል፦ እቅዴ ትኖራለች፣ ሁሉንም ፈቃዴን አደርጋለሁ።",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "የሚናገር"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "ከመጀመሪያ"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "መጨረሻን"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "ከቀድሞም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚሆኑትን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ያል"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "ተደረጉ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "እንዲህ ይላል"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "እቅዴ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ትኖራለች"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉንም"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ፈቃዴን"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "አደርጋለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:22:19.444876482Z",
+  "model": "glm-5.3"
+}

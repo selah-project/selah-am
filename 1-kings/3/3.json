@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ሰሎሞንም ⟨את⟩ ያህዌህን ይወድ ነበር፤ በአባቱ በዳዊት ሥርዓቶች ለመራመድ፤ በከፍታ መስጊቶች ብቻ እርሱ ይሠዋልና ዕጣን ያወጣ ነበር።",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "ይወድ ነበር"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ለመራመድ"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "በሥርዓቶች"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "በከፍታ መስጊቶች"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ይሠዋል"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "ዕጣን ያወጣ ነበር"
+    }
+  ],
+  "timestamp": "2026-08-16T06:15:58.384817432Z",
+  "model": "glm-5.3"
+}

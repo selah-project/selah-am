@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "በስካር ጣሪያ ይወድቃል፤ በእጆች ድክመትም ቤት ያፈሳል።",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "በስካር"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "ይወድቃል"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "ጣሪያ"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "በድክመትም"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "እጆች"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "ያፈሳል"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:16:43.517247051Z",
+  "model": "glm-5.3"
+}

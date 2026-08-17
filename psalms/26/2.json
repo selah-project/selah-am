@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ያህዌህ ፈተነኝና አጣርኝ፤ ኩላሊቶቼንና ልቤን እንደ ብር ጠብቀህ አጥራቸው።",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "ፈተነኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "አጣርኝ"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "እንደ ብር ጠብቀህ አጥራ"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ኩላሊቶቼን"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ልቤን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:37:16.622760818Z",
+  "model": "glm-5.3"
+}

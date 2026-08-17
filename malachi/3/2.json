@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "malachi 3:2",
+  "book": "malachi",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የሚመጣበትን ⟨את⟩ ቀን ማን ያድርገዋል? በሚገለጥም ጊዜ ማን ይቆማል? ፍርዱ እንደ ማብጫ እሳት፣ እንደ አጥቢዎች ሳሙና ነውና።",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "מכלכל",
+      "gloss": "ያድርገዋል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቀን"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "בואו",
+      "gloss": "የሚመጣበትን"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "ይቆማል"
+    },
+    {
+      "surface": "בהראותו",
+      "gloss": "በሚገለጥም ጊዜ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ፍርዱ ነውና"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "እንደ እሳት"
+    },
+    {
+      "surface": "מצרף",
+      "gloss": "ማብጫ"
+    },
+    {
+      "surface": "וכברית",
+      "gloss": "እንደ አጥቢዎች ሳሙና"
+    },
+    {
+      "surface": "מכבסים",
+      "gloss": "የሚያጥቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:29:15.400664404Z",
+  "model": "glm-5.3"
+}

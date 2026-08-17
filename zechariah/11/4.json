@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ያህዌህ ኤሎሂም እንዲህ አለ፦ የመገደል ⟨את⟩ መንጋን እርባ።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "እርባ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንጋን"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "መንጋ"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "የመገደል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:24:26.405332406Z",
+  "model": "glm-5.3"
+}

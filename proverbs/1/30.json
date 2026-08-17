@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የእኔን ምክር አልፈለጉም፤ ሁሉንም የእኔን ተገሠጻ አዋረዱ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "ፈለጉም"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "የእኔን ምክር"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "አዋረዱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉንም"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "የእኔን ተገሠጻ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:20:24.933849771Z",
+  "model": "glm-5.3"
+}

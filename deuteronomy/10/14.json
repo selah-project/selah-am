@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እነሆ ሰማያት እና የሰማይ ሰማያት የአንተ አምላክ ያያህዌህ ናቸው፤ ምድርም እና እሷ ባለችው ሁሉ የእርሱ ነው።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "የአንተ አምላክ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "እና የሰማይ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነው"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ባለችው"
+    }
+  ],
+  "timestamp": "2026-08-16T04:38:36.311032722Z",
+  "model": "glm-5.3"
+}

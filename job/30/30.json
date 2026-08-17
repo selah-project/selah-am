@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ቆዳዬ በእኔ ላይ ጥቁር ሆነ፣ አጥንቶቼም ከበስታ ተቃጠሉ።",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "ቆዳዬ"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ጥቁር ሆነ"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "እና አጥንቶቼ"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ተቃጠሉ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "በስታ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:54:50.523938902Z",
+  "model": "glm-5.3"
+}

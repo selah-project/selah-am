@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "isaiah 39:7",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "ከወንዶችህም ከአንተ የሚወጡ፣ የምትወልዳቸውም ይወሰዳሉ፤ በባቢሎን ንጉሥ ቤተ መንግሥትም ጎረምሶዎች ይሆናሉ።",
+  "tokens": [
+    {
+      "surface": "ומבניך",
+      "gloss": "ከወንዶችህም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚወጡ"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ይወጣሉ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ከአንተ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ፡"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "ትወልዳለህ"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "ይወስዳሉ"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ይሆናሉም"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "ጎረምሶዎች"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "በቤተ መንግሥት"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "የንጉሥ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ባቢሎን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:18:32.258485176Z",
+  "model": "glm-5.3"
+}

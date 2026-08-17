@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "እናንትም ታውቃላችሁ፣ በሙሉ ኃይሌ አባታችሁን ⟨את⟩ አገልግያለሁ።",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "እናንትም"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "ታውቃላችሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ኃይሌ"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "አገልግያለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አባታችሁን"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "አባታችሁን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:50:35.332802526Z",
+  "model": "glm-5.3"
+}

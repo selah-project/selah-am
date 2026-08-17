@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "የወንድምህን አህያ ⟨את⟩ ወይም ላሙን በመንገድ ላይ የወደቁትን አታይም፤ ከእነሱም አትሰውርም፤ ከእርሱ ጋር በሚገባ ታነሳቸዋለህ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ታይም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አህያ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "አህያ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "የወንድምህን"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "ላሙን"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "የወደቁትን"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገድ ላይ"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "አትሰውርም"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ከእነሱም"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "በሚገባ"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "ታነሳቸዋለህ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:47:40.718151659Z",
+  "model": "glm-5.3"
+}

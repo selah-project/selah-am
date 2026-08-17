@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እና ሁለተኛው ክሩብ በአማ አሥር ነበር፤ ለሁለቱ ክሩባት አንድ መጠን እና አንድ ቅርጽ ነበረ።",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "እና አሥር"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "በአማ"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "ክሩቡ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ሁለተኛው"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "መጠን"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "እና ቅርጽ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ለሁለቱ"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ክሩባት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:19:01.133952503Z",
+  "model": "glm-5.3"
+}

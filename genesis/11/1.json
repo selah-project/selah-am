@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሙሉ ምድሩም ⟨ነበረች⟩ አንዲት ሣፓ፣ እና ቃላትም አንዶች።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እና ⟨ነበረች⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሙሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩም"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ሣፓ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "አንዲት"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "እና ቃላትም"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "አንዶች"
+    }
+  ],
+  "timestamp": "2026-08-16T02:35:51.818324938Z",
+  "model": "glm-5.3"
+}

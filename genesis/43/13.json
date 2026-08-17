@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "እና ⟨את⟩ ወንድሞቻችሁን ውሰዱ፤ ተነሱ፣ ወደ ⟨ወደ⟩ ሰው በዚያ ሰው ተመለሱ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ወንድሞቻችሁን"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ወንድሞቻችሁን"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ውሰዱ"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "ተነሱ"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "ተመለሱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰው በዚያ ሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:00:59.535513457Z",
+  "model": "glm-5.3"
+}

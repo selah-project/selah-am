@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "አንድም መበለትና የታረቀ ልጅ አትጨንቋቸውም።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "አንድም"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "መበለት"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "እና የታረቀ ልጅ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት…ም"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "ታጨንቋቸዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:20:39.097362675Z",
+  "model": "glm-5.3"
+}

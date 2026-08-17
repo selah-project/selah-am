@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ቃየንም ለያህዌህ አለ፦ ከሚሸከመው በላቀ ሆኖ ⟨ነው⟩ በደሌ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "קין",
+      "gloss": "ቃየን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "በላቀ ሆኖ"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "በደሌ"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "ከሚሸከመው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:17.999149197Z",
+  "model": "glm-5.3"
+}

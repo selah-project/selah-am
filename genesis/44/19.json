@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "ጌታዬ ⟨את⟩ አገልጋዮቹን ጠየቃቸው፦ አባት ወይም ወንድም አላችሁም? እያለ።",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ጌታዬ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ጠየቀ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አገልጋዮቹን"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "አገልጋዮቹን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እያለ"
+    },
+    {
+      "surface": "היש",
+      "gloss": "አላችሁም?"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ላችሁ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "አባት"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ወንድም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:01:29.544854836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "መብራት ለእግሬ ቃልህ ነው፣ እና ብርሃን ለመንገዴ ነው።",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "መብራት"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "ለእግሬ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ቃልህ"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "እና ብርሃን"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "ለመንገዴ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:07.269316098Z",
+  "model": "glm-5.3"
+}

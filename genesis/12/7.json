@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "genesis 12:7",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ያህዌህም ለአብራም ተገለጠ፤ ለዘርህም ⟨את⟩ ⟨ይህችን⟩ ምድር እሰጣለሁ አለው፤ እርሱም በዚያ ለያህዌህ ለተገለጠለት መሠዊያ ሠራ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ተገለጠ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "አብራም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "ለዘርህ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "እሰጣለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድርን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህችን"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠዊያ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "ለተገለጠው"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ለእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:36:45.583485716Z",
+  "model": "glm-5.3"
+}

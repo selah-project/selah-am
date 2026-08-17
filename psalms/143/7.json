@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 143,
+  "translation": "በፍጥነት መልስ ለኝ ያህዌህ፤ መንፈሴ እየከነፈው ነው፤ ፊትህን ከእኔ አትሰውር፤ ያለበለዚያ ከበድብ ወርዶች ጋር እመሳሰላለሁ።",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "በፍጥነት"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "መልስ ለኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "እየከነፈው ነው"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "መንፈሴ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ሰውር"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህን"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "እመሳሰላለሁ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "ወርዶች"
+    },
+    {
+      "surface": "בור",
+      "gloss": "በድብ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:02.913592216Z",
+  "model": "glm-5.3"
+}

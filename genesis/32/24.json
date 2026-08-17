@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ወስዷቸውም ⟨את⟩ ᶜወንዙን አሳለፋቸው፤ ⟨את⟩ ያለውንም ሁሉ አሳለፈ።",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "ወስዷቸውም"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "አሳለፋቸው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንዙን"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ወንዙን"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "አሳለፈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያለውን ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለውን ሁሉ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "የርሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:49:50.699505917Z",
+  "model": "glm-5.3"
+}

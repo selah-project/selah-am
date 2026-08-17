@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 80,
+  "translation": "ለምን ድንጋጮቿን ሰበርኃት፣ እና የሚያልፉት ሁሉ በመንገድ እሷን ይነቅላታል?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "ሰበርኃት"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "ድንጋጮቿን"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "እና ይነቅላታል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "የሚያልፉት"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "በመንገድ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:45.297556561Z",
+  "model": "glm-5.3"
+}

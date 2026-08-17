@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "ዔሳውም በሰዒር ተራራ ኖረ፤ ዔሳው ርሱ ኤዶም ነው።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ኖረ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዔሳውም"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "በ…ተራራ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ሰዒር"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዔሳው"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ርሱ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:53:20.904091500Z",
+  "model": "glm-5.3"
+}

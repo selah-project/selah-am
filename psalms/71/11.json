@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 71,
+  "translation": "«ኤሎሂም ተወው፤ አሳድዱት እና ያዙት፤ አድን የሚችል የለምና» እያሉ።",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "እያሉ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ተወው"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "አሳድዱት"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "እና ያዙት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደዚህ ስለሆነ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "አድን የሚችል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:53.483258391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "በሐሙሽትህ በእርሷ አደሩ፤ በበጎነትህ ለድሆች አዘጋጅተሃል ኤሎሂም።",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "በሐሙሽትህ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "አደሩ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሷ"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "አዘጋጅተሃል"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "በበጎነትህ"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ለድሆች"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:45.144305947Z",
+  "model": "glm-5.3"
+}

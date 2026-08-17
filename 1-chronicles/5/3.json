@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "1-chronicles 5:3",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የሮኤብኤን የእስራኤል በኵር ልጆች፣ ሕኖክ፣ ፋሉ፣ ሕጽሮንና ከርሚ ነበሩ።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ሮኤብኤን"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "በኵር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ሕኖክ"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "እና ፋሉ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ሕጽሮን"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "እና ከርሚ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:37:50.193833429Z",
+  "model": "glm-5.3"
+}

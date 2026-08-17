@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "hosea 14:6",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ለይስራኤል እንደ ጠረፍ እኖራለሁ፤ እንደ ሱሳና ያበቅላል፤ ስሮቹን እንደ ሊባኖስ ያወጣል።",
+  "tokens": [
+    {
+      "surface": "אהיה",
+      "gloss": "እኖራለሁ"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "እንደ ጠረፍ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ለይስራኤል"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "ያበቅላል"
+    },
+    {
+      "surface": "כשושנה",
+      "gloss": "እንደ ሱሳና"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ያወጣል"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "ስሮቹን"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "እንደ ሊባኖስ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:00:59.347755536Z",
+  "model": "glm-5.3"
+}

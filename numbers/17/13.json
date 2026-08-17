@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "numbers 17:13",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "እርሱም በሙታን እና በሕያዋን መካከል ቆመ፤ መቅሰፉም ተከልከለ።",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ቆመ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "በሙታን"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እና በ…መካከል"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "በሕያዋን"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "ተከልከለ፤"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "መቅሰፉም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:16:36.582272283Z",
+  "model": "glm-5.3"
+}

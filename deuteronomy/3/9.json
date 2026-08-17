@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ጢድውያን ለከርሞን ሲርዮን ይሉታል፤ አሞራውያንም ሰኒር ይሉታል።",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "ጢድውያን"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ይሉታል"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "ለከርሞን"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "ሲርዮን"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "አሞራውያንም"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ይሉታል"
+    },
+    {
+      "surface": "לו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "ሰኒር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:34:20.058009135Z",
+  "model": "glm-5.3"
+}

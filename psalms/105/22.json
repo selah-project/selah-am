@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "ሳራዎቹን በነፍሱ ፈቃድ ለመታሰር፣ የሽማግሌዎቹንም ጥበብ ለማስተማር።",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "ለመታሰር"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ሳራዎቹን"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "በነፍሱ"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "እና ሽማግሌዎቹን"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "ያስጠብቃል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:22.018055957Z",
+  "model": "glm-5.3"
+}

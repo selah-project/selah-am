@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ሕዝቡም ከሞሼ ጋር ከተባተነ፤ «ውኃ ስጡን፣ እንጠጣለን» አሉ። ሞሼም እነርሱን «ስለምን ከእኔ ጋር ትባተናላችሁ? ስለምን ⟨את⟩ ያህዌህን ትፈትናላችሁ?» አላቸው።",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "ከተባተነ፤"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "አሉ፤"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ስጡን፣"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለኛ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውኃ"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "እንጠጣለን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አላቸው፤"
+    },
+    {
+      "surface": "להם",
+      "gloss": "እነርሱን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ስለምን"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "ትባተናላችሁ?"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ከእኔ ጋር"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ስለምን"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "ትፈትናላችሁ?"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:19:28.420739241Z",
+  "model": "glm-5.3"
+}

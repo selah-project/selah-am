@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "በሰማያት የሚቀመጥ ያቃል፤ አዶናይም እነሱን ያስለቅቃል።",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "የሚቀመጥ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "በሰማያት"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ያቃል"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "ያስለቅቃል"
+    },
+    {
+      "surface": "למו",
+      "gloss": "እነሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:28:32.780966706Z",
+  "model": "glm-5.3"
+}

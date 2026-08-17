@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እንግዲህ ና፤ ወደ ፈርዖን እልክሃለሁ፤ የእስራኤል ልጆችን ⟨את⟩ ሕዝቤን ከግብፅ አውጣ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "እንግዲህ"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ና"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "እልክሃለሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "አውጣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቤን"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ከግብፅ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:07:45.718006897Z",
+  "model": "glm-5.3"
+}

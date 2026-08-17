@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 8:9",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ሁሉም ለሚረዳ ግልጽ ናቸው፤ ለእውቀትን ለሚያገኙ ቀጥተኛ ናቸው።",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "ግልጽ"
+    },
+    {
+      "surface": "למבין",
+      "gloss": "ለሚረዳ"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "ቀጥተኛ"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "ለሚያገኙ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "እውቀት"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:36.910622474Z",
+  "model": "glm-5.3"
+}

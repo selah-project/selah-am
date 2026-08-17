@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ሞሼህ ⟨את⟩ ሌዋውያኑን — ተሸኪሮች የያህዌህ የቃል ኪዳን ታቦት — እንዲህ ብሎ አዘዛቸው።",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "አዘዛቸው"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሌዋውያኑን"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ሌዋውያኑን"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ተሸኪሮች"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "የቃል ኪዳን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:56:12.065774149Z",
+  "model": "glm-5.3"
+}

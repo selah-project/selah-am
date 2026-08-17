@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 83,
+  "translation": "ልባቸውን አንድ አድርገው ተመካከሩ፤ አንተን የሚቃወም ቃል ኪዳን ቈረጡ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ልባቸውን"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "ተመካከሩ፤"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "አንድ አድርገው"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "አንተን"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ቃል ኪዳን"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ቈረጡ።"
+    }
+  ],
+  "timestamp": "2026-08-16T18:11:58.884580311Z",
+  "model": "glm-5.3"
+}

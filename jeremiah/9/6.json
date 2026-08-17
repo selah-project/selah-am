@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "jeremiah 9:6",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ስለዚህ የሰራዊት ያህዌህ እንዲህ ይላል፤ እነሆ እነሱን እፈልሳቸዋለሁ እና እፈትናቸዋለሁ፤ ከሕዝቤ ልጅ ምክንያት ሌላ እንዴት አደርጋለሁ?",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "የሰራዊት"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "צורפם",
+      "gloss": "እፈልሳቸዋለሁ"
+    },
+    {
+      "surface": "ובחנתים",
+      "gloss": "እና እፈትናቸዋለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያት"
+    },
+    {
+      "surface": "איך",
+      "gloss": "እንዴት"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "አደርጋለሁ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከ...ምክንያት"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "የሕዝቤ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:44:01.970014431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "2-kings 24:3",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ነገር ግን በያህዌህ አፍ ይህ በይሁዳ ላይ መጣ፤ ከፊቱ ለማስወገድ ነበር፣ በምንሣኔ ኃጢአቶች ምክንያት፣ በሠራው ሁሉ መሠረት።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ምክንያት"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "በይሁዳ ላይ"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "ለማስወገድ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከ... ላይ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ከፊቱ"
+    },
+    {
+      "surface": "בחטאת",
+      "gloss": "በኃጢአቶች"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "የምንሣኔ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "በሁሉ መሠረት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሠራው"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ሠራ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:57:14.937310881Z",
+  "model": "glm-5.3"
+}

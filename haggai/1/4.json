@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እናንተ በተሸፈኑ ቤቶቻችን ውስጥ ለመኖር ለእናንተ ጊዜ ነውን? ይህ ቤት ግን የበረቀ ወይስ የጠፋ?",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "ጊዜ…ነውን?"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለእናንተ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ለመኖር"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "በቤቶቻችህ"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "ተሸፈኑ"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ይህ…ቤት ግን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "የበረቀ ወይስ የጠፋ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:19:23.895063448Z",
+  "model": "glm-5.3"
+}

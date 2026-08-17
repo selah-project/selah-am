@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እርሱም እንዲህ አለኝ፦ ሰው ልጅ፣ በእግርህ ቆልበህ፣ እኔም ከአንተ ጋር ⟨את⟩ እናገራለሁ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለኝ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ቆልበህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "እግርህ"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "እኔም እናገራለሁ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ከአንተ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T08:17:37.689540735Z",
+  "model": "glm-5.3"
+}

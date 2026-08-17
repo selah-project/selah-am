@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "2-chronicles 25:22",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ይሁዳ በእስራኤል ፊት ተሸነፈ፤ እያንዳንዱ ሰው ወደ ድንኳኑ ሮጠ።",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "ተሸነፈ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ... ፊት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ሮጠ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "ወደ ድንኳኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:15:04.388846694Z",
+  "model": "glm-5.3"
+}

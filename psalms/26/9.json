@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ነፍሴን ከኃጢአተኞች ጋር አትሰበስብ፣ ሕይወቴንም ከደም ባለቤቶች ጋር አትሰበስብ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "አትሰበስብ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ኃጢአተኞች"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "እና ከ… ጋር"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ባለቤቶች"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ሕይወቴን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:32.219856841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "ኤሎሂም ይህን አይመረምርም ወይ? የልብን ምስጢራት እርሱ ስለሚያውቅ።",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "አይደለም ወይ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "ያመረምራል"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ያውቃል"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "ምስጢራትን"
+    },
+    {
+      "surface": "לב",
+      "gloss": "የልብ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:19.374050306Z",
+  "model": "glm-5.3"
+}

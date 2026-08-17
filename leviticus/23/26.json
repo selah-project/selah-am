@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "leviticus 23:26",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ያህዌህም ከሞሼ ጋር ተናገረ ብሎ እንዲህ ሲል አለ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ፤ አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ከ… ጋር\/ወደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲል\/ብሎ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:01:07.108026813Z",
+  "model": "glm-5.3"
+}

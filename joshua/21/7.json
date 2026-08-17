@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "joshua 21:7",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ለምራሪ ልጆች ለቤተሰቦቻቸው ከሮቤን ነገድ፣ ከጋድ ነገድም፣ ከዘብሉን ነገድም ወደቀሉ አሥራ ሁለት ከተሞች።",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "ለ...ልጆች"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ምራሪ"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ለቤተሰቦቻቸው"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "ከ...ነገድ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ሮቤን"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "ከ...ነገድም"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "ከ...ነገድም"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ዘብሉን"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ከተሞች"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "አሥር"
+    }
+  ],
+  "timestamp": "2026-08-16T05:10:53.818086089Z",
+  "model": "glm-5.3"
+}

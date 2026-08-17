@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እኔ ሕይወትን ⟨את⟩ ጠላሁ፤ ምክንያቱም በፀሐይ ሥር የተሠራው ሥራ ለእኔ ክፉ ⟨ነው⟩፤ ምክንያቱም ሁሉ ትምክሐትና የነፋስ ማትናት ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "ጠላሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕይወትን"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ሕይወትን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ሥራው"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "የተሠራው"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በሥር"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "የፀሐይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ትምክሐት"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "እና ማትናት"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ነፋስ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:14:46.549450027Z",
+  "model": "glm-5.3"
+}

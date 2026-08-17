@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "ጽድቄ ቅርብ ነው፤ መዳኄ ወጥቷል፤ እጄም ሕዝቦችን ትፈርዳለች፤ ደሴቶች ወደ እኔ ይጠብቃሉ፤ እንዲሁም ወደ እጄ ይስተጋባሉ።",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ቅርብ"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "ጽድቄ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ወጥቷል"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "መዳኄ"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "እጄም"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝቦችን"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "ትፈርዳለች"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ደሴቶች"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "ይጠብቃሉ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እንዲሁም ወደ"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "እጄ"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "ይስተጋባሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:59:58.658887013Z",
+  "model": "glm-5.3"
+}

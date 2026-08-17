@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 110,
+  "translation": "ሕዝብህ በኃይልህ ቀን በበጎ ፈቃድ ይቀርባል፤ በቅዱስ ክብር ውስጥ፤ ከጥዋት ማኅፀን ለአንተ የወጣትነትህ ጢስ አለ።",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "ሕዝብህ"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "በበጎ ፈቃድ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በ…ቀን"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "በኃይልህ"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "በክብር"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "የቅዱስ"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ከ…ማኅፀን"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "ከጥዋት"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ጢስ"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "የወጣትነትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:52.301833353Z",
+  "model": "glm-5.3"
+}

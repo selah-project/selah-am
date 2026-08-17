@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "የሚከራ ሁሉን ቀን ያከራልን? የሚዝራ መዝራት ይከፍታልን እና የምድሩን መሬት ያስተካክላልን?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ያከራል"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "የሚከራ"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "ለመዝራት"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ይከፍታል"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "እና ያስተካክላል"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "የምድሩን መሬት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:12:40.591358255Z",
+  "model": "glm-5.3"
+}

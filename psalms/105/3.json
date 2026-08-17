@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "በቅዱስ ስሙ ይመሰገኑ፤ ያህዌህን የሚፈልጉ ልብ ይደሰታል።",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "ይመሰገኑ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "በስሙ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ይደሰታል"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "የሚፈልጉ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:27.206051991Z",
+  "model": "glm-5.3"
+}

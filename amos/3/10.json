@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እነርሱም ቅን ሆኖ ማድረግን አያውቁም የያህዌህ ቃል ነው፤ በመብራቆቻቸውም ውስጥ ጥቃትንና ዘረፋን ያከማቻሉ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ያውቁም"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ማድረግን"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "ቅን ሆኖ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "ያከማቻሉ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ጥቃትን"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "እና ዘረፋን"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "በመብራቆቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T20:27:02.494760781Z",
+  "model": "glm-5.3"
+}

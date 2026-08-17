@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 94,
+  "translation": "እንዲሉም «ያህ አያይም፣ የያዕቆብ ኤሎሂምም አያስተውልም» አሉ።",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "እንዲሉም አሉ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም\/አ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ያይ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አያ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ያስተውልም"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "የያዕቆብ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:47.762855522Z",
+  "model": "glm-5.3"
+}

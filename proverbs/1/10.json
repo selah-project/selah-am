@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ልጄ ሆይ፣ በደለኞች ቢያታሉህ፣ አትስማ።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ልጄ ሆይ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ቢ"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "ቢያታሉህ"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "በደለኞች"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት-"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ትስማ\/ትፈልግ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:26.952901723Z",
+  "model": "glm-5.3"
+}

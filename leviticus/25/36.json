@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ከእርሱም ⟨את⟩ ወለድና ብርታት አትውሰድ፤ ከኤሎሂምህም ብትርገማ፣ ወንድምህ ከአንተ ጋር ይኖራል።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ታውሰድም"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "ከእርሱ ⟨את⟩",
+      "marks": "ወለድና ብርታት"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ወለድ"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "እና ብርታት"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ብትርገማም"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "ከኤሎሂምህ"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ይኖራልም"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ወንድምህ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:59:31.304298644Z",
+  "model": "glm-5.3"
+}

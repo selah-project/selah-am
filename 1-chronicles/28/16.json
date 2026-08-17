@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "እንዲሁም ⟨את⟩ ወርቁን በክብደት መጠን ለማድረጊያው ጠረጴዛዎች፣ ጠረጴዛ በጠረጴዛ፤ እንዲሁም ብልህም ለብር ጠረጴዛዎች፤",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ወርቁን"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ወርቁን"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "ክብደት መጠን"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "ለጠረጴዛዎች"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "የማድረጊያው"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "ጠረጴዛ"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "በጠረጴዛ"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "እንዲሁም ብልህ"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "ለጠረጴዛዎች"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "የብር"
+    }
+  ],
+  "timestamp": "2026-08-16T18:38:11.106783078Z",
+  "model": "glm-5.3"
+}

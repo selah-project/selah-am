@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ዳዊትም ⟨את⟩ ይህችን ቃለ ሐሳብ ስለ ሳኦል እና ስለ ዮናታን ልጁ ቀሰቀሰ።",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "ቀሰቀሰ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህችን ቃለ ሐሳብ"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "ቃለ ሐሳብ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህችን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና ስለ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ዮናታን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:53:24.501959988Z",
+  "model": "glm-5.3"
+}

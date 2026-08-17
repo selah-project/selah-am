@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "leviticus 18:19",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "እና ወደ ሴት በኑዳቷ የንጽህና መርከሷ ወቅት ራቷን ለማጋለጥ አታቅርብም።",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "בנדת",
+      "gloss": "በኑዳቷ የመለያያ ወቅት"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "የንጽህና መርከሷ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አታ…ም"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "ታቀርብም"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "ለማጋለጥ"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ራቷን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:54:23.560525476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 18:10",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ልጁን ሐዶረምን ⟨את⟩ ወደ ዳዊድ ንጉሥ ደግሞ ሰላም እንዲጠይቅለትና በሐዳደዘር ላይ ስለ ተዋጋው ስለ መታው እንዲባርከው ላከ፤ ሐዳደዘር የቶው የጦርነት ሰው ⟨ነበር⟩ና፤ እርሱም የወርቅ፣ የብርና የናስ ሁሉን መሣሪያዎች ይዞ መጣ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሐዶረምን"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ሐዶረምን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "እንዲጠይቅ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "ולברכו",
+      "gloss": "እንዲባርከው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ተዋጋ"
+    },
+    {
+      "surface": "בהדדעזר",
+      "gloss": "በሐዳደዘር"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ስለ መታው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነበርና"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "የጦርነት"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "ቶው"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበር"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ሐዳደዘር"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "መሣሪያዎች"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "የወርቅ"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "የብር"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "የናስ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:40:58.613513734Z",
+  "model": "glm-5.3"
+}

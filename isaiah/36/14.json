@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "ንጉሡ እንዲህ አለ — ንጹቅያሁ አያታልላችሁ፣ እነሆም ሊያድናችሁ ⟨את⟩ አይችልም።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ያታልል"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ችሁ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ንጹቅያሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እነሆም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ችል"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "ሊያድን"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ እናንተን",
+      "marks": "እናንተን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:17:51.764193819Z",
+  "model": "glm-5.3"
+}

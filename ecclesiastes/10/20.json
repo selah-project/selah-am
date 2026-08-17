@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "ecclesiastes 10:20",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እንደ አእምሮህም በንጉሥ አትሳይ፤ በአልጋ ክፍልህም በሀብታሙ አትሳይ፤ ምክንያቱም የሰማይ ወፍ ⟨את⟩ ድምፅን ያድርሳል፣ የክንፍ ባለቤትም ነገርን ይናገራል።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እንደም"
+    },
+    {
+      "surface": "במדעך",
+      "gloss": "በአእምሮህ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "በንጉሥ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "ሳይ"
+    },
+    {
+      "surface": "ובחדרי",
+      "gloss": "በክፍልህም"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "የአልጋህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "ሳይ"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "በሀብታሙ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ወፍ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "የሰማይ"
+    },
+    {
+      "surface": "יוליך",
+      "gloss": "ያድርሳል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምፅን"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "ድምፅን"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "የክንፍ ባለቤትም"
+    },
+    {
+      "surface": "הכנפים",
+      "gloss": "ክንፍ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ይናገራል"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ነገርን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:16:43.517634930Z",
+  "model": "glm-5.3"
+}

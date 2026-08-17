@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "በስድስተኛዋ ዓመት በርካታዬን ⟨את⟩ ለእናንተ እእዘዛለሁ፣ እርሷም ⟨את⟩ ምርቱን ለሦስት ዓመታት ታደርጋለች።",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "እዘዛለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በርካታዬን"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "በርካታዬን"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለእናንተ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "በዓመት"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "በስድስተኛዋ"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "ታደርጋለች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምርቱን"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "ምርቱን"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "ለሦስት"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ዓመታት"
+    }
+  ],
+  "timestamp": "2026-08-16T14:46:46.876258764Z",
+  "model": "glm-5.3"
+}

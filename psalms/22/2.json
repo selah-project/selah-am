@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ኤል ኤል የእኔ፣ ለምን ተውኸኝ? ከመዳኄ ውርቅ ነኝ፣ ከድምፅ ቃወኜ ቃላት።",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "ኤል የእኔ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ኤል የእኔ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "ተውኸኝ"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "ውርቅ"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "ከመዳኄ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "የጮኸው ድምፅ የእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:24.940012705Z",
+  "model": "glm-5.3"
+}

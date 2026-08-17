@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 52,
+  "translation": "እኔ ግን በኤሎሂም ቤት እንደ አረንጓዴ ዘይት ዛፍ ነኝ፤ በኤሎሂም ቸርነት ተቀምጬ አለሁ ለዘላለምና ለዘለዓለም።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "እንደ ዘይት ዛፍ"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "አረንጓዴ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ተቀምጜ አለሁ"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "በቸርነት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ለዘላለምና"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ለዘለዓለም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:45:38.230392232Z",
+  "model": "glm-5.3"
+}

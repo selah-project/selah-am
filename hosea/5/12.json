@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እኔ ለኤፍሬም እንደ አንበሪ ነኝ፤ ለይሁዳ ቤት ደግሞ እንደ ቅሪት ነኝ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "እንደ አንበሪ"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ለኤፍሬም"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "ደግሞ እንደ ቅሪት"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ለቤት"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:56:56.114824181Z",
+  "model": "glm-5.3"
+}

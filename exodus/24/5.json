@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "የእስራኤል ልጆችን ወጣቶች ⟨את⟩ ላከ፤ እነርሱም የተቃጠሉ መሥዋዕቶችን አረገው፣ ለያህዌህም የዐሳማ ጠቦችን የሰላም መሥዋዕት ሠዉ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወጣቶች"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ወጣቶች"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆችን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "አረገው"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "የተቃጠሉ መሥዋዕቶችን"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "ሠዉ"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "መሥዋዕት"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "የሰላም"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "የዐሳማ ጠቦችን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:23:48.450611319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 59,
+  "translation": "ነገር ግን አንተ ያህዌህ ታሾቃቸዋለህ፤ ለሁሉም አሕዛብ ትስለቃለህ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ነገር ግን አንተ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "ታሾቃቸዋለህ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ባቸው"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "ትስለቃለህ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "አሕዛብ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:01.841121503Z",
+  "model": "glm-5.3"
+}

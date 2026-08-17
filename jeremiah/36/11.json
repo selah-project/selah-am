@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 36:11",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "ሚካያሁ የገምርያሁ ልጅ፣ የሳፋን ልጅ፣ የያህዌህን ቃላት ሁሉን ⟨את⟩ ከመጽሐፉ ላይ ሰማ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "ሚካያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "גמריהו",
+      "gloss": "ገምርያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "ሳፋን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላት ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከ… ላይ"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "መጽሐፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:06:40.971355296Z",
+  "model": "glm-5.3"
+}

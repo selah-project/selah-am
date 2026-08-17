@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "አምላኬ፣ ነፍሴ በእኔ ውስጥ ትሰጣለች፤ ስለዚህ ከዮርዳን ምድር፣ ከሐርሞን ተራሮችም፣ ከሚጻር ተራር አስባሃል።",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "አምላኬ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ውስጥ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "ትሰጣለች"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ስለዚያ"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "አስባሃል"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከምድር"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "ዮርዳን"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "ከሐርሞን ተራሮችም"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ከተራር"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "ሚጻር"
+    }
+  ],
+  "timestamp": "2026-08-16T18:11:06.103676426Z",
+  "model": "glm-5.3"
+}

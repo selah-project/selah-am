@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ብቻ ደሙን ⟨את⟩ አትብላ፤ እንደ ውሃ በምድሩ ላይ አ፫ው።",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደሙን"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ደሙን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ብላ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "በምድሩ"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "አ፫ው"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "እንደ ውሃ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:41:00.435113480Z",
+  "model": "glm-5.3"
+}

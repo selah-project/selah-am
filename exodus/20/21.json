@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ሕዝቡ ከሩቅ ቆመ፤ ሞሼም ኤሎሂም ወደ ነበረበት ወደ ⟨ጥቁሩ አውድማ⟩ ቀረበ።",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ቆመ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ከሩቅ"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "ቀረበ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "ጥቁሩ አውድማ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ወደ ነበረበት"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:18:57.947443665Z",
+  "model": "glm-5.3"
+}

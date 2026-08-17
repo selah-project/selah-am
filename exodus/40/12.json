@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "አሃሮንን ⟨את⟩ እና ወንዶቹን ⟨את⟩ ወደ መገኛ ድንኳኑ በር ታቀርባለህ፣ እና በውኃ ታጠባቸዋለህ።",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "ታቀርባለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አሃሮንን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮንን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ወንዶቹን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ወንዶቹን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "በር"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳኑ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መገኛ"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ታጠባቸዋለህ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "במים",
+      "gloss": "በውኃ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:40:22.065907017Z",
+  "model": "glm-5.3"
+}

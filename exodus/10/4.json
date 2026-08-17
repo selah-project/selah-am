@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "«ሕዝቤን ⟨את⟩ ለመላክ እንደምትከልስ ከሆነ፣ እነሆ ነገ አንበጣን ወደ ድንበርህ እያመጣለሁ።»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ከሆነ\/ስለ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ትከልሳለህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ለመላክ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቤን"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤን"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እነሆ እኔ"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "እያመጣለሁ"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ነገ"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "አንበጣን"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "ወደ ድንበርህ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:38:07.252953524Z",
+  "model": "glm-5.3"
+}

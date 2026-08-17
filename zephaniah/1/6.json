@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እና ⟨את⟩ ከያህዌህ ወደ ኋላ ካፈሩት፣ እና ⟨את⟩ ያህዌህን ያልፈለጉትን እና ያልጠየቁትን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ካፈሩትን"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "ካፈሩትን"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ከኋላ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "እና"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ያልፈለጉትን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "ያልጠየቁትን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:18:15.977690109Z",
+  "model": "glm-5.3"
+}

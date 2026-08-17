@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "አዶናይ ይስቅበታል፤ ቀኑ ሲመጣ አይቶ ስለያዘው ነው።",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ይስቅበታል"
+    },
+    {
+      "surface": "לו",
+      "gloss": "በእርሱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለያዘው"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "አይቶ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ሲ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ሲመጣ"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ቀኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:48.978341456Z",
+  "model": "glm-5.3"
+}

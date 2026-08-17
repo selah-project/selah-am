@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "በጭንቀት ቀን እንደ ሰነፍህ እንደሆነ፣ የኃይልህ ውስንነት አስተውል።",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "እንደ ሰነፍህ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ጭንቀት"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ውስንነት"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "የኃይልህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:33:15.758810117Z",
+  "model": "glm-5.3"
+}

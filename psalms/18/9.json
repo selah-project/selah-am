@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ጢስ በአፍንጫው አረገ እና እሳት ከአፉ ይበላል፤ እንግዶች ከእሱ ተነድዱ።",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "አረገ"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ጢስ"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "በአፍንጫው"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "እና እሳት"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "ከአፉ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ይበላል"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "እንግዶች"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "ተነድዱ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:15.720739161Z",
+  "model": "glm-5.3"
+}

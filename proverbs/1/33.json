@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 33,
+  "ref": "proverbs 1:33",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እኔን የሚሰማ በደህናነት ይኖራል፣ ከክፉ ስጋትም ዝግጁ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "የሚሰማ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "እኔን"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ይኖራል"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "በደህናነት"
+    },
+    {
+      "surface": "ושאנן",
+      "gloss": "ዝግጁ ይሆናል"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ከስጋት"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:55.064374287Z",
+  "model": "glm-5.3"
+}

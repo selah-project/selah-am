@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "የሰራዊት ጌታ ያህዌህ እንዲህ ይላል፤ እነሆ ሕዝቤን ⟨את⟩ ከምሥራቅ ምድርና ከፀሐይ መግቢያ ምድር እታድጋለሁ።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "የሰራዊት ጌታ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "እታድጋለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቤን"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤን"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከምድር"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "የምሥራቅ"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "እና ከምድር"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "የመግቢያ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "የፀሐይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:21:52.077641815Z",
+  "model": "glm-5.3"
+}

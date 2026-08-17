@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ኩስም ⟨את⟩ ኒምሮድን ወለደ፤ እርሱ በምድር ላይ ጀግና ሆኖ ጀመረ።",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "ኩስም"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኒምሮድን"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "ኒምሮድ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ጀመረ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ሆኖ ማለት"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ጀግና"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:33:17.355873888Z",
+  "model": "glm-5.3"
+}

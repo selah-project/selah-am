@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "exodus 40:19",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "እና ⟨את⟩ ድንኳኑን በመገኛው ቤት ላይ አንጠፋፋ፤ እና ⟨את⟩ የድንኳኑን ሽፋን ከላይና በእርሱ ላይ አደረገ፤ እንደ አዘዘ ያህዌህ ⟨את⟩ ሞሼን።",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "አንጠፋፋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድንኳኑን"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ድንኳኑን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "መገኛው ቤት"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሽፋኑን"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ሽፋኑን"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "የድንኳኑን"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ከላይ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሼን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:41:00.853317158Z",
+  "model": "glm-5.3"
+}

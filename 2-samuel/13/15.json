@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "2-samuel 13:15",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "አምኖንም በጣም ትልቅ ጥላት ጠላታት፤ የጠላታት ጥላት ከወደዳት ፍቅር ትልቅ ስለ ነበረ ነው። አምኖንም እንዲህ አላት፤ ተነሺ ሂጂ።",
+  "tokens": [
+    {
+      "surface": "וישנאה",
+      "gloss": "ጠላታት"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "አምኖን"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ጥላት"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ትልቅ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ፡የሚከተለው፡መገለጫ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ትልቅ"
+    },
+    {
+      "surface": "השנאה",
+      "gloss": "ጥላቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ፡ርሷን"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ጠላት"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "ከፍቅር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ፡ርሷን"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ወደዳት"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አላት"
+    },
+    {
+      "surface": "לה",
+      "gloss": "እርሷን"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "አምኖን"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "ተነሺ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ሂጂ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:00:35.201403532Z",
+  "model": "glm-5.3"
+}

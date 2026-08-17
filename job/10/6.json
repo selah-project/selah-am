@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ለወንጀሌዬ ትፈልጋለህና ለኃጢኤቴ ታስረዳለህ እንደ ኾንክ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "ትፈልጋለህ"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "ለወንጀሌዬ"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "እና ለኃጢኤቴ"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "ታስረዳለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:45:03.843476338Z",
+  "model": "glm-5.3"
+}

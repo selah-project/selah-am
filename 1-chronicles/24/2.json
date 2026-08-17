@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-chronicles 24:2",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ናዳብና አቢሁም ከአባታቸው ⟨ፊት ለፊት⟩ ሞቱ፤ ልጆችም ስላልነበራቸው ኤልዓዛርና ኢትሆማር እንደ ካህናት አገለገሉ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞቱም"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ናዳብ"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "እና አቢሁ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት፣ ከ… ፊት ለፊት"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "አባታቸው"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "ልጆችም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ነበሩም \/ አልነበራቸውም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ላቸው"
+    },
+    {
+      "surface": "ויכהנו",
+      "gloss": "እንደ ካህናት አገለገሉም"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ኤልዓዛር"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "እና ኢትሆማር"
+    }
+  ],
+  "timestamp": "2026-08-16T13:17:55.795066784Z",
+  "model": "glm-5.3"
+}

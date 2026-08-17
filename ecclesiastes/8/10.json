@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "ecclesiastes 8:10",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እንዲሁም ክፉዎችን ተቀብሩ አይቻለሁ፤ መጡ እና ከቅዱስ ስፍራ ይሄዳሉ፣ በከተማውም የእንዲህ ያደረጉት ይረሳሉ፤ ይህም ትምክሐት ነው።",
+  "tokens": [
+    {
+      "surface": "ובכן",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "አይቻለሁ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉዎችን"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "ተቀብሩ"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "וממקום",
+      "gloss": "ከ…ስፍራ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "ይሄዳሉ"
+    },
+    {
+      "surface": "וישתכחו",
+      "gloss": "ይረሳሉ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "በከተማው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ያደረጉት"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "አደረጉ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ደግሞም"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ትምክሐት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:18:00.976289460Z",
+  "model": "glm-5.3"
+}

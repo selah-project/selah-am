@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "የወጣቷም አባት፣ የሙሽሩ አባት፣ አጠናክሮ ያዘው፤ እርሱም ⟨את⟩ ከእርሱ ጋር ሦስት ቀናት ተቀመጠ፤ በሉም፣ ተረዱም፣ እናም እዚያ አደሩም።",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "አጠናክሮ ያዘ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "የሙሽሩ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "የ… አባት"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "ወጣቷ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቀመጠ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ከእርሱ ጋር",
+      "marks": "ከእርሱ ጋር (with him)"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "በሉም"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ተረዱም"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "አደሩም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:42:36.257308986Z",
+  "model": "glm-5.3"
+}

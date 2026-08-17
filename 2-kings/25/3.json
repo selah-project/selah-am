@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "በወሩ በዘጠነኛው ቀን ራብው በከተማዋ ውስጥ አጸና፤ ለምድሩ ሕዝብም ዳቦ አልነበረም።",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "በዘጠነኛው ቀን"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "የወሩ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "አጸና"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ራብው"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "በከተማዋ ውስጥ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበረ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ለሕዝብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:53:24.703338452Z",
+  "model": "glm-5.3"
+}

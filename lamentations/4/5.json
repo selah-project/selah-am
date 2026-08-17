@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ለስለስ ያሉ ምግብ የሚበሉት በመንገዶች ውስጥ ወደርሳት ተቀምጠዋል፤ በቀይ ቀሚስ የተቀመጡት ቆሻሻውን ደርበው ያቀፍኑታል።",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "ምግብ የሚበሉት"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": "ለስለስ ያሉ"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "ወደርሳት ተቀመጡ"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "በመንገዶች"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "በቀይ ቀሚስ የተቀመጡት"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በ"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "ቀይ (የትልቢት ቀለም)"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "ደርበው ያቀፍኑ"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "ቆሻሻውን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:10:31.859268706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ይህ እጣህ ነው፣ ከእኔ ⟨את⟩ የተለካው ስንብትህ፣ የያህዌህ ቃል ነው፤ እንደ ሆነ እኔን ⟨את⟩ ረስተሃል፣ በሐሰትም ታምናለህ።",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "እጣህ"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ስንብት"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "መለኪያህ"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "ከእኔ ⟨את⟩"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደ ሆነ"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "ረስተሃል"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "እኔን"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "ታምናለህ"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "በሐሰት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:46:40.094753537Z",
+  "model": "glm-5.3"
+}

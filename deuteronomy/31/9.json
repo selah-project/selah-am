@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ሞሼም ይህንን ትእዛዝ ⟨את⟩ ጻፈ፤ ወደ ካህናት የሌዊ ልጆች የያህዌህ የቃል ኪዳን ⟨את⟩ ታቦት ተሸካሚዎች እና ወደ እስራኤል ሽማግሌዎች ሁሉ እንዲህ እንዲሆን ሰጣት።",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ጻፈ፤"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህንን ትእዛዝ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ትእዛዙን"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህንን"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ሰጣት፤"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ሌዊ"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "ተሸካሚዎች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦት"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "የቃል ኪዳን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ሽማግሌዎች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T15:14:42.522539082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ሰውም በስህተት ቅዱስን ነገር ቢበላ፣ አምስተኛውን ከእርሱ ላይ ይጨምራል፤ ወደ ካህኑም ⟨את⟩ ቅዱሱን ነገር ይሰጣል።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ሰውም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ቢበላ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስን ነገር"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "በስህተት"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ይጨምራል"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "አምስተኛውን"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ከእርሱ ላይ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ይሰጣል"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ወደ ካህኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅዱሱን ነገር"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ቅዱሱን ነገር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:57:49.027394075Z",
+  "model": "glm-5.3"
+}

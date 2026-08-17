@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "የይስራኤልን ኤሎሂም ⟨את⟩ አዩ፤ በእግሩ ሥር ደግሞ እንደ ነጭ የሳፋይር ሥራ ነበር፤ ለፍጹም ደግሞ እንደ ሰማይ አካል።",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "አዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የይስራኤልን ኤሎሂም"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "በ… ሥር"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "እግሩ"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "እንደ ሥራ"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "ነጭ"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "ሳፋይር"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "እንደ አካልም"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማይ"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "ለፍጹም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:22:44.005266426Z",
+  "model": "glm-5.3"
+}

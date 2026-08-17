@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "እርሱም አለ፦ ሂድ ዳንኤል፣ ቃላቱ እስከ ፍጻሜ ዘመን ድረስ ተዘግተው ተታትመዋል።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እርሱም አለ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ዳንኤል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "ተዘግተዋል"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "እና ተታትመዋል"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላቱ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ዘመን"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ፍጻሜ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:47:14.658487009Z",
+  "model": "glm-5.3"
+}

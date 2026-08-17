@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "ወደ ኤሎሂም መሠዊያ እገባለሁ፤ ወደ ኤል፣ የደስታ ደስታዬ፤ በኪናር አመሰግንሃለሁ፣ ኤሎሂም፣ ኤሎሄዬ።",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "እገባለሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠዊያ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "የደስታ"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "ደስታዬ"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "አመሰግንሃለሁ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "በኪናር"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሄዬ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:29.528742929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 121,
+  "translation": "የማረገጣ ዜማ። ዓይኖቼን ወደ ኮራጆች አነሳለሁ፤ ከየት ይመጣል አጋዥዬ?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ዜማ"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "የማረገጣ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "አነሳለሁ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኖቼን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ኮራጆች"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ከየት"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ይመጣል"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "አጋዥዬ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:16.062462072Z",
+  "model": "glm-5.3"
+}

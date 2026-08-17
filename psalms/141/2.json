@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 141,
+  "translation": "ጸሎቴ በፊትህ እንደ ዕጣን ትቀመጥ፤ የእጄ ማንሳት እንደ ምሽት ቍርባን ይሁን።",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "ትቀመጥ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ጸሎቴ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ዕጣን"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "በፊትህ"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "ማንሳት"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "የእጄ ሰሌዳ"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ቍርባን"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ምሽት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:28.764572868Z",
+  "model": "glm-5.3"
+}

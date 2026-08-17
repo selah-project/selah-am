@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 96,
+  "translation": "የበረሃ ሁሉ ይደሰታል፣ በውስጡም ያለው ሁሉ፤ በዚያን ጊዜ የደን ዛፎች ሁሉ ይዘምራሉ።",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "ይደሰታል\/ይዘልቃል"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "የበረሃ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚከተለው\/ያለው"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በውስጡ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "በዚያን ጊዜ"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ይዘምራሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ዛፎች"
+    },
+    {
+      "surface": "יער",
+      "gloss": "የደን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:17.347570023Z",
+  "model": "glm-5.3"
+}

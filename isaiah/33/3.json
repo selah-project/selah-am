@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "በከፍተኛ ድምፅ ድምፁ ሕዝቦች ተሽለዋል፤ በማንሳትህ ብሔራት ተበታተኑ።",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "በድምፅ"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ከፍተኛ ድምፅ\/እልቂት"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ተሽለዋል\/ሮጠዋል"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "በማንሳትህ\/በመውጣትህ"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "ተበታተኑ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ብሔራት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:15:18.633578504Z",
+  "model": "glm-5.3"
+}

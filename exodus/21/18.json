@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "እና ብዙ ሰዎች ቢጨቋጩ አንድ ሰው ከበለጠው ጋር ⟨את⟩ አንዱን በድንጋይ ወይም በጣኝ ቢወጋው እርሱም ባይሞት በአልጋ ላይ ቢወድቅ፤",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "እና ከሆነ"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "ቢጨቋጩ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ብዙ ሰዎች"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ቢወጋ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "አንድ ሰው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከበለጠው"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ከበለጠው አንዱን"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "በድንጋይ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "በጣኝ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እርሱም ባይሞት"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ባይሞት"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ቢወድቅ"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "በአልጋ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:21:59.289211076Z",
+  "model": "glm-5.3"
+}

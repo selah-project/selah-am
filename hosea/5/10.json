@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "hosea 5:10",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የይሁዳ አለቃዎች እንደ ድንበር የሚያዘውቡ ሆነዋል፤ ቍጣዬን እንደ ውሃ በእነሱ ላይ እንፈስሳለሁ።",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "ሆነዋል"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "አለቃዎች"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "כמסיגי",
+      "gloss": "እንደ የሚያዘውቡ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ድንበር"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "በእነሱ ላይ"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "እንፈስሳለሁ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "እንደ ውሃ"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "ቍጣዬን"
+    }
+  ],
+  "timestamp": "2026-08-16T08:56:56.104712117Z",
+  "model": "glm-5.3"
+}

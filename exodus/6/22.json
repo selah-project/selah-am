@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የዑዝይኤልም ወንዶች ሚሳኤል፣ ኤልጸፋን እና ሲትሪ ናቸው።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "የ…ወንዶችም"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ዑዝይኤል"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "ሚሳኤል"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "እና ኤልጸፋን"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "እና ሲትሪ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:07:34.105929165Z",
+  "model": "glm-5.3"
+}

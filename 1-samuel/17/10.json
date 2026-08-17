@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "እና ፍልስጤማዊው አለ፣ እኔ የእስራኤልን ሰራዊት ⟨את⟩ ዛሬ ይህን አፍርያለሁ፤ አንድ ሰው ስጡ ለኝ፣ እና አብረን እንዋጋ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ፍልስጤማዊው"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "አፍርያለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእስራኤልን ሰራዊት"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ስጡ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለኝ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "እና እንዋጋ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "አብረን"
+    }
+  ],
+  "timestamp": "2026-08-16T15:46:00.344700845Z",
+  "model": "glm-5.3"
+}

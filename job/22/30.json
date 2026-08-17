@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 22:30",
+  "book": "job",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ያልነበረውን ንጹህ ያድናል፤ በእጆችህ ንጽሕና ይድናል።",
+  "tokens": [
+    {
+      "surface": "ימלט",
+      "gloss": "ያድናል"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ያልነበረውን"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ንጹህ"
+    },
+    {
+      "surface": "ונמלט",
+      "gloss": "ይድናል"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "በንጽሕና"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "የእጆችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:11:59.299512763Z",
+  "model": "glm-5.3"
+}

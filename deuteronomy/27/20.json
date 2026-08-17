@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "የተረገመ ከአባቱ ሚስት ጋር የሚተኛ ሰው፤ መጋራቱን በጣም ይህች የአባቱን ክንፍ ገልጦታልና፤ ሕዝቡ ሁሉ አሜን ይላል።",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "የተረገመ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "የሚተኛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋር"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሚስት"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ከአባቱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በጣም ይህች"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ገልጦታል"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ክንፍ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "የአባቱን"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "አሜን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:51:37.725755949Z",
+  "model": "glm-5.3"
+}

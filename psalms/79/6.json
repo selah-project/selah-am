@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 79,
+  "translation": "ቍጣህን በአሕዛብ ላይ አፍስስ ያህልክንም ባትሆኑ ላይ፣ በስምህም ያልጠሩትን መንግሥታት ላይ።",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "አፍስስ"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ቍጣህን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለ፣ ያህልክንም ባትሆኑ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል፣ ያለፉ"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "ያልተረዱህ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ… ላይ"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "መንግሥታትን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለ፣ በስምህም ያልጠሩትን"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "በስምህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል፣ ያለፉ"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ያልጠሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:48.971849966Z",
+  "model": "glm-5.3"
+}

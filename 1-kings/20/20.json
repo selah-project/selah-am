@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እያንዳንዱ ጠላቱን ደበደበ፤ አራምም ሮጠች፤ እስራኤልም አሳደዳቸው፤ የአራም ንጉሥ በር-ሐዳድም በፈረስና በፈረሰኞች አመለጠ።",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "ደበደቡ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "ጠላቱን"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ሮጡ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "አራም"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "አሳደዳቸው"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "አመለጠ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "በር-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ሐዳድ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "አራም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "ፈረስ"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "ፈረሰኞችም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:32:59.341860595Z",
+  "model": "glm-5.3"
+}

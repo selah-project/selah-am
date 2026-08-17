@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "job 1:1",
+  "book": "job",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "አንድ ሰው ⟨ነበር⟩ በኡጽ ምድር፤ ኢዮብ ስሙ ነበር፤ እና ያ ⟨ሰው⟩ ተፈጽሞ ቀና የኤሎሂም ተራራሪና ከክፉ የራቀ ነበር።",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "አንድ ሰው"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበር"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ኡጽ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኢዮብ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "እና ነበር"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ያ ሰው"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "תם",
+      "gloss": "ተፈጽሞ ቀና"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ቀና"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ተራራሪ የነበረ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "እና የራቀ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ከክፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:40:23.892289528Z",
+  "model": "glm-5.3"
+}

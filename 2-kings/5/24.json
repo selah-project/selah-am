@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "2-kings 5:24",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እርሱም ወደ ኡፋል ተራራ ሄደ፤ ከእጃቸውም ወሰደ፣ በቤቱም አስቀመጠ፤ ወደ ⟨את⟩ ሰዎቹም ላከ እነሱም ሄዱ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "ኡፋል ተራራ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ከእጃቸውም"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "አስቀመጠ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በቤቱም"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰዎቹ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ሰዎቹ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ሄዱ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:39:57.166235583Z",
+  "model": "glm-5.3"
+}

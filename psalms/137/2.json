@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 137,
+  "translation": "በወይና ዛፎች ላይ በእርሷ መካከል ኪኖራችንን ተንጠልጠልን።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "ወይና ዛፎች"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "በእርሷ መካከል"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "ተንጠልጠልን"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "ኪኖራችንን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:55.374046642Z",
+  "model": "glm-5.3"
+}

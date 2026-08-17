@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እናም ያህዌህ ለዓሣው ⟨את⟩ ዮናን ወደ ደረቀው ምድር እንዲያስተፋልስ አለው፤ እርሱም አስተፋለሰው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እናም አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "ለዓሣው"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "እናም አስተፋለሰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮናን"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ዮና"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ደረቀው ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:08:56.547229513Z",
+  "model": "glm-5.3"
+}

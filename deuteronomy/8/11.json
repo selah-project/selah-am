@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ተጠንቀቅ፣ ያህዌህን ⟨את⟩ ኤሎሂምህን እንዳታርሳው፣ ትእዛዞቹን ለመጠበቅ አትበል፤ ፍርዱንም ሥርዓቱንም ዛሬ እኔ የምኾምህን።",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "ተጠንቀቅ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለራስህ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "እንዳታርሳው"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "እንድታስታውል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምህን"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "አትበል"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ለመጠበቅ"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ትእዛዞቹን"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "ፍርዱንም"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ሥርዓቱንም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "የምኾምህ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:37:48.426148497Z",
+  "model": "glm-5.3"
+}

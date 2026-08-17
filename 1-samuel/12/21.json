@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "1-samuel 12:21",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "እናንተም አትልሱም፤ በከንቱ ነገሮች በኋላ እንዳትከተሉ፣ እነሱም አይጠቅሙም እና አያድኑም፤ በከንቱ ነገሮች ናቸውና።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "እናንተም አትልሱም"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "አትልሱም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በ...እንዳትከተሉ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "በኋላ"
+    },
+    {
+      "surface": "התהו",
+      "gloss": "በከንቱ ⟨ቱ⟩ ነገሮች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እነሱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "ጠቅሙም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "ያድኑም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በ...ናቸውና"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ከንቱ ነገሮች"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ናቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T05:37:48.058035071Z",
+  "model": "glm-5.3"
+}

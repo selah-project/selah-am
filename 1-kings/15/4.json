@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ነገር ግን ለዳዊት ሲል ያህዌህ ኤሎሂሙ በየሩሳሌም መብራት ሰጠለት፤ ልጁን ከእርሱ በኋላ ⟨את⟩ ለማነሳት እና ⟨את⟩ የሩሳሌምን ለማቆም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ነገር ግን ሆኖ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ለ...ሲል"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ኤሎሂሙ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለት\/ለእርሱ"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "መብራት"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "በየሩሳሌም"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "ለማነሳት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጁን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁን"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ከእርሱ በኋላ"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "እና ለማቆም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሩሳሌምን"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሳሌምን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:30:05.377869Z",
+  "model": "glm-5.3"
+}

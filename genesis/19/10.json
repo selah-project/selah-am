@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እነዚያ ሰዎችም ⟨את⟩ እጃቸውን ዘረጋ፤ ⟨את⟩ ሎጵንም ወደ እነርሱ ወደ ቤት አስገቡ፤ ⟨את⟩ ደጁንም ዘጉ።",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ዘረጋ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "እነዚያ ሰዎችም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጃቸውን"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "እጃቸውን"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "አስገቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሎጵን"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ሎጵን"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ወደ እነርሱ"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ወደ ቤት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ደጁን"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ደጁን"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "ዘጉ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:38:02.500427960Z",
+  "model": "glm-5.3"
+}

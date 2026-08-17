@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 81,
+  "translation": "እኔ ያህዌህ ኤሎሂምህ ነኝ፣ ያወጣህ ከምድረ ግብፅ፤ አፍህን አስልብ፣ እኔም እሞላውለታለሁ።",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምህ"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "ያወጣህ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፅ"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "አስልብ\/አስስርብ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "አፍህን"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "እኔም እሞላውለታለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:08.757211738Z",
+  "model": "glm-5.3"
+}

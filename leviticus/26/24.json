@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እኔም እንኳ ከእናንተ ጋር በተቃውሞ እሄዳለሁ፣ እኔም እንኳ በኃጢያታችሁ ምክንያት ሰባት እጣ እወጋችኋለሁ።",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "እሄዳለሁ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እንኳ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔም"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ከእናንተ ጋር"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "በተቃውሞ"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "እወጋችኋለሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ እናንተን",
+      "marks": "እወጋችኋለሁ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ደግሞም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔም"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ምክንያት"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "በኃጢያታችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:03:41.038947069Z",
+  "model": "glm-5.3"
+}

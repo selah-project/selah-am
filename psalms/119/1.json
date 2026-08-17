@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "እንዴት የተባረኩ ናቸው በመንገዳቸው ፍጹም የሆኑ፣ በያህዌህ በሆነው በቶራቱ የሚሄዱ።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "እንዴት የተባረኩ ናቸው"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "ፍጹም የሆኑ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "በመንገዳቸው"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "የሚሄዱ"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "በቶራቱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:24.755954112Z",
+  "model": "glm-5.3"
+}

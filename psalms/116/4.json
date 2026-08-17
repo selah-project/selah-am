@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 116,
+  "translation": "በያህዌህም ስም እጠራለሁ፤ አዎን እባክህ ያህዌህ ሆይ፣ ነፍሴን ማድነን።",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "በ...ስምም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "እጠራለሁ፤"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "አዎን እባክህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ ሆይ፣"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "ማድነን።"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:35.977569238Z",
+  "model": "glm-5.3"
+}

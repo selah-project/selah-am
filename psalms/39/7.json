@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "በእውነት በጠላም ውስጥ ይኼዳል ሰው፤ በእውነት በሐሜት ያስነብራሉ፤ ይከማታል፣ ማን እንደሚሰበስባቸውም ⟨አያውቅም⟩።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "በጠላም"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "ይኼዳል"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אך",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "በሐሜት"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "ያስነብራሉ"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "ይከማታል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አያውቅም"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ያውቅ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "እንደሚሰበስባቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:22.987536592Z",
+  "model": "glm-5.3"
+}

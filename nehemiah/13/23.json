@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "nehemiah 13:23",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "በዚያም ቀን እኔ ⟨את⟩ የይሁዳውያንን አየሁ፤ ከአስዶድ ሴቶችን፣ ከዐሞን ሴቶችን፣ ከሞዓብ ሴቶችን አግብተው ነበር።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "በዚያም"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ያንዱ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "አየሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የይሁዳውያንን"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "የይሁዳውያንን"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "አግብተው ነበር"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ሴቶችን"
+    },
+    {
+      "surface": "אשדודיות",
+      "gloss": "ከአስዶድ"
+    },
+    {
+      "surface": "עמוניות",
+      "gloss": "ከዐሞን"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "ከሞዓብ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:29:39.855632178Z",
+  "model": "glm-5.3"
+}

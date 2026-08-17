@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ከተገሠጽኩ በፊት እኔ ተብስብሼ ነበር፤ አሁን ግን ቃልህን ጠበቅሁ።",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "ከ…በፊት"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ተገሠጽኩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "ተብስብሼ ነበር"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "አሁን ግን"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ቃልህን"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ጠበቅሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:10.499121269Z",
+  "model": "glm-5.3"
+}

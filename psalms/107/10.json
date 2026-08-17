@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "ጨለማና የሞት ጥላ ውስጥ የተቀመጡ፣ በመከራና በብረት የታሰሩ ናቸው።",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "የተቀመጡ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጨለማ"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "እና የሞት ጥላ"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "የታሰሩ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "በመከራ"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "እና በብረት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:36.599826695Z",
+  "model": "glm-5.3"
+}

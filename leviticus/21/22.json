@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "የኤሎሂምን ምግብ፣ ከቅዱሳን ቅዱሳን እና ከቅዱሳን ይበላል።",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "ምግብ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "ከቅዱሳን ቅዱሳን"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ቅዱሳን"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "እና ከ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ቅዱሳን"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበላል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:57:09.138151327Z",
+  "model": "glm-5.3"
+}

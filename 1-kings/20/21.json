@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "የእስራኤል ንጉሥ ወጥቶ ፈረሶችን ⟨את⟩ እና ሰረገሎችን ⟨את⟩ መታ፤ በአራም ላይ ታላቅ መታት መታ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጥቶ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "መታ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፈረሶችን"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ፈረሶችን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሰረገሎችን"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ሰረገሎችን"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "መታ"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "በአራም"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "መታት"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ታላቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:32:11.195266741Z",
+  "model": "glm-5.3"
+}

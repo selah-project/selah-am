@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 22:19",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "የካህናቱንም ከተማ ⟨את⟩ ኖብን ከወንድ እስከ ሴት፣ ከሕፃን እስከ ጡት የሚያጠባ ሁሉ በሰይፍ አፍ መታ፤ በላም፣ በአህያና በበግም በሰይፍ አፍ መታ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኖብን"
+    },
+    {
+      "surface": "נב",
+      "gloss": "ኖብን"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "የካህናቱ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "መታ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "በአፍ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "የሰይፍ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ከወንድ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "מעולל",
+      "gloss": "ከሕፃን"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "ጡት የሚያጠባ"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "እና በላም"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "በአህያ"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "በበግ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "በአፍ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "የሰይፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:53:21.714137783Z",
+  "model": "glm-5.3"
+}

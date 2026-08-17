@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ከየጠዋቱ የሚቀጠረው የዕለት ቍርባን በኩራት በቀር እነዚህን ⟨את⟩ ታደርጋላችሁ።",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "በቀር"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "የሚቀጠረው"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "የጠዋቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነው"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "ለᚨዕለት ቍርባን"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "የዕለት ቍርባን"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ታደርጋላችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እነዚህን"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:25:02.913155956Z",
+  "model": "glm-5.3"
+}

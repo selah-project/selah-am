@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ሞሼም ሁሉን እንዳዘዘው ያህዌህ እንደ ⟨את⟩ እንዲህ አደረገ፤ እንዲህ አደረገ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ሁሉን እንደ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዘው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "እንደ ⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:40:43.366953249Z",
+  "model": "glm-5.3"
+}

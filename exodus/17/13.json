@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "የሆሻዕም ዐማሌቅን ⟨את⟩ እና ሕዝቡን ⟨את⟩ በሰይፍ አፍ ድል አደረጋቸው።",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "ድል አደረጋቸው"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሻዕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዐማሌቅን"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ዐማሌቅን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "በአፍ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "የሰይፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:17:56.454674271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "እጆቼን ለጦርነት ያስተምራል፣ እና ቀስት የነሐስ በክንፎቼ ይዳነቃል።",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "ያስተምራል"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "እጆቼን"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ለጦርነት"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "እና ይዳነቃል"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ቀስት"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "የነሐስ"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "በክንፎቼ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:34.444629803Z",
+  "model": "glm-5.3"
+}

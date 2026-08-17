@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "በጎችዋንም እንዲሁም ላሞችንም ያዙ፣ እንደ ተናገራችሁት፤ ሂዱ፤ እና እኔንም ⟨את⟩ ባርኩኝ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "በጎችዋን"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "ላሞችን"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ያዙ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "ተናገራችሁት"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ሂዱ"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "ባርኩኝ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እኔንም"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "እኔን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:15:18.032327505Z",
+  "model": "glm-5.3"
+}

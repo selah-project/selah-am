@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "job 3:3",
+  "book": "job",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የተወለስሁበት ቀን ይጥፋ፤ ወንድ ልጅ ተፀነሰ ተባለበትም ሌሊትም ይጥፋ።",
+  "tokens": [
+    {
+      "surface": "יאבד",
+      "gloss": "ይጥፋ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "אולד",
+      "gloss": "የተወለስሁበት"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በታው"
+    },
+    {
+      "surface": "והלילה",
+      "gloss": "ሌሊትም"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ተባለበት"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "ተፀነሰ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ወንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:39:51.365893075Z",
+  "model": "glm-5.3"
+}

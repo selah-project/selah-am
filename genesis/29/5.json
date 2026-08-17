@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "እነርሱም እንዲህ አላቸው፦ የናሖርን ልጅ ላባንን ዛሬበተወሰነ ታውቃላችሁ? ⟨את⟩ ላባንን ማለት ነው። እነርሱም እንዲህ አሉ፦ እናውቃለን።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አላቸው"
+    },
+    {
+      "surface": "להם",
+      "gloss": "እነርሱን"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "ታውቃላችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ላባንን"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ላባን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ናሖር"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "እነርሱም አሉ"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "እናውቃለን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:47:53.326918452Z",
+  "model": "glm-5.3"
+}

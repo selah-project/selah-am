@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ያህዌህ በዚህ ቃል እንዳይሄድ በሌሎች ኤሎሂም ኋላ እንዳይከተል አዘዘው፤ ያህዌህ ያዘዘውን ⟨את⟩ አልጠበቀም።",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ዚህ ቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "እንዳይ"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "ይሄድ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ኋላ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ሌሎች"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ጠበቀም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያዘዘውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ያዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:45:36.461980288Z",
+  "model": "glm-5.3"
+}

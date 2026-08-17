@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ያህዌህም በዚያ ቀን ⟨את⟩ እስራኤልን አዳነ፤ ጦርነቱም ⟨את⟩ ቤት አዌንን አልፋ ሄደች።",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "አዳነም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በ…ቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያንቀን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "ጦርነቱም"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "አልፋ ሄደች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት አዌንን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "און",
+      "gloss": "አዌን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:40:17.390451682Z",
+  "model": "glm-5.3"
+}

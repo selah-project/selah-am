@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 60,
+  "translation": "ብሔሩም ሆነ መንግሥቱ እንደ አንቺ ያለመገለገል ከሆነ ይጠፋል፤ አሕዛብም ፈጽሞ ይፈራራሉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ብሔሩ"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "መንግሥቱም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ያለ"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "መገለገል እንደ አንቺ"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ይጠፋል"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "አሕዛብም"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ፈጽሞ"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "ይፈራራሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:03:00.049758366Z",
+  "model": "glm-5.3"
+}

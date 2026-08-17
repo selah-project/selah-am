@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ሁለቱም ሞቱ፣ ማኽሎንና ክልዮንም፤ እንዲሁም ሴትዮዋ ከሁለቱ ልጆቿ እና ከባሏ ቀርታለች።",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "ሞቱ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ሁለቱም"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "ማኽሎን"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "እና ክልዮን"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "ቀርታለች"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሴትዮዋ"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ከሁለቱ"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "ልጆቿ"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "እና ከባሏ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:07:01.883723141Z",
+  "model": "glm-5.3"
+}

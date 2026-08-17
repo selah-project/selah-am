@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "አንዱን ⟨את⟩ ባሕሩን፣ እና ⟨את⟩ አሥራ ሁለቱን ወደፊቶች ከታችው።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ባሕሩን"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሩን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንዱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ወደፊቶች"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ወደፊቶች"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ከታችው"
+    }
+  ],
+  "timestamp": "2026-08-16T13:29:25.964755616Z",
+  "model": "glm-5.3"
+}

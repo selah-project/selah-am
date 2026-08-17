@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ዔበርም ሠላሳ አራት ዓመት ኖረ፤ ⟨את⟩ ፓለግን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ኖረ፤"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ዔበርም"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "አራት"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ሠላሳም"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፓለግን"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ፓለግን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:58.484421022Z",
+  "model": "glm-5.3"
+}

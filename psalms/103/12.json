@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 103,
+  "translation": "እንደ ምሥራቅ ርቀት ከምዕራብ፣ ⟨את⟩ መፃትራችንን ከእኛ አርቀ።",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "እንደ ርቀቱ"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "ምሥራቅ"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "ከምዕራብ"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "አርቀ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእኛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መፃትራችንን"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "መፃትራችንን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:44.688059445Z",
+  "model": "glm-5.3"
+}

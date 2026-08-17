@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 65,
+  "translation": "ለመዘምሩ፣ መዝሙር ለዳዊድ፣ በደንቆታ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመዘምሩ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊድ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "በደንቆታ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:54.533179417Z",
+  "model": "glm-5.3"
+}

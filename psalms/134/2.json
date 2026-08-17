@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 134,
+  "translation": "ቅዱስ ሆኖ እጃችሁን አንሡ፣ ያህዌህን ⟨את⟩ ምስጋና አድርጉ።",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "አንሡ"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "እጃችሁን"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ ሆኖ"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "ምስጋና አድርጉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:53.621387126Z",
+  "model": "glm-5.3"
+}

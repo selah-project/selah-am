@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "እነሆ፣ ትእዛዝህን ተመኝቻለሁ፤ በጽድቅህ አስህየኝ።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "ተመኝቻለሁ"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "ትእዛዝህን"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "በጽድቅህ"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "አስህየኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:18.859491037Z",
+  "model": "glm-5.3"
+}

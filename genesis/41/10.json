@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "ፈርዖን በአገልጋዮቹ ላይ ተቆጣ፤ እኔን ⟨את⟩ በየሩሳላይም አለቃ ቤት በእስር አስቀመጠ፤ እኔን ⟨את⟩ እና የአበቃቂዎችን አለቃ ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ተቆጣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "በአገልጋዮቹ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "አስቀመጠ፤"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "እኔን"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "በእስር"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "שר",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "የሩሳላይም"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "እኔን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የአበቃቂዎችን አለቃ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "የአበቃቂዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T14:31:48.600035874Z",
+  "model": "glm-5.3"
+}

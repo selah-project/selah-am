@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "በታላቅ ድምፅሽ ጮኽሽ፣ የጋሊም ሴት፤ ስማውን አድርጊ፣ ላይሻ፤ ደሃ ወይም አንቺ ዐናቶት።",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "ጮኽሽ"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ድምፅሽን"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ሴት የ"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "ጋሊም"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "ስማውን አድርጊ"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "ላይሻ"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "ደሃ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ዐናቶት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:02:26.689783672Z",
+  "model": "glm-5.3"
+}

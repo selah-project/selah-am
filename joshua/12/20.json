@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የሲምሮን-ሜሮን ንጉሥ አንድ፤ የአክሻፍ ንጉሥ አንድ።",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ሲምሮን"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "ሜሮን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "አክሻፍ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:05:16.678323889Z",
+  "model": "glm-5.3"
+}

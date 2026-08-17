@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "እርሱም አለ፦ ምን አንጠፋለሁ፣ እንደ ሆነ አንተ አገልጋይህን ⟨את⟩ ለአሐብ እጅ በመስጠት ትገድለኛለህ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እርሱም አለ፦"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "አንጠፋለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ ሆነ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ትሰጣለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አገልጋይህን"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "አገልጋይህን"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "እጅ በመስጠት"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ለአሐብ"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "ትገድለኛለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:30:45.137482115Z",
+  "model": "glm-5.3"
+}

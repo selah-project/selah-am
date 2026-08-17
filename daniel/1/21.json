@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ዳንኤል ደግሞ እስከ ኮሮሽ ⟨ሐ።⟩ የመንግሥቱ ዓመት መጀመሪያ ድረስ ⟨ቆየ⟩።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ደግሞ ⟨ቆየ⟩"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ዳንኤል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "መጀመሪያ\/አንድ"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "የኮሮሽ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሥ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:21:38.745494698Z",
+  "model": "glm-5.3"
+}

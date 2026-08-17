@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ከአብራሃም ጋር መናገሩን ሲጨርስ ኤሎሂም ⟨אתו⟩ ተነስቶ ከአብራሃም ላይ ወጣ።",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ሲጨርስ\/ጨረሰ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "መናገርን"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ከአብራሃም ጋር"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ተነስቶ ወጣ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከ… ላይ\/ከእርሱ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብራሃም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:38:43.929312916Z",
+  "model": "glm-5.3"
+}

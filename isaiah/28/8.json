@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ምክንያቱም ሁሉም ጠረጴዛዎች ትውከትና ቆሻሻ ተሞሉ፤ ስፋት የሌለ ቦታ አልቀረም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "ጠረጴዛዎች"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ተሞሉ"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "ትውከት"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "ቆሻሻ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "የሌለ\/ያለ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ቦታ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:11:02.330340259Z",
+  "model": "glm-5.3"
+}

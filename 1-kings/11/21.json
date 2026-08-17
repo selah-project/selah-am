@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 11:21",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሐዳድም በምስራቅ አገር ሰማ፣ ዳዊት ከአባቶቹ ጋር ተኝቷል የሚል፣ እና የሠራዊቱ አለቃ ዮአብ ሞቷል የሚል፤ ሐዳድም ለፈርዖን፣ ላከኝ፣ ወደ ምድሬም እሄዳለሁ አለው።",
+  "tokens": [
+    {
+      "surface": "והדד",
+      "gloss": "ሐዳድም"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "በምስራቅ አገር"
+    },
+    {
+      "surface": "כי",
+      "gloss": "የሚል"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ተኝቷል"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "አባቶቹ"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "እና የሚል"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞቷል"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "የሠራዊቱ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ሐዳድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ላከኝ"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "እሄዳለሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "ምድሬ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:46:18.061843979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "ማታ ላይ ሆኖ፣ ⟨את⟩ ልያ ልጁን ወሰደ፤ ⟨את⟩ እርሷም ወደ እርሱ አመጣት፤ እርሱም ወደ እርሷ ገባ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነም"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "በማታ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልያን"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ልያ"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "አመጣት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እርሷን"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ገባም"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ወደ እርሷ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:47:08.376501431Z",
+  "model": "glm-5.3"
+}

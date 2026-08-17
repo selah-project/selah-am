@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "2-samuel 12:30",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የንጉሣቸውንም አክሊል ⟨את⟩ ከራሱ ላይ ወሰደ፤ ክብዱም አንድ ኪካር ወርቅ እና የከበረ ዕንቁ ነበር፤ በዳዊትም ራስ ላይ ተቀመጠ፤ የከተማዋንም ዘረፈውን በብዛት እጅግ አወጣ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አክሊሉን"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "አክሊሉን"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "የንጉሣቸውን"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከ…ላይ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ራሱ"
+    },
+    {
+      "surface": "ומשקלה",
+      "gloss": "ክብዱም"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "አንድ ኪካር"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቅ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "እና ዕንቁ"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "የከበረ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ተቀመጠ፤ ነበረች"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "ዘረፈውን"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "የከተማዋን"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "አወጣ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "በብዛት"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "እጅግ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:01:31.794963683Z",
+  "model": "glm-5.3"
+}

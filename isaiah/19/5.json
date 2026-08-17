@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ከባሕርዩም ውኃ ይሟጠጣል፤ ወንዙም ይደርቃል፣ ይጠዋልማ።",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "ይሟጠጣል"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውኃ"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "ከባሕርዩ"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "ወንዙም"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "ይደርቃል"
+    },
+    {
+      "surface": "ובש",
+      "gloss": "ይጠዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:05:37.137347896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ሞሼም ለአሃሮን ⟨את⟩ የያህዌህን ቃላት ሁሉ ነገረው፣ የላከውንም ሁሉ፣ እንዲሁም ⟨את⟩ ተአምራቱን ሁሉ ያዘዘውን።",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ነገረው"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ለአሃሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የያህዌህን ቃላት ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ... ያ"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ላከውንም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ተአምራቱን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ተአምራቱን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ያዘዘውን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:08:39.321989117Z",
+  "model": "glm-5.3"
+}

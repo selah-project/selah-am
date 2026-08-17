@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "አዳምም ሠላሳ እና መቶ ዓመት ኖረ፣ በራሱ ምሳሌ በራሱም ቅርጽ ወለደ፤ ስሙንም ⟨את⟩ ሴት ብሎ ጠራው።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ኖረ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "አዳም"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሠላሳ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "እና መቶ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "በምሳሌው"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "በቅርጹ መሰል"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሙን"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ሴት"
+    }
+  ],
+  "timestamp": "2026-08-16T02:30:35.947471668Z",
+  "model": "glm-5.3"
+}

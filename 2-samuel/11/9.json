@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ኡርያህ በንጉሡ ቤት በር አጠገብ ⟨את⟩ የጌታውን አገልጋዮች ሁሉ አስቀምጦ ተኝቶ ወደ ቤቱ አልወረደም።",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ተኝቶ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ኡርያህ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "በር አጠገብ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የጌታውን አገልጋዮች ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "አገልጋዮች"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "የጌታውን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል።ወደፈን"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ወረደም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:59:28.052452998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "numbers 20:14",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ሞሼም ከቃዴስ ወደ ኤዶም ንጉሥ መልእክተኞችን ላከ፤ «እንዲህ ይላል የአንተ ወንድም እስራኤል፤ አንተ ሁሉን ⟨את⟩ ያገኘንን መከራ ታወቃለህ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "መልእክተኞችን"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "ከቃዴስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "የአንተ ወንድም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ታወቃለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "התלאה",
+      "gloss": "መከራ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "מצאתנו",
+      "gloss": "ያገኘን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:21:00.493674411Z",
+  "model": "glm-5.3"
+}

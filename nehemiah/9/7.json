@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 9:7",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "አንተ እርሱ ነህ ያህዌህ ⟨ኤሎሂም⟩፣ አብራምን የመረጥከው፣ ከከልዴዎች ኡርም ያወጣኸው፣ ስሙንም አብርሃም ያደረግህው ነህ።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ ነህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የመረጥከው"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "መረጥክ"
+    },
+    {
+      "surface": "באברם",
+      "gloss": "አብራምን"
+    },
+    {
+      "surface": "והוצאתו",
+      "gloss": "እና ያወጣኸው"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "ከኡር"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ከልዴዎች"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "እና አደረግህ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃም"
+    }
+  ],
+  "timestamp": "2026-08-16T20:44:02.487479989Z",
+  "model": "glm-5.3"
+}

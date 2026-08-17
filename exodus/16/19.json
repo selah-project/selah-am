@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ሞሼም እንዲህ አላቸው፤ ከእርሱ ማንም ሰው እስከ ጠዋት ድረስ አይትረፍ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አላቸው"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "እንዲህ ላቸው"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ማንም ሰው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ይትረፍ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእርሱ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ጠዋት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:16:54.555007088Z",
+  "model": "glm-5.3"
+}

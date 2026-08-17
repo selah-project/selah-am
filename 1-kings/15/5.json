@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ዳዊት በያህዌህ ዓይኖች ⟨את⟩ ትክክለኛውን ነገር እንደሠራ ሁሉ፣ በሕይወቱ ዘመን ሁሉ ከኾነ ነገር ከሁሉ ካዘዘው አልተመለሰም፤ በኡሪያ በሔጢ በዚያው ቃል ብቻ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትክክለኛውን ነገር"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ትክክለኛውን ነገር"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "በዓይኖች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "סר",
+      "gloss": "አልተመለሰም"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ካዘዘው"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀኖች"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "በሕይወቱ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "በቃል"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ኡሪያ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ሔጢ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:28:50.746844301Z",
+  "model": "glm-5.3"
+}

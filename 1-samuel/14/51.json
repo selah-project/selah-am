@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ቂሽ የሳኦል አባት ነበረ፤ ኔርም የአብነር አባት የአብኤል ልጅ ነበረ።",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "ቂሽም"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባት"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "የሳኦል"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "ኔርም"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባት"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "የአብነር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "አብኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T15:44:36.043871731Z",
+  "model": "glm-5.3"
+}

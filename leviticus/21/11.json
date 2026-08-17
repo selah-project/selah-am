@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "እንዲሁም ወደ ማንኛውም ሞተኛ ነፍስ አይቀርብም፤ ለአባቱም ሆነ ለእናቱ አያረክስም።",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "እንዲሁም ወደ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ማንኛውንም"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞተኛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "አይቀርብም"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "ለአባቱ"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ለእናቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "አያረክስም"
+    }
+  ],
+  "timestamp": "2026-08-16T14:51:58.775990037Z",
+  "model": "glm-5.3"
+}

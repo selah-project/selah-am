@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሰሩግም ሠላሳ ዓመት ኖረ፤ ⟨את⟩ ናኮርንም ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ኖረ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "ሰሩግ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሠላሳ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ናኮርን"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ናኮር"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:19.283252511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "ሕዝብህን በከንዱ ሸጠህ ነው፣ በዋጋቸውም አላበዛህም።",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "ሸጠህ ነው"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ሕዝብህን"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "በከንዱ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ሀብት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አላበዛህም"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "አበዛህ"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "በዋጋቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:11.352529941Z",
+  "model": "glm-5.3"
+}

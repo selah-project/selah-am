@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ይሁዳም በእስራኤል ፊት ተሸነፈ፤ እያንዳንዱ ሰው ወደ ድንኳኑም ሮጠ።",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "ተሸነፈ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳም"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ… ፊት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ሮጠ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "ወደ ድንኳኑም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:45:41.187036131Z",
+  "model": "glm-5.3"
+}

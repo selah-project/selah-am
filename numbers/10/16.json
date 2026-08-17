@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "numbers 10:16",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "በዘብሉን ልጆች ነገድ ጦር ላይም የኬሎን ልጅ ኤልያብ ነበር።",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "እና በ…ላይ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ጦር"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ነገድ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ዘብሉን"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ኤልያብ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "ኬሎን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:11:10.721727702Z",
+  "model": "glm-5.3"
+}

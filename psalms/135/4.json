@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 135,
+  "translation": "ምክንያቱም ያዕቆብን ለራሱ ያህ መርጦታል፤ እስራኤልን ለልዩ ሀብቱ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "መርጦታል"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለራሱ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "ለልዩ ሀብቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:11.053660542Z",
+  "model": "glm-5.3"
+}

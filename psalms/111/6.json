@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 111,
+  "translation": "ኃይልን ሥራዎቹን ለሕዝቡ አስታወቀ፤ የአሕዛብ ርስትን ለመስጠት ለእነርሱ።",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "ኃይልን"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ሥራዎቹን"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "አስታወቀ"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ለሕዝቡ"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ለመስጠት"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነርሱ"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ርስትን"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "የአሕዛብ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:00.425795512Z",
+  "model": "glm-5.3"
+}

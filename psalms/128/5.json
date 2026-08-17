@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 128,
+  "translation": "ያህዌህ ከጽዮን ይባርክህ፤ የየሩሳሌምን በጎነት ታይ፣ በሕይወትህ ቀናት ሁሉ።",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "ይባርክህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ከጽዮን"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "እና ታይ"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "በጎነትን"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የየሩሳሌምን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "በሕይወትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:19.465597402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ሳር ተበላለቀ፤ ምድሩ አዘነ፤ በእውነት የእህል ማሳ ተበላለቀ፤ የወይን ጠጅ ደረቀ፤ ዘይት ሽቆለለ።",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "ተበላለቀ"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ሳር"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "አዘነ"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ተበላለቀ"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "የእህል"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "ደረቀ"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "የወይን ጠጅ"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "ሽቆለለ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ዘይት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:02:27.390538577Z",
+  "model": "glm-5.3"
+}

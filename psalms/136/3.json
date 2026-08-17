@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 136,
+  "translation": "ለጌቶች ጌታ ለአዶናይ ምስጋና አቅርቡ፤ ምክንያቱም ለዘላለም ምሕረቱ ⟨ይኖራል⟩።",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "ምስጋና አቅርቡ"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ለአዶናይ"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "የጌቶች"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ምሕረቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:22.887229662Z",
+  "model": "glm-5.3"
+}

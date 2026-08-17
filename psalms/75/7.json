@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 75,
+  "translation": "ከፍ ማድረግ ፍጹም ከምሥራቅ ወይም ከምዕራብ አይመጣም፤ እንዲሁም ከምድረ በዳ ተራሮች አይመጣም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይመጣም ፍጹም"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "ከምሥራቅ"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ወይም ከምዕራብ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንዲሁም አይመጣም"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ከምድረ በዳ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ተራሮች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:42.260203424Z",
+  "model": "glm-5.3"
+}

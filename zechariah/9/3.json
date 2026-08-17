@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "zechariah 9:3",
+  "book": "zechariah",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ጾር ለራሷ ማዕረግ ሠራች፤ ብርን እንደ አፈር፣ ወርቅንም እንደ መንገድ ሸፈን አከማቸች።",
+  "tokens": [
+    {
+      "surface": "ותבן",
+      "gloss": "ሠራች"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ጾር"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ማዕረግ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ለራሷ"
+    },
+    {
+      "surface": "ותצבר",
+      "gloss": "አከማቸች"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "እንደ አፈር"
+    },
+    {
+      "surface": "וחרוץ",
+      "gloss": "እና ወርቅ"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "እንደ ሸፈን"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "መንገድ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:22:23.235190058Z",
+  "model": "glm-5.3"
+}

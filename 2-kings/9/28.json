@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "አገልጋዮቹ ⟨את⟩ ወደ ኢየሩሳሌም አሳለፉት፤ ከአባቶቹ ጋር በዳዊት ከተማ ⟨את⟩ በመቃብሩ ቀበሩት።",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "አሳለፉት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "አገልጋዮቹ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "አገልጋዮቹ"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "ወደ ኢየሩሳሌም"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ቀበሩት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "በመቃብሩ"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "በመቃብሩ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ከአባቶቹ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "በከተማ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T16:42:51.013332195Z",
+  "model": "glm-5.3"
+}

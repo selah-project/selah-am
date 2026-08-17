@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "2-samuel 12:10",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "እና አሁን ሰይፍ ከቤትህ እስከ ዘላለም አይመለስም፣ ምክንያቱም አንወረድኸኝ እንጂ ኡሪያ ኸታዊው ሚስት ⟨את⟩ ለራስህ ሚስት ሆና ወሰድህ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "እና አሁን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "አይመለስም"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "ከቤትህ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘላለም"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንጂ"
+    },
+    {
+      "surface": "בזתני",
+      "gloss": "አንወረድኸኝ"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ወሰድህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚስት"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሚስት"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ኡሪያ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ኸታዊው"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ሆና"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለራስህ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ሚስት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:59:29.499995417Z",
+  "model": "glm-5.3"
+}

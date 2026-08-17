@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "exodus 30:22",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ያህዌህም ከሞሼ ጋር በተናገረ ጊዜ እንዲህ አለው፦",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ ይህንም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ከ… ጋር ወደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ አለው፦"
+    }
+  ],
+  "timestamp": "2026-08-16T03:27:57.443869339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ኤልሳዕም ሞተ፤ ቀበሩትም። የሞአብ አረብቶች በዓመቱ መግቢያ ወደ ⟨ምድሪቱ⟩ ይገባሉ ነበር።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ኤልሳዕ"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ቀበሩት"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "የ…አረብቶች"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞአብ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ይገባሉ ነበር"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ወደ ምድር"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መግቢያ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "የዓመቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:52:10.370564558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ፊት ለፊት ያህዌህ በተራራ ከእሳቱ መካከል ከእናንተ ጋር ተናገረ።",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "ለፊት"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ከእናንተ ጋር"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "በተራራ"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ከ...መካከል"
+    },
+    {
+      "surface": "האש",
+      "gloss": "እሳቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:35:10.578930751Z",
+  "model": "glm-5.3"
+}

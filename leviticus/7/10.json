@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "leviticus 7:10",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "በዘይት የተቀላቀለ መብያ ሁሉ እና ደረቅ — ለአሃሮን ልጆች ሁሉ ይሆናል፤ እያንዳንዱ እንደ ወንድሙ።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "መብያ"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "የተቀላቀለ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "በዘይት"
+    },
+    {
+      "surface": "וחרבה",
+      "gloss": "እና ደረቅ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "የአሃሮን"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ"
+    },
+    {
+      "surface": "כאחיו",
+      "gloss": "እንደ ወንድሙ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:44:43.434549027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 70,
+  "translation": "በውርደታቸው ምክንያት ወደ ኋላ ይመለሱ «አሃ፣ አሃ» የሚሉት።",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ይመለሱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ምክንያት"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ምክንያት"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "ውርደታቸው"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "የሚሉት"
+    },
+    {
+      "surface": "האח",
+      "gloss": "አሃ"
+    },
+    {
+      "surface": "האח",
+      "gloss": "አሃ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:27.392052086Z",
+  "model": "glm-5.3"
+}

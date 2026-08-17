@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "ሰማያትና ምድር ያመሰግኑት፤ ባሕሮችና እነርሱ በውስጥ የሚንቀሳቀሱ ሁሉ።",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "ያመሰግኑት"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "እና ምድር"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ባሕሮች"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "የሚንቀሳቀሱ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በውስጣቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:14.489955825Z",
+  "model": "glm-5.3"
+}

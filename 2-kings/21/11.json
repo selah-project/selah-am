@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "2-kings 21:11",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ምክንያቱም ምንጊዜም የይሁዳ ንጉሥ እነዚህን ርኵሰቶች ስለ ሠራ፣ ከፊቱ ካለው አሞራዊ የሠራው ሁሉ በላይ ክፉ ሠራ፤ በጣዖቶቹም እንዲሁም ⟨את⟩ ይሁዳን አንበረከከ።",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ሠራ፣"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምንጊዜም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "የይሁዳ"
+    },
+    {
+      "surface": "התעבות",
+      "gloss": "ርኵሰቶች"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህን"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ክፉ ሠራ፣"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉ በላዋይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሠራው"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "አሞራዊ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የነበረው"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "በፊቱ"
+    },
+    {
+      "surface": "ויחטא",
+      "gloss": "አንበረከከ።"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይሁዳን"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳን"
+    },
+    {
+      "surface": "בגלוליו",
+      "gloss": "በጣዖቶቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:52:29.774458399Z",
+  "model": "glm-5.3"
+}

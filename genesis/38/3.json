@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "ከርሷም ነፍስ በመሸኘት ወንድ ልጅ ወለደች፤ ስሙንም ⟨את⟩ ዔር ብላ ጠራው።",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ነፍስ በመሸኘት"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወንድ ልጅ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሙን"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ዔር"
+    }
+  ],
+  "timestamp": "2026-08-16T02:55:49.097045133Z",
+  "model": "glm-5.3"
+}

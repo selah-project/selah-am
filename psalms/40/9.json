@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ፈቃድህን ለማድረግ አምላኬ ኤሎሂም ደስ አለኝ፤ ሕጌም በአንጀቴ ውስጥ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ለማድረግ"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "ፈቃድህን"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "አምላኬ ኤሎሂም"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ደስ አለኝ"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ሕጌም"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በውስጥ"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "አንጀቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:34.124578569Z",
+  "model": "glm-5.3"
+}

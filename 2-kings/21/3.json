@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "2-kings 21:3",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ተመለሶም ሕዝቅያስ አባቱ ያጠፋቸውን ⟨את⟩ ራቁት ሠራቸው፤ ለባዕል መሠዊያዎች አቆመ፤ አሸራንም አደረገ፤ አሐብ የእስራኤል ንጉሥ እንዳደረገው፤ ለሰማይ ሠራይት ሁሉ ሰገደ፤ ⟨את⟩ እነሱንም አገለገለ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተመለሶም"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራቁትን"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ራቁት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ያጠፋ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ሕዝቅያስ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "አቆመ"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "መሠዊያዎች"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ለባዕል"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "አሸራ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ያደረገው"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "አሐብ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ሰገደ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ሠራይት"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማይ"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "አገለገለ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:53:30.824620416Z",
+  "model": "glm-5.3"
+}

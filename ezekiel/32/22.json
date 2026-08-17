@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "ezekiel 32:22",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "እዚያ አሦር ⟨እሷ ናት⟩ ከምክረ ጉሣቋ ሁሉ ጋር፤ መቃብሮቿ በዙሪያዋ ⟨ናቸው⟩፤ ሁሉም የሰይፍ ተቀጠፎች፣ የወደቁት ናቸው።",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "አሦር"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ከሁሉ ጋር"
+    },
+    {
+      "surface": "קהלה",
+      "gloss": "ምክረ ጉሣቋ"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "በዙሪያዋ"
+    },
+    {
+      "surface": "קברתיו",
+      "gloss": "መቃብሮቿ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "ተቀጠፎች"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "የወደቁት"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "በሰይፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:42:11.015494040Z",
+  "model": "glm-5.3"
+}

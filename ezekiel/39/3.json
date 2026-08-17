@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "ezekiel 39:3",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "ቀስትህን ከግራ እጅህ እደቅቀዋለሁ፣ በቶችህንም ከቀኝ እጅህ እዳርቃቸዋለሁ።",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "እደቅቀዋለሁ"
+    },
+    {
+      "surface": "קשתך",
+      "gloss": "ቀስትህን"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከ…እጅ"
+    },
+    {
+      "surface": "שמאולך",
+      "gloss": "ግራ"
+    },
+    {
+      "surface": "וחציך",
+      "gloss": "በቶችህንም"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከ…እጅ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ቀኝ"
+    },
+    {
+      "surface": "אפיל",
+      "gloss": "እዳርቃቸዋለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:49:01.789270954Z",
+  "model": "glm-5.3"
+}

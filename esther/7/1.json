@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ንጉሡም እና ሃማን ከንግሥቲ እስቴር ጋር ለመጠጣት መጡ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "እና ሃማን"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ለመጠጣት"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "እስቴር"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ንግሥቲ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:22:52.279651025Z",
+  "model": "glm-5.3"
+}

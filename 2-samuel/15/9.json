@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ንጉሡም እንዲህ አለው፦ በሰላም ሂድ፤ እርሱም ተነሥቶ ወደ ኸብሮን ሄደ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "እንዲህ ክሱን"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "በሰላም"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሥቶ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "ወደ ኸብሮን"
+    }
+  ],
+  "timestamp": "2026-08-16T16:07:36.707478055Z",
+  "model": "glm-5.3"
+}

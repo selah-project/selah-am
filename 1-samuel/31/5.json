@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "የጭራታው አለቃ፣ እርሱም የመሣሪያዎቹ ተሸካሚ፣ ሳኦል ሞተ ሲያይ፣ እርሱም እንዲሁ በሰይፉ ላይ ወደቀ እና ከእርሱ ጋራ ሞተ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ተሸካሚው"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "የመሣሪያዎቹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ወደቀ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "በሰይፉ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "እና ሞተ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋራ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:54:05.211924248Z",
+  "model": "glm-5.3"
+}

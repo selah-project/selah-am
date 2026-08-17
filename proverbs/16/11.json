@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "proverbs 16:11",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ሚዛንና የፍርድ ሚዛዎች ለያህዌህ ⟨ናቸው⟩፤ የኪስ ድንጋዮች ሁሉ ሥራው ⟨ናቸው⟩።",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "ሚዛን"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "እና ሚዛዎች"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "ሥራው"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ድንጋዮች"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "ኪስ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:28:19.668599018Z",
+  "model": "glm-5.3"
+}

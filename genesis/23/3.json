@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "አብርሃምም ከሞቷ ከሆነችው ፊት ተነስቶ ወደ ኬት ልጆች ብሎ ተናገረ፤ እንዲህ ሲል፦",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተነስቶ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃምም"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከ... ተነስቶ ከፊቷ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ከሞቷ ከሆነችው"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ኬት"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T02:42:17.264224017Z",
+  "model": "glm-5.3"
+}

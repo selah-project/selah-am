@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ለያህዌህ የመሥራት ጊዜ ⟨ነው⟩፤ ሕግህን አፍርሰዋል።",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "የመሥራት"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "አፍርሰዋል"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ሕግህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:35.285681447Z",
+  "model": "glm-5.3"
+}

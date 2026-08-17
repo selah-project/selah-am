@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "2-chronicles 12:2",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ሲሆን በአምኃዊው ዓመት የረሐበዓም ንጉሥ፣ የግብፅ ንጉሥ ሺሻቅ ወደ ኢየሩሳሌም ወጣ፤ ምክንያቱም በያህዌህ ዘንድ ክፉ ሠሩ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሲሆን"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "በ… ዓመት"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "አምኃዊው"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "የ… ንጉሥ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ረሐበዓም"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "ሺሻቅ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፅ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ… ላይ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ኢየሩሳሌም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "ክፉ ሠሩ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "በያህዌህ ዘንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:40:44.287370703Z",
+  "model": "glm-5.3"
+}

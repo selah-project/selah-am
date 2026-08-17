@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "ደስታንና መረብሽትን ስሙልኝ፤ ያከበርካቸው አጥንቶቼ ይደሰታሉ።",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "ስሙልኝ"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ደስታን"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "እና መረብሽትን"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "ይደሰታሉ"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "አጥንቶቼ"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "ያከበርካቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:45:37.166069140Z",
+  "model": "glm-5.3"
+}

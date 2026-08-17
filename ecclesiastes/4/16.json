@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "ecclesiastes 4:16",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ለሕዝቡ ሁሉ ፍጻሜ የለውም — ከፊታቸው ላለ ሁሉ ላይም ነው፤ የኋለኞቹም በእርሱ አያምኑም ደስም አይሰማቸውም፤ በእውነት ይህም ምንም የሌለ ነው፣ የነፍስ ምርመራም ነው።",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "የለውም"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ፍጻሜ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለ…ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለ…ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ሳለ"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ከፊታቸው"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "האחרונים",
+      "gloss": "የኋለኞቹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ደስም አይሰማቸውም"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህም"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ምንም የሌለ"
+    },
+    {
+      "surface": "ורעיון",
+      "gloss": "የነፍስ ምርመራም"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ነፍስ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:13:47.186731017Z",
+  "model": "glm-5.3"
+}

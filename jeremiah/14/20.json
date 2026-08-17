@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "jeremiah 14:20",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "አንተን ሆይ ያህዌህ ክፉ ሥራችንን እና የአባቶቻችንን በደል አውቀናል፤ በእውነት በአንተ ላይ አመፀን።",
+  "tokens": [
+    {
+      "surface": "ידענו",
+      "gloss": "አውቀናል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "רשענו",
+      "gloss": "ክፉ ሥራችንን"
+    },
+    {
+      "surface": "עון",
+      "gloss": "በደል"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "የአባቶቻችንን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "አመፀን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "በአንተ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:48:35.648643306Z",
+  "model": "glm-5.3"
+}

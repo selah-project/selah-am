@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "joshua 11:17",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ከሐላቅ ተራራ፣ ወደ ሰዒር የሚወጣው፣ እስከ ባዓል ጋድ ድረስ፣ በለባኖን ሸለቆ ውስጥ ከከርሞን ተራራ በታች፤ ⟨את⟩ ነገሥታታቸውን ሁሉ ያዕቆብ ማረከ፣ ሰበራቸውም፣ ገደላቸውም።",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ተራራው"
+    },
+    {
+      "surface": "החלק",
+      "gloss": "ሐላቅ"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "የሚወጣው"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ሰዒር"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ ድረስ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ባዓል"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "በሸለቆው ውስጥ"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "ለባኖን"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በታች"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ከርሞን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነገሥታታቸውን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "ነገሥታታቸውን"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "ማረከ"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "ሰበራቸው"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "ገደላቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T05:06:50.090545061Z",
+  "model": "glm-5.3"
+}

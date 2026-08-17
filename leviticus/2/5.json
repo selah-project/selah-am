@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እና በጽሑፉ ላይ የሚበሰል ቢሆን በቅርቡም መባ ስታቀርብ፣ በዘይት የተቀላቀለ ስሕተት የሌለበት የተፈጨ ዱቄት ማጥረት ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እና ቢሆን"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "በቅርቡም መባ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "ጽሑፉ ላይ"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "በቅርቡም መባህ ስታቀርብ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ማጥረት ዱቄት"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "የተቀላቀለ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "በዘይት"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "ስሕተት የሌለበት ዱቄት"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ይሆናል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:41:23.365776453Z",
+  "model": "glm-5.3"
+}

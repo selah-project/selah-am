@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ቁርጥ ቁርጦቹ ሆኖ ⟨את⟩ ያቋርጠዋል፣ ⟨את⟩ ራሱንም ⟨את⟩ ስብውንም፤ ካህኑም ⟨את⟩ እነሱን በእነርሱ ላይ በሚቃጠለው እሳት ላይ ባለው በመሠዊያው ላይ ባለው እንጨት ላይ ያዘጋጃቸዋል።",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "ያቋርጠዋልም"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "ቁርጥ ቁርጦቹ ሆኖ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ራሱንም"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ራሱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስብውንም"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "ስብውን"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "ያዘጋጃቸዋልም"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "እንጨት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኘው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኘው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:41:25.616058307Z",
+  "model": "glm-5.3"
+}

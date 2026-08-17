@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 27:1",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "በመጀመሪያ የይሁዳ ንጉሥ የዮስያስ ልጅ የይሆይቄም መንግሥት ይህ ቃል ከያህዌህ ⟨את⟩ ወደ ኢርምያስ ሆኖ እንዲህ ብሎ መጣ።",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "በመጀመሪያ"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "መንግሥት"
+    },
+    {
+      "surface": "יהויקם",
+      "gloss": "የይሆይቄም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "יאושיהו",
+      "gloss": "ዮስያስ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ሆኖ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "ኢርምያስ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ከ⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:17:42.745939797Z",
+  "model": "glm-5.3"
+}

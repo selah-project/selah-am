@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 66,
+  "translation": "ከኢየሩሳሌም ⟨את⟩ ተደስቱ፤ ከእርሷ ተደስቱ ምትወዷት ሁሉ፤ ከእርሷ በሐሤት ⟨את⟩ ደስ ይበላችሁ ስለ እርሷ የሚያዝኑ ሁሉ።",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "ተደስቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከኢየሩሳሌም"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ኢየሩሳሌም"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "ተደስቱ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ከእርሷ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "ምትወዷት"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "ደስ ይበላችሁ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ከእርሷ"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "በሐሤት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "የሚያዝኑ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ስለ እርሷ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:34:05.444660239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "የበቶቹን ⟨את⟩ ከሲታ እንጨት አድርጎ በነሐስ አንጸባረቃቸው።",
+  "tokens": [
+    {
+      "surface": "ויעשׂ",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የበቶቹን"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "በቶቹን"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "እንጨት"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ሲታ"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "አንጸባረቃቸው"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "በነሐስ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:37:01.991975755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እና አለ፣ ጥራዋን፤ እና ጠራት፣ እና በመግቢያው ቆመች።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ጥራዋን"
+    },
+    {
+      "surface": "לה",
+      "gloss": "እሷን"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "እና ጠራ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "እሷን"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "እና ቆመች"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "በመግቢያው"
+    }
+  ],
+  "timestamp": "2026-08-16T06:38:47.958039064Z",
+  "model": "glm-5.3"
+}

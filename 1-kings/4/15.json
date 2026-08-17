@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "አኪማዕስ በንፍታሊ — እርሱም ሆኖ ⟨את⟩ በስመትን የሰሎሞንን ሴት ልጅ ለሚስትነት ወሰደ።",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "አኪማዕስ"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "በንፍታሊ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በስመትን"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "በስመትን"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ሴት ልጅ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ለሚስትነት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:14:41.332954258Z",
+  "model": "glm-5.3"
+}

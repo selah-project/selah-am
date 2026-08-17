@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "2-kings 1:10",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ኤልያሁም መልሶ ወደ የአምሳቱ አለቃ ተናገረ፦ የኤሎሂም ሰው ከሆንሁ፣ ከሰማይ እሳት ወርዶ ⟨את⟩ አንተንም ⟨את⟩ የአምሳትህንም ይበላል፤ ከሰማይም እሳት ወርዶ ⟨את⟩ እርሱንም ⟨את⟩ የአምሳቱንም በላ።",
+  "tokens": [
+    {
+      "surface": "ויענה",
+      "gloss": "መልሶ አመለሰ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያሁ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "የአምሳቱ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "እና ከሆንሁ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "ወርዶ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማይ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ይበላል"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "አንተን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የአምሳትህን"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "የአምሳትህ"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "ወርዶ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማይ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "በላ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የአምሳቱን"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "የአምሳቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:36:45.269052826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ያህዌህ ⟨את⟩ የረጽን ጠብቀኞች ከእርሱ በላይ አስገንርቶ ⟨את⟩ ጠላቶቹን ያስተባብራል።",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "አስገንርቶ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የረጽን ጠብቀኞችን"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ጠብቀኞች"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "የረጽን"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ከእርሱ በላይ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጠላቶቹን"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ጠላቶቹ"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "ያስተባብራል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:02:09.351452353Z",
+  "model": "glm-5.3"
+}

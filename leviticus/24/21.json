@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "እንስሳን የመታ ሰው መዋጮ ይከፍላታል፤ ሰውን የመታ ሰው ግን ይገደላል።",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "ወይም የመታ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "እንስሳን"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "ይከፍላታል"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "እና የመታ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰውን"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይገደላል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:00:00.809755778Z",
+  "model": "glm-5.3"
+}

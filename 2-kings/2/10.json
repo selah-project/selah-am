@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እርሱም አለ፣ ያልገባህ አስቸጋሪ አጠየቅህ፤ ከአንተ ⟨את⟩ ተወስዄ ልታየኝ ከሆነ፣ እንደዚህ ይሁንልህ፤ ካልሆነ ግን አይሆንም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "አስቸጋሪ አጠየቅህ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ለመጠየቅ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ታየኝ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "እኔ (ተወስዄ)"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ተወስዄ"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "ከአንተ ⟨את⟩ ሆኖ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "ᛥכן",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ካልሆነ ግን"
+    },
+    {
+      "surface": "אין",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆንም"
+    }
+  ],
+  "timestamp": "2026-08-16T16:38:49.578410861Z",
+  "model": "glm-5.3"
+}

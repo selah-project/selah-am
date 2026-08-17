@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 7:1",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እንደ ሆነ፣ የ⟨the⟩ ቅጥር ሲሠራ ወንፊት ሆነ፣ እኔም በሮችን አቆምኩ፤ የበር ጠባቂዎችና ዘማሬዎችና ሌዋውያንም ተመደቡ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "נבנתה",
+      "gloss": "ሲሠራ"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ቅጥሩ"
+    },
+    {
+      "surface": "ואעמיד",
+      "gloss": "አቆምኩ"
+    },
+    {
+      "surface": "הדלתות",
+      "gloss": "በሮችን"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "ተመደቡ"
+    },
+    {
+      "surface": "השוערים",
+      "gloss": "የበር ጠባቂዎችና"
+    },
+    {
+      "surface": "והמשררים",
+      "gloss": "ዘማሬዎችና"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ሌዋውያንም"
+    }
+  ],
+  "timestamp": "2026-08-16T18:33:23.838070441Z",
+  "model": "glm-5.3"
+}

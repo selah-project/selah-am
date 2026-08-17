@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 1:16",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "በእነዚህ ምክንያት እኔ አለቅሳለሁ፤ ዐይኔ ዐይኔ ውሃ ታፍሳለች፤ ነፍሴን የሚመልስ አጽንዋጬ ከእኔ ዘልቆብቷልና፤ ልጆቼ ባዶ ሆኑ፤ ጠላቱ በላዩ በራና።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "በ... ምክንያት"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "בוכיה",
+      "gloss": "አለቅሳለሁ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዐይኔ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዐይኔ"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "ታፍሳለች"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደፈለገ ስለሆነ... እንደዚህ"
+    },
+    {
+      "surface": "רחק",
+      "gloss": "ዘልቆብቷል"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "አጽንዋጬ"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "የሚመልስ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ሆኑ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆቼ"
+    },
+    {
+      "surface": "שוממים",
+      "gloss": "ባዶ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደፈለገ ስለሆነ... እንደዚህ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "በላዩ በራ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ጠላቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:19:57.350904507Z",
+  "model": "glm-5.3"
+}

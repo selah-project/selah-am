@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ሦስት ሺህ ምሳሌዎችን ተናገረ፤ መዝሙሮቹም አምስት ሺህ አንድ ነበሩ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ምሳሌዎችን"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ነበሩም\/ሆኑም"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "መዝሙሮቹ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ሺህ አንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:16:42.693691443Z",
+  "model": "glm-5.3"
+}

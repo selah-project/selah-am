@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "exodus 14:31",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "እስራኤልም ⟨את⟩ ያህዌህ በግብፅ ያደረገውን ታላቅ እጅ አየ፤ ሕዝቡም ⟨את⟩ ያህዌህ ተራራ፤ በያህዌህ እና በአገልጋዩ በሞሼ አመኑ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "አየም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታላቅ እጅ"
+    },
+    {
+      "surface": "היד",
+      "gloss": "እጅ"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያደረገውን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ያደረገ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "በግብፅ"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ተራራም"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויאמינו",
+      "gloss": "አመኑም"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "በያህዌህ"
+    },
+    {
+      "surface": "ובמשה",
+      "gloss": "እና በሞሼ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "በአገልጋዩ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:15:30.449052965Z",
+  "model": "glm-5.3"
+}

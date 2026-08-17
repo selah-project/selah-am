@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "በብዛት አጥብኝ ከዓመፃዬ እና ከኃጢአቴ አነጻኝ።",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "በብዛት"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "አጥብኝ"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "ከዓመፃዬ"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "እና ከኃጢአቴ"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "አነጻኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:00.590763083Z",
+  "model": "glm-5.3"
+}

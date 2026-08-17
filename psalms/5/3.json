@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ወደ ድምፅ የጩኸቴ አዳምጥ፣ ንጉሤ እና ኤሎሂሜ፤ እንደ አንተ እጸልያለሁ።",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "አዳምጥ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ወደ ድምፅ"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "የጩኸቴ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ንጉሤ"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "እና ኤሎሂሜ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "እጸልያለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:27:41.331254757Z",
+  "model": "glm-5.3"
+}

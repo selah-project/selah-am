@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "የተመረጡትህን በጎነት እንድታይ፣ በሕዝብህ ደስታ እንድደሰት፣ ከርስትህ ጋር እንድትመሰገን።",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "እንድታይ"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "በጎነት"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "የተመረጡትህን"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "እንድደሰት"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "በደስታ"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "ሕዝብህ"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "እንድትመሰገን"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ርስትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:25.348052596Z",
+  "model": "glm-5.3"
+}

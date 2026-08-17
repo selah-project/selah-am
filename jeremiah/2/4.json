@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ስሙ፣ የያህዌህን ቃል የያዕቆብ ቤት ሆይ፣ እና የእስራኤል ቤት ቤተሰቦች ሁሉ።",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃልን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "የያዕቆብ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ቤተሰቦች"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:35:36.694780499Z",
+  "model": "glm-5.3"
+}

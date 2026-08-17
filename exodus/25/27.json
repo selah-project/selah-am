@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ከጠርዙ ጎን ሆነው ቀለበቶቹ ⟨ይሆናሉ⟩ — ለበቶቹ ማረፊያዎች ሆነው በእነርሱ ⟨את⟩ ማዕደሩን ለማንሳት።",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "ከ… ጎን (ተቃራኒ ሆኖ)"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "ጠርዙ"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "ይሆናሉ"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ቀለበቶቹ"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "ለቤቶች (ማረፊያዎች)"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "ለበቶች"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ለማንሳት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማዕደሩን"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ማዕደሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:24:11.615772523Z",
+  "model": "glm-5.3"
+}

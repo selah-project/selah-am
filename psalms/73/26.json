@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "psalms 73:26",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "ሥጋዬ እና ልቤ ያልቃሉ፤ ነገር ግን የልቤ ዐለት እና ድልድልዬ ኤሎሂም ነው ለዘላለም።",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "ያልቃሉ"
+    },
+    {
+      "surface": "שארי",
+      "gloss": "ሥጋዬ"
+    },
+    {
+      "surface": "ולבבי",
+      "gloss": "እና ልቤ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ዐለት"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "የልቤ"
+    },
+    {
+      "surface": "וחלקי",
+      "gloss": "እና ድልድልዬ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:05.004501653Z",
+  "model": "glm-5.3"
+}

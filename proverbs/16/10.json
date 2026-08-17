@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ንጉሥ በከንፈሮቹ ላይ ⟨አለ⟩ ትንቢት፤ በፍርድ አፉ አይበድልም።",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "ትንቢት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ከንፈሮች"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "በፍርድ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "ያለፍርድ፤ «አይበድልም»"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "አፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:28:19.668403074Z",
+  "model": "glm-5.3"
+}

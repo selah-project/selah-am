@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "2-samuel 24:11",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ዳዊትም በጠዋቱ ተነሠተው የያህዌህ ቃል ወደ ጋድ ነቢዩ የዳዊት ራኢ መጣ እንዲህ ሲል፦",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሠተው"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "በጠዋቱ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ቃልም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነቢዩ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ራኢ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "የዳዊት"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T06:12:01.685886057Z",
+  "model": "glm-5.3"
+}

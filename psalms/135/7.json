@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 135,
+  "translation": "ጥግን ከምድር ደመናዎችን ያወጣ ለል፣ መብራቶችን ለሚታ የሠራ፣ ነፍሳትን ከመክሮቹ ያወጣ እርሱ ነው።",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "ያወጣ"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "ደመናዎችን\/ጥጉን ከ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ጥግ ከ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "መብራቶችን"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "ለሚታ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "የሠራ፣"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "ያወጣ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ነፍሳትን\/ነፋስን"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "ከመክሮቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:10.369353709Z",
+  "model": "glm-5.3"
+}

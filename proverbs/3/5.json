@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "በልብህ ሙሉ በያህዌህ ተእምን፤ እና በአስተውሎትህ አትተማመን።",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "ተእምን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ልብህ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና በ"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "አስተውሎትህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "ተማመን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:20:43.365478536Z",
+  "model": "glm-5.3"
+}

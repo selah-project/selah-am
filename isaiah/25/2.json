@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 25:2",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ምክንያቱም ከተማን ክምር አደረግሃት፤ የተመከረች ከተማን ወደ መፍረስ አደረግሃት፤ የእንግዳውያን መከላከያ ከከተማ — ለዘላለም አይሠራትም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "አደረግሃት"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ከተማን"
+    },
+    {
+      "surface": "לגל",
+      "gloss": "ክምር"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ከተማን"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "የተመከረች"
+    },
+    {
+      "surface": "למפלה",
+      "gloss": "ወደ መፍረስ"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "መከላከያ"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "የእንግዳውያን"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ከከተማ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "አይሠራትም"
+    }
+  ],
+  "timestamp": "2026-08-16T17:00:22.987578952Z",
+  "model": "glm-5.3"
+}

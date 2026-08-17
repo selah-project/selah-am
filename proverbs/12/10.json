@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ጻድቁ የእንስሳቱን ነፍስ ያውቃል፤ ነገር ግን ምሕረቶች ረሃብያን ናቸው።",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "ያውቃል"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቁ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "የእንስሳቱን"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "ነገር ግን ምሕረቶች"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ረሃብያን"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "ናቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:25:47.404869784Z",
+  "model": "glm-5.3"
+}

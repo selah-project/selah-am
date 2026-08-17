@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "ezekiel 3:4",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እንዲህም አለኝ፦ የሰው ልጅ፤ ሂድ፤ ወደ የእስራኤል ቤት ግባ፤ ቃሌንም በእነርሱ ተናገር።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለኝ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "እንዲህም ወደ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "የሰው"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ግባ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ተናገርም"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "ቃሌን"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "በእነርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:19:50.412972237Z",
+  "model": "glm-5.3"
+}

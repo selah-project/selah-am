@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "አሃሮንም እጁን በምጽራይ ውኃ ላይ ዘረጋ፤ ጉላቶችም ወጡ፣ የምጽራይን ምድርም ሸፈኑ።",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ዘረጋ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጁን"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "ውኃ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽራይ"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ወጡ"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "ጉላቶች"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ሸፈኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድርን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽራይ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:11:20.714162569Z",
+  "model": "glm-5.3"
+}

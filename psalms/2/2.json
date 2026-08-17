@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የምድር ነገሥታት ይቆማሉ፣ አለቆችም አንድነት ተሰብስበው በያህዌህ እና በመሢሑ ላይ ይመካከራሉ።",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "ይቆማሉ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "የ…ነገሥታት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "አለቆችም"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "ተሰበሰቡ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "አንድነት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ (መቃወም)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ…ላይ"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "መሢሑ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:28:32.780627774Z",
+  "model": "glm-5.3"
+}

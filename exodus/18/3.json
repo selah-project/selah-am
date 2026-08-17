@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "እና ⟨את⟩ ሁለቱን የእርሷን ወንዶች — ስም ያለው ሲሆን የአንዱ «ጌርሾም» «በስደት ምድር መጋለጃ ሆንኩ» ባለው ምክንያት።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሁለቱን"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለቱን"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "የእርሷን ወንዶች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ሲሆን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "የአንዱ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ጌርሾም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ባለው ምክንያት"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "«…» አለ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "መጋለጃ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ሆንኩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በ… ምድር"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "በስደት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:19:13.382262045Z",
+  "model": "glm-5.3"
+}

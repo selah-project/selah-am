@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የልባችሁን ⟨את⟩ ቍርጠት ተላጉ እና አንገታችሁን ከእንግዲህ ወደ ፊት አትበጥኑ።",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "እና ተላጉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቍርጠት"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "ቍርጠት"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "የልባችሁን"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "እና አንገታችሁን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "በጥንቱ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ከእንግዲህ ወደ ፊት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:38:36.311472684Z",
+  "model": "glm-5.3"
+}

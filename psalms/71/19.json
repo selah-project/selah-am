@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 71,
+  "translation": "ጽድቅህም ኤሎሂም እስከ ከፍታው ድረስ ደርሷል፤ ታላቅ ነገሮችን የሠራህ፣ ኤሎሂም መሰል እርስዎ ማን ነው?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "ጽድቅህም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ከፍታው ድረስ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ሠራህ"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ታላቅ ነገሮችን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "መሰል እርስዎ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:58.997051560Z",
+  "model": "glm-5.3"
+}

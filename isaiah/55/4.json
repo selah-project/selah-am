@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 55,
+  "translation": "እነሆ፣ ምስክር ለሕዝቦች ሰጠሁት፤ አለቃ እና ትእዛዝ የሚያዝዝ ለሕዝቦች።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ምስክር"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "ለሕዝቦች"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "ሰጠሁት"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "እና ትእዛዝ የሚያዝዝ"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ለሕዝቦች"
+    }
+  ],
+  "timestamp": "2026-08-16T07:26:34.935511837Z",
+  "model": "glm-5.3"
+}

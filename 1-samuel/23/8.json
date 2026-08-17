@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ሳኦልም ሕዝቡን ሁሉ ⟨את⟩ ለዘመቻ ጠራ፤ ወደ ቀዕላ ወርዶ ዳዊትን እና ሰዎቹን ለማወጅ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦልም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ለዘመቻ"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ወርዶ"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ወደ ቀዕላ"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ለማወጅ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ሰዎቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:46:11.578019372Z",
+  "model": "glm-5.3"
+}

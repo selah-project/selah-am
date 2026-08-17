@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "leviticus 21:1",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ያህዌህ ሞሼን፣ ካህናቱ፣ የአሃሮን ልጆች ላይ እንዲህ ብለህ ተናገር፤ ስለ ⟨את⟩ ነፍስ በሕዝቡ ውስጥ አይረክስም አላቸውም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ተናገር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናቱ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "የአሃሮን"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "እንዲህ ትላለህ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ላቸው"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ስለ ⟨את⟩ ነፍስ",
+      "marks": "ነፍስ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ያረክስም"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "በሕዝቡ ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:57:40.662594514Z",
+  "model": "glm-5.3"
+}

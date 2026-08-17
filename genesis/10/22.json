@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የሴም ልጆች ኤላም፣ አሹር፣ አርፋክስድ፣ ሉድ እና አራም ናቸው።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ሴም"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ኤላም"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "አሹር"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "አርፋክስድ"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "ሉድ"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "አራም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:29.079863117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 102,
+  "translation": "አንተ ትነሳለህ፣ የጾንን ትራራለህ፣ ወደ እርሷ የማዘን ጊዜ እስኪደርስ ነው፣ ምክንያቱም የተወሰነው ወቅት ደርሷል።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ትነሳለህ"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "ትራራለህ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "የጾንን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ነው"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "ወደ እርሷ የማዘን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ደርሷል"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "የተወሰነው ወቅት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:09.572131410Z",
+  "model": "glm-5.3"
+}

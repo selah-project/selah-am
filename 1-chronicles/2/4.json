@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ታማርም ቤተ ልብሳቷም እርሱን ⟨את⟩ ፈሬፅንና ⟨את⟩ ዘራህን ወለደችለት፤ የይሁዳ ልጆች በሙሉ አምስት ነበሩ።",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "ታማርም"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ቤተ ልብሳቷ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፈሬፅ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ፈሬፅ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዘራህ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ዘራህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "አምስት"
+    }
+  ],
+  "timestamp": "2026-08-16T12:32:59.593908183Z",
+  "model": "glm-5.3"
+}

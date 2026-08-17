@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ሴቲቱም ሳሙኤልን ⟨את⟩ ስታይ በትልቅ ድምፅ ጮኸች፤ ሴቲቱም ወደ ሳኦል እንዲህ ልት አለችው፤ «ለምን ተንኮል አደረግኸኝ? እና አንተ ሳኦል ነህ።»",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ስታይ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሴቲቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሳሙኤልን"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤልን"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "ጮኸች"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "በድምፅ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ትልቅ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "አለች"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሴቲቱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ልት"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "ተንኮል አደረግኸኝ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "እና አንተ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል ነህ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:50:11.323310350Z",
+  "model": "glm-5.3"
+}

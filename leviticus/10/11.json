@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እና ያህዌህ በሞሼ እጅ በኩል ለእነርሱ የተናገራቸውን ሁሉን ሥርዓቶች ⟨את⟩ የእስራኤልን ልጆች እንድታስተምሩ።",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "እና እንድታስተምሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእስራኤልን ልጆች"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆችን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን ሥርዓቶች"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ሥርዓቶች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የተናገራቸውን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "የተናገረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ለእነርሱ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጅ በኩል"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:47:11.516088924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "deuteronomy 4:16",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እንዳታረኙ ወንበር አድርጋችሁ ማንኛውም ቅርጽ መልክ ግረፍ ወንድ ወይም ሴት ቅርጽ እንዳታደርጉላችሁ።",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "እንዳታረኙ"
+    },
+    {
+      "surface": "תשחתון",
+      "gloss": "እንዳታረኩ"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "እንዳታደርጉ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ላችሁ"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "ግረፍ"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "መልክ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ማንኛውም"
+    },
+    {
+      "surface": "סמל",
+      "gloss": "ቅርጽ"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ቅርጽ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ወንድ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ሴት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:35:00.088341989Z",
+  "model": "glm-5.3"
+}

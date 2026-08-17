@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 59,
+  "translation": "በምሽትም ይመለሳሉ፤ እንደ ውሻ ያለቅሳሉ፤ ከተማዋንም ይዞራሉ።",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "ይመለሳሉ"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "በምሽት"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ያለቅሳሉ"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "እንደ ውሻ"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "ይዞራሉ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማዋን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:18.138248157Z",
+  "model": "glm-5.3"
+}

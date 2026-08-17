@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "በምድሪቱም ራብ ሆነ፤ አብራምም እዚያ ለመቆየት ወደ ምጽራይም ወረደ፤ በምድሪቱ ራቡ በጣም ከባድ ስለነበረ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እና ሆነ"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ራብ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "እና ወረደ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "አብራም"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ወደ ምጽራይም"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "ለመቆየት"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ከባድ"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ራቡ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T02:35:21.130347389Z",
+  "model": "glm-5.3"
+}

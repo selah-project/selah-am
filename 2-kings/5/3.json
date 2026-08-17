@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እሷም ለጌታዋ እንዲህ አለች፤ እወ፣ ጌታዬ በሰማርያ ባለው ⟨ለ⟩ነቢዩ ፊት ቢሆን ኖሮ፣ ከዚያ ከስውሮው ⟨את⟩ ያወጣዋል።",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "አለች፤"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "ጌታዋ"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "እወ ቢሆን ኖሮ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጌታዬ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነቢዩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨የሆነው⟩"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "በሰማርያ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ከዚያ"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "ያወጣዋል"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ከስውሮው"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "ከስውሮው"
+    }
+  ],
+  "timestamp": "2026-08-16T19:49:25.757477131Z",
+  "model": "glm-5.3"
+}

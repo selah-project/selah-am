@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "የእስራኤልን ሁሉን አለቆች፣ ካህናትንም እና ሌዋዊያንንም ሰበሰበ።",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ሰበሰበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "አለቆችን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤልን"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ካህናትንም"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ሌዋዊያንንም"
+    }
+  ],
+  "timestamp": "2026-08-16T13:13:23.653009497Z",
+  "model": "glm-5.3"
+}

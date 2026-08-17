@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ለጥበብ፣ እኅቴ ናት በላት፤ ለብልህነትም ዘመድ-ማወቅ ብላት።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "በላት"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "ለጥበብ"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "እኅቴ"
+    },
+    {
+      "surface": "את",
+      "gloss": "አንቺ"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "ዘመድ-ማወቅ"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ለብልህነት"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ብላት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:24:16.392504190Z",
+  "model": "glm-5.3"
+}

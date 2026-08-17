@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እነዚህ የእነዚያ ሰዎች ስሞች ናቸው ከእናንተ ጋር ⟨את⟩ የሚቆሙት፤ ለረኡቤን ኤልጹር የሸዴኦር ልጅ።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ስሞች"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ወንዶቹን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እነዚያ"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "የሚቆሙት"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ከእናንተ ጋር"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "ለረኡቤን"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "ኤልጹር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "ሸዴኦር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:01:55.443498195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "1-chronicles 26:13",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እነርሱም ለቤተ አባቶቻቸው ትንሽ ሆኖ ወይም ትልቅ ሆኖ ለየአንዱ በር ዕጣ ጣሉ ነበር።",
+  "tokens": [
+    {
+      "surface": "ויפילו",
+      "gloss": "ጣሉ ነበር"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "ዕጣ"
+    },
+    {
+      "surface": "כקטן",
+      "gloss": "እንደ ትንሹ"
+    },
+    {
+      "surface": "כגדול",
+      "gloss": "እንደ ትልቁ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ለቤተ"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "አባቶቻቸው"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "ለአንድ በር"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "እና ለሌላ በር"
+    }
+  ],
+  "timestamp": "2026-08-16T13:17:12.956825034Z",
+  "model": "glm-5.3"
+}

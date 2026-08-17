@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 148,
+  "translation": "አውሬ እንስሳት፣ እና ሁሉም እንስሳት፤ እንቅሳቄሳቆች፣ እና የበረዶ ወፎች፤",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "አውሬ እንስሳት"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉም"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "እንስሳት"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "እንቅሳቄሳቆች"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "እና ወፍ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "የበረዶ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:00.687784667Z",
+  "model": "glm-5.3"
+}

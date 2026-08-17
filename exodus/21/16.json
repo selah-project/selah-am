@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ሰውን የሚሰርቅ እና የሚሸጠው፣ በእጁ ቢገኝ በሞት ይገደላል።",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "እና የሚሰርቅ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰውን"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "እና የሚሸጠው"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "ቢገኝ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "በእጁ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "በሞት"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይገደላል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:21:17.283292949Z",
+  "model": "glm-5.3"
+}

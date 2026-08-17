@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "የእስራኤል ልጅ ነበርና አደራቅሁት፣ እና ከምጽራይም ልጄን ጠራሁ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ነበርና"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "አደራቅሁት"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "ከምጽራይም"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ጠራሁ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ልጄን"
+    }
+  ],
+  "timestamp": "2026-08-16T08:59:52.381841256Z",
+  "model": "glm-5.3"
+}

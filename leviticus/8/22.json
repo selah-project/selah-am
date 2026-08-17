@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 8:22",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ሁለተኛውን መስዋዕት፣ የመቀበል መስዋዕትን ⟨את⟩ አቀረበ፤ አሃሮንና ልጆቹም እጃቸውን ⟨את⟩ በመስዋዑ ላይ ጫኑ።",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "አቀረበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁለተኛውን መስዋዕት"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "መስዋዕት"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ሁለተኛውን"
+    },
+    {
+      "surface": "איל",
+      "gloss": "መስዋዕት"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "የመቀበል"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "ጫኑ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "እና ልጆቹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጃቸውን"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "እጃቸውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "የመስዋዑ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:11:54.205150266Z",
+  "model": "glm-5.3"
+}

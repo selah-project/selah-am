@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "ነፍሴ ለኤሎሂም በጠመች፣ ለሕያው ኤል፤ «መቼ እገባለሁ እና የኤሎሂምን ፊት ⟨እ⟩እያየሁ?»",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "በጠመች"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ለኤሎሂም"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ለኤል"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "መቼ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "እገባለሁ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "እና እእያያለሁ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:14.503572140Z",
+  "model": "glm-5.3"
+}

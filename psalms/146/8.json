@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 146,
+  "translation": "ያህዌህ ዕውሮችን ያወሳል፤ ያህዌህ ደባላቅተኞችን ያነሳል፤ ያህዌህ ጻድቃንን ይወዳል።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "ያወሳል"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "ዕውሮችን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "ያነሳል"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "ደባላቅተኞችን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ይወዳል"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ጻድቃንን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:57.082782057Z",
+  "model": "glm-5.3"
+}

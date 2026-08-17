@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "አንዱን ⟨את⟩ በግ ጠዋት ታዘጋዋለህ፣ ሁለተኛውንም ⟨את⟩ በግ ከምሽቶቹ መካከል ታዘጋዋለህ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አንዱን በግ"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "በግ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንዱን"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ታዘጋዋለህ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ጠዋት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁለተኛውን በግ"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "በግ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ሁለተኛውን"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ታዘጋዋለህ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ከ…መካከል"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ምሽቶቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:26:15.379089208Z",
+  "model": "glm-5.3"
+}

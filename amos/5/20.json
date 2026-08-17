@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የያህዌህ ቀን ጨለማ ሳይሆን ብርሃን አይደለምን? ከባድ ጨለማ እንጂ ብርሃን የለውም።",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ሳይሆን...አይደለምን?"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጨለማ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "የ... ቀን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንጂ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "ከባድ ጨለማ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንጂ"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "የለውም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:06:25.898290164Z",
+  "model": "glm-5.3"
+}

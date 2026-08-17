@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 135,
+  "translation": "የዚዮን ነዋሪ ያህዌህ ከዚዮን የተባረከ ነው፤ ኢየሩሳሌምን የሚኖር ያህዌህ የተባረከ ነው። ያህን አመስግኑ።",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "የተባረከ ነው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ከዚዮን"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "የሚኖር"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ኢየሩሳሌምን"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "አመስግኑ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:27.358358663Z",
+  "model": "glm-5.3"
+}

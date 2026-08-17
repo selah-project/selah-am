@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 104,
+  "translation": "ራሳቸውን የሚሰማው ተራሮች ከእርሱ ከፍታ ክፍሎች ውርጭ ይጠጣሉ፤ ምድርም ከሥራዎችህ ፍሬ ትጥማለች።",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "ያጠጣል"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ተራሮችን"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "ከእርሱ ከፍታ ክፍሎች"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ከፍሬ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ሥራዎችህ"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ትጥማለች፤"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድርም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:48.182083965Z",
+  "model": "glm-5.3"
+}

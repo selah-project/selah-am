@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "በከሚስህ ውስጥ ድንጋይና ድንጋይ — ትልቅ እና ትንሽ — እንዳለህ አይሁንም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይሁንም"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "በከሚስህ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ድንጋይ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "እና ድንጋይ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ትልቅ"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "እና ትንሽ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:49:21.386717732Z",
+  "model": "glm-5.3"
+}

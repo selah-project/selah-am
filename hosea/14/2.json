@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ተመለስ እስራኤል እስከ ያህዌህ ኤሎሂምህ ድረስ፣ በኃጢአትህ ስለወደቅህ።",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "ተመለስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ...ድረስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "ስለወደቅህ"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "በኃጢአትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:01:22.481204836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ከፈነውም ⟨את⟩ በንጹህ ወርቅ፤ ዙሪያውም የወርቅ ዙር አድርጎ ሠራለት።",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ከፈነውም"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እሱን"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቅ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ንጹህ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ሠራለት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእሱ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ዙር"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "የወርቅ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ዙሪያ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:37:16.796135904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እና አንድ ሰው ከሴቶች መኝት መኝት ⟨את⟩ ወንድን የሚተኛ የሁለቱም የሚጸድፍ ሥራ አድርገዋል፤ በእርግጥ ይገደላሉ፤ ደማቸው በላያቸው ⟨ይሆናል⟩።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "እና አንድ ሰው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚ"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "የሚተኛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንድን"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ወንድ"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "መኝት መኝት"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሴቶች"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "የሚጸድፍ ሥራ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "አድርገዋል"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "የሁለቱም"
+    },
+    {
+      "surface": "מות",
+      "gloss": "በእርግጥ ሞት"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ይገደላሉ"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ደማቸው"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በላያቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:58:23.005394913Z",
+  "model": "glm-5.3"
+}

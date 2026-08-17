@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 146,
+  "translation": "ያህዌህ መጻተኞችን ⟨את⟩ ይጠብቃል፤ ያለአባት ልጆችንና መበለቶችን ያነሳል፤ ክፉዎችን መንገድ ግን ያዛባዋል።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ይጠብቃል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መጻተኞችን"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "መጻተኞችን"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ያለአባት ልጆችን"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "እና መበለቶችን"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "ያነሳል"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ነገር ግን መንገድ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉዎች"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ያዛባዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:40.669717707Z",
+  "model": "glm-5.3"
+}

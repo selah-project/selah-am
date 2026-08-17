@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ካህኑም ያዘዛል፣ ደግሞም አንዱን ወፍ ⟨את⟩ በሕያው ውሃ ላይ ባለ ሸክላ ብቻውን ይታረዳል።",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ያዘዛል"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ይታረዳል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወፉን"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ወፉን"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "አንዱን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ብቻውን"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ሸክላ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ሕያው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:52:28.157540940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ፊትህን በአገልጋይህ አብራ፤ ⟨את⟩ ሥርዓቶችህንም አስተምረኝ።",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህን"
+    },
+    {
+      "surface": "האר",
+      "gloss": "አብራ"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "በአገልጋይህ"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "እንዲሁም አስተምረኝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሥርዓቶችህን"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ሥርዓቶችህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:32.260054922Z",
+  "model": "glm-5.3"
+}

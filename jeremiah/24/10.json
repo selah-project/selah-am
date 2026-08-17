@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "በእነርሱም ላይ ⟨את⟩ ሰይፉን ⟨את⟩ ራበውን እና ⟨את⟩ መቅለሉን እልካለሁ፤ እነርሱ እስኪናጁ ድረስ ከዚያ አፈር ላይ ከወጡ፣ ለእነርሱ እና ለአባቶቻቸው ያለኩት።",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "እልካለሁ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በእነርሱም ላይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰይፉን"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ሰይፉን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራበውን"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ራበውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መቅለሉን"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "መቅለሉን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪናጁ ድረስ"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "እስኪናጁ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከዚያ ላይ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "አፈር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለኩት"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ያለኩት"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነርሱ"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "እና ለአባቶቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T07:52:38.645979683Z",
+  "model": "glm-5.3"
+}

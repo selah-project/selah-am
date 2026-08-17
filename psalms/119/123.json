@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ዓይኖቼ ለመዳንህና ለጽድቅህ ቃል አልቀመውም ተጨነቁ።",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኖቼ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "አልቀመውም ተጨነቁ"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "ለመዳንህ"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "እና ለቃል"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "የጽድቅህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:58.152785880Z",
+  "model": "glm-5.3"
+}

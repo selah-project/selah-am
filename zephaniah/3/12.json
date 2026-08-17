@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "zephaniah 3:12",
+  "book": "zephaniah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "በመካከልሽም ድሃና ውስኔ ሕዝብ አተርፈዋለሁ፤ እነርሱም በያህዌህ ስም ያሳምናሉ።",
+  "tokens": [
+    {
+      "surface": "והשארתי",
+      "gloss": "አተርፈዋለሁ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "በመካከልሽ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ውስኔ"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "ድሃ"
+    },
+    {
+      "surface": "וחסו",
+      "gloss": "ያሳምናሉ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "በ...ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:16:58.656249394Z",
+  "model": "glm-5.3"
+}

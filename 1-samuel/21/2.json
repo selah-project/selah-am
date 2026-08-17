@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-samuel 21:2",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ዳዊት ወደ ኖብ ወደ አኪሜሌክ ካህኑ መጣ፤ አኪሜሌክም ዳዊትን ሲያገኝ አለቀሰ፤ እንዲህም አለው፦ ለምን ራስህ ብቻ ነህ፣ ሰውም ከአንተ ⟨את⟩ ጋር የለም?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "ኖብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "አኪሜሌክ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "አለቀሰ"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "አኪሜሌክ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ሲያገኝ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ራስህ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ሰውም"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ጋር",
+      "marks": "ከአንተ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T05:46:29.166234574Z",
+  "model": "glm-5.3"
+}

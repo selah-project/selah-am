@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 102,
+  "translation": "በመንገዱ ላይ ኃይሌን አሳነሰ፤ ቀኖቼንም አሳጠረ።",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "አሳነሰ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገዱ"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "ኃይሌን"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "አሳጠረ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀኖቼን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:58.728451588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "numbers 23:24",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "እነሆ ሕዝብ እንደ አንበሳ ይነሣል፣ እንደ አንበሳ ወንድ ይበራል፤ አይተኛም እስኪበላ ምግብ ድረስ፣ የተጎዱትን ደም ይጠጣል።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "כלביא",
+      "gloss": "እንደ አንበሳ (ሌብያ)"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ይነሣል"
+    },
+    {
+      "surface": "וכארי",
+      "gloss": "እና እንደ አንበሳ ወንድ"
+    },
+    {
+      "surface": "יתנשא",
+      "gloss": "ይተርፋል፣ ይበራል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ይተኛል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪ… ድረስ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበላ"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ምግብ፣ ለምንበት"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "እና ደም"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "የተጎዱት"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ይጠጣል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:22:46.239324161Z",
+  "model": "glm-5.3"
+}

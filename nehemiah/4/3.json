@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እኛም ወደ ኤሎሂም ያንተ ቴዎች ጠየቅን፤ በእነሱ ምክንያት ቀንና ሌሊት በእነሱ ላይ ዘበኛ አቆምን።",
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "ቴዎች ጠየቅን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂም ያንተ"
+    },
+    {
+      "surface": "ונעמיד",
+      "gloss": "አቆምን"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "ዘበኛ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "በእነሱ ላይ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "እና ሌሊት"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "በእነሱ ምክንያት"
+    }
+  ],
+  "timestamp": "2026-08-16T12:13:31.546422194Z",
+  "model": "glm-5.3"
+}

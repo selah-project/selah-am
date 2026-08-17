@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "የመገኘትውን ድንኳን በሰሜን ነፈስ በመጋረጃው ውጭ በድንኳኑ ጎን ላይ ⟨ታበቱን⟩ ሰአለን ⟨את⟩ መጠረዣውን አኖረ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "አኖረ\/ሰጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መጠረዣውን"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "መጠረዣውን"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "በድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "የመገኘት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ጎን\/ክር"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ድንኳኑ"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "በሰሜን ነፈስ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "በውጭ"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "ለመጋረጃው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:40:11.089450020Z",
+  "model": "glm-5.3"
+}

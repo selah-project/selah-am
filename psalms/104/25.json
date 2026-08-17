@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 104,
+  "translation": "ይህ ባሕር ታላቅ እና የእጆች ሰፊ ⟨ሆኖ⟩ ቆማል፤ እዚያ የሚንቀሳቀሱ ፍጡራኵ ያልተቆጠሩ አሉ፤ ከታላላቅ ጋር ትንንሽ ሕያዋን ፍጡራን አሉ።",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "እና ሰፊ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "የእጆች"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "የሚንቀሳቀሱ ፍጡራኵ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ያልተቆጠሩ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ቁጥር የላቸውም"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "ሕያዋን ፍጡራን"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "ትንንሽ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ...ጋር"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ታላላቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:48.408321311Z",
+  "model": "glm-5.3"
+}

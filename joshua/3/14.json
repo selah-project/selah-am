@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "joshua 3:14",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ሕዝቡ ሰፈሮቻቸውን ሲነሳ ዮርዳንስን ⟨את⟩ ለመሻገር ሆነ፤ እና ካህናት የቃል ኪዳኑን ታቦት ተሸክመው በሕዝቡ ፊት ሆኑ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "ሲነሳ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "מאהליהם",
+      "gloss": "ሰፈሮቻቸውን"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "ለመሻገር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮርዳንስን"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳንስን"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "እና ካህናት"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ተሸክመው"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "የቃል ኪዳኑን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:00:16.231130219Z",
+  "model": "glm-5.3"
+}

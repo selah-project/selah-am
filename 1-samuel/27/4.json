@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ሳኦልም ዳዊት ወደ ጋት እንዳመለጠ ተነገረለት፤ እርሱም እንደገና እንዳይፈልገው አልጨመረም።",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "እና ተነገረ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ለሳኦል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "አመለጠ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ጋት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ጨመረም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "እንደገና"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "ሊፈልገው"
+    }
+  ],
+  "timestamp": "2026-08-16T05:52:08.724106667Z",
+  "model": "glm-5.3"
+}

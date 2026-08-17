@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 124,
+  "ref": "psalms 119:124",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ከአገልጋይህ ጋር በምሕረትህ እንደሆነ አድርግ፤ እና ỻዎችህን አስተምረኝ።",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "አድርግ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "አገልጋይህ"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "እንደ ምሕረትህ"
+    },
+    {
+      "surface": "וחקיך",
+      "gloss": "እና וּታዎችህን"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "አስተምረኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:58.152922938Z",
+  "model": "glm-5.3"
+}

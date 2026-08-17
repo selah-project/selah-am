@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የማልቀስ ጊዜ አለ፤ እና የመስቅለቅ ጊዜ አለ፤ የሐዘን ጊዜ አለ፤ እና የመጨፈር ጊዜ አለ።",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "የማልቀስ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "እና ጊዜ"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "የመስቅለቅ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "የሐዘን"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "እና ጊዜ"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "የመጨፈር"
+    }
+  ],
+  "timestamp": "2026-08-16T11:13:46.030100802Z",
+  "model": "glm-5.3"
+}

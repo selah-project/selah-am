@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 29:24",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "የመንፈስ ተበላሾችም ብልሃትን ያውቃሉ፣ ሆድ-የሚቆጡም ትምህርትን ይማራሉ።",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ያውቃሉ"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "ተበላሾች"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "የመንፈስ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ብልሃትን"
+    },
+    {
+      "surface": "ורוגנים",
+      "gloss": "ሆድ-የሚቆጡ"
+    },
+    {
+      "surface": "ילמדו",
+      "gloss": "ይማራሉ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ትምህርትን"
+    }
+  ],
+  "timestamp": "2026-08-16T16:57:58.729296634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "2-samuel 17:4",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ቃሉም በአብስሎም ዓይን በእስራኤል ሽማግሌዎች ሁሉ ዓይን ቀና ሆነ።",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "ቀና ሆነም"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃሉ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "በአብስሎም ዓይን በ"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "በአብስሎም"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "በ... ዓይንም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ሽማግሌዎች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T06:03:58.871775300Z",
+  "model": "glm-5.3"
+}

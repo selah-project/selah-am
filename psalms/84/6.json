@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 84,
+  "translation": "እንዴት ብፁዕ ነው ኃይሉ በአንተ ያለው ሰው — በልባቸውም መንገዶች አሉ።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "እንዴት ብፁዕ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "ኃይሉ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "መንገዶች"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "በልባቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:37.588576408Z",
+  "model": "glm-5.3"
+}

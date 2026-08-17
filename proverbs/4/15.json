@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ውገርበት፤ አትሻገርበትም፤ ወደ አንድ ጎን ተወዘው፤ እለፍ።",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "ውገርበት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ሻገርበትም"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "ወደ አንድ ጎን ተወዘው"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ከእርሱ"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "እለፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:21:24.816675922Z",
+  "model": "glm-5.3"
+}

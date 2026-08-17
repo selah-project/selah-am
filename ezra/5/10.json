@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 5:10",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የእነርሱንም ስም ጠየቅን፣ እርሱን ለማሳወቅህ፣ የሰዎቹም ስም በራሳቸው ራስ ላይ ያሉት እንዲሆን ተጽፎ ነበር።",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "ደግሞም"
+    },
+    {
+      "surface": "שמהתהם",
+      "gloss": "የእነርሱን ስም"
+    },
+    {
+      "surface": "שאלנא",
+      "gloss": "ጠየቅን"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ከእነርሱ"
+    },
+    {
+      "surface": "להודעותך",
+      "gloss": "ለማሳወቅህ"
+    },
+    {
+      "surface": "די",
+      "gloss": "እንዲሆን"
+    },
+    {
+      "surface": "נכתב",
+      "gloss": "ተጽፎ ነበር"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "የሰዎቹ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ያሉት"
+    },
+    {
+      "surface": "בראשיהם",
+      "gloss": "በራሳቸው ራስ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:40:13.377897631Z",
+  "model": "glm-5.3"
+}

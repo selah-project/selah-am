@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "1-samuel 23:18",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ሁለቱም በያህዌህ ፊት ቃል ኪዳን ቈረጡ፤ ዳዊትም በኽርሻ ቆየ፤ ዮናታንም ወደ ቤቱ ሄደ።",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "ቈረጡ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ሁለቱም"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ቃል ኪዳን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ…ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ቆየ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "በኽርሻ"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ዮናታንም"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ወደ ቤቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:47:13.844012936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ኤሎሂምም ለአብራሃም እንዲህ አለው፤ አንተም ⟨את⟩ ቃል ኪዳኔን ትጠብቃለህ፤ አንተ እና ዘርህ ከአንተ በኋላ ለትውልዳቸው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለውም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብራሃም"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "አንተም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃል ኪዳኔን"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ቃል ኪዳቴ"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ትጠብቃለህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "እና ዘርህ"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ከአንተ በኋላ"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ለትውልዳቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:37:21.005274177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 20:3",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እኔም ፊቴን በዚያ ሰው ላይ አኖራለሁ፣ እናም ከሕዝቡ መካከል ⟨את⟩ እቆርጠዋለሁ፤ ዘሩን ለሞሌክ ስለ ሰጠ፣ ቅዱሳኔን ⟨את⟩ ለማርከስና የቅድሳቴን ስም ⟨את⟩ ለማስደበዝ ነው።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔም"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "አኖራለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊቴን"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊቴን"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "በሰው"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "እቆርጠዋለሁ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ እቆርጠዋለሁ",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ከመካከል"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "ዘሩን"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ለሞሌክ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ለማርከስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅዱሳኔን"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "ቅዱሳኔን"
+    },
+    {
+      "surface": "ולחלל",
+      "gloss": "እና ለማስደበዝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "የቅድሳቴን"
+    }
+  ],
+  "timestamp": "2026-08-16T14:50:07.937812782Z",
+  "model": "glm-5.3"
+}

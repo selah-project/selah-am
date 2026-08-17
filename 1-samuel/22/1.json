@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-samuel 22:1",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ዳዊትም ከዚያ ሄደ፤ ወደ ዓዱላም ዋሻም ሸሸ እናቶቹም እና ቤተ አባቱ ሁሉ ሰሙ፤ ወደ እርሱም ወደ እዚያ ወረዱ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ከዚያ"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ሸሸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "ዋሻም"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "ዓዱላም"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ሰሙ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "እናቶቹም"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤተ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "ወረዱ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱም"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ወደ እዚያ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:47:58.753117789Z",
+  "model": "glm-5.3"
+}

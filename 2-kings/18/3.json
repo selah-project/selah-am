@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "2-kings 18:3",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "እርሱም በያህዌህ ዓይኖች ትክክለኛውን ነገር አደረገ፤ አባቱ ዳዊት እንዳደረገው ሁሉ እንደ ሁሉም ነገር አደረገ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገም"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ትክክለኛውን ነገር"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "በ…ዓይኖች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "እንደ ሁሉም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ያደረገው"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:51:28.610549930Z",
+  "model": "glm-5.3"
+}

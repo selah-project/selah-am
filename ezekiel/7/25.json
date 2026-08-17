@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "መፈራራት መጥቷል፤ ሰላምን ይፈልጋሉ ነገር ግን የለም።",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "መፈራራት"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጥቷል"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "ይፈልጋሉ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላምን"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ነገር ግን የለም"
+    }
+  ],
+  "timestamp": "2026-08-16T08:18:07.008479069Z",
+  "model": "glm-5.3"
+}

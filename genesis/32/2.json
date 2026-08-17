@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ያዕቆብም ⟨ለ⟩መንገዱ ሄደ፤ የኤሎሂም መልአኮችም በእርሱ ተገኙት።",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "ያዕቆብም"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "ወደ መንገዱ"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "ተገኙት"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "መልአኮችም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "የኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:50:34.340287644Z",
+  "model": "glm-5.3"
+}

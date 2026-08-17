@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 112,
+  "translation": "ከክፉ ወሬ አይፈራም፤ ልቡ ተስተካክሏል፣ በያህዌህ ታምኖ ነው።",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "ከወሬ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ይፈራም"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ተስተካክሏል"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ታምኖ ነው"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "በያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:38.619924961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 47,
+  "ref": "psalms 18:47",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ያህዌህ ሕያው ⟨ነው⟩፤ የአለቤኝ አለት የተባረከ ይሁን፤ የማዳኔ ኤሎሂም ይመርቅ።",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "የተባረከ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "የአለቤኝ አለት"
+    },
+    {
+      "surface": "וירום",
+      "gloss": "ይመርቅ"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "የ… ኤሎሂም"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ማዳኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:56.915104102Z",
+  "model": "glm-5.3"
+}

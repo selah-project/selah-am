@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ሳኦልም ከያህዌህ ጠየቀ፤ ያህዌህም አልመለሰለትም — በሕልሞችም ሆነ፣ በኡሪምም ሆነ፣ በነቢያትም አልመለሰለትም።",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ጠየቀ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦልም"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ከያህዌህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "መለሰለት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ሆነ...ም"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "በሕልሞች"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ሆነ...ም"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "በኡሪም"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ሆነ...ም"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "በነቢያት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:51:14.695196114Z",
+  "model": "glm-5.3"
+}

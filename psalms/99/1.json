@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 99,
+  "translation": "ያህዌህ እንደ ንጉሥ ነገሠ፤ ሕዝቦች ይንቀጠቀጡ፤ ክሩቤሎችን ተቀምጦ ላለው ⟨ርሱ⟩ ምድር ትንቀጠቀጥ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "ይንቀጠቀጡ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ተቀምጦ"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "ክሩቤሎችን"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "ትንቀጠቀጥ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:01.474187002Z",
+  "model": "glm-5.3"
+}

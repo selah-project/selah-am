@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "የመሥዋዔን ደም ከቦኮ ላይ አታቀርብ፤ የበዓሌ ስብም እስከ ጠዋት ድረስ አይቀርም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አታቀርብ"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "አታሥዋው"
+    },
+    {
+      "surface": "על",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ቦኮ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "የመሥዋዔን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይቀርም"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ያልፋል\/ይቀራል"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ስብ"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "የበዓሌ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ጠዋት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:21:39.710073368Z",
+  "model": "glm-5.3"
+}

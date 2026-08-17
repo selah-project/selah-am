@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "አኪማዕስም ⟨את⟩ ዕዝርያን ወለደ፤ ዕዝርያምም ⟨את⟩ ዮኃናንን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "አኪማዕስም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዕዝርያ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ዕዝርያ"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "ዕዝርያምም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮኃናን"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "ዮኃናን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:37:19.109684826Z",
+  "model": "glm-5.3"
+}

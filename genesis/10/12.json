@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እና ⟨את⟩ ሬሰንን በነነዌ እና በከላሕ መካከል — እርሷ ታላቂቱ ከተማ ናት።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሬሰንን"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "ሬሰን"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በ... መካከል"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ነነዌ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እና በ... መካከል"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "ከላሕ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሷ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋ"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ታላቂቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:35.267554888Z",
+  "model": "glm-5.3"
+}

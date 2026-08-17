@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "job 2:2",
+  "book": "job",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ያህዌህም ለሰይጣን እንዲህ አለው፦ ከየት ትመጣለህ? ሰይጣንም ⟨את⟩ ያህዌህን በመመለስ እንዲህ አለ፦ በምድር ላይ ከመንቀሳቀስ እና በእርሷም ውስጥ ከመሄድ ነው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ…"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ሰይጣን"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ከየት?"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ከ…"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ትመጣለህ"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "በመመለስ"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ሰይጣን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "משט",
+      "gloss": "ከመንቀሳቀስ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "እና ከመሄድ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሷ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:40:40.585369093Z",
+  "model": "glm-5.3"
+}

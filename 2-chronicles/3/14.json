@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "2-chronicles 3:14",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ሥርዓተ መጋረጃውንም ⟨את⟩ በሰማያዊ፣ በቀይ ሐምራዊ፣ በቀይ ቀሚስ እና በስትራስት አደረገ፤ በላዩም ላይ ክሩቤሞችን አወጣ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሥርዓተ መጋረጃውን"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "መጋረጃውን"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "በሰማያዊ"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "በቀይ ሐምራዊ"
+    },
+    {
+      "surface": "וכרמיל",
+      "gloss": "በቀይ ቀሚስ"
+    },
+    {
+      "surface": "ובוץ",
+      "gloss": "እና በስትራስት"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "አወጣ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በላዩም ላይ"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "ክሩቤሞችን"
+    }
+  ],
+  "timestamp": "2026-08-16T13:33:07.812281505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ብረት በብረት ይሠራል፣ እንዲሁም ሰው የጓደኛውን ፊት ያሠራል።",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "ብረት"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "በብረት"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ይሠራል"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "እንዲሁም ሰው"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ያሠራል"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊትን"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "የጓደኛው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:36:47.476693040Z",
+  "model": "glm-5.3"
+}

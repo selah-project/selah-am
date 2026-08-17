@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "እነሆ የያህዌህ ዓይን ለሚፈሩት፣ ለሚጠብቁለት ለምሕረቱ ናት፤",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ዓይን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለሚፈሩት"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ለሚፈሩት"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "ለሚጠብቁለት"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "ለምሕረቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:18.983435719Z",
+  "model": "glm-5.3"
+}

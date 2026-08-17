@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.3",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "የጋድ ልጆችም ⟨את⟩ ዲቦንን እና ⟨את⟩ ዓታሮትን እና ⟨את⟩ ዓሮዐርን ሠሩ።",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "ሠሩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዲቦን"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "ዲቦን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዓታሮት"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ዓታሮት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዓሮዐር"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "ዓሮዐር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:28:56.017166972Z",
+  "model": "glm-5.3"
+}

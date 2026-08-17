@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "2-chronicles 11:15",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እርሱም ለራሱ ለከፍታ መስገጃዎች፣ ለአውሬ ፍየሎች እና ለበግ ተምሳሌቶች ካህናትን ሾመ፤ እነዚህም የሠራቸው ናቸው።",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ሾመ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለራሱ"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ካህናትን"
+    },
+    {
+      "surface": "לבמות",
+      "gloss": "ለከፍታ መስገጃዎች"
+    },
+    {
+      "surface": "ולשעירים",
+      "gloss": "ለአውሬ ፍየሎች"
+    },
+    {
+      "surface": "ולעגלים",
+      "gloss": "እና ለበግ ተምሳሌቶች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሠራቸው"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ሠራ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:43:07.825278770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ከሽማግሌዎች በላይ እረዳለሁ፤ ምክንያቱም ታዛዦችህን ጠብቻለሁ።",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "ከሽማግሌዎች በላይ"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "እረዳለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ታዛዦችህን"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ጠብቻለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:11.360353382Z",
+  "model": "glm-5.3"
+}

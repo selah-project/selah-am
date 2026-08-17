@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "እና አንድ ሰው ጻድቅ ከሆነ እና ፍርድን እና ጽድቅን አደረገ፤",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "እና ሰው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ኾነ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቅ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "እና አደረገ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድን"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "እና ጽድቅን"
+    }
+  ],
+  "timestamp": "2026-08-16T08:27:28.263968155Z",
+  "model": "glm-5.3"
+}

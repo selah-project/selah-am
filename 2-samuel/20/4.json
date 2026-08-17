@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ንጉሡም ለዓምሳ አለው፤ «ለእኔ ⟨את⟩ የይሁዳ ሰዎች ሦስት ቀናት ጮክ ብለህ ግባ፤ አንተም እዚህ ቁም።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለውም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "ዓምሳ"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "ጮክ ብለህ ግባ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የይሁዳ ሰዎች"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "የይሁዳ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "አንተም"
+    },
+    {
+      "surface": "פה",
+      "gloss": "እዚህ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ቁም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:09:08.969957079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ወደ ልጆቹም እንዲህ አለ፤ «ለእኔ ⟨את⟩ አንበሳዬን አስገቡ፤» እነሱም አስገቡት።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "አለ፤"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ልጆቹም"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "አስገቡ፤"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አንበሳዬን"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "አንበሳዬን"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "አስገቡት።"
+    }
+  ],
+  "timestamp": "2026-08-16T06:25:27.779700453Z",
+  "model": "glm-5.3"
+}

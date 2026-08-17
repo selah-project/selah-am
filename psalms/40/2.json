@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ተስፋ አድርጌ ጠበቅሁ ያህዌህን፣ እርሱም ወደ እኔ አዘነበለ፣ የጩኸቴንም ቃል ሰማ።",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "ተስፋ አድርጌ"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ጠበቅሁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "አዘነበለም"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "የጩኸቴን ቃል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:34.258535778Z",
+  "model": "glm-5.3"
+}

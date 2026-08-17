@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 66,
+  "translation": "ኑ ተመልከቱ የኤሎሂምን ሥራዎች፤ በሰው ልጆች ላይ የሚያስፈራ በሥራው ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ኑ"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ተመልከቱ"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "ሥራዎች"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "የሚያስፈራ"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "በሥራው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:00.318325302Z",
+  "model": "glm-5.3"
+}

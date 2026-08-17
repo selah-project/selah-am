@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "በዚያም ጊዜ ⟨את⟩ ምድሩን ከሁለቱ የአሞራውያን ነገሥታት እጅ ወሰድን፣ ከዮርዳኖስ ማዶ ካሉት፣ ከአርኖን ወንዝ እስከ ሐረሞን ተራራ ድረስ።",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "ወሰድን"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "በዚያ ጊዜ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሩን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩን"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለቱ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "የነገሥታት"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "አሞራውያን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ካሉት"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "በማዶ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "ከወንዝ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "አርኖን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ሐረሞን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:33:33.300406656Z",
+  "model": "glm-5.3"
+}

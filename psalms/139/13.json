@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 139,
+  "translation": "ምክንያቱም አንተ ኵላቤዬን ፈጠርህ፤ በእናቴ ሆድ ውስጥ ሸፈንኸኝ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "ፈጠርህ"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ኵላቤዬን"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "ሸፈንኸኝ"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "በሆድ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "የእናቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:37.856224152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "ezekiel 13:21",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ሽንፍራችሁን ⟨את⟩ እቀፈራለሁ፣ ሕዝቤንም ⟨את⟩ ከእጃችሁ እከልስላችኋለሁ፤ ለድነት በእጃችሁ ደግሞ አይኖሩም፤ ያህዌህ እኔ እንደሆንኩ ታውቃላችሁ።",
+  "tokens": [
+    {
+      "surface": "וקרעתי",
+      "gloss": "እቀፈራለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሽንፍራችሁን"
+    },
+    {
+      "surface": "מספחתיכם",
+      "gloss": "ሽንፍራችሁን"
+    },
+    {
+      "surface": "והצלתי",
+      "gloss": "እከልስላችኋለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቤን"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤን"
+    },
+    {
+      "surface": "מידכן",
+      "gloss": "ከእጃችሁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ይኖሩ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "בידכן",
+      "gloss": "በእጃችሁ"
+    },
+    {
+      "surface": "למצודה",
+      "gloss": "ለድነት"
+    },
+    {
+      "surface": "וידעתן",
+      "gloss": "ታውቃላችሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:22:56.772335282Z",
+  "model": "glm-5.3"
+}

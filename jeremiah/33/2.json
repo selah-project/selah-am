@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "እንዲህ አለ ያህዌህ በራሱ ፈጣሪው ያህዌህ እሷን ⟨את⟩ የሠራች፣ ለማዘጋጀት የፈጠራት ያህዌህ — ስሙ ያህዌህ ነው።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ፈጣሪው\/የሠራች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "የፈጠራት"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "እሷን (ኢየሩሳሌምን)"
+    },
+    {
+      "surface": "להכינה",
+      "gloss": "ለማዘጋጀት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:02:14.912446103Z",
+  "model": "glm-5.3"
+}

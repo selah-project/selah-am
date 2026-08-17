@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 104,
+  "translation": "ከትገሥጻህ ይሸሻሉ፤ ከነጎድግህ ድምፅ ይፈጥነው ይሮጣሉ።",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "ከትገሥጻህ"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "ይሸሻሉ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "ከነጎድጓትህ"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "ይፈጥነው ይሮጣሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:57.541859768Z",
+  "model": "glm-5.3"
+}

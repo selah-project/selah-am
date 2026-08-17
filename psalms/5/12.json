@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 5:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "በአንተ የሚጠሉ ሁሉ ደስ ይስታል፤ ለዘላለም ያመሰግናሉ፤ በእነርሱ ላይ ትሸፍናለህ፤ ስምህን የሚወዱትም በአንተ ይደሰታሉ።",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "ደስ ይስታል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "የሚጠሉ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ያመሰግናሉ"
+    },
+    {
+      "surface": "ותסך",
+      "gloss": "ትሸፍናለህ"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "በእነርሱ ላይ"
+    },
+    {
+      "surface": "ויעלצו",
+      "gloss": "ይደሰታሉ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "የሚወዱት"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:27:40.227553600Z",
+  "model": "glm-5.3"
+}

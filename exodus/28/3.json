@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "exodus 28:3",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "አንተም ለልብ ጥበብ ያላቸውን ሁሉ፣ በጥበብ መንፈስ የሞላሁኋቸውን፣ ታወራለህ፤ ⟨הם⟩ም የአሃሮንን ልብሶች ⟨את⟩ ለማቀደሱ፣ ለእኔ ካህን እንዲሆን ይሠራሉ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተም"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ታወራለህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "חכמי",
+      "gloss": "ጥበብ ያላቸው"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "מלאתיו",
+      "gloss": "የሞላሁኋቸውን"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ይሠራሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልብሶችን"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ልብሶችን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ለማቀደሱ"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "ካህን እንዲሆን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:26:43.836420646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ከሰላም መሥዋዔታችሁ ⟨את⟩ የቀኝ እግሩን ለካህኑ እንደ አነሻ ቍርባን ትሰጣላችሁ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የቀኝ እግሩን"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "እግር"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "የቀኝ"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ትሰጣላችሁ"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "አነሻ ቍርባን"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ለካህኑ"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "ከመሥዋዔች"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "የሰላም የናንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:45:32.057036936Z",
+  "model": "glm-5.3"
+}

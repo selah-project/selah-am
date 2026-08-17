@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "ደመናዎችን ከላይ አዘዘ፤ የሰማይ አውሮችንም ከፈተ።",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ደመናዎችን"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ከላይ"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "አውሮችንም"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "የሰማይ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ከፈተ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:53.754246524Z",
+  "model": "glm-5.3"
+}

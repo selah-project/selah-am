@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "እስራኤል ልጆችም ከሖረብ ተራራ ጀምሮ ⟨את⟩ አምባሪያቸውን አንቀለሉ።",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "አንቀለሉም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አምባሪያቸውን"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "አምባሪያቸውን"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ከተራራ"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "ሖረብ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:32:22.376144966Z",
+  "model": "glm-5.3"
+}

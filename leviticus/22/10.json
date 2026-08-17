@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እና ሁሉ አህጋይ ቅዱስ ነገር አይበላም፤ የካህን መቅደስ-አጋር እና ተቀጣሪ ቅዱስ ነገር አይበላሉም።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "አህጋይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበላ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ ነገር"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "መቅደስ-አጋር"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "የካህን"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "እና ተቀጣሪ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበላ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ ነገር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:57:27.319071948Z",
+  "model": "glm-5.3"
+}

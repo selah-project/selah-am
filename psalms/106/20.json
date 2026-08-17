@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "ክብራቸውን ⟨את⟩ ሣር የሚበላ በሬ ቅርጽ አድርገው ልውውጡት።",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "ልውውጡት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክብራቸውን"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ክብራቸውን"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "ቅርጽ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "በሬ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "የሚበላ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ሣር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:28.646211749Z",
+  "model": "glm-5.3"
+}

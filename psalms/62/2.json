@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 62,
+  "translation": "በኤሎሂም ብቻ ነፍሴ ዝም ትላለች፤ ማዳንያዬ ከእርሱ ነው።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤሎሂም ወደ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ዝም ትላለች"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእርሱ"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ማዳንያዬ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:58.561711456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 29,
+  "ref": "exodus 10:29",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ሞሼም እንደዚህ አለ፦ ትክክል ተናግረሃል፤ ፊትህን እንደገና ማየት አልቀጥልም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንደዚህ አለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ትክክል"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ተናግረሃል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ቀጥልም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "እንደገና"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "ማየት"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:10:00.076214546Z",
+  "model": "glm-5.3"
+}

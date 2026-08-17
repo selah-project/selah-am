@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ሞሼም ያንን ዝማሬ በዚያ ቀን ጻፈ፣ እና የእስራኤልን ልጆች ⟨את⟩ አስተማራት።",
+  "tokens": [
+    {
+      "surface": "וַיִּכְתֹּ֥ב",
+      "gloss": "ጻፈ"
+    },
+    {
+      "surface": "מֹשֶׁ֛ה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ያንን ዝማሬ"
+    },
+    {
+      "surface": "הַשִּׁירָ֥ה",
+      "gloss": "ዝማሬዋን"
+    },
+    {
+      "surface": "הַזֹּ֖את",
+      "gloss": "ያንን"
+    },
+    {
+      "surface": "בַּיּ֣וֹם",
+      "gloss": "በዚያ ቀን"
+    },
+    {
+      "surface": "הַה֑וּא",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "וַֽיְלַמְּדָ֖הּ",
+      "gloss": "አስተማራት"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "የእስራኤልን ልጆች"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T19:25:11.157843505Z",
+  "model": "glm-5.3"
+}

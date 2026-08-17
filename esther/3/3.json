@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የንጉሡ አገልጋዮች በንጉሡ በር ያሉ ለሞርደቃይ «ለምን አንተ የንጉሡን ትእዛዝ ⟨את⟩ እየተላለፍክ ነው?» አሉት።",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "አሉት"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "አገልጋዮች የ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያሉ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "በበር"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "ለሞርደቃይ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "እየተላለፍክ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዙን"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:32:52.389856544Z",
+  "model": "glm-5.3"
+}

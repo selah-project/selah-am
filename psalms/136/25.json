@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 136,
+  "translation": "ለሁሉም ሥጋ ምግብን የሚሰጥ ነው፤ በዘለቂው ለዘለቄታው ደግነቱ አለው።",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "የሚሰጥ ነው"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ምግብን"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በዘለቂው"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘለቄታው"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ደግነቱ አለው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:36.541155916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "በላቅ የጾር ልጅም ⟨את⟩ እስራኤል ለአሞራውያን ያደረገውን ሁሉ አየ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "አየ፣"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "በላቅ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅም"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ጾር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያደረገውን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ያደረገውን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ለአሞራውያን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:22:00.147184022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "የይሁዳ ንጉሥ ይሆሳፋጥ ወደ ቤቱ በሰላም ወደ የሩሳሌም ተመለሰ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "ይሆሳፋጥ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "የይሁዳ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "በሰላም"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ወደ የሩሳሌም"
+    }
+  ],
+  "timestamp": "2026-08-16T13:56:44.861614076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "1-kings 14:18",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "እነሱም ⟨אתו⟩ ቀበሩት፤ አንድም እስራኤል ለእርሱ አለቀሱ፤ በያህዌህ ቃል እንደሆነ፣ በአገልጋዩ በአህይያሁ ነቢይ እጅ የተናገረው።",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "ቀበሩት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "አለቀሱ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "አንድም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "በቃል እንደሆነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "የተናገረው"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጅ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "በአገልጋዩ"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "በአህይያሁ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነቢይ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:28:13.749885686Z",
+  "model": "glm-5.3"
+}

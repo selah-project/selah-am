@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ፍርድና ጽድቅን አድርጌያለሁ፤ ለገዳዮቼ አታሳርኝ።",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "አድርጌያለሁ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድ"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "እና ጽድቅን"
+    },
+    {
+      "surface": "בל",
+      "gloss": "አታሳርኝ (አይደለም ብሎ)"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "ታሳራለህ"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "ለገዳዮቼ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:58.152242216Z",
+  "model": "glm-5.3"
+}

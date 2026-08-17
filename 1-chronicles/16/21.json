@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "1-chronicles 16:21",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ማንም ሰው እነሱን እንዳይገፋቸው አልፈቀደም፤ ስለ እነሱ ነገሥታትን ወቀሳ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "ፈቀደ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ማንም ሰው"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "እነሱን እንዳይገፋቸው"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "ወቀሳ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ስለ እነሱ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ነገሥታትን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:53:29.085501506Z",
+  "model": "glm-5.3"
+}

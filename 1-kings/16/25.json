@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 16:25",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "እና አምሪ በያህዌህ ፊት ⟨את⟩ ክፉን አደረገ፤ እና ከፊቱ ከነበሩት ሁሉ በከፋ ሁኔታ አደረገ።",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "እና አደረገ"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "አምሪ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ክፉን"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "እና በከፋ ሁኔታ አደረገ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የነበሩት"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ከፊቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:30:22.275068442Z",
+  "model": "glm-5.3"
+}

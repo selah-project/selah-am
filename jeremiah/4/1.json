@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 4:1",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እው ብትመለስ እስራኤል፣ የያህዌህ ቃል ነው፦ ወደ እኔ ተመለስ፤ እና እው ጥምዝማዝህን ከፊቴ ብትወገድ፣ አትናወጥም።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እው"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ብትመለስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "የ…ቃል ነው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ተመለስ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "እና እው"
+    },
+    {
+      "surface": "תסיר",
+      "gloss": "ብትወገድ"
+    },
+    {
+      "surface": "שקוציך",
+      "gloss": "ጥምዝማዝህን"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከፊቴ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תנוד",
+      "gloss": "ትናወጥም"
+    }
+  ],
+  "timestamp": "2026-08-16T17:06:24.981085871Z",
+  "model": "glm-5.3"
+}

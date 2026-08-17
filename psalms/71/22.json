@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "psalms 71:22",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 71,
+  "translation": "እኔም አመሰግንሃለሁ በነበል በአንስት፣ በእውነትህ ኤሎሂም ሆይ፤ እዘምርልሃለሁ በቀኖር፣ የእስራኤል ቅዱስ ሆይ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እኔም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "አመሰግንሃለሁ"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "በ...በአንስት"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ነበል"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "በእውነትህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም ሆይ"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "እዘምርልሃለሁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ልሃለሁ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "በቀኖር"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ ሆይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:31.555346573Z",
+  "model": "glm-5.3"
+}

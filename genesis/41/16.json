@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "ዮሴፍም ፈርዖንን ⟨את⟩ መልሶ እንዲህ አለ፦ ያለ እኔ ኤሎሂም የፈርዖንን ሰላም ⟨את⟩ ይመልሳል።",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መልሶ አለ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፈርዖንን"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖንን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "ያለ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ይመልሳል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰላሙን"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "የፈርዖንን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:58:06.365601917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "proverbs 1:12",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እንዥላቸው እንደ ሲኦል ሕያዋን ሆነው፣ እንዲሁም በሙሉ እንደ ወደ ጉድጓድ ወርዶች።",
+  "tokens": [
+    {
+      "surface": "נבלעם",
+      "gloss": "እንዥላቸው"
+    },
+    {
+      "surface": "כשאול",
+      "gloss": "እንደ ሲኦል"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ሕያዋን ሆነው"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "እንዲሁም በሙሉ"
+    },
+    {
+      "surface": "כיורדי",
+      "gloss": "እንደ ... ወርዶች"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ጉድጓድ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:26.953225757Z",
+  "model": "glm-5.3"
+}

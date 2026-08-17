@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 10:6",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ልክ እንደ አንተ የለም ያህዌህ፤ ታላቅ አንተ ⟨ነህ⟩፣ እና ታላቅ ስምህ በኃይል ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "ልክ እንደ አንተ የለም"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "እንደ አንተ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "እና ታላቅ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህ"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "በኃይል"
+    }
+  ],
+  "timestamp": "2026-08-16T17:11:48.481923714Z",
+  "model": "glm-5.3"
+}

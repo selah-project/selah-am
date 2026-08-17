@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ከዚያ በኋላ ⟨את⟩ ሲኾንን የአሞራውያንን ንጉሥ በከስቦን የሚኖር እና ⟨את⟩ ዔግን የባሻንን ንጉሥ በዐሥታሮት በእድረዕ የሚኖር ካሸነፈ በኋላ።",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "ከዚያ በኋላ"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "ካሸነፈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሲኾንን"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "ሲኾንን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "የአሞራውያንን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚኖር"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "የሚኖር"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "በከስቦን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዔግን"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ዔግን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "የባሻንን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚኖር"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "የሚኖር"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "በዐሥታሮት"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "በእድረዕ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:19:31.690593056Z",
+  "model": "glm-5.3"
+}

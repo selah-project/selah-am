@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 145,
+  "translation": "ጻድቅ ⟨ነው⟩ ያህዌህ በሁሉም መንገዶቹ፣ እና ምሕረተኛ ⟨ነው⟩ በሁሉም ሥራዎቹ።",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉም"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "መንገዶቹ"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "እና ምሕረተኛ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉም"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ሥራዎቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:12:36.146650973Z",
+  "model": "glm-5.3"
+}

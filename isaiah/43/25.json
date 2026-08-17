@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "እኔ፣ እኔ ራሴ ነኝ፣ አመጽህን ለራሴ ስም የሚሰርዝ እኔ ነኝ፤ ኃጢያትህንም አላስታውስም።",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ ራሴ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ ነው"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "የሚሰርዝ"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "አመጽህን"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "ለራሴ ስም"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "ኃጢያትህንም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "አላስታውስም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:21:44.561200773Z",
+  "model": "glm-5.3"
+}

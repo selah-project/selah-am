@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "2-samuel 11:20",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "የንጉሡ ቁጭት ብትወጣና እንዲህ ብሎ ቢልህ — ለምን ወደ ከተማዋ ቀርባችሁ ታጣቡ? እነርሱ ከቅጥሩ በላይ የሚወርዩትን ባታውቁም እንዴት ነው የምታውቁት?",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ይሆናል እንደ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "ብትወጣ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ቁጭት የንጉሡ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ብሎ ቢልህ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "አንተን"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "נגשתם",
+      "gloss": "ቀርባችሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋ"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ታጣቡ ዘንድ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "እንዴት ነው የምታውቁት የማታውቁም።",
+      "rationale": "Hebrew הלוא is a rhetorical negative interrogative; rendered as emphatic question."
+    }
+  ],
+  "timestamp": "2026-08-16T06:00:10.277805996Z",
+  "model": "glm-5.3"
+}

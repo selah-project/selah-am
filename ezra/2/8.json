@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የዛቱ ልጆች ዘጠኝ መቶ አርባ እና አምስት።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "የዛቱ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ዘጠኝ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "አርባ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "እና አምስት"
+    }
+  ],
+  "timestamp": "2026-08-16T18:31:27.976439685Z",
+  "model": "glm-5.3"
+}

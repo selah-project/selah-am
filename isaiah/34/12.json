@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "መንግሥት እንግዶቿን ይጠራሉ፣ ነገር ግን እዚያ የሚጠራ የለም፤ ሹማምተኞቿም ሁሉ አንድም ይሆናሉ።",
+  "tokens": [
+    {
+      "surface": "חריה",
+      "gloss": "እንግዶቿ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ነገር ግን የለም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "መንግሥት"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ይጠራሉ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "ሹማምተኞቿ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ይሆናሉ"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "አንድም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:16:21.226560039Z",
+  "model": "glm-5.3"
+}

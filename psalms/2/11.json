@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ያህዌህን ⟨את⟩ በፍርህታ ያገለግሉ፤ እና በመንቀጥቀጥ ደስ ይበላችሁ።",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "ያገለግሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "በፍርህታ"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "እና ደስ ይበላችሁ"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "በመንቀጥቀጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:27:28.785207997Z",
+  "model": "glm-5.3"
+}

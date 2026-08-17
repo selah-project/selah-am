@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "አመጣቂዎችን መንገዶችህን አስተምራለሁ፤ ኃጢአተኞችም ወደ አንተ ይመለሳሉ።",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "አስተምራለሁ"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "አመጣቂዎችን"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "መንገዶችህን"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ኃጢአተኞችም"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ይመለሳሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:45:51.062250607Z",
+  "model": "glm-5.3"
+}

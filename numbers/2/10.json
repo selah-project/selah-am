@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "numbers 2:10",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የረኡቤን ሰፈር ባንዲራ ደቡብ በኩል በሰራዊታቸው ይሆናል፤ የረኡቤን ልጆች አለቃ ግን ኤልይጹር የሼዴኦር ልጅ ነው።",
+  "tokens": [
+    {
+      "surface": "דגל",
+      "gloss": "ባንዲራ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ሰፈር"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ረኡቤን"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ደቡብ በኩል"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "በሰራዊታቸው"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ረኡቤን"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "ኤልይጹር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "ሼዴኦር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:05:05.745271615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እነርሱ ወደቁ፣ ወደቁ አልፈዋል፤ እኛ ግን ተነሥተን ቆም እንላለን።",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "እነርሱ"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "ወደቁ"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ወደቁ አልፈዋል"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "እኛ ግን"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "ተነሥተን"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "ቆም እንላለን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:34.111829206Z",
+  "model": "glm-5.3"
+}

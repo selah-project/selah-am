@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 136,
+  "translation": "ከጠላቶቻችንም አዳነን፤ ምክንያቱም ለዘለቄታው የርሱ ችሮታ ነው።",
+  "tokens": [
+    {
+      "surface": "ויפרקנו",
+      "gloss": "አዳነንም"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "ከጠላቶቻችን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘለቄታው"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "የርሱ ችሮታ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:38.870178522Z",
+  "model": "glm-5.3"
+}

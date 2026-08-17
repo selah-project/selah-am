@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ኤሎሂምም ብርሃኑን ቀን ብሎ ጠራው፤ ጨለማውንም ሌሊት ብሎ ጠራው፤ ምሽትም ሆነ፤ ጠዋትም ሆነ፤ አንድ ቀን።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ብርሃኑን"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "ጨለማውንም"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ሌሊት"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነም"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ምሽት"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነም"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ጠዋት"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:28:30.700967828Z",
+  "model": "glm-5.3"
+}

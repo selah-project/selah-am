@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ለዳዊት። ያህዌህ ብርሃኔ እና መድኄዬ ነው፤ ከማን እፈራለሁ? ያህዌህ በሕይወቴ መታመቂያ ነው፤ ከማን እፈራለሁ?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ብርሃኔ"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "እና መድኄዬ"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "ከማን"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "እፈራለሁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "መታመቂያ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "በሕይወቴ"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "ከማን"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "እፈራለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:37:00.302620943Z",
+  "model": "glm-5.3"
+}

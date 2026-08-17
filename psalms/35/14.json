@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "እንደ ጓደኛ፣ እንደ ወንድም ሆኖ ለእኔ ተመላለስኩ፤ እንደ ሐዘን፣ ለእናት እንደሚያዝን ሆኜ ራሴን አጐልብቼ አዝኘሁ።",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "እንደ ጓደኛ"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "እንደ ወንድም"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "ተመላለስኩ"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "እንደ ሐዘን"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ለእናት"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "አዝኘሁ"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "ራሴን አጐልብቼ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:46.990259658Z",
+  "model": "glm-5.3"
+}

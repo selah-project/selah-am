@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 102,
+  "translation": "በጢስ ቀኖቼ አልቀመጡም፤ አጥንቶቼም እንደ እሳት-እንጨት ተቃጥለዋል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ፡…ፈንታ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "አልቀመጡም"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "በጢስ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀኖቼ"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "አጥንቶቼም"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "קד",
+      "gloss": "እሳት-እንጨት"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "ተቃጥለዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:40.870185776Z",
+  "model": "glm-5.3"
+}

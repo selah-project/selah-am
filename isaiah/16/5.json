@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 16:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "በምሕረት ዙፋን ይታደላል፤ በዳዊት ድንኳን በእውነት በእርሱ ላይ ይቀመጣል፤ ይፈርዳል እና ፍርድን ይፈልጋል እና በጽድቅ ቶሎ ይሠራል።",
+  "tokens": [
+    {
+      "surface": "והוכן",
+      "gloss": "ይታደላል"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "በምሕረት"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ዙፋን"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ይቀመጣል"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "በድንኳን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ይፈርዳል"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "እና ይፈልጋል"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድን"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "እና ቶሎ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "በጽድቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:52:17.262158340Z",
+  "model": "glm-5.3"
+}

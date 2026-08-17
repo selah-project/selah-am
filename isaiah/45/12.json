@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "isaiah 45:12",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "እኔ ራሴ ምድርን አደረግሁ፣ እና ሰውን በእርሷ ላይ ፈጠርሁ፤ እኔ ራሴ፣ እጆቼ ሰማያትን አንሸራትቻለሁ፣ እና የሰማያትን ሠራዊት ሁሉ አዘዝሁ።",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ ራሴ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "አደረግሁ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "እና ሰውን"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "በእርሷ ላይ"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "ፈጠርሁ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ ራሴ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "እጆቼ"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "አንሸራትቻለሁ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያትን"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና … ሁሉ"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "የሰማያትን ሠራዊት"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "አዘዝሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:22:34.872959625Z",
+  "model": "glm-5.3"
+}

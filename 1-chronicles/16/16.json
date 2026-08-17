@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ከአብራሃም ጋር ⟨את⟩ የተቆረጠውን፣ እና ለይስሐቅ ያለውን እምነት።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "የተቆረጠውን"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ተቆረጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አብራሃም"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብራሃም"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "እና እምነቱ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ለይስሐቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:57:07.910502642Z",
+  "model": "glm-5.3"
+}

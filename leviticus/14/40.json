@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ካህኑምም ያዘዛል፤ በሽታው በእነርሱ ላይ ያለባቸውን ድንጋዮችም ⟨את⟩ ያወጣሉ፤ ወደ ከተማዋ ውጭ ወደ ርኩስ ስፍራም ⟨את⟩ ወርወርዋቸዋል።",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ያዘዛል፤"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑምም"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "ያወጣሉ፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድንጋዮችንም"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ድንጋዮችን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለባቸውን"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "በእነርሱ ላይ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "በሽታው"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "ወርወርዋቸዋል።"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ውጭ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ከተማዋ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ስፍራ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ርኩስ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:50:49.682318972Z",
+  "model": "glm-5.3"
+}

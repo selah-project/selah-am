@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 140,
+  "translation": "ያህዌህ አዶናይ፣ የመዳኔ ኃይል፣ በውጊያ ቀን ራሴን ሸፈንህ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ኃይል"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "የመዳኔ"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "ሸፈንህ"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "ራሴን"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "ውጊያ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:49.678481023Z",
+  "model": "glm-5.3"
+}

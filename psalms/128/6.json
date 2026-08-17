@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 128,
+  "translation": "የልጆችህን ልጆች ታይ፤ በእስራኤል ላይ ሰላም ይሁን።",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "እና ታይ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ልጆችን"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "የልጆችህን"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:19.466087070Z",
+  "model": "glm-5.3"
+}

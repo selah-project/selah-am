@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "genesis 39:16",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "ልብሱንም በእርሷ አጠገብ አኖረች፤ ጌታው ወደ ቤቱ እስኪመጣ ድረስ።",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "እናም አኖረች"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ልብሱን"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "በእርሷ አጠገብ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪ...ድረስ"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "መጣን"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ጌታው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:56:58.835489662Z",
+  "model": "glm-5.3"
+}

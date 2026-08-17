@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "አይደውም አላወቁምን ሁሉም የክፋት ሠሪዎች የሕዝቤን በልተዋል እንደ እንጀራ ስንበሉ እንደ ሆነ፤ ያህዌህን አልጠሩም።",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "አይደውም...ን"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "አወቁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ሠሪዎች"
+    },
+    {
+      "surface": "און",
+      "gloss": "ክፋት"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "በልተዋል (የሚበሉ)"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "የሕዝቤን"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እንጀራ (እንደ)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ጠሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:31.085162913Z",
+  "model": "glm-5.3"
+}

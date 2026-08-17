@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "jeremiah 5:8",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እንደ ተጠገቡ ፈረሶች ሆነዋል፤ ማለዳ ሲያዘዙ የባልደረቡን ሚስት እያንዳንዱ ሰው እንደ ፈረስ ያጮኻል።",
+  "tokens": [
+    {
+      "surface": "סוסים",
+      "gloss": "ፈረሶች"
+    },
+    {
+      "surface": "מיזנים",
+      "gloss": "ተጠገቡ"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "ማለዳ ሲያዘዙ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ሆነዋል"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሚስት"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "የባልደረቡ"
+    },
+    {
+      "surface": "יצהלו",
+      "gloss": "ያጮኻሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:38:44.871019570Z",
+  "model": "glm-5.3"
+}

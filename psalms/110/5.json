@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 110,
+  "translation": "አዶናይ በአንተ ቀኝ ነው፤ በቁጣው ቀን ነገሥታትን ያስቀጠቃል።",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ፣ ከ… ጋር"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ቀኝህ"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ያስቀጠቃል"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በ… ቀን"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ቁጣው"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ነገሥታትን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:28.354945065Z",
+  "model": "glm-5.3"
+}

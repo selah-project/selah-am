@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 60,
+  "translation": "ኤሎሂም በቅድስናው ተናገረ፤ እሰማራለሁ፣ ሽኬምን እከፋፍላለሁ፣ የሱኮትን ሸለቆም አስፈርሳለሁ።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "በቅድስናው"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "እሰማራለሁ"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "እከፋፍላለሁ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ሽኬምን"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "እና… ሸለቆ"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "ሱኮት"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "አስፈርሳለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:39.627604347Z",
+  "model": "glm-5.3"
+}

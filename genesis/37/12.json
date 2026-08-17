@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ወንድሞቹም ⟨את⟩ በጎችን ለመሥማት ወደ እስራኤል ልጆች ሄዱ፤ ወደ ሴኬም የአባታቸውን በጎች ሊሥሙ ሄዱ።",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ሄዱ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሞቹ"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "ለመሥማት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በጎችን"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "በጎችን"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "የአባታቸውን"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "በሴኬም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:53:51.106291923Z",
+  "model": "glm-5.3"
+}

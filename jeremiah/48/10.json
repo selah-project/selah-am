@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "jeremiah 48:10",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "የያህዌህን ሥራ በተንኮል የሚሠራ የተረገመ ነው፤ ሰይፉንም ከደም የሚከለክል የተረገመ ነው።",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "የተረገመ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "የሚሠራ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ሥራን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "በተንኮል"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "የተረገመም"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "የሚከለክል"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ሰይፉን"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ከደም"
+    }
+  ],
+  "timestamp": "2026-08-16T08:10:03.629652511Z",
+  "model": "glm-5.3"
+}

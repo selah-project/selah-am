@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "malachi 2:5",
+  "book": "malachi",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ብርዳቴ ከእርሱ ⟨את⟩ ጋር ሕይወትን እና ሰላምን የሆነች ነበረች፤ እነሱን ለእርሱ ስገር ሆኜ ሰጠሁት፤ እርሱም ፈራኝ፤ ከስሜ ፊት ደነደ።",
+  "tokens": [
+    {
+      "surface": "בריתי",
+      "gloss": "ብርዳቴ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነበረች"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ጋር",
+      "marks": "እርሱ (ሌዊ)"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ሕይወትን"
+    },
+    {
+      "surface": "והשלום",
+      "gloss": "እና ሰላምን"
+    },
+    {
+      "surface": "ואתנם",
+      "gloss": "እነሱን...ሰጠሁት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "מורא",
+      "gloss": "ስገር"
+    },
+    {
+      "surface": "וייראני",
+      "gloss": "እና ፈራኝ"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ከፊት"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ስሜ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ደነደ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:26:18.476773476Z",
+  "model": "glm-5.3"
+}

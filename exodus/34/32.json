@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ከዚህ በኋላም የእስራኤል ልጆች ሁሉ ቀረቡ፤ ያህዌህ በሲናይ ተራራ ከእርሱ ⟨אתו⟩ ጋር የተናገረውን ⟨את⟩ ሁሉ አዘዛቸው።",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "ከዚህ በኋላ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "ቀረቡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "አዘዛቸው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "የተናገረውን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "በተራራ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ሲናይ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:32:40.131130008Z",
+  "model": "glm-5.3"
+}

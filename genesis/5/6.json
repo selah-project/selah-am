@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ሴት አምስት ዓመት እና መቶ ዓመት ኖረ፤ እና ⟨את⟩ እኖሽን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ኖረ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "እና መቶ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እኖሽን"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "እኖሽ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:30:18.496693272Z",
+  "model": "glm-5.3"
+}

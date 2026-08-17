@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 31:2",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "እርሱም እንደሆነ ጥበበኛ ነው፣ መከራንም ያመጣል፤ ቃሎቹንም ⟨את⟩ አይመለስም፤ በክፉዎች ቤት ላይና በክፍካፋን ሠሪዎች እርዳታ ላይ ይነሳል።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "እንደሆነ…ም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ጥበበኛ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ያመጣል"
+    },
+    {
+      "surface": "רע",
+      "gloss": "መከራ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቃሎቹን"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ቃሎቹን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ይመለስ"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ይነሳል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ክፉዎች"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "በ…ም ላይ"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "እርዳታ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ሠሪዎች"
+    },
+    {
+      "surface": "און",
+      "gloss": "ክፍካፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:01:40.160161056Z",
+  "model": "glm-5.3"
+}

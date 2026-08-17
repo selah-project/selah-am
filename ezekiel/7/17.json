@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ሁሉም እጆች ይታክናሉ፣ እና ሁሉም ጉልበቶች እንደ ውሃ ያልፋሉ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "እጆች"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ይታክናሉ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉም"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "ጉልበቶች"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "ያልፋሉ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "እንደ ውሃ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:20:44.362474203Z",
+  "model": "glm-5.3"
+}

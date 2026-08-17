@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-kings 3:1",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ሰሎሞን በፈርዖን በግብፅ ንጉሥ ዘመድ ሆነ፤ የፈርዖንን ሴት ልጅ ወስዶ ወደ ዳዊት ከተማ አመጣት፤ የራሱን ቤት፣ ⟨את⟩ የያህዌህን ቤትና ⟨את⟩ የኢየሩሳሌምን ከበሮ በዙሪያው ሁሉ እስኪያሠራ ድረስ።",
+  "tokens": [
+    {
+      "surface": "ויתחתן",
+      "gloss": "ዘመድ ሆነ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፈርዖን"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፅ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወስዶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሴት ልጅ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ሴት ልጅ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "ויביאה",
+      "gloss": "አመጣት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪያሠራ ድረስ"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ማሠራቱ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ለመሥራት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "የራሱ ቤት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የያህዌህ ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የኢየሩሳሌም ከበሮ"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ከበሮ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ኢየሩሳሌም"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "በዙሪያው"
+    }
+  ],
+  "timestamp": "2026-08-16T06:15:58.384403002Z",
+  "model": "glm-5.3"
+}

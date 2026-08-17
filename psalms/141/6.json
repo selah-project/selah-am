@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 141,
+  "translation": "ዳኞቻቸው በዐለት እጆች ላይ ይወረወራሉ፤ ቃላቶቼንም ይሰማሉ፤ ምክንያቱም እነሱ የሚያረሱ ⟨ናቸው⟩።",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "ይወረወራሉ"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "በእጆች"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "ዐለት"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "ዳኞቻቸው"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "እና ይሰማሉ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ቃላቶቼን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "የሚያረሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:38.052237050Z",
+  "model": "glm-5.3"
+}

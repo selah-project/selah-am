@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "መንገዱን ለራስህ ታዘጋለህ፤ ያህዌህ ኤሎሂም አንተ ወራሽ የሚያደርግህ የምድርህን ድንበር ሦስት ትከፍላለህ፤ እንዲሆንም ⟨הוא⟩ ለመሸሸግ እዚያ የሚሆን እያንዳንዱ ገዳይ ይኖራል፤",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "ታዘጋለህ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለራስህ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "መንገዱን"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "ሦስት ትከፍላለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የምድርህን ድንበር"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ድንበር"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "የምድርህን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "ወራሽ የሚያደርግህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂም አንተ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ይኖራል"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "ለመሸሸግ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "እያንዳንዱ"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "ገዳይ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:45:14.674729761Z",
+  "model": "glm-5.3"
+}

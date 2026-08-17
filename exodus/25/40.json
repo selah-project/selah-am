@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ተመልከት፤ በተራውም እንደምታየው ቅጭታቸው አድርጋቸው፤ በተራራው ላይ እንደምታየው።",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ተመልከት"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "አድርጋቸው"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "በቅጭታቸው እንደ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደምታየው"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ምታየው"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "በተራራው ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:24:17.162799197Z",
+  "model": "glm-5.3"
+}

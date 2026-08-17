@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "joshua 16:2",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ከቤት ኤል ወደ ሉዝ ወጣ፤ ወደ አርኪውያን ወሰን ወደ ዓታሮትም አልፈ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ከቤት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "ወደ ሉዝ"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "አልፈ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ወሰን"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "አርኪውያን"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "ዓታሮት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:08:21.001564064Z",
+  "model": "glm-5.3"
+}

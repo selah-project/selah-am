@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ያህዌህ ኤሎሂም ለሴቲቱም አለ፦ «ይህን ምን አደረግሽ?» ሴቲቱም አለች፦ «እባቡ አታለለኝ፣ በላሁም።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ለሴቲቱ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "አደረግሽ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "አለች"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሴቲቱ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "እባቡ"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "አታለለኝ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "በላሁም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:30:34.746975134Z",
+  "model": "glm-5.3"
+}

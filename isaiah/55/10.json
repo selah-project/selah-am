@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 55,
+  "translation": "ምክንያቱም ዝናብና በረዶ ከሰማይ እንደሚወርዱ፣ ወደ ዚያም አይመለሱም፤ ከዚያስ ያለ ምድርን ⟨את⟩ እንዳሟላ፣ እንዳወፈውና እንዳሸበረ፣ ለዘራቹ ዘርንና ለበላው እንጀራ እንደሚሰጥ ነው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ይወርዳል"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ዝናብ"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "እና በረዶ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማይ"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ወደ ዚያም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ይመለስም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከዚያስ ያለ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ካል"
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "አሟላ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድርን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "አወለውም"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "አሸበረም"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ሰጠም"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘርን"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "ለዘራቹ"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "እና እንጀራን"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ለበላው"
+    }
+  ],
+  "timestamp": "2026-08-16T17:04:12.831215953Z",
+  "model": "glm-5.3"
+}

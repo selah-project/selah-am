@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ያህዌህም ሞሼን፦ አሃሮንን ንገረው፤ በትርህን ⟨את⟩ ዘርጋ የምድሪውንም አፈር ⟨את⟩ ተኩስ፤ በምድረ ግብፅ ሁሉ ቍርጥታ ይሆናል ብሎ አለው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለውም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ንገር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ዘርጋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በትርህን"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "በትርህን"
+    },
+    {
+      "surface": "והך",
+      "gloss": "እና ተኩስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አፈር"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "አፈር"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድሪውን"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "ቍርጥታ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምድረ ግብፅ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:11:13.999715977Z",
+  "model": "glm-5.3"
+}

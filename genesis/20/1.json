@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "አብራሃምም ከዚያ ተነሥቶ ወደ ደቡብ ምድር ተጓዘ፤ በቃዴስና በሱር መካከል ተቀመጠ፤ በጌራርም እንደ መጻደቂ አደረ።",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "ተነሥቶ ተጓዘ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ከዚያ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብራሃምም"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ወደ ምድር"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "የደቡብ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቀመጠ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቃዴስና"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "በ…መካከል"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ሱር"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "እንደ መጻደቂ አደረ"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "በጌራርም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:40:41.627145851Z",
+  "model": "glm-5.3"
+}

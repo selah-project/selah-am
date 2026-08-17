@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እነሆ እኔ በእነርሱ ላይ መድዎችን ⟨את⟩ አስነሳለሁ፤ እነርሱ ብርን አይቆጥቡም፣ ወርቅንም አይወድሉትም።",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "እነሆ እኔ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "አስነሳለሁ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "በእነርሱ ላይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መድዎችን"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "መድዎችን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እነርሱ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብርን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይቆጥቡም"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "አይቆጥቡም"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ወርቅንም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይወድሉትም"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "አይወድሉትም"
+    },
+    {
+      "surface": "בו",
+      "gloss": "እርሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:03:26.781199690Z",
+  "model": "glm-5.3"
+}

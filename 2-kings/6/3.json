@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "አንዱም አለ፣ እባክህ ተስማማ ከአገልጋዮችህ ⟨את⟩ ጋር ሂድ፤ እርሱም እኔ እሄዳለሁ አለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "አንዱ"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "ተስማማ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከአገልጋዮችህ ጋር"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "አገልጋዮችህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "እሄዳለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:39:53.867010160Z",
+  "model": "glm-5.3"
+}

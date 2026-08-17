@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 6:40",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ኤሎሂምም በዚያ ምሽት እንደዚያ አደረገ፤ በጠጉሩ ላይ ብቻ ደረቅነት ሆነ፣ በምድሩም ሁሉ ላይ ጠረቅ ሆነ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚያ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "በዚያ ምሽት"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያኔ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነም"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ደረቅነት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ\/በ... ላይ"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "ጠጉሩ"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ... ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ጠረቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:29:26.059478739Z",
+  "model": "glm-5.3"
+}

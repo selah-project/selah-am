@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "አንተ ግን ጥለህ ውግደሃል፤ ከተቀባው ጋር ተቆጣህ አለህ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተ ግን"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "ጥለህ"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "ውግደሃል"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "ተቆጣህ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋር"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "ተቀባው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:01.923929989Z",
+  "model": "glm-5.3"
+}

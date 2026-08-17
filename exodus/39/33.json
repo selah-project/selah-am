@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.3",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "ማኅደሩን ⟨את⟩ ወደ ሞሼ አመጡ፤ ⟨את⟩ ድንኳኑን እና ⟨את⟩ ሁሉን ዕቃዎቹን፣ መያዣዎቹን፣ ሰሌዳዎቹን፣ በሮቹን፣ አምዶቹን እና መሠረቶቹን።",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "አመጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማኅደሩን"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ማኅደሩን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድንኳኑን"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ድንኳኑን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ዕቃዎቹን"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "መያዣዎቹን"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "ሰሌዳዎቹን"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "በሮቹን"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "እና አምዶቹን"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "እና መሠረቶቹን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:39:46.397783112Z",
+  "model": "glm-5.3"
+}

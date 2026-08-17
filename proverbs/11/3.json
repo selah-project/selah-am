@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "proverbs 11:3",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "የቅናቾች ንጹሕነት ይመራቸዋል፤ የአምነኞች ጠለፋ ግን ያጠፋቸዋል።",
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "ንጹሕነት"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ቅናቾች"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "ይመራቸዋል"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "እና ጠለፋ"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "አምነኞች"
+    },
+    {
+      "surface": "ושדם",
+      "gloss": "ያጠፋቸዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:26:37.408085192Z",
+  "model": "glm-5.3"
+}

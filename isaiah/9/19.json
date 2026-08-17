@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "isaiah 9:19",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ከቀኝ ይቀጥፋል ነገር ግን ያጣዋል፤ ከግራም ይበላል ነገር ግን አይጠግቡም፤ እያንዳንዱ ሰው የራሱን ክንፍ ሥጋ ይበላል።",
+  "tokens": [
+    {
+      "surface": "ויגזר",
+      "gloss": "ይቀጥፋል"
+    },
+    {
+      "surface": "על",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ቀኝ"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "ነገር ግን ያጣዋል"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ይበላል"
+    },
+    {
+      "surface": "על",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "ግራ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ነገር ግን አይ"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "ጠግቡም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "የራሱን ክንፍ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ይበላል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:02:25.022141271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "ገድልያን ⟨את⟩ ለመግደል በሁለተኛው ቀን ሆነ፤ ሰውም አላወቀም።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "השני",
+      "gloss": "በሁለተኛው"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ለመግደል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገድልያ"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "ገድልያ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "እና ሰው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ወቀ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:07:16.988473365Z",
+  "model": "glm-5.3"
+}

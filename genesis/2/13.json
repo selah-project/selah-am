@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የሁለተኛው ወንዝም ስም ጌኁን ነው፤ እርሱ ⟨ስውር⟩ የሚከብብ የኩሽ ምድር ሁሉ ⟨את⟩ ነው።",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "የ…ስምም"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ወንዙ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ሁለተኛው"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "ጌኁን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "የሚከብብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የኩሽ ምድር ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "የኩሽ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:15.994474715Z",
+  "model": "glm-5.3"
+}

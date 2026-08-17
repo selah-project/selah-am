@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እና ⟨את⟩ አሃሮንንና ⟨את⟩ ልጆቹን ታዝዛቸዋለህ፤ እነሱም ⟨את⟩ ካህንነታቸውን ይጠብቃሉ፤ እንግዳው የሚቀርብ ይገደላል።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "አሃሮንን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮንን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ልጆቹን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ልጆቹን"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ታዝዛቸዋለህ"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "ይጠብቃሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ካህንነታቸውን"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "ካህንነታቸውን"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "እንግዳው"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "የሚቀርብ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይገደላል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:05:12.431177522Z",
+  "model": "glm-5.3"
+}

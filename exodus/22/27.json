@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ኤሎሂምን አትሳደብ፤ በሕዝብህም መሪን አትርገም።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂምን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "ሳደብ"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "መሪንም"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "በሕዝብህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ታርገም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:21:36.962811001Z",
+  "model": "glm-5.3"
+}

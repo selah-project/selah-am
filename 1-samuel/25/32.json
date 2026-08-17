@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 25:32",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ዳዊትም ለአቢጋይል እንዲህ አለት — የእስራኤል አምላክ ያህዌህ የተባረከ ነው፤ ዛሬ ወደ እኔ መጣሽኝ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለት"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "לאביגל",
+      "gloss": "ለአቢጋይል"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "የተባረከ ነው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "አምላክ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "መላከሽ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "ወደ እኔ መጣሽ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:47:35.575148385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ለእኔ መልካም ⟨ነው⟩ የተጨነቅሁት፤ ዐዋጅህን እንድማር ዘንድ።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደዚያ"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "የተጨነቅሁት"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ዘንድ"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "እንድማር"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ዐዋጅህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:07.644704606Z",
+  "model": "glm-5.3"
+}

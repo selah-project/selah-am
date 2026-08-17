@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "የተቀደሱትን ቤቶች ⟨את⟩ እንዳፈረሰ ሁሉ በያህዌህ ቤት ውስጥ ሆነው ሴቶች እዚያ ለአሸራ ቤቶችን የሚጠኑ በትኝቶች ናቸው።",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "አፈረሰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የተቀደሱትን ቤቶች"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ቤቶችን"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "የተቀደሱት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንዳሉ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በቤት ውስጥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እነርሱም"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ሴቶች"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "የሚጠኑ በትኝቶች"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ቤቶችን"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "ለአሸራ"
+    }
+  ],
+  "timestamp": "2026-08-17T07:45:19.244687540Z",
+  "model": "glm-5.3"
+}

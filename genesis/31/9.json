@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ኤሎሂም ⟨את⟩ የአባታችሁን እንስሳት ወሰደ እና ለእኔ ሰጠኝ።",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የአባታችሁን እንስሳት"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "እንስሳት"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "የአባታችሁን"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:50:52.288075837Z",
+  "model": "glm-5.3"
+}

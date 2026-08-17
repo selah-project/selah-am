@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ያህዌህም በሕዝቡ መካከል ⟨את⟩ እሳታማዎቹን እባቦች ላከ፤ እነርሱም ⟨את⟩ ሕዝቡን ነከሱ፤ ከእስራኤልም ብዙ ሕዝብ ሞተ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "በሕዝቡ መካከል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እሳታማዎቹን እባቦች"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "እሳታማዎቹን እባቦች"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "እሳታማዎቹን"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "ነከሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ከእስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:21:35.276671629Z",
+  "model": "glm-5.3"
+}

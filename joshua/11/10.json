@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሆስዕያ በዚያ ጊዜ ተመለሰ እና ሐጼርን ⟨את⟩ ያዘ፤ ንጉሧንም ⟨את⟩ በሰይፍ መታ፤ ምክንያቱም ሐጼር ከበፊት የእነዚህ ሁሉ መንግሥታት ራስ ነበረች።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ሆስዕያ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "በጊዜ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ያንተ፡ያ"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ያዘ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሐጼርን"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ሐጼርን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ንጉሧን"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ንጉሧን"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "መታ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "በሰይፍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ሐጼር"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ከበፊት"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እርሷ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "መንግሥታት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:05:41.164080792Z",
+  "model": "glm-5.3"
+}

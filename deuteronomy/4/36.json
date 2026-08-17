@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 36,
+  "ref": "deuteronomy 4:36",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ከሰማያት የእርሱን ድምፅ ⟨את⟩ ሰምትሃል ልዩህ፣ በምድርም ላይ ታላቁን እሳቱን ⟨את⟩ አሳይሃል፤ ቃላቱንም ከእሳት መካከል ሰምንህ።",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "השמיעך",
+      "gloss": "ሰምትሃል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእርሱን ድምፅ"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ድምፅ ውን"
+    },
+    {
+      "surface": "ליסרך",
+      "gloss": "ልዩህ፣"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "በ...ላይም"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "הראך",
+      "gloss": "አሳይሃል፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታላቁን እሳቱን"
+    },
+    {
+      "surface": "אשו",
+      "gloss": "እሳቱን"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ታላቁን"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "ቃላቱንም"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ሰምንህ"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ከመካከል"
+    },
+    {
+      "surface": "האש",
+      "gloss": "እሳት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:37:02.096515220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "የምድር መንግሥታት ሆይ፣ ለኤሎሂም ዝምረቱ፤ ለአዶናይ አመስግኑ፤ ሰላህ።",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "መንግሥታት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ዝምረቱ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ለኤሎሂም"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "አመስግኑ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ለአዶናይ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:16.037476245Z",
+  "model": "glm-5.3"
+}

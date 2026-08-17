@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ኖህም ከወይኑ ተነሳ፤ ⟨את⟩ ትንሹ ልጁ ያደረገውንም በላዩ አወቀ።",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "ተነሳ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖህ"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "ከወይኑ"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "አወቀ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትንሹ ልጁ ያደረገውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነውን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ያደረገ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "በላዩ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ትንሹ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:30:47.924776332Z",
+  "model": "glm-5.3"
+}

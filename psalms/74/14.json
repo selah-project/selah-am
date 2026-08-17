@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 74,
+  "translation": "አንተ የሌቪያታን ራሶች አፈርስህ ለምድረ በዳ ሕዝብ ምግብ አድርገህ ሰጠህው።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "רצצת",
+      "gloss": "አፈርስህ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ራሶች"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "የሌቪያታን"
+    },
+    {
+      "surface": "תתננו",
+      "gloss": "ሰጠህው"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ምግብ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ለሕዝብ"
+    },
+    {
+      "surface": "לציים",
+      "gloss": "ለምድረ በዳ ነዋሪዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:40.776640295Z",
+  "model": "glm-5.3"
+}

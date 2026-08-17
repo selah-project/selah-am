@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "እኛን በአሕዛብ መርገም አድርገኸናል፣ በአሕዛብም የራስ መንቀያቀቅ አድርገኸናል።",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "እኛን አድርገኸናል"
+    },
+    {
+      "surface": "משל",
+      "gloss": "መርገም"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "በአሕዛብ"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "የራስ መንቀያቀቅ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "በአሕዛብም"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "አሕዛብ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:11.353005972Z",
+  "model": "glm-5.3"
+}

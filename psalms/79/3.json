@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 79,
+  "translation": "ደማቸውን እንደ ውሃ በኢየሩሳሌም ዙሪያ አፍሰሱ፤ ቀብር የሚቀብርም የለም።",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "አፍሰሱ"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ደማቸውን"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "እንደ ውሃ"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "በዙሪያ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ኢየሩሳሌም"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለምም"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "ቀብር የሚቀብር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:57:33.844679446Z",
+  "model": "glm-5.3"
+}

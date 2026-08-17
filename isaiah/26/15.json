@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "isaiah 26:15",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ሕዝቡን አበዛህ ያህዌህ ሆይ፤ ሕዝቡን አበዛህ፤ ክብርህን አግኝተሃል፤ የምድር ዳሮችን ሁሉ ወሰንክ።",
+  "tokens": [
+    {
+      "surface": "יספת",
+      "gloss": "አበዛህ"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ ሆይ"
+    },
+    {
+      "surface": "יספת",
+      "gloss": "አበዛህ"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "ክብርህን አግኝተሃል"
+    },
+    {
+      "surface": "רחקת",
+      "gloss": "ወሰንክ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "ዳሮችን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "የምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T07:10:00.935252866Z",
+  "model": "glm-5.3"
+}

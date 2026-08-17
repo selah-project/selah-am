@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "ezekiel 32:20",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "በሰይፍ የተገደሉ መካከል ይወድቃሉ፤ ለሰይፍ ተሰጠች፤ እሷን ይጎትቷት ⟨את⟩ እና ሁሉንም ብዙኀኾቿን።",
+  "tokens": [
+    {
+      "surface": "בתוך",
+      "gloss": "በ…መካከል"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "የተገደሉ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ይወድቃሉ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ተሰጠች"
+    },
+    {
+      "surface": "משכו",
+      "gloss": "ይጎትቷት"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "እሷን"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉንም"
+    },
+    {
+      "surface": "המוניה",
+      "gloss": "ብዙኀኾቿን"
+    }
+  ],
+  "timestamp": "2026-08-16T08:43:07.965327365Z",
+  "model": "glm-5.3"
+}

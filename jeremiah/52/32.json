@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 52:32",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 52,
+  "translation": "እና ⟨את⟩ ጋር መልካም ተናገረው፤ ⟨את⟩ ዙፋኑንም በባቢሎን ከእርሱ ⟨את⟩ ጋር ካሉት ነገሥታት ዙፋን በላይ አደረገው።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "እና ተናገረ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ጋር",
+      "marks": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "እና አደረገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዙፋኑን"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ዙፋኑን"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ከላይ"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "ለዙፋን"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "የነገሥታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆኑት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ጋር",
+      "marks": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "በባቢሎን"
+    }
+  ],
+  "timestamp": "2026-08-16T17:41:29.191283961Z",
+  "model": "glm-5.3"
+}

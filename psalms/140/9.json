@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 140,
+  "translation": "ያህዌህ ሆይ፣ ለክፉ ሰው መመኘቱን አትስጥ፤ ሴራውን አታወጣ፤ እነርሱ ከፍ እንዳይሉ። ሰላህ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ስጥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "መመኘቱን"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ለክፉ ሰው"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "ሴራውን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አታ"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "እንዳይሉ ከፍ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:15.770732971Z",
+  "model": "glm-5.3"
+}

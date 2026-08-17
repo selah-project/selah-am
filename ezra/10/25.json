@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "ezra 10:25",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እና ከእስራኤል — ከፋርዓሽ ልጆች፦ ራምያ፣ ይዚያ፣ ማልኪያ፣ ሚያሚን፣ ኤልዓዛር፣ ማልኪያ እና በነያ።",
+  "tokens": [
+    {
+      "surface": "ומישראל",
+      "gloss": "እና ከእስራኤል"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ከ…ልጆች"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ፋርዓሽ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ራምያ"
+    },
+    {
+      "surface": "ויזיה",
+      "gloss": "ይዚያ"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "ማልኪያ"
+    },
+    {
+      "surface": "ומימן",
+      "gloss": "ሚያሚን"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "ኤልዓዛር"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "ማልኪያ"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "በነያ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:58:21.650398913Z",
+  "model": "glm-5.3"
+}

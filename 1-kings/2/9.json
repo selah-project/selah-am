@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "1-kings 2:9",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እና አሁን አትንጻው፣ ምክንያቱም አንተ ጥበበኛ ሰው ነህ፤ እና ⟨את⟩ የምታደርገውን ታውቃለህ፤ እና በደም የኔርሱን ብርሃት ወደ ሲኦል ታወርዳለህ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "እና አሁን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תנקהו",
+      "gloss": "ንጻው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ጥበበኛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "እና ታውቃለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የምታደርገውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምታደርገው"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "והורדת",
+      "gloss": "እና ታወርዳለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብርሃቱን"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "ብርሃቱን"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "በደም"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ወደ ሲኦል"
+    }
+  ],
+  "timestamp": "2026-08-16T06:13:41.125398337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "2-kings 15:9",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ክፉን በያህዌህ ፊት አደረገ፣ አባቶቹ እንደሠሩት፤ ከይሮብዓም በን ናባጥ ኃጢአቶች ⟨ሊ⟩ አልተመለሰም፣ እርሱም ⟨את⟩ እስራኤልን ኃጢአት እንዲሠሩ ያደረገ ነበር።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ክፉን"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "በ…ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ሠሩ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "አባቶቹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "ከ…ኃጢአቶች"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ይሮብዓም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "በን"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ናባጥ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እርሱም"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ኃጢአት እንዲሠሩ ያደረገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T06:45:38.639223601Z",
+  "model": "glm-5.3"
+}

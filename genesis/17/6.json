@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "እና እጅግ በጣም አበዝብሃለሁ፤ ለሕዝቦችም አድርጌሃለሁ፤ ከአንተም ነገሥታት ይወጣሉ።",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "አበዝብሃለሁ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "አንተን"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "እጅግ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "አድርጌሃለሁ"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "ለሕዝቦች"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "እና ነገሥታት"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ከአንተ"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ይወጣሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:38:40.841412152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "በልቡ አለ፦ «አልንቀጠቀጥም፤ ለትውልድና ለትውልድ ክፉ የለብኝም»።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "በልቡ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ንቀጠቀጥም"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ለትውልድ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "እና ለትውልድ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ሆኖ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "በክፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:59.994522412Z",
+  "model": "glm-5.3"
+}

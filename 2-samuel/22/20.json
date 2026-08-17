@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ወደ ሰፊ ስፍራ አወጣኝ፤ ⟨את⟩ እኔ አዳነ፤ በእኔ ስለደሰተኝ ነው።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "አወጣ"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "ወደ ሰፊ ስፍራ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "እኔ"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "አዳነኝ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ደስ አለው"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:11:26.382061404Z",
+  "model": "glm-5.3"
+}

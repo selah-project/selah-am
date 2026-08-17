@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 115,
+  "translation": "ሕዝቦቹ ለምን ይላሉ፣ አሁን አማልክታቸው ወዴት ናቸው?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ይላሉ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ሕዝቦቹ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ወዴት"
+    },
+    {
+      "surface": "נא",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "አማልክታቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:03.479150049Z",
+  "model": "glm-5.3"
+}

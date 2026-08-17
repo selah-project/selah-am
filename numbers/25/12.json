@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ስለዚህ እንዲህ በል፦ እነሆ እኔ ሰላምን ⟨את⟩ የእጄን ቃል ኪዳን ለእርሱ እሰጣለሁ።",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "እንዲህ በል"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እነሆ እኔ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "እሰጣለሁ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእጄን ቃል ኪዳን"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "የእጄን ቃል ኪዳን"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላምን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:23:03.911047309Z",
+  "model": "glm-5.3"
+}

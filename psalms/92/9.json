@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 92,
+  "translation": "አንተ ግን ያህዌህ ሆይ ለዘላለም ⟨የላቀ⟩ በላይ ነህ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተ ግን"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "የላቀ በላይ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:18.371573569Z",
+  "model": "glm-5.3"
+}

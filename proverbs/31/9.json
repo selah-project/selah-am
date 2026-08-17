@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "አፍህን ክፍት አድርግ፣ ጽድቅ ፍረድ፣ እና ⟨ለ⟩ደሃውና ⟨ለ⟩ችግረኛው ድንበር ፍረድ።",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ክፍት አድርግ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "አፍህን"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ፍረድ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቅ"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "ድንበር"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ደሃውን"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ችግረኛውን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:38:42.967345411Z",
+  "model": "glm-5.3"
+}

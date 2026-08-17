@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 138,
+  "translation": "ለዳዊት። በመላው ልቤ አመሰግንሃለሁ፤ በአማልክት ፊት አዘምርሃለሁ።",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "አመሰግንሃለሁ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በመላው"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "በአማልክት"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "አዘምርሃለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:22.507535469Z",
+  "model": "glm-5.3"
+}

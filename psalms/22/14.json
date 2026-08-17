@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "አፋቸውን በእኔ ላይ ከፍተዋል፤ እንደ ምግቡን የሚንጠባጠብ እና እንደ አጉሮሽ አንበሳ።",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "ከፍተዋል"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "አፋቸውን"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "አንበሳ"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ምግቡን የሚንጠባጠብ"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "እና አጉሮሽ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:23.932414830Z",
+  "model": "glm-5.3"
+}

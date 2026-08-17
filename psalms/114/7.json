@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 114,
+  "translation": "ከአዶናይ ፊት ራብ፣ ምድር ሆይ፤ ከያዕቆብ ኤሎሃ ፊት፤",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "ከ… ፊት"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "ራብ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ከ… ፊት"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ኤሎሃ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:46.565516570Z",
+  "model": "glm-5.3"
+}

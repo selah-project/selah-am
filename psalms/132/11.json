@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 132,
+  "translation": "ያህዌህ ለዳዊድ በእውነት ቃል የገባ፤ ከዚያም አይመለስም፦ «ከሆድህ ፍሬ ለአንተ ዙፋን ላይ አቀምጣለሁ።»",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ቃል የገባ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊድ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ይመለስም"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ከዚያም"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ከፍሬ"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "ሆድህ"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "አቀምጣለሁ"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "ዙፋን ላይ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:48.236631335Z",
+  "model": "glm-5.3"
+}

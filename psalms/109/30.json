@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "ያህዌህን በአፌ በጣም አመሰግናለሁ፤ በብዙዎች መካከልም አወድሰዋለሁ።",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "አመሰግናለሁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "በአፌ"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "በ…መካከልም"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙዎች"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "አወድሰዋለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:38.150983478Z",
+  "model": "glm-5.3"
+}

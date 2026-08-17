@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "በቍጣው ለአፍታ ብቻ ነው፤ በፈቃዱ ደግሞ ሕይወት አለ፤ ምሽት ላይ ሳለ ልቅሶ ያድራል፣ ጠዋት ላይ ደግሞ ደስታ ትመጣለች።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "አፍታ"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "በቍጣው"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ሕይወት"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "በፈቃዱ"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ምሽት ላይ"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ያድራል"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "ልቅሶ"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "ጠዋት ላይ ደግሞ"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ደስታ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:37:01.650454401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ነገር ግን በእርግጥ አንድ ቀን ወይም ሁለት ቀን ቢቆም፣ አይቀጣም፤ ምክንያቱም የእርሱ ብር ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ነገር ግን በእርግጥ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "አንድ ቀን"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "ሁለት ቀን"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ቢቆም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "ቀጣም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "የእርሱ ብር"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ ⟨ነው⟩"
+    }
+  ],
+  "timestamp": "2026-08-16T03:20:36.108268785Z",
+  "model": "glm-5.3"
+}

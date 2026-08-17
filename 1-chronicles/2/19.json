@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "አዙባም ሞተች፤ ካሌብም ለራሱ ⟨את⟩ ኤፍራትን ወሰደ፤ እርሷም ለእርሱ ⟨את⟩ ሑርን ወለደችለት።",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "ሞተችም"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "አዙባ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደም"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለራሱ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ካሌብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤፍራት"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "ኤፍራት"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደችም"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሑር"
+    },
+    {
+      "surface": "חור",
+      "gloss": "ሑር"
+    }
+  ],
+  "timestamp": "2026-08-16T12:33:38.892761215Z",
+  "model": "glm-5.3"
+}

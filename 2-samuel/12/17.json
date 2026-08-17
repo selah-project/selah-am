@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የቤቱ ሽማግሌዎች ተነሥተው በእርሱ ላይ ⟨ቆሙ⟩ ከምድሩ እንዲነሳ ለማድረግ፤ እርሱ ግን አልፈቀደም፣ እነርሱም ⟨את⟩ ጋራ እንጀራ አልበላም።",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ተነሥተው"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "የ…ሽማግሌዎች"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "እንዲነሳ ለማድረግ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ፈቀደ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "በላ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ጋራ (ከእነርሱ ጋራ)"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እንጀራ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:05:02.481136477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 77,
+  "translation": "በመከራዬ ቀን አዶናይን ፈለግሁ፤ እጄ በሌሊት ተዘረጋች እና አልደከመችም፤ መጽናናትን ነፍሴ አትከታም።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "በ…ቀን"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "መከራዬ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ፈለግሁ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "እጄ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "በሌሊት"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "ተዘረጋች"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "ደከመችም"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "አትከታም"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "መጽናናትን"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:45.407142834Z",
+  "model": "glm-5.3"
+}

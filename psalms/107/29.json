@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 29,
+  "ref": "psalms 107:29",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "ሞስሉን ወደ ጸጥታ ያደርጋል፣ በሮቻቸውም ይጸጸናሉ።",
+  "tokens": [
+    {
+      "surface": "יקם",
+      "gloss": "ያደርጋል፣"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "ሞስሉን"
+    },
+    {
+      "surface": "לדממה",
+      "gloss": "ወደ ጸጥታ"
+    },
+    {
+      "surface": "ויחשו",
+      "gloss": "ይጸጸናሉ፣"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "በሮቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:35.211175913Z",
+  "model": "glm-5.3"
+}

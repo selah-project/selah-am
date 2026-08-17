@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ኤሎሂምም እንዲህ አለ፦ ከሰማያት በታች ያሉት ውኳዎች ወደ አንድ ስፍራ ⟨ዐብረው ይሰበሰቡ⟩፤ የደረቀውም ⟨ምድር ይታይ⟩፤ እንደዚህም ሆነ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "ይሰበሰቡ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውኳዎቹ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ከ…በታች"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ከሰማያት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ስፍራ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "እና ትታይ"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "የደረቀዋ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚህ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:28:21.820859087Z",
+  "model": "glm-5.3"
+}

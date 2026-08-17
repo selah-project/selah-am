@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 2:49",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ሣዕፍን የማድማና አባት፣ ⟨את⟩ ሼቫን የማክቤና አባት እና የጊብዓ አባትም ወለደች፤ የካሌብ ሴት ልጅም ዓክሳ ነበረች።",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "שעף",
+      "gloss": "ሣዕፍን"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባት"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "የማድማና"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሼቫን"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ሼቫን"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባት"
+    },
+    {
+      "surface": "מכבנה",
+      "gloss": "የማክቤና"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "እና የ... አባት"
+    },
+    {
+      "surface": "גבעא",
+      "gloss": "ጊብዓ"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "ሴት ልጅም"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ካሌብ"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "ዓክሳ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:41:00.089044048Z",
+  "model": "glm-5.3"
+}

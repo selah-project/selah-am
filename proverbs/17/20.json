@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "የተጣራ ልብ ያለው መልካም አያገኝም፤ በሐሙሱ የሚመልስ በክፉ ይወድቃል።",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "የተጣራ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይሆንም"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ያገኛል"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "የተገለበጠ"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "በሐሙሱ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ይወድቃል"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "በክፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:29:42.453821854Z",
+  "model": "glm-5.3"
+}

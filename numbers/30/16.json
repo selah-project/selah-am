@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "እና ከሆነ ከሰማ በኋላ ⟨את⟩ እነሱን ሙሉ በሙሉ አፍርሶ ያፈርሳቸዋል፣ እና ⟨את⟩ የኃጢያቷን ይሸከማል።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እና ከሆነ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "አፍርሶ"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "ያፈርሳቸዋል"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ቃለ መናልቆቹን"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ… በኋላ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ሰማበት"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "እና ይሸከማል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የኃጢያቷን"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ኃጢያቷ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:29:17.135506658Z",
+  "model": "glm-5.3"
+}

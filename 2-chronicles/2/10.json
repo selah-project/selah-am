@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 2:10",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ኾሮም የጾር ንጉሥም በጽሑፍ መልሶ ለሰሎሞን ላከ፤ በማወዱ ያህዌህ ⟨את⟩ ሕዝቡን ሆኖ በእነርሱ ላይ ንጉሥ አድርጎሃል።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በጽሑፍ መልሶ"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "ኾሮም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "የጾር"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "በጽሑፍ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "באהבת",
+      "gloss": "በማወዱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "נתנך",
+      "gloss": "አድርጎሃል"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "በእነርሱ ላይ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:42:05.515477339Z",
+  "model": "glm-5.3"
+}

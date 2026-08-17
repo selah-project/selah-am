@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ያህዌህም አለ፦ «ይሁዳ ይወጣል፤ ተመልከት፣ እኔ ⟨את⟩ ምድሩን በእጁ አሳልፌያለሁ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ፦"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ይወጣል"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ተመልከት"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "አሳልፌያለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሩን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩን"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "በእጁ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:15:05.200023465Z",
+  "model": "glm-5.3"
+}

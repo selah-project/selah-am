@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "የሰንበት ቀንን ⟨את⟩ ለማቀደሱ አስታውስ።",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "አስታውስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሰንበት ቀንን"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀንን"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "የሰንበት"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ለማቀደሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:17:15.186971713Z",
+  "model": "glm-5.3"
+}

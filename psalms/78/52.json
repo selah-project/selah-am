@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "ሕዝቡን እንደ በግ መንቀሳቀስ ጀመረ፤ በምድረ በዳም እንደ መንጋ መራቸው።",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "እና አነሳ\/አስጓዘ"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "እንደ በግ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "እና መራቸው"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "እንደ መንጋ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በምድረ በዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:50.309497558Z",
+  "model": "glm-5.3"
+}

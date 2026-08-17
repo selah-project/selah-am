@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 121,
+  "translation": "ያህዌህ ከሁሉ ክፉ ይጠብቅሃል፤ ⟨את⟩ ነፍስህን ይጠብቃል።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "ይጠብቅሃል"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ይጠብቃል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍስህን"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ነፍስህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:06.349760906Z",
+  "model": "glm-5.3"
+}

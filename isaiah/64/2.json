@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "isaiah 64:2",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 64,
+  "translation": "ድንቅ ነገሮችን በማድረግህ የምናምነው አልነበረም፤ ወረድህ፣ ከፊትህ ተራሮች ተፈሱ።",
+  "tokens": [
+    {
+      "surface": "בעשותך",
+      "gloss": "በማድረግህ"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "ድንቅ ነገሮችን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "נקוה",
+      "gloss": "የምናምነው"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "ወረድህ"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ከፊትህ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ተራሮች"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "ተፈሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:30:49.884961249Z",
+  "model": "glm-5.3"
+}

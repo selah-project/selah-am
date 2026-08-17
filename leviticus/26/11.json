@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "መስኮቴን በእናንተ መካከል እሰጣለሁ፤ ነፍሴም ⟨את⟩ እናንተን አይትኮስም።",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "እሰጣለሁ"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "መስኮቴን"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "በእናንተ መካከል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "ትኮሳለች\/ትጠላለች"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:01:36.131814135Z",
+  "model": "glm-5.3"
+}

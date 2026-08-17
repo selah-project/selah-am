@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "1-kings 20:3",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እና እንዲህ አለው፤ በን-ሀዳድ እንዲህ ይላል፤ ብርህም እና ወርቅህ የእኔ ነው፤ እና ሚስቶችህም እና ልጆችህ መልካሞቹ የእኔ ናቸው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እና…አለው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "እንዲህ አለው (ለእርሱ)"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "በን"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ሀዳድ"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "ብርህም"
+    },
+    {
+      "surface": "וזהבך",
+      "gloss": "እና ወርቅህ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "የእኔ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ነው"
+    },
+    {
+      "surface": "ונשיך",
+      "gloss": "እና ሚስቶችህም"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "እና ልጆችህ"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "መልካሞቹ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "የእኔ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ናቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T06:32:33.313701406Z",
+  "model": "glm-5.3"
+}

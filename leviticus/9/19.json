@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እና ⟨את⟩ ስቦቹን ከአህያሁን እና ከበጉም — የጉበቱን ጅማት፣ የውስጣዊዎቹን ሽፋን፣ ኩላሊቶቹንና የጉበቱን ከፍታ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ስቦቹን"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "ስቦቹን"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "השור",
+      "gloss": "አህያሁን"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "እና ከ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "በጉም"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "የጉበቱን ጅማት"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "የውስጣዊዎቹን ሽፋን"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "ኩላሊቶቹንና"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "የጉበቱን ከፍታ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ጉበት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:47:38.276925677Z",
+  "model": "glm-5.3"
+}

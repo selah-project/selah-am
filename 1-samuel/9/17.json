@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ሳሙኤልም ⟨את⟩ ሳውልን አየ፤ ያህዌህም መለሰለት፦ እነሆ ⟨את⟩ ሰው ስለ እርሱ ያልኩህ፤ ይህ በሕዝቤ ላይ ይገዛል።",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "ሳሙኤልም"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሳውልን"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳውልን"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "መለሰለት"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ስለ እርሱ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ያልኩህ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "ይገዛል"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "በሕዝቤ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:39:57.432517392Z",
+  "model": "glm-5.3"
+}

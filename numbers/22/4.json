@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "numbers 22:4",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ሞአብም ለምድያን ሽማግሌዎች እንዲህ አለ፦ አሁን ይህ ሕዝብ በበሬ የዕፅላሕ አረንጓዴን ⟨את⟩ እንደሚላስ፣ ዙሪያችንን ሁሉ ⟨את⟩ ያለልሳል። በላቅ የጾር ልጅም በዚያ ወቅት ለሞአብ ንጉሥ ነበረ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ፤"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞአብም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ…"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ሽማግሌዎች"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ምድያን"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "ያለልሳል፣"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ይህ ሕዝብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "סביבתינו",
+      "gloss": "ዙሪያችንን"
+    },
+    {
+      "surface": "כלחך",
+      "gloss": "እንደሚላስ፣"
+    },
+    {
+      "surface": "השור",
+      "gloss": "በሬ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አረንጓዴን"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "አረንጓዴን"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "የዕፅላሕ"
+    },
+    {
+      "surface": "ובלק",
+      "gloss": "በላቅ… ልጅም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅም"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ጾር"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "ለሞአብ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "በ… ወቅት"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ዚያ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:22:00.148023547Z",
+  "model": "glm-5.3"
+}

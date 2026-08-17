@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "numbers 12:5",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ያህዌህ በደመና ዐምድ ወረደ፤ በመጸነሱም በምድር ድንጋይ ሆኖ በአደባባይ በድንቅሉ መግቢያ ቆመ፤ አሃሮንንና ምርያምንም ጠራ፤ እነሱም ሁለቱ ወጡ።",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ወረደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "በደመና ዐምድ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ደመና"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ቆመ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "በ...መግቢያ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ድንቅሉ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮንን"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "ምርያምንም"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ወጡ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ሁለቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:14:10.166510769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "song-of-songs 6:4",
+  "book": "song-of-songs",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ቅዠት ነሽ አንቺ የእኔ ወዳጅት፣ እንደ ትርዛ፤ ውብ ነሽ እንደ ኢየሩሳሌም፤ ሚራቅ ነሽ እንደ በሚን የተያዙ አራቶች።",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "ቅዠት"
+    },
+    {
+      "surface": "את",
+      "gloss": "አንቺ",
+      "marks": "ወዳጅት — רעיתיን የሚጠቅስ"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "የእኔ ወዳጅት"
+    },
+    {
+      "surface": "כתרצה",
+      "gloss": "እንደ ትርዛ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ውብ"
+    },
+    {
+      "surface": "כירושלם",
+      "gloss": "እንደ ኢየሩሳሌም"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "ሚራቅ"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "እንደ በሚን የተያዙ አራቶች"
+    }
+  ],
+  "timestamp": "2026-08-16T11:03:57.986337191Z",
+  "model": "glm-5.3"
+}

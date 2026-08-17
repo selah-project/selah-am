@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ስጉታ በሰው ልብ ውስጥ ያንሳታል፤ መልካም ቃል ግን ያስደስታታል።",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "ስጉታ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "በልብ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "ያንሳታል"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "እና ቃል"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "ያስደስታታል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:27:00.234173618Z",
+  "model": "glm-5.3"
+}

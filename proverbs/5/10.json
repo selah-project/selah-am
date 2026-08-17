@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እንዳይሆን እንግዶች ጉልበትህን ይሞላሉ፣ ድካምህም በሌላ ሰው ቤት ይሆናል።",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "እንዳይሆን"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ይሞላሉ"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "እንግዶች"
+    },
+    {
+      "surface": "כחך",
+      "gloss": "ጉልበትህን"
+    },
+    {
+      "surface": "ועצביך",
+      "gloss": "ድካምህንም"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "ለሌላ ሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:21:15.024870824Z",
+  "model": "glm-5.3"
+}

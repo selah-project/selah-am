@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እርሱም አለ፦ በየትኛው መንገድ እንዘራለን? እርሱም አለ፦ በኤዶም ምድረ በዳ መንገድ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ፦"
+    },
+    {
+      "surface": "אי",
+      "gloss": "በየት?"
+    },
+    {
+      "surface": "זה",
+      "gloss": "የትኛው"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "እንዘራለን?"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ፦"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ምድረ በዳ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:37:04.339409230Z",
+  "model": "glm-5.3"
+}

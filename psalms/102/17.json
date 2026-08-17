@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 102,
+  "translation": "ምክንያቱም ያህዌህ ጽዮንን ሠራ፤ በክብሩ ታየ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮንን"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ታየ"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "በክብሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:57.395832802Z",
+  "model": "glm-5.3"
+}

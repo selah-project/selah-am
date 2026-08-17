@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "የአሐብ አካል በከተማ የሚሞት ውሾች ይበላሉታል፤ በሜዳም የሚሞት ደግሞ የሰማይ ወፎች ይበላሉታል።",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "የሚሞት"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "የአሐብ አካል"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "በከተማ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ይበላሉታል"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "ውሾች"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "የሚሞት"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "በሜዳም"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ይበላሉታል"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ወፎች"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "የሰማይ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:33:17.215260214Z",
+  "model": "glm-5.3"
+}

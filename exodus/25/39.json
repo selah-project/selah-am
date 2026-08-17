@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "አንድ ቅመሕ ንጹሕ ወርቅ ⟨את⟩ እሱን እና ⟨את⟩ እነዚህን ሁሉን ዕቃዎች ያደርገዋል።",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "አንድ ቅመሕ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቅ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ንጹሕ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ያደርገዋል"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እሱን (መብራቱን)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እነዚህን ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ዕቃዎችን"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:24:17.162656939Z",
+  "model": "glm-5.3"
+}

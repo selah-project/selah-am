@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "isaiah 27:4",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ንዴት የለኝም፤ ማን ይሰጠኛል በውጊያ ሾትና ገነጫ? በእነሱ ላይ እሮጣለሁ፤ በአንድነት አቃጥላቸዋለሁ።",
+  "tokens": [
+    {
+      "surface": "חמה",
+      "gloss": "ንዴት"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "לי",
+      "gloss": "እኔ... አለኝ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "ይሰጠኛል"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "ሾት"
+    },
+    {
+      "surface": "שית",
+      "gloss": "ገነጫ"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "በውጊያ"
+    },
+    {
+      "surface": "אפשעה",
+      "gloss": "እሮጣለሁ በ... ላይ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእነሱ"
+    },
+    {
+      "surface": "אציתנה",
+      "gloss": "አቃጥላቸዋለሁ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "በአንድነት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:09:20.965503917Z",
+  "model": "glm-5.3"
+}

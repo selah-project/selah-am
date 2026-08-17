@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "ኤሎሂም በሕዝብህ ፊት በወጣህ ጊዜ፣ በምድረ በዳ በሔድክ ጊዜ (ሴላ)።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "በወጣህ ጊዜ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ሕዝብህ"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "በሔድክ ጊዜ"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "በምድረ በዳ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:34.851728512Z",
+  "model": "glm-5.3"
+}

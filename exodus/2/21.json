@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ሞሼም ከዚያ ⟨את⟩ ሰው ጋር ለመኖር ፈቀደ፤ እርሱም ⟨את⟩ ጽፍሮራን ልጁን ለሞሼ ሰጠ።",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "ፈቀደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ለመኖር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰው"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጽፍሮራን"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "ጽፍሮራ"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ልጁን"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ለሞሼ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:07:11.263402400Z",
+  "model": "glm-5.3"
+}

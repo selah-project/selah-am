@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ክፉዎቹ ግን እንዲህ አይደሉም፤ ነገር ግን እንደ ከነጭ ⟨ናቸው⟩ — ነፋስ የሚንቀሳቅሰው።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ክፉዎቹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ግን"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "እንደ ከነጭ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የም"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "ሚንቀሳቅሰው"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ነፋስ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:29:39.154767621Z",
+  "model": "glm-5.3"
+}

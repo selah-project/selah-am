@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "nehemiah 12:7",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ሳሉ፣ ዓሞቅ፣ ሕልቅያ፣ ይዳዕያ። እነዚህ የካህናት አለቆች እና ወንድሞቻቸው በይሱዓ ዘመን ነበሩ።",
+  "tokens": [
+    {
+      "surface": "סלו",
+      "gloss": "ሳሉ"
+    },
+    {
+      "surface": "עמוק",
+      "gloss": "ዓሞቅ"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "ሕልቅያ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ይዳዕያ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "አለቆች"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "የካህናት"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "እና ወንድሞቻቸው"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "በ…ዘመን"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "ይሱዓ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:25:55.379386163Z",
+  "model": "glm-5.3"
+}

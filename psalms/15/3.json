@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "በመላው አትደለም፣ ለባልደሩ ክፉ አይሠራም፣ በቅርቡ ላይ የሚነሳ ንቀትም አይሸከምም፤",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ማንገር\/መላ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "በመላው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ያደርጋል"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ለባልደሩ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "እና ንቀት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ይሸከማል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "በቅርቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:10.881325787Z",
+  "model": "glm-5.3"
+}

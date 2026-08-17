@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ሠላህ፤ ሞሼም ⟨את⟩ ደሙን በመሠዊያው ላይ በዙሪያው ሁሉ ረጨ።",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ሠላህ"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ረጨ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደሙን"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ደሙን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "በዙሪያው ሁሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:48:00.479845591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "በሠፈሮች ድንጋጭ ይቀመጣል፤ በስውር ቦታዎች ጻድቁን ይገድላል፤ ዓይኖቹ ለደካሞች ተሰውሮ ይጠብቃሉ።",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "ይቀመጣል"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "በድንጋጭ"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "ሠፈሮች"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "በስውር ቦታዎች"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "ይገድላል"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ጻድቁን"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ዓይኖቹ"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "ለደካሞች"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "ተሰውሮ ይጠብቃሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:59.994816898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 98,
+  "translation": "ወንዞች እጃቸውን ይጨፍሩ፤ ተራሮች በአንድነት ይዘምሩ።",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "ወንዞች"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "ይጨፍሩ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "እጅ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "በአንድነት"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ተራሮች"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ይዘምሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:27.099911174Z",
+  "model": "glm-5.3"
+}

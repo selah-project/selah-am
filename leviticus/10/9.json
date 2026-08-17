@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "leviticus 10:9",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የወይን ጠላ እና የረባ መጠጥ አትጠጡ አንተ እና የአንተ ልጆች ⟨אתך⟩ አብረዋት፣ ወደ መገናኛ ድንኳን በምትገቡ፣ በጥ አትሙት፤ ይህ ለትውልዶቻችሁ የዘላለም ሥርዓት ነው።",
+  "tokens": [
+    {
+      "surface": "יין",
+      "gloss": "የወይን ጠላ"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "እና የረባ መጠጥ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አትጠጡ"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "እንድታመልጡ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "እና የአንተ ልጆች"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "አብረዋት"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "በምትገቡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መገናኛ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "ይሙቱ፤"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ሥርዓት"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "የዘላለም"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "ለትውልዶቻችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:47:11.515503458Z",
+  "model": "glm-5.3"
+}

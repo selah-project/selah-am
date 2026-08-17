@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "judges 2:10",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እንዲሁም ያንዲቱ ትውልድ ሁሉ ወደ አባቶቿ ተሰበሰበች፤ ከእነሱም በኋላ ሌላ ትውልድ ተነሣ፤ ያህዌህን ⟨את⟩ ያላወቀ፣ እንዲሁም ለእስራኤል ያደረገውን ⟨את⟩ ሥራም ያላወቀ ነበር።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "ትውልድ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያንዲቱ"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "ተሰበሰበች"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "አባቶቿ"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሣ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ትውልድ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ሌላ"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ከእነሱም በኋላ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ወቀ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሥራን"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ያደረገ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ለእስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T05:13:19.514126402Z",
+  "model": "glm-5.3"
+}

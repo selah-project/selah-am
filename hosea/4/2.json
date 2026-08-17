@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "መርገምና ውሸት፣ ግድያና ስርቆት እና አመንዝሮነት አልፈዋል፤ ደምም ደምን ነካው።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "መርገምና"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "ውሸት"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "ግድያ"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "እና ስርቆት"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "አመንዝሮነት"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "አልፈዋል"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "ደምም"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "ደምን በደም"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "ነካው"
+    }
+  ],
+  "timestamp": "2026-08-16T08:57:58.331949116Z",
+  "model": "glm-5.3"
+}

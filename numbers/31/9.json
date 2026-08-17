@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "numbers 31:9",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "የእስራኤል ልጆች የምድያም ሴቶችን ⟨את⟩ አስረዋል፣ ልጆቻቸልንም ⟨את⟩፣ ከብቶቻቸውን ሁሉ ⟨את⟩፣ መንጋቸውን ሁሉ ⟨את⟩ እና ሀብታቸውን ሁሉ ⟨את⟩ ዘረፉ።",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "አስረዋል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የምድያም ሴቶችን"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "ሴቶችን"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ምድያም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ልጆቻቸልን"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "ልጆቻቸልን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "ከብቶቻቸውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מקנהם",
+      "gloss": "መንጋቸውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ሀብታቸውን"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "ዘረፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:28:06.854741859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "isaiah 40:25",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "እና ለማን ታመሰላሉኝ? ወይስ ⟨እኩል⟩ እሆናለሁ? ይላል ቅዱሱ።",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "እና ለ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "ታመሰላሉኝ"
+    },
+    {
+      "surface": "ואשוה",
+      "gloss": "እና እኩል እሆናለሁ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:20:33.631113390Z",
+  "model": "glm-5.3"
+}

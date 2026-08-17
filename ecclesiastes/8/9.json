@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ይህን ሁሉ ⟨את⟩ አይቻለሁ፣ እና ⟨את⟩ ልቤን ለሁሉም በፀሐይ ሥር ከሚደረጉ ሥራዎች ሰጥቻለሁ — ጊዜ እንዳለ ሰው ሰውን ላይ ይገዛል፣ ለኩሩ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "አይቻለሁ"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "እና ሰጥቻለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልቤን"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤን"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚደረጉትን"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ይደረጋል"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ሥር"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ፀሐይ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚሆንበት"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "ይገዛል"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ሰውን ላይ"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ለኩሩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:18:00.976012527Z",
+  "model": "glm-5.3"
+}

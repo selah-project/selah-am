@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "hosea 5:15",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እሄዳለሁ፣ ወደ ስፍራዬ እመለሳለሁ፤ እስኪያመኑኝ ድረስ፣ ፊቴንም እስኪፈልጉ ድረስ፤ በመከራቸው ጠዋት ላይ ያገኙኛል።",
+  "tokens": [
+    {
+      "surface": "אלך",
+      "gloss": "እሄዳለሁ"
+    },
+    {
+      "surface": "אשובה",
+      "gloss": "እመለሳለሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "ስፍራዬ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪ... ድረስ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እስኪ"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "እስኪያመኑ"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "ፈልጉም"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊቴን"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "በመከራቸው"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ላቸው"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "ጠዋት ላይ ያገኙኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T08:57:46.770372958Z",
+  "model": "glm-5.3"
+}

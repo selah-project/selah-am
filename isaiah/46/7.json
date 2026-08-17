@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "isaiah 46:7",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 46,
+  "translation": "በትከሻ ላይ ቀምጠው አንሥተውታል፤ ተሸክመውም አስቀምጠውታል እርሱም ቆሞ ከስፍራው አይንቀሳቀስም፤ ወደ እርሱም ቢጮኽ አይመልስም ከችግሩም አያድነውም።",
+  "tokens": [
+    {
+      "surface": "ישאהו",
+      "gloss": "አንሥተውታል"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "በትከሻ"
+    },
+    {
+      "surface": "יסבלהו",
+      "gloss": "ተሸክመውታል"
+    },
+    {
+      "surface": "ויניחהו",
+      "gloss": "አስቀምጠውታል"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ከታች"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "እና ቆሞ"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "ከስፍራው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "ንቀሳቀስም"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እንኳ"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "ቢጮኽ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "መልስም"
+    },
+    {
+      "surface": "מצרתו",
+      "gloss": "ከችግሩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יושיענו",
+      "gloss": "ያድነውም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:23:15.210354361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ይሴም ሻማን አሳለፈ፤ እርሱም አለ፦ «በዚህም ላይ ያህዌህ አልመረጠም።»",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "አሳለፈ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ይሴ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ሻማን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "በዚህም"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አልመረጠም"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "መረጠ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:41:04.754038233Z",
+  "model": "glm-5.3"
+}

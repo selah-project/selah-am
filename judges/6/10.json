@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "judges 6:10",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እናንተንም እንዲህ አልሁ በኩል፦ እኔ ያህዌህ ኤሎሂማችሁ ነኝ፤ በምድራቸው የምትኖሩባቸው የአሞራዊ ኤሎሂም ⟨את⟩ አትፍሩ፤ ነገር ግን በድምፄ አልሰሙም።",
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "አልሁ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "እናንተን"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂማችሁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ፍሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የአሞራዊ ኤሎሂም"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "የ… ኤሎሂም"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "አሞራዊ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምትኖሩባቸው"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "יושבים",
+      "gloss": "የምትኖሩ"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "በምድራቸው"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "ሰሙም"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "በድምፄ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:17:30.540748402Z",
+  "model": "glm-5.3"
+}

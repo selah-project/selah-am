@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "genesis 25:25",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "የመጀመሪያው ⟨ልጅ⟩ ቀይ ሆኖ ወጣ፣ ሙሉ አካሉ እንደ የፀጉር ልብስ ነበር፤ ስሙንም ዔሳው ብለው ጠሩት።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "የመጀመሪያው"
+    },
+    {
+      "surface": "אדמוני",
+      "gloss": "ቀይ ሆኖ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ሙሉ አካሉ"
+    },
+    {
+      "surface": "כאדרת",
+      "gloss": "እንደ ልብስ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "የፀጉር"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ጠሩት"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዔሳው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:44:09.312156301Z",
+  "model": "glm-5.3"
+}

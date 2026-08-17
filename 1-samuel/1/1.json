@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-samuel 1:1",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እና ⟨ነበረ⟩ አንድ ሰው ከራማታይም ሶፌም ከኤፍራይም ተራራ፣ ስሙም ኤልቃና የይሮኃም ልጅ፣ የይሮኃም የኤልይሁ ልጅ፣ የኤልይሁ የቶኁ ልጅ፣ የቶኁ የሹፍ ልጅ፣ ኤፍራታዊ ነበር።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እና ⟨ነበረ⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הרמתים",
+      "gloss": "ራማታይም"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "ሶፌም"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ከ…ተራራ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ስሙም"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ኤልቃና"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ…ልጅ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ይሮኃም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ…ልጅ"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "ኤልይሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ…ልጅ"
+    },
+    {
+      "surface": "תחו",
+      "gloss": "ቶኁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ…ልጅ"
+    },
+    {
+      "surface": "צוף",
+      "gloss": "ሹፍ"
+    },
+    {
+      "surface": "אפרתי",
+      "gloss": "ኤፍራታዊ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:31:32.731508545Z",
+  "model": "glm-5.3"
+}

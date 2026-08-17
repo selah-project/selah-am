@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 88,
+  "translation": "ክፉ ቁጣህ በእኔ ላይ አልፏል፤ መደነገጣችህ እኔን ረገጠኝ።",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "አልፏል"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "ክፉ ቁጣህ"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "መደነገጣችህ"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "እኔን ረገጠኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:30.322680180Z",
+  "model": "glm-5.3"
+}

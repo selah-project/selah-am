@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "leviticus 5:14",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ያህዌህም እንዲህ ብሎ ሞሼን ተናገረ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:44:33.945704184Z",
+  "model": "glm-5.3"
+}

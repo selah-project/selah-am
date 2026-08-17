@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "proverbs 6:31",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ተገኘ እንጂ ሰባት እጥፍ ይከፍላል — ⟨את⟩ የቤቱን ሀብት ሁሉ ይሰጣል።",
+  "tokens": [
+    {
+      "surface": "ונמצא",
+      "gloss": "ተገኘ እንጂ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ይከፍላል"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "ሰባት እጥፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ሀብት"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "የቤቱን"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይሰጣል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:23:36.869366556Z",
+  "model": "glm-5.3"
+}

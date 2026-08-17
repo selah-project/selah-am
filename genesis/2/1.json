@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ተፈጸሙ ሰማያት እና ⟨ተፈጸመ⟩ ምድር እና ሁሉም ጭፍራቸው።",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "ተፈጸሙ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "እና ምድር"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉም"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ጭፍራቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:30:47.150385532Z",
+  "model": "glm-5.3"
+}

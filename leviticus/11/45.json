@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እኔ ያህዌህ ነኝ፣ ከምድረ ምጽራይም ⟨את⟩ እናንተን የማወጣ በእናንተ ኤሎሂም ልሆን፤ እናንተም ቅዱሳን ትሆናላችሁ፣ እኔ ቅዱስ ስለ ሆንኩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "የማወጣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ እናንተን",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከምድረ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽራይም"
+    },
+    {
+      "surface": "להית",
+      "gloss": "ልሆን"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "በእናንተ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ትሆናላችሁ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ቅዱሳን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:45:34.926825289Z",
+  "model": "glm-5.3"
+}

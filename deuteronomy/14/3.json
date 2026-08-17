@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ምንም ግልገል ነገር አትብላ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ብላ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ምንም"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ግልገል ነገር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:41:08.420261095Z",
+  "model": "glm-5.3"
+}

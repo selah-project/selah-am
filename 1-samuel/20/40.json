@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እና ያህዌህን ⟨את⟩ መሣሪያዎቹን ለወንዱ ለእርሱ ያለው ሰጠ እና አለው ሂድ ወደ ⟨the⟩ ከተማው አስገባ",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሣሪያዎቹን"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "መሣሪያዎቹን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ወንዱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "አስገባ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማው"
+    }
+  ],
+  "timestamp": "2026-08-16T05:45:41.194573562Z",
+  "model": "glm-5.3"
+}

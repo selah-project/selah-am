@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ይመጣሉና ጽድቁን ለሚወለድ ሕዝብ ያወራሉ፤ እንደ አደረገው ስለ ሆነ።",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "ይመጣሉ"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ያወራሉም"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ጽድቁን"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ለሕዝብ"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "ለሚወለድ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገው"
+    }
+  ],
+  "timestamp": "2026-08-16T18:11:14.266035081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 97,
+  "translation": "በረገሙ ዓለምን አበራ፤ ምድሩ አየች እና ተንዘፈዘፈች።",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "አበራ"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "በረገሙ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ዓለምን"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "አየች"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "እና ተንዘፈዘፈች"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:07.128060202Z",
+  "model": "glm-5.3"
+}

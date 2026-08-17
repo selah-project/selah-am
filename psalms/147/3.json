@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 147,
+  "translation": "የሰበሩትን ልቦች የሚፈውስ፣ የቁስሮቻቸውንም የሚታስር ነው።",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "የሚፈውስ"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "የሰበሩትን"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቦች"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "እና የሚታስር"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "የቁስሮቻቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:33.617455939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የንፍታሌም ልጆች ትውልዳቸው በቤተ ሰባቸው በስማቸው ቁጥር ከዐሥራ ሁለት ዓመት እና ከዚያ በላይ ወደ ጦር የሚወጣ ሁሉ በጎሳቸው።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ንፍታሌም"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "ትውልዳቸው"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "በጎሳቸው"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "በቤተ"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ሰባቸው"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "በቁጥር"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ስማቸው"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "ከ... የሆነ ልጅ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ዐሥራ ሁለት"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "እና ከዚያ በላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "የሚወጣ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ወደ ጦር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:02:10.959283991Z",
+  "model": "glm-5.3"
+}

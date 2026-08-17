@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "መዝሙር፣ ዝማሬ፣ የቆራሕ ልጆች።",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ዝማሬ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለ…ልጆች"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ቆራሕ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:49.927351950Z",
+  "model": "glm-5.3"
+}

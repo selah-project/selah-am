@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "daniel 8:11",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እስከ ሠራዊቱ አለቃም ድረስ አበዛ፤ ከእርሱም ⟨את⟩ ዘላቂው ቍርባን ተወገደ፤ የመቅደሱም መሠረት ተጣለ።",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "እና እስከ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ሠራዊቱ"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "አበዛ"
+    },
+    {
+      "surface": "וממנו",
+      "gloss": "እና ከእርሱ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ተወገደ",
+      "marks": "ዘላቂው ቍርባን"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "ዘላቂው"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "ተጣለም"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "መሠረት"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "የመቅደሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:38:09.183252261Z",
+  "model": "glm-5.3"
+}

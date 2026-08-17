@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "አለቃ፣ ታዛዥም ሆኖ መሪም የላትም፤",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የላትም"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ላት"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "ታዛዥ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "እና መሪ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:23:04.066251160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ለዳን አኪዓዜር የዓሚሻዳይ ልጅ።",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "ለዳን"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "አኪዓዜር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "ዓሚሻዳይ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:02:53.268004379Z",
+  "model": "glm-5.3"
+}

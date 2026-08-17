@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 99,
+  "translation": "ያህዌህ በጽዮን ታላቅ ⟨ነው⟩፤ እርሱም በሁሉም ሕዝቦች ላይ ከፍ ያለ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "በጽዮን"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ከፍ ያለ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በሁሉም"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ሕዝቦች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:01.474689455Z",
+  "model": "glm-5.3"
+}

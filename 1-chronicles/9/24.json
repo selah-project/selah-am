@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ጠባቢዎቹ በአራቱ ነፋሳት አቅጣጫዎች ይሆናሉ—ምሥራቅ፣ ምዕራብ፣ ሰሜን፣ ደቡብ።",
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "በአራት"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "ነፋሳት (አቅጣጫዎች)"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ይሆናሉ"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ጠባቢዎቹ"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "ምሥራቅ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ምዕራብ"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "ሰሜን"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "እና ደቡብ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:49:25.836524969Z",
+  "model": "glm-5.3"
+}

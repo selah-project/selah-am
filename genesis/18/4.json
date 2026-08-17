@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "genesis 18:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ትንሽ ውሃ ይውሰድ፤ እባክህ እግሮቻችሁን ታጥቡ እና በዛፉ ሥር ታረፉ።",
+  "tokens": [
+    {
+      "surface": "יקח",
+      "gloss": "ይውሰድ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ትንሽ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "ታጥቡ"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "እግሮቻችሁን"
+    },
+    {
+      "surface": "והשענו",
+      "gloss": "ታረፉ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ…ሥር"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "የዛፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:38:54.200911081Z",
+  "model": "glm-5.3"
+}

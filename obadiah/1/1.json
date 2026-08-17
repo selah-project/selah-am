@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "obadiah 1:1",
+  "book": "obadiah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የዕብዲያ ራዕይ። አዶናይ ያህዌህ ስለ ኤዶም እንዲህ አለ፦ ወሬ ከያህዌህ ⟨את⟩ ሰምተናል፤ እና መልእክተኛ በአሕዛብ ተልኳል፦ ተነሥታችሁ፣ በእርሷ ላይ እንነሥ ለማዋጋት።",
+  "tokens": [
+    {
+      "surface": "חזון",
+      "gloss": "ራዕይ"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "የዕብዲያ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לאדום",
+      "gloss": "ስለ ኤዶም"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "ወሬ"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "ሰምተናል"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "እና መልእክተኛ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "በአሕዛብ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ተልኳል"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "ተነሥታችሁ"
+    },
+    {
+      "surface": "ונקומה",
+      "gloss": "እንነሥ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "በእርሷ ላይ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ለማዋጋት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:08:45.390399408Z",
+  "model": "glm-5.3"
+}

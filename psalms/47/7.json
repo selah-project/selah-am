@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 47,
+  "translation": "ለኤሎሂም ዜማ፣ ዜማ ዘምሩ፤ ለንጉሣችን ዘምሩ፣ ዜማ ዘምሩ።",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ዘምሩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ለኤሎሂም"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ዜማ ዘምሩ"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ዘምሩ"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "ለንጉሣችን"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ዜማ ዘምሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:15.890929152Z",
+  "model": "glm-5.3"
+}

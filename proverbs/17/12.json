@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "በሰው ላይ የውርጁን ያጣች ድብ መገናኘት ይሻላል፤ ከሞኝ ጋር በሞኝነቱ አትገናኝ።",
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "መገናኘት"
+    },
+    {
+      "surface": "דב",
+      "gloss": "ድብ"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "የውርጁን ያጣች"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "በሰው"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ሞኝ"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "በሞኝነቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:28:54.079869028Z",
+  "model": "glm-5.3"
+}

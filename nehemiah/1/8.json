@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 1:8",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እባክህ ⟨את⟩ ⟨ቃሉን⟩ አስታውስ ወደ ሞሼ አገልጋይህ ⟨את⟩ ትእዛዝ የሰጠህት በመናገር፦ እናንተ እንደ ሸሸማችሁ እኔ እናንተን ⟨את⟩ በአሕዛብ እከላለሁ።",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "አስታውስ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃሉን"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ት"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "ሰጠህት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሼ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "አገልጋይህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "በመናገር"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "תמעלו",
+      "gloss": "እንደ ሸሸማችሁ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ᥕኔ"
+    },
+    {
+      "surface": "אפיץ",
+      "gloss": "እከላለሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "በአሕዛብ"
+    }
+  ],
+  "timestamp": "2026-08-17T10:40:11.396807646Z",
+  "model": "glm-5.3"
+}

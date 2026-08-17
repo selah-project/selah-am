@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "1-kings 4:5",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ዐዝርያሁ የናታን ልጅ በተቆማሪዎቹ ላይ ነበር፤ ዛቡድም የናታን ልጅ ካህን፣ የንጉሡ ወዳጅ ነበር።",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "ዐዝርያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ናታን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "ተቆማሪዎቹ"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "ዛቡድም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ናታን"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ወዳጅ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:14:27.893544385Z",
+  "model": "glm-5.3"
+}

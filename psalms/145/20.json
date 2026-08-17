@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 145,
+  "translation": "ጠባቂ ⟨ነው⟩ ያህዌህ ⟨את⟩ ሁሉን የሚወዱትን፣ እና ⟨את⟩ ሁሉን ክፉዎችን ያጠፋል።",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "ጠባቂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን የሚወዱትን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "የሚወዱትን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን ክፉዎችን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ክፉዎችን"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "ያጠፋል"
+    }
+  ],
+  "timestamp": "2026-08-16T18:12:36.147285815Z",
+  "model": "glm-5.3"
+}

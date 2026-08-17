@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ኤሎሂም የእኔ፣ ቀን በቀን እጮካለሁ እና ⟨አታስተናግድም⟩፤ ሌሊትም እና ዝግጁነት የለኝም።",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም የእኔ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "እጮካለሁ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ቀን በቀን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አታስተናግድም"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "አታስተናግድም"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "እና ሌሊትም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ጸጥታ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:24.940173369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "በያህዌህ ዘንድ ክፉ አድርገዋል፤ ስለዚህ አገር-የለሽ ልጆችን ወልደዋል፤ አሁን ወር ⟨את⟩ ድሎቻቸውን ይበላቸዋል።",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "በያህዌህ"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ክፉ አድርገዋል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ልጆችን"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "አገር-የለሽ"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ወልደዋል"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "ይበላቸዋል"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ወር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድሎቻቸውን"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "ድሎቻቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:03:01.976639248Z",
+  "model": "glm-5.3"
+}

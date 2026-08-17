@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እርሷም ከእርሱ ⟨את⟩ ሄደች፤ በሩን ስማ ለራሷና ለልጆቿ ዘጋች፤ እነርሱ ወደ እርሷ ያቀርባሉ፣ እርሷም ታፈሰች።",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "ሄደች"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "ከእርሱ ⟨את⟩",
+      "marks": "ከእርሱ"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "ዘጋች"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "በሩን"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "ስማ ለራሷ"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "እና ለ"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ልጆቿ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እነርሱ"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "ያቀርባሉ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ወደ እርሷ"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "እና እርሷ"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "ታፈሰች"
+    }
+  ],
+  "timestamp": "2026-08-16T06:39:15.892305888Z",
+  "model": "glm-5.3"
+}

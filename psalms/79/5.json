@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 79,
+  "translation": "እስከ መቼ ያህዌህ በእለተ ሰንበት ቍጣህ ትነሳለህ ቍጣህ እንደ እሳት ይቃጠላል።",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "እስከ መቼ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን ያህል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "ትቈጣለህ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ይቃጠላል"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "ቍጣህ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:48.971610257Z",
+  "model": "glm-5.3"
+}

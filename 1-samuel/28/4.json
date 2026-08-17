@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ፍልስጤማውያንም ተሰበሰቡ፣ መጡ፣ በሱነምም ሰፈሩ፤ ሳኦልም ⟨את⟩ እስራኤልን ሁሉ ሰበሰበ፣ እነርሱም በጊልቦዓ ሰፈሩ።",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ተሰበሰቡ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤማውያን"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ሰፈሩ"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "በሱነም"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "ሰበሰበ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ሰፈሩ"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "በጊልቦዓ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:51:27.683408593Z",
+  "model": "glm-5.3"
+}

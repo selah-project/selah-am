@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "job 19:7",
+  "book": "job",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እነሆ አገዳደም እጮኻለሁ ነገር ግን አልተመለስኩም፤ እለምታለሁ ነገር ግን ፍርድ የለም።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אצעק",
+      "gloss": "እጮኻለሁ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "አገዳደም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ነገር ግን አል"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ተመለስኩም"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "እለምታለሁ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ነገር ግን የለም"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:49:20.745151726Z",
+  "model": "glm-5.3"
+}

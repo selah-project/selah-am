@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "በጊብዐን ያህዌህ ለሰሎሞን በሌሊቱ በሕልም ተገለጠለት፤ ኤሎሂምም «ጠይቅ፤ ምን እሰጥሃለሁ?» አለው።",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "በጊብዐን"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ተገለጠ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "በሕልም"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "በሌሊቱ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ጠይቅ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "እሰጥሃለሁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:15:36.743420368Z",
+  "model": "glm-5.3"
+}

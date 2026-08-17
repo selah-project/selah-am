@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የባዕድ አማልክትን ⟨את⟩ ከባሮቻቸው አስወገዱ እና ⟨את⟩ ያህዌህን አገለገሉ፤ በእስራኤል መከራ ነፍሱ አጭታ።",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "አስወገዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የባዕድ አማልክትን"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "የ…አማልክት"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "የባዕድ"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "ከባሮቻቸው"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "አገለገሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "አጭታ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱ"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "በመከራ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T05:22:13.681682995Z",
+  "model": "glm-5.3"
+}

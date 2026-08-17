@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ንጉሡም ከኤሎሂም ሰው አገልጋዩ ከጌሐዚ ጋር በመናገር ላይ «ኤልሴዓ ያደረጋቸውን ⟨את⟩ ሁሉን ታላቅ ሥራዎች ለእኔ እባክህ ንገረኝ» እያለ ነበር።",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "በመናገር ላይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "ጌሐዚ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "አገልጋዩ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "የ… ሰው"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እያለ"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "ንገረኝ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "ታላቅ ሥራዎች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ያደረጋቸው"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ኤልሴዓ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:40:20.270753864Z",
+  "model": "glm-5.3"
+}

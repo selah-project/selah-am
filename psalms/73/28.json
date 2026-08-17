@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "psalms 73:28",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "እኔ ግን መቅረቤ ወደ ኤሎሂም ለኔ መልካም ነው፤ በአዶናይ ያህዌህ በደህናዬ ሰጥቼያለሁ፣ ሥራዎችህን ሁሉ ለመናገር።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "קרבת",
+      "gloss": "መቅረቤ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለኔ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም ነው"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ሰጥቼያለሁ"
+    },
+    {
+      "surface": "באדני",
+      "gloss": "በአዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "በደህናዬ"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "ለመናገር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מלאכותיך",
+      "gloss": "ሥራዎችህን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:05.004989396Z",
+  "model": "glm-5.3"
+}

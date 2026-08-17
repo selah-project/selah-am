@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 5:12",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ሀማንም እንዲሁም አለ፦ እንኳን ንግሥት አስቴር ንጉሡን አብራው ወደ አዘጋጀችው ምግብ ማንንም አልበገረችም፤ ከእኔ ⟨את⟩ በስተቀር፤ እናም ነገ እኔ ከንጉሡ ጋር በእርሷ ጋብዣ ተጥራለሁ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሀማን"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "הביאה",
+      "gloss": "አበገረችም"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "አስቴር"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ንግሥት"
+    },
+    {
+      "surface": "עם",
+      "gloss": "አብራው"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "ምግብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "አዘጋጀችው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "በስተቀር"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "ከእኔ ⟨את⟩",
+      "marks": "እኔ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እናም"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "ነገ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "קרוא",
+      "gloss": "ተጥራለሁ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "በእርሷ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋር"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ከንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:19:34.716856523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "ነፍሴን የሚፈልጉ ያፈሩና ይሰረዙ፤ ክፉዬን የሚያስቡ ወደ ኋላ ይመለሱና ይዋረዱ።",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ያፈሩ"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "እና ይሰረዙ"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "የሚፈልጉ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "ይመለሱ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ወደ ኋላ"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "እና ይዋረዱ"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "የሚያስቡ"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ክፉዬን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:13.289180819Z",
+  "model": "glm-5.3"
+}

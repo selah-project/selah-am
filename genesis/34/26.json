@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "genesis 34:26",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "እነሆም ⟨את⟩ ሐሞርንና ⟨את⟩ ልጁን ሴኬም በሰይፍ አፍ ገደሉ፤ ⟨את⟩ ዲናንም ከሴኬም ቤት ወሰዱ፤ ወጡ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሐሞርን"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ሐሞርን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሴኬምን"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ሴኬምን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁን"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ገደሉ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "በአፍ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "የሰይፍ"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ወሰዱም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዲናን"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "ዲናን"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ከቤት"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "የሴኬም"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ወጡ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:53:09.480616582Z",
+  "model": "glm-5.3"
+}

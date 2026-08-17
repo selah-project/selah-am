@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ሕዝቡንም እንዲህ አለው፤ ለሦስተኛው ቀን ተዘጋጁ፤ ወደ ሴት አትቀርቡ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ሁኑ"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "ተዘጋጁ"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "ለሦስተኛው"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "ቀርቡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሴት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:18:27.723738529Z",
+  "model": "glm-5.3"
+}

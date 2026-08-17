@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "1-samuel 25:9",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "የዳዊት አገልጋዮች መጡ፤ በዳዊት ስም እነዚህን ሁሉ ቃላት ለናባል ተናገሩ፤ እነሱም ዝግ አሉ።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "የ…አገልጋዮች"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ተናገሩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ናባል"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "እንደ ሁሉ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "በስም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "וינוחו",
+      "gloss": "ዝግ አሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:48:33.692939793Z",
+  "model": "glm-5.3"
+}

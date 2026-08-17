@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ሰሎሞንም ⟨את⟩ ቦዓዝን ወለደ፤ ቦዓዝም ⟨את⟩ ዓውቤድን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "ሰሎሞንም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቦዓዝን"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ቦዓዝን"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "ቦዓዝም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓውቤድን"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ዓውቤድን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:05:23.634431624Z",
+  "model": "glm-5.3"
+}

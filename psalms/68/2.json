@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "ኤሎሂም ይነሳል፤ ጠሾቹ ይበተናሉ፤ እርሱን የሚጠሉትም ከፊቱ ይሸሻሉ።",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "ይነሳል"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "ይበተናሉ"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "ጠሾቹ"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "ይሸሻሉ"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "እርሱን የሚጠሉትም"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ከፊቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:13.023868001Z",
+  "model": "glm-5.3"
+}

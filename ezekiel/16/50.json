@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezekiel 16:50",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "እነርሱም ኮሩ በፊቴም መጸዳቅ ሠሩ፤ እኔም እነርሱን ⟨את⟩ እንደምእራቀ አስወግጃቸው።",
+  "tokens": [
+    {
+      "surface": "ותגבהינה",
+      "gloss": "እና ኮሩ"
+    },
+    {
+      "surface": "ותעשינה",
+      "gloss": "እና ሠሩ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "መጸዳቅ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊቴ"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "እኔም አስወግጃቸው"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "አየሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:19:51.788937357Z",
+  "model": "glm-5.3"
+}

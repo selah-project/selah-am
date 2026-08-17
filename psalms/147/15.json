@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 147,
+  "translation": "ትእዛዙን ወደ ምድር የሚልክ፤ በፍጥነት ቃሉ ይሮጫል።",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "የሚልክ"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "ትእዛዙን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ወደ ምድር"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "በፍጥነት"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "ይሮጫል"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ቃሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:37.287444312Z",
+  "model": "glm-5.3"
+}

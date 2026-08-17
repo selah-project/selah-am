@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 70,
+  "translation": "የሚፈልጉህ ሁሉ ይደሰቱና በአንተ ይረኩ፤ የማዳንህን የሚወዱም ሁልጊዜ «ኤሎሂም ይታላቅ» ይሉ።",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "ይደሰቱ"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ይረኩ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "የሚፈልጉህ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ይሉ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "ይታላቅ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "የሚወዱ"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "የማዳንህን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:10.315089880Z",
+  "model": "glm-5.3"
+}

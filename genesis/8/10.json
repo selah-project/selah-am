@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እርሱም ደግሞ ሌሎች የሰባት ቀናት ቆየ፣ እንደ ገና ደግሞ ⟨את⟩ እርግቡን ከ⟨መርከቡ⟩ ላከ።",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ቆየ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "የሰባት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ሌሎች"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "እንደ ገና ደግሞ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እርግቡን"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "እርግቡን"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "መርከቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:31:58.626377164Z",
+  "model": "glm-5.3"
+}

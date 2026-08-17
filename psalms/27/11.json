@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ያህዌህ ሆይ፣ መንገድህን አስተምረኝ፤ በቀጥተኛ መንገድ መራኝ፤ ጠላቶቼ ስለሆኑ።",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "አስተምረኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "መንገድህን"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "መራኝ"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "በ…መንገድ"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "በቀጥተኛ መንገድ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ስለሆኑ"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "ጠላቶቼ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:04.865138064Z",
+  "model": "glm-5.3"
+}

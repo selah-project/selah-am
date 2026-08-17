@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "isaiah 34:1",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ተቃርቡ አሕዛብ ለመስማት፥ ሕዝቦችም ጆሮ ይጥሉ፤ ምድር ትሰማ፥ ሙላቷም፥ ዓለምም ከካቦችዋ ጋር።",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "ተቃርቡ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ለመስማት"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ሕዝቦችም"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "ጆሮ ይጥሉ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ትሰማ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ሙላቷም"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ዓለም"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "צאצאיה",
+      "gloss": "ካቦችዋ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:16:10.046390517Z",
+  "model": "glm-5.3"
+}

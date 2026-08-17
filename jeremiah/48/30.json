@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "jeremiah 48:30",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "እኔ አውቄያለሁ፣ የያህዌህ ቃል ነው፤ ቍጣውን፣ ግን እንደዚያ አይደለም፤ በድሮቹ እንደዚያ አልሠሩም።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "አውቄያለሁ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "የ…ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "ቍጣውን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ግን…አይደለም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚያ"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "በድሮቹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚያ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ሠሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:11:17.009208020Z",
+  "model": "glm-5.3"
+}

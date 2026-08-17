@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 71,
+  "translation": "አንተ ተስፋዬ ነህ፣ አዶናይ ያህዌህ፤ ከመገርምሴ ጀምሮ ምርጫዬ አንተ ነህ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "ተስፋዬ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "ምርጫዬ"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ከመገርምሴ ጀምሮ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:59.062995921Z",
+  "model": "glm-5.3"
+}

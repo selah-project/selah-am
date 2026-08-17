@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ፈርዖንም ⟨את⟩ ⟨ይህንን⟩ ጉዳይ ሰማ፤ ሞሼን ⟨את⟩ ለመግደልም ፈለገ፤ ሞሼም ከፈርዖን ፊት ሮጠ፤ በምድያም ምድር ተቀመጠ፤ በውሃ ጉድጓድ አንገትም ተቀመጠ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማም"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጉዳይን"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ጉዳይ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህንን"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "ፈለገም"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "ለመግደል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሼን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼን"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ሮጠ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከ…ፊት"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቀመጠ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በ…ምድር"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ምድያም"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቀመጠም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…አንገት"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "ውሃ ጉድጓድ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:06:13.436046949Z",
+  "model": "glm-5.3"
+}

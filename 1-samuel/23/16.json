@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "የሳኦል ልጅ ይሆናታን ተነሣ፤ ወደ ዳዊት ወደ ኮረማ ሄደ፤ በኤሎሂምም እጁን ⟨את⟩ አጠነከረለት።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሣ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ይሆናታን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "ወደ ኮረማ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "አጠነከረለት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጁን"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "በኤሎሂምም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:46:18.587266984Z",
+  "model": "glm-5.3"
+}

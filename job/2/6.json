@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ያህዌህም ለሳጣን እንዲህ አለ፦ እነሆ በእጅህ ⟨ነው⟩፤ ⟨את⟩ ነፍሱን ብቻ ጠብቅ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ሳጣን"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "በእጅህ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሱን"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱን"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ጠብቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:40:42.979489024Z",
+  "model": "glm-5.3"
+}

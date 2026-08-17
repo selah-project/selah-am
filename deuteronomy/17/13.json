@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "እና ሕዝቡ ሁሉ ይሰማል፣ ይፈራል፣ እና ከአሁን በኋላ በስደት አይቆምም።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ይሰማል"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ይፈራል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "በስደት ይቆም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ከአሁን በኋላ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:45:37.122220925Z",
+  "model": "glm-5.3"
+}

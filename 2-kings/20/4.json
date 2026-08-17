@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 20:4",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ይሆናል፤ የስዊያስ አልወጣም ከከተማዋ መካከለኛ ክፍል፣ የያህዌህ ቃል ወደ እርሱ ሆኖ እንዲህ ሲል መጣ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "የስዊያስ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ወጣም"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከከተማዋ"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "መካከለኛ ክፍል"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "የ...ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ሆኖ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T19:51:47.275197638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 11:22",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ፈርዖንም እንዲህ አለው፣ እኔ ግን ከአንተ ጋር ምን አጣህ? እነሆ ወደ ምድርህ ለመሄድ ትፈልጋለህ? እርሱም አለው፣ አይደለም፤ ነገር ግን በእውነት ላከኝ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "አጣህ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ከእኔ ጋር"
+    },
+    {
+      "surface": "והנך",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ትፈልጋለህ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ለመሄድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ምድርህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ላክ"
+    },
+    {
+      "surface": "תשלחני",
+      "gloss": "በእውነት ላከኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:46:18.062130149Z",
+  "model": "glm-5.3"
+}

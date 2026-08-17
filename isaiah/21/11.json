@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "isaiah 21:11",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "የዱማ ተሸካሚ። ከስዒር ወደ እኔ የሚጮኅ አለ፦ ጠባቂ ሆይ፣ ከሌሊቱ ምን የቀረ? ጠባቂ ሆይ፣ ከሌሊቱ ምን የቀረ?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ተሸካሚ"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "ዱማ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ይጮኃል"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "ከስዒር"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ጠባቂ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "מלילה",
+      "gloss": "ከሌሊቱ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ጠባቂ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "מליל",
+      "gloss": "ከሌሊቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:05:42.037750062Z",
+  "model": "glm-5.3"
+}

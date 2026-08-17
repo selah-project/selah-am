@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እንዲሁም ሆነ፤ የዚያች ሴት ቃላት ⟨את⟩ ሲሰማ ንጉሡ ልብሱን ⟨את⟩ ቈረጠ፤ በግድግዳዪቱም ላይ እርሱ ሲያልፍ ሕዝቡ አየ፤ እነሆም ከቤት በሥጋው ላይ የጋምብስ ነበረ።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "እንዲሁም ሆነ"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ሲሰማ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የዚያች ሴት ቃላት"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "የዚያች ሴት"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ቈረጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልብሱን"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ልብሱን"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ሲያልፍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "ግድግዳዪቱ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆም"
+    },
+    {
+      "surface": "השק",
+      "gloss": "የጋምብስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "በሥጋው"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ከቤት"
+    }
+  ],
+  "timestamp": "2026-08-16T19:50:03.023432256Z",
+  "model": "glm-5.3"
+}

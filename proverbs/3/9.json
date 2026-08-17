@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ያህዌህን ⟨את⟩ ከሀብትህ አክብር፤ እንዲሁም ከመጀመሪያው የሁሉም ፍሬዎችህ አክብር።",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "አክብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "ከሀብትህ"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "እንዲሁም ከመጀመሪያው"
+    },
+    {
+      "surface": "כל",
+      "gloss": "የሁሉም"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "ፍሬዎችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:20:55.444771270Z",
+  "model": "glm-5.3"
+}

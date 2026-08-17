@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 116,
+  "translation": "ቃለ እምላዬን ለያህዌህ እከፍላለሁ፤ አሁን እባክህ በሕዝቡ ሁሉ ፊት።",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "ቃለ እምላዬን"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "እከፍላለሁ"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "נא",
+      "gloss": "አሁን እባክህ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "በ…ሁሉ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:16.755343757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ሦስት ዓመታት በየሩሳሌም ነገሠ፤ የእናቱም ስም ማዕኳ የአቢሳሎም ሴት ልጅ ናት።",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "በየሩሳሌም"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ወደፊትም ስም"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "እናቱ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ማዕኳ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ሴት ልጅ"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "አቢሳሎም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:30:05.377460634Z",
+  "model": "glm-5.3"
+}

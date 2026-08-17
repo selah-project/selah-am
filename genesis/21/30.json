@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "እርሱም እንዲህ አለ፦ ⟨את⟩ ሰባቱን በጎች ምላጦች ከእጄ ታገኛለህ፤ ይህም በዚህ በር ጠፈሩት ምክንያት ለእኔ ምስክር ይሁን ዘንድ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንዲህ ምክንያት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰባቱን በጎች ምላጦችን"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሰባቱን"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "በጎች ምላጦችን"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ታገኛለህ"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ከእጄ"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ይሁን ዘንድ ምክንያት"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "ምስክር ይሁን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በዚህ ምክንያት"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "ጠፈሩት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የበር ምንጩን"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "የበር ምንጩን"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህችን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:41:18.568328624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 37:15",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "የያህዌህ ቃል ወደ እኔ መጣ፣ እንዲህ ሲል፦",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "መጣ\/ሆነ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T17:51:30.592147698Z",
+  "model": "glm-5.3"
+}

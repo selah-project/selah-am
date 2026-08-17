@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ዳዊድ የሚሠዩትን መሥዋዕትና የሰላምን መሥዋዕት ሲያበቃ ሕዝቡን ⟨את⟩ በያህዌህ ስም ባረከ።",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "አበቃ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "ከማቅረብ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "የሚሠዩው መሥዋዕት"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "የሰላም መሥዋዕት"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ባረከ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "በ…ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:02:21.666762392Z",
+  "model": "glm-5.3"
+}

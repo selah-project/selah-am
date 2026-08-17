@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "በተቀደሰና በተለምደ መካከል ⟨את⟩ ሕዝቤን ያስተምራሉ፤ በርኵሰትና በንጹሐት መካከል ያሳውቋቸዋል።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቤን"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤን"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "ያስተምራሉ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በ…መካከል"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "በተቀደሰ"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "በተለምደ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እና በ…መካከል"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "በርኵሰት"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "በንጹሐት"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "ያሳውቋቸዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T08:53:25.411231620Z",
+  "model": "glm-5.3"
+}

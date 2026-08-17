@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 150,
+  "translation": "በሚሰሙ መበረከቶች አመስግኑት፤ በየደምቃ ወይም የድምቀት ድምፅ መበረከቶች አመስግኑት።",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "አመስግኑት"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "በ…መበረከቶች"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሚሰሙ"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "አመስግኑት"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "በ…መበረከቶች"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "የድምቀት ድምፅ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:28.451811122Z",
+  "model": "glm-5.3"
+}

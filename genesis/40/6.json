@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ዮሴፍ ማለዳ ወደ እነርሱ ሲገባ ⟨את⟩እነርሱን ተመለከተ፤ እነሆም ደክመዋል።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ሲገባ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ወደ እነርሱ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "በማለዳ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ተመለከተ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "እነሆም"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "ደክመዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T02:56:32.504135320Z",
+  "model": "glm-5.3"
+}

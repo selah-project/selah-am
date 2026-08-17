@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "ሀብቱም ለሁሉም ሥራ እሷን ⟨את⟩ ለመሥራት በቂ ነበረ፤ እና ተጨማሪም ነበረ።",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "ሥራውም"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነበረ"
+    },
+    {
+      "surface": "דים",
+      "gloss": "በቂ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ለመሥራት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እሷን (ሥራውን)"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "እና ተጨማሪም ነበረ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:38:54.162875421Z",
+  "model": "glm-5.3"
+}

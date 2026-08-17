@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "አቢጌልም ⟨את⟩ አማሳን ወለደች፤ የአማሳ አባትም የይስማኤል ዘር የሆነ ይተር ነበር።",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "አቢጌልም"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አማሳ"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "አማሳ"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "የ…አባትም"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "አማሳ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ይተር"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "የይስማኤል ዘር"
+    }
+  ],
+  "timestamp": "2026-08-16T12:33:38.892253362Z",
+  "model": "glm-5.3"
+}

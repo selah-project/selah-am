@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 110,
+  "translation": "በአሕዛብ ይፈርዳል፤ አካላትን ይሞላል፤ በምድር ስር ብዙ ራስን ያስቀጠቃል።",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "ይፈርዳል"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "በአሕዛብ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ይሞላል"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "አካላትን"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ያስቀጠቃል"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ከ… በላይ፣ በ… ስር"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ብዙ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:28.356422434Z",
+  "model": "glm-5.3"
+}

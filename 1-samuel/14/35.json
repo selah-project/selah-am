@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ሳኦልም ለያህዌህ መሠዊያ ሠራ፤ ⟨את⟩ በእርሱ ጀመረ ለያህዌህ መሠዊያ መሥራት።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሠራም"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠዊያ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "በእርሱ (መሠዊያው) መሥራትን"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ጀመረ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "መሥራት"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠዊያ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:00:11.543988166Z",
+  "model": "glm-5.3"
+}

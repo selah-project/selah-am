@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "የብልጽግና ምሽግንም፣ የከፍታዋን የግድግዳህን ክልል ያዋርዳል፣ ያንሳል፣ እስከ ምድር እስከ አፈር ድረስ ያደርሳል።",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "ምሽግንም"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "የከፍታ መጠለያ"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "የግድግዳህን"
+    },
+    {
+      "surface": "השח",
+      "gloss": "ያዋርዳል"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "ያንሳል"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "ያደርሳል"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "እስከ ምድር"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "አፈር"
+    }
+  ],
+  "timestamp": "2026-08-16T07:09:34.515500311Z",
+  "model": "glm-5.3"
+}

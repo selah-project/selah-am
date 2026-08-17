@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 4:5",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እስተርም ሃታኽን ከየአገሩ ሹማምት መካከል ወደ ፊቷ ላለው ሆኖ ጠራች፤ የሞርዱካይ ስለ ሆነ ነገር ምን እንደ ሆነ ለማወቅ እዚህ ምን አለ ብላ አዘወችው።",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "ጠረች"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "እስተር"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "ሃታኽን"
+    },
+    {
+      "surface": "מסריסי",
+      "gloss": "የአገሩ ሹማምት መካከል"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ሆኖ"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "ወደ ፊቷ ላለው አቆመው"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "እሷ ፊት"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "አዘወችው"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ ሆነ ነገር"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "የሞርዱካይ"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ለማወቅ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እንደ ሆነ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና ስለ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "זה",
+      "gloss": "አለ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:33:00.990006534Z",
+  "model": "glm-5.3"
+}

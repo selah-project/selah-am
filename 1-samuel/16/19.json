@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ሳኦልም መልእክተኞችን ወደ ይሥይ ላከ፤ ከበጎቹ ጋር ያለውን የአንተን ልጅ ዳዊት ⟨את⟩ ወደ እኔ ላክልኝ አለ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "መልእክተኞችን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ይሥይ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "ላክልኝ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊት"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "የአንተን ልጅ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኝ"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "ከበጎቹ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T05:41:46.229068089Z",
+  "model": "glm-5.3"
+}

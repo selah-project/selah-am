@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ሞሼም ⟨את⟩ ሕዝቡን በዚያ ቀን በመናገር አዘዘ፤",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በ…ቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ዚያ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "በመናገር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:49:38.887681721Z",
+  "model": "glm-5.3"
+}

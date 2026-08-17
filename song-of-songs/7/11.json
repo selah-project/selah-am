@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እኔ ለወዳጄ እቀራለሁ፤ ትስፈራውም ወደ እኔ ነው።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "ለወዳጄ"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ወደ እኔም"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "ትስፈራው"
+    }
+  ],
+  "timestamp": "2026-08-16T11:05:40.985362685Z",
+  "model": "glm-5.3"
+}

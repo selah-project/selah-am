@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "እንደ ነብር በውኃ ብረቀረቆች ላይ ስታፈራ፣ እንዲሁም ነፍሴ እንደ አንተ ታፈራለች፣ ኤሎሂም ሆይ።",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "እንደ ነብር"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ታፈራለች"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "ብረቀረቆች"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውኃ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ታፈራለች"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "እንደ አንተ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:14.503448508Z",
+  "model": "glm-5.3"
+}

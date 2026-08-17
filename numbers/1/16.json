@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እነዚህ የሕብረቱ ተጠሪዎች፣ የነርስ ነገሥታት የአባቶቻቸው ነገዶች፣ የእስራኤል ሺዎች ራሶች ⟨ናቸው⟩።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "የተጠሩት\/ተጠሪዎች"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ሕብረቱ"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "የ… ነገሥታት"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "ነገዶች"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "አባቶቻቸው"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ራሶች"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ሺዎች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨ናቸው⟩"
+    }
+  ],
+  "timestamp": "2026-08-16T04:03:07.671473817Z",
+  "model": "glm-5.3"
+}

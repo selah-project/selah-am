@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ምን ያህል በረከትህ ብዙ ነው፤ ለሚፈሩህ ደብቀሃል፣ ለበአንተ ለሚጠሉት ከሰው ልጆች ፊት አድርገሃል።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ምን ያህል"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "በረከትህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነውን"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "ደብቀሃል"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "ለሚፈሩህ"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "አድርገሃል"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "ለሚጠሉት"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ከፊት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:22.655625756Z",
+  "model": "glm-5.3"
+}

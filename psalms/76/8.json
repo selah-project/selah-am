@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 76,
+  "translation": "አንተ፣ አንተ ትፈራለህ፤ እና ከቍጣህ በኋላ በፊትህ ማን ይቆማል?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ትፈራለህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "እና ማን"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ይቆማል"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "በፊትህ"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ከዚያ ጊዜ"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ቍጣህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:36.955228008Z",
+  "model": "glm-5.3"
+}

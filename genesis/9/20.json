@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ኖህም የምድር ሰው ሆኖ ጀመረ፤ የወይን ዛፍም ተከለ።",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ጀመረም"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖህ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "የምድር ሰው"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "የአፈር"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "ተከለም"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "የወይን ዛፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:32:26.772670162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "በአህዳዊው ላይ የነበረውን ሁሉን ስብ፣ ⟨את⟩ የጉበቱን ክር እና ⟨את⟩ ሁለቱን ኩላሊት እና ⟨את⟩ ስባቸውን ወሰደ፤ ሞሼም በመሠዊያው ላይ አጠማ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን ስብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ስብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የነበረውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "አህዳዊ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ו⟨את⟩",
+      "marks": "ክሩን"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "ክር"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "የጉበት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ו⟨את⟩",
+      "marks": "ሁለቱን ኩላሊት"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ሁለቱን"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ኩላሊት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ו⟨את⟩",
+      "marks": "ስባቸውን"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "ስባቸውን"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "አጠማ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "በመሠዊያው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:48:11.233390591Z",
+  "model": "glm-5.3"
+}

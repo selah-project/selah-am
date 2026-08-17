@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ልጄ ሆይ፤ ከእነርሱ ጋር ⟨את⟩ በመንገድ አትሂድ፤ ከመንገዶቻቸው እግርህን አግድ።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ልጄ ሆይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "እሂድ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ከእነርሱ ጋር"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "አግድ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "እግርህን"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "ከመንገዶቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:20:03.166289507Z",
+  "model": "glm-5.3"
+}

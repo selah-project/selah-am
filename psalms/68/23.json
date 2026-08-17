@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "አዶናይ አለ፦ ከባሳን እመልሳለሁ፤ ከባሕር ጥልቀትም እመልሳለሁ።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "ከባሳን"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "እመልሳለሁ"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "እመልሳለሁ"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "ከጥልቀትም"
+    },
+    {
+      "surface": "ים",
+      "gloss": "የባሕር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:37.740660429Z",
+  "model": "glm-5.3"
+}

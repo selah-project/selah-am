@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "የያህዌህን ቤት ⟨את⟩ አቃጠለ፣ ⟨את⟩ የንጉሡን ቤት እና ⟨את⟩ የየሩሳሌምን ቤቶች ሁሉ አቃጠለ፤ ሁሉን ታላቅ ቤት ⟨את⟩ በእሳት አቃጠለ።",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "አቃጠለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የያህዌህ ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የንጉሡ ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቶች ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ቤቶች"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሳሌም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ታላቅ ቤት ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "አቃጠለ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:57:10.808174085Z",
+  "model": "glm-5.3"
+}

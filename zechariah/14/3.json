@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "zechariah 14:3",
+  "book": "zechariah",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ያህዌህም ይወጣል፤ ከእነዚያ አሕዛቦችም ጋር ይዋጋል፤ በውጊያም ቀን እንደ ዋጋበት እንደሆነ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ይወጣል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "ይዋጋል"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ከአሕዛቦች"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "እነዚያ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "እንደ ቀን"
+    },
+    {
+      "surface": "הלחמו",
+      "gloss": "ዋጋበት"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ውጊያ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:26:38.383903878Z",
+  "model": "glm-5.3"
+}

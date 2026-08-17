@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "እኔ ግን ሁልጊዜ ከአንተ ጋር ነኝ፤ በቀኝ እጄ ያዝኸኛል።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "ያዝኸኛል"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "እጄን"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "በቀኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:05.134486338Z",
+  "model": "glm-5.3"
+}

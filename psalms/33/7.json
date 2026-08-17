@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "የባሕሩን ውኃ እንደ ክምር የሚሰበስብ ነው፤ ጥልቆችን በመኝቶቹ ያስቀምጣል።",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "የሚሰበስብ"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "እንደ ክምር"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ውኃ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "የባሕሩን"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ያስቀምጣል"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "በመኝቶች"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ጥልቆችን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:12.631375822Z",
+  "model": "glm-5.3"
+}

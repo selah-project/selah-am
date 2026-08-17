@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "ወዳጆቼ እና ጓደኞቼ ከበሽታዬ ራቅ ብለው ቆመዋል፤ እና ዘመዶቼ እርቅ ብለው ቆመዋል።",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "ወዳጆቼ"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "እና ጓደኞቼ"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ራቅ ብለው"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "ከበሽታዬ"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ቆመዋል"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "እና ዘመዶቼ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "እርቅ"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ቆመዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:07.591531689Z",
+  "model": "glm-5.3"
+}

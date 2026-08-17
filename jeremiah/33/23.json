@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "jeremiah 33:23",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "የያህዌህ ቃል ወደ ኢየርምያስ መጣ፤ እንዲህ ብሎ፦",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ\/መጣ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ኢየርምያስ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:01:33.210703722Z",
+  "model": "glm-5.3"
+}

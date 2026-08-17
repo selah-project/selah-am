@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "1-kings 10:23",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ንጉሡ ሰሎሞንም በሀብትና በጥበብ ከምድር ነገሥታት ሁሉ ይበልጥ ነበር።",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "ይበልጥ ነበር"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞንም"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ነገሥታት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "በሀብት"
+    },
+    {
+      "surface": "ולחכמה",
+      "gloss": "እና በጥበብ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:21:06.463571964Z",
+  "model": "glm-5.3"
+}

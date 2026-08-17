@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 25:48",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ከተሸጠ በኋላ የመውደስ መብት ይኖረዋል፤ ከወንድሞቹ አንዱ ⟨את⟩ ያድነዋል።",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "ከ… በኋላ"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "ተሸጠ"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "የመውደስ መብት"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ይኖረዋል"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንዱ"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "ከወንድሞቹ"
+    },
+    {
+      "surface": "יגאלנו",
+      "gloss": "⟨את⟩ ያድነዋል",
+      "marks": "እርሱን (የተሸጠውን ወንድም)"
+    }
+  ],
+  "timestamp": "2026-08-16T19:12:22.185619216Z",
+  "model": "glm-5.3"
+}

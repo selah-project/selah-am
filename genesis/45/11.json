@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "genesis 45:11",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "እናኔ እዚያ ⟨את⟩ አንተን እመግብሃለሁ፤ እንደሆነም አምስት ዓመታት ራብ አሁንም ቀርቷል፤ አንተ፥ ቤትህም፥ ያለህም ሁሉ እንዳትሟጡ ነው።",
+  "tokens": [
+    {
+      "surface": "וכלכלתי",
+      "gloss": "እመግብሃለሁ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "አንተን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደሆነም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "አሁንም"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ራብ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "እንዳት…ም"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "እንዳትሟጡ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "ቤትህም"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለህ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "የ…ህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:02:05.013795908Z",
+  "model": "glm-5.3"
+}

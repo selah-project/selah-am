@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ወታደራዊ ሰፈር ቢኮፈኝ፣ ልቤ አይፈራም፤ ዘመቻ ቢነሣብኝ፣ በዚህ እኔ እተማመናለሁ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ቢ… ከ"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "ቢኮፈኝ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ወታደራዊ ሰፈር"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ… አል"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ይፈራም"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ቢ… ከ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ቢነሣ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ዘመቻ"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "በዚህ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "እተማመናለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:37:00.303042077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የፐሮስ ልጆች፣ ሁለት ሺህ መቶ ሰባ እና ሁለት።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ፐሮስ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሁለት ሺህ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "እና ሰባ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "እና ሁለት"
+    }
+  ],
+  "timestamp": "2026-08-16T12:15:48.297766841Z",
+  "model": "glm-5.3"
+}

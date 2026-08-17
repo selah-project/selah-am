@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.3",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እና የደላቸውን ⟨את⟩ ያምናሉ፣ እና የአባቶቻቸውን የደል ⟨את⟩ በክፋታቸው — ያ በእኔ ላይ የበደሉትን — እንዲሁም ያ ከእኔ ጋር በተቃዋሚነት የሄዱበትን።",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "እና ያምናሉ (ይታመናሉ)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የደላቸውን"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "የደላቸውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የደል"
+    },
+    {
+      "surface": "עון",
+      "gloss": "የደል"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "የአባቶቻቸውን"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "በክፋታቸው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "የበደሉበት"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "የሄዱበት"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ከእኔ ጋር"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "በተቃዋሚነት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:03:01.400047458Z",
+  "model": "glm-5.3"
+}

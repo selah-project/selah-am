@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 136,
+  "translation": "ምድርን በውኆች ላይ ለዘረጋ፣ በእውነት ለዘላለም ምክሩ ይኖራል፤ ምድርን በውኆች ላይ ለተንሳፋፊ የሰፋው፣ ለዘላለም ምክሩ ይኖራል።",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "ለዘረጋ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውኆች"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ምክሩ (ችሮታው)"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:49.012356768Z",
+  "model": "glm-5.3"
+}

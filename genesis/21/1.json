@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ያህዌህ ⟨את⟩ ሳራን እንደተናገረው ተመለከታት፤ ያህዌህም ለሳራ እንደተናገረው አደረገ።",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ተመለከታት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሳራን"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ሳራን"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ተናገረው"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "ለሳራ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:41:20.073773957Z",
+  "model": "glm-5.3"
+}

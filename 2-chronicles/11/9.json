@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እና ⟨את⟩ አዶራይምን፣ እና ⟨את⟩ ላኪሽን፣ እና ⟨את⟩ ዓዘቃን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "አዶራይምን"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "አዶራይምን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ላኪሽን"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "ላኪሽን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዓዘቃን"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "ዓዘቃን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:46:40.634384176Z",
+  "model": "glm-5.3"
+}

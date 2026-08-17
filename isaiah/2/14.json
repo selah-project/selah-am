@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እና በከፍታ ተራሮች ሁሉ ላይ፣ እና በተሳሉት ኮረብቶች ሁሉ ላይ።",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "እና ... ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ተራሮች"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "ከፍታ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና ... ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ኮረብቶች"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "የተሳሉት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:55:33.095028165Z",
+  "model": "glm-5.3"
+}

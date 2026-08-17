@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ሣኦልም ሦስቱም ወንዶቹ ልጆች እና ቤቱ ሁሉ አብረው ሞቱ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተም"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሣኦል"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "እና ሦስቱም"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ልጆቹ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "አብረው"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ሞቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:49:59.572027559Z",
+  "model": "glm-5.3"
+}

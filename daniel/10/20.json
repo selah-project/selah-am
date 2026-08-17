@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 10:20",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እንዲህ አለ፦ ለምን ወደ አንተ እንደ መጣሁ አውቀኸዋል? እና አሁን ከፋርስ አለቃ ጋር ለመዋጋት እመለሳለሁ፤ እኔ ሲወጣ እነሆ የያዋን አለቃ ይመጣል።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለ"
+    },
+    {
+      "surface": "הידעת",
+      "gloss": "አውቀኸዋል"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "መጣሁ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "እና አሁን"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "እመለሳለሁ"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ለመዋጋት"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ... ጋር"
+    },
+    {
+      "surface": "שר",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "ፋርስ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "ሲወጣ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "יון",
+      "gloss": "ያዋን"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ይመጣል"
+    }
+  ],
+  "timestamp": "2026-08-16T18:27:48.415355141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "በንሕሴድ በአሩቦት፤ ሶኮህ እና የሕፈር ምድር ሁሉ የእርሱ ነበረ።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "በንሕሴድ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "የሕሴድ ልጅ"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "በአሩቦት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "ሶኮህ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና … ሁሉ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "ሕፈር"
+    }
+  ],
+  "timestamp": "2026-08-16T06:14:07.394651582Z",
+  "model": "glm-5.3"
+}

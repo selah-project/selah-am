@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "የባቢሎን ንጉሥ ማታንያን ⟨את⟩ — አጎቱን — በርሱ ፋንታ ንጉሥ አደረገ፤ ስሙንም ⟨את⟩ ቀየረው ሰዴቂያ አለው።",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "ንጉሥ አደረገ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "የባቢሎን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማታንያን"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "ማታንያን"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "አጎቱ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "በርሱ ፋንታ"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ቀየረው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሙን"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ሰዴቂያ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:55:35.670506462Z",
+  "model": "glm-5.3"
+}

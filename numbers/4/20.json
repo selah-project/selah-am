@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "መቅደሱ ሲሸፈን ⟨את⟩ እንዳያዩ አይግቡም፣ ያለበለዚያ ይሞታሉ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ይግቡ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "እንዳያዩ"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "ሲሸፈን\/ሲዋረድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መቅደሱ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "መቅደሱ"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ይሞታሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:06:44.752916212Z",
+  "model": "glm-5.3"
+}

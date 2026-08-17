@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "አንተም ስለ እስራኤል አለቆች ቃለ ቀልድ ተሠርዝ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተም"
+    },
+    {
+      "surface": "שא",
+      "gloss": "ተሠርዝ"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ቃለ ቀልድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "አለቆች የ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T08:29:42.574281210Z",
+  "model": "glm-5.3"
+}

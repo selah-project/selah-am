@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ነገር ግን ወደ ሰዶም ብቻ ትወርዳለህ፣ ወደ ጉድጓዱም ኩራቶች።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ነገር ግን ብቻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሰዶም (የሙታን ዓለም)"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "ትወርዳለህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "ኩራቶች"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ጉድጓዱም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:03:58.559062355Z",
+  "model": "glm-5.3"
+}

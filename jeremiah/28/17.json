@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "እንደዚህም ነቢዩ ኀናንያ በዚያው ዓመት፣ በሰባተኛው ወር ሞተ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "እንደዚህም ሞተ"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "ኀናንያ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነቢዩ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "በዓመት"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "በዚያው"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "በወር"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "በሰባተኛው"
+    }
+  ],
+  "timestamp": "2026-08-16T07:56:06.975662436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ከዚያም ወደ ጉድጉዳ ተጓዙ፤ ከጉድጉዳም ወደ ዮትባታ — የውሃ ዐላቆች ምድር ፈለሱ።",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "ከዚያም"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "ተጓዙ"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "ጉድጉዳ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ከ…ም"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "ጉድጉዳ"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "ዮትባታ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "የውሃ ዐላቆች"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:39:25.549647754Z",
+  "model": "glm-5.3"
+}

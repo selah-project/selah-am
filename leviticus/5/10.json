@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እናም ⟨את⟩ ሁለተኛውን እንደ ሥርዓቱ የሚቃጠል መሥዋዕት ያደርጋል፤ ካህኑም ከኃጢያቱ የተነሳ ስለ ኃጢያቱ ይስሠርበዋል፣ ይቅር ይባላልለትም።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁለተኛውን"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ሁለተኛውን"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ያደርጋል"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "የሚቃጠል መሥዋዕት"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "እንደ ሥርዓቱ"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ይስሠርብ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ስለ እርሱ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "ከኃጢያቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ኃጢያት የሠራ"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "ይቅር ይባላል"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:45:20.107156928Z",
+  "model": "glm-5.3"
+}

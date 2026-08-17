@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "ከቤተ መቅደስህ በኢየሩሳሌም ላይ፣ ነገሥታት ላንተ ስጦታ ያመጣሉሃል።",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "ከቤተ መቅደስህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ኢየሩሳሌም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ላንተ"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "ያመጣሉሃል"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ነገሥታት"
+    },
+    {
+      "surface": "שי",
+      "gloss": "ስጦታ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:37.649009183Z",
+  "model": "glm-5.3"
+}

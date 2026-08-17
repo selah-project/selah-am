@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "በሉትም የራሱን በደል ይሸከማል፣ የያህዌህን ⟨את⟩ ቅዱስ ነገር ስለ ሰነከ፤ ያ ነፍስም ከሕዝቧ ትጠፋለች።",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "በሉትም"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "የራሱን በደል"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ይሸከማል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅዱስ ነገር"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ ነገር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ሰነከ"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "ትጠፋለችም"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ያ ነፍስ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "ከሕዝቧ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:55:24.493330038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 138,
+  "translation": "በጮኸሁበት ቀን መለሰሃል፤ በነፍሴ ውስጥ ኃይል አጠናክረኸኛል።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "በ…ቀን"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ጮኸሁበት"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "መለሰሃል"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "አጠናክረኸኛል"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "በነፍሴ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ኃይል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:22.508075004Z",
+  "model": "glm-5.3"
+}

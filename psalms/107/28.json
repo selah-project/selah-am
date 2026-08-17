@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "በጭንቀታቸውም ወደ ያህዌህ ጮኾ ወደ አስጨናቂ ከባቢዎቻቸውም አወጣቸው።",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "ጮኾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "በጭንቀታቸውም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨እነርሱ⟩"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "ከአስጨናቂ ከባቢዎቻቸውም"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "አወጣቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:36.125372549Z",
+  "model": "glm-5.3"
+}

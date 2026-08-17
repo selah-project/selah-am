@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "numbers 33:10",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ከኤልም ተነሱ፣ በዕፅ ባሕር አጠገብ አደሩ።",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ተነሱ"
+    },
+    {
+      "surface": "מאילם",
+      "gloss": "ከኤልም"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "አደሩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… አጠገብ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ዕፅ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:29:36.674958713Z",
+  "model": "glm-5.3"
+}

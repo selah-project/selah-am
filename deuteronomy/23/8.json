@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ኤዶማዊውን አትጠላው፤ እርሱ ወንድምህ ነውና፤ ሚጽራዊውን አትጠላውም፤ በምድሩ መጻህደር ነበርክና።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "ጠላ"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "ኤዶማዊውን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነውና"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ወንድምህ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨እርሱ⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "ጠላ"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "ሚጽራዊውን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነበርክና"
+    },
+    {
+      "surface": "גר",
+      "gloss": "መጻህደር"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ነበርክ"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "በምድሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:21:01.876882304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "job 4:20",
+  "book": "job",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ከጠዋት እስከ ምሽት ይሰበራሉ፤ ያለ ማንም ማስተዋል ለዘላለም ያልቃሉ።",
+  "tokens": [
+    {
+      "surface": "מבקר",
+      "gloss": "ከጠዋት"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "እስከ ምሽት"
+    },
+    {
+      "surface": "יכתו",
+      "gloss": "ይሰበራሉ"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "ያለ"
+    },
+    {
+      "surface": "משים",
+      "gloss": "ማስተዋል"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ያልቃሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:40:03.903450940Z",
+  "model": "glm-5.3"
+}

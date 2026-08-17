@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ከእርሱ በኋላ ዐብድወን የሂሌል ልጅ ፒራጤናዊው እስራኤልን ⟨את⟩ ፈረደ።",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ፈረደ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ከእርሱ በኋላ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "ዐብድወን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "ሂሌል"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "ፒራጤናዊው"
+    }
+  ],
+  "timestamp": "2026-08-16T05:22:49.551270704Z",
+  "model": "glm-5.3"
+}

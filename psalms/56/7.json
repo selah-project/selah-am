@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 56,
+  "translation": "ያሸሻሉ፤ ይሰውራሉ — እነርሱ አረንጓዴዬን ይቆጣጠራሉ፤ ነፍሴን እንደጠበቁት ሁሉ።",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "ያሸሻሉ"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "ይሰውራሉ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነርሱ"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "አረንጓዴዬን"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ይቆጣጠራሉ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "ጠበቁት"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:21.764377374Z",
+  "model": "glm-5.3"
+}

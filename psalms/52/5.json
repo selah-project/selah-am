@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 52,
+  "translation": "ክፉን ከበጎ ወደድህ፤ ውሸትን ከጽድቅ ማውራት ይበልጥልሃል። ሴላ።",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ወደድህ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉን"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "ከበጎ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ውሸትን"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ከማውራት"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቅን"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:40.264314336Z",
+  "model": "glm-5.3"
+}

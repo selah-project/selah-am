@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "ዳዊትም እርሱ ከሰዎቹ ጋር በጠዋቱ ሊሄዱ ወደ ፍልስጤም ምድር ለመመለስ ቀድመው ተነሱ፤ ፍልስጤማውያንም ወደ ይስረኤል ወጡ።",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ቀድመው ተነሱም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ከሰዎቹ ጋር"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ሊሄዱ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "በጠዋቱ"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ለመመለስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "የፍልስጤም"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ፍልስጤማውያንም"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ወጡ"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "ይስረኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T15:45:38.919455620Z",
+  "model": "glm-5.3"
+}

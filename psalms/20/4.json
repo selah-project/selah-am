@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ሁሉን ቍርባኖችህን ያስታውስ፣ እና መቃጠሎህን ያወድሳል፤ ሰላህ።",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "ያስታውስ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "ቍርባኖችህን"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "እና መቃጠሎህን"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "ያወድሳል"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:07.073691327Z",
+  "model": "glm-5.3"
+}

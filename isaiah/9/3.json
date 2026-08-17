@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ምክንያቱም ⟨את⟩ የሸክሙን ቅብ፣ ⟨את⟩ም የትከሻውን በት፣ የሚገፋውን በት በሱ ላይ — እንደ ምድያም ቀን አጠፋሃል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሸክሙን ቅብ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ቅብ"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "የሸክሙ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የትከሻውን በት"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "በት"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "የትከሻው"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "በት"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "የሚገፋውን"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በሱ ላይ"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "አጠፋሃል"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "እንደ ቀን"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ምድያም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:01:59.896568126Z",
+  "model": "glm-5.3"
+}

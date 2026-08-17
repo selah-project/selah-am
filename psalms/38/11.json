@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "ልቤ ይተነፋል፤ ኃይሌ ተወኝ፤ እና የዓይኖቼ ብርሃን እንኳ ⟨እነርሱ⟩ ከእኔ ⟨את⟩ ጋር የለም።",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "ይተነፋል"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "ተወኝ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ኃይሌ"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "እና ብርሃን"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "የዓይኖቼ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንኳ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨እነርሱ⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ከእኔ ጋር",
+      "marks": "የዓይኖቼ ብርሃን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:07.591376896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ክፉ ምክር በእጆቻቸው ነው፣ ቀኝ እጃቸውም በሽረት ተሞታለች።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "የሚከተሉት"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "በእጆቻቸው"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ክፉ ምክር"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "እና ቀኝ እጃቸው"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ተሞታለች"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "በሽረት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:32.220130927Z",
+  "model": "glm-5.3"
+}

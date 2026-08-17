@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 4:2",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ወደ እስራኤል ልጆች ብለህ ተናገር፦ ነፍስ በስሕበት ከያህዌህ ትእዛዞች ሁሉ — ከማይሠራቸው አንዱን ብትበደል፣ ከነርሱ አንዱን ብታደርግ፣",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ተናገር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብለህ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ብት"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "ብትበደል"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "በስሕበት"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ትእዛዞች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "ሠሩዋቸው፤ ማይሠራቸው"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ብታደርግ"
+    },
+    {
+      "surface": "מאחת",
+      "gloss": "ከአንዱን"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "ከነርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:39:32.659315816Z",
+  "model": "glm-5.3"
+}

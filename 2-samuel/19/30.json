@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 19:30",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ንጉሡም እንዲህ አለው፤ ለምን እንደገና ነገሮችህን ትናገራለህ? እኔ በለሁ፤ አንተና ጢባ ⟨את⟩ መስኩን ታካፍያላችሁ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእሱ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ትናገራለህ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "እንደገና"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ነገሮችህን"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "እኔ በለሁ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "וציבא",
+      "gloss": "እና ጢባ"
+    },
+    {
+      "surface": "תחלקו",
+      "gloss": "ታካፍያላችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መስኩን"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "መስኩን"
+    }
+  ],
+  "timestamp": "2026-08-16T16:22:34.914888656Z",
+  "model": "glm-5.3"
+}

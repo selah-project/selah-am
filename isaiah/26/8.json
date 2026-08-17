@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እንዲሁም በፍርድህም መንገድ ውስጥ አንተን ያህዌህ ተጠበቅን፤ ለስምህም ለመታሰቢያህም የነፍስ መሻት ⟨is⟩።",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "በፍርድህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "ተጠበቅን"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ለስምህም"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "ለመታሰቢያህም"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "መሻት"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "የነፍስ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:09:31.952691215Z",
+  "model": "glm-5.3"
+}

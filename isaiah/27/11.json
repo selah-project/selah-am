@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 27:11",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ቅርንጫፎቿ በደረቁ ጊዜ ይሰባራሉ፤ ሴቶች መጥተው ⟨את⟩ ⟨אותה⟩ ያበሩታል፤ ምክንያቱም አዋቂ የሆነ ሕዝብ አይደለምና፣ ስለዚህ ሰሪው አይራሙትም፣ ሰፊውም አያድንም።",
+  "tokens": [
+    {
+      "surface": "ביבש",
+      "gloss": "በደረቁ ጊዜ"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "ቅርንጫፎቿ"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "ይሰባራሉ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ሴቶች"
+    },
+    {
+      "surface": "באות",
+      "gloss": "መጥተው"
+    },
+    {
+      "surface": "מאירות",
+      "gloss": "ያበሩታል"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ⟨אותה⟩",
+      "marks": "እርሷን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "בינות",
+      "gloss": "አዋቂ የሆነ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ירחמנו",
+      "gloss": "ራሙትም"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "ሰሪው"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "እና ሰፊው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አያ"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "ድንም"
+    }
+  ],
+  "timestamp": "2026-08-16T16:59:17.658858542Z",
+  "model": "glm-5.3"
+}

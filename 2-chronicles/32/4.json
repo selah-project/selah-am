@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 32:4",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ብዙ ሕዝብም ተሰበሰበ፤ ሁሉንም ፈሳሾችን ⟨את⟩ እና በምድር መካከል የሚፈስ ወንዙን ⟨את⟩ ዘጋ፤ «የአሦር ነገሥታት ለምን መጥተው ብዙ ውሃ ያገኛሉ?» እያሉ።",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ተሰበሰበ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "ויסתמו",
+      "gloss": "ዘጋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉንም ፈሳሾችን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉንም"
+    },
+    {
+      "surface": "המעינות",
+      "gloss": "ፈሳሶችን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ወንዙን"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ወንዙን"
+    },
+    {
+      "surface": "השוטף",
+      "gloss": "የሚፈስ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በ... መካከል"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እያሉ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "መጥተው"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ነገሥታት"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "የአሦር"
+    },
+    {
+      "surface": "ומצאו",
+      "gloss": "ያገኛሉ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:55:38.301979899Z",
+  "model": "glm-5.3"
+}

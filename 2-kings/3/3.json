@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ነገር ግን ይስራኤልን ⟨את⟩ ያሳሳተው የንባት ልጅ የይሮብዓም ኀጢአት ብቻ አጠጋ፤ ከእርሷም አልተመለሰም።",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "በኀጢአት"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ይሮብዓም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ንባት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "አሳሳተ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "አጠጋ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ከእርሷ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:37:44.536779232Z",
+  "model": "glm-5.3"
+}

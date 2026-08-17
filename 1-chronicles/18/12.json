@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "የጸሩያ ልጅ አብሸይም ኤዶምን ⟨את⟩ በጨው ሸለቆ መታ፤ አሥራ ስምንት ሺህ ተገደሉ።",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "አብሸይም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ጸሩያ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "መታ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤዶምን"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶምን"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "በ…ሸለቆ"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ጨው"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ስምንት"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥራ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:40:58.614077086Z",
+  "model": "glm-5.3"
+}

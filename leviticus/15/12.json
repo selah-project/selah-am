@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "leviticus 15:12",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "እና የውርጭቱ ሰው የሚነካው የሸክላ ዕቃ ይሰባራል፤ የእንጨትም ዕቃ ሁሉ በውሃ ይታጠባል።",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "እና የዕቃው"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "የሸክላ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "የሚነካው"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "የውርጭቱ ሰው"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ይሰባራል"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉም"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "የዕቃ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "የእንጨት"
+    },
+    {
+      "surface": "ישטף",
+      "gloss": "ይታጠባል"
+    },
+    {
+      "surface": "במים",
+      "gloss": "በውሃ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:53:12.804261967Z",
+  "model": "glm-5.3"
+}

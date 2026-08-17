@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "exodus 24:13",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ሞሼም ተነሥቶ አገልጋዩ የሆነው የሆሴዓም ⟨ከ⟩ ተነሥተው ሞሼ ወደ ኤሎሂም ተራራ ወጣ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሥቶ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "የሆሴዓም"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "አገልጋዩ የሆነው"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:22:37.256293937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 141,
+  "translation": "ክፉዎች በራሳቸው ማሳማቸውች ውስጥ አንድነት ይውደቁ፤ እኔ ግን እስኪያልፍ ድረስ አልፈው እለፋለሁ።",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "ይውደቁ"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "በራሳቸው ማሳማቸውች"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉዎች"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "አንድነት"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪያልፍ ድረስ"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "እለፋለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:39.536698943Z",
+  "model": "glm-5.3"
+}

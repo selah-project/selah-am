@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ብዙዎች በእነሱ ይደረቃሉ፤ ይወድቃሉ፤ ይሰበራሉ፤ በወጥመድ ይሰማሩ፤ ይያዛሉ።",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "ይደረቃሉ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በእነሱ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙዎች"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ይወድቃሉ"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "ይሰበራሉ"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "ይሰማሩ"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "ይያዛሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:00:04.567105827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "የአኻብ ቤት ሁሉ ይጠፋል፤ በእስራኤል ውስጥ በግድግዳ የሚሽን የሚታጠርና የሚተው ሁሉ ከአኻብ ላይ እጨርጻለሁ።",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "ይጠፋል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "የአኻብ"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "እጨርጻለሁ"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "ከአኻብ ላይ"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "የሚሽን"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "በግድግዳ"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "የሚታጠር"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "የሚተው"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "በእስራኤል ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:41:52.826519162Z",
+  "model": "glm-5.3"
+}

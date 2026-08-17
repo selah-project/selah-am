@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "የደማስቆ ጭንቀት። እነሆ ደማስቆ ከከተማ ስትተወ ፍርስራሽ ክምር ትሆናለች።",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ጭንቀት"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "የደማስቆ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ደማስቆ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ስትተወ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ከከተማ"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ትሆናለች"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "ፍርስራሽ"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "ክምር"
+    }
+  ],
+  "timestamp": "2026-08-16T07:06:37.140191321Z",
+  "model": "glm-5.3"
+}

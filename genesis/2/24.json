@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ስለዚህ ባል አባቱን ⟨את⟩ እና እናቱን ⟨את⟩ ይተውና ለሚስቱ ይጣመካል፤ እነሱም አንድ ሥጋ ይሆናሉ።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "ይተው"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ባል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አባቱን"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እናቱን"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "እናቱን"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "ይጣመካል"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "ለሚስቱ"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ይሆናሉ"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "አንድ ሥጋ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:55.469391326Z",
+  "model": "glm-5.3"
+}

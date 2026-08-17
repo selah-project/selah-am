@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "በውሃ ሳጥምህ፣ ደምህን ከአንተ ላይ ሳብህ፣ በዘይትም ሳቀምህ።",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "ሳጥምህ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "በውሃ"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "ሳብህ"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "ደምህን"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "ከአንተ ላይ"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "ሳቀምህ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "በዘይት"
+    }
+  ],
+  "timestamp": "2026-08-16T08:26:28.665228261Z",
+  "model": "glm-5.3"
+}

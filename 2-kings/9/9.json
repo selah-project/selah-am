@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "የአሀአብን ቤት እንደ ናባት ልጅ የያረብዓም ቤት እና እንደ አሂያ ልጅ የባዕሳ ቤት እሰጣዋለሁ።",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "እሰጣለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የአሀአብን ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤትን"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "የአሀአብ"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "እንደ ቤት"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "የያረብዓም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ናባት"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "እና እንደ ቤት"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "የባዕሳ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "አሂያ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:40:15.655201958Z",
+  "model": "glm-5.3"
+}

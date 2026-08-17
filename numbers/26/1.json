@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ያህዌህ ሞሼንን እና ካህኑ አሃሮን ልጅ አኤልዓዛርን በማለት ተናገረ፦",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ለ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "አኤልዓዛር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "በማለት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:24:22.669993430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 50,
+  "translation": "ልጆቹም እንዳዘዛቸው እንደዚሁ አደረጉለት።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "አደረጉለት"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ልጆቹም"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚሁ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "צום",
+      "gloss": "አዘዛቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:05:38.434954998Z",
+  "model": "glm-5.3"
+}

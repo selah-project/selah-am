@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ምክንያቱም ድሃው ለዘላለም አይረስምም፤ የዋሾች ተስፋ ለዘላለም አይጠፋም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይረስምም"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "አይረስምም"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ድሃው"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "ተስፋ"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "የዋሾች"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "አይጠፋም"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ለዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:49.930333126Z",
+  "model": "glm-5.3"
+}

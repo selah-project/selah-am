@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 114,
+  "translation": "ተራሮቹ ዘሉ እንደ አውራ በጎች፣ ኮረብቶቹ እንደ በግች፤",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "ተራሮቹ"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "ዘሉ"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "እንደ አውራ በጎች"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ኮረብቶቹ"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "እንደ ዝርው"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "በግች\/መንጋ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:52.069752506Z",
+  "model": "glm-5.3"
+}

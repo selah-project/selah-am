@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "ezekiel 2:2",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "መንፈስም እንደ ተናገረኝ በውስጤ ገባ፤ በእግሮቼም አቆምኝ፤ እኔም ⟨את⟩ የሚናገረኝን ሰማሁ።",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ገባ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በውስጤ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረኝ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "ותעמדני",
+      "gloss": "አቆምኝ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "እግሮቼ"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "እኔም ሰማሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሚናገረኝን"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "የሚናገረኝ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:17:37.689854788Z",
+  "model": "glm-5.3"
+}

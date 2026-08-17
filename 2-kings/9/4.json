@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ወጣቱ ወጣቱ ነቢዩ ራሞት ጊልዓድ ሄደ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ወጣቱ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ወጣቱ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነቢዩ"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "ራሞት"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ጊልዓድ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:41:48.808543487Z",
+  "model": "glm-5.3"
+}

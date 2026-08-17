@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "በስደብ ብቻ ጥል ይሰጣል፤ ከአማካሪዎች ⟨את⟩ ጋር ግን ጥበብ ⟨ናት⟩።",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "በስደብ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይሰጣል"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "ጥል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "አማካሪዎች"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "አማካሪዎች"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:26:25.374385407Z",
+  "model": "glm-5.3"
+}

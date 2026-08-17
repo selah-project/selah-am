@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "እኔ በቃልህ ደስ ብዬ ደለሁ፣ እንደ ብዙ ምርኮ እንደሚያገኝ ሰው።",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "ደስ ብዬ ደለሁ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ቃልህ"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "እንደሚያገኝ"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ምርኮ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:14.260015797Z",
+  "model": "glm-5.3"
+}

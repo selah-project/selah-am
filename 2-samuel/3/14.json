@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ዳዊትም መልእክተኞችን ወደ ኢስቦሼት የሳኦል ልጅ ላከ በማለት እንዲህ ስገባኝ ⟨את⟩ ሚስተኛን ⟨את⟩ ሚካልን በመቶ የፍልስጤምያውያን ቁላት የሳጠንሁላትን።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "መልእክተኞችን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ኢስቦሼት"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "ኢስቦሼት"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ…ልጅ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "በማለት"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ስገባኝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚስተኛን"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "ሚስተኛን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚካልን"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "ሚካልን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ን"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "የሳጠንሁላትን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "በመቶ"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "ቁላት"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "የፍልስጤምያውያን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:55:02.799263413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 1:10",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እነሱ አገልጋዮችህ እና ሕዝብህ ⟨ናቸው⟩፣ በታላቅ ኃይልህ እና በጠንካራ እጅህ ያዳነሃቸው።",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "እነሱ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "አገልጋዮችህ"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ሕዝብህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "ያዳነሃቸው"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "በኃይልህ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "በእጅህ"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "ጠንካራ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:43:36.400470741Z",
+  "model": "glm-5.3"
+}

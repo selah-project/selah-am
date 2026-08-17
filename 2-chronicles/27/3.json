@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "እርሱ የያህዌህ ቤት የላይኛውን በር ⟨את⟩ ሠራ፤ እና በኦፌል ግንብ ላይ ብዙ ሠራ።",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የላይኛውን በር"
+    },
+    {
+      "surface": "שער",
+      "gloss": "በር"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "የላይኛው"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "እና በግንብ ላይ"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "ኦፌል"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ብዙ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:08:05.193200294Z",
+  "model": "glm-5.3"
+}

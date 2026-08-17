@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "አብርሃምም በምድሪቱ ሕዝብ ፊት ሰገደ።",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "ሰገደ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃምም"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድሪቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:40:35.052950327Z",
+  "model": "glm-5.3"
+}

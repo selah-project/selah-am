@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ክፉ ሠርን በአንተ ላይ፣ ትእዛዞችንም ⟨את⟩፣ ሥርዓቶችንም ⟨את⟩ ፍርዶችንም ⟨את⟩ አልጠበቅንም፣ ለአገልጋይህ ለሞሼ ያዘዝኸውን ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "ክፍ ዓመጸን"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "ሠርን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "በአንተ ላይ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና... አል"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "ጠበቅን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዞችን"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ትእዛዞችን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሥርዓቶችንም"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ሥርዓቶችንም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ፍርዶችንም"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ፍርዶችንም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "ዘዘኸው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ለሞሼ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "አገልጋይህ"
+    }
+  ],
+  "timestamp": "2026-08-17T10:39:56.237063821Z",
+  "model": "glm-5.3"
+}

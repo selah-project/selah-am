@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እርሱም በዚህ ቃል ሰማቸው፣ እና አሥር ቀናት ፈተናቸው።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማቸው"
+    },
+    {
+      "surface": "להם",
+      "gloss": "እነርሱን"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "በቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "ፈተናቸው"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "አሥር"
+    }
+  ],
+  "timestamp": "2026-08-16T11:22:31.257636583Z",
+  "model": "glm-5.3"
+}

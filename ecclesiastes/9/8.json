@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "በየጊዜው ልብሶችህ ነጭ ይሁኑ እና ዘይት በላይ ራስህ አይጎድል።",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "በየጊዜው"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ሁሉጊዜ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ይሁኑ"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "ልብሶችህ"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "ነጭ"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "እና ዘይት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ራስህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "አይጎድል"
+    }
+  ],
+  "timestamp": "2026-08-16T11:17:07.279114381Z",
+  "model": "glm-5.3"
+}

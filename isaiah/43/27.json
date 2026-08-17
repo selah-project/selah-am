@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "isaiah 43:27",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "አባትህ የመጀመሪያው አመጸኘ፤ አስተማሪዎችህም በእኔ ላይ አመጹ።",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "አባትህ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "የመጀመሪያው"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "አመጸነ"
+    },
+    {
+      "surface": "ומליציך",
+      "gloss": "አስተማሪዎችህም"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "አመጹ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በእኔ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:21:44.561518616Z",
+  "model": "glm-5.3"
+}

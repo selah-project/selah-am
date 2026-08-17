@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "⟨את⟩ ሰንበቶቼን ተጠብቁ፤ ቅዱስ ስፍራዬንም አክብሩ፤ እኔ ያህዌህ ነኝ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰንበቶቼን"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "ሰንበቶቼን"
+    },
+    {
+      "surface": "᪶תשמרו",
+      "gloss": "ተጠብቁ"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "ቅዱስ ስፍራዬንም"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "አክብሩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:01:40.884598933Z",
+  "model": "glm-5.3"
+}

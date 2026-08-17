@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እኔ በልቤ አልኩ፣ ኤሎሂም ⟨את⟩ ጻድቁን እና ⟨את⟩ ክፉውን ይፈርዳል፤ ምክንያቱም ለሁሉም ፈቃድ ጊዜ አለ፣ እና በዚያ ለሁሉም ሥራ ⟨አለ⟩።",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "አልኩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "በልቤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጻድቁን"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "ጻድቁን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ክፉውን"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ክፉውን"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ይፈርዳል"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ፈቃድ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በዚያ ለ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:33:52.919546435Z",
+  "model": "glm-5.3"
+}

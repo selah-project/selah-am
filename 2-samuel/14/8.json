@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ንጉሡም ለሴቲቱ እንዲላት፣ ወደ ቤትሽ ሂጂ፤ እኔም በአንቺ ላይ እዘዝለሃለሁ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲል"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ..."
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሴቲቱ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ሂጂ"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "ወደ ቤትሽ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "እኔም"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "እዘዝለሃለሁ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "በአንቺ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:02:09.355206881Z",
+  "model": "glm-5.3"
+}

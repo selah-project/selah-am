@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የቀሃትም ልጆች ዓምራም፣ ይስሃር፣ ኬብሮን እና ዐዝይኤል ናቸው።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "የ…ልጆችም"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ቀሃት"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "ዓምራም"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "እና ይስሃር"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "ኬብሮንም"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "እና ዐዝይኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T12:39:04.037622480Z",
+  "model": "glm-5.3"
+}

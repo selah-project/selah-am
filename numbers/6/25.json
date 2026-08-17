@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "numbers 6:25",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ያህዌህ ፊቱን ወደ አንተ ያበራል፣ እና ምሕረት ያደርግልሃል።",
+  "tokens": [
+    {
+      "surface": "יאר",
+      "gloss": "ያበራል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱን"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "ויחנך",
+      "gloss": "እና ምሕረት ያደርግልሃል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:07:06.011080382Z",
+  "model": "glm-5.3"
+}

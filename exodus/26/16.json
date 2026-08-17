@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ዐሥር ክንድ የሰሌዳው ርዝመት ይሁን፤ አንድ ክንድና ግማሽ ክንድ ደግሞ የአንዱ ሰሌዳ ስፋት ይሁን።",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ዐሥር"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ክንድ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ርዝመት"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "የሰሌዳው"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "እና አንድ ክንድ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "እና ግማሽ"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ክንድ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ስፋት"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "የሰሌዳው"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "አንዱ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:08:58.380091888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "በአሕዛኮችም ተቀላቀሉ፤ ከሥራዎቻቸውም ተማሩ።",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "ተቀላቀሉ፤"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "በአሕዛኮችም"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "ተማሩ፤"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ከሥራዎቻቸውም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:49.223920218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 147,
+  "translation": "ለከዋክብት ቁጥር የሚቆጥር፣ ለሁሉም በስማቸው ይጠራቸዋል።",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "የሚቆጥር"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ቁጥር"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "ለከዋክብት"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "በስማቸው"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ይጠራቸዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:33.617592907Z",
+  "model": "glm-5.3"
+}

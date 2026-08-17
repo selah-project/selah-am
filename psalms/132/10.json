@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 132,
+  "translation": "ስለ ዳዊድ አገልጋይህ የተቀባውን መሲሕህን ፊት አትመለስ።",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "አገልጋይህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት-"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ትመለስ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "መሲሕህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:48.236480700Z",
+  "model": "glm-5.3"
+}

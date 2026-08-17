@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ካህናቱ መካከል እያንዳንዱ ወንድ ይበላዋል፤ በተቀደሰ ስፍራ ይበላል፤ ቅዱስ ቅዱሳን ⟨ነው።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "እያንዳንዱ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ወንድ"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "ካህናቱ መካከል"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "ይበላዋል"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "በ…ስፍራ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ተቀደሰ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበላል"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ቅዱሳን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:44:29.238046866Z",
+  "model": "glm-5.3"
+}

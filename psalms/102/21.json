@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 102,
+  "translation": "የታሰረውን ጩኸት ለመስማት፣ የሞትን ልጆች ለመፍታት፤",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "ለመስማት"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "ጩኸትን"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "የታሰረውን"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "ለመፍታት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆችን"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "የሞት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:58.727083283Z",
+  "model": "glm-5.3"
+}

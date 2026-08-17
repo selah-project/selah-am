@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "ከኃጢያቴ ፊትህን ሰውር፤ እና ሁሉንም ዐመፃዬን አጥፋ።",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "ሰውር"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህን"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "ከኃጢያቴ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉንም"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "ዐመፃዬን"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "አጥፋ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:45:37.166207801Z",
+  "model": "glm-5.3"
+}

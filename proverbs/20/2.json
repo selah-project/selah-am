@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "proverbs 20:2",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እንደ አንበሳ ጩኸት የንጉሥ መፈራት ነው፤ የሚያስቆጣው የራሱን ነፍስ ያጠፋል።",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "ጩኸት"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "እንደ አንበሳ"
+    },
+    {
+      "surface": "אימת",
+      "gloss": "መፈራት"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "የንጉሥ"
+    },
+    {
+      "surface": "מתעברו",
+      "gloss": "የሚያስቆጣው"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "ያጠፋል"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "የራሱን ነፍስ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:31:48.481754356Z",
+  "model": "glm-5.3"
+}

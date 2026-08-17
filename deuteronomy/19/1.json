@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ያህዌህ ኤሎሂም አንተ ⟨את⟩ አሕዛቡን ሲጨርጥ — ያህዌህ ኤሎሂም አንተ ለአንተ የሚሰጥህ ⟨את⟩ ምድራቸውን — እነርሱን ትወርሳለህ፣ በከተሞቻቸውም በቤታቸውም ትኖራለህ፤",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ሲ"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "ያጨርጣል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂም አንተ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አሕዛቡን"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "አሕዛቡን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂም አንተ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "የሚሰጥህ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድራቸውን"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ምድራቸውን"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ትወርሳቸዋለህ"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ትኖራለህ"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "በከተሞቻቸው"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "በቤታቸውም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:45:14.674225778Z",
+  "model": "glm-5.3"
+}

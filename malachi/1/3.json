@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ዔሳውንም ⟨את⟩ ጠላሁ፤ ኮረብታዎቹን ⟨את⟩ ወደ አሰሳ አደረግሁ፤ ርስቱንም ⟨את⟩ ለምድረ በዳ አጥፊዎች ሰጠሁ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዔሳውን"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዔሳው"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ጠላሁ"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "አደረግሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኮረብታዎቹን"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "ኮረብታዎቹ"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ወደ አሰሳ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ርስቱን"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ርስቱ"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "ለአጥፊዎች"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ለምድረ በዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:26:28.477705949Z",
+  "model": "glm-5.3"
+}

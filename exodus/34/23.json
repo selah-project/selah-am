@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ሦስት ጊዜ በዓመት ወንዶችህ ሁሉ በጌታ ያህዌህ በእስራኤል ኤሎሂም ፊት ⟨את⟩ ይታያሉ።",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "በዓመት"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ይታያሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "ወንዶችህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊት"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "ጌታ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:32:22.114410835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 92,
+  "translation": "ቀኔን እንደ አራዊት ቀን ከፍ አድርገህታለህ፤ በለመለመ ዘይት ተቀብቻለሁ።",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "ከፍ አድርገህታለህ"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "እንደ አራዊት"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "ቀኔን"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ተቀብቻለሁ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "በዘይት"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "ለመለመ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:18.372667718Z",
+  "model": "glm-5.3"
+}

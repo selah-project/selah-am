@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እንዲሁም የውጊያ ሰዎች በሙሉ ከሕዝቡ መካከል እስከ ሞቱ ሲቀጥሉ\/ሲፈጸሙ እንዲህ ሆነ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እንዲህ ሆነ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "ሲፈጸሙ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "የውጊያ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "እስከ ሞቱ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ከመካከል"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:32:22.734620965Z",
+  "model": "glm-5.3"
+}

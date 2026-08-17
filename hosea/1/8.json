@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ሎ-ረሐማንም ⟨את⟩ ከጠረጸች በኋላ ነክሳ ወንድ ልጅ ወለደች።",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "ከጠረጸች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሎ-ረሐማ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ሎ-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "ረሐማ"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ነክሳ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወንድ ልጅ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:56:01.034211536Z",
+  "model": "glm-5.3"
+}

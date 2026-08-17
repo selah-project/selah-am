@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 99,
+  "translation": "በደመና ዐምድ እነሱን ተናገረ፤ ምስክሮቹን ጠበቁ፤ ሥርዓትም ሰጠላቸው።",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "በዐምድ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ደመና"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "እነሱን"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ጠበቁ"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "ምስክሮቹን"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "ሥርዓትም"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ላቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:45.342839428Z",
+  "model": "glm-5.3"
+}

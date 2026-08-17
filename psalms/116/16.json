@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 116,
+  "translation": "እባክህ ያህዌህ ሆይ፣ እኔ አገልጋይህ ነኝ፤ እኔ አገልጋይህ ነኝ፣ የአገልጋይትህ ልጅ፤ ግፊቶቼን አፈታኸኛል።",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ሆይ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "አገልጋይህ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "አገልጋይህ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "የአገልጋይትህ"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "አፈታኸኛል"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "ግፊቶቼን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:16.757125832Z",
+  "model": "glm-5.3"
+}

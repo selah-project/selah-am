@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "2-samuel 14:10",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ንጉሡም እንዲህ አለ፦ «ወደ አንተ የሚናገር ሰው ካለ፣ ወደ እኔ አምጣው፤ እነሱም እንደገና አንተን ሊነኩ አይጨምሩም።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "የሚናገር"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "והבאתו",
+      "gloss": "አምጣው"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ይጨምርም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "እንደገና"
+    },
+    {
+      "surface": "לגעת",
+      "gloss": "ሊነኩ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "አንተን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:01:30.125345914Z",
+  "model": "glm-5.3"
+}

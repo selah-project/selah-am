@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "በልባቸው «ሃሃ! ሕይወታችን ተደረሰች» አይበሉ፤ «ዥረነው» አይበሉም።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ይበሉ"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "በልባቸው"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ሃሃ!"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ነፍሳችን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ይበሉ"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "ዥረነው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:18.528037883Z",
+  "model": "glm-5.3"
+}

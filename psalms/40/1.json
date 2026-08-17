@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ለመዝማሪው አለቃ፣ ለዳዊት፣ መዝሙር።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመዝማሪው አለቃ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:34.258325727Z",
+  "model": "glm-5.3"
+}

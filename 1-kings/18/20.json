@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "አሐብም በእስራኤል ልጆች ሁሉ ዘንድ ላከ፤ ነቢያትንም ⟨את⟩ ወደ ከርመል ተራራ ሰበሰበ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "አሐብ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "ሰበሰበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቢያትን"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ነቢያትን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "ከርመል"
+    }
+  ],
+  "timestamp": "2026-08-16T06:31:57.671359625Z",
+  "model": "glm-5.3"
+}

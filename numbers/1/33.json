@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 33,
+  "ref": "numbers 1:33",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ተቆጠሩባቸው ለነው ለመቶች ለአፍራይም ወገን፣ አርባ ሺህ እና አምስት መቶ ናቸው።",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ተቆጠሩባቸው"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ለነው ለመቶች"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ለአፍራይም"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "አርባ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "እና አምስት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:03:36.748191341Z",
+  "model": "glm-5.3"
+}

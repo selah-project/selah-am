@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 65,
+  "translation": "ለአንተ ጸጥታ፣ ምስጋና ናት፣ ኤሎሂም ሆይ፣ በጽዮን፤ እና ለአንተ ቃል ኪዳን ይፈጸማል።",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "ጸጥታ"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ምስጋና"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "በጽዮን"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "እና ለአንተ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ይፈጸማል"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ቃል ኪዳን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:54.533569990Z",
+  "model": "glm-5.3"
+}

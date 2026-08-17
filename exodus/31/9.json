@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "እና ⟨את⟩ መሠዊያውን የሚቃጠልውን መባን እና ⟨את⟩ ሁሉን የእሱን ቅብ እና ⟨את⟩ መታጠቢያውን እና ⟨את⟩ መቆሚያውን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መሠዊያውን"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠዊያውን"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "የሚቃጠልውን መባን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "የእሱን ቅብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መታጠቢያውን"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "መታጠቢያውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መቆሚያውን"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "መቆሚያውን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:29:06.201557228Z",
+  "model": "glm-5.3"
+}

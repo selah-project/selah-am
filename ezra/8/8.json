@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "ezra 8:8",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እንዲሁም ከሰፓጥያህ ልጆች — ሚካኤል ልጅ ዘባድያህ፣ ከእርሱ ጋር ሰማንያ ወንዶች ⟨ናቸው⟩።",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "እንዲሁም ከ…ልጆች"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "ሰፓጥያህ"
+    },
+    {
+      "surface": "זבדיה",
+      "gloss": "ዘባድያህ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "ሚካኤል"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ሰማንያ"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "ወንዶች"
+    }
+  ],
+  "timestamp": "2026-08-16T11:58:46.559083865Z",
+  "model": "glm-5.3"
+}

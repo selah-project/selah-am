@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ያህዌህ እነርሱን በፊታችሁ ያስረክባችኋል፣ እናንተ ለእነርሱ በትእዛዙ ሁሉ አድርጋችኋል ብዬ ያዘዝኋችሁትን እንደ ሆነ።",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "ያስረክባችኋል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "በፊታችሁ"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "አድርጋችኋል"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነርሱ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ትእዛዙ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ያዘዝኋችሁት"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ እናንተን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:57:29.923287113Z",
+  "model": "glm-5.3"
+}

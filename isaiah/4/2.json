@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "በዚያ ቀን የያህዌህ ቅርንጫፍ ለኩራትና ለክብር ይሆናል፤ የ⟨ה⟩ ምድርም ፍሬ ለኩራትና ለብርቅታ ለእስራኤል የተረፉት ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "በዚያ ቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "ቅርንጫፍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "ለኩራት"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "ለክብርም"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ፍሬም"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "ለኩራት"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "ለብርቅታም"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "ለየተረፉት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:00:54.364370011Z",
+  "model": "glm-5.3"
+}

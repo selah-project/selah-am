@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "ድምፁን ⟨את⟩ በልቅ ስለሰጠ ሰማው፤ ግብፃውያንም ሰሙ፤ የፈርዖንም ቤት ሰማ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምፁን"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ድምፁን"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "በልቅ ስለ"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "እና ሰሙ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፃውያን"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "እና ሰማ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:03:02.013322516Z",
+  "model": "glm-5.3"
+}

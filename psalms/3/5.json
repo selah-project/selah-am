@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ድምፄ ወደ ያህዌህ እጮኻለሁ፤ እርሱም ከተቀደሰው ተራራ ይመልሰኛል። ሰላህ።",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ድምፄ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "እጮኻለሁ"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "እርሱም ይመልሰኛል"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ከተራራ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "የተቀደሰው የእርሱ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:28:42.730752527Z",
+  "model": "glm-5.3"
+}

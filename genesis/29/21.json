@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "ያዕቆብም ለላባን እንዲህ አለው፦ ሚስቴን ⟨את⟩ ስጠኝ፣ የእኔ ቀኖች ሞልተዋልና፤ እኔም ወደ እርሷ እገባለሁ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ላባን"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "ስጠኝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚስቴን"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "ሚስቴን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ሞልተዋል"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀኖቼ"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "እኔም እገባለሁ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ወደ እርሷ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:47:08.376034026Z",
+  "model": "glm-5.3"
+}

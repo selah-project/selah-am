@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "የአባቶቹ ዓመፀኝነት በያህዌህ ፊት ይታሰብ፤ የእናቷም ኃጢያት አይሰረዝ።",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "ይታሰብ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ዓመፀኝነት"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "የአባቶቹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "እና ኃጢያት"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "የእናቷ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "ይሰረዝ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:55.103093582Z",
+  "model": "glm-5.3"
+}

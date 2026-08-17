@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ጽዮንን በደም ይገነባሉ እና ኢየሩሳሌምን በበደል ይገነባሉ።",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "ይገነባሉ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮንን"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "በደም"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "እና ኢየሩሳሌምን"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "በበደል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:10:08.920417611Z",
+  "model": "glm-5.3"
+}

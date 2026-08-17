@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "isaiah 29:17",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "አይደለምን ከጥቂቱ ትንሽ ጊዜ በኋላ ለባናን ወደ ከርሜል አይመለስም? ከርሜልም ደን ተብሎ አይቆጠርም?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "አይደለምን"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ገና"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ትንሽ"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "ከጥቂቱ ጊዜ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ይመለሳል"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ለባናን"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "ወደ ከርሜል"
+    },
+    {
+      "surface": "והכרמל",
+      "gloss": "ከርሜልም"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "ወደ ደን"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ይቆጠራል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:14:24.497291291Z",
+  "model": "glm-5.3"
+}

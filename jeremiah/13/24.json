@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "jeremiah 13:24",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እነርሱንም እንደ ሚነጠቅ አፈር በምድረ በዳ ነፋስ እበትራለሁ።",
+  "tokens": [
+    {
+      "surface": "ואפיצם",
+      "gloss": "እነርሱንም እበትራለሁ"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "እንደ አፈር"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "ሚነጠቅ"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "በነፋስ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "በምድረ በዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:46:31.832576823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 140,
+  "translation": "ለመዝማሬው አለቃ፤ የዳዊት መዝሙር።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመዝማሬው አለቃ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:06.990876311Z",
+  "model": "glm-5.3"
+}

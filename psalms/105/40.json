@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "ጠየቁት፤ ተርቢን አመጣላቸው፤ የሰማይን እንጀራ አጠገባቸው።",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "ጠየቁ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "አመጣ"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "ተርቢን"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "እና እንጀራ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "የሰማይ"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "አጠገባቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:15.094109928Z",
+  "model": "glm-5.3"
+}

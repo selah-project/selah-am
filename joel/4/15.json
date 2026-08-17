@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ፀሐይና ጨረቃ ጨለሙ፣ ከዋክብትም ብርሃናቸውን አነሱ።",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "ፀሐይ"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "እና ጨረቃ"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "ጨለሙ"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "እና ከዋክብት"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "አነሱ"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "ብርሃናቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:02:02.435778173Z",
+  "model": "glm-5.3"
+}

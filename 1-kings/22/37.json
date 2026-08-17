@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ንጉሡም ሞተ፤ ወደ ሰማርያ ገባ፤ ንጉሡንም ⟨את⟩ በሰማርያ ቀበሩት።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ፤"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ገባ፤"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ወደ ሰማርያ"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ቀበሩት፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንጉሡን"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡን"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "በሰማርያ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:34:53.773579617Z",
+  "model": "glm-5.3"
+}

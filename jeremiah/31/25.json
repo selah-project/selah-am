@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ምክንያቱም የደከመችን ነፍስ አሟላሁ፤ የደከመችን የሆነችን ነፍስም ሁሉ ሞልቼዋለሁ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "הרויתי",
+      "gloss": "አሟላሁ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "የደከመች"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና...ሁሉ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "የደከመች የሆነች"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "ሞልቼዋለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:59:28.005360537Z",
+  "model": "glm-5.3"
+}

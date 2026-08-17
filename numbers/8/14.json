@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "numbers 8:14",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እንዲህ ሌዋውያንን ⟨את⟩ ከእስራኤል ልጆች መካከል ትለያቸዋለህ፤ ሌዋውያንም የእኔ ይሆናሉ።",
+  "tokens": [
+    {
+      "surface": "והבדלת",
+      "gloss": "ትለያቸዋለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሌዋውያንን"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ሌዋውያንን"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ከመካከል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ይሆናሉ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "የእኔ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ሌዋውያን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:12:14.593355138Z",
+  "model": "glm-5.3"
+}

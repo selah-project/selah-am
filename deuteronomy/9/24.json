@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ከያህዌህ ጋር አመጣጮች ⟨ነበራችሁ⟩፣ እናንተን ⟨את⟩ ካወቅሁበት ቀን ጀምሮ።",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "አመጣጮች"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ነበራችሁ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ከቀን"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "ካወቅሁበት"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ እናንተን",
+      "marks": "እናንተን"
+    }
+  ],
+  "timestamp": "2026-08-16T19:16:08.984005813Z",
+  "model": "glm-5.3"
+}

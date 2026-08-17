@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 92,
+  "translation": "እውን በሽመት ዕድሜው ገና ያፈራሉ፤ ሙላትና ለምላም ይኖራሉ።",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "እውን ገና"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "ያፈራሉ"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "በሽመት ዕድሜው"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "ሙላት"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "እና ለምላም"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ይኖራሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:43.916941510Z",
+  "model": "glm-5.3"
+}

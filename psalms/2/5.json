@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "በዚያም ጊዜ በቍጣው ወደ እነርሱ ይናገራል፤ በመቃጠሉም ያስፈራቸዋል።",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "በዚያም ጊዜ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ይናገራል"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "ወደ እነርሱ"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "በቍጣው"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "በመቃጠሉም"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "ያስፈራቸዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:28:50.035792660Z",
+  "model": "glm-5.3"
+}

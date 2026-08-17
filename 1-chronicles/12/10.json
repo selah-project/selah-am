@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ዕዝር ራሱ፣ ዕብድያ ሁለተኛው፣ ኤልያብ ሦስተኛው።",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "ዕዝር"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ራሱ"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ዕብድያ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ሁለተኛው"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ኤልያብ"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ሦስተኛው"
+    }
+  ],
+  "timestamp": "2026-08-16T12:49:37.772270764Z",
+  "model": "glm-5.3"
+}

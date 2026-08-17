@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ይህ ድሃ ጮኸ፣ ያህዌህም ሰማው፣ ከችግሮቹም ሁሉ አዳነው።",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ድሃ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ጮኸ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "እና ያህዌህ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "እና ከሁሉ"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "ችግሮቹ"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "አዳነው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:00.801712999Z",
+  "model": "glm-5.3"
+}

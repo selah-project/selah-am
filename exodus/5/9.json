@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የሥራው ክብደት በሰዎቹ ላይ ይብዝ፤ በእሱም ይሥሩ፤ በሐሰት ቃላትም አይመኙ።",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "ይብዝ (ይከብድ)"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "የሥራው ክብደት (አገልግሎት)"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "በሰዎቹ (በሰዎች)"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ይሥሩ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእሱ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ያዩ፣ ይመኙ (ወደ እርዳታ አይመልከቱ)"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "በ…ቃላት"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "የሐሰት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:07:02.859513516Z",
+  "model": "glm-5.3"
+}

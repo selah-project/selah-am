@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እና ለሚወዱኝ፣ ለትእዛዜቼ ለሚጠብቁ እስከ ሺህ ትውልድ ምሕረት የሚያደርግ ነው።",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "እና የሚያደርግ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ምሕረት"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "እስከ ሺህ ትውልድ"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ለሚወዱኝ"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "ለሚጠብቁም"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ትእዛዜቼ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:17:15.186582451Z",
+  "model": "glm-5.3"
+}

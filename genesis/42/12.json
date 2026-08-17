@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "እነርሱንም አለ፦ አይደለም፤ ነገር ግን የምድሪቱን ድካም ለማየት መጥታችሁ ነው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "እነርሱን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ድካም"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድሪቱን"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "መጥታችሁ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ለማየት"
+    }
+  ],
+  "timestamp": "2026-08-16T02:59:14.624735171Z",
+  "model": "glm-5.3"
+}

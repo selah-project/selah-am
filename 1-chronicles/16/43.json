@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ሕዝቡ ሁሉ እያንዳንዱ ወደ ቤቱ ሄደ፤ ዳዊትም ቤቱን ⟨את⟩ ለመባረክ ተመለሰ።",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ሄዱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ወደ ቤቱ"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "ለመባረክ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱን"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T13:03:13.377766903Z",
+  "model": "glm-5.3"
+}

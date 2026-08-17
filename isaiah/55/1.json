@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 55,
+  "translation": "እዩ፣ እያንዳንዱ የጠማ ወደ ውኃ ኑሩ፤ እና የብር የሌላቸው ኑሩ፣ ግዙ እና ብሉ፤ እንዲሁም ኑሩ፣ ግዙ ወይንና ወተት ያለ ብር እና ያለ ዋጋ።",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "እያንዳንዱ"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "የጠማ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ኑሩ"
+    },
+    {
+      "surface": "למים",
+      "gloss": "ወደ ውኃ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "እና የ…ወደ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የሌለ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ላቸው"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ኑሩ"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ግዙ"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "እና ብሉ"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "እንዲሁም ኑሩ"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ግዙ"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "ያለ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "እና ያለ"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "ዋጋ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ወይን"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "እና ወተት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:26:34.934871963Z",
+  "model": "glm-5.3"
+}

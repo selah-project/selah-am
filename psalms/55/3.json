@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 55,
+  "translation": "ወደ እኔ አድምጥና መልስ ስጠኝ፤ በቅናቼ እንቈወሳለሁ፣ እንጮሃለሁም።",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "አድምጥ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "እና መልስ ስጠኝ"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "እንቈወሳለሁ"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "በቅናቼ"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "እና እንጮሃለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:41.169116416Z",
+  "model": "glm-5.3"
+}

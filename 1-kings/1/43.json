@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 1:43",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ዮናታንም መልሶ ለአዶንያሁ እንዲህ አለው፦ «አይደለም፤ ጌታችን ዳዊት ንጉሥ ⟨את⟩ ሰሎሞንን አንግዞታል»።",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መልሶ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ዮናታንም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለው"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "ለአዶንያሁ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "አይደለም፤"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "ጌታችን"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ዳዊት ንጉሥ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "המליך",
+      "gloss": "አንግዞታል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰሎሞንን"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞንን"
+    }
+  ],
+  "timestamp": "2026-08-16T16:31:00.617826962Z",
+  "model": "glm-5.3"
+}

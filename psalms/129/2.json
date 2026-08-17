@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 129,
+  "translation": "ብዙ ጊዜ ከሕጻንነቴ አጥበውኝ ነበር፤ ነገር ግን በእኔ አልተበላḈሉም።",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "ብዙ ጊዜ"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "አጥበውኝ ነበር"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ከሕጻንነቴ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አልተ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "በላለሉም"
+    },
+    {
+      "surface": "לי",
+      "gloss": "በእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:41.794483674Z",
+  "model": "glm-5.3"
+}

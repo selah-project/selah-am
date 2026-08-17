@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የያህዌህ ኤሎሂም ድምፅ ⟨את⟩ በመንፈስ ነፋሱ ጊዜ በገነቱ ሲንከራተት ሰሙ፤ አዳምና ሚስቱም ከዛፎቹ መካከል ከያህዌህ ኤሎሂም ፊት ተሰወሩ።",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ሰሙ፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምፅ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "ሲንከራተት"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "በገነቱ"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "በነፋሱ ጊዜ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "የቀኑ"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "ተሰወሩ፤"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "አዳም"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ሚስቱም"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከ... ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ዛፎች"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "የገነቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:30:06.874103242Z",
+  "model": "glm-5.3"
+}

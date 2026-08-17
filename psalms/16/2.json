@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ለያህዌህ እንዳለ በልቤ አለሁ፤ «አዶናይ አንተ ⟨ነህ⟩፤ በአንተ ሳይሆን መልካሜ የለኝም።»",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "አለሁ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "መልካሜ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ሳይሆን የለም"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "በአንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:00.166414984Z",
+  "model": "glm-5.3"
+}

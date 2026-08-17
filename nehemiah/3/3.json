@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እና ⟨את⟩ የዓሦችን በር የሐሴና ልጆች ሠሩ፤ እነርሱ ሰበሩት፣ እና ደጆቹን፣ ብልሽቶቹን እና አሞሌዎቹን አቆሙ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የዓሦች በር"
+    },
+    {
+      "surface": "שער",
+      "gloss": "የበር"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "የዓሦች"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ሠሩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "የሐሴና"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነርሱ"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "ሰበሩት"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "አቆሙ"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "ደጆቹን"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "ቁልፎቹን"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "እና አሞሌዎቹን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:15:06.934791384Z",
+  "model": "glm-5.3"
+}

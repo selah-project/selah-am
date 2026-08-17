@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ቦዕዝም ⟨את⟩ ዓቤድን ወለደ፤ ዓቤድም ⟨את⟩ ይሴይን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "ቦዕዝም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓቤድን"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ዓቤድ"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "ዓቤድም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይሴይን"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ይሴይ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:32:10.924792546Z",
+  "model": "glm-5.3"
+}

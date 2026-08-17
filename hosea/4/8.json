@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የሕዝቤን ኃጢአት ይበላሉ፤ ወደ ዓመፃቸውም ነፍሳቸውን ያነሳሉ።",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "ኃጢአት መሥዋዕትን"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "የሕዝቤን"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ይበላሉ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ዓመፃቸውም"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ያነሳሉ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሳቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:02:59.208424805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "በምንሠር ልጆች ዐምድ ክፍል ላይ ደግሞ ፈዳሹር ልጅ ገምልኤል ነበር።",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "በ…ላይ ደግሞ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ክፍል"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ዐምድ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምንሠር"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "ገምልኤል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ፈዳ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ሹር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:11:35.063647083Z",
+  "model": "glm-5.3"
+}

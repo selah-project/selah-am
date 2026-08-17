@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "ምክንያቱም ከጠላቶቻችን አድነኸን፤ የሚጠሉንንም አፍረውተሃል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "አድነኸን"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "ከጠላቶቻችን"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "የሚጠሉንንም"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "አፍረውተሃል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:20.289770346Z",
+  "model": "glm-5.3"
+}

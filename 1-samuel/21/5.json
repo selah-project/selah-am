@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ካህኑ ዳዊትን መለሰለት፣ እንዲህም አለው፦ የተለመደ (ቅዱስ ያልሆነ) ዳቦ በእጄ ስር የለም፤ በምትሆን ጊዜ የተቀደሰ ዳቦ አለ፤ ወጣቶቹ ከሴት ጋር ብቻ ካልተጠኑ፣ እንጂ።",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መለሰለት"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊትን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦ"
+    },
+    {
+      "surface": "חל",
+      "gloss": "የተለመደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ...ስር"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "እጄ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከ…ጋር ከሆነ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንጂ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "የተቀደሰ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከ…ከሆነ"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "ተጠኑ"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "ወጣቶቹ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "ከሴት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:48:07.203140811Z",
+  "model": "glm-5.3"
+}

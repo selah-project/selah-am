@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "እኔ ግን እንደ ድምፀ-ከፋ አልሰማም፤ እንደ ድምፅ-ከፋም አፉን አይከፍትም።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "እንደ ድምፀ-ከፋ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አልሰማም"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "አልሰማም ልክ"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "እንደ ድምፅ-ከፋም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይከፍትም"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "አይከፍትም ልክ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "አፉን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:40:56.229218257Z",
+  "model": "glm-5.3"
+}

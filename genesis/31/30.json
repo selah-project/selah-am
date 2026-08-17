@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "እና አሁን ሄደህ ሄይሀህ፣ ምክንያቱም ለአባትህ ቤት በጣም ተመኝተህ ተመኝሀህ፤ ለምን ኤሎሂሜን ⟨את⟩ ዘረፍሀህ?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "እና አሁን"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ሄደህ"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "ሄይሀህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "ተመኝተህ"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "ተመኝሀህ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ለቤት"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "አባትህ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "ዘረፍሀህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂሜን"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂሜን"
+    }
+  ],
+  "timestamp": "2026-08-17T05:54:44.722241013Z",
+  "model": "glm-5.3"
+}

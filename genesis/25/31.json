@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ያዕቆብም እንዲህ አለ፦ ዛሬ የአንተን ባለቤትነት ⟨את⟩ ለእኔ ሸጠኝ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብም"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "ሸጠኝ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ባለቤትነትህን"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "የአንተን ባለቤትነት"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:31:23.831159671Z",
+  "model": "glm-5.3"
+}

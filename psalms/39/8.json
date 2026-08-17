@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "አሁንም ምን አጠብቃለሁ አዶናይ ሆይ፤ ተስፋዬ በአንተ ላይ ⟨ናት⟩።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "አሁንም"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "አጠብቃለሁ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "ተስፋዬ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ናት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:22.987696926Z",
+  "model": "glm-5.3"
+}

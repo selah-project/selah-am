@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 15:17",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "እና ታስወስዳለህ ⟨את⟩ መርጫውን እና ታስቀምጣለህ በጆሮው እና በበሩ ላይ፤ እና ⟨ይሆናል⟩ ለአንተ አገልጋይ ለዘላለም፤ እንዲሁም ለአገልጋይትህ ታደርጋለህ እንደዚህ።",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ታስወስዳለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መርጫውን"
+    },
+    {
+      "surface": "המרצע",
+      "gloss": "መርጫውን"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ታስቀምጣለህ"
+    },
+    {
+      "surface": "באזנו",
+      "gloss": "በጆሮው"
+    },
+    {
+      "surface": "ובדלת",
+      "gloss": "እና በበሩ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "እና ይሆናል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "አገልጋይ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "לאמתך",
+      "gloss": "ለአገልጋይትህ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚህ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:13:46.795677656Z",
+  "model": "glm-5.3"
+}

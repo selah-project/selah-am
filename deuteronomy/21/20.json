@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 21:20",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ወደ ከተማው ሽማግሌዎች እንዲህ ይላሉ። ይህ የእኛ ልጅ አድመኝና አማመኝ ነው፤ የእኛን ድምፅ አይሰማም፤ በላም ሰከምም ነው።",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ይላሉ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ሽማግሌዎች"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "የከተማው"
+    },
+    {
+      "surface": "בננו",
+      "gloss": "የእኛ ልጅ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "አድመኝ"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "አማመኝ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "አይሰማም"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ያሰማል"
+    },
+    {
+      "surface": "בקלנו",
+      "gloss": "የእኛን ድምፅ"
+    },
+    {
+      "surface": "זולל",
+      "gloss": "በላ"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "ሰከም"
+    }
+  ],
+  "timestamp": "2026-08-16T15:08:57.939404590Z",
+  "model": "glm-5.3"
+}

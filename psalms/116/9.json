@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 116,
+  "translation": "በያህዌህ ፊት እንቀሳቀሳለሁ፣ በሕያዋን ⟨የ⟩ ምድራት።",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "እንቀሳቀሳለሁ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "በ…ምድራት"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ሕያዋን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:11.652394404Z",
+  "model": "glm-5.3"
+}

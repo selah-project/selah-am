@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ዐማሳም የይሁዳን ⟨ትብብር⟩ ሰብሶ ሊጠራ ሄደ፤ ንጉሡ ያስቀመጠለትን ቀን በፊት ቢያልፍም ዘገየ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "ዐማሳም"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "ሊጠራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይሁዳን"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "ዘገየ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "ቈጠሩት ቀን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "ያስቀመጠለት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:09:06.787214899Z",
+  "model": "glm-5.3"
+}

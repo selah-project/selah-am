@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "leviticus 7:15",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የሰላምታ ውልቀ ስጦታውን ሥጋ በሚያቀርብበት ቀን ይበላል፤ ከእሱ ወደ ጠዋት ድረስ አያስቀምጥም።",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "ሥጋውን"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "የውልቀ"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "ሰላምታ"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "ስጦታው"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ማቅረቡ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበላል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "አያስቀምጥም"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእሱ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ድረስ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ጠዋት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:46:10.497796710Z",
+  "model": "glm-5.3"
+}

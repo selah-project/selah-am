@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "በምክርህ ታስረኛል፣ ከዚያም በክብር ታመኛል።",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "በምክርህ"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ታስረኛል"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "እና ከዚያ በኋላ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "በክብር"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "ታመኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:05.135675051Z",
+  "model": "glm-5.3"
+}

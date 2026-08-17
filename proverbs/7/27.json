@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የሲኦል መንገዶች ቤቷ ናቸው፤ ወደ ሞት ክፍሎች የሚወርዱ ናቸው።",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "የ…መንገዶች"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሲኦል"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ቤቷ"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "የሚወርዱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ክፍሎች"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:23:05.271950910Z",
+  "model": "glm-5.3"
+}

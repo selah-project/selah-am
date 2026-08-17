@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "ሰው በክብር ውስጥ ⟨ነው⟩ እና አያስተውልም፤ እንስሳት ሆኖ ተመሳሳያል፣ ወደቁ።",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "በክብር ውስጥ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አያስተውልም"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ያስተውል ነበር"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "ተመሳሳዋል"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "እንደ እንስሳት"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "ወደቁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:45.910049433Z",
+  "model": "glm-5.3"
+}

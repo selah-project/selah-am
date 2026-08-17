@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 140,
+  "translation": "የሚከብቡኝ ሰዎች አለቆች የእነርሱ ከንፈር እንጥል ይሸፍናቸው።",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "አለቆች"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "የሚከብቡኝ ሰዎች"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "እንጥል"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "የእነርሱ ከንፈር"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "ይሸፍናቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:15.770950857Z",
+  "model": "glm-5.3"
+}

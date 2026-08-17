@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ላያህዌህ ዘምሩ ምድር ሁሉ፤ ከቀን እስከ ቀን የውደቁን አውራዱ።",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ዘምሩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ላያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "አውራዱ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ከቀን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "የውደቁን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:53:29.086019050Z",
+  "model": "glm-5.3"
+}

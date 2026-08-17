@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 118,
+  "translation": "ከሐረግ ⟨את⟩ ያህዌህ የሆነች ይህች ናት፤ አስደናቂ ናት በዓይናችን።",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "ከሐረግ ⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "የሆነች"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህች"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ናት"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "አስደናቂ"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "በዓይናችን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:26.659349092Z",
+  "model": "glm-5.3"
+}

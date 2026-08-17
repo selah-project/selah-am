@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "ከጠላት ወደ ኋላ ታድሽናልን፤ የሚጠሉንም ለራሳቸው ዘረፉናል።",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "ታድሽናልን"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ወደ ኋላ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ጠላት"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "የሚጠሉንም"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "ዘረፉ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ለራሳቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:09.721778921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ልቤ በሥርዓቶችህ ፍጹም ይሁን፣ ያለመሳፈር ዘንድ።",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ፍጹም"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "በሥርዓቶችህ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ዘንድ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ያለ"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "መሳፈር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:34.068361932Z",
+  "model": "glm-5.3"
+}

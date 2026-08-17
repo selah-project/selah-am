@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ቀርበውም በኮታዎቻቸው አንሱኝ ወደ ⟨ሰፈሩ⟩ ውጭ እንደ ሞሼ እንደ ተናገረው።",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "ቀርበውም"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "አንሱኝ"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "በኮታዎቻቸው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ውጭ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ለሰፈሩ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረው"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:49:25.492818688Z",
+  "model": "glm-5.3"
+}

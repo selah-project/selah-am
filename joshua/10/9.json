@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ያሁሻ ምክንያቱም በድንገት ወደ እነርሱ መጣ፤ ከጌልገል ሌሊቱን ሁሉ ወጣ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ወደ እነርሱ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ያሁሻ"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "በድንገት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ሌሊቱን"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ጌልገል"
+    }
+  ],
+  "timestamp": "2026-08-16T19:26:12.343492977Z",
+  "model": "glm-5.3"
+}

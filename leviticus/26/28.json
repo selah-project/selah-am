@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እኔም ከእናንተ ጋር በተቃዋሚነት ንዴት እሄዳለሁ፣ እና ⟨את⟩ እናንተን እኔ እንኳ ስለ ኃጢያታችሁ ሰባት ጊዜ እወቅሳለሁ።",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "እና እሄዳለሁ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ከእናንተ ጋር"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "በንዴት"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "ተቃዋሚነት"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "እና እወቅሳለሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እንኳ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሰባት ጊዜ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "ኃጢያታችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:12:02.912334736Z",
+  "model": "glm-5.3"
+}

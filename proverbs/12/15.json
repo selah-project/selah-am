@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የሞኝ መንገድ በዓይኑ ቀጥተኛ ⟨ነው⟩፤ ወደ ምክር የሚሰማ ግን ጥበበኛ ነው።",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ሞኝ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ቀጥተኛ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "በዓይኑ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "የሚሰማ"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "ምክርን"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ጥበበኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:26:11.607522728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "እና ⟨ይህችው⟩ በረከት ሞሼ የኤሎሂም ሰው እስራኤልን ⟨את⟩ ልጆችን ሲባርክ ከሞተው በፊት እንደ ባረካቸው።",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "እና ይህችው"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "በረከት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ባረከ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእስራኤል ልጆችን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆችን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "ሞቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:56:51.759602306Z",
+  "model": "glm-5.3"
+}

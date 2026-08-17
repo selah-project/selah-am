@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 91,
+  "translation": "በእጆች ያነሱሃል፤ እግርህ በድንጋይ እንዳትሰበር (ፔን)።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "እጆች"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "ያነሱሃል፤"
+    },
+    {
+      "surface": "פן",
+      "gloss": "እንዳትሰበር"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "እንድትሰበር"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "በድንጋይ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "እግርህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:16.126871792Z",
+  "model": "glm-5.3"
+}

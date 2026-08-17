@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ከሃሲድ ጋር ሃሲድ ትሆናለህ፤ ከታምኪ ጠንካራ ጋር ታምኪ ትሆናለህ።",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ሃሲድ"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "ሃሲድ ትሆናለህ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ጠንካራ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ታምኪ"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "ታምኪ ትሆናለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:46.053201687Z",
+  "model": "glm-5.3"
+}

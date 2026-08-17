@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ያዕቆብም ለብቻው ተረፈ፤ አንድ ሰውም ከእርሱ ጋራ እስከ ንጋቱ መውጣት ድረስ ታገለው።",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "ተረፈ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብም"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ለብቻው"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "ታገለው"
+    },
+    {
+      "surface": "איש",
+      "gloss": "አንድ ሰው"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋራ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ ... ድረስ"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "መውጣት"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ንጋቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:49:57.817831832Z",
+  "model": "glm-5.3"
+}

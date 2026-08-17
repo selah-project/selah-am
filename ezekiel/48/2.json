@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "በዳን ድንበር ላይ ከምሥራቅ ጎን እስከ ባሕር ጎን ድረስ አሸር አንድ።",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ድንበር"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ዳን"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ከ…ጎን"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ምሥራቅ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ጎን"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "አሸር"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:55:05.363110525Z",
+  "model": "glm-5.3"
+}

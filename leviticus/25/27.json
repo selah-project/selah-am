@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ከዚያም የሽያጩን ዓመታት ⟨את⟩ ይቆጥራል፤ ለሸጠው ሰው የቀረውን ⟨את⟩ ይመልሳል፤ እና ወደ ርስቱ ይመለሳል።",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "ይቆጥራል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓመታትን"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "የሽያጩ"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ይመልሳል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የቀረውን"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "የቀረው"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ለሰው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነ"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "ሸጠ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለርሱ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ይመለሳል"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "ወደ ርስቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:01:31.672593005Z",
+  "model": "glm-5.3"
+}

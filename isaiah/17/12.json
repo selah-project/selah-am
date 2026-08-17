@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "isaiah 17:12",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ወዮ ለብዙ ሕዝቦች አውዥኝታ፤ እንደ ባሕር ጩኸት ያጮኻሉ፤ እና ለአሕዛብ ጩኸት፤ እንደ ኃያላን ውሃ ጩኸት ያነድዳሉ።",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ወዮ"
+    },
+    {
+      "surface": "המון",
+      "gloss": "አውዥኝታ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "כהמות",
+      "gloss": "እንደ ጩኸት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "የባሕር"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "ያጮኻሉ"
+    },
+    {
+      "surface": "ושאון",
+      "gloss": "እና ጩኸት"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ለአሕዛብ"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "እንደ ጩኸት"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "ኃያላን"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "ያነድዳሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:06:20.840452010Z",
+  "model": "glm-5.3"
+}

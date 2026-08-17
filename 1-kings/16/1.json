@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "የያህዌህ ቃል ወደ ሐናኒ ልጅ የሁ በባሽዓ ላይ መጣ፤ እንዲህ ሲል፦",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነበር"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "የሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ሐናኒ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ባሽዓ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T06:29:58.715547168Z",
+  "model": "glm-5.3"
+}

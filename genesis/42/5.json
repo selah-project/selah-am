@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "የእስራኤል ልጆች ለመግዛት በመጡት ሕዝብ መካከል መጡ፤ ምክንያቱም ራብ በከነዓን ምድር ነበር።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ለመግዛት"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "በመጡት ሕዝብ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበር"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ራብ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "በከነዓን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:58:56.031572225Z",
+  "model": "glm-5.3"
+}

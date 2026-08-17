@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 147,
+  "translation": "የበሮችህን እንኳኖች ስለ አጠናከረ፣ በአንተ ውስጥ ያሉትን ልጆችህ ኣባረከ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "አጠናከረ"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "እንኳኖች"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "የበሮችህን"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ኣባረከ"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ልጆችህን"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "በአንተ ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:37.287067185Z",
+  "model": "glm-5.3"
+}

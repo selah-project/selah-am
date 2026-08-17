@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "job 20:26",
+  "book": "job",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ሁሉ ጨለማ ለተሰለቹት ነገሮቹ ተሰውሯል፤ ያልተነፈሰ እሳት ያቃጥለዋል፤ የቀረው በድንቁርኑው ይጠፋል።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጨለማ"
+    },
+    {
+      "surface": "טמון",
+      "gloss": "ተደብቋል\/ተሰውሯል"
+    },
+    {
+      "surface": "לצפוניו",
+      "gloss": "ለተሰለቹት ነገሮቹ"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "ያቃጥለዋል"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ያል"
+    },
+    {
+      "surface": "נפח",
+      "gloss": "ተነፈሰ"
+    },
+    {
+      "surface": "ירע",
+      "gloss": "ይጠፋል"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "የቀረው"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "በድንቁርኑው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:51:00.514553306Z",
+  "model": "glm-5.3"
+}

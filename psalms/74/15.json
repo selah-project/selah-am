@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 74,
+  "translation": "አንተ ፏፏቴንና መንገዱን ሰበርህ፤ አንተ ዘላቂ ወንዞችን አድርቀህ።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "ሰበርህ"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "ፏፏቴን"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "እና ወንዝን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "አድርቀህ"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ወንዞችን"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ዘላቂ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:40.777398807Z",
+  "model": "glm-5.3"
+}

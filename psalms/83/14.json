@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 83,
+  "translation": "አምላኬ ኤሎሃዬ፣ እነርሱን እንደ ተንኮል አድርጋቸው፣ እንደ ጭቃ በነፋሱ ፊት።",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሃዬ"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "አድርጋቸው"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "እንደ ተንኮል"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "እንደ ጭቃ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ… ፊት"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ነፋሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:43.436354237Z",
+  "model": "glm-5.3"
+}

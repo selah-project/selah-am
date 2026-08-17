@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ሰውም ለእንስሳት ሁሉ፣ ለሰማይ ወፎችም፣ ለየመስኩ እንስሳትም ሁሉ ስሞችን ጠራ፤ ለሰው ግን ተቃራኒ እረዳት አልተገኘም።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "…ጠራ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ስሞችን"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለ…ሁሉ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "እንስሳት"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "ለ…ወፎችም"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "የሰማይ"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ለ…ሁሉም"
+    },
+    {
+      "surface": "חית",
+      "gloss": "እንስሳት"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "የመስኩ"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "ለሰው ግን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ተገኘ"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "እረዳት"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "ተቃራኒ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:30.847927970Z",
+  "model": "glm-5.3"
+}

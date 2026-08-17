@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "leviticus 9:18",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ወደ ሕዝቡም የሚሆነውን የሰላም መሥዋዕት ⟨את⟩ አህያሁን እና ⟨את⟩ በጉን ሠወረ፤ የአሃሮንም ወንዶች ⟨את⟩ ደሙን ወደ እርሱ አመጡት፤ እርሱም በመሠዊያው ላይ ዙሪያ ዙሪያ ረጨው።",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ሠወረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አህያሁን"
+    },
+    {
+      "surface": "השור",
+      "gloss": "አህያሁን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "በጉን"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "በጉን"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "መሥዋዕት"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "የሰላም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚሆነውን"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ወደ ሕዝቡም"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "አመጡት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወንዶች"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "የአሃሮንም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደሙን"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ደሙን"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "ረጨው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ዙሪያ ዙሪያ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:47:38.276711618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "leviticus 16:28",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "እና እነሱን ⟨את⟩ የሚያቃጥለው ልብሶቹን ይታጠባል እና ⟨את⟩ ሥጋውን በውሃ ያጠባል፤ ከዚያ በኋላ ወደ ሰፈሩ ይገባል።",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "እና የሚያቃጥለው"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ይታጠባል"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ልብሶቹን"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "እና ያጠባል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሥጋውን"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ሥጋውን"
+    },
+    {
+      "surface": "במים",
+      "gloss": "በውሃ"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "እና ከ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚያ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ይገባል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ሰፈሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:55:47.184550306Z",
+  "model": "glm-5.3"
+}

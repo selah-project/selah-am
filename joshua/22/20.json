@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "joshua 22:20",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ዛቅር ልጅ ዓካን በረገመው ነገር አልተደለ ወይስ በደል አልፈጸመም? በመላው የእስራኤል ማኅበርም ላይ ቍጣ ሆነ፤ እርሱም አንድ ሰው ብቻ በደሉ አልሞተም።",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ወይስ... አልፈጸመም"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "ዓካን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ዛቅር"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "አልተደለ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "በደል"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "በረገመው ነገር"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "በ... ላይም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላው"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ማኅበር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ቍጣ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "እርሱም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "גוע",
+      "gloss": "ሞተም"
+    },
+    {
+      "surface": "בעונו",
+      "gloss": "በደሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:11:57.748809417Z",
+  "model": "glm-5.3"
+}

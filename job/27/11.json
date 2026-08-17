@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "በኤል እጅ አስተምራችኃለሁ፤ ከሻዳይ ጋር ያለውን አልሰውርም።",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "አስተምራችኃለሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ናችሁ",
+      "marks": "በኤል እጅ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጅ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለውን"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ሻዳይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "ሰውርም"
+    }
+  ],
+  "timestamp": "2026-08-16T18:12:12.929802480Z",
+  "model": "glm-5.3"
+}

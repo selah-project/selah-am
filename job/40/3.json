@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ኢዮብ ያህዌህን ⟨את⟩ መለሰ እና አለ።",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መለሰ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኢዮብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:00:50.121143495Z",
+  "model": "glm-5.3"
+}

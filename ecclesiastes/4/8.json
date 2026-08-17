@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "ecclesiastes 4:8",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "አንድ ሰው አለ፤ ሁለተኛ ግን የለም፤ ልጅም ወንድምም የለውም፤ በሙሉ ድካሙም ፍጻሜ የለውም፤ ዓይኑም ከብዛት አይጠግብም። ለማንስ እደክማለሁ? ነፍሴንም ⟨את⟩ ከበጎነት እቀንሳለሁ? ይህም ፍንትሐት ነው፣ የክፋት ሥራም ነው።",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለምም"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለተኛ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንኳ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅም"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "ወንድምም"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለውም"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለርሱ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለምም"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ፍጻሜ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ድካሙ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንኳ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ዓይኑም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ጠግብም"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ከብዛት"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "ለማንስ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "እደክማለሁ"
+    },
+    {
+      "surface": "ומחסר",
+      "gloss": "እቀንሳለሁም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሴን"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "מטובה",
+      "gloss": "ከበጎነት"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ይህም"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ፍንትሐት"
+    },
+    {
+      "surface": "וענין",
+      "gloss": "ሥራም"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፋት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T11:15:12.760921472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "judges 5:20",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ከሰማያት ተዋጉ፤ ከዋክቮችም ከጎዳናዎቻቸው ከሲሶራ ጋር ተዋጉ።",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "ተዋጉ"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "ከዋክቮች"
+    },
+    {
+      "surface": "ממסלותם",
+      "gloss": "ከጎዳናዎቻቸው"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "ተዋጉ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "ሲሶራ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:17:10.884778125Z",
+  "model": "glm-5.3"
+}

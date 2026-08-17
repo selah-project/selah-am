@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ይህን ቃል ⟨את⟩ ሳሰማ፣ በገበታዬም ⟨את⟩ ላይ ቀደድሁ፣ ከራሴ ፀጉርና ከአጋዳሚዬ አነቀልሁ፣ ተደነቅሁም ተቀመጥሁ።",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "ሳሰማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህን ቃል"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "ቀደድሁ።"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በገበታዬ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ልብሴን"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "ከባለጠረቤቴም"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "አነቀልሁ።"
+    },
+    {
+      "surface": "משער",
+      "gloss": "ከፀጉር"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ራሴ"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "እና ከአጋዳሚዬ"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "ተቀመጥሁ።"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "ተደንቆ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:06:13.310242647Z",
+  "model": "glm-5.3"
+}

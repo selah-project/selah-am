@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "1-kings 22:26",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "የእስራኤልም ንጉሥ እንዲህ አለ፦ ሚካያሁን ⟨את⟩ ውሰዱት፣ ወደ አሞን የከተማው አለቃ እና ወደ ዮአስ የንጉሡ ልጅ መልሳችሁት።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ውሰዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚካያሁን"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "ሚካያሁ"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "መልሳችሁት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "አሞን"
+    },
+    {
+      "surface": "שר",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "የከተማው"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ዮአስ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:35:24.488312978Z",
+  "model": "glm-5.3"
+}

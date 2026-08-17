@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 27:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ቀንሶቹን በአራቱ ማዕዘኖቹ ላይ ታደርጋለህ፤ ከራሱ ይሁኑ ቀንሶቹ፤ ⟨את⟩ ናስ በሚቀብጥ ታክለዋለህ።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ቀንሶቹን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "አራት"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "ማዕዘኖቹ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከራሱ"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "ይሁኑ"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ቀንሶቹ"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ታክለዋለህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ናስ በሚቀብጥ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ናስ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:26:37.389992525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 11:5",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "የደቡብ ንጉሥ ይጠናቀቃል፣ ከአለቆቹም አንዱ ከእርሱ በላይ ይጠናቀቃል፣ ይገዛልማል፤ ትልቅ ግዛት ይሆናል ግዛቱ።",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ይጠናቀቃል"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "የደቡብ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "አለቆቹ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ይጠናቀቃል"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ከእርሱ በላይ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ይገዛልማል"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "ግዛት"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ትልቅ"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "ግዛቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:32:09.624916280Z",
+  "model": "glm-5.3"
+}

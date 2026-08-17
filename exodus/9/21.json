@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እና ⟨የሚያልፈው ቃል⟩ ያህዌህን ⟨את⟩ ያልጨመረ፣ እርሱም ⟨את⟩ አገልጋዮቹን እና ⟨את⟩ ከብቱን በሜዳ ውስጥ ተወ።",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "እና እርሱም የ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ጨመረም"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "ተወው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አገልጋዮቹን"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "አገልጋዮቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ከብቱን"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "ከብቱን"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "በሜዳ ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:42:22.590570553Z",
+  "model": "glm-5.3"
+}

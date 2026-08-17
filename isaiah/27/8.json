@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "isaiah 27:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "በማባከኑ፣ በምትለክበት ጊዜ ትከራከራለች፤ በኃይለኛው ነፋሱ በምሥራቅ ነፋስ ቀን አስወጣታል።",
+  "tokens": [
+    {
+      "surface": "בסאסאה",
+      "gloss": "በማባከኑ"
+    },
+    {
+      "surface": "בשלחה",
+      "gloss": "በምትለክበት ጊዜ"
+    },
+    {
+      "surface": "תריבנה",
+      "gloss": "ትከራከራለች"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "አስወጣታል"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "በነፋሱ"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ኃይለኛው"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "የምሥራቅ ነፋስ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:08:52.495146060Z",
+  "model": "glm-5.3"
+}

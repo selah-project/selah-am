@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ያህዌህን ⟨את⟩ እርሱን ውኃቁ፣ ቅዱሳኖቹ፤ እነሆ ለሚፈሩት ማንነት ጉድለት የለምና።",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "ውኃቁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "ቅዱሳኖቹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "ጉድለት"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ለሚፈሩት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:00.074949353Z",
+  "model": "glm-5.3"
+}

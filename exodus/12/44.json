@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "እና በብር የተገዛ የሰው አገልጋይ ሁሉ በውጡት ወቅት ⟨את⟩ ከእርሷ ይበላል።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "አገልጋይ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "የሰው"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "የተገዛ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "በብር"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "እና በውጡት ወቅት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን (አገልጋዩን)"
+    },
+    {
+      "surface": "אז",
+      "gloss": "በዚያን ጊዜ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበላል"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ከእርሷ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:14:19.708196654Z",
+  "model": "glm-5.3"
+}

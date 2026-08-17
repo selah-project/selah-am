@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "isaiah 46:11",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 46,
+  "translation": "ከምሥራቅ አንበሳ ወፍ እጠራለሁ፣ ከሩቅ ምድር የእቅዴ ሰው ነው፤ አገርኩም፣ እመጣዋለሁ፤ ሠራሁም፣ አደርገዋለሁ።",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "እጠራለሁ"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ከምሥራቅ"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "አንበሳ ወፍ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከሩቅ ምድር"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ሩቅ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "የእቅዴ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "አገርኩም"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ተናግርኩ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "אביאנה",
+      "gloss": "እመጣዋለሁ"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "ሠራሁም"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "አደርገዋለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:22:19.445019722Z",
+  "model": "glm-5.3"
+}

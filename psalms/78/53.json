@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "በደህና መራቸው፣ እነሱም አልፈሩም፤ የባሕሩም ⟨את⟩ ጠላቶቻቸውን ሸፈነ።",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "መራቸው"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "በደህና"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ፈሩም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጠላቶቻቸውን"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ጠላቶቻቸውን"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ሸፈነ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:53.675859654Z",
+  "model": "glm-5.3"
+}

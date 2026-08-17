@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ለአባቱና ለእናቱ — አልታየኝም ለሚለው፣ ⟨את⟩ ወንድሞቹን አላወቃቸውም፣ ⟨את⟩ ልጆቹንም አያውቅም፤ ቃልህን ጠበቁ እንጂ፣ ቃል ኪዳንህንም ይጠብቃሉ።",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "ለሚለው"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "ለአባቱ"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "እና ለእናቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "አየሁት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ወንድሞቹን"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሞቹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "አወቀ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ልጆቹን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጆቹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ያውቅ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንጂ"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ጠበቁ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ቃልህን"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "እና ቃል ኪዳንህን"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ይጠብቃሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:55:45.730701344Z",
+  "model": "glm-5.3"
+}

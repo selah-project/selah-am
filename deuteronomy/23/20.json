@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ለወንድምህ በወለድ አትስጥ — የብር ወለድ፣ የምግብ ወለድ፣ በወለድ የሚሰጥ ማንኛውም ነገር ወለድ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "በወለድ ታስጥ"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ለወንድምህ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ወለድ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "የብር"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ወለድ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "የምግብ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ወለድ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ማንኛውም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚሰጥበት"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "በወለድ ይሰጣል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:49:38.953516375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ጠበብህ እንደሆንህ ለራስህ ታጠባለህ፤ አለህቀስክም እንደሆንህ ብቻውን ታንሳለህ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንደሆንህ"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ጠበብህ"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ታጠባለህ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለራስህ"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "አለህቀስክም"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ብቻውን"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ታንሳለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:23:25.019251941Z",
+  "model": "glm-5.3"
+}

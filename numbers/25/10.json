@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "numbers 25:10",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ያህዌህም ከሞሼ ጋር በነገረ ይናገር ነበር፤ እንዲህ ሲል፦",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "በነገረ ይናገር ነበር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ከሞሼ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:23:03.910281428Z",
+  "model": "glm-5.3"
+}

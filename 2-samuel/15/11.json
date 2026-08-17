@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 15:11",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ከኢየሩሳሌምም የተጠሩ ሁለት መቶ ሰዎች ⟨את⟩ አቤልሶምን ተከተሉ፤ በታማኝነታቸውም ሄዱ፤ ምንም ነገር ግን አወቁም።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "አቤልሶምን"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "አቤልሶም"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ተከተሉ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ሁለት መቶ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "ከኢየሩሳሌምም"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "የተጠሩ"
+    },
+    {
+      "surface": "והלכים",
+      "gloss": "ሄዱም"
+    },
+    {
+      "surface": "לתמם",
+      "gloss": "በታማኝነታቸው"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…አል"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ወቁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ምንም…ነገር"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ነገር"
+    }
+  ],
+  "timestamp": "2026-08-16T16:07:36.714239064Z",
+  "model": "glm-5.3"
+}

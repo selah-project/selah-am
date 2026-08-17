@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ትጠብቃለህ የያህዌህ ኤሎሂም አምላክህን ⟨את⟩ ትእዛዞችን፣ በመንገዶቹ ለመሄድ እና ⟨אתו⟩ ለመፍራት።",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "ትጠብቃለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዞችን"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ትእዛዞችን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂም አምላክህን"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ለመሄድ"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "በመንገዶቹ"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "እና ለመፍራት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "እርሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:38:14.993412731Z",
+  "model": "glm-5.3"
+}

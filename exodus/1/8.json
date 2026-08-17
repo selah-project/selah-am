@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "በምአራትም በዚያ ጊዜ ያልታወቀው አዲስ ንጉሥ ተነሣ፤ ዮሴፍን ⟨אֺת⟩ የማያውቅ ነበር።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሣ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "አዲስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ ለምአራትም"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምአራትም ላይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚያለው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ታወቀው፣ ያውቅ ነበር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮሴፍን"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:04:59.644945020Z",
+  "model": "glm-5.3"
+}

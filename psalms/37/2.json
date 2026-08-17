@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "እነርሱ ግን እንደ ሣር ፈጥነት ይጨፈማሉ፤ እንደ አረንጓዴ ሣርም ያሻቁአል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እነርሱ ግን"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "እንደ ሣር"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "በፍጥነት"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "ይጨፈማሉ"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "እንደ አረንጓዴ"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ሣር"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "ያሻቃሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:45.823085695Z",
+  "model": "glm-5.3"
+}

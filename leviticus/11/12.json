@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "በውሃው ውስጥ ስንፍርናና ቅርፊት የሌለው ሁሉ — እርሱ ጥላት ነው ላንተህ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚከተለው"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የሌለው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "ስንፍርና"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "እና ቅርፊት"
+    },
+    {
+      "surface": "במים",
+      "gloss": "በውሃው"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ጥላት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ላንተህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:48:32.118656393Z",
+  "model": "glm-5.3"
+}

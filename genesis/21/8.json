@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ሕፃኑም አደገ፤ ወይንም ጡት ተቋረጠለት፤ አብርሃምም ይስሐቅ ⟨את⟩ ጡት በተቋረጠለት በዚያ ቀን ታላቅ በዓል አደረገ።",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "አደገ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ሕፃኑ"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "ጡት ተቋረጠለት"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃምም"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "በዓል"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በዚያ ቀን"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "ጡት በተቋረጠለት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይስሐቅን"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይስሐቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:40:12.924140467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ሙሴያም ተናቢያዋ፣ የአሃሮን እህት፣ ⟨את⟩ ከበሮውን በእጇ ወሰደች፤ ሴቶችም ሁሉ በከበሮዎች እና በመዝለቆች በእሷ ጀርባ ወጡ።",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "ወሰደች"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "ሙሴያም"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "ተናቢያዋ"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "እህት"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "የአሃሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከበሮውን"
+    },
+    {
+      "surface": "התף",
+      "gloss": "ከበሮውን"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "በእጇ"
+    },
+    {
+      "surface": "ותצאן",
+      "gloss": "ወጡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ሴቶችም"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "በእሷ ጀርባ"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "በከበሮዎች"
+    },
+    {
+      "surface": "ובמחלת",
+      "gloss": "እና በመዝለቆች"
+    }
+  ],
+  "timestamp": "2026-08-16T19:09:46.159792310Z",
+  "model": "glm-5.3"
+}

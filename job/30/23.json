@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "job 30:23",
+  "book": "job",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "እንደዚህ እወቃለሁ፤ ሞት ታመልሰኛለህ፤ እና ለሁሉም ሕያዋን ወደ ⟨ተቀመጠለት⟩ ቤት።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "እወቃለሁ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "תשיבני",
+      "gloss": "ታመልሰኛለህ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "እና ወደ ቤት"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "የተሰበሰበ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ሕያዋን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:54:48.307513181Z",
+  "model": "glm-5.3"
+}

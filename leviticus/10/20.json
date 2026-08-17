@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ሞሼም ሰማ፤ በዓይኖቹም ተመልካች ሆነ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "መልካም ሆነ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "በዓይኖቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:49:46.505086163Z",
+  "model": "glm-5.3"
+}

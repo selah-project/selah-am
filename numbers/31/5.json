@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "numbers 31:5",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ከእስራኤል ሺዎች ለየነገድ ሺህ ተሰጡ፤ ለጦር የታጠቁ ሁለት አሥር ሺህ።",
+  "tokens": [
+    {
+      "surface": "וימסרו",
+      "gloss": "ተሰጡ"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "ከሺዎች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ለየነገድ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "የታጠቁ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ለጦር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:28:59.111570149Z",
+  "model": "glm-5.3"
+}

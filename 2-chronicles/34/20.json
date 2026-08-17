@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 34:20",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ንጉሡም ሕልቅያሁን ⟨את⟩፣ የሻፋንን ልጅ አሕቅን ⟨את⟩ን፣ የሚካን ልጅ ዓብድን ⟨את⟩ን፣ ጻፊውን ሻፋን ⟨את⟩ን እና የንጉሡ አገልጋይ ዓሳያን ⟨את⟩ን በዚህ ሲል አዘዛቸው፤",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "አዘዛቸው"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕልቅያሁን"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "ሕልቅያሁን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "አሕቅን"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "አሕቅን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "ሻፋን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓብድን"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "ዓብድን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ሚካ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሻፋን"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "ሻፋን"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "ጻፊው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓሳያን"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "ዓሳያን"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "አገልጋይ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "በዚህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T18:56:40.420180116Z",
+  "model": "glm-5.3"
+}

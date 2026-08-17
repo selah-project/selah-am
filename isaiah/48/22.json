@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "ሰላም የለም አለ ያህዌህ ለክፉዎች።",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "ለክፉዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T07:21:43.588893638Z",
+  "model": "glm-5.3"
+}

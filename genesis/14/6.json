@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "እና ⟨את⟩ ሆራውያኑን በሲዒር ተራሮቻቸው፣ እስከ ኤል-ፓራን ድረስ፣ የሚገኘውም በምድረ በዳ ላይ እንደ ሆነ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሆራውያኑን"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "ሆራውያኑን"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "በሲዒር ተራሮቻቸው"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ሲዒር"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ... ድረስ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "ፓራን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኘውም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ምድረ በዳ"
+    }
+  ],
+  "timestamp": "2026-08-17T05:53:28.155689986Z",
+  "model": "glm-5.3"
+}

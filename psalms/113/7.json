@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 113,
+  "translation": "ከአፈር ድሆችን ያስነሳል፤ ከቆሻሻ ቦታ ድሆችን ያንሳል።",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "ያስነሳል"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "ከአፈር"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ድህ ደካማ"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "ከቆሻሻ ቦታ"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ያንሳል"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "እጅ ባለቤት ድሆች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:11.025827964Z",
+  "model": "glm-5.3"
+}

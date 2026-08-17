@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "proverbs 31:8",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ለድቡ ሰው አፍህን ክፈት፤ ለተነጠሉ ልጆች ሁሉ ፍትሕ ተናገር።",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ክፈት"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "አፍህን"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "ለድቡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ፍትሕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "חלוף",
+      "gloss": "የተነጠሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:38:36.334891629Z",
+  "model": "glm-5.3"
+}

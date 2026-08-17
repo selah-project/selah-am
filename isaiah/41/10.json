@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "አትፍራ፣ ምክንያቱም እኔ ከአንተ ጋር ⟨ነኝ⟩፤ አትደነግጥ፣ ምክንያቱም እኔ ኤሎሂምህ ⟨ነኝ⟩፤ አጠናክሬሻለሁ፣ እንዲሁም ረድቼሃለሁ፣ እንዲሁም በጽድቄ ቀኝ አንሥቼሃለሁ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ትፈራ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "ትደነግጥ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምህ"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "አጠናክሬሻለሁ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "ረድቼሃለሁ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "ደግፌያለሁ"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "በቀኝ"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "ጽድቄ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:19:36.890110686Z",
+  "model": "glm-5.3"
+}

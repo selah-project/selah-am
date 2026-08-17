@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "2-chronicles 6:5",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ሕዝቤን ⟨את⟩ ከግብፅ ምድር ካወጣኋቸው ከዚያ ቀን ጀምሮ ከእስራኤል ነገዶች ሁሉ በከተማ ላይ ቤት የሚሠራ ስሜ በዚያ እንዲሆን አልመረኩም በእስራኤል ሕዝቤ ላይ አለቃ የሚሆን በሰው ላይም አልመረኩም።",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ቀን ጀምሮ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ከዚያ ያ"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ካወጣኋቸው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቤን"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤን"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከ... ምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፅ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "መረኩም"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "በከተማ ላይ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከ... ሁሉ"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ነገዶች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "የሚሠራ ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "እንዲሆን"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ስሜ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንደዚሁም አል"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "መረኩም"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "በሰው ላይ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "የሚሆን"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T13:27:54.169515557Z",
+  "model": "glm-5.3"
+}

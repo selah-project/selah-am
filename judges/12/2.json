@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 12:2",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ያፍጥም እነሱን «እኔ እና ሕዝቤ ከዐሞን ልጆች ጋር ታላቅ ግጭት ነበረን፤ ⟨אתכם⟩ ጮኼሁ፣ እናንተም ⟨את⟩ ⟨אותי⟩ ከእጃቸው አላዳናችሁኝም» አላቸው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አላቸው"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ያፍጥ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "እነሱን"
+    },
+    {
+      "surface": "איש",
+      "gloss": "የግጭት ባለቤት"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ግጭት"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ነበርሁ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "እና ሕዝቤ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "እና የ… ልጆች"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ዐሞን"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "ואזעק",
+      "gloss": "ጮኼሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና… አል"
+    },
+    {
+      "surface": "הושעתם",
+      "gloss": "አዳናችሁኝም"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ⟨אותי⟩",
+      "marks": "እኔን"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ከእጃቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T19:31:31.989710732Z",
+  "model": "glm-5.3"
+}

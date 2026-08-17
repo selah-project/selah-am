@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እኔ ያህዌህ ኤሎሂምህ ነኝ፤ እኔ አንተን ከምድረ ሚጽራይም፣ ከቤተ አገልጋዮች አውጥቼሃለሁ።",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "አውጥቼሃለሁ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ከቤተ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "አገልጋዮች"
+    }
+  ],
+  "timestamp": "2026-08-16T03:19:15.142763813Z",
+  "model": "glm-5.3"
+}

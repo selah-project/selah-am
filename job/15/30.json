@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "job 15:30",
+  "book": "job",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ከጨለማ አይወጣም፤ በእሳት ነበብናሽ ቡቃያው ይደርቃል፤ በአፉ እስትንፋስም ይወገዳል።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ይወጣል"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጨለማ"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "ቡቃያው"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "ይደርቃል"
+    },
+    {
+      "surface": "שלהבת",
+      "gloss": "የእሳት ነበብናሽ"
+    },
+    {
+      "surface": "ויסור",
+      "gloss": "እና ይወገዳል"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "በእስትንፋስ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "አፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:48:33.363710926Z",
+  "model": "glm-5.3"
+}

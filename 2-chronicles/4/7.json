@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "አሥርቱን የወርቅ መብራቶች እንደ ፍርዳቸው አደረገ፤ ⟨את⟩ መብራቶቹን በቤተ መቅደሱ አምስቱን በቀኝ አምስቱንም በግራ አኖረ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መብራቶቹን"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "መብራቶች"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "የወርቅ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥርቱን"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "እንደ ፍርዳቸው"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "አኖረ"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "በቤተ መቅደሱ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "አምስቱን"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "በቀኝ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "አምስቱንም"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "በግራ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:29:19.238313424Z",
+  "model": "glm-5.3"
+}

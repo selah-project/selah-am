@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "እርሱ ያህዌህ የኛ ኤሎሂም ⟨ነው⟩፤ ፍርዶቹ በምድር ሁሉ ⟨ላይ ናቸው⟩።",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "የኛ ኤሎሂም"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ፍርዶቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:07.115466759Z",
+  "model": "glm-5.3"
+}

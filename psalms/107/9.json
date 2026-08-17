@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "በእውነትም ያማኝን ⟨את⟩ ነፍስ አሟልቷል፤ የራበችውንም ⟨את⟩ ነፍስ በመልካም አሟላታል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእውነትም"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "አሟልቷል"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "ያማኝ"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "እና ነፍስ"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "የራበችውን"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "አሟላታል"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "በመልካም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:36.599157646Z",
+  "model": "glm-5.3"
+}

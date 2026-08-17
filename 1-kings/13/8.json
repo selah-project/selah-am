@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "የኤሎሂም ሰውም ለንጉሡ እንዲህ አለ፦ የቤትህን ⟨את⟩ ግማሽ ብትሰጠኝ፣ አንተ ጋር አልገባም፤ በዚህ ስፍራም ዳቦ አልበላም፣ ውሃም አልጠጣም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ብትሰጠኝ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ግማሽ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ግማሽ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "የቤትህን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "አልገባም"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "አንተ ጋር"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አልም"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "አልበላም"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አልም"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "አልጠጣም"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "በስፍራ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "በዚህ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:30:19.419564462Z",
+  "model": "glm-5.3"
+}

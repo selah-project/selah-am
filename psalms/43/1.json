@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "ኤሎሂም አድምጠኝ፣ ከሐዋርያ የሌለው ብሔር ጉዳዬን አሳልፈህ ስንቀጥር፤ ከተንኮለኛው ሰው እና ከበደል አድነኝ።",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "አድምጠኝ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "ስንቀጥር"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ጉዳዬን"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ከብሔር"
+    },
+    {
+      "surface": "לא",
+      "gloss": "የሌለው"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ሐዋርያ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ከሰው"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ተንኮለኛው"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "እና ከበደል"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "አድነኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:29.528156762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የእስራኤል ልጆች ብዙ ቀናት ያለ ንጉሥ እና ያለ አለቃ ያለ መሥዋዕት እና ያለ ቅርጽ ድንጋይ ያለ ኤፉድ እና ያለ ተራፊም ይኖራሉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም\/እንደ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዥታን"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ይኖራሉ\/ይቀመጣሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ያለ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና ያለ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና ያለ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "መሥዋዕት"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና ያለ"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ቅርጽ ድንጋይ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና ያለ"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ኤፉድ"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "ተራፊም"
+    }
+  ],
+  "timestamp": "2026-08-16T18:00:37.928968057Z",
+  "model": "glm-5.3"
+}

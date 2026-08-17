@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እኔ ያ ሰው ሆኜ በቍሳቁሱ በንዴቱ መከራን አይቻለሁ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ያ ሰው"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "አይቻለሁ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "መከራ"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "በቍሳቁሱ"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "በንዴቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:09:39.994708634Z",
+  "model": "glm-5.3"
+}

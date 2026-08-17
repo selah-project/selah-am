@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 47,
+  "translation": "ሕዝቦችን ከታችኛችን ያደርጋል፣ አሕዛቦችንም ከእግሮቻችን ታች ያደርጋል።",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "ያደርጋል"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝቦችን"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "ከታችኛችን"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "አሕዛቦችንም"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ከ...ታች"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "እግሮቻችን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:11.566366427Z",
+  "model": "glm-5.3"
+}

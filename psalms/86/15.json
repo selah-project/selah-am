@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 86,
+  "translation": "አንተ ግን አዶናይ፣ ምሕረት የተሞላህ እና ሞገስ የምትሰጥ ኤል ነህ፤ የቍጣ አንቀጣይ ነህ፤ ብዙ ምሕረትና እውነት ያለህም ነህ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተ ግን"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ፣"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "ምሕረት የተሞላህ"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "ሞገስ የምትሰጥ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "የቍጣ አንቀጣይ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ቍጣ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ምሕረትና"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "እውነት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:33.929238139Z",
+  "model": "glm-5.3"
+}

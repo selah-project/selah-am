@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "የንጉሡም ቃል በዮአብ ላይ አደረገ ጠንካራ፤ ዮአብም ወጣ፤ በመላው እስራኤልም አለፈ፤ ወደ ኢየሩሳሌምም ገባ።",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "የ…ቃል"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "አደረገ ጠንካራ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብ"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "አለፈ\/ተዘዋወረ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በመላው"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ገባ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ወደ ኢየሩሳሌም"
+    }
+  ],
+  "timestamp": "2026-08-16T13:05:32.634320527Z",
+  "model": "glm-5.3"
+}

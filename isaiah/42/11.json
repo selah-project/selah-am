@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "isaiah 42:11",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "ሙስና ከተሞችዋም ድምፃቸውን ይስቡ፤ ቀዳር የምትኖርባቸው ሠነጎች፣ የሰላ ነዋሪዎች ይዘምሩ፤ ከተራሮች ጫፍም ያሞቁ።",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "ይስቡ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ሙስና"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "ከተሞችዋም"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "ሠነጎች"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "የምትኖርባቸው"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ቀዳር"
+    },
+    {
+      "surface": "ירנו",
+      "gloss": "ይዘምሩ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ነዋሪዎች"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "ሰላ"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "ከ... ጫፍ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ተራሮች"
+    },
+    {
+      "surface": "יצוחו",
+      "gloss": "ያሞቁ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:20:10.542857225Z",
+  "model": "glm-5.3"
+}

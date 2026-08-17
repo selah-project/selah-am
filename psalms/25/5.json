@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "በእውነትህ መራኝ፣ አስተምረኝም፣ በእውነት አንተ ኤሎሂም የመድነኝ አንተ፤ ⟨את⟩ ለአንተ ተጠብቂያለሁ መላውን ቀን።",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "መራኝ"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "በእውነትህ"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "አስተምረኝም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነት አንተ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "የመድነኝ"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "ለአንተ"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ተጠብቂያለሁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላውን"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ቀን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:18.696532178Z",
+  "model": "glm-5.3"
+}

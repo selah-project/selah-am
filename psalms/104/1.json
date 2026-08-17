@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 104,
+  "translation": "ነፍሴ ሆይ፣ ⟨את⟩ ያህዌህን ባርክ፤ ያህዌህ ኤሎሂሜ ሆይ፣ እጅግ ታላቅ ኾነህ፤ ክብርን እና ግርማን ለብሰሃል።",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "ባርክ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ ሆይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂሜ"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "ታላቅ ኾነህ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "እጅግ"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "ክብርን"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "እና ግርማን"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "ለብሰሃል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:49.007987324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 69,
+  "ref": "psalms 78:69",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "መቅደሱን እንደ ከፍታዎች ሠራ፤ እንደ ⟨the⟩ ምድር ለዘላለም መሠረቱን ጥሎታል።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሠራ፤"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "ከፍታዎች"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "መቅደሱን"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "እንደ ምድር"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "መሠረቱን ጥሎታል"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:56.920918090Z",
+  "model": "glm-5.3"
+}

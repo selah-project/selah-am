@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የፈርዖን ሴት ልጅም አለታት «ሂጂ»፤ ⟨ሴት ሕፃናትዋም⟩ ሄደች እና ⟨את⟩ እናቱን የህጻኑን አስጠራች።",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "አለታት"
+    },
+    {
+      "surface": "לה",
+      "gloss": "እሷን"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ሴት ልጅ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "የፈርዖን"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ሂጂ"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ሄደች"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "ሴት ሕፃናትዋም"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "አስጠራች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እናቱን"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እናቱን"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "የህጻኑን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:06:23.569232304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "jeremiah 37:17",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ንጉሡ ጽድቅያሁ ላከ፣ ወሰደውም፤ ንጉሡም በቤቱ በስውር ጠየቀው፤ «ከያህዌህ ⟨את⟩ ቃል አለ?» አለ። ኢይርምያሁም «አለ» አለ፤ «ወደ ባቢሎን ንጉሥ እጅ ትሰጣለህ»ም አለ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ጽድቅያሁ"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "ወሰደው"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "ጠየቀው"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "በቤቱ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "በስውር"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "היש",
+      "gloss": "አለ?"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ከ…ጋር ⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ኢይርምያሁ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጅ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ባቢሎን"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "ትሰጣለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:05:14.082431403Z",
+  "model": "glm-5.3"
+}

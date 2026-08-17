@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ከዚህ በኋላ ዳዊት ⟨את⟩ ፍልስጤሞችን መታቸው፣ አስገዛቸውም፤ ዳዊትም ከፍልስጤሞች እጅ ⟨את⟩ የዋና ከተማዋን ቅንጫት ወሰደ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ... በኋላ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "መታቸው"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍልስጤሞችን"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤሞችን"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "አስገዛቸውም"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅንጫት"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "ቅንጫት"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "የዋና ከተማዋን"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከ... እጅ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤሞች"
+    }
+  ],
+  "timestamp": "2026-08-16T05:58:28.187202764Z",
+  "model": "glm-5.3"
+}

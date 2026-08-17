@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "እርሷም ለኤልያሁ እንዲህ አለችው፤ የኤሎሂም ሰው ሆይ፣ እኔና አንተ ምን ግንኙነት አለን? ወደ እኔ መጥተህ ⟨את⟩ ኃጢያቴን ለማስታወስ እና ⟨את⟩ ልጄን ለመግደል ነውን?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "አለችው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያሁ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "እና ለአንተ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "באת",
+      "gloss": "መጥተህ ነውን"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "ለማስታወስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኃጢያቴን"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "ኃጢያቴን"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "እና ለመግደል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጄን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጄን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:30:55.647804680Z",
+  "model": "glm-5.3"
+}

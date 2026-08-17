@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "job 15:4",
+  "book": "job",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "አንተም ፍርሀትን ታበላሸዋለህ ትሕትናንም ከኤል ፊት ታሳንስዋለህ።",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "እንኳ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተም"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "ታበላሸዋለህ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ፍርሀትን"
+    },
+    {
+      "surface": "ותגרע",
+      "gloss": "ታሳንስዋለህ"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "ትሕትናን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:48:04.400321924Z",
+  "model": "glm-5.3"
+}

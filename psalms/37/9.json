@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ክፉ አድራጊዎች ይጠፋሉ፤ የያህዌህን ተስፋ የሚያደርጉ እነርሱ ምድርን ይወርሳሉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ክፉ አድራጊዎች"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ክፉ አድራጊዎች"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "ይጠፋሉ"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "ተስፋ የሚያደርጉ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነርሱ"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ይወርሳሉ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድርን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:33.706288469Z",
+  "model": "glm-5.3"
+}

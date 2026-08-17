@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezekiel 20:42",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እናንተም ያህዌህ እንደሆንኩ ⟨את⟩ ታውቃላችሁ፣ እናንተን ⟨את⟩ ወደ እስራኤል ምድር ስወስዳችሁ፣ ወደ ⟨the⟩ ምድሩ፣ እጄን ⟨את⟩ ከፍ አድርጌ ለአባቶቻችሁ እንድሰጣት ያለኹበት ምድር።",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "ታውቃላችሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בהביאי",
+      "gloss": "ስወስዳችሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ከፍ አድርጌ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጄን"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "እጄን"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "እንድሰጣት"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "እሷን ⟨את⟩",
+      "marks": "ምድሩን"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "ለአባቶቻችሁ"
+    }
+  ],
+  "timestamp": "2026-08-17T10:04:14.481978816Z",
+  "model": "glm-5.3"
+}

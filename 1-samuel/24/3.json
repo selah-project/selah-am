@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ሳኦልም ከእስራኤል ሁሉ ሦስት ሺህ የተመረጡ ተብለው ወንዶችን ወስዶ በአንበጣ ኮረብቶች ፊት ዳዊትን ⟨את⟩ እና ባለቃቶቹን ለመፈለግ ሄደ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወስዶ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦልም"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ወንዶችን"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "የተመረጡ ተብለው"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ከእስራኤል"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ለመፈለግ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊትን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትን"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "እና ባለቃቶቹን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ፊት"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "የኮረብቶች"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "የአንበጣ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:47:25.360376794Z",
+  "model": "glm-5.3"
+}

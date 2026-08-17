@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "ezra 10:21",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ከሐሪም ልጆች፣ ማዕሴያ፣ ኤልያ፣ ሰማያ፣ ይሖኤል እና ዑዝያ።",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "ከ…ልጆች"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ሐሪም"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "ማዕሴያ"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "እና ኤልያ"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "እና ሰማያ"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "እና ይሖኤል"
+    },
+    {
+      "surface": "ועזיה",
+      "gloss": "እና ዑዝያ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:00:04.081597194Z",
+  "model": "glm-5.3"
+}

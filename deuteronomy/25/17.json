@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "አስታውስ የአማሌቅ በመንገዱ ላይ ስለ አንተ ⟨את⟩ ያደረገውን፣ ከምጽራይም በወጣችሁ ጊዜ።",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "አስታውስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያደረገውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ስለ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ያደረገውን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ስለ አንተ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "የአማሌቅ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገዱ ላይ"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "በወጣችሁ ጊዜ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ከምጽራይም"
+    }
+  ],
+  "timestamp": "2026-08-16T19:19:42.860303296Z",
+  "model": "glm-5.3"
+}

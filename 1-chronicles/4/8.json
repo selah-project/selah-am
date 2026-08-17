@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ቆጽም ⟨את⟩ ዓኑብን እና ⟨את⟩ ዘበባን አሳደረ፤ እንዲሁም የአኸርኸል የሐሩም ልጅ ቤተሰቦች።",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "ቆጽም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "አሳደረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓኑብን"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "ዓኑብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዘበባን"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "ዘበባ"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "እንዲሁም ቤተሰቦች"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "አኸርኸል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "ሐሩም"
+    }
+  ],
+  "timestamp": "2026-08-16T12:37:19.104976179Z",
+  "model": "glm-5.3"
+}

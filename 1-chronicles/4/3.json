@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እነዚህም ⟨ናቸው⟩ የዕይጣም አባት፦ ይዥረኤል፣ ይስማ እና ይድባሽ፤ የእነርሱም እህት ስም ስሟም ጸለልፎኒ ⟨ነበረች⟩።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እና እነዚህ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "የ... አባት"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "ዕይጣም"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "ይዥረኤል"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "እና ይስማ"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "እና ይድባሽ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "እና ስም"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "የእነርሱ እህት"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "ጸለልፎኒ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:43:51.971271938Z",
+  "model": "glm-5.3"
+}

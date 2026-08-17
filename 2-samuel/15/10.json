@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "አቤልሶምም በእስራኤል ነገዥ ሁሉ ወታይ ሰዎችን ልኳቸው፦ የመለከቱን ድምፅ ሳላችሁ፣ «አቤልሶም በኸብሮን ነገሠ» በሉ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ልኳቸውም"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "አቤልሶም"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "ወታይ ሰዎችን"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በ…ሁሉ"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ነገዥ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲሉ"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "ሳላችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የመለከቱን ድምፅ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "የመለከቱ"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "አቤልሶም"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "በኸብሮን"
+    }
+  ],
+  "timestamp": "2026-08-16T16:07:36.710989137Z",
+  "model": "glm-5.3"
+}

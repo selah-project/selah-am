@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "እና የቀዩ አውራ በጎች ቆዳዎች፣ የተሓሻዎች ቆዳዎች፣ እና የሲጣና እንጨቶች።",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "እና ቆዳዎች የ"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "የአውራ በጎች"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "ቀይ የተቀመጡ"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "እና ቆዳዎች የ"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "የተሓሻዎች"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "እና እንጨቶች የ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ሲጣና"
+    }
+  ],
+  "timestamp": "2026-08-16T03:23:53.443412760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 47,
+  "translation": "የሕዝቦች ሁሉ ሆይ፣ እጅን ተንከባክቡ፤ በደስታ ድምፅ ለኤሎሂም እልል በሉ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "የሕዝቦች"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ተንከባክቡ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "እጅን"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "እልል በሉ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ለኤሎሂም"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "በድምፅ"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "የደስታ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:11.566104725Z",
+  "model": "glm-5.3"
+}

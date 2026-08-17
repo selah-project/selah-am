@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "ezekiel 17:4",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "የወጣት ቅርንጫፎቹን ራስ ⟨את⟩ ቈረጠ፤ ወደ ከነዓን ምድር አመጣው፤ በነጋዴዎች ከተማ አኖረው።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራስ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "יניקותיו",
+      "gloss": "የወጣት ቅርንጫፎቹን"
+    },
+    {
+      "surface": "קטף",
+      "gloss": "ቈረጠ"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "አመጣው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነዓን"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "በከተማ"
+    },
+    {
+      "surface": "רכלים",
+      "gloss": "ነጋዴዎች"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "አኖረው"
+    }
+  ],
+  "timestamp": "2026-08-16T08:27:58.779283786Z",
+  "model": "glm-5.3"
+}

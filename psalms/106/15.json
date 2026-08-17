@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "ጥያቄቸውን ሰጣቸው፤ በነፍሳቸውም ውስጥ ሥርዝነትን ላከ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሰጣቸው"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ላቸው"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "ጥያቄቸውን"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "ሥርዝነትን"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "በነፍሳቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:29.952956087Z",
+  "model": "glm-5.3"
+}

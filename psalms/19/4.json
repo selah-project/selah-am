@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ቃል የለም እና ቃላት የሉም፤ የማይሰማ ድምፅ የላቸውም።",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና የሉም"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "የለምም"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "የማይሰማ"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ድምፅ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:45.148934585Z",
+  "model": "glm-5.3"
+}

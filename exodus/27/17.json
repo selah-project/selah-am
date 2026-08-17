@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "exodus 27:17",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "የ⟨ה⟩ከብቡ አምዶች ሁሉ በአንድ ዙሪያ በብር የተታከቱ ናቸው፤ ዒዳዎቻቸውም ብር ናቸው፤ መሠረቶቻቸውም ናስ ናቸው።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "የአምዶች"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "የ⟨ה⟩ከብቡ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "በአንድ ዙሪያ"
+    },
+    {
+      "surface": "מחשקים",
+      "gloss": "በብር የተታከቱ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "וויהם",
+      "gloss": "ዒዳዎቻቸውም"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "መሠረቶቻቸውም"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ናስ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:25:00.156693425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 60,
+  "translation": "ለሚፈሩህ ሰልካትን ሰጠህ፤ በእውነት ስለሆነ ተነስቶ ይውለቀለቅ ዘንድ፤ ሴላ።",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "ሰጠህ"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "ለሚፈሩህ"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ሰልካትን"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "ተነስቶ ይውለቀለቅ ዘንድ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "በ… ምክንያት\/ስለ"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "እውነት"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:39.627106092Z",
+  "model": "glm-5.3"
+}

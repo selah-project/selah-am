@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "numbers 6:23",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ከአሃሮንና ከልጆቹ ጋር እንዲህ ተናገር፦ የይስሐቅ ልጆችን ⟨את⟩ እንዲህ ትባርኳቸዋል፤ እነሱን እንዲህ በላቸው፦",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ተናገር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ከ\/ወደ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ከ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ልጆቹ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "תברכו",
+      "gloss": "ትባርኳቸዋል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የይስሐቅ ልጆችን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስሐቅ"
+    },
+    {
+      "surface": "אמור",
+      "gloss": "በላቸው"
+    },
+    {
+      "surface": "להם",
+      "gloss": "እነሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:07:34.769680792Z",
+  "model": "glm-5.3"
+}

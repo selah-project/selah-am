@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "በማለት፣ ለአንተ እሰጣለሁ ⟨את⟩ የከነዓን ምድር፣ የውርሳችሁን ስፍራ።",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "በማለት"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "እሰጣለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የከነዓን ምድር"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነዓን"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ስፍራን\/መስመርን"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "የውርሳችሁን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:03.641403772Z",
+  "model": "glm-5.3"
+}

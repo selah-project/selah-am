@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 147,
+  "translation": "ያህዌህ ⟨את⟩ የሚፈሩትን ይረካል፤ ⟨את⟩ ለምሕረቱ የሚጠባበቁትንም ይረካል።",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "ይረካል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሚፈሩትን"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "የሚፈሩት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሚጠባበቁትን"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "የሚጠባበቁት"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "ለምሕረቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:34.683042426Z",
+  "model": "glm-5.3"
+}

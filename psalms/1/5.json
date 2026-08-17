@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ስለዚህ ክፉዎች በፍርድ አይነሱም፤ ኃጢአተኞችም በጻድቃን ማኅበር ⟨አይነሱም⟩።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይነሱም"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "አይነሱም"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉዎች"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "በፍርድ"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ኃጢአተኞችም"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "በማኅበር"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ጻድቃን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:27:03.591257776Z",
+  "model": "glm-5.3"
+}

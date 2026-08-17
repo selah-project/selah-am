@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "leviticus 24:14",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "አዜማዊውን ⟨את⟩ ከሰፈሩ ውጭ አውጣ፤ የሰሙት ሁሉ እጆቻቸውን ⟨את⟩ በራሱ ላይ ይጥሉ፤ ማኅበረሰቡም ሁሉ እርሱን ⟨את⟩ በድንጋይ ይወርውሩት።",
+  "tokens": [
+    {
+      "surface": "הוצא",
+      "gloss": "አውጣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አዜማዊውን"
+    },
+    {
+      "surface": "המקלל",
+      "gloss": "አዜማዊውን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ውጭ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ከሰፈሩ"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "ይጥሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "የሰሙት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጆቻቸውን"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "እጆቻቸውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ራሱ ላይ"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "ይወርውሩት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ማኅበረሰቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:00:31.488861547Z",
+  "model": "glm-5.3"
+}

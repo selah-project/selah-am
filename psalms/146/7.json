@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 146,
+  "translation": "ለተጨቋኞች ፍርድ የሚያደርግ፣ ለራቡት ምግብ የሚሰጥ፤ ያህዌህ ታስሮችን ያበራል።",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "የሚያደርግ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድን"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "ለተጨቋኞች"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "የሚሰጥ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ምግብን\/እንጀራን"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "ለራቡት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "ያበራል"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "ታስሮችን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:57.082634508Z",
+  "model": "glm-5.3"
+}

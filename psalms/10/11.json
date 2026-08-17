@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "በልቡ አለ፤ ኤል ረስቷል፣ ፊቱን ሰውሯል፤ ለዘላለሙ ፈጽሞ አያይም።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "በልቡ"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "ረስቷል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "ሰውሯል"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱን"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ፈጽሞ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "አያይም"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ለዘላለሙ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:25.574453940Z",
+  "model": "glm-5.3"
+}

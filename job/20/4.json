@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ይህን ከዘመን ዘመን አታወቅም፤ ከሰው በምድር ላይ ከተቀመጠ እንግዲህ እስከ ዚህ ድረስ፧",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "አታወቅም፧"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ ዘመን ዘመን"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "שים",
+      "gloss": "ከተቀመጠ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በ ላይ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:50:34.763361720Z",
+  "model": "glm-5.3"
+}

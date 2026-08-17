@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "አዶናይ ቃል ይሰጣል፤ ሴት ሰብዓተ ገጸ-ብሥራት ትልቅ ኃይል ናቸው።",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይሰጣል"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "ሴት ሰብዓተ ገጸ-ብሥራት"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ኃይል"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ትልቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:45.145580588Z",
+  "model": "glm-5.3"
+}

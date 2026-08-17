@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "በእውነት ዓይናችሁ ያዩት ያህዌህን ⟨את⟩ ሁሉን ታላቁን ሥራ የሰራውን፤",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእውነት\/ከዚህም"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ዓይናችሁ"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ያዩት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ታላቁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነው"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ሰራ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:40:33.640894235Z",
+  "model": "glm-5.3"
+}

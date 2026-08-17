@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ኤኖሽም ዘጠና ዓመት ኖረ፤ ከያህዌህ ልጅ ሴት የሆነው ኤኖሽ በራሱ ዘመን ⟨את⟩ ቀይናንን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ኖረ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ኤኖሽ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ዘጠና"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቀይናንን"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "ቀይናን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:40.822129601Z",
+  "model": "glm-5.3"
+}

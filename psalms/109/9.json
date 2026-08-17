@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "ልጆቹ ያለአባት ይሁኑ፣ ሚስቱም መበል ትሁን።",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ይሁኑ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ልጆቹ"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "ያለአባት"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ሚስቱም"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "መበል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:30.929972308Z",
+  "model": "glm-5.3"
+}

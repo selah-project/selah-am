@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ስማ ለአባትህ ይህ ወለደህ፤ እና አትንቋት የእናትህ ወደ እርጅና ስትመጣ።",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ስማ"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "ለአባትህ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "ወለደህ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "አትንቋት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "እርጅና ስትመጣ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "የእናትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:33:05.699914522Z",
+  "model": "glm-5.3"
+}

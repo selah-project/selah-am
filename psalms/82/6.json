@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 82,
+  "translation": "እኔ እኔ ካልሁ፣ እናንተ ኤሎሂም ናችሁ፤ የኤልዮን ልጆች ሁላችሁ ናችሁ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ካልሁ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "እናንተ…ናችሁ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "የ…ልጆች እንዲሁም"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ኤልዮን"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "ሁላችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:57:22.572811956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እኔም በጽላቶቹ ላይ ⟨את⟩ ቃላቱን እጽፋለሁ — አንተ በሰበርከው የአራስተኞቹ ጽላቶች ላይ የነበሩትን — አንተም ጽላቶቹን በሳጥኑ ታስቀምጣለህ።",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "እጽፋለሁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "ጽላቶቹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላቱን"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላቱን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እነዚህ…የ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "የነበሩትን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "ጽላቶች"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "የአራስተኞቹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የተሰበሩት"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "የሰበርከው"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ታስቀምጣቸዋለህ"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "በሳጥኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:40:04.111453063Z",
+  "model": "glm-5.3"
+}

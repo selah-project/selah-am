@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "እስራኤል በያህዌህ ተድኗል፤ የዘላለም መድኃኒት ነው፤ ወደ ዘላለሙ ዘላለም አትታመሙም እና አትዋረዱም።",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "ተድኗል"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "በያህዌህ"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "መድኃኒት"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "የዘላለም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አታም"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "አትታመሙም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አታም"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "አትዋረዱም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "ዘላለሙ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T17:01:11.587020577Z",
+  "model": "glm-5.3"
+}

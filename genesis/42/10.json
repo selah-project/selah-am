@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "እርሱንም አሉት፦ አይደለም ጌታዬ፤ አገልጋዮችህ ምግብ ለመግዛት መጥተዋል።",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "አሉት"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጌታዬ"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "አገልጋዮችህም"
+    },
+    {
+      "surface": "באו",
+      "gloss": "መጥተዋል"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ለመግዛት"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ምግብ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:59:14.624420946Z",
+  "model": "glm-5.3"
+}

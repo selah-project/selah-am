@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "ያህዌህ እንዳላቸው በነገራቸው ሕዝቦችን ⟨את⟩ አልጠፉም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "ጠፉም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቦችን"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ሕዝቦችን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንዳላቸው"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በነገራቸው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ላቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:49.221671531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 38:6",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "ገመር እና ሁሉም ክንፎቹ፣ የቶገርማ ቤት፣ የሰሜን ዳርቻዎች፣ ⟨את⟩ ሁሉም ክንፎቹ፤ ብዙ ሕዝቦች ⟨אתך⟩ ጋር ናቸው።",
+  "tokens": [
+    {
+      "surface": "גמר",
+      "gloss": "ገመር"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉም"
+    },
+    {
+      "surface": "אגפיה",
+      "gloss": "ክንፎቹ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "תוגרמה",
+      "gloss": "ቶገርማ"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "ዳርቻዎች"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ሰሜን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉም ክንፎቹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "אגפיו",
+      "gloss": "ክንፎቹ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "ከአንተ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T20:24:57.205812101Z",
+  "model": "glm-5.3"
+}

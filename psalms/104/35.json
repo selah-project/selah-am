@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 104,
+  "translation": "ኃጢአተኞች ከምድር ይጨርሱ፤ ክፉዎችም እንደገና የሉም። ነፍሴ ሆይ፣ ⟨את⟩ ያህዌህን አብረክ፤ ያህን አመስግኑ።",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "ይጨርሱ"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ኃጢአተኞች"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ክፉዎችም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "እንደገና"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "የሉም"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "አብረክ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "አመስግኑ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:22.088769906Z",
+  "model": "glm-5.3"
+}

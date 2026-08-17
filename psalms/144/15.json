@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 144,
+  "translation": "እንዴት ብፁዓን ናቸው እንዲህ ያለው ሕዝብ! እንዴት ብፁዓን ናቸው ያህዌህ ኤሎሂም የሆነው ሕዝብ!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "እንዴት ብፁዓን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "እንዲህ ያለው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "እንዴት ብፁዓን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ኤሎሂም የሆነው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:12.936150054Z",
+  "model": "glm-5.3"
+}

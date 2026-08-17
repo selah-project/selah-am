@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ጠንቅታ ያየኸው አውራ በቍርን የባለው በግ፣ የምድይና የፋርስ ነገሥታት ነው።",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "በግ፣"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያየኸው"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ጠንቅታ ያየኸው"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "የባለው"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "አውራ በቍርን"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ነገሥታት"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "የምድይ"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "የፋርስ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:36:35.317062079Z",
+  "model": "glm-5.3"
+}

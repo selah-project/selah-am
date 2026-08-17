@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "job 1:11",
+  "book": "job",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ነገር ግን እባክህ እጅህን ላክ፤ ያለውን ሁሉ ተኳስ፤ ካልሆነ በፊትህ ያመሰግህሃል።",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ላክ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህን"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "እና ተኳስ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ካል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህ"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "ያመሰግህሃል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:40:29.215321484Z",
+  "model": "glm-5.3"
+}

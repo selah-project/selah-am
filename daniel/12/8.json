@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "እኔም ሰማሁ ነገር ግን አልገባኝም፤ እኔም እንዲህ አልሁ «አዶናይ ሆይ፣ የእነዚህ መጨረሻ ምንድን ነው?»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔም"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ሰማሁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ነገር ግን አል"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "ገባኝም"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "እኔም አልሁ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምንድን ነው"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "መጨረሻ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "የእነዚህ"
+    }
+  ],
+  "timestamp": "2026-08-17T10:36:59.258734084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ንጹህ እጆች ያሉት እና ፀዳኝ ልብ ያለው፣ የሐሰት ለውጭ ነፍሱን ያላነሳ እና ለማታለል ያልማለለ።",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "ንጹህ"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "እጆች"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "እና ፀዳኝ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚያሳይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "አነሳ"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ለሐሰት"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሱን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ማለለ"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "ለማታለል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:19.947679201Z",
+  "model": "glm-5.3"
+}

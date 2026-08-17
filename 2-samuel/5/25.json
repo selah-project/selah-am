@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ዳዊትም እንደ አዘዘው ያህዌህ እንደ ነበር አደረገ፤ ⟨את⟩ የፍልስጤም ሰዎችን ከገባዓ ወደ ገዘር እስከ መምጣትህ ድረስ መታ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደ ነበር"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "አዘዘው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "መታም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የፍልስጤም ሰዎችን"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "የፍልስጤም ሰዎችን"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "ከገባዓ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "באך",
+      "gloss": "መምጣትህ ድረስ"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ገዘር"
+    }
+  ],
+  "timestamp": "2026-08-16T05:58:31.925553032Z",
+  "model": "glm-5.3"
+}

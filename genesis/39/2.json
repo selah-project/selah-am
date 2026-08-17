@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "ያህዌህም ⟨את⟩ ዮሴፍ ጋር ነበር፤ እርሱም የሚያድግ ሰው ሆነ፤ በጌታውም በምጽርማዊው ቤት ውስጥ ነበር።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነበርም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮሴፍ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "የሚያድግ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ነበርም"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ጌታው"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "ምጽርማዊው"
+    }
+  ],
+  "timestamp": "2026-08-16T19:09:27.097920691Z",
+  "model": "glm-5.3"
+}

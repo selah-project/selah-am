@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "numbers 25:16",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ያህዌህም ከሞሼ ጋር በእንግዲህ ተናገረ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "በእንግዲህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:23:00.341379926Z",
+  "model": "glm-5.3"
+}

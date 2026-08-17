@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ፈርዖንም እንዲህ አለ፦ ያህዌህ ማን ነው ድምፁን በመስማት እስራኤልን ⟨את⟩ እልክው ዘንድ? ያህዌህን ⟨את⟩ አላውቀውም፤ እንዲሁም እስራኤልን ⟨את⟩ አልልክውም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚያደርግ ዘንድ"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "በመስማት"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ድምፁን"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "እልክው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "አውቀውም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ልክውም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:09:47.309835010Z",
+  "model": "glm-5.3"
+}

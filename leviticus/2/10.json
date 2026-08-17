@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ከመባው የሚቀርው ለአሃሮንና ለወንዶቹ ልጆች ነው፤ ከያህዌህ የእሳት መባዎች ቅዱስ ቅዱሳን ነው።",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "የሚቀርው"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "መባው"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ለአሃሮን"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "እና ለወንዶቹ ልጆች"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ቅዱሳን"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "ከየእሳት መባዎች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:41:18.597696108Z",
+  "model": "glm-5.3"
+}

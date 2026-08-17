@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 64,
+  "translation": "ቅዱሳን ከተሞችህ ምድረ በዳ ሆኑ፤ ጽዮን ምድረ በዳ ሆናለች፤ ኢየሩሳሌም ገሀድ ሆናለች።",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "ከተሞችህ"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ቅዱሳን"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ሆኑ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ምድረ በዳ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ምድረ በዳ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ሆናለች"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ኢየሩሳሌም"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ገሀድ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:33:22.756075853Z",
+  "model": "glm-5.3"
+}

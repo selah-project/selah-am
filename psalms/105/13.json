@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "ከአሕዛብ ወደ አሕዛብ፣ ከመንግሥት ወደ ሌላ ሕዝብ አልፈው ዞሩ።",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "ዞሩ"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ከአሕዛብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "ከመንግሥት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ሌላ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:26.174967087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 26:17",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ያህዌህን ⟨את⟩ ዛሬ አወጣህ፤ ለአንተ ኤሎሂም እንዲሆን፣ በመንገዱች እንድትሄድ፣ ደንቦቹንና ትእዛዙቶቹንና ፍርዶቹን እንድትጠብቅ፣ ድምፁን እንድትሰማ ተናገርክ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "האמרת",
+      "gloss": "አወጣህ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "እንዲሆን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "וללכת",
+      "gloss": "እንድትሄድ"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "በመንገዱች"
+    },
+    {
+      "surface": "ולשמר",
+      "gloss": "እንድትጠብቅ"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ደንቦቹን"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ትእዛዙቶቹን"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "ፍርዶቹን"
+    },
+    {
+      "surface": "ולשמע",
+      "gloss": "እንድትሰማ"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ድምፁን"
+    }
+  ],
+  "timestamp": "2026-08-17T06:29:02.990413186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ሁሉን ⟨את⟩ ⟨the⟩ በፀሐይ ሥር የሚሄዱ ሕያዋን አየሁ — ከሁለተኛው ልጅ ጋር፣ እርሱም በእርሱ ፋንታ የሚቆም ነው።",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "አየሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን ሕያዋንን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ሕያዋንን"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "የሚሄዱ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ…ሥር"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ፀሐይ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ሁለተኛው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚቆም"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "የሚቆም"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "በእርሱ ፋንታ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:13:47.186560703Z",
+  "model": "glm-5.3"
+}

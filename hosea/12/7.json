@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "hosea 12:7",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "አንተም ወደ ኤሎሂምህ ተመለስ፤ ርኅራኄን እና ፍርድን ጠብቅ፤ እና በኤሎሂምህ ሁልጊዜ ተስፋ አድርግ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተም"
+    },
+    {
+      "surface": "באלהיך",
+      "gloss": "ወደ ኤሎሂምህ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ተመለስ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ርኅራኄ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "እና ፍርድ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ጠብቅ"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "እና ተስፋ አድርግ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምህ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:01:06.939681962Z",
+  "model": "glm-5.3"
+}

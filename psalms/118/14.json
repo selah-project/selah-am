@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 118,
+  "translation": "ኃይሌ እና ዝማሬዬ ያህ ⟨ነው⟩፤ ለእኔ ማዳን ሆኗል።",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "ኃይሌ"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "እና ዝማሬዬ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆኗል"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "ማዳን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:56.808205786Z",
+  "model": "glm-5.3"
+}

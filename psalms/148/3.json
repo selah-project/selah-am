@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 148,
+  "translation": "ፀሐይና ጨረቃ አመስግኑት፤ የብርሃን ከዋክብት ሁሉ አመስግኑት።",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "አመስግኑት"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ፀሐይ"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "እና ጨረቃ"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "አመስግኑት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "ከዋክብት"
+    },
+    {
+      "surface": "אור",
+      "gloss": "የብርሃን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:02.812429486Z",
+  "model": "glm-5.3"
+}

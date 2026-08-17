@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ተነስ፣ ሂድ ወደ ነነዌ ወደ ⟨ታላቂው⟩ ከተማ፣ እና ወደ እሷ የምትናገረውን ⟨את⟩ ስብከት ጩኸ፣ ወደ አንተ እኔ የምናገረውን።",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "ተነስ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ነነዌ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማው"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ታላቊው"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "እና ጩኸ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ወደ እሷ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስብከቱን"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "ስብከቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምትሆነውን"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "እናገራለሁ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:10:45.536465564Z",
+  "model": "glm-5.3"
+}

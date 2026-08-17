@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የያህዌህ ቸሮታዎች — ምክንያቱም አልተፈጽመንም፤ ምክንያቱም ምሕረቶቹ አላለቁም።",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ቸሮታዎች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "አልተፈጽመንም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "አላለቁም"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "ምሕረቶቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:09:39.616100177Z",
+  "model": "glm-5.3"
+}

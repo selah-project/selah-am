@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ያህዌህም እርሱን እንዲህ አለው፦ ⟨ይህ⟩ በእጅህ ውስጥ ያለው ምንድን ነው? እርሱም እንዲህ አለ፦ መቋሚያ ነው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ይህ ምንድን ነው"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "በእጅህ ውስጥ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "መቋሚያ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:08:38.347767602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ወደ እርሱ ተመለከቱ እና በራው፣ ፊታቸውም አይፈርህም።",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "ተመለከቱ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "እና በራው"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "እና ፊታቸው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "ይፈርህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:00.801504591Z",
+  "model": "glm-5.3"
+}

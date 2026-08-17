@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 92,
+  "translation": "ዓይኔም በተነሱብኝ ክፉዎች ላይ ትመለከታለች፤ ተንቀጠቀጡኝን በቀሩን የሰውነት እጆቼ ትሰማሉ።",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "ትመለከታለች"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኔም"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "በተነሱብኝ"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "ተንቀጠቀጡኝ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ክፉዎች"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "ትሰማሉ"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "የሰውነት እጆቼ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:18.373222012Z",
+  "model": "glm-5.3"
+}

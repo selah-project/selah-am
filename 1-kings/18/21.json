@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 18:21",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ኤልያስ ወደ ሕዝቡ ሁሉ ቀርቦ አለ፦ እስከ መቼ ነው እናንተ በሁለቱ ጎኖች ላይ የምትዘሉት? ያህዌህ ⟨ኤሎሂም⟩ ከሆነ ከእሱ ተከተሉ፤ በዓል ከሆነ ከእሱ ተከተሉ። ሕዝቡም ⟨את⟩ አንድ ቃል አልመለሰለትም።",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "ቀርቦ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "መቼ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "פסחים",
+      "gloss": "የምትዘሉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ሁለቱ"
+    },
+    {
+      "surface": "הסעפים",
+      "gloss": "ጎኖች"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ተከተሉ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ከእሱ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "በዓል"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ተከተሉ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ከእሱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "መለሰለት"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "አንድ ቃል"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "አንድ ቃል"
+    }
+  ],
+  "timestamp": "2026-08-16T19:48:44.627472557Z",
+  "model": "glm-5.3"
+}

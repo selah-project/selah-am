@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 22:12",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እውነት ነው፣ ያህዌህ ብቃትና መረዳትን ይስጥልህ፣ እና በእስራኤል ላይ ያዝዝህ፣ የያህዌህ ኤሎሂምህን ትምህርት ⟨את⟩ እንድታከብር።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "እውነት ነው"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይስጥ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ልህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "ብቃት"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "እና መረዳትን"
+    },
+    {
+      "surface": "ויצוך",
+      "gloss": "እና ያዝዝህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ולשמור",
+      "gloss": "እንድታከብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትምህርትን"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ትምህርት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምህ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:43:49.029025229Z",
+  "model": "glm-5.3"
+}

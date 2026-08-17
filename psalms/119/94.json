@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "የአንተ ነኝ፤ አድነኝ፤ ትእዛዝህን እንደ ተመለከትኩ ነውና።",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "የአንተ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ነኝ"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "አድነኝ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነውና"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ትእዛዝህን"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "እንደ ተመለከትኩ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:13.580761599Z",
+  "model": "glm-5.3"
+}

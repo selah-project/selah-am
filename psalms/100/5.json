@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 100,
+  "translation": "ክ፡ ያህዌህ መልካም ነው፤ ለዘላለም ምሕረቱ፣ እስከ ትውልድና ትውልድ ድረስ ታማኝነቱ ነው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ክ፡"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም ነው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ምሕረቱ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ ... ድረስ"
+    },
+    {
+      "surface": "דר",
+      "gloss": "ትውልድ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "እና ትውልድ"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "ታማኝነቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:44.727934041Z",
+  "model": "glm-5.3"
+}

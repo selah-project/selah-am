@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 139,
+  "translation": "የማንነት መንገድ በእኔ ውስጥ እንዳለ ተመልከት፣ በዘላለም መንገድም መራኝ።",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ተመልከትም"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንዳለ ብሎ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "የማንነት"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በእኔ ውስጥ"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "መራኝም"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "የዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:13.516797929Z",
+  "model": "glm-5.3"
+}

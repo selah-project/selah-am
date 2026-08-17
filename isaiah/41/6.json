@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "ሰው ⟨את⟩ ወዳጁን ይረዳል፤ ለወንድሙም ይላል — ጠንክር።",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወዳጁን"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ወዳጁን"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "ይረዳል"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "ለወንድሙም"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ጠንክር"
+    }
+  ],
+  "timestamp": "2026-08-16T07:19:33.849303220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ሞሼም ወደ ያህወህ ጮክ ብሎ «ኤል ሆይ፣ እባክህ እባክህ እሷን ፈውሳት» አለ።",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ጮኰት"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህወህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል ሆይ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "ፈውሳት"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "እሷን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:13:42.893464086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ለማኪርም ⟨את⟩ ጊልዓድን ሰጠሁ።",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "ለማኪርም"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ሰጠሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጊልዓድን"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ጊልዓድን"
+    }
+  ],
+  "timestamp": "2026-08-16T14:56:11.071535104Z",
+  "model": "glm-5.3"
+}

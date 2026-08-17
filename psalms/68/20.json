@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "የተባረከ አዶናይ — ቀኑን ቀን ሸክሞናል፤ ኤል የእኛ መዳን ⟨ነው⟩። ሴላህ።",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "የተባረከ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "ሸክሞናል"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "የእኛ መዳን"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:05.680083258Z",
+  "model": "glm-5.3"
+}

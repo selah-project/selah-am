@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እንደ መሆኑ ከነሐሱ ሐዘንን ቢያስከትርም በምሕረቱ ብዛት ይራራል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ መሆኑ ከነሐሱ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ቢ-ም፤"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "ያስከትር፤"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "ይራራል፤"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "በ-ብዛት፤"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "በምሕረቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:09:38.333887569Z",
+  "model": "glm-5.3"
+}

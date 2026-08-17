@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ሞሼም አሃሮንን፣ ልጆቹን እና ከእስራኤል ልጆች ሁሉ ጋር ተናገረ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ልጆቹ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:57:09.138491022Z",
+  "model": "glm-5.3"
+}

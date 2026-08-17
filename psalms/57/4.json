@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 57,
+  "translation": "ከሰማይ ይልክና ያድነኛል፤ የሚዋጥኝን ያዋርዳል ሴላ፤ ኤሎሂም ምሕረቱን እና እውነቱን ይልካል።",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ይልክ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ከሰማይ"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "እና ያድነኛል"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ያዋርዳል"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "የሚዋጥኝ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ይልክ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ምሕረቱን"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "እና እውነቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:35.719711868Z",
+  "model": "glm-5.3"
+}

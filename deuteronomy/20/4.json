@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ከጠላቶቻችሁ ጋር ለእናንተ የሚዋጋ ያህዌህ ኤሎሂማችሁ፣ ከእናንተ ጋር የሚሄድ ⟨ስለሆነ⟩፣ ⟨את⟩ እናንተን ለማዳን ነው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂማችሁ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "የሚሄደው"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ከእናንተ ጋር"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ለመዋጋት"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለእናንተ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ጠላቶቻችሁ"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "ለማዳን"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:46:17.060770749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እና ⟨את⟩ ባዓላትን እና ⟨את⟩ ታማርን በምድረ በዳ፣ በአገሩ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ባዓላትን"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "ባዓላት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ታማርን"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "ታማር"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በምድረ በዳ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በአገር"
+    }
+  ],
+  "timestamp": "2026-08-16T06:21:55.753149863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "proverbs 5:7",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "አሁን በእኔ ልጆች ሆይ፣ ስሙልልኝ፤ ከአፌ ቃላትም አትዞሩ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "አሁን በ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ልጆች ሆይ፣"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ስሙልልኝ፤"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ልኝ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "ትዞሩ።"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "ከ…ቃላትም"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፌ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:21:27.057537260Z",
+  "model": "glm-5.3"
+}

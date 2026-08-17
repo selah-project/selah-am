@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እና ⟨את⟩ ሁለቱን ኩላሊቶች፣ እና ⟨את⟩ ስብ የሚገኘውን በእነሱ ላይ በወገብ ጎን አጥንቶች ላይ፣ እና ⟨את⟩ ጓንትን ጉበት ላይ ባለውን — ኩላሊቶች ላይ አጥፍቶ ያወጣታል።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሁለቱን ኩላሊቶች"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ሁለቱን"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ኩላሊቶች"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ስብ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ስብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኘውን"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "በእነሱ ላይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኘውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "ወገብ ጎን አጥንቶች"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ጓንትን"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ጓንትን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ጉበት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ኩላሊቶች"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "አጥፍቶ ያወጣታል"
+    }
+  ],
+  "timestamp": "2026-08-16T14:37:10.793141172Z",
+  "model": "glm-5.3"
+}

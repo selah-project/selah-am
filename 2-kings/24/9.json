@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "2-kings 24:9",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "እርሱም ያህዌህን በአይኖች ፊት ⟨את⟩ ክፉውን አደረገ፣ አባቱ እንደ አደረገው ሁሉ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ክፉውን"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "በአይኖች ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "እንደ ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገው"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:55:22.783638759Z",
+  "model": "glm-5.3"
+}

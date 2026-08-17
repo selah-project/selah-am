@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "አቢምልክም ⟨את⟩ ሕዝቡን ሁሉ እንዲህ ብሎ አዘዛቸው፦ የሚነካ ሰው ይህን ሰው ወይም ሚስቱን — ሞት ይመታል።",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "አዘዛቸው"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "አቢምልክ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "የሚነካ"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ሰው ይህን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "ወይም ሚስቱን"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይመታል"
+    }
+  ],
+  "timestamp": "2026-08-16T02:44:25.720217404Z",
+  "model": "glm-5.3"
+}

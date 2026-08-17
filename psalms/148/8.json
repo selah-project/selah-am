@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 148,
+  "translation": "እሳት እና በረዶ፣ ማት እና ጋዝ፣ የማዕበል ንፋስም ቃሉን የሚያደርግ።",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "እና በረዶ"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "ማት"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "እና ጋዝ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ንፋስ"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "የማዕበል"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "የሚያደርግ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ቃሉን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:45.376818857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "daniel 6:1",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ዳርዮስ ሜዳዊው መንግሥቱን ተቀበለ፤ ስድሳ እና ሁለት ዓመታት የሆነ ሆኖ ⟨ነበር⟩።",
+  "tokens": [
+    {
+      "surface": "ודריוש",
+      "gloss": "ዳርዮስ"
+    },
+    {
+      "surface": "מדיא",
+      "gloss": "ሜዳዊው"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ተቀበለ"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "መንግሥቱን"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ስለ ሆነ"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "שתין",
+      "gloss": "ስድሳ"
+    },
+    {
+      "surface": "ותרתין",
+      "gloss": "እና ሁለት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:42:22.020045256Z",
+  "model": "glm-5.3"
+}

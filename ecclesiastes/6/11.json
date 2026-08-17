@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ብዙ ነገሮች ሐንፈትን እያበዙ ስለሚኖሩ፣ ለሰው በቀር ምን አገኘለት?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለሚኖሩ፣"
+    },
+    {
+      "surface": "יש",
+      "gloss": "አሉ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ነገሮች"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "እያበዙ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ሐንፈትን"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "በቀር አገኘለት"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ለሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T11:16:48.022009572Z",
+  "model": "glm-5.3"
+}

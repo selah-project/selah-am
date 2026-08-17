@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ሹፒምና ሑፒም የዒር ወንድሞች ናቸው፤ ሑሺምም የአኸር ወንድሞች ናቸው።",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "ሹፒምና"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "ሑፒም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወንድሞች"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ዒር"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ሑሺምም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወንድሞች"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "የአኸር"
+    }
+  ],
+  "timestamp": "2026-08-16T12:43:43.571984147Z",
+  "model": "glm-5.3"
+}

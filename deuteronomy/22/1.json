@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "የወንድምህን ላም ⟨את⟩ ወይም ⟨את⟩ በግሁን የተነጠሉትን አትታይም፤ ከእነሱም አትሰውርም፤ ለወንድምህ በሚገባ ታስመልሳቸዋለህ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ታይም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ላም"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ላም"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "የወንድምህን"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በግሁን"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "በግሁን"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "የተነጠሉትን"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "አትሰውርም"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ከእነሱም"
+    },
+    {
+      "surface": "השב",
+      "gloss": "በሚገባ"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "ታስመልሳቸዋለህ"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ለወንድምህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:47:40.717504456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "ezekiel 36:9",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "እነሆ ወደ እናንተ እኔ ነኝ፣ ወደ እናንተ ተመልሻለሁ፣ ትታረሳላችሁ፣ ትዘራላችሁም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እነሆ ውስጥ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እነሆ እኔ ነኝ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ወደ እናንተ"
+    },
+    {
+      "surface": "ופניתי",
+      "gloss": "ተመልሻለሁ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ወደ እናንተ"
+    },
+    {
+      "surface": "ונעבדתם",
+      "gloss": "ትታረሳላችሁ"
+    },
+    {
+      "surface": "ונזרעתם",
+      "gloss": "ትዘራላችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:45:53.051203773Z",
+  "model": "glm-5.3"
+}

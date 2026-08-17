@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ዮናታን በጌባ የነበረውን ⟨את⟩ የፍልስጤም ምሽግ መታ፤ ፍልስጤም ሰሙ፤ ሳኦም በሙሉ ምድር በቀንደ መለስ ነፈሰ — «ዕብራውያን ይስሙ» ይላል።",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "መታ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ዮናታን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የፍልስጤም ምሽግን"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "ምሽግ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "የፍልስጤም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የነበረውን"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "በጌባ"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ሰሙ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤም"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "እና ሳኦል"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "ነፈሰ"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "በቀንደ መለስ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ይስሙ"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ዕብራውያን"
+    }
+  ],
+  "timestamp": "2026-08-16T15:43:23.204061001Z",
+  "model": "glm-5.3"
+}

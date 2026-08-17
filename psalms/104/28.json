@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 104,
+  "translation": "ለእነርሱ ታወርድ ሲል ይሰበስባሉ፤ እጅህን ታስፈትላለህ፣ በበጎ ነገር ይጠግባሉ።",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "ታወርድ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነርሱ"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "ይሰበስባሉ"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ታስፈትላለህ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህን"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "ይጠግባሉ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "በበጎ ነገር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:48.413918286Z",
+  "model": "glm-5.3"
+}

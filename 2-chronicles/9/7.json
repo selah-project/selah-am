@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ደስ ይበላቸው የሰዎችህ፣ ደስ ይበላቸው እነዚህ አገልጋዮችህ — ሁልጊዜ ፊትህ ቆሙና ⟨את⟩ ጥበብህን የሚሰሙት እነዚህ።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ደስ ይበላቸው"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "የሰዎችህ"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "እና ደስ ይበላቸው"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "አገልጋዮችህ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "የሚቆሙ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ፊትህ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "እና የሚሰሙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጥበብህን"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "ጥበብህ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:40:47.479047505Z",
+  "model": "glm-5.3"
+}

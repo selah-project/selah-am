@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "በቤት አልተቀመጥኩም ከዚያ ቀን ጀምሮ እስራኤልን ⟨את⟩ ካሳደግኩበት እስከ ዛሬ ድረስ፣ ነገር ግን ከድንኳን ወደ ድንኳን እና ከመንደር እንደ ኾንኩ አለ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ነገር ግን\/ስለዚህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አልተቀመጥኩም ውስጥ (አሉታዊ)"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "አልተቀመጥኩም"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ያንን ቀን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚከተለውን"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "ካሳደግኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "እንደ ኾንኩ"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "ከድንኳን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "እና ከመንደር"
+    }
+  ],
+  "timestamp": "2026-08-16T20:43:44.608340453Z",
+  "model": "glm-5.3"
+}

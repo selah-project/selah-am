@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "ካህናነ በሰይፍ ወደቁ፤ መበለቶቹም አልነበሩም።",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "ካህናነ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "በሰይፍ"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ወደቁ"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "መበለቶቹም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "አልነበሩም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:44.672261978Z",
+  "model": "glm-5.3"
+}

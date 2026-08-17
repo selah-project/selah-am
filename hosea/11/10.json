@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ከያህዌህ በኋላ ይሄዳሉ፤ እንደ አንበሳ ይጮካል፤ ምክንያቱም እርሱ ይጮካል፣ እና ልጆች ከባሕር (ምዕራብ) ይርዳሉ።",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "ከ... በኋላ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ይሄዳሉ"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "እንደ አንበሳ"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "ይጮካል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "ይጮካል"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "እና ይርዳሉ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ከባሕር (ምዕራብ)"
+    }
+  ],
+  "timestamp": "2026-08-16T09:00:20.858056911Z",
+  "model": "glm-5.3"
+}

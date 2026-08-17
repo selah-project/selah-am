@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "2-kings 9:1",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ኤልሻዕ ነቢዩ ከነቢያት ልጆች አንዱን ጠራ፤ እንዲህም አለው፦ ወገብህን አግኝ፣ የዘይቱን ይህን ጠርሙስ በእጅህ ውሰድ፣ ራሞት ጊልዓድም ሂድ።",
+  "tokens": [
+    {
+      "surface": "ואלישע",
+      "gloss": "ኤልሻዕ ነቢዩ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነቢዩ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "አንዱን"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ከልጆች"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ነቢያት"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "חגר",
+      "gloss": "አግኝ"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "ወገብህን"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "ውሰድ"
+    },
+    {
+      "surface": "פך",
+      "gloss": "ጠርሙስ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "የዘይቱን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "በእጅህ"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "ራሞት"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ጊልዓድ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:41:48.807816460Z",
+  "model": "glm-5.3"
+}

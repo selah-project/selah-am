@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ከሕዝቦች ሁሉ በላይ የተባረክህ ትሆናለህ፤ በአንተ ዘንድ ዓይነተኛ ወንድም ሆን ሴትም አይኖርም፣ እንዲሁም በእንስሳትህም አይኖርም።",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "የተባረክ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ትሆናለህ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይኖርም"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "ዓይነተኛ ወንድ"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "እና ዓይነተኛ ሴት"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "እና በእንስሳትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:57:29.125550781Z",
+  "model": "glm-5.3"
+}

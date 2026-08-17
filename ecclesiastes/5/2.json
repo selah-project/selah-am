@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ምክንያቱም ሕልም በብዙ ሥራ ይመጣል፤ የሞኞችም ድምፅ በብዙ ቃላት ⟨is⟩ ይሰማል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ይመጣል"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ሕልም"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "በብዙ"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ደግሞ ድምፅ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ሞኾች የ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "በብዩ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ቃላት"
+    }
+  ],
+  "timestamp": "2026-08-16T18:16:47.181968069Z",
+  "model": "glm-5.3"
+}

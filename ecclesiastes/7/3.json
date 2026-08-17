@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ማዘን ከሳቅ ይሻላል፣ በምክንያቱም በአዝናብ ፊት ልብ ይጠናል።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ይሻላል"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ማዘን (ችግር)"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "ከሳቅ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በምክንያቱም"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "በአዝናብ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ይጠናል"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:16:35.393750170Z",
+  "model": "glm-5.3"
+}

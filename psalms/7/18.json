@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ያህዌህን በጽድቁ አመሰግናለሁ፤ እና የያህዌህ የልዑል ስም አመሰግናለሁ።",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "አመሰግናለሁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "በጽድቁ"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "እና አመሰግናለሁ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "የልዑል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:27:07.501462983Z",
+  "model": "glm-5.3"
+}

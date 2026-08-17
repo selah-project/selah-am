@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እና ⟨את⟩ ዓሻንን እና ⟨את⟩ አደባባዮችዋን፣ እና ⟨את⟩ ቤት ሸመሽን እና ⟨את⟩ አደባባዮችዋን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዓሻንን"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ዓሻን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "አደባባዮችዋን"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "አደባባዮችዋ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ቤት ሸመሽን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ሸመሽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "አደባባዮችዋን"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "አደባባዮችዋ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:39:51.073671342Z",
+  "model": "glm-5.3"
+}

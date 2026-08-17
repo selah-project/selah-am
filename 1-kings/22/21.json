@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "1-kings 22:21",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እና መንፈሱ ወጥቶ በያህዌህ ፊት ቆሞ «እኔ እወድቀዋለሁ፤ አታለለዋለሁ» አለ፤ ያህዌህም እርሱን «በምን?» አለው።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጥቶ"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "መንፈሱ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ቆሞ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "አታለለዋለሁ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "במה",
+      "gloss": "በምን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:35:50.952350971Z",
+  "model": "glm-5.3"
+}

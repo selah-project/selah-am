@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ለጻድቁ ያንሹ ከብዙ ክፉዎች ብዛት ይሻላል።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ይሻላል"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ያንሹ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ለጻድቁ"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "ከ…ብዛት"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉዎች"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:48.978951859Z",
+  "model": "glm-5.3"
+}

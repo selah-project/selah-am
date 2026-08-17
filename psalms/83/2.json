@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 83,
+  "translation": "ኤሎሂም፣ ዝምታ አትኑር፤ አትስተሽ፤ እና አትረግም፤ ኤል።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አ"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ዝምታ አትኑር"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "አትስተሽ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አ"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "አትረግም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:50.719347286Z",
+  "model": "glm-5.3"
+}

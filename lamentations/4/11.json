@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ያህዌህ ቍጣውን ⟨את⟩ ፈጽሞታል፤ የፊቱን ንዴት አፍሷል፤ በጽዮን እሳት አቃጥሎታል፤ መሠረቶቿንም በላታል።",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "ፈጽሞታል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቍጣውን"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "ቍጣውን"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "አፍሷል"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "ንዴት"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "የፊቱን"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "አቃጥሎታል"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "በጽዮን"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "በላታል"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "መሠረቶቿን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:10:29.093197098Z",
+  "model": "glm-5.3"
+}

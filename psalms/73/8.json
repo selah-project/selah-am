@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "ያሾፏል፤ በክፉ በግፍ ይናገራሉ፤ ከከፍታም ይናገራሉ።",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "ያሾፏል"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ይናገራሉ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "በክፉ"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ግፍ"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ከከፍታ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ይናገራሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:37.440434648Z",
+  "model": "glm-5.3"
+}

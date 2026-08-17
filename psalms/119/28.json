@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "psalms 119:28",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ነፍሴ ከሀዘን ወደርቃለች፤ እንደ ቃልህ አጥንተኝ።",
+  "tokens": [
+    {
+      "surface": "דלפה",
+      "gloss": "ወደርቃለች"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "מתוגה",
+      "gloss": "ከሀዘን"
+    },
+    {
+      "surface": "קימני",
+      "gloss": "አጥንተኝ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "እንደ ቃልህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:29.258517015Z",
+  "model": "glm-5.3"
+}

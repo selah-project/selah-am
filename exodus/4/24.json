@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "በመንገድም ላይ፣ በማረፊያ ቆይታ ሳለ ያህዌህ ገጠመው፤ ሊገድለውም ፈለገ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነም"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "በማረፊያ"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "ገጠመው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "ፈለገም"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ሊገድለው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:08:44.070061591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "2-samuel 1:2",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "በሦስተኛው ቀን ሆነ፤ እነሆ አንድ ሰው ከመስኩ ከሳኦል ከእርሱ ጋር መጣ፤ ልብሶቹም ተቆርጠዋል፣ አፈርም ⟨ነበረ⟩ በራሱ ላይ፤ ወደ ዳዊት በመጣ ጊዜ ሆነ፤ ወደ ምድር ወደቀ፣ እና ሰገደም።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ሦስተኛው"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እና እነሆ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "አንድ ሰው"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "መስኩ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "እና ልብሶቹ"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "ተቆርጠዋል"
+    },
+    {
+      "surface": "ואדמה",
+      "gloss": "እና አፈር"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ራሱ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "በመጣበት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "እና ወደቀ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ወደ ምድር"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "እና ሰገደ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:55:17.017856512Z",
+  "model": "glm-5.3"
+}

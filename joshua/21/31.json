@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "⟨את⟩ ኸልቃትን እና ⟨את⟩ መስክ መጓሻዋን፣ እና ⟨את⟩ ረሖብን እና ⟨את⟩ መስክ መጓሻዋን — ከተሞች አራት።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኸልቃትን"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "ኸልቃት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መስክ መጓሻዋን"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መስክ መጓሻዋ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ረሖብን"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ረሖብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መስክ መጓሻዋን"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መስክ መጓሻዋ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ከተሞች"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "አራት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:11:13.513954997Z",
+  "model": "glm-5.3"
+}

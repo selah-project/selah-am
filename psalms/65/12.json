@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 65,
+  "translation": "ዓመቱን በጎነትህ አኑርሃል፤ እና መንገዶችህ ወፈር ያንጠፋሉ።",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "አኑርሃል"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ዓመቱን"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "በጎነትህ"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "እና መንገዶችህ"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "ያንጠፋሉ"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "ወፈር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:43.774296279Z",
+  "model": "glm-5.3"
+}

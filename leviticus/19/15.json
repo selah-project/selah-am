@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "በፍርድ አትሥሩ ክፉ ነገር፤ የደካማውን ፊት አታንሳ፤ የታላቁንም ፊት አትደግፍ፤ በጽድቅ ፍርድ በደልበታልህን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ታደርጉም"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ክፉ ነገር"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "በፍርድ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አታ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ታንሳም"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "דל",
+      "gloss": "የደካማውን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "ታከብርም"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "የታላቁን"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "በጽድቅ"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "በይፍረድ"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "በደልበታልህን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:56:11.702949039Z",
+  "model": "glm-5.3"
+}

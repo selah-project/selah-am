@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እነዚህም የአሃሮን ልጆች ስሞች ⟨ናቸው⟩፤ በኵሩ ናዳብ፣ አቢሁ፣ ኤልዓዛርና ኢታማር።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እነዚህም"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ስሞች"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "በኵሩ"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ናዳብ"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "እና አቢሁ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ኤልዓዛር"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "እና ኢታማር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:06:21.506147268Z",
+  "model": "glm-5.3"
+}

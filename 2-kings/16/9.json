@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "የአስሮም ንጉሥ ወደ ⟨እርሱ⟩ ሰማ፤ የአስሮም ንጉሥ ወደ ደማስቆ ወጣ፣ ⟨את⟩ ደማስቆን ያዛት፣ ሕዝቧን ወደ ቂር ማረከ፣ እና ⟨את⟩ ረስዮንን ገደለ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ ⟨እርሱ⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "አስሮም"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "አስሮም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ደማስቆ"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "ያዛት"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "ማረከ፤ ወደ ቂር አፈራት"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "ወደ ቂር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ረስዮንን"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "ረስዮን"
+    },
+    {
+      "surface": "המית",
+      "gloss": "ገደለ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:49:23.432954045Z",
+  "model": "glm-5.3"
+}

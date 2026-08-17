@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "ዕረፍትም መልካም መሆኗን አየ፤ ⟨את⟩ ⟨ምድሩንም⟩ ማርካት መሆኑን አየ፤ ትከራዩንም ለመሸከም ዘነበ፤ የግብር አገልጋይም ሆነ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ዕረፍትን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "መሆኗን እንደ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሩንም"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "መሆኑን እንደ"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "ማርካት"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ዘነበ"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ትከራዩን"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "ለመሸከም"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "למס",
+      "gloss": "የግብር"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "አገልጋይ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:05:00.668380030Z",
+  "model": "glm-5.3"
+}

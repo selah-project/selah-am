@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ያህዌህ ታወቀ፤ ፍርድ አደረገ፤ በእጁ ሥራ ርኵሱ ተሰማረ። ሂጋዮን። ሴላ።",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "ታወቀ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "በሥራ"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "በእጁ"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "ተሰማረ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ርኵሱ"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "ሂጋዮን"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:49.929974114Z",
+  "model": "glm-5.3"
+}

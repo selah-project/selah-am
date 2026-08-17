@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "አኪስም «ዛሬ ወዴት አዘለቃችሁ?» አለ፤ ዳዊትም «በይሁዳ ደቡብ፣ በይርሐምኤላውያን ደቡብና በቂናውያን ደቡብ» አለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "አኪስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "«እንዳዘለቁ"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "ወዴት አዘለቃችሁ?»"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ደቡብ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "በ"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ደቡብ"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "ይርሐምኤላውያን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "በ"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ደቡብ"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "ቂናውያን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:50:05.874196816Z",
+  "model": "glm-5.3"
+}

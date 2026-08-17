@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "ላባንም የ⟨את⟩ ቦታውን ሰዎች ሁሉ ሰበሰበ፤ ደግሞም ምግብ አዘጋጀ።",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ሰበሰበም"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ላባን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የቦታውን ሰዎች ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "የቦታው"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "አዘጋጀም"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ምግብ (ስጦታ)"
+    }
+  ],
+  "timestamp": "2026-08-16T02:47:08.376326158Z",
+  "model": "glm-5.3"
+}

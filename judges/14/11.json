@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "judges 14:11",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "እነርሱም ⟨את⟩ ሲያዩት ሠላሳ ወዳጆችን ወሰዱ፤ ከእርሱም ⟨את⟩ ጋር ነበሩ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "כראותם",
+      "gloss": "ሲያዩ"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን (ሞሼን)"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ወሰዱ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሠላሳ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ወዳጆችን"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ነበሩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ከእርሱ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T05:23:42.122289724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ይህ ⟨የ⟩ ኖህ ትውልድ ነው፤ ኖህ ጻድቅ ሰው፣ በትውልዶቹ ውስጥ ፍጹም ነበር፤ ኖህ ⟨את⟩ ኤሎሂምን ሲመላለስ ነበር።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ትውልድ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "የ ኖህ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖህ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቅ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ፍጹም"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበር"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "በትውልዶቹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂምን"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "ሲመላለስ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖህ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:31:31.046994726Z",
+  "model": "glm-5.3"
+}

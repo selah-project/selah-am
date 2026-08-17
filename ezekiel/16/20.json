@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ወንዶችሽን ⟨את⟩ እና ሴቶችሽን ⟨את⟩ ወስደሽ ወለድሽዋቸው ልኝ፤ ላቸው ለመብላት ሠዋቸው፤ ከአመንዘረኝነትሽ ትንሽ ነውን?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "ወስደሽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንዶችሽን"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ወንዶችሽን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሴቶችሽን"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "ሴቶችሽን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "ወለድሽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ልኝ"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "ሠዋቸው"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ላቸው"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "ለመብላት"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "ትንሽ ነውን"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "ከአመንዘረኝነትሽ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:27:10.651525454Z",
+  "model": "glm-5.3"
+}

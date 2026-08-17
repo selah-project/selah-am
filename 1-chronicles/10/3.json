@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የጦርነቱም ኃይል በሳኦል ላይ አመራረከ፤ ቀስተኞችም በቀስት አገኙት፤ እርሱም ከቀስተኞቹ ተጨነቀ።",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "አመራረከም"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ጦርነቱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "አገኙትም"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "ቀስተኞች"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "በቀስት"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "ተጨነቀም"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "ቀስተኞቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:50:56.987148898Z",
+  "model": "glm-5.3"
+}

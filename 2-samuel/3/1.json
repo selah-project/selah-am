@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "2-samuel 3:1",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ጦርነቱ በሳኦል ቤትና ⟨በ⟩ዳዊት ቤት መካከል ረጅም ሆነ፤ ዳዊትም ሲሄድ ይጠናበታል፣ የሳኦል ቤትም ሲሄዱ ይደክማሉ።",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ጦርነቱ"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "ረጅም"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በ…መካከል"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እና በ…መካከል"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ሲሄድ"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "ይጠናበታል"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "የ…ቤትም"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ሲሄዱ"
+    },
+    {
+      "surface": "ודלים",
+      "gloss": "ይደክማሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:54:30.538024661Z",
+  "model": "glm-5.3"
+}

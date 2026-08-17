@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "እና ⟨את⟩ አሃሮንንና ⟨את⟩ ወንዶቹን ትቀብዛለህ፤ አንተም ⟨את⟩ እነሱን ለእኔ ካህናት እንዲሆኑ ታቀድሳለህ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "አሃሮንን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ወንዶቹን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ወንዶቹን"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ትቀብዛለህ"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ታቀድሳለህ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:30:40.406750421Z",
+  "model": "glm-5.3"
+}

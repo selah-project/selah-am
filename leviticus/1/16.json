@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ከዑፉም ጋር ያለውን ሆዱን ⟨את⟩ ያስወግዳል፤ ወደ መሠዊያውም ምሥራቃዊ ክፍል በአመድ ስፍራ ⟨את⟩ ይወርወራል።",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "ያስወግዳል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሆዱን"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "ሆዱን"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "ከዑፉም ጋር ያለውን"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "ይወርወራልም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እሱን (ሆዱን)"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "አጠገብ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ምሥራቃዊ ክፍል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ስፍራ"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "አመድ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:40:55.799459122Z",
+  "model": "glm-5.3"
+}

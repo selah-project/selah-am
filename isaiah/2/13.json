@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "isaiah 2:13",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እና በለባንስ ከፍታ የተሳሉት ሁሉ የአርዝ ዛፎች ላይ፣ እና በተሳሉትም ሁሉ ላይ፣ እና በባሳን የኮረብላ ዛፎች ሁሉ ላይ።",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "እና ... ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "የአርዝ ዛፎች"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "በለባንስ"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "ከፍታ"
+    },
+    {
+      "surface": "והנשאים",
+      "gloss": "እና የተሳሉት"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና ... ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אלוני",
+      "gloss": "የኮረብላ ዛፎች"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "በባሳን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:55:33.094769197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ውሸትን ጠላሁት እና ጠለፍኩት፤ ሕግህን ወደድኩ።",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "ውሸትን"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ጠላሁት"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "እና ጠለፍኩት"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ሕግህን"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ወደድኩ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:14.260135862Z",
+  "model": "glm-5.3"
+}

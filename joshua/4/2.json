@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ከሕዝቡ አሥራ ሁለት ሰዎችን ውሰዱ ለራሳችሁ፣ አንድ ሰው አንድ ሰው ከነገድ እያንዳንዱ።",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "ውሰዱ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለራሳችሁ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ሰዎችን"
+    },
+    {
+      "surface": "איש",
+      "gloss": "አንድ ሰው"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "አንድ ሰው"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "ከነገድ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:00:48.622607899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 15:28",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "በዓሣ ንጉሥ የይሁዳ በሦስተኛው ዓመት ባዕሳ ከለቀቀው እንደ ሆነ ገደለው፣ እና በርሱ ፋንታ ነገሠ።",
+  "tokens": [
+    {
+      "surface": "וימתהו",
+      "gloss": "ገደለው"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ባዕሳ"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "በዓመት"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሦስተኛው"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "ዓሣ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "እና ነገሠ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "በርሱ ፋንታ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:25:34.354441209Z",
+  "model": "glm-5.3"
+}

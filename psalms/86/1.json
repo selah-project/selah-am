@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 86,
+  "translation": "የዳዊት ጸሎት። ያህዌህ ሆይ፣ ጆሮህን አዘንብለህ መልስ ስጠኝ፣ በእውነትም ድሃ እና ውድቀት ነኝ።",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "ጸሎት"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "የዳዊት"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "አዘንብለህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ጆሮህን"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "መልስ ስጠኝ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነትም"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ድሃ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "እና ውድቀት"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ነኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:02.100232316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የዔላም ልጆች ሺህ ሁለት መቶ ሃምሳ እና አራት።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "የዔላም"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ሁለት መቶ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ሃምሳ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "እና አራት"
+    }
+  ],
+  "timestamp": "2026-08-16T12:14:05.387845941Z",
+  "model": "glm-5.3"
+}

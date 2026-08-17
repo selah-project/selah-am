@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እነዚህንም ⟨את⟩ ከወፎች ትጠላቸዋላችሁ፤ አይበሉም፤ ርኵሰ ነገር ናቸው፤ ኔሸሩን ⟨את⟩ እና ጴርስን ⟨את⟩ እና ዓዝኒያን ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እነዚህን"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "ትጠላቸዋላችሁ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ወፎች"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ርኵሰ ነገር"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ናቸው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኔሸሩን"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "ኔሸር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጴርስን"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "ጴርስ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓዝኒያን"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "ዓዝኒያ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:47:40.025613535Z",
+  "model": "glm-5.3"
+}

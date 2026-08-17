@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ጊደሉም ⟨את⟩ ወደ አሦር ይጓዛል፤ ለያረብ ንጉሥ ስጦታ ይሆናል፤ ኤፍሬም ውርደትን ይቀበላል፤ እስራኤልም ስለ ራሱ ምክር ያፈራል።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ጊደሉም"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ጊደሉን ወደ አሦር"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "ወደ አሦር"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "ይጓዛል"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ስጦታ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ለንጉሥ"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "ያረብ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ውርደትን"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍሬም"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ይቀበላል"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "ያፈራልም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "ስለ ራሱ ምክር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:00:01.665478947Z",
+  "model": "glm-5.3"
+}

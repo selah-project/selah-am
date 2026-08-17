@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "በቤትህ ውስጥ ኤፋና ኤፋ — ትልቅ እና ትንሽ — እንዳለህ አይሁንም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይሁንም"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "በቤትህ"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ኤፋ"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "እና ኤፋ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ትልቅ"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "እና ትንሽ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:49:21.386936559Z",
+  "model": "glm-5.3"
+}

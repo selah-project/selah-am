@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ወደ ምድረ ግብፅ አይመለስም፤ አሦር በእርሱ ላይ ንጉሥ ይሆናል፣ በእውነት ሊመለሱ ፈቀቁ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ይመለሳል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፅ"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "እና አሦር"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "ንጉሡ ይሆናል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ፈቀቁ"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ሊመለሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:01:22.583416071Z",
+  "model": "glm-5.3"
+}

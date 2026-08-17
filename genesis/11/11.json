@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሴምም ⟨את⟩ አርፋክስድን ካለደ በኋላ አምስት መቶ ዓመት ኖረ፤ ወንዶችንና ሴቶችንም ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ኖረም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ሴም"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "በኋላ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ካለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አርፋክስድን"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "አርፋክስድን"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደም"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ወንዶችን"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "እና ሴቶችን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:40.737000418Z",
+  "model": "glm-5.3"
+}

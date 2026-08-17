@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 83,
+  "translation": "ኮሮቻቸውን እንደ ኦሬብ እንደ ዜብ አድርጋቸው፤ እንደ ዘባሕ እንደ ጸልሙና እነርሱም ሁሉ መሪዎቻቸውን።",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "አድርጋቸው"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "ኮሮቻቸውን"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "እንደ ኦሬብ"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "እንደ ዜብ"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "እንደ ዘባሕ"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "እንደ ጸልሙና"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "መሪዎቻቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:28.497445455Z",
+  "model": "glm-5.3"
+}

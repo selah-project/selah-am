@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "የኤሎሂምም ቍጣ በእነርሱ ላይ ወጣ፤ በወፈራቸውም ውስጥ ሰደደ፤ የያዕቆብም ልጆች ወጣቶችን በቀሰቀሰ።",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "ቍጣም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "በእነርሱ"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "በወፈራቸውም"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "ወጣቶችንም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የያዕቆብ ልጆች"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "በቀሰቀሰ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:12:28.003372176Z",
+  "model": "glm-5.3"
+}

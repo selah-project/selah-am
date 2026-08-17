@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 37,
+  "ref": "psalms 105:37",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "እርሱም በብርና በወርቅ አወጣቸው፤ በነገዶቹም ውስጥ የሚደኈም ሰው የለም።",
+  "tokens": [
+    {
+      "surface": "ויוציאם",
+      "gloss": "አወጣቸው"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "በብር"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "እና በወርቅ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "בשבטיו",
+      "gloss": "በነገዶቹ ውስጥ"
+    },
+    {
+      "surface": "כושל",
+      "gloss": "የሚደኈም ሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:15.088542070Z",
+  "model": "glm-5.3"
+}

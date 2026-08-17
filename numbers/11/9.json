@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ጡቡም በምሽት በመስክ ላይ በወረደ ጊዜ ማን በእሱ ላይ ይወርዳል።",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "በወረደ ጊዜ"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "ጡቡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "መስክ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "በምሽት"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ይወርዳል"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእሱ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:15:39.862482061Z",
+  "model": "glm-5.3"
+}

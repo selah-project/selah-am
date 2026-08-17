@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ከሆነ ለበሰላም የነበረኝ ክፉ በቀል በመለስኩ፣ እና ምንም ሳይኖር ጠላቴን አድንኩ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "በመለስኩ"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "ለበሰላም የነበረኝ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ በቀል"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "እና አድንኩ"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ጠላቴን"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ምንም ሳይኖር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:29:16.161371784Z",
+  "model": "glm-5.3"
+}

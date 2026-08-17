@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "የንጉሡን ቤት እና ⟨את⟩ የሕዝቡን ቤት ከሸድያን በእሳት አቃጠሉ፤ ⟨את⟩ የዩራሳሌም ግንቦችንም ወደቁ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የንጉሡን ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "የ… ቤት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የሕዝቡን ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "የ… ቤት"
+    },
+    {
+      "surface": "העם",
+      "gloss": "የሕዝቡ"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "አቃጠሉ"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "ከሸድያን"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እንዲሁም ⟨את⟩",
+      "marks": "የዩራሳሌም ግንቦችን"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "ግንቦችን"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የዩራሳሌም"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "ወደቁ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:04:33.244749330Z",
+  "model": "glm-5.3"
+}

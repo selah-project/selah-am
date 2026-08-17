@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "deuteronomy 31:8",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "እና ያህዌህ እርሱ በፊትህ የሚሄድ ነው፤ እርሱ ከአንተ ጋር ይሆናል፤ አይለቅህም እና አይተውህም፤ አትፍር እና አትሰበር።",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "እና ያህዌህ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "የሚሄድ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "በፊትህ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "ለቅህም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "ተውህም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ፍር"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ሰበር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:57:29.924039705Z",
+  "model": "glm-5.3"
+}

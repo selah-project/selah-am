@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ከእነርሱ ጋር ባልሆን እንደልጅ ቤተሰብ አትተሳሰርም፤ ልጅሽን ለወንድሙ አታስረክቢውም ልጁንም ለወንድምህ አትወስድባትም።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "አትተሳሰርም"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "እንደልጅ ቤተሰብ አትተሳሰር"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ከእነርሱ ጋር"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "ልጅሽን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አታስረክቢውም…አይ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "አታስረክቢው"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ለወንድሙ"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "ልጁንም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አትወስድባትም…አይ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "አትወስድባት"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "ለወንድምህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:37:26.112720399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ሰውወቱም «አንቺ ከኔ ጋር ያዋህቃት ሴትዮቷ ናት ከዛፉ የሰጠችኝ፤ እኔም በላሁ።» አለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ፤"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰውወቱም"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሴትዮቷ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያዋህቃት"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "አንቺ ሰጠህ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ከኔ ጋር"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ናት"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ሰጠችኝ፤"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ዛፉ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "እኔም በላሁ።"
+    }
+  ],
+  "timestamp": "2026-08-16T02:28:46.009698711Z",
+  "model": "glm-5.3"
+}

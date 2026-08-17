@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "job 22:20",
+  "book": "job",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እኛን የሚነሱት በእርግጥ ወድመዋል፤ ቀሪያቸውንም እሳት በላችዋል።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "በእርግጥ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ወደ… አል… (ክሳችን)"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "ወድመዋል\/ተሰርዟል"
+    },
+    {
+      "surface": "קימנו",
+      "gloss": "እኛን የሚነሱት"
+    },
+    {
+      "surface": "ויתרם",
+      "gloss": "ቀሪያቸውንም"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "በላችዋል"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:50:34.506856129Z",
+  "model": "glm-5.3"
+}

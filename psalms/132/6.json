@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 132,
+  "translation": "እነሆ፣ በኤፍራታ ሰምተነዋል፤ በያዓር መስኮች አገኘነዋል።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "ሰምተነዋል"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "በኤፍራታ"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "አገኘነዋል"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "በመስኮች"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ያዓር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:16.538164786Z",
+  "model": "glm-5.3"
+}

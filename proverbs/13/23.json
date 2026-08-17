@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "proverbs 13:23",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "በደሃዎች የታረሰ መሬት ብዙ ምግብ አለ፤ ነገር ግን ያለ ፍርድ የሚጠፋ አለ።",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ምግብ"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "የታረሰ መሬት"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "ደሃዎች"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ነገር ግን አለ"
+    },
+    {
+      "surface": "נספה",
+      "gloss": "የሚጠፋ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ያለ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:27:02.681355437Z",
+  "model": "glm-5.3"
+}

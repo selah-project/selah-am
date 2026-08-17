@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ዔሊም ሳሙኤልን ⟨את⟩ ጠራው፤ ሳሙኤል ልጄ አለው፤ እርሱም እነሆ እኔ አለ ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራው"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ዔሊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሳሙኤልን"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤልን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጄ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እነሆ እኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:33:03.866771502Z",
+  "model": "glm-5.3"
+}

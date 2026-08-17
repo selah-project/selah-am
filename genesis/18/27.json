@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "genesis 18:27",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "አብርሃምም መልሶ አለ፦ እነሆ አሁን እኔ ወደ አዶናይ ለመናገር ተነሥቼያለሁ፤ እኔ ግን አፈርና አመድ ነኝ።",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መልሶ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃምም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "הואלתי",
+      "gloss": "ተነሥቼያለሁ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ለመናገር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "አፈር"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "አመድ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:38:36.524104671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "job 11:16",
+  "book": "job",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እንደ እውነቱ አንተ ድካምህን ታረሳለህ፤ እንደ ውሃ ያለፈ እንደ ሆነ ታስታውሰዋለህ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ እውነቱ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ድካምህን"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ታረሳለህ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "እንደ ውሃ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ያለፈ"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ታስታውሰዋለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:45:53.189863816Z",
+  "model": "glm-5.3"
+}

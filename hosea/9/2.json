@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ድምጫውና የወይን መጭማቂው አይመግባቸውም ፤ እንጹሩም ወይኑ ውስጥ ያታልላል።",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "ድምጫው"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "እና የወይን መጭማቂው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "አይመግባቸውም"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "እንጹሩም ወይኑ"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "ያታልላል\/ይክዳል"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ውስጧ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:02:58.708027092Z",
+  "model": "glm-5.3"
+}

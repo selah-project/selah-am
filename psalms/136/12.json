@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 136,
+  "translation": "በኃይለኛ እጅ እና በዘረጋ ክንፍ፤ ምክንያቱም ለዘላለም ምሕረቱ ትኖራለች።",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "በ… እጅ"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "ኃይለኛ"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "እና በ… ክንፍ"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ዘረጋ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ምሕረቱ ትኖራለች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:48.250430952Z",
+  "model": "glm-5.3"
+}

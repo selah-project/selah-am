@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "የአንተን መንገዶች ያህዌህ አሳየኝ፤ የአንተን ጎዳኖች አስተምረኝ።",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "የአንተን መንገዶች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "አሳየኝ፤"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "የአንተን ጎዳኖች"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "አስተምረኝ።"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:19.087711708Z",
+  "model": "glm-5.3"
+}

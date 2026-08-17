@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የክፉ መኝቶች አይጠቅሙም፤ ጽድቅ ግን ከሞት ያድናል።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "ይጠቅማሉ"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "መኝቶች"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "የክፉ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "እና ጽድቅ"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ያድናል"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ከሞት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:25:11.347020859Z",
+  "model": "glm-5.3"
+}

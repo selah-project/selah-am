@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 101,
+  "translation": "በስውር የጓደኛውን የሚንቀጥቀጥ — ⟨את⟩ እርሱን አጥፋለሁ፤ ከፍ ያሉ ዐይኖች እና ሰፊ ልብ ያለውን ⟨את⟩ አልቻለውም።",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "የሚንቀጥቀጥ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "በስውር"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ጓደኛውን"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "የሚንቀጥቀጠውን ጓደኛ"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "አጥፋለሁ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ከፍ ያሉ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ዐይኖች"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "እና ሰፊ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ከፍ ያሉ ዐይኖች እና ሰፊ ልብ ያለውን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ቻለውም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:28.030810557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 74,
+  "translation": "የተሰበረ ⟨የ⟩ ተሳደበ ወደ ኋላ አይመለስ፤ ደካማው እና ድሃው ስምህን ያመሰግኑ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ወደ ኋላ ይመለስ"
+    },
+    {
+      "surface": "דך",
+      "gloss": "የተሰበረ"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "የተሳደበ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ደካማው"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "እና ድሃው"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ያመሰግኑ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:06.228921553Z",
+  "model": "glm-5.3"
+}

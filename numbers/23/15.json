@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "numbers 23:15",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ቢልዓምም ባላቅን እንዲህ አለው፦ «እዚህ በመቃርከዊያህ አንጻር ቁም፤ እኔም እንደዚያ እገናኛለሁ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ባላቅ"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "ቁም"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እዚህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… አንጻር"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "መቃርከዊያህ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "እኔም"
+    },
+    {
+      "surface": "אקרה",
+      "gloss": "እገናኛለሁ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንደዚያ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:23:33.121488880Z",
+  "model": "glm-5.3"
+}

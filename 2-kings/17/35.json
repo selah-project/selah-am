@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 17:35",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ያህዌህ ከእነርሱ ⟨את⟩ ቃል ኪዳን ገብቶ እንዲህ ብሎ አዘዛቸው፦ «ከሌላ አማልክት አትፍሩ፣ ለእነርሱ አትሰግዱ፣ አትገለግሉአቸውም፣ አትሠዋቸውም፤",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "ገብቶ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ከእነርሱ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ቃል ኪዳን"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "አዘዛቸው"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ፍሩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "አማልክት"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ከሌላ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "ትሰግዱም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነርሱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תעבדום",
+      "gloss": "ትገለግሉአቸውም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "ትሠዋቸውም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ላቸው"
+    }
+  ],
+  "timestamp": "2026-08-17T09:22:36.464500311Z",
+  "model": "glm-5.3"
+}

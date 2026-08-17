@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "proverbs 31:21",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ለቤቷ ከበረዶ አትፈራም፤ ሁሉም ቤቷ በቀይ ሐምማስ የተለበሱ ነውና።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት...ም"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ትፈራ"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "ለቤቷ"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "ከበረዶ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነውና"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ቤቷ"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "የተለበሱ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "በቀይ ሐምማስ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:38:19.461013284Z",
+  "model": "glm-5.3"
+}

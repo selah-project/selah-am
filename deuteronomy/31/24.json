@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ሞሼም ⟨את⟩ የዚህን ታላው ቃላት በመጽሐፍ ላይ እስከ ሙሉ መፈጸሙ ድረስ ሲጽፍ ሲጨርስ ሆነ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "ሲጨርስ፤ ሲፈጽም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "ሲጽፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የዚህን ታላው ቃላትን"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላትን"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "የታላው፤ ሕግ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "የዚህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "መጽሐፍ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ… ድረስ"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ሙሉ መፈጸሙ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:26:46.955331615Z",
+  "model": "glm-5.3"
+}

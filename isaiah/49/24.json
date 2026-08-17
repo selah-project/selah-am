@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "ከጀግና ማራኪ ይወሰዳልን? የጻድቁንስ ታሰሪ ይድናልን?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "ይወሰዳልን?"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "ከጀግና"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "ማራኪ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ወይስ"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "ታሰሪ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "የጻድቁን"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ይድናልን?"
+    }
+  ],
+  "timestamp": "2026-08-16T07:24:08.241391129Z",
+  "model": "glm-5.3"
+}

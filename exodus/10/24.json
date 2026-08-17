@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ፈርዖንም ሞሼን ጠራውና እንዲህ አለው፦ ሂዱ፤ ⟨את⟩ ያህዌህ አገልግሉ፤ በጎችዋንምና ላሞቻችሁን ብቻ ተው፤ ልጆቻችሁም እናንተ ጋር ይሂዱ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራም"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለውም"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ሂዱ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "አገልግሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "በጎችዋንን"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "እና ላሞቻችሁን"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "ተዉ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንኳ"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "ልጆቻችሁም"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ይሂዱ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ከናንተ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:12:40.661192582Z",
+  "model": "glm-5.3"
+}

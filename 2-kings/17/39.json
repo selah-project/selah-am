@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ነገር ግን ⟨את⟩ ያህዌህ ኤሎሂማችሕን ትፍራላችሕ፤ እርሱም ⟨את⟩ እናንተን ከሁሉም ጠላቾቻችሕ እጅ ያድናችኋል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ግን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂማችሕን"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ትፍራላችሕ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "እና እርሱ"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "ያድናል"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ጠላቾቻችሕ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:50:03.640182220Z",
+  "model": "glm-5.3"
+}

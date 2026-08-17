@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ለአምላካችሁ ለያህዌህ እንዲህ አትሠሩም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት…ም"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ታደርጉ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂም አምላካችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:44:12.566075348Z",
+  "model": "glm-5.3"
+}

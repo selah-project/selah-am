@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "proverbs 16:22",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "መገንዘብ ለባለቤቶቹ የሕይወት ፈንታ ነው፤ የሞኞችም ተግሣጽ ሞኝነት ነው።",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "ፈንታ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "የሕይወት"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "መገንዘብ"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ለባለቤቶቹ"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "እና ተግሣጽ"
+    },
+    {
+      "surface": "אולים",
+      "gloss": "የሞኞች"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ሞኝነት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:28:01.910763888Z",
+  "model": "glm-5.3"
+}

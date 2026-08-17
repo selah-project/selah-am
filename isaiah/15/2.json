@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "isaiah 15:2",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ወደ ⟨ቤቱ⟩ና ወደ ዲቦን ወደ ከፍታዎቹ ለማለቅ ወጣ፤ ሞዓብ በነቦም በሜድባም ያወጫል፤ በራሶቹ ሁሉ ባዶነት አለ፤ ጫካውም ሁሉ ተነጠለ።",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "ודיבן",
+      "gloss": "ዲቦንም"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ከፍታዎቹ"
+    },
+    {
+      "surface": "לבכי",
+      "gloss": "ለማለቅ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "ነቦ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "በ...ም"
+    },
+    {
+      "surface": "מידבא",
+      "gloss": "ሜድባ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "ያወጫል"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በ...ሁሉ"
+    },
+    {
+      "surface": "ראשיו",
+      "gloss": "ራሶቹ"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "ባዶነት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ጫካ"
+    },
+    {
+      "surface": "גרועה",
+      "gloss": "ተነጠለ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:05:33.810026872Z",
+  "model": "glm-5.3"
+}

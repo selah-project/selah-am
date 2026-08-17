@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እርሷም ወንድ ልጅ ወለደች፤ እርሱም ⟨את⟩ ስሙን ጌርሶም ብሎ ጠራው፤ ምክንያቱም እንግዳ በእንግዳ ምድር ነበርኩ አለ።",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወንድ ልጅ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሙን"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ጌርሶም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "እንግዳ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ነበርኩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "እንግዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:07:11.263675154Z",
+  "model": "glm-5.3"
+}

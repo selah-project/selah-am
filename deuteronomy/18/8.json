@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ክፍል እንደ ክፍል ይበላሉ፤ በአባቶች ላይ ካለው ሽያጩ በስተቀር።",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "ክፍል"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "እንደ ክፍል"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ይበላሉ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "በስተቀር"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "ካለው ሽያጩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "በአባቶች"
+    }
+  ],
+  "timestamp": "2026-08-16T04:45:03.155310817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "isaiah 29:20",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "የሚያስፈራው ጨካኪ ፈጽሞ ያልቃል፤ አትፋሪው ያልቃል፤ ክፉ ሥራን የሚቆጥሩ ሁሉ ይጨረጻሉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "ፈጽሞ ያልቃል"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "ጨካኪው"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ያልቃል"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "አትፋሪው"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "ይጨረጻሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "שקדי",
+      "gloss": "የሚቆጥሩ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ክፉ ሥራን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:14:24.497840698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ያህዌህ አዶናይነ ሆይ፣ ስምህ በምድር ሁሉ ምን ያህል አስደናቂ ነው! ክብርህን በሰማያት ላይ አድርገሃል።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "አዶናይነ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን ያህል"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "አስደናቂ ነው"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "አድርገሃል"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ክብርህን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "በሰማያት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:29:22.908780200Z",
+  "model": "glm-5.3"
+}

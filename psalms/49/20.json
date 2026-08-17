@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "ወደ አባቶቹ ትውልድ ይመለሳል፤ ለዘላለም ብርሃንን አያዩም።",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "ይመለሳል\/ይገባል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ትውልድ"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "አባቶቹ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ዘላለም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ያዩ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃንን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:01.770105671Z",
+  "model": "glm-5.3"
+}

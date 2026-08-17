@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 24:17",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "እና አገልጋዩ ወደ ⟨እሷ⟩ ለመገናኘት ኮረበ፣ እና እንዲህ አለ፦ «እባክህ ከኩሬህ ትንሽ ውሃ አጠጣኝ።»",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "ኮረበ"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "አገልጋዩ"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "ወደ ⟨እሷ⟩ ለመገናኘት"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እና እንዲህ አለ"
+    },
+    {
+      "surface": "הגמיאיני",
+      "gloss": "አጠጣኝ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ትንሽ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "מכדך",
+      "gloss": "ከኩሬህ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:32:27.096966897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 84,
+  "translation": "እንዴት ብፁዓን ናቸው በቤትህ የሚቀመጡት — እነርሱም ዘወትር ያመሰግኑሃል። ሴላ።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "እንዴት ብፁዓን"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "የሚቀመጡት"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "በቤትህ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ዘወትር"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "ያመሰግኑሃል"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:37.586868048Z",
+  "model": "glm-5.3"
+}

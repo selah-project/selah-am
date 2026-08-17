@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "exodus 17:5",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ያህዌህም ሞሼን እንዲህ አለው፤ ወደ ሕዝቡ ፊት እለፅ፥ ⟨את⟩ ከአንተ ጋር ከየእስራኤል ሽማግሌዎች ውሰድ፥ በትርህንም — ወንዙን ⟨את⟩ የመታኸውን — በእጅህ ውሰድ፥ እና ሂድ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "እለፅ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ወደ ፊት"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "እና ውሰድ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ከአንተ ጋር"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "ከሽማግሌዎች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "ומטך",
+      "gloss": "እና በትርህን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "የመታኸው"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንዙን"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ወንዙን"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ውሰድ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "በእጅህ"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "እና ሂድ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:19:28.639685964Z",
+  "model": "glm-5.3"
+}

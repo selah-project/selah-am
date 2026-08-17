@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 128,
+  "translation": "የማረገጥያ መዝሙር። የያህዌህን ሚቀለት ሁሉ እንዴት ቡሩክ ነው — በመንገዶቹ የሚሄድ ሁሉ።",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "የማረገጥያ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "እንዴት ቡሩክ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ሚቀለት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "የሚሄድ"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "በመንገዶቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:12:53.442673273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "እስራኤል ወደ ምጽራይም ገባ፤ ያዕቆብም በካም ምድር ⟨እንደ መጓዛ⟩ ተቀመጠ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ገባ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ወደ ምጽራይም"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ያዕቆብም"
+    },
+    {
+      "surface": "גר",
+      "gloss": "እንደ መጓዛ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "חם",
+      "gloss": "የካም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:22.019804707Z",
+  "model": "glm-5.3"
+}

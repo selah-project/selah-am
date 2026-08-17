@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "job 32:8",
+  "book": "job",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "እውነት ግን በሰው ውስጥ ያለው መንፈስ ነው፤ የሻዳይ እስትንፋስ ይህን ያስገባቸዋል።",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "እውነት ግን"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ነው"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "በሰው ውስጥ ያለው"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "የ…እስትንፋስ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ሻዳይ"
+    },
+    {
+      "surface": "תבינם",
+      "gloss": "ይህን ያስገባቸዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:55:34.224616047Z",
+  "model": "glm-5.3"
+}

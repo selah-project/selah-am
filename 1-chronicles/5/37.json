@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ዐዛርያ ደግሞ ⟨את⟩ አማርያን ወለደ፤ አማርያ ደግሞ ⟨את⟩ አኪጦብን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ዐዛርያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አማርያን"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "አማርያን"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "አማርያ ደግሞ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አኪጦብን"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "አኪጦብን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:35:55.795657759Z",
+  "model": "glm-5.3"
+}

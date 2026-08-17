@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 118,
+  "translation": "ከጠባቡ ምስር ያህን ጠራሁ፤ ያህ በሰፊው ⟨ስፍራ⟩ መለሰልኝ።",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "ጠባቡ ምስር"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ጠራሁ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህን"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "መለሰልኝ"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "በሰፊው ⟨ስፍራ⟩"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:35.917419338Z",
+  "model": "glm-5.3"
+}

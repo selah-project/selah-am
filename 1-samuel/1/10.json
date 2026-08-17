@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እርሷም በነፍስ እጅግ አራርቃ ነበር፤ በያህዌህ ፊት ልትማልድ ስትጸልይ እየዋለች በደረሰው ቁጥር አዘነች።",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "እርሷም"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "አራርቃ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "በነፍስ"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ስትጸልይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "እጅግ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "እየዋለች"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "አዘነች"
+    }
+  ],
+  "timestamp": "2026-08-16T05:30:08.730623813Z",
+  "model": "glm-5.3"
+}

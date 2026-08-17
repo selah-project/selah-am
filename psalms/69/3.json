@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "በጥልቅ ጭቃ ተንጠልጥላለሁ፣ ማቆሚያ የለም፤ ወደ ውኃ ጥልቀቶች ገብቻለሁ፣ እና ተፋሰስ አጥፍቶኛል።",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "ተንጠልጥላለሁ"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "በ"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "ጭቃ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "ማቆሚያ"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ገብቻለሁ"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "ወደ ጥልቀቶች"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውኃ"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "እና ተፋሰስ"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "አጥፍቶኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:17.353960327Z",
+  "model": "glm-5.3"
+}

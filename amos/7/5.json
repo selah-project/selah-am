@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "amos 7:5",
+  "book": "amos",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እናም እንዲህ አልሁ፦ አዶናይ ያህዌህ ሆይ፣ እባክህ ተው፤ ያዕቆብ ማን ያነሳዋል? ብዙም ስለሆነ ነው።",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "እንዲህ አልሁ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ተው"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ያነሳዋል"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለሆነ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "ብዙም የለም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:07:42.421527724Z",
+  "model": "glm-5.3"
+}

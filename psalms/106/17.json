@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "ምድር ስትከፈት ዳታን ዋጠች፤ በአቢራም ማኅበር ላይ ሰለለች።",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "ስትከፈት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "ዋጠች"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "ዳታን"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ሰለለች"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ማኅበር"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "አቢራም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:28.639863886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ምን ደስታ ለሰውዬ ያህዌህን የሠራ መተማመኛው ሆኖ ወደ ስዩሳን እና ወደ ውሸት ሽሽተኞች አልተመለሰም።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ምን ደስታ"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ለሰውዬ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚያደርግ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "የሠራ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "መተማመኛው"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አልፈጸመም"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "አልተመለሰም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "ስዩሳን"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "እና ሽሽተኞች"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ውሸት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:39.643625614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "በጭንቀታቸው ወደ ያህዌህ ጮኩ፣ ከመከራዎቻቸው አዳናቸው።",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "ጮኩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "በጭንቀታቸው"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ላቸው"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "ከመከራዎቻቸው"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "አዳናቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:30.689912962Z",
+  "model": "glm-5.3"
+}

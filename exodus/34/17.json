@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "የተቀረጹ አማልክትን ራስህ አትሥራ።",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "የ...አማልክት"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "የተቀረጹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ታሥራለህ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ራስህን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:33:09.069946746Z",
+  "model": "glm-5.3"
+}

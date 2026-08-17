@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 54,
+  "translation": "ኤሎሂም ሆይ፣ በስምህ አድነኝ፤ በኃይልህም ፍረድኝ።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "በስምህ"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "አድነኝ"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "በኃይልህም"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "ፍረድኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:45:43.033403555Z",
+  "model": "glm-5.3"
+}

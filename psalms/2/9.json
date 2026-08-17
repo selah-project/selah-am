@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "በብረት በተደረገ መቅና ትሰብራቸዋለህ፤ እንደ የሸክላ ሰሪ ዕቃ ታፍንጭቸዋለህ።",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "ትሰብራቸዋለህ"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "በመቅና"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "በብረት በተደረገ"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "እንደ ዕቃ"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "የሸክላ ሰሪ"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "ታፍንጭቸዋለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:27:28.784858023Z",
+  "model": "glm-5.3"
+}

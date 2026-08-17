@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "proverbs 5:4",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "መጨረሻዋ ግን እንደ ኩራስ በራስ ናት፤ እንደ ባለ ሁለት ፊት ሰይፍ ቀላል ናት።",
+  "tokens": [
+    {
+      "surface": "ואחריתה",
+      "gloss": "መጨረሻዋ ግን"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "በራስ"
+    },
+    {
+      "surface": "כלענה",
+      "gloss": "እንደ ኩራስ"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "ቀላል"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "እንደ ሰይፍ"
+    },
+    {
+      "surface": "פיות",
+      "gloss": "ባለ ሁለት ፊት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:22:22.087904727Z",
+  "model": "glm-5.3"
+}

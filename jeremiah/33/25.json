@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 33:25",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "እንዲህ አለ ያህዌህ፦ የቀንና የሌሊት ቃል ኪዳኔ ባይኖር፣ የሰማያትና የምድርን ሥርዓቶች እኔ ካልደነግግ ኖሮ (ነው)።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ባ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ይኖር፣ ካል"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ቃል ኪዳኔ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "የቀን"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "እና የሌሊት"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "ሥርዓቶችን"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "የሰማያት"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "እና የምድር"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ካል"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "ደነግግ ኖሮ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:16:15.542614416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እና ያህዌህ ⟨את⟩ ሰውን ወደ ሩቅ ያስወጣል፣ እና የተተወችው ቦታ በምድር መሃል ብዙ ትሆናለች።",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "እና ያስወጣል ወደ ሩቅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰውን"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "እና ብዙ ትሆናለች"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "የተተወችው"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "በመሃል"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T07:01:01.487265792Z",
+  "model": "glm-5.3"
+}

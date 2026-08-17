@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ᓝና ⟨את⟩ ሥጋውን እና ⟨את⟩ ቆዳውን በእሳት ከሰፈሩ ውጭ አቃጠለ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሥጋውን"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ሥጋውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቆዳውን"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ቆዳውን"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "አቃጠለ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ውጭ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ከሰፈሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:47:02.820665937Z",
+  "model": "glm-5.3"
+}

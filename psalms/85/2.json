@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 85,
+  "translation": "ያህዌህ ምድርህን ተደሰቅህበታል፤ የያዕቆብን ምርኮ መልሰህዋለህ።",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "ተደሰቅህበታል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ምድርህን"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "መልሰህዋለህ"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ምርኮ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "የያዕቆብን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:57:59.594948949Z",
+  "model": "glm-5.3"
+}

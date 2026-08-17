@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 144,
+  "translation": "አፋቸው ውድስነትን የተናገረ ሲሆን ቀኝ እጃቸውም የውሸት ቀኝ እጅ ⟨ና።⟩",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "የ…ሆኑ፤ እነርሱ"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "አፋቸው"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ውድስነትን"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "እና ቀኝ እጃቸውም"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ቀኝ እጅ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "የውሸት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:00.491832590Z",
+  "model": "glm-5.3"
+}

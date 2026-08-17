@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ባዶ በሰሌዳዎች እርሱን ⟨את⟩ ታደርገዋለህ፤ በተራራውም ላይ እንደታየህ እንደዚያ ይሠራሉ።",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "ባዶ"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "በሰሌዳዎች"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ታደርገዋለህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን (መሠዊያውን)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "እንደታየህ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "አንተን"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "በተራራው"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚያ"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ይሠራሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:25:03.494885819Z",
+  "model": "glm-5.3"
+}

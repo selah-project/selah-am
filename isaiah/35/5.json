@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "በዚያን ጊዜ የዕውሮች ዓይኖች ይከፈታሉ፣ የደናማዎችም ጆሮዎች ይከፈታሉ።",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "በዚያን ጊዜ"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "ይከፈታሉ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኖች"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "የዕውሮች"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "የደናማዎችም ጆሮዎች"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "የደናማዎች"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "ይከፈታሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:58:50.574301585Z",
+  "model": "glm-5.3"
+}

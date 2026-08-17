@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 147,
+  "translation": "ቃሉን ይልካል፣ እነሆም ይቀልጣሉ፤ ነፋሱን ያነፍሳል፣ ውሃም ይፈሳል።",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ይልካል"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ቃሉን"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "ይቀልጣሉ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ያነፍሳል"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ነፋሱን"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "ይፈሳሉ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:12.810071184Z",
+  "model": "glm-5.3"
+}

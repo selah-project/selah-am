@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የጌርሶን ልጆችን ራስን ⟨את⟩ ተነሳ፣ እነርሱም፣ በአባቶቻቸው ቤት በቤተ ሰባቸው፤",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "ተነሳ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራስን"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆችን"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ጌርሶን"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እነርሱም"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እነሱ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "አባቶቻቸው"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "በቤተ ሰባቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T04:07:06.478609836Z",
+  "model": "glm-5.3"
+}

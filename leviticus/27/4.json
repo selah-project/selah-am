@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "እና ሴት ብትሆን ግመታህ ሰላሳ ሰቀል ይሁን።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እና ከሆነ"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሷ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "እና ይሁን"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ግመታህ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሰላሳ"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ሰቀል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:02:27.454811756Z",
+  "model": "glm-5.3"
+}

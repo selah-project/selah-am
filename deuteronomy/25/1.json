@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ከሰዎች መካከል ክርክር በሆነ ጊዜ ወደ ⟨ፍርዱ⟩ ቀርበው ሲፈሩ ጻድቁን ⟨את⟩ ይገብሩታል፣ ክፉውንም ⟨את⟩ ይከልከሉታል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በሆነ ጊዜ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ክርክር"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "ቀርበው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ፍርዱ"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "ሲፈሩ"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "ይገብሩታል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጻድቁን"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "ጻድቁን"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "ይከልከሉታል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክፉውን"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ክፉውን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:48:46.499110759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 50,
+  "translation": "የአሳፍ መዝሙር። ኤል፣ ኤሎሂም፣ ያህዌህ ተናገረ፤ ምድርንም ከፀሐይ የምትወጣበት እስከ ምትገባበት ድረስ ጠራት።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "የአሳፍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራትም"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ከፀሐይ የምትወጣበት"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ፀሐይ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "ምትገባበት ድረስ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:48.511924733Z",
+  "model": "glm-5.3"
+}

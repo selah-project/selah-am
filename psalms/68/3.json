@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "እንደ ጢስ ተነድቶ ይበተናል፤ እንደ ሰም ከእሳት ፊት ሲቀልጥ፣ ክፉዎች ከኤሎሂም ፊት ያልቃሉ።",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "እንደ ተነድቶ"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ጢስ"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "ይበተናል"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "እንደ ... ሲቀልጥ"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "ሰም"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከ ... ፊት"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ያልቃሉ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉዎች"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከ ... ፊት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:13.025115199Z",
+  "model": "glm-5.3"
+}

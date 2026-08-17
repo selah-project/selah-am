@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 87,
+  "translation": "ክቡራን ነገሮች በአንተ ይነገራሉ፤ የኤሎሂም ከተማ ሆይ፤ ሴላ።",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "ክቡራን ነገሮች"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ይነገራሉ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:31.002546261Z",
+  "model": "glm-5.3"
+}

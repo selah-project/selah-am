@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "numbers 12:11",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "አሃሮንም ሞሼን አለው፦ እባይህ ጌታዬ፤ እባክህ በሞኝንበትና በወደቅንበት ኃጢአት በእኛ ላይ አትቍጽረው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "እባይህ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጌታዬ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "አትቍጽረው"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "በእኛ ላይ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ኃጢአት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "በ…ንበት"
+    },
+    {
+      "surface": "נואלנו",
+      "gloss": "ሞኝን"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "እና በ…ንበት"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "ወደቅን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:13:45.142502976Z",
+  "model": "glm-5.3"
+}

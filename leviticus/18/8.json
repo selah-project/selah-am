@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "የአባትህን ሚስት ብርቃት አታጋልጥ፤ የአባትህ ብርቃት ⟨ናት⟩።",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "የ... ብርቃት"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሚስት"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "አባትህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት...ም"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ታጋልጣለህ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "የ... ብርቃት"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "አባትህ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ናት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:53:16.856028031Z",
+  "model": "glm-5.3"
+}

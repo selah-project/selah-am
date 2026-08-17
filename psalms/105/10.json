@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "እንደ ሕግ ለያዕቆብ አስቆሟት፤ ለእስራኤል የዘላለም ኪዳን አደረጋት።",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "አስቆሟት"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ለያዕቆብ"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "እንደ ሕግ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ለእስራኤል"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "የዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:03.639066451Z",
+  "model": "glm-5.3"
+}

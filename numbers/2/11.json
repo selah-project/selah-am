@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እና ሰራዊው እና የተቆጠሩት ስድስት እና አርባ አራት ሺህ እና አምስት መቶ ናቸው።",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "እና ሰራዊው"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "እና የተቆጠሩት"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ስድስት"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "እና አርባ አራት"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "እና አምስት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:05:05.745427700Z",
+  "model": "glm-5.3"
+}

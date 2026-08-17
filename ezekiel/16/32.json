@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "እነሆ እናት ሴት ሆይ፣ የምታመንጭ ሚስት ከባልሽ ይልቅ አጋሮችን ⟨את⟩ ታገኛለሽ!",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "ሴት ሆይ"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "የምታመንጭ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ከ…ይልቅ"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ባልሽ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ታገኛለሽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አጋሮችን"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "አጋሮችን"
+    }
+  ],
+  "timestamp": "2026-08-16T08:25:26.609844732Z",
+  "model": "glm-5.3"
+}

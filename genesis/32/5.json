@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "genesis 32:5",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "እንዲህ እያለ አዘዛቸው፤ ይህን በላዕሉ ለጌታዬ ለዔሳው በሉ፤ እንዲህ ይላል አገልጋይህ ያዕቆብ፤ ከላባን ጋራ እንገኛለሁ እና እስከ አሁን ዘገየሁ።",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "አዘዛቸው"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "እነሱን ⟨את⟩",
+      "marks": "ለማለት"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እያለ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ለጌታዬ"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "ለዔሳው"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "አገልጋይህ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋራ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ላባን"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "እንገኛለሁ (እንደ መጓዥ)"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "እና ዘገየሁ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "አሁን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:51:46.969999539Z",
+  "model": "glm-5.3"
+}

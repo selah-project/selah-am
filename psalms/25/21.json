@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ቅንነትና ትክክለኛነት ይጠብቁኝ፣ ምክንያቱም በአንተ ተስፋ አድርጌአለሁ።",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "ቅንነት"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ና ትክክለኛነት"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "ይጠብቁኝ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "קויתיך",
+      "gloss": "በአንተ ተስፋ አድርጌአለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:10.608113343Z",
+  "model": "glm-5.3"
+}

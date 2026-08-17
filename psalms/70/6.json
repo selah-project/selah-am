@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 70,
+  "translation": "እኔ ደግሞ ⟨ነኝ⟩ ድሆለች እና ድኻ፤ ኤሎሂም ሆይ፣ ለእኔ በቶሎ ና፤ ረዳትዬ እና አምልጪዬ ⟨አንተ⟩ ነህ፤ ያህዌህ ሆይ፣ አትዘግይ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ደግሞ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ድሆለች"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "እና ድኻ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "በቶሎ ና"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ረዳትዬ"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "እና አምልጪዬ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "ትዘግይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:10.316067681Z",
+  "model": "glm-5.3"
+}

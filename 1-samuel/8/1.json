@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ሶስትደረስ ሳምዌል ሲያረጅ ወንዶቹን ለእስራኤል ፈራጆች አደረጋቸው።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ሲያረጅ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "አወጣው\/ሲያረጅ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳምዌል"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "አደረጋቸው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንዶቹን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ወንዶቹን"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ፈራጆች"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ለእስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T05:33:45.789719705Z",
+  "model": "glm-5.3"
+}

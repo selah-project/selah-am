@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 142,
+  "translation": "ወደ ቀኝ እይተም፣ እና ተመልከት፤ አዋቂ የሌለኝ ነኝ፤ መሸሸጊያ ከእኔ ጠፍቷል፤ ለነፍሴ የሚሰማ የለም።",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "እይተም"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ወደ ቀኝ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "እና ተመልከት"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "አዋቂ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ጠፍቷል"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "መሸሸጊያ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "የሚሰማ"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ለነፍሴ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:26.270758523Z",
+  "model": "glm-5.3"
+}

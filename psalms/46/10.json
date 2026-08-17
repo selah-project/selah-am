@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 46,
+  "translation": "ጦርነቶችን እስከ ምድር ዳር ድረስ ያቆማል፤ ቀስትን ይሰብራል እና እስራተ እርምጃን ይቆርጣል፤ ሰረገሎችን በእሳት ያቃጥላል።",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "ያቆማል"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "ጦርነቶችን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ዳር"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ቀስትን"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ይሰብራል"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "እና ይቆርጣል"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "እስራተ እርምጃን"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "ሰረገሎችን"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ያቃጥላል"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:32.958119864Z",
+  "model": "glm-5.3"
+}

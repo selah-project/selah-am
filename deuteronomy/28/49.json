@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "deuteronomy 28:49",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ያህዌህ ከሩቅ ከምድር ጫፍ የሚያመጣብህ አሕዛብ በንስር እንደሚበርር ነው፤ ቋንቋውን የማታወቅ አሕዛብ ነው።",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "ያስነሳል\/ያመጣል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "በአንተ ላይ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ከሩቅ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ከጫፍ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "ידאה",
+      "gloss": "የሚበርር\/የሚዝለለ"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "ንስር"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ሰማውም"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "ቋንቋውን"
+    }
+  ],
+  "timestamp": "2026-08-16T19:26:21.587161146Z",
+  "model": "glm-5.3"
+}

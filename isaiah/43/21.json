@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "ይህ ሕዝብ ለራሴ ሠራሁት፤ ምስጋናዬን ይናገራሉ።",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "ሠራሁት"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለራሴ"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ምስጋናዬን"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ይናገራሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:21:26.569186481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "ጠላቶቹን ፊቱ ላይ አሸንፋቸዋለሁ፤ የሚጠሉትንም እመታቸዋለሁ።",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "አሸንፋቸዋለሁ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ፊቱ ላይ"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ጠላቶቹን"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "የሚጠሉትንም"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "እመታቸዋለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:18.032085683Z",
+  "model": "glm-5.3"
+}

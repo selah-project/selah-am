@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 85,
+  "translation": "ለመዝማሪው ለቆሬህ ልጆች መዝሙር።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመዝማሪው"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለልጆች"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "የቆሬህ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:57:59.593540315Z",
+  "model": "glm-5.3"
+}

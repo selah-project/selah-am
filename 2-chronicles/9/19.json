@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "2-chronicles 9:19",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "አሥራ ሁለትም አንበሳዎች በዚያ፣ በስድስቱ ደረጃዎች ላይ በዚህ እና በዚያ በኩል ቆሙ፤ በማንኛውም መንግሥት እንደዚህ አልተደረገም።",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥራ"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "አንበሳዎች"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ቆሙ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ስድስቱ"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ደረጃዎች"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "በዚህ በኩል"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "እና በዚያ በኩል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ተደረገ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "በማንኛውም"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "መንግሥት"
+    }
+  ],
+  "timestamp": "2026-08-16T13:38:29.680345781Z",
+  "model": "glm-5.3"
+}

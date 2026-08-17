@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "እኔ፣ እኔ ያህዌህ ነኝ፣ እና ከእኔ ውጭ አድካቂ የለም።",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ከእኔ ውጭ"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "አድካቂ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:20:18.617285268Z",
+  "model": "glm-5.3"
+}

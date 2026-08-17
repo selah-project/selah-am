@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "exodus 40:17",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "እንደ ሆነ በአንደኛው ወር በሁለተኛዋ በዓመት በአንደኛው ቀን ለወሩ የመገኛው ቤት ተቆማል።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እንደ ሆነ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "በወር"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "በአንደኛው"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "በዓመት"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "በሁለተኛዋ"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "በአንደኛው ቀን"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ለወሩ"
+    },
+    {
+      "surface": "הוקם",
+      "gloss": "ተቆማል"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "የመገኛው ቤት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:41:00.852874602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "በዓና የሑሴ ልጅ — በአሴር እና በዓሎት።",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "በዓና"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "ሑሴ"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "በአሴር"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "እና በዓሎት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:14:41.333092488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 108,
+  "translation": "ንቁ ኑዌል፣ እና ኪኖር፤ እነቃለሁ ንጋቱን።",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "ንቁ"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "ኑዌል፣"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "እና ኪኖር፤"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "እነቃለሁ"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ንጋቱን።"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:23.410971572Z",
+  "model": "glm-5.3"
+}

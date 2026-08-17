@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ከከንዶች የተገኘ ሀብት ይቀንሳል፤ በእጅ የሚሰብስብ ግን ያበዛል።",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ሀብት"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "ከከንዶች"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "ይቀንሳል"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "የሚሰብስብ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "እጅ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ያበዛል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:26:25.374516764Z",
+  "model": "glm-5.3"
+}

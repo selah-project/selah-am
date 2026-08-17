@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እሳት ሁልጊዜ በመሠዊያው ላይ ይቃጠላል፤ አይጠፋም።",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "ይቃጠላል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ይጠፋም"
+    }
+  ],
+  "timestamp": "2026-08-16T14:40:15.823631083Z",
+  "model": "glm-5.3"
+}

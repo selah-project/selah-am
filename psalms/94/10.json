@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 94,
+  "translation": "የሕዝቦችን የሚያስተምር አይወትርም? ለሰው ዕውቀትን የሚያስተምር አያውቅም?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "የሚያስተምር \/ የሚያጣርክ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ሕዝቦችን"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "አይሆንም"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "አይወትርም"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "የሚያስተምር"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ዕውቀትን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:35.613299856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "genesis 24:2",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "አብራሃምም ለአገልጋዩ ለቤቱ ሽማግሌ በእርሱ ያለው ሁሉ ላይ ለሚገዛው እንዲህ አለ፦ እባክህ እጅህን በጉልበቴ ስር አኑር።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብራሃምም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ለአገልጋዩ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ሽማግሌ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "የቤቱ"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "ለሚገዛው"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉ ላይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "שים",
+      "gloss": "አኑር"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህን"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ... ስር"
+    },
+    {
+      "surface": "ירכי",
+      "gloss": "በጉልበቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:42:49.948990504Z",
+  "model": "glm-5.3"
+}

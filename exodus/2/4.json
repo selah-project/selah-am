@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እህቱም ራቅ ብላ ቆማ፣ ለእርሱ ምን እንደሚደረግ ለመወቅ ነበር።",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "ቆማ ነበር"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "እህቱ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ራቅ ብላ"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "ለመወቅ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "እንደሚደረግ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:06:46.067299299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "የመቀባት ዘይትን ታንቀሳቅሳለህ፣ መንደሩን ⟨את⟩ እና በውስጡ ያለውን ⟨את⟩ ሁሉ ትቀብዳለህ፣ እሱን ⟨את⟩ እና በርኩቶቹን ⟨את⟩ ሁሉ ታቀድሳለህ፣ እና ቅዱስ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ታንቀሳቅሳለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የመቀባት ዘይትን"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘይት"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "የመቀባት"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ትቀብዳለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንደሩን"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "መንደሩን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚኖረው"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በውስጡ"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ታቀድሳለህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እሱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "በርኩቶቹ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:40:22.065273427Z",
+  "model": "glm-5.3"
+}

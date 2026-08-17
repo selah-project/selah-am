@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እንዲሁም ሞኝ በመንገድ ሲሄድ ልቡ ይቀንሳል፤ እና ለሁሉም «ሞኝ እርሱ ነው» ይላል።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "እንደ ሞኩ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ሲሄድ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ይቀንሳል\/ጎድሯል"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "እና ይላል"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ሞኝ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:17:39.273645290Z",
+  "model": "glm-5.3"
+}

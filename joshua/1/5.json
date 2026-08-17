@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 1:5",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ሰው ሁሉ በሕይወት ቀኖችህ ሁሉ ወደ ፊትህ አይቆማም፤ ከሞሼ ጋር እንደ ነበርሁ፣ ከአንተ ጋር እንደ ሆንሁ፤ አልጥልህም አልተወህም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይም"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "ይቆማል"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ወደ ፊትህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀኖች"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "የሕይወትህ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ነበርሁ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ... ጋር"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ሆንሁ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ארפך",
+      "gloss": "ጥልህም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "ተወህም"
+    }
+  ],
+  "timestamp": "2026-08-16T19:25:49.927836160Z",
+  "model": "glm-5.3"
+}

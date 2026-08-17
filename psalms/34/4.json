@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ያህዌህን ⟨את⟩ ከእኔ ጋር ውደቁት፤ እና ስሙን አንድነት እናንሰቅሰው።",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "ውደቁት\/አክብሩት"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ከእኔ ጋር"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "እናንሰቅሰው"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "አንድነት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:53.865879017Z",
+  "model": "glm-5.3"
+}

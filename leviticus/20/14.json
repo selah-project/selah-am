@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እና አንድ ሰው ⟨את⟩ ሴትን እና ⟨את⟩ እናቷንም የሚወስድ ይህ ዝሙት ⟨ነው⟩፤ በእሳት ⟨את⟩ እርሱን እና ⟨את⟩ እነርሱንም ያቃጥላሉ፤ ዝሙትም በመካከላችሁ አይኑር።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "እና አንድ ሰው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "የሚወስድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሴትን"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "እናቷንም"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "እናቷ"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ዝሙት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "ያቃጥላሉ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "እና ⟨את⟩",
+      "marks": "እነርሱንም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ኋል\/ይኑር"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ዝሙት"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "በመካከላችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:58:23.005770929Z",
+  "model": "glm-5.3"
+}

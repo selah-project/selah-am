@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እና በምጽርያም ምድር ሁሉ ውስጥ ታላቅ ጮክታ ትኖራለች፤ እንደ እርሷ የነበረች የለችም፣ እንደ እርሷም አይታከልም።",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ትኖራለች"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "ጮክታ"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉ ውስጥ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "የምጽርያም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለችው"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "እንደ እርሷ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "ነበረችም"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "እንደ እርሷም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ታከልም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:11:59.769345473Z",
+  "model": "glm-5.3"
+}

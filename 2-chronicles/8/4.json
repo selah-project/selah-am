@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "በምድረ በዳ ታድሞርን ⟨את⟩ ሠራ፣ እና በሐማት የሠራቸውን የመኝታ ከተሞች ሁሉን ⟨את⟩ ሠራ።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታድሞርን"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "ታድሞርን"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በምድረ በዳ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የመኝታ ከተሞች ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "የ…ከተሞች"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "የመኝታ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሠራቸውን"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "በሐማት"
+    }
+  ],
+  "timestamp": "2026-08-16T13:35:26.145841727Z",
+  "model": "glm-5.3"
+}

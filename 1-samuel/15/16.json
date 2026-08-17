@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "1-samuel 15:16",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ሳሙኤልም ወደ ሳኦል እንዲህ አለ፦ ቁም፤ ያህዌህ በዚህ ምሽት ወደ እኔ የተናገረውን ⟨את⟩ ነገር ልንገርህ እኩራለሁ። እርሱም ለሳሙኤል እንዲህ አለው፦ ተናገር።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "ቁም"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "እነግርሃለሁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የተናገረውንን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ውን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "በዚህ ምሽት"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገር"
+    }
+  ],
+  "timestamp": "2026-08-16T05:42:25.899897597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የርሱን መከር ራበተኛው በላው፤ ከአረሾችም መካከል ይወሰዳል፤ ጠማተኞችም ሀብታቸውን ያጠጣሉ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "መከሩን"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ራበተኛው"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "በላው"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ከ"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "አረሾች"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "ይወሰዳል"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "እና ያጥመዋል"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "ጠማተኞች"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ሀብታቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:42:55.920857756Z",
+  "model": "glm-5.3"
+}

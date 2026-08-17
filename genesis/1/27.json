@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ኤሎሂምም ⟨את⟩ ሰውን በመልኩ ፈጠረ፤ በኤሎሂም መልክ ⟨את⟩ እርሱን ፈጠረ፤ ወንድና ሴት ⟨את⟩ እነርሱን ፈጠረ።",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "ፈጠረም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰውን"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰውን"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "በመልኩ"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "በመልክ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ፈጠረ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ወንድ"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ሴትም"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ፈጠረ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:20.070737045Z",
+  "model": "glm-5.3"
+}

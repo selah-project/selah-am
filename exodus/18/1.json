@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "የምድያም ካህን የሞሼ አገርተ ይጽሮ ያህዌህ እስራኤልን ⟨את⟩ ከግብፅ እንዳወጣ ስለዚህ ኤሎሂም ለሞሼና ለሕዝቡ ለእስራኤል ያደረገውን ⟨את⟩ ሁሉ በሰማ ጊዜ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "በሰማ ጊዜ"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "ይጽሮ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "የምድያም"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "አገርተ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "የሞሼ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያደረገውን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ያደረገ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ለሞሼ"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "ለእስራኤልም"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ለሕዝቡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "እንዳወጣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ከግብፅ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:19:13.381714393Z",
+  "model": "glm-5.3"
+}

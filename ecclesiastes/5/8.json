@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የምድርም ትርፍ ለሁሉም ⟨ነው⟩፤ ንጉሡም ለሚታረስ ሥርሽ ያገለግላል።",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "ትርፍም"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ናት"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "ሥርሽ"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "የታረሰ\/ያገለግላል"
+    }
+  ],
+  "timestamp": "2026-08-16T11:15:54.558126098Z",
+  "model": "glm-5.3"
+}

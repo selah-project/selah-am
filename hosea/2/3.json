@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ለወንድሞቻችሁ «የሕዝቤ» እና ለእህቶቻችሁ «የተዋረደች» በሉ።",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "ለወንድሞቻችሁ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "የሕዝቤ"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "እና ለእህቶቻችሁ"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "የተዋረደች"
+    }
+  ],
+  "timestamp": "2026-08-16T08:55:43.507484356Z",
+  "model": "glm-5.3"
+}

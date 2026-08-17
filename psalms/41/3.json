@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "ያህዌህ ይጠብቀዋል፤ አስነሳሳው፤ በምድር ላይ ያረጋጋዋል፤ በጠላቶቹ ሕይወት አታሳልለውም።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "ይጠብቀዋል፤"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "አስነሳሳው፤"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "ያረጋጋዋል"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር ላይ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "አታሳልለውም፤"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "አታሳልለው"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "በሕይወት"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ጠላቶቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:34.983355471Z",
+  "model": "glm-5.3"
+}

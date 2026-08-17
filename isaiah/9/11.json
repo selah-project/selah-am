@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "አራም ከምሥራቅ እና ፍልስጤም ከምዕራብ ⟨את⟩ እስራኤልን በሙሉ አፍ በሉ፤ በሁሉም በዚህ ቍጣው አልተመለሰም፤ እና እጁ ገና ተዘርግታ ናት።",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "አራም"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ከምሥራቅ"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "እና ፍልስጤም"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "ከምዕራብ"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "አፍ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉም"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "በዚህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ቍጣው"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "እና ገና"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁ"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ተዘርግታ ናት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:02:09.351648288Z",
+  "model": "glm-5.3"
+}

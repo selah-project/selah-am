@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "የተፈወሰ ልብ ሥጋን ሕይወት ይሰጣል፤ የአጥንት መበስበስ ግን ቅናት ⟨ናት⟩።",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "ሕይወት"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "ሥጋን"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "የተፈወሰ"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "መበስበስ"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "የአጥንት"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ቅናት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:27:49.939416890Z",
+  "model": "glm-5.3"
+}

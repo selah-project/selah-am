@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ለምጽርያምም ራስ ወይም ጅራት፣ የዘመን ዛፍ ቅጠል ወይም የጽንፈ-ጫካ ሽንኵር የሚሠራት ሥራ የሚኖረው አይሆንም።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "እና…አይሆንም"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "የሚኖረው"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "ለምጽርያም"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "የሚሠራት"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "ወይም ጅራት"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "የዘመን ዛፍ ቅጠል"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "ወይም የጽንፈ-ጫካ ሽንኵር"
+    }
+  ],
+  "timestamp": "2026-08-16T07:06:44.508548922Z",
+  "model": "glm-5.3"
+}

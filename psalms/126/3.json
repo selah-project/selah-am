@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 126,
+  "translation": "ያህዌህ ከእኛ ጋር ታላቅ ነገር አደረገ፤ እኛ ደስተኞች ⟨ነበርን⟩።",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "ታላቅ አደረገ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ነገር ለማድረግ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ከእኛ ጋር"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ነበርን"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "ደስተኞች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:54.460888610Z",
+  "model": "glm-5.3"
+}

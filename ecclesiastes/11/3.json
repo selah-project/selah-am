@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ደመናዎች በዝናብ ቢሞሉ፣ በምድር ላይ ያፈሳሉ፤ ዛፍ በደቡብ ቢወድቅ፣ ወይም በሰሜን — ዛፉ በወደቀበት ስፍራ እዚያ ⟨ይኖራል⟩።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ\/ቢ"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "ቢሞሉ"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "ደመናዎች"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "በዝናብ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "ያፈሳሉ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ወይም ቢ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ቢወድቅ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ዛፍ"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "በደቡብ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "በሰሜን"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ስፍራ"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "በወደቀበት"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ዛፉ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "⟨ይኖራል⟩"
+    }
+  ],
+  "timestamp": "2026-08-16T11:17:51.361517606Z",
+  "model": "glm-5.3"
+}

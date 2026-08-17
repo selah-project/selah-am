@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ሥጋህንም ⟨את⟩ በተራሮች ላይ እኖራለሁ፤ ሸለሎችንም በአካል ክምሮችህ እሞላቸዋለሁ።",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "እኖራለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሥጋህን"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "ሥጋህን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ተራሮች"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "እሞላቸዋለሁ"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "ሸለሎችን"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "አካል ክምሮችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:42:45.456773141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ዳዊትም ወደ ዮአብ ላከ፦ ⟨את⟩ ኡርያን ኬጤዩን ወደ እኔ ላክልኝ፤ ዮአብም ⟨את⟩ ኡርያን ወደ ዳዊት ላከ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ላክልኝ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኡርያን"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ኡርያን"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ኬጤዩን"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ላከም"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኡርያን"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ኡርያን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:01:11.602326667Z",
+  "model": "glm-5.3"
+}

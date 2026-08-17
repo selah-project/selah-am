@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "leviticus 13:6",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ካህኑም ⟨את⟩ በሰባተኛው ቀን ሁለተኛ ይመለከተዋል፤ እነሆ ነጠብጣቡ ደብዝቧል፣ ነጠብጣቡ በቆዳው አልተስፋፋም፤ ካህኑ ያነጻዋል፤ ወፍር ናት፤ ልብሶቹንም ይታጠባል እና ይነጻል።",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ይመለከተዋል"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ሰባተኛው"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ሁለተኛ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "ደብዝቧል"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ነጠብጣቡ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "ተስፋፋ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ነጠብጣቡ"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "በቆዳው"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "ያነጻዋል"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "מספחת",
+      "gloss": "ወፍር"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ናት"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "ይታጠባል"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ልብሶቹን"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ይነጻል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:50:42.898117619Z",
+  "model": "glm-5.3"
+}

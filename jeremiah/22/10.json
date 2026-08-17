@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "jeremiah 22:10",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ለሞተው አትልቅሱ እና ለእርሱ አትናዱ፤ አልቅሱ፣ አልቅሱ እንጂ ለሚሄደው፤ ክፍይ ደግሞ አይመለስም እና ⟨את⟩ የተወለዱበትን ምድር አያይም።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "አትልቅሱ"
+    },
+    {
+      "surface": "למת",
+      "gloss": "ለሞተው"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תנדו",
+      "gloss": "አትናዱ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "አልቅሱ"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "አልቅሱ"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "ለሚሄደው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ክፍይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ይመለስ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ያይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድር"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "የተወለዱበት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:51:47.256875299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እኔም አነገርኋችሁ፤ ነገር ግን አትሰሙም፤ የያህዌህን ⟨את⟩ አንደበት አመፃችሁ፤ ኩራትም ቆራረላችሁ፣ ወደ ተራራውም ወጣችሁ።",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "አነገርኋችሁ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "እናንተን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አትሰሙም"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "አትሰሙም"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "አመፃችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አንደበት"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አንደበት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህን"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "ኩራትም ቆራረላችሁ"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "ወጣችሁ"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "ወደ ተራራው"
+    }
+  ],
+  "timestamp": "2026-08-16T04:32:13.120311688Z",
+  "model": "glm-5.3"
+}

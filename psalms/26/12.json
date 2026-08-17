@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እግሬ በቀጥተኛ ሥፍራ ቆም ብታለች፣ በስብሰባዎች ያህዌህን እባርካለሁ።",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "እግሬ"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "ቆም ብታለች"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "በቀጥተኛ ሥፍራ"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "በስብሰባዎች"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "እባርካለሁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:32.220454670Z",
+  "model": "glm-5.3"
+}

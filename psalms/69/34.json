@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "ምክንያቱም ያህዌህ ወደ ድሆች ይሰማል፤ ⟨את⟩ እስረኞቹንም አልናቀም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ይሰማል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ድሆች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እስረኞቹን"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "እስረኞቹን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አልፈትሽም"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "አልናቀም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:14.488160166Z",
+  "model": "glm-5.3"
+}

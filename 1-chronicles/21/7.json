@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "እና ይህ ቃል በኤሎሂም ፊት ክፉ ነበር፤ እናም ⟨את⟩ እስራኤልን መታ።",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "እና ክፉ ነበር"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "በፊት (በዐይን)"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃሉ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "እናም መታ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    }
+  ],
+  "timestamp": "2026-08-16T13:05:19.952733646Z",
+  "model": "glm-5.3"
+}

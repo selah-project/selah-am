@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ያህዌህ ለማድነኝ ፈቅድልኝ፤ ያህዌህ ለእርዳቴ በቶይ።",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "ፈቅድልኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "ለማድነኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ለእርዳቴ"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "በቶይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:57.302040341Z",
+  "model": "glm-5.3"
+}

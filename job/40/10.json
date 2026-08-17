@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ኩርነትንና ቁመትን አሁን አጅብ፣ እና ክብርንና ቅጽልን ታጅባለህ።",
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "አጅብ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ አሁን"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ኩርነትን"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "እና ቁመትን"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "እና ክብርን"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "እና ቅጽልን"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "ታጅባለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:00:45.477729206Z",
+  "model": "glm-5.3"
+}

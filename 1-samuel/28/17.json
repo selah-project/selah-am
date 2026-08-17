@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "1-samuel 28:17",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ያህዌህ ልክ እንደተናገረው በእጄ ላይ ለእርሱ አደረገው፤ ያህዌህም ⟨את⟩ ⟨በ⟩መንግሥት ከእጅህ ቈረጠ፤ ለባልንጀራህም ለዳዊት ሰጣት።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ልክ እንደ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረው"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "በእጄ ላይ"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ቈረጠ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንግሥትን"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "መንግሥትን"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ከእጅህ"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ሰጣት"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "ለባልንጀራህ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:52:14.998186358Z",
+  "model": "glm-5.3"
+}

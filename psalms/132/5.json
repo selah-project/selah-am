@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 132,
+  "translation": "ያህዌህ ለሚያዝዝ ስፍራ እስኪያገኝ ድረስ፣ ለያዕቆብ አብር ለሚያዝዙ መኖሪያዎች እስኪያገኝ ድረስ።",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "እስኪያገኝ ድረስ"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "እያገኘሁ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ስፍራ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "መኖሪያዎች"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "ለአብር"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:16.537930798Z",
+  "model": "glm-5.3"
+}

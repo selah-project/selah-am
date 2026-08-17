@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "2-chronicles 6:6",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ነገር ግን ስሜ እንዲሆን በዚያ በኢየሩሳሌም ላይ መረኩ፤ በእስራኤል ሕዝቤ ላይ እንዲሆንም በዳዊት ላይ መረኩ።",
+  "tokens": [
+    {
+      "surface": "ואבחר",
+      "gloss": "መረኩ ግን"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "በኢየሩሳሌም ላይ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "እንዲሆን"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ስሜ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "ואבחר",
+      "gloss": "መረኩም"
+    },
+    {
+      "surface": "בדויד",
+      "gloss": "በዳዊት ላይ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "እንዲሆን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T13:27:54.169925818Z",
+  "model": "glm-5.3"
+}

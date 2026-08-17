@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ያህዌህ ሆይ፣ ሰላም ስለ እኛ ታዘጋጃልህ፤ ምክንያቱም እንዲሁም ሥራችንን ሁሉ ስለ እኛ ሠርተሃል።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ ሆይ"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "ታዘጋጃልህ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ስለ እኛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "ሥራችንን"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ሠርተሃል"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ስለ እኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:09:44.783476267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 135,
+  "translation": "እኔ አውቄያለሁ፤ ያህዌህ ታላቅ እንደሆነ፣ አዶናይም ከሁሉም ኤሎሂም በላይ እንደሆነ አውቄያለሁ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "አውቄያለሁ፤"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደሆነ፣"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "አዶናይም"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:10.368954178Z",
+  "model": "glm-5.3"
+}

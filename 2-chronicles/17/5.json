@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "2-chronicles 17:5",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ያህዌህ ⟨את⟩ ⟨በ⟩እርሱ በእጁ መንግሥቱን አጸና፤ ይሁዳ ሁሉ ለይሆሳፋጥ መባ ሰጠ፤ ለእርሱም ብዙ ሀብትና ክብር ሆነ።",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "አጸና"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንግሥቱን"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "መንግሥቱን"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "በእጁ"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ሰጡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "መባ"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "ለይሆሳፋጥ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ሀብት"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "እና ክብር"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "በብዛት"
+    }
+  ],
+  "timestamp": "2026-08-16T13:50:14.638007236Z",
+  "model": "glm-5.3"
+}

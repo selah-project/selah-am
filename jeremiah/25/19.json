@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "የግብፅ ንጉሥ ፈርዖንን ⟨את⟩፣ አገልጋዮቹን ወደ በኩል ⟨את⟩፣ መኳንንቱን ወደ በኩል ⟨את⟩፣ ሕዝቡን ሁሉ ወደ በኩል ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፈርዖንን"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖንን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፅ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ወደ በኩል ⟨את⟩",
+      "marks": "አገልጋዮቹን"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "አገልጋዮቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ወደ በኩል ⟨את⟩",
+      "marks": "መኳንንቱን"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "መኳንንቱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ወደ በኩል ⟨את⟩",
+      "marks": "ሕዝቡን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:55:21.081390462Z",
+  "model": "glm-5.3"
+}

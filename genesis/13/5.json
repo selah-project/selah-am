@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እና ለሎጥም ከአብራሃም ጋር ለሚሄደው ⟨את⟩ በዓለም ላይ አሳቂ እንስሳት፣ ከብት እና ድንኳኖች ነበሩት።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "እና…ም"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "ለሎጥ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ለሚሄደው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከአብራሃም ጋር"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "አብራሃም"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበሩት"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "አሳቂ እንስሳት"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "እና ከብት"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "እና ድንኳኖች"
+    }
+  ],
+  "timestamp": "2026-08-16T02:36:42.880886330Z",
+  "model": "glm-5.3"
+}

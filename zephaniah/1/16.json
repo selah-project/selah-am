@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የቀን፡ የመለከትና የውጊያ ድምጽ ቀን፤ በየተከለሉት ከተሞች፡ እና በከፍታ ማዕዘኖች ላይ።",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "የ…ቀን"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "የመለከት"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "ና የውጊያ ድምጽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ከተሞች"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "የተከለሉት"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ…ላይ"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "ማዕዘኖች"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "ከፍታ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:17:34.162804980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የሚጥም ልጅ ምላስ በድርቀት ወደ አፍ ጣሪያው ተጣብቋል፤ ሕፃናት እንጀራ ጠየቁ፣ አካፋይ ግን የለላቸውም።",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "ተጣብቋል"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ምላስ"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "የሚጥም ልጅ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "አፍ ጣሪያው"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "በድርቀት"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "ሕፃናት"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "ጠየቁ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እንጀራ"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "አካፋይ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:10:55.318799983Z",
+  "model": "glm-5.3"
+}

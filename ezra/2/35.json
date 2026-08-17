@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የሰናአ ልጆች ሦስት ሺህ እና ስድስት መቶ ሠላሳ።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "ሰናአ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "እና ስድስት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "እና ሠላሳ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:50:15.526014201Z",
+  "model": "glm-5.3"
+}

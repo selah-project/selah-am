@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ከቀናት በኋላም ሆነ፤ የዓሞን ወንዶች ከእስራኤል ጋር ተዋጉ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነም"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "ከቀናት በኋላ"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ተዋጉም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ወንዶች"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ዓሞን"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T05:24:06.053809549Z",
+  "model": "glm-5.3"
+}

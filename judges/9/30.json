@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "የከተማዋ አለቃ ዘቡል የጋዓል የዑቤድ ልጅ ቃላትን ⟨את⟩ ሰማ፣ እና ቁጭቱ ተነደደ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "እና ሰማ"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "ዘቡል"
+    },
+    {
+      "surface": "שר",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "የከተማዋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላትን"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላትን"
+    },
+    {
+      "surface": "געל",
+      "gloss": "የጋዓል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ዑቤድ"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "እና ተነደደ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ቁጭቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:22:33.958964524Z",
+  "model": "glm-5.3"
+}

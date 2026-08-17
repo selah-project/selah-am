@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "1-samuel 15:28",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ሳሙኤል እንዲህ አለው፣ ያህዌህ የእስራኤልን መንግሥት ⟨את⟩ ዛሬ ከአንተ ቈረሳት፣ እና ከአንተ ለተሻለው ለጎረቤትህ ሰጣት።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "እንዲህ ለእርሱ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "ቈረሳት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንግሥት"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "መንግሥትን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤልን"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "ከአንተ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ሰጣት"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "ለጎረቤትህ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ለተሻለው"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ከአንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:39:57.246353375Z",
+  "model": "glm-5.3"
+}

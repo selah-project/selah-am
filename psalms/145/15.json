@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 145,
+  "translation": "የሁሉም ዓይኖች ወደ አንተ ይጠብቃሉ፤ እና አንተ በሰውአቸው ጊዜ ⟨את⟩ ምግባቸውን ታሰጣቸዋለህ።",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኖች"
+    },
+    {
+      "surface": "כל",
+      "gloss": "የሁሉም"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ይጠብቃሉ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "እና አንተ"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "ታሰጣቸዋለህ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "በሰውአቸው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምግባቸውን"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ምግባቸውን"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "በሰውአቸው ጊዜ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:43.721133542Z",
+  "model": "glm-5.3"
+}

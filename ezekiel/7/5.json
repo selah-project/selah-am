@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እንዲህ አለ አዶናይ ያህዌህ፦ ክፉ አንድ የሆነ ክፉ እነሆ ቀርቧለች።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "አንድ የሆነ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ቀርቧለች"
+    }
+  ],
+  "timestamp": "2026-08-16T08:20:06.245847536Z",
+  "model": "glm-5.3"
+}

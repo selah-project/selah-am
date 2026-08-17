@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ነገር ግን በድምፇ ለመስማት አልፈለገም፤ ከእርሷም በብርታቱ አሸነፋት እና አሳዘናት፣ ከእርሷም ⟨את⟩ ጋር ተኛባት።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ነገር ግን አል"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ፈለገም"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ለመስማት"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "በድምፇ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "በብርታቱ አሸነፋት"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ከእርሷም"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "አሳዘናት"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "ተኛባት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እርሷን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:00:35.201216556Z",
+  "model": "glm-5.3"
+}

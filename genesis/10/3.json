@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የገመር ልጆችም — አሽክናዝ፣ ሪፋትና ቶጋርማህ።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "እና ልጆች"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ገመር"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "አሽክናዝ"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "እና ሪፋት"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "እና ቶጋርማህ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:33:15.035937054Z",
+  "model": "glm-5.3"
+}

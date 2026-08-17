@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "እንዲህ ይደረጋል ለአንዱ በሬ ወይም ለአንዱ አውራ በግ ወይም ለበግ በበግችው ወይም በፍየሎቹ።",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ይደረጋል"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "ለበሬ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ለአንዱ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "ለአውራ በግ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ለአንዱ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "ለበግ"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "በበግችው"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "በፍየሎቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:15:59.737775327Z",
+  "model": "glm-5.3"
+}

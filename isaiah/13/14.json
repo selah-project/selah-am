@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "isaiah 13:14",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እንደ የተባረረ እንስሳ እና እንደ መንጋ የሚሰብስብ የሌለው ይሆናል፤ እያንዳንዱ ሰው ወደ ሕዝቡ ይመለሳል እና እያንዳንዱ ወደ ምድሩ ያመልጣል።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "እንደ እንስሳ"
+    },
+    {
+      "surface": "מדח",
+      "gloss": "የተባረረ"
+    },
+    {
+      "surface": "וכצאן",
+      "gloss": "እና እንደ መንጋ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና የሌለ"
+    },
+    {
+      "surface": "מקבץ",
+      "gloss": "የሚሰብስብ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው\/እያንዳንዱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "יפנו",
+      "gloss": "ይመለሳል"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "እና እያንዳንዱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ምድሩ"
+    },
+    {
+      "surface": "ינוסו",
+      "gloss": "ያመልጣል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:03:34.485429799Z",
+  "model": "glm-5.3"
+}

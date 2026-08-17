@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ለያህዌህ ⟨ናት⟩ መድኃኒት፤ በሕዝብህ ላይ ቡረካህ ትኖራለች። ሴላ።",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "መድኃኒት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ሕዝብህ"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "ቡረካህ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:26:43.472559039Z",
+  "model": "glm-5.3"
+}

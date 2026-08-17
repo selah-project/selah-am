@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ኤልሳዕም እንዲህ አለው፦ «ሂድ፤ ታነሳለህ በለው»፤ ነገር ግን ያህዌህ አሳየኝ — በእርግጥ ይሞታል።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "እለው"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ኤልሳዕ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨አል⟩"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "እንቅረት"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ታነሳለህ"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "አሳየኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "מות",
+      "gloss": "በእርግጥ መሞት"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ይሞታል"
+    }
+  ],
+  "timestamp": "2026-08-16T19:50:33.864521752Z",
+  "model": "glm-5.3"
+}

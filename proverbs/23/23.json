@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "እውነትን ግዛ፤ እና አትሽገውም፤ ጥበብን፣ እና ተገሠጻን፣ እና መረዳትን።",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "እውነትን"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ግዛ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "ሽገውም"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብን"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "እና ተገሠጻን"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "እና መረዳትን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:33:05.700082541Z",
+  "model": "glm-5.3"
+}

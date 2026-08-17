@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 10:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እና በፍርድ ቀን ምን ታደርጋላችሁ? እና ለመጥፋት ከሩቅ በመጣ ጊዜ? ለመርዳት ወደ ማን ትሸሻላችሁ እና ክብራችሁን ወዴት ትተዋላችሁ?",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "እና ምን"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ታደርጋላችሁ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "በ…ቀን"
+    },
+    {
+      "surface": "פקדה",
+      "gloss": "ፍርድ"
+    },
+    {
+      "surface": "ולשואה",
+      "gloss": "እና ለመጥፋት"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "ከሩቅ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "በመጣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "תנוסו",
+      "gloss": "ትሸሻላችሁ"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "ለመርዳት"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "እና ወዴት"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "ትተዋላችሁ"
+    },
+    {
+      "surface": "כבודכם",
+      "gloss": "ክብራችሁን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:04:01.999469403Z",
+  "model": "glm-5.3"
+}

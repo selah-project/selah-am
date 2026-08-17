@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "የቅዱሱን ሥፍራ ውጫዊ በር ወደ ምሥራቅ የሚመለከተውን ⟨את⟩ኝ በመንገዱ መለሰኝ፤ እርሱም ዝግ ነበር።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "መለሰኝ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ኝ",
+      "marks": "እኔ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "በመንገዱ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "በር"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "የቅዱሱ ሥፍራ"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "ውጫዊ"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "የሚመለከት"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ወደ ምሥራቅ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "እርሱም"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "ዝግ ነበር"
+    }
+  ],
+  "timestamp": "2026-08-16T08:53:28.442514204Z",
+  "model": "glm-5.3"
+}

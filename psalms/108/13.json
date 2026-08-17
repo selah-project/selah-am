@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 108,
+  "translation": "ከባድ ጭንቀት እርዳታ ስጠን፤ የሰው መዳን ውድ ነው።",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "ስጠን"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "እርዳታ"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ከባድ ጭንቀት"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "እና ውድ"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "መዳን"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "የሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:46.644523249Z",
+  "model": "glm-5.3"
+}

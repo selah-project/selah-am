@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "2-kings 19:7",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እነሆ በእርሱ ውስጥ መንፈስ እሰጣለሁ፤ ወሬ ይሰማል፤ ወደ ምድሩ ይመለሳል፤ በምድሩም በሰይፍ እወርድበታለሁ።",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "እሰጣለሁ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በ…ውስጥ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ይሰማል"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "ወሬ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ይመለሳል"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "ወደ ምድሩ"
+    },
+    {
+      "surface": "והפלתיו",
+      "gloss": "እወርድበታለሁ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "በሰይፍ"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "በምድሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:51:35.301995233Z",
+  "model": "glm-5.3"
+}

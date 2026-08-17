@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "hosea 11:7",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሕዝቤ በመመለሴ ላይ ተንጠልጥለዋል፤ እና ወደ ልዑሉ ይጠሩታል፤ አብረውም አያነሱትም።",
+  "tokens": [
+    {
+      "surface": "ועמי",
+      "gloss": "እና ሕዝቤ"
+    },
+    {
+      "surface": "תלואים",
+      "gloss": "ተንጠልጥለዋል"
+    },
+    {
+      "surface": "למשובתי",
+      "gloss": "በመመለሴ ላይ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ልዑሉ"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "ይጠሩታል"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "አብረው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "ירומם",
+      "gloss": "አያነሱትም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:01:22.592909663Z",
+  "model": "glm-5.3"
+}

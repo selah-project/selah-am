@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 58,
+  "translation": "ጻድቁ ደስ ይላል በርቂ ሲያይ፤ እርምጃዎቹን በክፉው በደም ያጠባል።",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ደስ ይላል"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ሲያይ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ሲያይ"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "በርቂ"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "እርምጃዎቹን"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "ያጠባል"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "በደም"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ክፉው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:18.946410723Z",
+  "model": "glm-5.3"
+}

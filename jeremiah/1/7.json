@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "jeremiah 1:7",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ያህዌህም አለኝ ወጣት ነኝ ብለህ አትበል፤ ምክንያቱም ወደምልክህበት ሁሉ ትሄዳለህ፤ ⟨את⟩ የምዘዝህንም ሁሉ ትናገራለህ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "አለኝ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ብለህ ብለህ በል"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ወጣት"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ነኝ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምልክህበት"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "ወደ ምልክህ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ትሄዳለህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የምዘዝህን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምዘዝህን"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "የምዘዝህ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ትናገራለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:35:03.047528433Z",
+  "model": "glm-5.3"
+}

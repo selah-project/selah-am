@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 34:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ጮኹ፤ ያህዌህም ሰማ፤ ከሁሉም ችግሮቻቸውም አዳናቸው።",
+  "tokens": [
+    {
+      "surface": "צעקו",
+      "gloss": "ጮኹ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ከሁሉም"
+    },
+    {
+      "surface": "צרותם",
+      "gloss": "ችግሮቻቸው"
+    },
+    {
+      "surface": "הצילם",
+      "gloss": "አዳናቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:37:58.059347751Z",
+  "model": "glm-5.3"
+}

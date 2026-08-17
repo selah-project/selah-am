@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የኤልቃና ልጆችም አማሳይ እና አሂሞት ናቸው።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ልጆችም"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ኤልቃና"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "አማሳይ"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "እና አሂሞት"
+    }
+  ],
+  "timestamp": "2026-08-16T12:38:50.044453737Z",
+  "model": "glm-5.3"
+}

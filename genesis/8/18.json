@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ኖኅም ወጣ፤ ወንዶቹም፣ ሚስቱም እና የወንዶቹ ሚሶችም ከእርሱ ⟨את⟩ ጋር።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጣም"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖኅ"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ወንዶቹም"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ሚስቱም"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ሚሶችም"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "የወንዶቹ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ጋር",
+      "marks": "ከእርሱ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T02:33:41.056263281Z",
+  "model": "glm-5.3"
+}

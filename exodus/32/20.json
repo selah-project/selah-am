@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ያደረጉትን ⟨את⟩ ጡት ወሰደ፤ በእሳት አቃጠለው፤ እስኪፈጠጥ ድረስ አፈጨው፤ በውኃው ገጽ ላይም አነጨው፤ እስራኤልንም ⟨את⟩ ልጆች አጠጣ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጡቱን"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "ጡቱን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ያደረጉት"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "አቃጠለው"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "አፈጨው"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ድረስ"
+    },
+    {
+      "surface": "דק",
+      "gloss": "ፈጠጠ\/ተፈጠ"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "አነጨው"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውኃው"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "አጠጣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእስራኤል ልጆችን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:33:40.853110852Z",
+  "model": "glm-5.3"
+}

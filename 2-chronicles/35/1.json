@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 35:1",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "ዮአሺያሁም በኢየሩሳሌም ለያህዌህ ፋሲካ አደረገ፤ ፋሲካውም በመጀመሪያው ወር በአሥራ አራተኛው ቀን ተዘረጋ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ዮአሺያሁም"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "በኢየሩሳሌም"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ፋሲካ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "ተዘረጋም"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ፋሲካውን"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "በአሥራ አራት"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ለወር"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "በመጀመሪያው"
+    }
+  ],
+  "timestamp": "2026-08-16T19:02:29.444120905Z",
+  "model": "glm-5.3"
+}

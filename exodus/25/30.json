@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "በሰደሑ ላይ የፊት እንጀራ በፊቴ ሁልጊዜ ታስቀምጣለህ።",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ታስቀምጣለህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ሰደሑን"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እንጀራ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "የፊት"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊቴ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:26:55.013272866Z",
+  "model": "glm-5.3"
+}

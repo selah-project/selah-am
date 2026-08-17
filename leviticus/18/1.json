@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "leviticus 18:1",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ያህዌህ ሞሼን ተናገረ እንዲህ ሲል ላዩ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ላዩ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:53:57.626047809Z",
+  "model": "glm-5.3"
+}

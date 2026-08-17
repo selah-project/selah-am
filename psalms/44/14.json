@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "አሳፈርከን ነው ለጎረቤቶቻችን፣ ለአካባቢያችንም መሳቅና ውቃት አድርገኸናል።",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "አድርገኸናል"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "አሳፈርከን ነው"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "ለጎረቤቶቻችን"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "መሳቅ"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "ውቃት"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "ለአካባቢያችን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:11.352846170Z",
+  "model": "glm-5.3"
+}

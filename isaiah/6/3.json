@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እና አንዱ ወደ ሌላው ጮክ ብሎ ጮኸ፤ ቅዱስ ቅዱስ ቅዱስ ያህዌህ ወቅዱሳን አስተዳዳሪ ስሙ፤ ሙላቱ ሙሉ ምድር ክብሩ ነው።",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "እና…ጮኸ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "አንዱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ሌላው"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ወቅዱሳን አስተዳዳሪ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ሙላቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሙሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ክብሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:01:29.336065050Z",
+  "model": "glm-5.3"
+}

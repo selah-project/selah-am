@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "isaiah 21:2",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ከባድ ራዕይ ተነገረልኝ፤ አሳማታው ያሳምታል፣ አጥፊም ያጠፋል። ውጣ ኤላም፤ ከብበህ ሜዲያ፤ ሙሉ ማውዛውዛን አቆምሁ።",
+  "tokens": [
+    {
+      "surface": "חזות",
+      "gloss": "ራዕይ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ከባድ"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "ተነገረ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ልኝ"
+    },
+    {
+      "surface": "הבוגד",
+      "gloss": "አሳማታው"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "ያሳምታል"
+    },
+    {
+      "surface": "והשודד",
+      "gloss": "አጥፊም"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "ያጠፋል"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ውጣ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ኤላም"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ከብበህ"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ሜዲያ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሙሉ"
+    },
+    {
+      "surface": "אנחתה",
+      "gloss": "ማውዛውዛን"
+    },
+    {
+      "surface": "השבתי",
+      "gloss": "አቆምሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:07:42.290515761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "jeremiah 39:15",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "ኤርምያስም በጠብቂው እርንጎሽ ውስጥ ሳለ ታስሮ፣ የያህዌህ ቃል ወደ እርሱ ሆኖ ነበር፤ በማለት፦",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ኤርምያስም"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ሆኖ ነበር"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል የ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בהיתו",
+      "gloss": "ሳለ በ… የሆነ ጊዜ"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "ታስሮ"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "በ… እርንጎሽ ውስጥ"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "ጠብቂው"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "በማለት፦"
+    }
+  ],
+  "timestamp": "2026-08-16T08:05:46.091831578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "genesis 2:5",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የመስክ ቁጥቋጦ ሁሉ ከዚያ በፊት በምድር ላይ አልነበረም፣ የመስክ ሣርም ሁሉ ከዚያ በፊት አልበቀለም፤ ምክንያቱም ያህዌህ ኤሎሂም በምድር ላይ ዝናብ አላዘነበም፣ እና ሰውም ⟨את⟩ ⟨የ⟩ ምድሩን ለማልማት የለም።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "ቁጥቋጦ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "የመስክ"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ከዚያ በፊት"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "አልነበረም"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር ላይ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ሣር"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "የመስክ"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ከዚያ በፊት"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "አልበቀለም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "ዝናብ ዘረጋ \/ ዝናብ አዘነበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "እና ሰው"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ለማልማት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሩን"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድሩን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:17.632850224Z",
+  "model": "glm-5.3"
+}

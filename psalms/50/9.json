@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 50,
+  "translation": "በሬን ከቤትህ አልወስድም፤ አውራ ፍየሎችንም ከክልሌዎችህ አልወስድም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "እወስዳለሁ"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "ከቤትህ"
+    },
+    {
+      "surface": "פר",
+      "gloss": "በሬ"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "ከክልሌዎችህ"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "አውራ ፍየሎች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:51.724446235Z",
+  "model": "glm-5.3"
+}

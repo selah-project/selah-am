@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 34:16",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ሻፋንም ⟨את⟩ መጽሐፉን ወደ ንጉሡ አመጣ፤ ደግሞም ለንጉሡ ቃል በመመለስ እንዲህ ሲል አለ፦ በአንተ አገልጋዮች እጅ የተሰጠው ሁሉ እያደረጉ ነው።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "አመጣ"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "ሻፋን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መጽሐፉን"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "መጽሐፉን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "በመመለስ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደግሞም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ለንጉሡ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የተሰጠው"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "የተሰጠ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጅ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "በአንተ አገልጋዮች"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እነርሱ"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "እያደረጉ ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T20:48:50.403892273Z",
+  "model": "glm-5.3"
+}

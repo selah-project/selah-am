@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እኔ ግን ትልቅ ትል ነኝ፣ ሰውም አይደለሁም፤ የሰው ስድብ፣ የሕዝብም ንቀት ነኝ።",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ትልቅ ትል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "...ም አይደለሁም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ስድብ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "የሰው"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "ንቀት"
+    },
+    {
+      "surface": "עם",
+      "gloss": "የሕዝብ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:20.292325532Z",
+  "model": "glm-5.3"
+}

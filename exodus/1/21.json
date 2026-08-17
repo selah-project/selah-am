@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ሆነም፣ ምክንያቱም አዋላቂዎቹ ኤሎሂምን ⟨את⟩ ሲያደክሩ፣ ⟨ርሱ⟩ ለእነርሱ ቤቶችን ሠራላቸው።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ሲያደክሩ"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "አዋላቂዎቹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂምን"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂምን"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ሠራላቸው"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነርሱ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ቤቶችን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:04:32.901560909Z",
+  "model": "glm-5.3"
+}

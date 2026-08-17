@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እንዲሁም በእነሱ አገልጋይህ ይጠነቀቃል፤ በመጠበቃቸውም ትልቅ ሽልማት አለ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "አገልጋይህ"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "ይጠነቀቃል"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "በእነሱ"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "በመጠበቃቸው"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "…ሽልማት\/ውጤት"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ትልቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:07.341771850Z",
+  "model": "glm-5.3"
+}

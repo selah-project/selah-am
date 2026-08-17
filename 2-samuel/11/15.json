@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "በደብዳቤውም እንዲህ ሲል ጻፈ፦ ኡርያምን ⟨את⟩ ወደ ኃይለኛው የውጊያ ፊት አስቀምጡ፤ ከኋላውም ተመለሱ፤ ይመታልና ይሞታል።",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ጻፈ"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "በደብዳቤው"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "አስቀምጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኡርያምን"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ኡርያም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ኅብር"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "የውጊያው"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "ኃይለኛው"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "ተመለሱ"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "ከኋላው"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "ይመታል"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ይሞታል"
+    }
+  ],
+  "timestamp": "2026-08-16T05:59:28.607810659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "leviticus 4:9",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እንዲሁም ⟨את⟩ ሁለቱን ኩላሊቶች እና ⟨את⟩ ስብን በእነርሱ ላይ ያለውን በወገብ ላይ ያለውን፣ እንዲሁም ⟨את⟩ ከኩላሊቶች ጋር በጉበት ላይ ያለውን ተከላኪሉን ያስወግዳል።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁለቱን ኩላሊቶች"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ሁለቱን"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ኩላሊቶች"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስብን"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ስብን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለውን"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "በእነርሱ ላይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "ወገብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ተከላኪሉን"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ተከላኪሉን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ጉበት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "ኩላሊቶች"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ያስወግዳል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:44:25.507963965Z",
+  "model": "glm-5.3"
+}

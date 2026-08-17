@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "አቢሜሌክም ወደ ቴቤስ ሄደ፤ በቴቤስም ሰፈረ፤ አሸነፋትም።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "አቢሜሌክም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "ቴቤስ"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "ሰፈረ"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "በቴቤስም"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "አሸነፋትም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:20:42.498687231Z",
+  "model": "glm-5.3"
+}

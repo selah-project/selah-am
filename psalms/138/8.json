@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 138,
+  "translation": "ያህዌህ ስለ እኔ ያጠናቅቃል፤ ያህዌህ ሆይ፣ ቸርነትህ ለዘላለም ነው፤ የእጆችህ ሥራዎችን አትተው።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "ያጠናቅቃል"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ስለ እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ ሆይ፣"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ቸርነትህ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "…ሥራዎችን"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "የእጆችህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "…ተው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:38.358984731Z",
+  "model": "glm-5.3"
+}

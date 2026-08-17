@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 18:18",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ዳዊትም ሳዖልን እንዲህ አለው፤ እኔ ማን ነኝ፣ ሕይወቴስ ማን ናት፣ ወይስ የአባቴ ቤተ ሰብ በእስራኤል — የንጉሡ ባል ሆኜ የምኖርበት ነገር ነው?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳዖል"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ማንም"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ሕይወቴ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ቤተ ሰብ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "የአባቴ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "በእስራኤል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ሆኜ"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ባል"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "የንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:49:59.004282898Z",
+  "model": "glm-5.3"
+}

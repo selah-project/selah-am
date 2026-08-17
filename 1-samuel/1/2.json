@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እና ⟨ለርሱ⟩ ሁለት ሚስቶች ነበሩት፤ የአንዲቷ ስም ሐና የሁለተኛዋም ስም ፕኒና ነበር፤ እና ⟨ነበረ⟩ ለፕኒና ልጆች ለሐና ግን ልጆች ⟨አልነበሩም⟩።",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "እና ⟨ለርሱ⟩"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ሚስቶች"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "አንዷ"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "ሐና"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "የ…ስምም"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ሁለተኛዋ"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "ፕኒና"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "እና ⟨ነበረ⟩"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "ለፕኒና"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "ለሐና ግን"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨አል…ነበሩም⟩"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "ልጆች"
+    }
+  ],
+  "timestamp": "2026-08-16T05:31:32.731756760Z",
+  "model": "glm-5.3"
+}

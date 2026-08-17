@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "እና አሁን ተመለስ በሰላም ሂድ፣ እንዲሁም የፍልስጤም ሱራኖች በዓይኖች ውስጥ መጥፎ ነገር አታድርግ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "እና አሁን"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ተመለስ"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "በሰላም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንዲሁም ... አታድርግ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "መጥፎ ነገር"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "በዓይኖች ውስጥ"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "ሱራኖች"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "የፍልስጤም"
+    }
+  ],
+  "timestamp": "2026-08-16T19:42:49.164429498Z",
+  "model": "glm-5.3"
+}

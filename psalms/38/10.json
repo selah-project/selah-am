@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "አዶናይ፣ ሙሉ ፍላጎቴ በፊትህ ⟨ነው⟩፤ እና ማልቀሴ ከአንተ ዘንድ አልተሰወረም።",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "በፊትህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሙሉ"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "ፍላጎቴ"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "እና ማልቀሴ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ከአንተ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "ተሰውሯል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:07.591240159Z",
+  "model": "glm-5.3"
+}

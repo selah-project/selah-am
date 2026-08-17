@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "numbers 7:1",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እንዲሆን በዚያ ቀን ሞሼ ማደሪያውን ሲያቆም ሲጨርስ ነበር፤ እርሱን ቀብቶ ቀድሶ፣ እንዲሁም ⟨את⟩ ሁሉንም ዕቃዎቹን እና ⟨את⟩ ⟨the⟩ መሠዊያውን እና ⟨את⟩ ሁሉንም ዕቃዎቹን ቀብቶ ቀድሷቸው ነበር።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እንዲሆን"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በዚያ ቀን"
+    },
+    {
+      "surface": "כלות",
+      "gloss": "ሲጨርስ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "ማደሪያውን ለማቆም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማደሪያውን"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ማደሪያውን"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "ቀብቶ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ቀድሶ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉንም ዕቃዎቹን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉንም"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ዕቃዎቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መሠዊያውን"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉንም ዕቃዎቹን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉንም"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ዕቃዎቹን"
+    },
+    {
+      "surface": "וימשחם",
+      "gloss": "ቀብቶ"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ቀድሶ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:07:58.899971001Z",
+  "model": "glm-5.3"
+}

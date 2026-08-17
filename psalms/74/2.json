@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 74:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 74,
+  "translation": "ማኅበርህን አስታውስ፤ ጥንት ካንደው፣ የውርስህን ነገድ አዳንክ፤ በዚህ በጽዮን ተራራ ⟨እንደሆነው⟩ ኖርክ።",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "አስታውስ"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "ማኅበርህን"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "ካንደው"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ጥንት"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "አዳንክ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ነገድ"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "የውርስህን"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "שכנת",
+      "gloss": "ኖርክ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:48.769576686Z",
+  "model": "glm-5.3"
+}

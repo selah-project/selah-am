@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "isaiah 8:9",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "አሕዙብ ሆይ ተነሡ፣ ተሰባበሩ፤ የሩቅ ምድር ሁሉ ስሙ፤ ታጠቡ፣ ተሰባበሩ፤ ታጠቡ፣ ተሰባበሩ።",
+  "tokens": [
+    {
+      "surface": "רעו",
+      "gloss": "ተነሡ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "አሕዙብ"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "ተሰባበሩ"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מרחקי",
+      "gloss": "የሩቅ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "התאזרו",
+      "gloss": "ታጠቡ"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "ተሰባበሩ"
+    },
+    {
+      "surface": "התאזרו",
+      "gloss": "ታጠቡ"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "ተሰባበሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:00:17.233984635Z",
+  "model": "glm-5.3"
+}

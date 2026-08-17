@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "genesis 28:18",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ያዕቆብም ማለዳ በጠዋት ተነሳ፣ በራሱ ራስ ሥር ያኖረውን ⟨את⟩ ⟨ያንን⟩ ድንጋይ ወሰደ፣ እና እርሱን ⟨את⟩ ሐውልት አድርጎ አቆመው፣ በላዩም ላይ ዘይት አፈሰ።",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ማለዳ ተነሳ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብም"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "በጠዋት"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያንን ድንጋይ"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ድንጋይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ያኖረ"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "በራሱ ራስ ሥር"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "አድርጎ አቆመው"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ሐውልት እርሱን"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ሐውልት"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "አፈሰ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘይት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላዩ ላይ"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "ላዩ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:47:59.234713437Z",
+  "model": "glm-5.3"
+}

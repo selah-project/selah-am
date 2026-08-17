@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እነዚህም የጌርሶም ልጆች ስም ናቸው ሊብኒ እና ሺሜይ።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እነዚህም"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ጌርሶም"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ሊብኒ"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "እና ሺሜይ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:39:04.037490172Z",
+  "model": "glm-5.3"
+}

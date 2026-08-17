@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "ለኤሎሂም ኃይል ስጡ፤ በእስራኤል ላይ ክብሩ ነው፤ ኃይሉም በደመናዎች ውስጥ ነው።",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "ስጡ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ኃይል"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ለኤሎሂም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "ክብሩ"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "ኃይሉም"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "በደመናዎች ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:16.039527233Z",
+  "model": "glm-5.3"
+}

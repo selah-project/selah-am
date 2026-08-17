@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "2-samuel 5:1",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የእስራኤል ነገዶች ሁሉ ወደ ዳዊት ወደ ኬብሮን መጡ፣ እንዲህም አሉ፤ እነሆ አጥንትህም ሥጋህም ⟨እኛ⟩ ⟨ነን⟩።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ነገዶች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "ኬብሮን"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "አሉ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "አጥንትህ"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "ሥጋህም"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "እኛ ነን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:57:15.265402380Z",
+  "model": "glm-5.3"
+}

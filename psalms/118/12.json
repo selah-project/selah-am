@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 118,
+  "translation": "እንደ ንቦች አከበቡኝ፤ እንደ ሽንኩርት እሳት ጠፉ፤ በያህዌህ ስም እውን እቀጥፋቸዋለሁ።",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "አከበቡኝ"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "እንደ ንቦች"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "ጠፉ"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "እንደ እሳት"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "ሽንኩርት"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "በ…ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "እቀጥፋቸዋለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:35.422289335Z",
+  "model": "glm-5.3"
+}

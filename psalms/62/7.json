@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 62,
+  "translation": "እርሱ ብቻ ዐለቴ እና መድኃኒቴ ⟨ነው⟩፤ መጠለያዬም ከፍ ያለ — አልንቀጠቀጥም።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ዐለቴ"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "እና መድኃኒቴ"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "መጠለያዬም ከፍ ያለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ንቀጠቀጥም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:10.727707736Z",
+  "model": "glm-5.3"
+}

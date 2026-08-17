@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 139,
+  "translation": "እና ለእኔ ምን ዋጋ አላቸው ሐሳብዎችህ ኤል! ምን ብዙ ናቸው ድምራቸው!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "እና ለእኔ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "ውድ ናቸው"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "ሐሳብዎችህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "በላይ አድርጓቸዋል"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "ድምራቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:24.007613939Z",
+  "model": "glm-5.3"
+}

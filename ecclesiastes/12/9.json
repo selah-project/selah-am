@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "ecclesiastes 12:9",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "እንዲያውም ቆሄሌት ጥበበኛ ስለነበረ፣ ወደ መጨረሻው ሕዝብን ⟨את⟩ እውቀት አስተማረ፤ ሲሰማም ሆነ ሲመረምርም ብዙ ምሳሌዎችን አዘጋጀ።",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "እንዲያውም"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ስለነበረ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ቆሄሌት"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ጥበበኛ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ወደ መጨረሻው"
+    },
+    {
+      "surface": "למד",
+      "gloss": "አስተማረ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "እውቀት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝብን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝብን"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "ሲሰማ"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "ሲመረምር"
+    },
+    {
+      "surface": "תקן",
+      "gloss": "አዘጋጀ"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "ምሳሌዎችን"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ብዙ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:18:36.591814245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እንደዚህም እነሆ ያህዌህ የሰጠኝን ⟨את⟩ የአድማሱን ፍሬ በኩር አመጣሁ፤ በያህዌህ በአንተ ኤሎሂም ፊት ታስቀምጠዋለህ፤ በያህዌህ በአንተ ኤሎሂም ፊትም ታምልማለህ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "እንደዚህም"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "አመጣሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የአድማሱ ፍሬ በኩር"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "በኩር"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ፍሬ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "የ⟨the⟩ አድማስ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሰጠኝን"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ሰጠህ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "ታስቀምጠዋለህ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "የአንተ ኤሎሂም"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "ታምልማለህ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "የአንተ ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:50:25.770624413Z",
+  "model": "glm-5.3"
+}

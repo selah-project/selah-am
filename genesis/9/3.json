@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "የሚንቀሳቀስ ነገር ሁሉ የሕያው ሆኖ ለእናንተ ምግብ ይሁናል፤ እንደ አረንጓዴ ሣር ⟨את⟩ ሁሉን ሰጠሁላችሁ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "የሚንቀሳቀስ ነገር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ… ሆኖ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለእናንተ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሁናል"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "ምግብ"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "እንደ አረንጓዴ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ሣር"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ሰጠሁ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ላችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:33:27.670373010Z",
+  "model": "glm-5.3"
+}

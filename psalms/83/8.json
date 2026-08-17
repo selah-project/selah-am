@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 83,
+  "translation": "ገብልና ዓሞን፣ ዓማሌቅም፣ ፍልስጤም ከጾር ነዋሪዎች ጋር፤",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "ገብል"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "ዓሞን፣"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "ዓማሌቅም፣"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "ፍልስጤም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋር፤ ከ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ነዋሪዎች"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ጾር"
+    }
+  ],
+  "timestamp": "2026-08-16T18:11:58.884888193Z",
+  "model": "glm-5.3"
+}

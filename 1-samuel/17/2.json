@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-samuel 17:2",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ሳኦልም እና የእስራኤል ሰዎች ተሰበሰቡ፤ በኤላ ሸለቆ ተሰፈሩ፤ ፍልስጤሞችን ለመገናኘት ውግያ አዘጋጁ።",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "ሳኦልም"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "እና የ…ሰዎች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "ተሰበሰቡ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ተሰፈሩ"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "በሸለቆ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ኤላ"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "አዘጋጁ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ውግያ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ለመገናኘት"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤሞችን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:42:21.472980056Z",
+  "model": "glm-5.3"
+}

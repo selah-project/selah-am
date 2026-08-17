@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የእስራኤል ልጆችም ሄዱ እና አደረጉ፤ ያህዌህ ሞሼንን ⟨את⟩ እና አሃሮንን እንደ አዘዛቸው እንዲሁ አደረጉ።",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ሄዱ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "እና አደረጉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዛቸው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሼንን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼንን"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "እና አሃሮንን"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲሁ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "አደረጉ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:15:21.223361577Z",
+  "model": "glm-5.3"
+}

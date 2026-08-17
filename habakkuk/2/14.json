@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ምክንያቱም ምድር ⟨את⟩ የያህዌህን ክብር ለማወቅ ትሞላለች፤ እንደ ውኃዎቹ ባሕርን እንደሚሸፍኑ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ትሞላለች"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ለማወቅ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የያህዌህን ክብር"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "እንደ ውኃዎቹ"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "ይሸፍናሉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕር"
+    }
+  ],
+  "timestamp": "2026-08-16T18:08:02.989700625Z",
+  "model": "glm-5.3"
+}

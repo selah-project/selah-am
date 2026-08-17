@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ከእርሱም ጋር ፍጹም ነበርሁ፤ ከኃጢኤቴም ራሴን ጠበቅሁ።",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ነበርሁም"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ፍጹም"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "ጠበቅሁም"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "ከኃጢኤቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:51.244328109Z",
+  "model": "glm-5.3"
+}

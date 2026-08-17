@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ከእነዚህ የሞላ ነፋስ ለእኔ ይመጣል፤ አሁን እኔም ፍርዶችን ⟨את⟩ያኳቸው እናገራለሁ።",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ነፋስ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "የሞላ"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ከእነዚህ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ይመጣል"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እኔም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "እናገራለሁ"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "ፍርዶችን"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ያኳቸው",
+      "marks": "ፍርዶችን (በእነርሱ ላይ)"
+    }
+  ],
+  "timestamp": "2026-08-16T07:37:16.238527087Z",
+  "model": "glm-5.3"
+}

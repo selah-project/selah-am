@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 4:10",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "በሕረብ ለያህዌህ ኤሎሂምህ ፊት የቆምክበትን ቀን አስታውስ፤ ያህዌህ «ሕዝቡን ⟨את⟩ ስለኝ አሰብስብ፣ ቃላቼንም ⟨את⟩ እሰማቸዋለሁ፤ ⟨את⟩ኝ ለመፍራት በምድር ላይ ሕያው በሆኑበት በዕለት ሁሉ ይማሩ፣ ልጆቻቸውንም ⟨את⟩ ያስተምራሉ።» ብሎ ሲናገረኝ።",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ...በት"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ቆምክ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምህ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "በሕረብ"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "ሲል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "አለኝ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "አሰብስብ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ስለኝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "ואשמעם",
+      "gloss": "እሰማቸዋለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላቼን"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላቼን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ...በት"
+    },
+    {
+      "surface": "ילמדון",
+      "gloss": "ይማሩ"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "ለመፍራት"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ኝ",
+      "marks": "እኔን (ያህዌህን)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "በዕለት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ...በት"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እነርሱ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ልጆቻቸውን"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ልጆቻቸውን"
+    },
+    {
+      "surface": "ילמדון",
+      "gloss": "ያስተምራሉ"
+    }
+  ],
+  "timestamp": "2026-08-17T08:29:47.007512596Z",
+  "model": "glm-5.3"
+}

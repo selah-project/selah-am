@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "⟨את⟩ ዐዋጆችህን እጠብቃለሁ፤ አትተወኝ እስከ መጨረሻው!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዐዋጆችህን"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ዐዋጆችህን"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "እጠብቃለሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ተወኝ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "መጨረሻው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:22.222127099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "የአሞራውያንን ድንበር በሙሉ ⟨את⟩ ወረሱ — ከአርኖን እስከ ያቦቅ እና ከምድረ በዳ እስከ ዮርዳኖስ።",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "ወረሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድንበር በሙሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ድንበር"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "የአሞራውያን"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "ከአርኖን"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "ያቦቅ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ምድረ በዳ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:23:43.873218378Z",
+  "model": "glm-5.3"
+}

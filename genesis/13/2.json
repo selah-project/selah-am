@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "አብራሃምም በእንስሳት፣ በብርና በወርቅ በጣም ባለጸግ ⟨ነበረ⟩።",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "አብራሃምም"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ባለጸግ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "በእንስሳት"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "በብር"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "እና በወርቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:35:49.787335615Z",
+  "model": "glm-5.3"
+}

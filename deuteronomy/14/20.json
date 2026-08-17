@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ማንኛውም የተፀደቀ ወፍ ትብላላችኋል።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ማንኛውም"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ወፍ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "የተፀደቀ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ትብላላችኋል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:41:00.332319019Z",
+  "model": "glm-5.3"
+}

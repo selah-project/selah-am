@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 21:4",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "አክአብም ዐዋላጅና በጋር ሆኖ ወደ ቤቱ ገባ፣ የይስራኤላዊው የናቦት በእርሱ ዘንድ ባለው ቃል ምክንያት፤ «የአባቶቼን ርስት ⟨את⟩ አልሰጥህም» ብሎ ባለው፤ በመኝቱም ተኝቶ ፊቱን ⟨את⟩ መለሰ፣ አንድም ዳቦ አልበላም።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ገባ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "አክአብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ዐዋላጅ"
+    },
+    {
+      "surface": "וזעף",
+      "gloss": "በጋር ሆኖ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ምክንያት"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "በቃሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የተናገረው"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "በእርሱ ዘንድ"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "የናቦት"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "የይስራኤላዊው"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ብሎ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ሰጥህም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ልአንተ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የአባቶቼን ርስት"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "የርስት"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "የአባቶቼ"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "ተኝቶ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "መኝቱ"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "መለሰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊቱን"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል… አል"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "በላ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:32:14.937990352Z",
+  "model": "glm-5.3"
+}

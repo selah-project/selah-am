@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 72,
+  "translation": "የዳዊት ጸሎቶች እነዚህ ሁሉ አለቀሱ፤ የይሴይ ልጅ ነው።",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "አለቀሱ፤"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "ጸሎቶች"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "የዳዊት"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "የይሴይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:59.315740966Z",
+  "model": "glm-5.3"
+}

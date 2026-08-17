@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "እናም ⟨את⟩ ጣፋጮቹን ምግብ እና ⟨את⟩ እንጀራዋን ያዘጋጀችውን በልጇ በያዕቆብ እጅ አስራች።",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "አስራች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጣፋጮቹን ምግብ"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "ጣፋጮቹን ምግብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "እንጀራዋን"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "እንጀራዋን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያዘጋጀችውን"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ያዘጋጀች"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጅ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ልጇ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:46:43.057498996Z",
+  "model": "glm-5.3"
+}

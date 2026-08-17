@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የናዕሚ ባል ኤልሜሌክም ሞተ፤ እርሷም ከሁለቱ ወንድ ልጆቿ ጋር ቀረች።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተም"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "ኤልሜሌክ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ባል"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "ናዕሚ"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "ቀረችም"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እርሷም"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ከሁለቱ"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ወንድ ልጆቿ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:08:20.405375147Z",
+  "model": "glm-5.3"
+}

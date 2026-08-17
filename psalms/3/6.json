@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እኔ ተኝቼ አንቀላፋለሁ፤ አስነሥቻለሁ፤ ውጤቱም ያህዌህ ይደግፈኛልና።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "ተኝቼ"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "አንቀላፋለሁ"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "አስነሥቻለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ፤ እንጂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "ይደግፈኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:28:42.730968128Z",
+  "model": "glm-5.3"
+}

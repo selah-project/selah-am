@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "የወንጀለኛ ሰው መንገድ ተመቅጠቅጦ የራቀ ነው፤ እና የንጹሁ ሰው ሥራ ቀጥተኛ ነው።",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "ተመቅጠቅጦ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "የራቀ"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "እና የንጹሁ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ቀጥተኛ"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ሥራው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:31:19.587184457Z",
+  "model": "glm-5.3"
+}

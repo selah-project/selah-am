@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "ወንዞችን ምድረ በዳ ያደርጋል፣ የውሃ ምንጮችንም ደረቅ ምድር ያደርጋል።",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "ያደርጋል"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ወንዞችን"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "ምድረ በዳ"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "ምንጮችንም"
+    },
+    {
+      "surface": "מים",
+      "gloss": "የውሃ"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "ደረቅ ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:43.595160440Z",
+  "model": "glm-5.3"
+}

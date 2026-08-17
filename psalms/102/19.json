@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 102,
+  "translation": "ይህ ለመጪው ትውልድ ይጻፋል፤ የሚፈጠርም ሕዝብ ያንን ያህን ያመሰግናል።",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "ይጻፋል"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ለትውልድ"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "መጪው"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ሕዝብም"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "የሚፈጠር"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "ያመሰግናል"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:57.397290201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "አድን አንተ ያህዌህ፤ እነሆ ጨርሶ ተጠፋፈው ቅዱሱ፤ ከሰዎች ልጆች መካከል እውነተኞች አልቀሩም።",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "አድን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ጨርሶ ተጠፋፈው"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ቅዱሱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ስለዚህ"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "አልቀሩም"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "እውነተኞች"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ከ…ልጆች"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:43.707747038Z",
+  "model": "glm-5.3"
+}

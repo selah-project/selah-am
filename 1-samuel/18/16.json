@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "እስራኤልም ሁሉ እና ይሁዳ ⟨את⟩ ዳዊትን ይወዱ ነበር፤ በሚያመለክተው ሰዓት ሁሉ እርሱ በእነርሱ ፊት ይወጣ እና ይገባ ነበርና።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "እና ይሁዳ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ይወዱ ነበር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊትን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በ...ነበርና"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "ይወጣ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "እና ይገባ"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "በእነርሱ ፊት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:43:31.847562553Z",
+  "model": "glm-5.3"
+}

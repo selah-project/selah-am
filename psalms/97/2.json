@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 97,
+  "translation": "ደመና እና ጸለምታ በአካባቢው ናቸው፤ ጽድቅ እና ፍርድ የዙፋኑ መሠረት ናቸው።",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "ደመና"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "እና ጸለምታ"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "በአካባቢው"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቅ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "እና ፍርድ"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "መሠረት"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "የዙፋኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:07.127239558Z",
+  "model": "glm-5.3"
+}

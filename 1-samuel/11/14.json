@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "1-samuel 11:14",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሳሙኤልም ለሕዝቡ አለ፦ ኑ፤ እኛም ወደ ጌልገል እንሂድ፤ ንጉሥነቱንም እዚያ እንታደስ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለሕዝቡ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ለሕዝቡ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ኑ፤"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "እንሂድ"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ጌልገል"
+    },
+    {
+      "surface": "ונחדש",
+      "gloss": "እንታደስ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ንጉሥነቱንም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:36:09.504161392Z",
+  "model": "glm-5.3"
+}

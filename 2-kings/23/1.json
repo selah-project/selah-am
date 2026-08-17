@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ንጉሡም ላከ፤ የይሁዳና የየሩሳሌም አረጋዊያን ሁሉ ወደ እርሱም ተሰበሰቡ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ተሰበሰቡ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "አረጋዊያን"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "የይሁዳ"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "እና የየሩሳሌም"
+    }
+  ],
+  "timestamp": "2026-08-16T19:52:11.908970537Z",
+  "model": "glm-5.3"
+}

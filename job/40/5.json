@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "አንድ ጊዜ ተናግራለሁ እና አልመልስም፤ ሁለት ጊዜም እና አልጨምርም።",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "አንድ ጊዜ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ተናግራለሁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "መልስም"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ሁለት ጊዜም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ጨምርም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:59:54.083954394Z",
+  "model": "glm-5.3"
+}

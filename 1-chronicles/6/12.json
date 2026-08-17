@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "1-chronicles 6:12",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ኤልያብ ልጁ ነው፤ ይሮኅም ልጁ ነው፤ ኤልቃና ልጁ ነው።",
+  "tokens": [
+    {
+      "surface": "אליאב",
+      "gloss": "ኤልያብ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ይሮኅም"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ኤልቃና"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:38:50.044773021Z",
+  "model": "glm-5.3"
+}

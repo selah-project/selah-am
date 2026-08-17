@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ለፈርዖንም ታላቸዋለህ፦ ያህዌህ እንዲህ ይላል፦ እስራኤል የእኔ ልጅ፣ የእኔ በኵር ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ትላለህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የእኔ ልጅ"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "የእኔ በኵር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:08:44.069783677Z",
+  "model": "glm-5.3"
+}

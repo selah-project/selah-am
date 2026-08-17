@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 116,
+  "translation": "ፍንጭ ነፍሴን ከሞት አዳንህ፣ ⟨את⟩ ዓይኖቼን ከእንባ፣ ⟨את⟩ እግሮቼንም ከመወድቀት።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ፍንጭ"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "አዳንህ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ከሞት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓይኖቼን"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኖቼን"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "እንባ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እግሮቼን"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "እግሮቼን"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "ከመወድቀት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:39.804932204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 137,
+  "translation": "ባቢሎን ልጅ ሆይ የተዘፈየችህፈች ሆይ፣ የሚከፍልህ ብፁን ነው — ⟨את⟩ ያከለኸንን እንደ ከለንህ መልሶ ላንቺ።",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "ልጅ ሆይ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ባቢሎን"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "የተዘፈየችህፈች ሆይ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ብፁን ነው"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "የሚከፍልህ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ላንቺ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያከለኸንን መልሶ"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "ያከለኸንን መልሶ"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "እንደ ከለንህ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:03.478031806Z",
+  "model": "glm-5.3"
+}

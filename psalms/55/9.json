@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 55,
+  "translation": "ማምለጫ ለራሴ እሽራለሁ፣ ከኃይለኛ ነፋስ፣ ከሞገድ ነፋስ።",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "እሽራለሁ"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "ማምለጫ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለራሴ"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "ከነፋስ"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "አውዥም የሚያደርግ"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "ከሞገድ ነፋስ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:17.545201463Z",
+  "model": "glm-5.3"
+}

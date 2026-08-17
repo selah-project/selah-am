@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "በነፍስህ አነፍነፍህ፤ ባሕሩ ከነሱን ከአወረደ፤ እንደ እርግብ በኃያላን ውኃዎች ውስጥ ጠልቀው ዋሉ።",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "አነፍነፍህ"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "በነፍስህ"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "ከነሱን ከአወረደ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕሩ"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "ጠልቀው ዋሉ"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "እንደ እርግብ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "በውኃዎች ውስጥ"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "በኃያላን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:14:11.882678589Z",
+  "model": "glm-5.3"
+}

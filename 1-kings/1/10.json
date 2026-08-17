@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ነገር ግን ⟨את⟩ ናታንን ነቢዩን እና በንያሁን እና ⟨את⟩ ጀግኖቹን እና ⟨את⟩ ወንድሙን ሰሎሞንን አልጠራቸውም ነበር።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ናታንን"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ናታንን"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነቢዩን"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "እና በንያሁን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጀግኖቹን"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "ጀግኖቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሰሎሞንን"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞንን"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሙን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ጠራቸውም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:12:49.389568075Z",
+  "model": "glm-5.3"
+}

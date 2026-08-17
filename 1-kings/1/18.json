@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እና አሁን፣ እነሆ፣ አዶኒያ ነገሠ፤ እና አሁን ጌታዬ ንጉሡ አንተ አታውቅም።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "እና አሁን"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "አዶኒያ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ነግሠ"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "እና አሁን"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጌታዬ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አታውቅም"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "አንተ አታውቅም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:13:01.398181148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-chronicles 5:2",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ምክንያቱም ይሁዳ ከወንድሞቹ በላይ ኃያል ሆነ፤ ከእርሱም አለቃ መጣ፤ የበኵርነቱ መብት ግን ለዮሴፍ ነበረ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ኃያል ሆነ"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "ከወንድሞቹ በላይ"
+    },
+    {
+      "surface": "ולנגיד",
+      "gloss": "እና ለአለቃ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእርሱም"
+    },
+    {
+      "surface": "והבכרה",
+      "gloss": "እና የበኵርነቱ መብት"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "ለዮሴፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:37:50.193557570Z",
+  "model": "glm-5.3"
+}

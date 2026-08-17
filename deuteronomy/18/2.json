@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "deuteronomy 18:2",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "በወንድሞቹ መካከልም ርስት አይሆንለትም፤ ያህዌህ ራሱ ርስቱ ነው፣ እንደ ተናገረለት ሁሉ።",
+  "tokens": [
+    {
+      "surface": "ונחלה",
+      "gloss": "ርስትም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይሆንለትም"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "በ…መካከል"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሞቹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ራሱ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ርስቱ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረለት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:47:35.721991595Z",
+  "model": "glm-5.3"
+}

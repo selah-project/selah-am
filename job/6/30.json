@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "job 6:30",
+  "book": "job",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "በላሴዬ ላይ ዐመፃ ⟨ይገኛልን⟩? ጣፋጭን ከመላላት ጎጂ ነገር ላሴዬ አያምንም ⟨ወይስ⟩?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "ይገኛልን?"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "በላሴዬ ላይ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ዐመፃ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ወይስ"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "ጣፋጭን የሚላላ አፌ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አያምንም"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ልዩ ያደርግ"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ጎጂ ነገር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:42:12.553791192Z",
+  "model": "glm-5.3"
+}

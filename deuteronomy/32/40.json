@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "እጄን ወደ ሰማያት አንሥቼ እላለሁ፦ ለዘላለም ሕያው እኔ ነኝ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "አንሥቼ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "እጄን"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "እና እላለሕ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ለዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:55:03.849721981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "ያህዌህ በብዛት ምሕረትህ መሠረት ወደ እኔ ተመለከት፤ ሞገሴኝ፤ ቸርነትህ በጣም መልካም ነውና።",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "ሞገሴኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነውና"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ቸርነትህ"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "በብዛት"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ምሕረትህ"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ተመለከት"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:01.097166141Z",
+  "model": "glm-5.3"
+}

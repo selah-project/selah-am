@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እንግዲህ የአዶናይን መልእክተኛ የሚለውን ⟨את⟩ ድምፅ ሰማሁ፤ ማንን ⟨את⟩ እልካለሁ? ማንስ ይሄድልናል? እኔም አልሁ፣ እነሆ እኔ፤ እኔን ላከኝ።",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "ሰማሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምፁን"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "የሚለውን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማንን"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማንን"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "እልካለሁ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ማንስ"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ይሄድ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ልናቸው\/ይሄድልናል"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "አልሁ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እነሆ እኔ"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "እኔን ላከኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:00:24.403839863Z",
+  "model": "glm-5.3"
+}

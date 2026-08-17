@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ብዙዎች ለነፍሴ እያሉ፣ በኤሎሂም ዘንድ መዳን የለውም ይላሉ። ሴላህ።",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "ብዙዎች"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ይላሉ"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ለነፍሴ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "መዳን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "የ"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "በኤሎሂም"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:28:13.224476418Z",
+  "model": "glm-5.3"
+}

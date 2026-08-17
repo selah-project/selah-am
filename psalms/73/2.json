@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "እኔ ግን ልቤ እንደሚቀርብ እግሮቼ ተስተካክለዋል፣ እርምጃዎቼም እንደሌሉ ተፈስቀዋል።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "እንደሚቀርብ ልቤ"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "ተስተካክለዋል"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "እግሮቼ"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "እንደሌሉ"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ተፈስቀዋል"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "እርምጃዎቼ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:08.031322048Z",
+  "model": "glm-5.3"
+}

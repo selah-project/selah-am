@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እና ከአባቱ ሚስት ⟨את⟩ የሚተኛ ሰው የአባቱን ውርጃ ገልጦታል፤ ሁለቱም ሞት ይሞታሉ፤ ደማቸው በላያቸው ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚ"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "የሚተኛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚስት"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሚስት"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ውርጃ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱን"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ገልጦታል"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ይሞታሉ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ሁለቱም"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ደማቸው"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በላያቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:57:22.255427870Z",
+  "model": "glm-5.3"
+}

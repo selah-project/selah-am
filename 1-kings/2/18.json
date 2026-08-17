@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ባትሴባም አለችው፦ ደህና፣ እኔ ስለ አንተ ንጉሡ እናገራለሁ።",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "አለችው"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ባት"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሴባ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ደህና"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "እናገራለሁ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ስለ አንተ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ንጉሡን"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:15:38.649660603Z",
+  "model": "glm-5.3"
+}

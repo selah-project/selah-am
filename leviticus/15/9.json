@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "እና የሚስበርበት ማንኛውም ዕቃ፣ የውርጭቱ ሰው የሚታሰርበት ሁሉ የረከስ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉም"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "የሚስበርበት ማንኛውም ዕቃ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "የሚታሰርበት"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "የውርጭቱ ሰው"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "የረከስ ይሆናል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:53:12.803576666Z",
+  "model": "glm-5.3"
+}

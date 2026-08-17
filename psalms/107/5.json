@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "ተራበውን እንዲሁም በጣ ተጠማውን፣ ነፍሳቸው በእነርሱ ውስጥ ሰመረች።",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "ተራቡ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "በጣ ተጠሙ"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ነፍሳቸው"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "በእነርሱ ውስጥ"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "ሰመረች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:30.689459585Z",
+  "model": "glm-5.3"
+}

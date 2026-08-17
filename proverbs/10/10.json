@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ዐይኑን የሚያንኮባካብ ሥቃይ ያወጣል፤ የከንፈር ሰነፍ ግን ይወድቃል።",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "የሚያንኮባካብ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ዐይኑን"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ያወጣል"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "ሥቃይ"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "እና ሰነፍ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "የከንፈር"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "ይወድቃል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:24:54.979463594Z",
+  "model": "glm-5.3"
+}

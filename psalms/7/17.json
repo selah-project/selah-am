@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የእርሱ ክፉ ሥራ በራሱ ራስ ላይ ትመለሳለች፤ እና በራሱ አንገት ጫፍ ላይ ብድሩ ይወርዳል።",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "ትመለሳለች"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "የእርሱ ክፉ ሥራ"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "በራሱ ራስ ላይ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ… ላይ"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "በራሱ አንገት ጫፍ"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "ብድሩ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ይወርዳል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:27:07.501211130Z",
+  "model": "glm-5.3"
+}

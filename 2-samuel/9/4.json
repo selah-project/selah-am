@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "2-samuel 9:4",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ንጉሡም አለው፣ እርሱ የት ነው? ጽባአም ለንጉሡ አለ፣ እነሆ፣ እርሱ በሎ ደባር በዓሚኤል ልጅ በማኪር ቤት ነው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "לו",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "የት?"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "ጽባአም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ለንጉሡ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "በ…ቤት"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "በማኪር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "ዓሚኤል"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "በ…ሎ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ደባር"
+    }
+  ],
+  "timestamp": "2026-08-16T05:58:18.685162548Z",
+  "model": "glm-5.3"
+}

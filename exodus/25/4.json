@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "አረንጓዴ ሰማያዊ፣ ሐምራዊ፣ ቀይ ቀለም (የተቀቀለ ትል)፣ ስስ በፍት እና የፍየል ጠጒር፤",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "ሰማያዊ ሐምራዊ ቀለም"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ሐምራዊ ቀለም"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "የተቀቀለ ትል"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ቀይ ቀለም"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ስስ በፍት"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "የፍየል ጠጒር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:25:58.654374189Z",
+  "model": "glm-5.3"
+}

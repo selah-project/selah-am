@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ክ ከሰይፎች ፊት ሸሹ — ከተቀደደ ሰይፍ፣ ከተጣበቀ ቀስት እና ከከባድ ጦርነት ፊት።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ክ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከ… ፊት"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ሰይፎች"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ሸሹ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከ… ፊት"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "የተቀደደ"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "እና ከ… ፊት"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ቀስት"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "የተጣበቀ"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "እና ከ… ፊት"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ከባድነት"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ጦርነት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:06:32.033627588Z",
+  "model": "glm-5.3"
+}

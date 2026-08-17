@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "በጠዋት በጠዋት እያንዳንዱ ሰው በምግቡ መጠን ⟨אתו⟩ እየሰበሰቡ ነበር፤ ፀሐይም በሞቀች ጊዜ ተቀለለች።",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "እየሰበሰቡ ነበር"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እሱ (ማንን)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "በጠዋት"
+    },
+    {
+      "surface": "בב᧴קר",
+      "gloss": "በጠዋት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "በመጠኑ"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "የምግቡ"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "በሞቀች ጊዜ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ፀሐይ"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "ተቀለለች"
+    }
+  ],
+  "timestamp": "2026-08-16T03:18:32.946463944Z",
+  "model": "glm-5.3"
+}

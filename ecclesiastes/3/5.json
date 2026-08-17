@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የመድኃኒት ጊዜ ለመጣል ድንጋዮችን፣ እና የመጣል ጊዜ ድንጋዮችን ለመሰብሰብ፤ የመጣል ጊዜ ለማቀፈፍ፣ እና የመጣል ጊዜ ከማቀፈፍ ለራቅ።",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "ለመድኃኒት መጣል"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ድንጋዮችን"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "እና ጊዜ"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "ለመሰብሰብ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ድንጋዮችን"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "ለማቀፈፍ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "እና ጊዜ"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "ለራቅ"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "ከማቀፈፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:12:58.351263973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "በጠላቶቼ ፊት ሠሌዳ በፊቴ ታስቀምጣለህ፤ በዘይት ራሴን ቀብተሃል፤ ብርጭቄዬ ሙላት ናት።",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "ታስቀምጣለህ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊቴ"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "ሠሌዳ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "በጠላቶቼ ፊት"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "ጠላቶቼ"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "ቀብተሃል"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "በዘይት"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ራሴን"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "ብርጭቄዬ"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "ሙላት ናት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:05.007857912Z",
+  "model": "glm-5.3"
+}

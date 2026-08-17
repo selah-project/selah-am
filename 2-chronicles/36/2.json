@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 36:2",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "ዮአህዝ ሲነግሥ የሃያ ሦስት ዓመት ልጅ ነበረ፤ እና በኢየሩሳሌም ሦስት ወራት ነገሠ።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "እና ሃያ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "ዮአህዝ"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ሲነግሥ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "እና ሦስት"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ወራት"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "በኢየሩሳሌም"
+    }
+  ],
+  "timestamp": "2026-08-16T19:03:08.105648331Z",
+  "model": "glm-5.3"
+}

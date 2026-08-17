@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ይህም የሰላም መሥዋዕት ሥርዓት ነው፤ ለያህዌህ የሚያቀርበው።",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "እና ይህ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "የ…ሥርዓት"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "መሥዋዕት"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "የሰላም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚያቀርበው"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "የሚያቀርብ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:44:43.434730983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ከክፉ ተራቅ እና መልካም አድርግ፤ ሰላምን ፈልግ እና እሱን አሳድድ።",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "ተራቅ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ከክፉ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "እና አድርግ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ፈልግ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላምን"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "እና እሱን አሳድድ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:00.152449627Z",
+  "model": "glm-5.3"
+}

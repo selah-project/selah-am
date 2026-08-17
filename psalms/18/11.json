@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "በኩራቤል ላይ ተቀመጠ እና በረራ፤ በነፍስ ላይ ወረወረ።",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "ተቀመጠ\/ተንከራተተ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "ኩራቤል"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "እና በረራ"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "ወረወረ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "በክንፎች"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ነፍስ\/ነፋስ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:15.721187247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ከከሃስ አልተቀመጥኩም፤ ከተሰውሮ ነፍሳት ጋርም አልገባም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ተቀመጥኩ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ...ጋር"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ከከሃስ ሰዎች"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ከሃስ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ከ...ጋርም"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "ተሰውሮ ነፍሳት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ገባም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:37:16.623082667Z",
+  "model": "glm-5.3"
+}

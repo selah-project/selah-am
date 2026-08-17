@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "በአምስተኛው ወር ወደ ኢየሩሳሌም ገባ፤ ይህች በንጉሡ ሰባተኛዋ ዓመት ናት።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ገባም"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ኢየሩሳሌም"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "በ…ወር"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "አምስተኛው"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ይህች"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "ሰባተኛዋ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "የንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:57:09.190288750Z",
+  "model": "glm-5.3"
+}

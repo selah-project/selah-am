@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "numbers 12:10",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ደመኑም ከድንኳኑ ተነስቶ ሄደ፤ እነሆ፣ ምርያም እንደ በረዶ ነጭ የለምጽ ሆነች፤ አሃሮንም ወደ ምርያም ዞሮ አየ፤ እነሆ፣ የለምጽ ናት።",
+  "tokens": [
+    {
+      "surface": "והענן",
+      "gloss": "ደመኑም"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ተነስቶ ሄደ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከ… በላይ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ድንኳኑ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "ምርያም"
+    },
+    {
+      "surface": "מצרעת",
+      "gloss": "የለምጽ ሆነች"
+    },
+    {
+      "surface": "כשלג",
+      "gloss": "እንደ በረዶ"
+    },
+    {
+      "surface": "ויפן",
+      "gloss": "ዞሮ አየ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "ምርያም"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "מצרעת",
+      "gloss": "የለምጽ ናት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:13:45.142261251Z",
+  "model": "glm-5.3"
+}

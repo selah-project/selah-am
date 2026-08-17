@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ምን ውለታቴ? ምን የሆዴ ልጅ? ምን የንዝሮቼ ልጅ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "ውለታቴ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "እና ምን"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "ሆዴ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "እና ምን"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "ንዝሮቼ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:38:58.333417484Z",
+  "model": "glm-5.3"
+}

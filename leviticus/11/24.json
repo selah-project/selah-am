@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እነዚህም በእነሱ ታረከሳላችሁ፤ በእነሱ በሚነካ ሁሉ እስከ ምሽት ድረስ ያረካሳል።",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "በእነዚህም"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "ታረከሳላችሁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "የሚነካው"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "በእነሱ በሞተው አካል"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ያረካሳል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ምሽት ድረስ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:47:11.404480732Z",
+  "model": "glm-5.3"
+}

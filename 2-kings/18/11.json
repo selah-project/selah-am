@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "የአሦር ንጉሥ ⟨את⟩ እስራኤልን ወደ አሦር ማረከ፤ እነርሱንም አስቀመጣቸው በሐላሕ እና በሐቦር ወንዝ ጎዛን እና በሜድያ ከተሞች።",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "ማረከ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "የአሦር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "ወደ አሦር"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "አስቀመጣቸው"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "በሐላሕ"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "እና በሐቦር"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ወንዝ"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "ጎዛን"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "እና በከተሞች"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ሜድያ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:49:03.989195635Z",
+  "model": "glm-5.3"
+}

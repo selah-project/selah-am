@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ደግሞም ሁሉን ቀኖቹን በጨለማ ይበላል፤ ብዙ ቁጭትና በሽታና ቁጣም አለበት።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ደግሞም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ቀኖቹን"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "በጨለማ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበላል"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ቁጭትና"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "በሽታውም"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "ቁጣም"
+    }
+  ],
+  "timestamp": "2026-08-16T11:16:11.622336286Z",
+  "model": "glm-5.3"
+}

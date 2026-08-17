@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "የራስህን ክርክር ከጓደኛህ ⟨את⟩ ጋር ክሰር፤ የሌላውን ምስጢር ግን አትግለጥ።",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "የራስህን ክርክር"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ክሰር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጓደኛህን"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ጓደኛህን ጋር"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "ምስጢርንም"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "የሌላውን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ግለጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:33:32.064382133Z",
+  "model": "glm-5.3"
+}

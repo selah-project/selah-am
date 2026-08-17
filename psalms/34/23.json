@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ያህዌህ የባሮቹን ነፍስ ያድናል፤ በእርሱም የሚጠብቁ ሁሉ አይከሰሱም።",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "ያድናል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስን"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "የባሮቹን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይፈጽሙም፤ተቃርኖ"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "አይከሰሱም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "የሚጠብቁ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:37:37.113784278Z",
+  "model": "glm-5.3"
+}

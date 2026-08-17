@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እንደ ብዝኃንነታቸው ሁሉ እኔን አመጹ፤ ክብራቸውን ወደ ውርደት እቀይራለሁ።",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "እንደ ብዝኃንነታቸው"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "አመጹ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "እኔን"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ክብራቸውን"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "ወደ ውርደት"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "እቀይራለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:02:59.208270773Z",
+  "model": "glm-5.3"
+}

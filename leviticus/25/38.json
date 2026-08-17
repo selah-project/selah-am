@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "እኔ ያህዌህ የእናንተ ኤሎሂም እኔ ነኝ፤ ⟨את⟩ እናንተን ከምድረ ምጽራይም አወጣሁ፤ የከነዓንን ምድር ⟨את⟩ ለመስጠት ለእናንተ፣ ለእናንተ ኤሎሂም እንዲሆን።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "የእናንተ ኤሎሂም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "አወጣሁናችሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ እናንተን",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽራይም"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ለመስጠት"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለእናንተ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የከነዓንን ምድር"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነዓን"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "እንዲሆን"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለእናንተ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:00:58.666360464Z",
+  "model": "glm-5.3"
+}

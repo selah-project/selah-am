@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እና ልጆችን አዋቂዎቻቸው አደርጋለሁ፤ ደካሞችም በእነሱ ላይ ይነግዛሉ።",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "እና አደርጋለሁ"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ልጆችን"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "አዋቂዎቻቸው"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "እና ደካሞችን"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "ይነግዛሉ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በእነሱ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:58:01.182870247Z",
+  "model": "glm-5.3"
+}

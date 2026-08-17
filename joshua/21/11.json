@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "joshua 21:11",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ለእነሱ ⟨את⟩ ቂርያት አርባዕ፣ የዓናቅ አባት የሆነውን እርሷ ኬብሮን በይሁዳ ተራራ ሰጡ፤ እና ⟨את⟩ አደባባዮቿን በዙሪያዋ አብረው።",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ሰጡ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቂርያት አርባዕ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ከተማ የ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "አርባዕ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባት የ"
+    },
+    {
+      "surface": "הענוק",
+      "gloss": "ዓናቅ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እርሷ"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ኬብሮን"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "በተራራ የ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "አደባባዮቿን"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "አደባባዮቿን"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "በዙሪያዋ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:10:38.303098697Z",
+  "model": "glm-5.3"
+}

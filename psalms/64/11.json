@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 64,
+  "translation": "ጻድቁ በያህዌህ ደስ ይሠማው፤ በእርሱም ይመላላል፤ ቀጥተኛ ልብ ያላቸው ሁሉ ይመሰገናሉ።",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ደስ ይሠማው"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቁ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "በያህዌህ"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "ይመላላል"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "ይመሰገናሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ቀጥተኛ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:16.827315506Z",
+  "model": "glm-5.3"
+}

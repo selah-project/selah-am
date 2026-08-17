@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እንደ ስንኳ በሰከራ እጅ ውስጥ ያለ፣ እንዲሁ ⟨ትርጉሙ ነው⟩ ምሳሌ በሞኞች አፍ ውስጥ ናት።",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "እንደ ስንኳ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ያለፅ።"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በ…እጅ"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "ሰከራ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "እንዲሁ ምሳሌ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "በ…አፍ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ሞኞች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:34:51.985238338Z",
+  "model": "glm-5.3"
+}

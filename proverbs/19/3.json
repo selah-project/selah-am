@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "የሰው ሞኝነት መንገዱን ይገሽራል፤ ልቡም በያህዌህ ላይ ይቆጣል።",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "ሞኝነት"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "የሰው"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "ይገሽራል"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "መንገዱን"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ… ላይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "ይቆጣል"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:30:49.278441203Z",
+  "model": "glm-5.3"
+}

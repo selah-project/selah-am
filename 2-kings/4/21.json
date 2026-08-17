@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "2-kings 4:21",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እርሷም ወጣች፣ የኤሎሂም ሰው መኝታ ላይ አኖረው፣ በእርሱ ላይ ⟨በሩን⟩ ዘጋች፣ ከዚያም ወጣች።",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "ወጣች"
+    },
+    {
+      "surface": "ותשכבהו",
+      "gloss": "አኖረው"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "መኝታ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "የ… ሰው"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "ዘጋች"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "ወጣች"
+    }
+  ],
+  "timestamp": "2026-08-16T06:38:12.106292177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ያህዌህም ሞሼን፦ ስለ ምን ታለቅሰኛለህ? እስራኤል ልጆችን ተናገር፣ ይቀጥቀጡም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ስለ ምን"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "ታለቅሰኛለህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "እኔን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆችን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "ይቀጥቀጡም"
+    }
+  ],
+  "timestamp": "2026-08-16T19:09:02.356856046Z",
+  "model": "glm-5.3"
+}

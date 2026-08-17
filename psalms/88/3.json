@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 88,
+  "translation": "ጸሎቴ ፊትህ ይብቃ፤ ጆሮህን ለጩኸቴ አዘንብ።",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "ይብቃ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ፊትህ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ጸሎቴ"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "አዘንብ\/አዘንብ፤"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ጆሮህን"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "ለጩኸቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:29.098257659Z",
+  "model": "glm-5.3"
+}

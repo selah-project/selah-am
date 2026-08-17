@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 29:30",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "ከዚያም የያህዌህ ቃል ወደ ይርምያሁ መጣ፤ እንዲህ እያለ፦",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ከዚያም ሆነ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ይርምያሁ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ እያለ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:21:32.391238271Z",
+  "model": "glm-5.3"
+}

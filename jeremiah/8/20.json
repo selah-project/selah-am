@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "መከር አልፏል፤ በጋ አልቋል፤ እኛም አልድናቂንም።",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "አልፏል"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "መከር"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "አልቋል"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "በጋ"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "እና እኛ"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "ድናቂያለን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:44:29.535663640Z",
+  "model": "glm-5.3"
+}

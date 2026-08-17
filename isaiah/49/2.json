@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "isaiah 49:2",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "አፌን እንደ ሰልባት ሰይፍ አደረገ፤ በእጁ ጥላ ሰወረኝ፤ እና ለቀስት የተመረጠ አደረገኝ፤ በቀስቱ ቀዠፈ ደበቀኝ።",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "እና አደረገ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፌን"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "እንደ ሰይፍ"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "ሰልባት"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "በጥላ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁ"
+    },
+    {
+      "surface": "החביאני",
+      "gloss": "ሰወረኝ"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "እና አደረገኝ"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ለቀስት"
+    },
+    {
+      "surface": "ברור",
+      "gloss": "የተመረጠ"
+    },
+    {
+      "surface": "באשפתו",
+      "gloss": "በቀዠፈው"
+    },
+    {
+      "surface": "הסתירני",
+      "gloss": "ደበቀኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:24:55.810361303Z",
+  "model": "glm-5.3"
+}

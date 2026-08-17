@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ኖኅ፣ ሴም፣ ካም እና ያፍት።",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "ኖኅ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ሴም"
+    },
+    {
+      "surface": "እና",
+      "gloss": "ካም"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "ያፍት"
+    }
+  ],
+  "timestamp": "2026-08-16T12:29:59.205327866Z",
+  "model": "glm-5.3"
+}

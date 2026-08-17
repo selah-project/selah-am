@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "አሐዝም ⟨את⟩ ያዕራህን ወለደ፤ ያዕራህም ⟨את⟩ ዓለሜትን እና ⟨את⟩ ዓዝማዌትን እና ⟨את⟩ ዝምሪን ወለደ፤ ዝምሪም ⟨את⟩ ሞጻን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "አሐዝም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያዕራህን"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "ያዕራህ"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "ያዕራህም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓለሜትን"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "ዓለሜት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዓዝማዌትን"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "ዓዝማዌት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዝምሪን"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "ዝምሪ"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "ዝምሪም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞጻን"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "ሞጻ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:46:41.323761416Z",
+  "model": "glm-5.3"
+}

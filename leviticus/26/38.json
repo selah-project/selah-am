@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እና በሕዝቦች መካከል ትጠፋላችሁ፤ እና የጠላቶቻችሁ ምድር ⟨את⟩ እናችሁን ትበላለች።",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "እና ትጠፋላችሁ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "በሕዝቦች መካከል"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "እና ትበላለች"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናችሁን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "የጠላቶቻችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:03:01.399685459Z",
+  "model": "glm-5.3"
+}

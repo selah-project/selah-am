@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ምክንያቱም መሰረቶቹ ሲፈሩ የጻድቁ ሰው ⟨ምን⟩ አደረገ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም\/እንደ"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "መሰረቶቹ"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "ይፈራሉ\/ይፈርሳሉ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቁ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "አደረገ\/ያደርጋል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:10.275694458Z",
+  "model": "glm-5.3"
+}

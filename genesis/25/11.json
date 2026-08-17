@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ከአብርሃም ሞት በኋላ ኤሎሂም ⟨את⟩ ይስሐቅን ልጁን ባረከ፤ ይስሐቅም ከበዐር ላኅይ ሮኤ ጎን ኖረ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "በኋላ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃም"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ባረከ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይስሐቅን"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይስሐቅ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁን"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ኖረ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይስሐቅ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ… ጎን"
+    },
+    {
+      "surface": "באר",
+      "gloss": "በዐር"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "ላኅይ"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ሮኤ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:43:38.387662684Z",
+  "model": "glm-5.3"
+}

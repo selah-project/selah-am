@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "አሁን ጥበብና እውቀት ስጠኝ፣ እና ከዚህ ሕዝብ ፊት እወጣለሁ እና እገባለሁ፣ ምክንያቱም ማን ነው ⟨את⟩ ይህን ታላቅ ሕዝብህን የሚፈርድ?",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "እና እውቀት"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ስጠኝ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለ እኔ"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "እና እወጣለሁ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "העם",
+      "gloss": "የ ሕዝብ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "እና እገባለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "የሚፈርድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህን ታላቅ ሕዝብህን"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ሕዝብህን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ታላቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:26:55.284823111Z",
+  "model": "glm-5.3"
+}

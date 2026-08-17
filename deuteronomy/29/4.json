@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "እና ⟨את⟩ እናንተን በምድረ በዳ አርባ ዓመት መራሁ፤ ልብሳችሁ ከእናንተ በላይ አልለመሰምም፣ ጫማህም ከእግርህ በላይ አልለመሰምም።",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "እና መራሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "አርባ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በምድረ በዳ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "ለመሰምም"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "ልብሳችሁ"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "ከእናንተ በላይ"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "እና ጫማህም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "ለመሰምም"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከ… በላይ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "እግርህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:54:32.105246854Z",
+  "model": "glm-5.3"
+}

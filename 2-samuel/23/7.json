@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "2-samuel 23:7",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "እነሱን የሚነካ ሰው በብረት እና በዘንባባ እንጨት ይሞላል፤ እና በእሳት ተቃጥለው በእረፍት ቦታ ይቃጠላሉ።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "እና ሰው"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "የሚነካ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "እነሱን"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ይሞላል"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "በብረት"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "እና በ... እንጨት"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "ዘንባባ"
+    },
+    {
+      "surface": "ובאש",
+      "gloss": "እና በእሳት"
+    },
+    {
+      "surface": "שרוף",
+      "gloss": "ተቃጥለው"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "ይቃጠላሉ"
+    },
+    {
+      "surface": "בשבת",
+      "gloss": "በእረፍት ቦታ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:11:20.756304769Z",
+  "model": "glm-5.3"
+}

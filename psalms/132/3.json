@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 132,
+  "translation": "ወደ ቤቴ ድንኳን ከገባሁ፣ ወደ አልጋ መኝታዬ በላይ ከወጣሁ —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ከገባሁ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ወደ ድንኳን"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ቤቴ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "እወጣለሁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "አልጋ"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "መኝታዬ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:00.062502358Z",
+  "model": "glm-5.3"
+}

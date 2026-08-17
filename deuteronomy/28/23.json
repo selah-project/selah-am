@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "በራስህ ላይ ያሉት ሰማያትህ ናስ ⟨ይሆናሉ⟩፣ ከበታችህ ያለችው ምድርም ብረት ⟨ትሆናለች⟩።",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "⟨ይሆናሉ⟩"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "ሰማያትህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ራስህ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ናስ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "እና ምድር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "ከበታችህ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ብረት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:52:20.992099855Z",
+  "model": "glm-5.3"
+}

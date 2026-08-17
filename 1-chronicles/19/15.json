@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "1-chronicles 19:15",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "የዓሞን ልጆችም አዩ፣ አራም ስለ ሸሸ፤ እነርሱም እንዲሁ ሸሱ ከፊት የአብሻይ — ወንድሙ —፤ ወደ ⟨ከተማዋ⟩ ገቡ፤ ዮአብም ገባ ወደ ኢየሩሳሌም።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "የዓሞን ልጆችም"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ዓሞን"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "አዩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ሸሸ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "አራም"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "እነርሱም ሸሹ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እነርሱ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከፊት"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "የአብሻይ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሙ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ገቡ"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "ወደ ⟨ከተማዋ⟩"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ገባም"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ወደ ኢየሩሳሌም"
+    }
+  ],
+  "timestamp": "2026-08-16T13:06:58.998670314Z",
+  "model": "glm-5.3"
+}

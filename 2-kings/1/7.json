@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "«ወደ እናንተ የተክለው ሰው ምን መልክ አለው፣ እነዚህን ⟨את⟩ ቃላት ያናገራችሁ ማን ነው?» አላቸው።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "እነሱን"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "መልክ አለው፣"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰውዬው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ተክለው"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "ወደ እናንተ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ያናገራችሁ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "እናንተን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላትን"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላትን"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህን"
+    }
+  ],
+  "timestamp": "2026-08-16T16:35:47.920886329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 56,
+  "translation": "በየቀኑ ቃላቴን ያወዛጋቡኛል፤ ሁሉም አሳባቸው ስለ ክፉ በእኔ ላይ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "היום",
+      "gloss": "በየቀኑ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላቴን"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "ያወዛጋቡኛል"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "አሳባቸው"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ስለ ክፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:21.764219656Z",
+  "model": "glm-5.3"
+}

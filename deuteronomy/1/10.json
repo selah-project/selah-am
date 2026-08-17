@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ያህዌህ ኤሎሂም የናንተ እናንተን ⟨את⟩ አበዛታል፤ እነሆ ዛሬ እናንተ እንደ ሰማይ ከዋክብት በብዛት ናችሁ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂም የናንተ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "አበዛ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "እነሆ እናንተ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "እንደ ከዋክብት"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "የሰማይ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "በብዛት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:31:59.970505738Z",
+  "model": "glm-5.3"
+}

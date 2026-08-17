@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እንደ ሰባት እጅ ቃይን ይበቀላል፤ ላሜክም ደግሞ ሰባ ሰባት እጅ ይበቀላል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ…ሲሆን"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "ሰባት እጅ"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "ይበቀላል"
+    },
+    {
+      "surface": "קין",
+      "gloss": "ቃይን"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "ላሜክም"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ሰባ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ሰባትም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:30:19.731338722Z",
+  "model": "glm-5.3"
+}

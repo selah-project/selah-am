@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ንጉሡ ከደማስቆ መጣ፤ ንጉሡ ⟨את⟩ መሠዊያውን አየ፤ ንጉሡ ወደ ⟨በ> መሠዊያው ቀረበ እና በላዩ ላይ አቀረበ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "ከደማስቆ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሠዊያውን"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያውን"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "ቀረበ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "አቀረበ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በላዩ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:49:23.433779929Z",
+  "model": "glm-5.3"
+}

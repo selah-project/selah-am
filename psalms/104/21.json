@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 104,
+  "translation": "ነብሮቹ ለምርኮ ያለቅሳሉ፣ እና ⟨אֵל⟩ ለኤል የሚበሉትን ምግባቸውን ይፈልጋሉ።",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "ነብሮቹ"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "ያለቅሳሉ"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "ለምርኮ"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "እና ይፈልጋሉ"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "ከኤል"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ምግባቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:38.721320261Z",
+  "model": "glm-5.3"
+}

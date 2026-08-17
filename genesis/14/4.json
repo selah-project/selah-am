@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "አሥራ ሁለት ዓመት ከዳርላኦሜርን ⟨את⟩ አገለገሉ፤ አሥራ ሦስት ዓመትም አመጁ።",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "አገለገሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከዳርላኦሜርን"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "ከዳርላኦሜር"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "እና ሦስት"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "አመጁ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:36:19.723921144Z",
+  "model": "glm-5.3"
+}

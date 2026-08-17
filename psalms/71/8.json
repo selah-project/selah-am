@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 71,
+  "translation": "አፌ በመስተዋትህ፣ በክብርህ ሁሉ ይሞላል፤ በሙሉ ቀን ሁሉ።",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "ይሞላል"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፌ"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "በመስተዋትህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "በክብርህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:59.065663865Z",
+  "model": "glm-5.3"
+}

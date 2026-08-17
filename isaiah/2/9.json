@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ሰው ተደፈረ፣ ወንድም ዝቅ ሆነ፤ እነሱንም አታንሳ።",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "ተደፈረ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "ዝቅ ሆነ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ወንድ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "አታ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "አታንሳ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "እነሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:55:29.876735943Z",
+  "model": "glm-5.3"
+}

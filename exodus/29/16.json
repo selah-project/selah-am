@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "በጉን ⟨את⟩ ታርድለዋለህ፤ ደሙን ⟨את⟩ ታነሳለህ፤ በመሠዊያው ላይ በዙሪያው ሁሉ ታረክበዋለህ።",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "ታርድለዋለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በጉን"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "በግ"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "እና ታነሳለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደሙን"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ደሙን"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "እና ታረክበዋለህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "በዙሪያው ሁሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:28:46.508446455Z",
+  "model": "glm-5.3"
+}

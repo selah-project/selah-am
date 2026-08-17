@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "የያህዌህ ቃል ኪዳን በሁለቱ መካከል ይሆናል — እጁን በወዳጁ ንብረት ላይ እንዳላስተካከለ፤ ባለቤቱ ይቀበለዋል፣ እርሱም አይከፍልም።",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "ቃል ኪዳን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በ…መካከል"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "በሁለቱ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንዳላስተካከለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ዘረጋ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "በንብረት"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ወዳጁ"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "እና ይቀበላል"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ባለቤቱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ይከፍልም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:21:00.285317470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 129,
+  "translation": "ጽዮንን የሚጠሉ ሁሉ ይዋርዱና ወደ ኋላ ይመለሱ።",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ይዋርዱ"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "ይመለሱ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ወደ ኋላ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "የሚጠሉ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:15.379207292Z",
+  "model": "glm-5.3"
+}

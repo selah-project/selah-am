@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 121,
+  "translation": "ያህዌህ ⟨ነው⟩ ጠባቂህ፤ ያህዌህ ⟨ነው⟩ ጥላህ በቀኝ እጅህ ላይ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ጠባቂህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "ጥላህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "እጅ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "በቀኝ...ህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:06.349268403Z",
+  "model": "glm-5.3"
+}

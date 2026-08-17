@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ቤትለሐምን፣ ዒታምንና ተቆዓን ⟨את⟩ ሠራ።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤትለሐምን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ለሐም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዒታምን"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "ዒታምን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ተቆዓን"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "ተቆዓን"
+    }
+  ],
+  "timestamp": "2026-08-16T13:37:16.024184883Z",
+  "model": "glm-5.3"
+}

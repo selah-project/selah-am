@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "ሕዝቡን በደስታ አወጣ የተመረጡትንም ⟨את⟩ በዝማሬ አወጣ።",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "አወጣ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "በደስታ"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "በዝማሬ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የተመረጡትን"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "የተመረጡትን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:08.074499892Z",
+  "model": "glm-5.3"
+}

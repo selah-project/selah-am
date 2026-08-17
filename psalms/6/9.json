@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ከእኔ ራቁ ሁሉን የአውን ሠራተኞች፤ በእውነት ያህዌህ የማልቀስበትን ድምፅ ሰማ።",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "ራቁ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ሠራተኞች"
+    },
+    {
+      "surface": "און",
+      "gloss": "የአውን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "የማልቀስበትን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:26:58.615344663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ተንቀጥቀጡ እና አትበድሉ፤ በልባችሁ ተናገሩ፣ በአልጋችሁ ላይ፣ እና ዝም በሉ። ሴላ።",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "ተንቀጥቀጡ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "በድሉ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ተናገሩ"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "በልባችሁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "አልጋችሁ"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "እና ዝም በሉ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:28:24.617107163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ክፉ በፊቱ ትልቅነት ሆኖ አይፈልግም — «ኤሎሂም የለም!» በሁሉም ሴሰሮቹ።",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "እንደ ትልቅነት"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ፊቱ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "ይፈልግም"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በሁሉም"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "ሴሰሮቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:37.689106303Z",
+  "model": "glm-5.3"
+}

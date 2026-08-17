@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "leviticus 21:16",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ያህዌህም ከሞሼ ጋር በእንግዲህ አነጋገረ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "አነጋገረም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ከሞሼ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "በእንግዲህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:56:37.406044802Z",
+  "model": "glm-5.3"
+}

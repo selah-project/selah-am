@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እና በጥበብህ ታደርጋለህ፣ እና የእርሱን ጥሬ ጥቅጥቅ ያለ ጸጉር በሰላም ወደ ሴኦል አታወርድም።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "እና ታደርጋለህ"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "በጥበብህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አታወርድም"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "ታወርድ"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "የእርሱን ጸጉር በእድሜ"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "በሰላም"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ሴኦል"
+    }
+  ],
+  "timestamp": "2026-08-16T06:15:53.381425935Z",
+  "model": "glm-5.3"
+}

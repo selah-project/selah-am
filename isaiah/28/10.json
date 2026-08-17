@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "በእርግጥ ትእዛዝ ላይ ትእዛዝ፣ ትእዛዝ ላይ ትእዛዝ፣ መስመር ላይ መስመር፣ መስመር ላይ መስመር፣ ትንሽ እዚያ፣ ትንሽ እዚያ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእርግጥ"
+    },
+    {
+      "surface": "צו",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "ላይ ትእዛዝ"
+    },
+    {
+      "surface": "צו",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "ላይ ትእዛዝ"
+    },
+    {
+      "surface": "קו",
+      "gloss": "መስመር"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "ላይ መስመር"
+    },
+    {
+      "surface": "קו",
+      "gloss": "መስመር"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "ላይ መስመር"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "ትንሽ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "ትንሽ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:09:49.712669417Z",
+  "model": "glm-5.3"
+}

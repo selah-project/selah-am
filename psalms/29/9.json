@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "የያህዌህ ድምፅ ጋዘኖችን ያስጠናታል፣ ደኖችንም ያፈራቸዋል፤ በቤተ መቅደሱም ሁሉውም «ክብር!» ይላል።",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "ያስጠናታል"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "ጋዘኖችን"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "እና ያፈራቸዋል"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "ደኖችን"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "በቤተ መቅደሱም"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ሁሉውም"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:20.404209410Z",
+  "model": "glm-5.3"
+}

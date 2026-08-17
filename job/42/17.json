@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "ኢዮብም አረጀ እና የዕለታት ሙላት ሆኖ ሞተ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ።"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኢዮብም"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "አረጀ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ሙላት ሆኖ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "የዕለታት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:01:32.310373417Z",
+  "model": "glm-5.3"
+}

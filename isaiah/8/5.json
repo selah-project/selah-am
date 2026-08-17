@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ያህዌህ ወደ እኔ እንደ ገና ⟨ማናገር⟩ ቀጠለ፣ እንዲህ ሲል፦",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ቀጠለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ማናገር"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "እንደ ገና"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:01:23.109731019Z",
+  "model": "glm-5.3"
+}

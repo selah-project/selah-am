@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ክስታችሁን፣ ጭነታችሁንና ክርክራችሁን ብቻዬን እንዴት እሸከማለሁ?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "እንዴት"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "እሸከማለሁ"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ብቻዬን"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "ክስታችሁን"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "እና ጭነታችሁን"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "እና ክርክራችሁን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:31:59.970826436Z",
+  "model": "glm-5.3"
+}

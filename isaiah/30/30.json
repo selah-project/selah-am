@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "isaiah 30:30",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ያህዌህ ⟨את⟩ ክብሩን የድምፁ ያሰማል፣ የእጁን እጅጌ የመውረድንም ያሳያል፤ በውግዙ ቍጣ፣ በሚበላም የእሳት ትንዹት፤ በማዕበል፣ ጠመቅና በረዶ ድንጋይ።",
+  "tokens": [
+    {
+      "surface": "והשמיע",
+      "gloss": "ያሰማል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክብሩን"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "ክብር"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "የድምፁ"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "የመውረድንም"
+    },
+    {
+      "surface": "זרועו",
+      "gloss": "የእጁን እጅጌ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ያሳያል"
+    },
+    {
+      "surface": "בזעף",
+      "gloss": "በውግዙ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ቍጣ"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "በሚበላም ትንዹት"
+    },
+    {
+      "surface": "אש",
+      "gloss": "የእሳት"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "ሚበላ"
+    },
+    {
+      "surface": "נפץ",
+      "gloss": "በማዕበል"
+    },
+    {
+      "surface": "וזרם",
+      "gloss": "ጠመቅና"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "በረዶ ድንጋይም"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "በረዶ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:14:42.789760288Z",
+  "model": "glm-5.3"
+}

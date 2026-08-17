@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "ታናሹንም ወንድማችሁን ⟨את⟩ ወደ እኔ አምጡ፤ ቃላችሁም ይረጋገጣል፤ አትሞቱም። እነርሱም እንዲህ አደረጉ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ወንድማችሁን"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ወንድማችሁ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ታናሹን"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "አምጡ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "ይረጋገጣል"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "ቃላችሁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አትሞቱም"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "አትሞቱም"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "አደረጉ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲህ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:59:09.320471004Z",
+  "model": "glm-5.3"
+}

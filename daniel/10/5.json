@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ዓይኖቼንም ⟨את⟩ አነሳሁና አየሁ፤ እነሆ፣ አንድ ሰው በበፅታ ልብስ የታጠቀ፣ ወገቡም በኡፋዝ ወርቅ የታጠቀ ነበር።",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "አነሳሁና"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓይኖቼን"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኖቼንም"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "አየሁ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "የታጠቀ"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "በበፅታ ልብስ"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "ወገቡም"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "የታጠቀ"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "በወርቅ"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "ኡፋዝ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:45:34.439860371Z",
+  "model": "glm-5.3"
+}

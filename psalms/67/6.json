@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 67,
+  "translation": "ሕዝቦች አመሰግኑሃል ኤሎሂም፤ ሕዝቦች ሁሉ አመሰግኑሃል።",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "አመሰግኑሃል"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "አመሰግኑሃል"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ሁሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:14.107826546Z",
+  "model": "glm-5.3"
+}

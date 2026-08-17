@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "በምሕረትህ እደሰታለሁ እና እሠላለሁ፤ ምክንያቱም ችግሬን ⟨את⟩ አይተኸዋል፤ ነፍሴን በጭንቀቶቿ አውቀኸዋል።",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "እደሰታለሁ"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "እና እሠላለሁ"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "በምሕረትህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ምክንያቱም፡ያ"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "አይተኸዋል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ችግሬን"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ችግሬን"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "አውቀኸዋል"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "በጭንቀቶቿ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:37:12.287421594Z",
+  "model": "glm-5.3"
+}

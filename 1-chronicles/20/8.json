@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "1-chronicles 20:8",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እነዚህ በጋት ለራፋ የተወለዱ ናቸው፤ በዳዊት እጅና በአገልጋዮቹ እጅ ወደቁ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "የተወለዱ"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "ለራፋ"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "በጋት"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ወደቁ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጅ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "እና በእጅ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "አገልጋዮቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:06:31.583985497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 74,
+  "translation": "እስከ ስንት ጊዜ ኤሎሂም ጠባቂ ይሰድባል? ጠላት ስምህን ለዘላለም ይንቀጥቀጣል?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ስንት ጊዜ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "ይሰድባል"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ጠባቂ (ጭካኔ ያለው ጠባቂ)"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "ይንቀጥቀጣል"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ጠላት"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህን"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ለዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:16.362397084Z",
+  "model": "glm-5.3"
+}

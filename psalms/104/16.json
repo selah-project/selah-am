@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 104,
+  "translation": "የያህዌህ ዛፎች ይጠግባሉ፤ የለባኖስ እድፎች እርሱ የተከላቸው።",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "ይጠግባሉ፤"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ዛፎች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "እድፎች"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ለባኖስ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "ተከላቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:48.187027883Z",
+  "model": "glm-5.3"
+}

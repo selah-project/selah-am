@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "የአፍህ ሕግ ከብዙ ሺዎች ወርቅና ብር በላይ ለእኔ ይበልጣል።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ይበልጣል"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "የ…ሕግ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "አፍህ"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "ከብዙ ሺዎች"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቅ"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "እና ብር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:07.644864048Z",
+  "model": "glm-5.3"
+}

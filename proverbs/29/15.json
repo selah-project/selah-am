@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "proverbs 29:15",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "ትምህርት እና ተገሠጽ ጥበብን ይሰጣሉ፤ ነጻ የተተወ ወጣት ግን እናቱን ያፍራል።",
+  "tokens": [
+    {
+      "surface": "שבט",
+      "gloss": "ትምህርት (በቋሚ)"
+    },
+    {
+      "surface": "ותוכחת",
+      "gloss": "እና ተገሠጽ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይሰጣሉ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብን"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ነጻ የተተወ ወጣት ግን"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "የተተወ"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "ያፍራል"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "እናቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:35:47.476491819Z",
+  "model": "glm-5.3"
+}

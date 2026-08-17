@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የቢግዋይ ልጆች ሁለት ሺህ ሃምሳ እና ስድስት።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "ቢግዋይ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሁለት ሺህ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ሃምሳ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "እና ስድስት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:49:48.263826783Z",
+  "model": "glm-5.3"
+}

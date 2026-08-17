@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እና ናዕማን፣ እና አሕያ፣ እና ጌራ — እርሱ አሳለፋቸው፤ እና ⟨את⟩ ዑዛን እና ⟨את⟩ አሕይሑድን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "እና ናዕማን"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "እና አሕያ"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "እና ጌራ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "አሳለፋቸው"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዑዛ"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ዑዛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "አሕይሑድ"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "አሕይሑድ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:42:47.691305121Z",
+  "model": "glm-5.3"
+}

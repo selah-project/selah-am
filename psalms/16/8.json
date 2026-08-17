@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ያህዌህን ሁልጊዜ ፊቴ ፊት አቆምሁት፤ እንደፊቱ በቀኝ እኔ ስለሆነ ፈጽሞ አልንቀጠቀጥም።",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "አቆምሁት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "ፊቴ ፊት"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደፊቱ"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "በቀኝ እኔ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ፈጽሞ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "አልንቀጠቀጥም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:32.439409350Z",
+  "model": "glm-5.3"
+}

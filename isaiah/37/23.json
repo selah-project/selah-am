@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "isaiah 37:23",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ማንን ⟨את⟩ አፈረህህ፣ ማንን አሰበርክ? ወደ ማን ላይ ድምጽህን አሳደንክ፣ ዓይኖችህን በከፍታ አንሠብክ — የእስራኤል ቅዱስ ሆይ ወደ እርሱ?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማንን"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማንን"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "አፈረህህ"
+    },
+    {
+      "surface": "וגדפת",
+      "gloss": "አሰበርክ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ወደ … ላይ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "הרימותה",
+      "gloss": "አሳደንክ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምጽህን"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "አንሠብክ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "በከፍታ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ዓይኖችህን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ ሆይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:19:00.033058612Z",
+  "model": "glm-5.3"
+}

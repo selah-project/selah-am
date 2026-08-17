@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ከእስራት ቤት ወጥቶ ለመንገሥ ሲቀርብ አየሁ፤ በንጉሥነቱም ውስጥ ድሃ ተወለደና።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ከ…ቤት"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "እስራት"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ለመንገሥ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "በንጉሥነቱ"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "ተወለደ"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ድሃ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:13:47.186424416Z",
+  "model": "glm-5.3"
+}

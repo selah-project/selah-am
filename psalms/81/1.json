@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 81,
+  "translation": "ለመዝሙር አለቃ፣ በጊታዊቱ ላይ፣ ለአሳፍ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመዝሙር አለቃ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "ጊታዊቱ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ለአሳፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:34.752712603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እኔም የፈርዖንን ልብ ⟨את⟩ አጠናክራለሁ፤ በምድረ ግብፅም ምልክቶቼን ⟨את⟩ እና ተአምራቶቼን ⟨את⟩ አበዛለሁ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔም"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "አጠናክራለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የፈርዖንን ልብ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "የፈርዖን"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "አበዛለሁም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምልክቶቼን"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "ምልክቶቼን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ተአምራቶቼን"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "ተአምራቶቼን"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፅ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:09:42.555851030Z",
+  "model": "glm-5.3"
+}

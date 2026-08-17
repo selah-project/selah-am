@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "ecclesiastes 2:24",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ሰው ይበላና ይጠጣ፣ በድካሙም ⟨את⟩ ነፍሱን መልካም እንዲያሳይ ከዚህ የተሻለ የለውም፤ ይህንም እኔ አየሁት፤ ከኤሎሂም እጅ እንደሆነ።",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "የለውም"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "የተሻለ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "ይበላ"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "እና ይጠጣ"
+    },
+    {
+      "surface": "והראה",
+      "gloss": "እንዲያሳይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሱን"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱን"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "בעמלו",
+      "gloss": "በድካሙ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "አየሁት"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እንደሆነ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:14:21.965861322Z",
+  "model": "glm-5.3"
+}

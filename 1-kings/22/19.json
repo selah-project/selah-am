@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "1-kings 22:19",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ሼምያሁም እንዲህ አለ፦ እንግዲህ የያህዌህን ቃል ስማ፤ ያህዌህን ⟨את⟩ በዙፋኑ ላይ ተቀምጦ አየሁ፤ የሰማይም ሠራዊት ሁሉ ከቀኝው ከግራውም በኩል በፊቱ ቆሞ ነበር።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "እንግዲህ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ስማ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "አየሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ተቀምጦ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ዙፋኑ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ሠራዊት"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "የሰማይ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ቆሞ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በፊቱ"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "ከቀኝው"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "እና ከግራው"
+    }
+  ],
+  "timestamp": "2026-08-16T06:35:17.198523280Z",
+  "model": "glm-5.3"
+}

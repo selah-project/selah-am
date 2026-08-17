@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እና ⟨መካከለኛው⟩ አምድ በሰሌዳዎቹ መካከል ከአንድ ጫፍ እስከ አንድ ጫፍ ድረስ ያልፋል።",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "እና ⟨አምድ⟩"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "መካከለኛው"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በ… መካከል"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ሰሌዳዎቹ"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "ያልፋል"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "ጫፉ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "ጫፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:24:25.582044811Z",
+  "model": "glm-5.3"
+}

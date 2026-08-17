@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ሞሼ ያህዌህ ⟨את⟩እርሱን እንዳዘዘው አደረገ፤ ጉባኤውም ወደ መገናኛ ድንኳን በር ተሰበሰበ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩እርሱን",
+      "marks": "ሞሼን"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "ተሰበሰበ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ጉባኤው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "በር"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መገናኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:46:40.162027863Z",
+  "model": "glm-5.3"
+}

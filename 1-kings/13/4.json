@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-kings 13:4",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ንጉሡ የኤሎሂም ሰውን ⟨את⟩ በቤተ ኤል መሠዊያው ላይ የጮከውን ቃል በሰማ ጊዜ ያሮብዓም እጁን ⟨את⟩ ከመሠዊያው ላይ ዘረጋ፦ ያዙት፤ እጁም ወደ እሱ ዘረጋችው ደረቀች፣ ወደ እሱም መመለስ አልቻለም።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "በሰማ ጊዜ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የኤሎሂም ሰውን ቃልን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃልን"
+    },
+    {
+      "surface": "איש",
+      "gloss": "የሰው"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የጮከውን"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ጮኸ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያውን"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በቤተ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ዘረጋ፤"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ያሮብዓም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጁን"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከ…ላይ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    },
+    {
+      "surface": "תפשהו",
+      "gloss": "ያዙት"
+    },
+    {
+      "surface": "ותיבש",
+      "gloss": "ደረቀች፤"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የዘረጋችው"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ዘረጋ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ወደ እሱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አልቻለምም"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "መቻል"
+    },
+    {
+      "surface": "להשיבה",
+      "gloss": "መመለስን"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:27:15.636398091Z",
+  "model": "glm-5.3"
+}

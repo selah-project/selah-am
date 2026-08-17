@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 79,
+  "translation": "መዝሙር ለአሳፍ። ኤሎሂም፣ አሕዛቦች በርስትህ መጡ፤ ⟨את⟩ መቅደስ ቅዱስህን አረከሱ፤ ⟨את⟩ ኢየሩሳሌምን እንደ ፍርስራሽ አደረጉ።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ለአሳፍ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "באו",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "አሕዛቦች"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "በርስትህ"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "አረከሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መቅደስ ቅዱስህን"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "መቅደስ"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ቅዱስህ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "አደረጉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢየሩሳሌምን"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ኢየሩሳሌም"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "እንደ ፍርስራሽ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:57:33.841413450Z",
+  "model": "glm-5.3"
+}

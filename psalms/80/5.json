@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 80,
+  "translation": "ያህዌህ የሠራዊት ኤሎሂም፣ እስከ መቼ ነው የሕዝብህ ጸሎት ላይ በድምፅ የተነሳ (እንደ ጢስ) የቆጣህው?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "የሠራዊት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "መቼ"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "በጢስ አቃጠልህ\/ቆጣህ"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "በጸሎት ላይ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "የሕዝብህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:51.937996476Z",
+  "model": "glm-5.3"
+}

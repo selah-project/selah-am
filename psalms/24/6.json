@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ይህ ትውልድ ነው — እርሱን የሚፈልጉት፣ ፊትህን የሚሻው የያዕቆብ ወገን። ሴላ።",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ትውልድ"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "የሚፈልጉት"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "የሚሻው"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህን"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "የያዕቆብ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:49.860555604Z",
+  "model": "glm-5.3"
+}

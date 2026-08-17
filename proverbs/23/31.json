@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "proverbs 23:31",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ወይን ቀይ በሚሆንበት ጊዜ አታየው፤ በጽዋው ውስጥ ቀለሙን በሚሰጥበት፣ በሚመቅጥበትም ጊዜ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አታ"
+    },
+    {
+      "surface": "תרא",
+      "gloss": "የይኩ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ወይን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በ... ጊዜ"
+    },
+    {
+      "surface": "יתאדם",
+      "gloss": "ቀይ በሚሆንበት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በ... በሚሰጥበት"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "በሚሰጥ"
+    },
+    {
+      "surface": "בכיס",
+      "gloss": "በጽዋው ውስጥ"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "ቀለሙን"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "በሚመቅጥበት"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "በሚመቅጥበት\/በእውነት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:34:16.836912440Z",
+  "model": "glm-5.3"
+}

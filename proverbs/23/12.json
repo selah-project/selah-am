@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "proverbs 23:12",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ልብህን ወደ ተግሣጽ አምጣ፤ የእውቀትም ቃላት ጆሮህን አድርግ።",
+  "tokens": [
+    {
+      "surface": "הביאה",
+      "gloss": "አምጣ"
+    },
+    {
+      "surface": "למוסר",
+      "gloss": "ወደ ተግሣጽ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ልብህን"
+    },
+    {
+      "surface": "ואזנך",
+      "gloss": "እና ጆሮህን"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ወደ ቃላት"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "የእውቀት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:32:43.787462682Z",
+  "model": "glm-5.3"
+}

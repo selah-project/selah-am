@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ባቡሮቹንም ⟨את⟩ ከሲጣ እንጨት ሠራ፤ እነርሱንም ⟨את⟩ በወርቅ ሸፈነ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ሠራም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ባቡሮቹን"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ባቡሮቹ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "እንጨት"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ሲጣ"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ሸፈነም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:37:12.076249969Z",
+  "model": "glm-5.3"
+}

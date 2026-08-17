@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "እጆቹን ⟨את⟩ በእርሱ ላይ እድሮ እንደ ተናገረው ያህዌህ በሞሼ እጅ አዘዘው።",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "እድሮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጆቹን"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "እጆቹን"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "አዘዘው"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በ... እጅ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:24:47.767912374Z",
+  "model": "glm-5.3"
+}

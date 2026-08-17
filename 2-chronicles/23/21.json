@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "የምድሩ ሕዝብ ሁሉ ደስ አለው፣ ከተማዋም ረገበች፤ እነርሱም ⟨את⟩ ዓታልያን በሰይፍ ገደሉት።",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "ደስ አለው"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድሩ"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "ከተማዋም"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "ረገበች"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓታልያን"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "ዓታልያን"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ገደሉት"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "በሰይፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:55:58.869015869Z",
+  "model": "glm-5.3"
+}

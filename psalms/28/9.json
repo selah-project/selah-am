@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ሕዝብህን ⟨את⟩ አድን፣ ቅርስህንም ⟨את⟩ ባረክ፤ እርሻቸው፣ በዘላለምም ሯምባቸው።",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "አድን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝብህን"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ሕዝብህን"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ባረክ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅርስህን"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ቅርስህን"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "እርሻቸው፣"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "ሯምባቸው።"
+    },
+    {
+      "surface": "עד",
+      "gloss": "በዘላለምም"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:56.300863815Z",
+  "model": "glm-5.3"
+}

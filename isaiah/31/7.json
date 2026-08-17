@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "isaiah 31:7",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ምክንያቱም በዚያ ቀን እያንዳንዱ ሰው የብር ጣዖቶቹን እና የወርቅ ጣዖቶቹን ይጥላል፤ የኀጢአት ሆኖ እጆቻችሁ ያደረጋችሁላችሁ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በ…ቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ዚያ"
+    },
+    {
+      "surface": "ימאסון",
+      "gloss": "ይጥላሉ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "የ…ጣዖቶችን"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "ብር የራሱን"
+    },
+    {
+      "surface": "ואלילי",
+      "gloss": "እና የ…ጣዖቶችን"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "ወርቅ የራሱን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨የ⟩"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "አደርጉ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ላችሁ"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "እጆቻችሁ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ኀጢአት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:14:32.728923798Z",
+  "model": "glm-5.3"
+}

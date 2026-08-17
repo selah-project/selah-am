@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "እርሱም አንድላይ አብዬ፣ እንነሳና እንሂድ፤ እኔም በፊትህ እሄዳለሁ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አንድላይ አብዬ"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "እንነሳ"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "እንሂድ"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "እኔ እሄዳለሁ"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "በፊትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:49:18.572930452Z",
+  "model": "glm-5.3"
+}

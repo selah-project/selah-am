@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 2:5",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "አታነሳሷቸው፤ በእነርሱ አትጣሉ፤ እኔ ከምድራቸው የእግር እግረገብ የመቆም ስፍራ ስንት እንኳ እንዳልሰጣችሁ፤ እንደ ቅርስ ለዔሳው የሰዓይር ተራራን ስለ ሰጠሁዋት ነው።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תתגרו",
+      "gloss": "አታነሳሳቸው\/አትጣሏቸው"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በእነርሱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ሰጠሁ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ላችሁ"
+    },
+    {
+      "surface": "מארצם",
+      "gloss": "ከምድራቸው"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "የመቆም\/የማለፍ ስፍራ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "እግረገብ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "የእግር"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ\/ስለ"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "ቅርስ"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "ለዔሳው"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ሰጠሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሰዓይር ተራራን"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ሰዓይር"
+    }
+  ],
+  "timestamp": "2026-08-16T14:59:23.400118971Z",
+  "model": "glm-5.3"
+}

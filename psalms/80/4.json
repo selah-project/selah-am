@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 80,
+  "translation": "ኤሎሂም ሆይ፣ መልሰን፣ ፊትህን አብራራልን፣ እና እንድንድን ይሆናል።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "መልሰን"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "እና አብራራልን"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህን"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "እና እንድንድን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:56.195434301Z",
+  "model": "glm-5.3"
+}

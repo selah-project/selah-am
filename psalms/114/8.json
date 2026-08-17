@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 114,
+  "translation": "የሚገልብጠው ዐለቱን የውኃ ስምጥ፣ ክርቁን ወደ ፏፏቴ ውኃ፤",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "የሚገልብጠው"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "ዐለቱን"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "የውኃ ስምጥ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውኃ"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "ክርቁን"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "ወደ ፏፏቴ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውኃ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:46.568704424Z",
+  "model": "glm-5.3"
+}

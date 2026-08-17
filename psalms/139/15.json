@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 139,
+  "translation": "አጽሔዬ ከአንተ አልተሰወረም፤ በስውር ሳለሁ ተሠራሁ፤ በምድር ስሮች ደቀቅ ተከታታይ ተሠራሁ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አልተሰወረም"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "አልተሰወረም የሚያስፈራ"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "አጽሔዬ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ከአንተ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ሳለሁ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ተሠራሁ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "በስውር"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "ደቀቅ ተከታታይ ተሠራሁ"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "በስሮች"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:37.856649243Z",
+  "model": "glm-5.3"
+}

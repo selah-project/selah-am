@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "እርሷም ⟨את⟩ ዝምራን፣ ⟨את⟩ ያቅሻንን፣ ⟨את⟩ መዳንን፣ ⟨את⟩ ምድያንን፣ ⟨את⟩ ይስባቅን እና ⟨את⟩ ሹኃን ወለደችለት።",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደችለት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "እርሷም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዝምራን"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "ዝምራን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ያቅሻንን"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "ያቅሻንን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መዳንን"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "መዳንን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምድያንን"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ምድያንን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ይስባቅን"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "ይስባቅን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሹኃን"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "ሹኃን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:44:40.435461069Z",
+  "model": "glm-5.3"
+}

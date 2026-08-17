@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "amos 5:6",
+  "book": "amos",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ያህዌህን ⟨את⟩ ፈልጉና በሂዩ፤ ያለበለዚያ እንደ እሳት በዮሴፍ ቤት ያበርራል፣ ይበላዋልም፤ በቤት-ኤልም የሚያጠፋ የለም።",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "ፈልጉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "በሂዩ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ያለበለዚያ"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "ያበርራል"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "እንደ እሳት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ይበላዋልም"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለምም"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "የሚያጠፋ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:06:13.950625962Z",
+  "model": "glm-5.3"
+}

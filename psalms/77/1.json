@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 77,
+  "translation": "ለቀዳሙ በይዱቱን ላይ፣ ለአሳፍ፣ መዝሙር።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለቀዳሙ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "ይዱቱን"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ለአሳፍ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:45.406732021Z",
+  "model": "glm-5.3"
+}

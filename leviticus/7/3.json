@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ሙሉውን ስብውንም ⟨את⟩ ከእርሱ ያቀርባሉ — ዘንትን ⟨את⟩፣ እና ትንሹን ሆድ የሚሸፍነውን ስብ ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሙሉውን ስብውን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሙሉውን"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "ስብውን"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ያቀርባሉ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእርሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዘንትን"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "ዘንት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ስብ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ስብ"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "የሚሸፍነው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትንሹን ሆድ"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ትንሹን ሆድ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:45:24.962129498Z",
+  "model": "glm-5.3"
+}

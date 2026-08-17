@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 80,
+  "translation": "ለመዘምሩ በሶሻኒም-ዔዱት ላይ፣ የአሳፍ ምስክርነት፣ መዝሙር።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመዘምሩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "ሶሻኒም"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ዔዱት (ምስክርነት)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ለአሳፍ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:56.190235617Z",
+  "model": "glm-5.3"
+}

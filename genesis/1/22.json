@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ኤሎሂምም ⟨אתם⟩ ባረኳቸው፤ እንዲህ ሲል፦ አፍሩ፣ ብዙ ይሁኑ፣ ⟨את⟩ ውኆችን በባሕሮች ሙሉ፤ ወፎችም በምድር ይብዙ።",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ባረኳቸው"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "እነርሱን (የባሕር ፍጥረታትና ወፎች)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "አፍሩ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ብዙ ይሁኑ"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ሙሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውኆችን"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውኆችን"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "በባሕሮች"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "ወፎችም"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "ይብዙ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T02:28:27.512645745Z",
+  "model": "glm-5.3"
+}

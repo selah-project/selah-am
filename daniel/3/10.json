@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 3:10",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "«አንተ ንጉሡ ሆይ፣ ማንኛውም ሰው የቀንዱን፣ የወፈርኛውን፣ የበገራውን፣ የሳቡካናውን፣ የፒሳንጤሪንን፣ የሲፎኒያውንና የሁሉን ዓይነት ሙዚቃ ድምፅ ሲሰማ ለወርቁ ምስል ወድቆ ይሰግድ ዘንድ ትእዛዝ አድርገሃል።",
+  "tokens": [
+    {
+      "surface": "אנתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "አድርገሃል"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ዘንድ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ማንኛውም"
+    },
+    {
+      "surface": "אנש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "די",
+      "gloss": "የ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ሲሰማ"
+    },
+    {
+      "surface": "קל",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "קרנא",
+      "gloss": "ቀንድ"
+    },
+    {
+      "surface": "משרקיתא",
+      "gloss": "ወፈርኛ"
+    },
+    {
+      "surface": "קיתרס",
+      "gloss": "በገራ"
+    },
+    {
+      "surface": "שבכא",
+      "gloss": "ሳቡካና"
+    },
+    {
+      "surface": "פסנתרין",
+      "gloss": "ፒሳንጤሪን"
+    },
+    {
+      "surface": "וסיפניה",
+      "gloss": "እና ሲፎኒያ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉን"
+    },
+    {
+      "surface": "זני",
+      "gloss": "ዓይነት"
+    },
+    {
+      "surface": "זמרא",
+      "gloss": "ሙዚቃ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ወድቆ"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "ይሰግድ"
+    },
+    {
+      "surface": "לצלם",
+      "gloss": "ለ…ምስል"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "ወርቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:27:01.918952597Z",
+  "model": "glm-5.3"
+}

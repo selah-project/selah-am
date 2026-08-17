@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ፈሊስጥኛዎችም ⟨את⟩ የኤሎሂምን ታቦት ወሰዱ፤ ወደ ዳጎን ቤት አመጡት፤ ከዳጎንም አጠገብ አቆሙት።",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ወሰዱም"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፈሊስጥኛዎች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦት"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂምን"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "አመጡት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦቱ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ወደ ቤት"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ዳጎን"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "አቆሙትም"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦቱ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ከ…አጠገብ"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ዳጎን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:34:27.446534352Z",
+  "model": "glm-5.3"
+}

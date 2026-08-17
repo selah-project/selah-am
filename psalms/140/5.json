@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 140,
+  "translation": "ያህዌህ ሆይ፣ ከክፉ እጅ ጠብቀኝ፤ ከየበደል ሰው ጠብቀኝ፤ የሆነው እነርሱ እርምጃዬን ለመገፋት አሰቡ።",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "ጠብቀኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ከሰው"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "የበደል"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "ጠብቀኝ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነው"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "አሰቡ"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "ለመገፋት"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "እርምጃዬን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:49.677901370Z",
+  "model": "glm-5.3"
+}

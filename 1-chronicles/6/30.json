@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የሐሰብያ ልጅ፣ የአማስያ ልጅ፣ የሕልቅያ ልጅ።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "የ…ልጅ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ሐሰብያ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ…ልጅ"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "አማስያ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ…ልጅ"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "ሕልቅያ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:39:38.892670927Z",
+  "model": "glm-5.3"
+}

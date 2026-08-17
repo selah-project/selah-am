@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 139,
+  "translation": "ስለ አንተ በምክር የሚናገሩ — ወንጀለኞች ሆይ፣ በከንቱ ስምህን ይሸከማሉ ጠላቶችህ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "ስለ አንተ ይናገራሉ"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "በምክር\/በወንጀል"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ይሸከማሉ\/ይጠቅሱታል"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "በከንቱ"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "ጠላቶችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:24.008073869Z",
+  "model": "glm-5.3"
+}

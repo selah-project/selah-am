@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "deuteronomy 10:11",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ያህዌህም አለኝ፦ ተነሥ፣ በሕዝቡ ፊት ለጉዞ ሂድ፤ እነሱም ገብተው ⟨את⟩ ምድሩን ይወርሱ ዘንድ፣ ለአባቶቻቸው ለመስጠት ለእነርሱ እንደማልኩላቸው ያንን።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "አለኝ"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ተነሥ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "למסע",
+      "gloss": "ለጉዞ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "እነሱም ገብተው"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "ይወርሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሩን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያንን"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "እንደማልኩላቸው"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "ለአባቶቻቸው"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ለመስጠት"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:39:06.471776356Z",
+  "model": "glm-5.3"
+}

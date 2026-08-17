@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "ruth 1:15",
+  "book": "ruth",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እርሷም «እነሆ፣ በአንቺ የታጨችች ሚስት ወደ ሕዝቧ እና ወደ አማልክቷ ተመልሻለች፤ አንቺም የታጨችህ ሚስት ተከተይ» አለች።",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "እንዲህ አለች"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "ተመልሻለች"
+    },
+    {
+      "surface": "יבמתך",
+      "gloss": "የታጨችህ ሚስት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ሕዝቧ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "አማልክቷ"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "ተመለሽ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ተከተይ"
+    },
+    {
+      "surface": "יבמתך",
+      "gloss": "የታጨችህ ሚስት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:08:16.959015049Z",
+  "model": "glm-5.3"
+}

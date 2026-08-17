@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 3:11",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ንጉሡም ለሐማን እንዲህ አለው፦ ብሩ ለአንተ ተሰጥቶልሃል፤ ሕዝቡም በዓይንህ እንደሚመስለህ አድርግበት።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለውም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "ለሐማን"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ብሩ"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "ተሰጥቶልሃል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ሕዝቡም"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "አድርግበት"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "እንደሚመስለህ\/እንደሚገባ"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "በዓይንህ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:15:47.146174002Z",
+  "model": "glm-5.3"
+}

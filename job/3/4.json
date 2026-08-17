@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ያ ቀን ጨለማ ይሁን፤ ኤሎሃ ከላይ አይፈልገው፣ ብርሃንም አይብራበት።",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "ያ ቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጨለማ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "አይፈልገው"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ኤሎሃ"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ከላይ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "አይብራ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በታው"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "ብርሃን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:39:51.366054451Z",
+  "model": "glm-5.3"
+}

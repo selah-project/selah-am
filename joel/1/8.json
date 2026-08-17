@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "joel 1:8",
+  "book": "joel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ልጅቷ እንደ ድንግል ስለ ወጣቷ ባሏ ዐቅቶ ልብስ ለብሳ አለቅቂ።",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "አለቅቂ"
+    },
+    {
+      "surface": "כבתולה",
+      "gloss": "እንደ ድንግል"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "ለብሳ"
+    },
+    {
+      "surface": "שק",
+      "gloss": "ዐቅቶ ልብስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ባሏ"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "ወጣቷ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:01:50.664029398Z",
+  "model": "glm-5.3"
+}

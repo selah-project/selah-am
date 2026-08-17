@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 129,
+  "translation": "የጣሪያዎች ሣር ሆኑ — አልበቃም ወደ ኋላ ተነቅሎ ይደርቃል።",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ይሁኑ"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "እንደ ሣር"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "የጣሪያዎች"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "አልበቃም ከመበቅሉ በፊት"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "ተነቅሎ"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ይደርቃል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:15.379507809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ሆነም፣ አንዱ ዋል እያሰበረ ሲሆን ⟨את⟩ ብረቱን ወደ ⟨ውኃው⟩ ወደቀ፤ ጮኸም «እንደቄስ ጌታዬ፤ እርሱ ተበድሮ ነው» አለ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነም"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "አንዱ"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "እያሰበረ"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "ዋል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ብረቱን"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ብረቱን"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ወደቀ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውኃው"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "ጮኸም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "እንደቄስ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጌታዬ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ተበድሮ ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T06:38:47.066471639Z",
+  "model": "glm-5.3"
+}

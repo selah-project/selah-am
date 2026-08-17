@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "በእውነትም ⟨የ⟩ያህዌህ ቃል ቅን ⟨ነው⟩፤ ክልሉም በታማኝነት ይከናወናል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእውነትም"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ቅን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ክልሉም"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "ሥራው"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "በታማኝነት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:36.128879087Z",
+  "model": "glm-5.3"
+}

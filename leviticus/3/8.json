@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እጁንም ⟨את⟩ በመስዋዕቱ ራስ ላይ ይጫናል፤ በስብሰባው ድንኳን ፊትም ⟨אתו⟩ ይፈጅራል፤ የአሃሮን ልጆችም ⟨את⟩ ደሙን በማደወያው ላይ በዙሪያው ሁሉ ይረጭባቸዋል።",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ይጫናል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጁን"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "መስዋዕቱ"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ይፈጅራል"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ…ፊት"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ስብሰባው"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ይረጭባቸዋል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደሙን"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ደሙን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "በማደወያው"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "በዙሪያው ሁሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:41:52.336947118Z",
+  "model": "glm-5.3"
+}

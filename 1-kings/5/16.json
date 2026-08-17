@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ሰሎሞንም ወደ ሖሮን እንዲህ ብሎ ላከ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከም"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ሖሮን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:17:23.608984571Z",
+  "model": "glm-5.3"
+}

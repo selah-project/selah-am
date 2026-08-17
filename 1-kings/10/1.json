@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የሰባ ንግሥት ስለ ያህዌህ ስም የሰሎሞንን ⟨את⟩ ዝና ሰማች፤ በምላሶች ለመፈተኘትም መጣች።",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "እና ንግሥት"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ሰባ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ሰማች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሰሎሞንን ዝና"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ዝና"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ስለ ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "መጣችም"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "ለመፈተኘት"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "በምላሶች"
+    }
+  ],
+  "timestamp": "2026-08-16T06:22:52.655930693Z",
+  "model": "glm-5.3"
+}

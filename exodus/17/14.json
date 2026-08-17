@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "exodus 17:14",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ያህዌህም ለሞሼ እንዲህ አለው፦ ይህን ማስታወሻ በመጽሐፍ ጻፍ፤ እንዲሁም በየሆሻዕ ጆሮ አንሳ፤ በሰማያት ሥር ካለው ዐማሌቅ ትዝታ ⟨את⟩ አጥፌ እጠፋለሁና።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "ጻፍ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ማስታወሻ"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "በመጽሐፍ"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "እንዲሁም አንሳ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "በጆሮ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሻዕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነውና"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "አጥፌ"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "እጠፋለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትዝታ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ትዝታ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ዐማሌቅ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ከሥር"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:17:56.454966503Z",
+  "model": "glm-5.3"
+}

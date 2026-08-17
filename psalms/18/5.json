@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "የሞት ጥምዶች አከበቡኝ፤ የብልጥልኝነት ወንዞችም አስፈሩኝ።",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "አከበቡኝ"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "ጥምዶች"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "ወንዞችም"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ብልጥልኝነት"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "አስፈሩኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:44.455578160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "leviticus 17:8",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "እነርሱም እንዲህ ትላቸዋለህ፦ ማንም ሰው ከእስራኤል ቤት ወይም ከእነርሱ መካከል ከሚቀመጥ እንግዳ የሚያረግ የሙሉ መቃጠል መሥዋዕት ወይም መሥዋዕት የሚያቀርብ ሰው",
+  "tokens": [
+    {
+      "surface": "ואלהם",
+      "gloss": "እነርሱም"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ትላቸዋለህ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ማንም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ከቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ወይም ከ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "እንግዳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚቀመጥ"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "በእነርሱ መካከል"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "ከእነርሱ መካከል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "የሚያረግ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "የሙሉ መቃጠል መሥዋዕት"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "መሥዋዕት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:55:01.491816107Z",
+  "model": "glm-5.3"
+}

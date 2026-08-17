@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 81,
+  "translation": "በአንተ ውስጥ አውራ ኤል የለም፤ ለሌላ ኤልም አትሰግድም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይሁንም"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "זר",
+      "gloss": "አውራ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አትሰግድምም"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "አትሰግድ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ለኤል"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ለሌላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:08.756521108Z",
+  "model": "glm-5.3"
+}

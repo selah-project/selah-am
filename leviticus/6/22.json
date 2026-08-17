@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ካህና኱ መካከል እያንዳንዱ ተባዕት ⟨את⟩ን ይበላል፤ ቅዱስ ቅዱሳን ⟨የሆነው⟩ እርሱ ነው።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "እያንዳንዱ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ተባዕት"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "በካህናን መካከል"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበላል"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እርሷን (መብራቱን)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ቅዱሳን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T14:37:00.469565606Z",
+  "model": "glm-5.3"
+}

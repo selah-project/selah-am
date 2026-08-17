@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 120,
+  "translation": "ምን ይሰጠሃል? እናም ምን ይጨምርልሃል? አንተ የብርቅታ ምላስ ሆይ።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይሰጠሃል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "እናም ምን"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ይጨምርልሃል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ምላስ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "የብርቅታ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:03.304684890Z",
+  "model": "glm-5.3"
+}

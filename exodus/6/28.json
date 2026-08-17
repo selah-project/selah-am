@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "በዚያም ቀን ያህዌህ በግብፅ ምድር ለሞሼ ሲናገር ሆነ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነም"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በ…ቀን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ሲናገር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በ…ምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፅ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:08:10.029783963Z",
+  "model": "glm-5.3"
+}

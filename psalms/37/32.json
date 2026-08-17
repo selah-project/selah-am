@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ክፉው ጻድቁን ይታያል፣ እና እንዲገድለው ይፈልጋል።",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "ይታያል"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉው"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ጻድቁን"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "እና ይፈልጋል"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "እንዲገድለው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:40:19.058459974Z",
+  "model": "glm-5.3"
+}

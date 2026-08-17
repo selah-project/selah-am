@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ያሆሻ በጠዋት ቀድሞ ተነሳ፤ ⟨את⟩ ሕዝቡንም ቆጠረ፤ እርሱና የእስራኤል ሽማግሌዎችም ከሕዝቡ ፊት ለፊት ወደ አይ ወጡ።",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ቀድሞ ተነሳ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ያሆሻ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "በጠዋት"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ቆጠረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ወጡ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "እና ሽማግሌዎች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ከ…ፊት"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "አይ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:02:49.304275516Z",
+  "model": "glm-5.3"
+}

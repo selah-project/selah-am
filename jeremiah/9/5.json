@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "መቀመጫህ በምታለል መካከል ⟨ነው⟩፤ በምታለል እኔን ማወቅን አቃተዋል፤ የያህዌህ ቃል ነው።",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "መቀመጫህ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "በምታለል"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "በምታለል"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "አቃተዋል"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ማወቅን"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "እኔን"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "የ...ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:44:01.969757167Z",
+  "model": "glm-5.3"
+}

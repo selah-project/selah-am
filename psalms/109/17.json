@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "እርግበትን ወደዳት እና በርሱ ላይ መጣች፤ በምርቃት አላደሰም እና ከርሱ ተራቀቀች።",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "ወደዳት"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "እርግበትን"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "በርሱ ላይ መጣችበት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አላደሰም"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "አላደሰም"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "በምርቃት"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "ተራቀቀች"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:07.956761726Z",
+  "model": "glm-5.3"
+}

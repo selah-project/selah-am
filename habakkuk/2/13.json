@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እነሆ፣ ከሠራዊቶች ጌታ ከያህዌህ ⟨את⟩ አይደለምን? ሕዝቦች ለእሳት ይደክማሉ፤ አሕዛብም ለከንፈር ይደክማሉ።",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "አይደለምን?"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ከ⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ሠራዊቶች"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "ይደክማሉ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "ለ…መጨረሻ ድከም"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "አሕዛብም"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "ለ…መጨረሻ ድከም"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ከንፈር"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "ይደክማሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:08:02.989379176Z",
+  "model": "glm-5.3"
+}

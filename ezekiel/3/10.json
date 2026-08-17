@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እና እንዲህ አለኝ፤ የሰው ልጅ፣ ⟨את⟩ ሁሉንም ቃላቶቼን ወደ አንተ የምናገራቸውን በልብህ ተቀበል፣ እና በጆሮዎችህ አድምጥ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "እኔን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "የሰው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉንም ቃላቶቼን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉንም"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላቶቼን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ምናገራቸውን"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ተቀበል"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "በልብህ"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "እና በጆሮዎችህ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "አድምጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:18:59.085906769Z",
+  "model": "glm-5.3"
+}

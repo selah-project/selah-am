@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እርሱም እንዲህ አለ፦ እሱን ወደ ምድር ጣለው፤ እርሱም እሱን ወደ ምድር ጣለ፤ እርሱም በልት ሆነ፤ ሞሼም ከፊቱ አመለጠ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለ"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "እሱን ጣለው"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ወደ ምድር"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "እርሱም እሱን ጣለ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ወደ ምድር"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "በልት"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "አመለጠ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ከፊቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:08:38.347911844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 37,
+  "ref": "psalms 69:37",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "የአገልጋዮቹ ዘር እሷን ይወርሳት፤ ስሙን የሚወዱትም በእሷ ይኖራሉ።",
+  "tokens": [
+    {
+      "surface": "וזרע",
+      "gloss": "ዘር"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "አገልጋዮቹ"
+    },
+    {
+      "surface": "ינחלוה",
+      "gloss": "ይወርሳት"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "የሚወዱትም"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ይኖራሉ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእሷ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:05.499994289Z",
+  "model": "glm-5.3"
+}

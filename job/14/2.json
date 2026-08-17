@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "job 14:2",
+  "book": "job",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "እንደ አበባ ወጥቶ ተቆረጠ፤ እንደ ጥላ አምልቆ አይቆምም።",
+  "tokens": [
+    {
+      "surface": "כציץ",
+      "gloss": "እንደ አበባ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ወጥቶ"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "ተቆረጠ"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "አምልቆ"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "እንደ ጥላ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יעמוד",
+      "gloss": "ቆምም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:46:32.203752740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "proverbs 5:6",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የሕይወትን መንገድ እንዳትመዘኝ፣ መንገዶቿ ተንቀሳቅሰዋለሁ፤ አታውቀውም።",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "መንገድን"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "የሕይወት"
+    },
+    {
+      "surface": "פן",
+      "gloss": "እንዳትመዘኝ፣"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "እንዳትመዘኝ"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "ተንቀሳቅሰዋለሁ፤"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "መንገዶቿ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ታውቀውም።"
+    }
+  ],
+  "timestamp": "2026-08-16T10:21:27.057372658Z",
+  "model": "glm-5.3"
+}

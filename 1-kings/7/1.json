@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ሰሎሞን የራሱን ⟨את⟩ ቤት በአሥራ ሦስት ዓመታት ሠራ፤ ⟨את⟩ ሙሉን ቤቱንም ጨረሰ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የራሱን ቤት"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱን"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "ጨረሰም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሙሉን ቤቱን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሙሉን"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:18:53.248582090Z",
+  "model": "glm-5.3"
+}

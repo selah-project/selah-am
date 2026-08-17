@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "የኤፉድንም ልብስ ⟨את⟩ ሙሉ በሙሉ ከሰማያዊ ቀለም ታደርጋለህ።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ታደርጋለህም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልብስን"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "ልብስን"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "የኤፉድን"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ሙሉ በሙሉ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ከሰማያዊ ቀለም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:28:44.306398635Z",
+  "model": "glm-5.3"
+}

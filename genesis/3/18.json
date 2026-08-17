@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ቶሎና አንበሪት እንዲያበቅልልህ ያደርጋል፤ የበለስ ዛፍ ሣርንም ⟨את⟩ ትበላለህ።",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "እና ቶሎ"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "እና አንበሪት"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "ያበቅላል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "እና ትበላለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሣሩን"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ሣር"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "የበለስ ዛፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:30:37.038493902Z",
+  "model": "glm-5.3"
+}

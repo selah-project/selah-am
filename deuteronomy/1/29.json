@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እኔም እናንተን «አትርበዱ እነሱንም አትፍሩ» አልኳቸው።",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "አልኳቸው"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "እናንተን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "ትርበዱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እነሱንም አ"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "ትፍሩ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ከእነሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:33:04.626447526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "የስድብ ባለጸጎችን ስለ ተመኛሁ፣ የክፉዎችን ደኅንነት ስለተመለከትኩ ነው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ...ነው"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "ተመኛሁ"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "የስድብ ባለጸጎችን"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ደኅንነት"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "የክፉዎችን"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ስለተመለከትኩ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:08.031630050Z",
+  "model": "glm-5.3"
+}

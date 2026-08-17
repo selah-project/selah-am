@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "ezekiel 11:8",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሰይፍ ፈራችሁ፣ እና ሰይፍ እኔ አመጣበታለሁ በእናንተ ላይ፣ የአዶናይ ያህዌህ ንግግር ነው።",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "ፈራችሁ"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "እና ሰይፍ"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "እኔ አመጣበታለሁ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "በእናንተ ላይ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ንግግር ነው"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "የአዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:22:01.165680718Z",
+  "model": "glm-5.3"
+}

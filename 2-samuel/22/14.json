@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "2-samuel 22:14",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ያህዌህ ከሰማይ አመዘዘ፤ ዐለይኛውም ድምፁን ሰጠ።",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "አመዘዘ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "ዐለይኛውም"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "ድምፁን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:10:46.030132906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እባክህ ባሪያዎችህን ⟨את⟩ አሥር ቀናት ፈትን፤ ከዘሮች ለእኛ ይስጡ እና እንበላ፣ እና ውሃ እንጠጣ።",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "ፈትን"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ባሪያዎችህን"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ባሪያዎችህ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ይስጡ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "ዘሮች"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "እና እንበላ"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "እና ውሃ"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "እንጠጣ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:23:36.023382685Z",
+  "model": "glm-5.3"
+}

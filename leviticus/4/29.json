@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እጁን ⟨את⟩ በኀጢአት መሥዋዕቱ ራስ ላይ ይጭናል፤ እና ⟨את⟩ ኀጢአት መሥዋዕቱን በሚቃጠለው መሥዋዕት በሚወርዱበት ስፍራ ያለቅላል።",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ይጭናል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጁን"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "የኀጢአት መሥዋዕቱ"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ያለቅላል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኀጢአት መሥዋዕቱን"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ኀጢአት መሥዋዕቱን"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "በ…ስፍራ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "የሚቃጠለው መሥዋዕት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:45:52.654298848Z",
+  "model": "glm-5.3"
+}

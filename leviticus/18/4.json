@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "የእኔን ⟨את⟩ ፍርዶቼን አድርጉ፤ የእኔንም ⟨את⟩ ሥርዓቶቼን ጠብቁ፣ በእነርሱ ለመሄድ፤ እኔ ያህዌህ የእናንተ ኤሎሂም ነኝ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍርዶቼን"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ፍርዶቼን"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "አድርጉ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "የእኔንም ⟨את⟩",
+      "marks": "ሥርዓቶቼን"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ሥርዓቶቼን"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ጠብቁ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ለመሄድ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "በእነርሱ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "የእናንተ ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:53:57.626746637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 34:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ሌሊትና ቀን አትጠፋም፤ ጭሷ ለዘላለም ይወጣል፤ ትውልድ ትውልድን ትጠፋለች፤ ለዘላለሙ ዘላለም በእርሷ የሚያልፍ የለም።",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "ሌሊት"
+    },
+    {
+      "surface": "ויומם",
+      "gloss": "እና ቀን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አትጠፋም"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "አይነጠቅም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ይወጣል"
+    },
+    {
+      "surface": "עשנה",
+      "gloss": "ጭሷ"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "ትውልድ"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ትውልድን"
+    },
+    {
+      "surface": "תחרב",
+      "gloss": "ትጠፋለች"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ለዘላለሙ"
+    },
+    {
+      "surface": "נצחים",
+      "gloss": "ዘላለም"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "የሚያልፍ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሷ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:16:21.226250903Z",
+  "model": "glm-5.3"
+}

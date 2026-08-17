@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ከጠንካራ ጠላቶቼ አዳነኝ እና ከጠላቶቼ፤ ከእኔ በላይ ስለሆኑ ነው።",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "አዳነኝ"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "ከጠላቶቼ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ጠንካራ"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "እና ከጠላቶቼ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለሆኑ"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "ጠንካራ ኾኑ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ በላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:04.025407049Z",
+  "model": "glm-5.3"
+}

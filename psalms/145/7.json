@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 145,
+  "translation": "የብዙ ምሕረትህን ትዝታ ያፈሱአል፤ ጽድቅህንም ያመሰግኑአል።",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ትዝታ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "የብዙ"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "ምሕረትህን"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "ያፈሱአል"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ጽድቅህንም"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ያመሰግኑአል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:21.621878710Z",
+  "model": "glm-5.3"
+}

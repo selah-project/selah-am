@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 50,
+  "translation": "ጀርቤን ለሚወጉኝ ሰጠሁ፤ ጉንጫዎቼንም ለሚንቀጠቀጡኝ፤ ፊቴን ከንቀጥቀጥና ከምትዞር አልሰወርኩም።",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "ጀርቤን"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ሰጠሁ"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "ለሚወጉኝ"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "ጉንጫዎቼንም"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "ለሚንቀጠቀጡኝ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊቴን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "ሰወርኩ"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "ከንቀጥቀጥ"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "እና ከምትዞር"
+    }
+  ],
+  "timestamp": "2026-08-16T07:27:21.669931097Z",
+  "model": "glm-5.3"
+}

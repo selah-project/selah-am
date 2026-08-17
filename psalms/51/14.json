@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "የመዳኔን ሐሤት ለእኔ መልስልኝ፤ በቸር መንፈስም አጽናኝ።",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "መልስልኝ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ሐሤት"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "የመዳኔ"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "መንፈስም"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "ቸር"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "አጽናኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:45:51.062099071Z",
+  "model": "glm-5.3"
+}

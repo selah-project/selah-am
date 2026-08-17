@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ያህዌህ የሰራዊት ጌታ፣ የእስራኤል ኤሎሂም፣ በኪሩቤል ላይ የሚቀመጥ አንተ ብቻህ ነህ ከምድር መንግሥታት ሁሉ አምላክ፤ ሰማያትን ⟨את⟩ እና ምድርን ⟨את⟩ አንተ ሠራህ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "የሰራዊት ጌታ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "የሚቀመጥ"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "በኪሩቤል ላይ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨እርሱ⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "አምላክ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ብቻህ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ከ… ሁሉ"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "መንግሥታት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ሠራህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰማያትን"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያትን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምድርን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድርን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:17:57.756228930Z",
+  "model": "glm-5.3"
+}

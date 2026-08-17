@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የሰሎም ልጅ፣ የጻዶቅ ልጅ፣ የአኪጦብ ልጅ።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰሎም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ጻዶቅ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "አኪጦብ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:58:03.126064303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ወስደውትም ⟨את⟩ ወደ ወንዱ ወረወሩት፤ ወንዙም ባዶ ነበረ፤ በእርሱ ውስጥ መንገድ የነበረ ውኃ አልነበረም።",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "ወስደውት"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "ወረወሩት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "ወደ ወንዱ"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "ወንዙም"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ባዶ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውኃ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:55:48.531305547Z",
+  "model": "glm-5.3"
+}

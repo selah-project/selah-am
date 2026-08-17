@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ድምጽ የሚጮኅ በምድረ በዳ፣ የያህዌህን መንገድ አዘጋጁ፤ በአረባ ለኤሎሂም መንገድ ወጥ አድርጉ።",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ድምጽ"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "የሚጮኅ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በምድረ በዳ"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "አዘጋጁ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "ወጥ አድርጉ"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "በአረባ"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "አውራ ጎዳና"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ለኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:21:20.115579812Z",
+  "model": "glm-5.3"
+}

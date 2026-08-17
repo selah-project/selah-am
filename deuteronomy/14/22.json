@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "አሥር በመቶ እርግጠኝ ታሥራለህ ⟨את⟩ ሁሉን የዘርህን እህል መስክ የሚያወጣውን ዓመት በዓመት።",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "አሥር በመቶ"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "እርግጠኝ ታሥራለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን የዘርህን እህል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "እህል"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "የዘርህን"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "የሚያወጣውን"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "መስክ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "በዓመት"
+    }
+  ],
+  "timestamp": "2026-08-16T19:22:08.706799250Z",
+  "model": "glm-5.3"
+}

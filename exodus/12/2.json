@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ይህ ወር ለእናንተ የወራት ራስ ⟨ርንብ⟩፤ እርሱ ለእናንተ የዓመቱ ወራት የመጀመሪያ ⟨ርንብ⟩።",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "ይህ ወር"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለእናንተ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "የወራት"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "የመጀመሪያ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ ⟨ርንብ⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለእናንተ"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "የወራት"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "የዓመቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:13:18.384748917Z",
+  "model": "glm-5.3"
+}

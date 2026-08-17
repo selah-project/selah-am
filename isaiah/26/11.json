@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "isaiah 26:11",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ያህዌህ ሆይ፣ እጅህ ተሸት ብሏል፤ አያዩም፤ የሕዝብ ብጥብጥ አይተው ይፈሩላቸዋል፤ እንዲሁም የጠላቶችህ እሳት እነሱን በላቸዋል።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ ሆይ"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ተሸት ብሏል"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "יחזיון",
+      "gloss": "አያዩም"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "አይተው"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ይፈሩላቸዋል"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ብጥብጥ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "የሕዝብ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "የጠላቶችህ"
+    },
+    {
+      "surface": "תאכלם",
+      "gloss": "እነሱን በላቸዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:09:44.783327726Z",
+  "model": "glm-5.3"
+}

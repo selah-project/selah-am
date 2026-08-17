@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 35:10",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "አገልግሎቱም ተዘጋጀ፤ ካህናትም በራሳቸው ስፍራ ቆሙ፣ ሌዋውያንም በክፍላቸው በንጉሡ ትእዛዝ መሠረት።",
+  "tokens": [
+    {
+      "surface": "ותכון",
+      "gloss": "ተዘጋጀ"
+    },
+    {
+      "surface": "העבודה",
+      "gloss": "አገልግሎቱም"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ቆሙ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናትም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "ራሳቸው ስፍራ"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ሌዋውያንም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "ክፍላቸው"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "በትእዛዝ መሠረት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:02:27.797685454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ያህዌህ ሆይ፣ አልታፈርም፣ በአንተ ስመራሁ እንጂ፤ ክፉዎች ይፈሩ፣ ወደ ሲኦል ይፈጥኑ ዘንድ ይቅረው።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አልታፈርም"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ማፍረስ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ስመራሁ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ይፈሩ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉዎች"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "ይቅረው"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ወደ ሲኦል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:22.655272335Z",
+  "model": "glm-5.3"
+}

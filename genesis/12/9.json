@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "አብራምም ሲሄድና ሲጓዝ ወደ ደቡብ ⟨ተጓዘ⟩።",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "እና ጉዞ አደረገ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "አብራም"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "በመሄድ"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "እና በመጓዝ"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "ወደ ደቡብ (ነጌብ)"
+    }
+  ],
+  "timestamp": "2026-08-16T02:35:21.129858802Z",
+  "model": "glm-5.3"
+}

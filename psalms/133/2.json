@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 133,
+  "translation": "በራስ ላይ እንደሚወርድ መልካም ዘይት፣ በአሃሮን ጽጉር ላይ የሚወርድ፣ በልብሶቹ አፍ ላይ የሚወርድ ⟨ነው⟩፤",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "እንደ ዘይት"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "መልካሙ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "የሚወርድ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "ጽጉሩ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ጽጉር"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "የሚወርድ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፍ"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "ልብሶቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:52.346285114Z",
+  "model": "glm-5.3"
+}

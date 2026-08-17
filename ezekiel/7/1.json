@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "ezekiel 7:1",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እንዲሁም የያህዌህ ቃል ወደ እኔ መጣ፤ እንዲህ ሲል፦",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እንዲሁም ሆነ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T08:21:16.743717587Z",
+  "model": "glm-5.3"
+}

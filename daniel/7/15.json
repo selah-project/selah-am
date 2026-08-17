@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "daniel 7:15",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "መንፈሴ ተሰቀየ፤ እኔ ዳንኤል በጋሻዬ ውስጥ ነበር፣ የራሴም ራእዮች ያስደንቁኝ ነበር።",
+  "tokens": [
+    {
+      "surface": "אתכרית",
+      "gloss": "ተሰቀየ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "መንፈሴ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ዳንኤል"
+    },
+    {
+      "surface": "בגוא",
+      "gloss": "በ…ውስጥ"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "ጋሻዬ"
+    },
+    {
+      "surface": "וחזוי",
+      "gloss": "እና ራእዮች"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ራሴ"
+    },
+    {
+      "surface": "יבהלנני",
+      "gloss": "ያስደንቁኝ ነበር"
+    }
+  ],
+  "timestamp": "2026-08-16T11:40:30.575716437Z",
+  "model": "glm-5.3"
+}

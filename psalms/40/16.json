@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ለኔ አሐ፣ አሐ የሚሉ በውርደታቸው ምክንያት ይደነግጡ።",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "ይደነግጡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ምክንያት"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "ውርደታቸው"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "የሚሉ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለኔ"
+    },
+    {
+      "surface": "האח",
+      "gloss": "አሐ"
+    },
+    {
+      "surface": "האח",
+      "gloss": "አሐ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:57.302394784Z",
+  "model": "glm-5.3"
+}

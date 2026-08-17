@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 55,
+  "translation": "በሰላም ነፍሴን ከእኔ ካለው ጠላት ቤዛ አደረጋት፤ ብዙዎች ከእኔ ጋር ነበሩኝና።",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "ቤዛ አደረጋት"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "በሰላም"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ከቅርብ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "በብዙዎች"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ነበሩ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ከእኔ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:37.118899981Z",
+  "model": "glm-5.3"
+}

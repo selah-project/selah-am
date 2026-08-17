@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "የግብፅ ንጉሥ በኢየሩሳሌም አንሥቶ አስወጣው፤ እና ምድሩን ⟨את⟩ በመቶ ቄኬሳ ብር እና በአንድ ቄኬሳ ወርቅ በደለው።",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "አንሥቶ አስወጣው"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "የግብፅ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "በኢየሩሳሌም"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "በደለው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሩን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩን"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "በመቶ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ቄኬሳ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "እና በአንድ ቄኬሳ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:03:08.105823945Z",
+  "model": "glm-5.3"
+}

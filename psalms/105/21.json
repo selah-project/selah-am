@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "እርሱን የ⟨ማንኛውም⟩ ቤቱ ጌታ አደረገው፤ በሁሉም ንብረቱ ላይ መገዢ አደረገው።",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "አደረገው"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ጌታ"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ለቤቱ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "እና መገዢ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉ"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "ንብረቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:22.014300143Z",
+  "model": "glm-5.3"
+}

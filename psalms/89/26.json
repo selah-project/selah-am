@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "እጁን በባሕር ላይ፣ ቀኝ እጁንም በወንዞች ላይ እሰይዳለሁ።",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "እና እሰይዳለሁ"
+    },
+    {
+      "surface": "בים",
+      "gloss": "በባሕር"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "እና በወንዞች"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ቀኝ እጁን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:49.915278843Z",
+  "model": "glm-5.3"
+}

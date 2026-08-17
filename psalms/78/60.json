@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "የሲሎን መቅደስ፣ በሰው ልጆች መካከል ያሰማራውን ድንኳን ትቶ ሄደ።",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "ትቶ ሄደ"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "መቅደስ"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "የሲሎ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ያሰማራው"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "በሰው ልጆች መካከል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:24.198076331Z",
+  "model": "glm-5.3"
+}

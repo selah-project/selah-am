@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "እናንተም ⟨את⟩ ሥጋን የልብሳችሁን ትገርዛላችሁ፤ እናማ ⟨it⟩ ለምልክት ይሆናል የቃል ኪዳን በእኔ እና በእናንተ መካከል።",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "እናንተም ትገረዛላችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሥጋን"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "የልብሳችሁ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ይሆናልም"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "ለምልክት"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "የቃል ኪዳን"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "በእኔ እና"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "በእናንተ መካከል"
+    }
+  ],
+  "timestamp": "2026-08-16T02:37:21.005802802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "በሕይወቷ ቀኖች ሁሉ በጎ ታደርገዋለች፣ ክፉ አይደለም።",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "ታደርገዋለች"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "በጎ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀኖች"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "በሕይወቷ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:38:42.968046654Z",
+  "model": "glm-5.3"
+}

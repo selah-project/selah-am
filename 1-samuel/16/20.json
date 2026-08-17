@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "1-samuel 16:20",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ይሥይም ዳቦ የተጭነውን አንድ ተልባሪ፣ የወይን ወይን ቆዳ ጠርሙስ፣ አንድም የፍየል ጠጒር ወስዶ በልጁ በዳዊት እጅ ወደ ሳኦል ላከ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወስዶ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ይሥይ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ተልባሪ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦ"
+    },
+    {
+      "surface": "ונאד",
+      "gloss": "ወይን ጠርሙስም"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ወይን"
+    },
+    {
+      "surface": "וגדי",
+      "gloss": "ጠጒርም"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "የፍየል"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጅ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    }
+  ],
+  "timestamp": "2026-08-16T05:41:46.229207843Z",
+  "model": "glm-5.3"
+}

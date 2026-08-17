@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "የተሰቀለ፣ የተረገጠም፣ የተቆረጠም ሽንት ቱቦ ያለው በያህዌህ በቅብር አይገባም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይገባም"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ይገባል"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "የተሰቀለ"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "የተረገጠ"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "እና የተቆረጠ"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ሽንት ቱቦ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "በቅብር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:49:23.968824853Z",
+  "model": "glm-5.3"
+}

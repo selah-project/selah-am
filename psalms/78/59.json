@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "ኤሎሂም ሰማ፣ ተቈጣም፤ እስራኤልንም በጣም ጣለ።",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "ተቈጣም"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "ጣለ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "እስራኤልን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:24.197273281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "የከንፈሩ ወንድ ስም ዮኤል ነበር፤ የሁለተኛውም አብያ ነበር፤ ፈራጆች በቤርሸባ እነሱ ነበሩ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ\/ነበር"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወንዱ የ…ሆነ"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ከንፈሩ ወንድ"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "ዮኤል"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "የ…ስምም"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "ሁለተኛው ወንዱ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "አብያ"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ፈራጆች እነሆ"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "በቤር"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸባ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:33:45.789963170Z",
+  "model": "glm-5.3"
+}

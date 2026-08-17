@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ሰሎም ደግሞ ⟨את⟩ ኅልቅያን ወለደ፤ ኅልቅያ ደግሞ ⟨את⟩ ዐዛርያን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "ሰሎም ደግሞ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኅልቅያን"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "ኅልቅያን"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "ኅልቅያ ደግሞ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዐዛርያን"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ዐዛርያን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:35:55.796061448Z",
+  "model": "glm-5.3"
+}

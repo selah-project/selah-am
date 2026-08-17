@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 103,
+  "translation": "ያህዌህን ⟨את⟩ ባረክ ነፍሴ ሆይ፤ በጎታዎቹን ሁሉ በጭራሽ አትርስ።",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "ባረክ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ ሆይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "ርስ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "በጎታዎቹን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:11.680840438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የሐሪም ልጆች ሶስት መቶ እና ሃያ።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ሐሪም"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሶስት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "እና ሃያ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:50:12.854944813Z",
+  "model": "glm-5.3"
+}

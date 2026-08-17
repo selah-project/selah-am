@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "2-samuel 1:20",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "በጋት አትንገሩ፤ በአስቃሎን አደባባይ አትስሩ፤ የፍልስጤም ሴቶች እንዳደሰቁ፣ ያልተሰነደቱት ሴቶች እንዳበዱ ፈርሶ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "ትንገሩ"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "በጋት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תבשרו",
+      "gloss": "ትስሩ"
+    },
+    {
+      "surface": "בחוצת",
+      "gloss": "በአደባባይ"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "አስቃሎን"
+    },
+    {
+      "surface": "פן",
+      "gloss": "እንዳ"
+    },
+    {
+      "surface": "תשמחנה",
+      "gloss": "ደሰቱ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ሴቶች"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "የፍልስጤም"
+    },
+    {
+      "surface": "פן",
+      "gloss": "እንዳ"
+    },
+    {
+      "surface": "תעלזנה",
+      "gloss": "በዱ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ሴቶች"
+    },
+    {
+      "surface": "הערלים",
+      "gloss": "ያልተሰነደቱት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:53:24.502491196Z",
+  "model": "glm-5.3"
+}

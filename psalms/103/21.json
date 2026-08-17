@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 103,
+  "translation": "እናንተ ሁሉም የያህዌህ ሠራዊቶች፣ ፈቃዱን የሚያደርጉ አገልጋዮቹ ሆይ፣ ያህዌህን ባርኩ።",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "ባርኩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "ሠራዊቶቹ"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "አገልጋዮቹ"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "የሚያደርጉ"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "ፈቃዱን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:45.467085540Z",
+  "model": "glm-5.3"
+}

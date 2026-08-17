@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "በቀንም በሌሊትም እንዲገዙ፣ በብርሃንና በጨለማ መካከልም እንዲለዩ — ኤሎሂም በረከተኛ እንደሆነ አየ።",
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "እንዲገዙ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "በሌሊትም"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "እንዲለዩ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በ...መካከል"
+    },
+    {
+      "surface": "האור",
+      "gloss": "በብርሃን"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "በማንነትም መካከል"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "በጨለማ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "በረከተኛ እንደሆነ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:28:33.440953250Z",
+  "model": "glm-5.3"
+}

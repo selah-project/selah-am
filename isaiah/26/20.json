@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "isaiah 26:20",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ሕዝቤ ሆይ፣ ሂድ፤ ወደ ክፍሎችህ ግባ፣ በስተጀርባህም በሮችህን ዝጋ፤ እስኪያልፍ ጊዜ ድረስ ለአፍታ ተሰውር፤ እስከ ቍጣው መሻገር ድረስ።",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤ ሆይ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ግባ"
+    },
+    {
+      "surface": "בחדריך",
+      "gloss": "ወደ ክፍሎችህ"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "ዝጋም"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "በሮችህን"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "በስተጀርባህ"
+    },
+    {
+      "surface": "חבי",
+      "gloss": "ተሰውር"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ትንሽ"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "ለአፍታ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ መሻገር ድረስ"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "እስኪያልፍ ጊዜ"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ቍጣው"
+    }
+  ],
+  "timestamp": "2026-08-16T07:10:32.324626280Z",
+  "model": "glm-5.3"
+}

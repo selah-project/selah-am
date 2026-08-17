@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ድካሜን እና ሥቃዬን ተመልከት፤ ኃጢያቴን ሁሉ ተሸከም።",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ተመልከት"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ድካሜን"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "እና ሥቃዬን"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "ተሸከም"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "ኃጢያቴን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:39.129112282Z",
+  "model": "glm-5.3"
+}

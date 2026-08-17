@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "ተበዳሪ ያለውን ሁሉ ያሰማር፤ የባህር ማዶዎችም የእጁን ሠራት ይበዝቡ።",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "ያሰማር"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "ተበዳሪ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለርሱ"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "ይበዝቡም"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "የባህር ማዶዎች"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "የእጁን ሠራት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:30.934374257Z",
+  "model": "glm-5.3"
+}

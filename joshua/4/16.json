@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ምስክሩን የሚሸከሙትን ካህናት ⟨את⟩ እንዘዝላቸው፤ ከዮርዳኖስም ይወጡ።",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "እንዘዝላቸው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ካህናትን"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "የሚሸከሙትን"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ምስክሩን"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ይወጡ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:59:20.555707883Z",
+  "model": "glm-5.3"
+}

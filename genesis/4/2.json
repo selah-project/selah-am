@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እርሷም ወንድሙን ዐቤልን ⟨את⟩ ለመውለድ ቀጠለች፤ ዐቤልም በጎችን የሚያሰማ ሆነ፤ ቀይንም ምድርን የሚያለማ ነበር።",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "ቀጠለች"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "ለመውለድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንድሙን"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሙን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዐቤል"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ዐቤል"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ዐቤል"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "የሚያሰማ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "በጎችን"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "ቀይንም"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበር"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "የሚያለማ"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ምድርን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:30:05.781336324Z",
+  "model": "glm-5.3"
+}

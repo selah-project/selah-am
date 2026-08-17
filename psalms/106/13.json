@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 106:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "በፍጥነት ሮጡ፣ ሥራዎቹን ረሱ፤ ምክሩን አልጠበቁም።",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "በፍጥነት ሮጡ"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "ረሱ"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ሥራዎቹን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "ጠበቁ"
+    },
+    {
+      "surface": "לעצתו",
+      "gloss": "ምክሩን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:29.949157399Z",
+  "model": "glm-5.3"
+}

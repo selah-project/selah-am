@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እና ጽቅላግ፣ እና የሰረገላዎች ቤት፣ እና የፈረሶች አደባባይ",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "እና ጽቅላግ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "እና የ...ቤት"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "ሰረገላዎች"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "እና አደባባይ"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "የፈረሶች"
+    }
+  ],
+  "timestamp": "2026-08-16T05:09:33.613402830Z",
+  "model": "glm-5.3"
+}

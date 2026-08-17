@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "በዚያው ቀን ይበላል፤ ከእሱ ምንም እስከ ጠዋት አትተዉም፤ እኔ ያህዌህ ነኝ።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "በዚያው ቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያኔ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበላል፤"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "ተዉም፤"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእሱ ምንም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ጠዋት"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ ነኝ።"
+    }
+  ],
+  "timestamp": "2026-08-16T03:58:15.786865066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ለዳዊድ መዝሙር፣ ከልጁ ከአብሻሎም ፊት በሸሸበጊዜ።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊድ"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "በሸሸበጊዜ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከፊት"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ከአብሻሎም"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:28:13.224136293Z",
+  "model": "glm-5.3"
+}

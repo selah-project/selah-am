@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 124,
+  "translation": "ነፍሳችን እንደ ወፍ ከወጥተኞች ወጥ ወጥቷል፤ ወጡ ተሰባርቷል፣ እኛም ወጥተናል።",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "ነፍሳችን"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "እንደ ወፍ"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "ወጥቷል"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "ከወጥ"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "ወጥተኞች"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "ወጡ"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "ተሰባርቷል"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "እኛም"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "ወጥተናል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:24.528449300Z",
+  "model": "glm-5.3"
+}

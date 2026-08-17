@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "song-of-songs 8:5",
+  "book": "song-of-songs",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ይህችስ ማንናት? ከምድረ በዳ ትወጣለች፣ በወዳጇ ላይ ተጠግታ ቆማ፤ በታፋሽ ሥር አስነሳሁህ፤ በዚያ እናትህ አስገኘችህ፤ በዚያ ከወለደችህ አስገኘችህ።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህችስ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ትወጣለች"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ምድረ በዳ"
+    },
+    {
+      "surface": "מתרפקת",
+      "gloss": "ተጠግታ ቆማ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "דודה",
+      "gloss": "ወዳጇ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ…ሥር"
+    },
+    {
+      "surface": "התפוח",
+      "gloss": "ታፋሽ"
+    },
+    {
+      "surface": "עוררתיך",
+      "gloss": "አስነሳሁህ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "חבלתך",
+      "gloss": "አስገኘችህ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "እናትህ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "አስገኘች"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "ወለደችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:07:04.515883603Z",
+  "model": "glm-5.3"
+}

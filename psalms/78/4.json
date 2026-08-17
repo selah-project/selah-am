@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "ከልጆቻቸው አንሰውም፤ ለመጨረሻው ትውልድ የያህዌህን ምስጋማት፣ ኃይሉንም፣ ተአምራቱንም የሠራቸውን እናገራለን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አንሰውም"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "እንሰውም ከ"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "ልጆቻቸው"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ለትውልድ"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "መጨረሻው"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "እናገራለን"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "ምስጋማት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህን"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "ኃይሉንም"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ተአምራቱንም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ሠራቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:11.267425452Z",
+  "model": "glm-5.3"
+}

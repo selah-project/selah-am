@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የያህዌህ ቃል ወደ ዮና የአሚታይ ልጅ መጣ፤ ሲል፦",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ዮና"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "አሚታይ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:11:04.001327398Z",
+  "model": "glm-5.3"
+}

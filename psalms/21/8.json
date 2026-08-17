@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ምክንያቱም ንጉሱ በያህዌህ ያምናል፤ በዓለተ ልዩ ምሕረትም አይናወጥም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሱ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ያምናል\/ያመካል"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "በያህዌህ"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "ና በምሕረት"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "የዓለተ ልዩ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "አይ\/ፈጽሞ"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "አይናወጥም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:52.863226491Z",
+  "model": "glm-5.3"
+}

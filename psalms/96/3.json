@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 96,
+  "translation": "ክብሩን በአሕዛብ መስርዙ፤ ድንቆቹን በሕዝቦች ⟨ሁሉ⟩።",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "መስርዙ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "በአሕዛብ"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ክብሩን"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "በሕዝቦች"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ድንቆቹን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:39.889671351Z",
+  "model": "glm-5.3"
+}

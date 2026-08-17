@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እኔም ⟨את⟩ ሦስቱን አረቦች በአንድ ወር ውስጥ ጠፋኋቸው፤ ሕይወቴ በእነሱ ተበሳጭታለች፣ የእነሱም ሕይወት በእኔ አልቆርጥም ነበር።",
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "ጠፋኋቸዋልም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሦስቱን"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሦስቱን"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "አረቦችን"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "በወር"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "በአንድ ውስጥ"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "ተበሳጭታለችም"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ሕይወቴ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "በእነሱ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ስለዚህም"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "የእነሱ ሕይወት"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "አልቆርጠውም ነበር"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:25:18.987294767Z",
+  "model": "glm-5.3"
+}

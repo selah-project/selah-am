@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 59,
+  "ref": "psalms 119:59",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "መንገዶቼን አሰብሁ እና እግሮቼን ወደ ምስክሮችህ መለስሁ።",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "አሰብሁ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "መንገዶቼን"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "እና መለስሁ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "እግሮቼን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ምስክሮችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:18.401800525Z",
+  "model": "glm-5.3"
+}

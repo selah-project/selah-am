@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ዳዊድም ⟨את⟩ በጎቹንና ላሞቹን ሁሉ ወሰደ፤ በዚያች ከብት ፊት አስነዱአቸው፤ «ይህ የዳዊድ ዘርፈኛ ⟨ነው⟩» አሉም።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በጎቹንና ላሞቹን ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "በጎቹን"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "እና ላሞቹን"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "አስነዱአቸው"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "ከብቱ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "አሉ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ዘርፈኛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "የዳዊድ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:51:02.597905045Z",
+  "model": "glm-5.3"
+}

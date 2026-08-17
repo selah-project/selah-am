@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ንጉሡም አለ፦ መሞት ትሞታለህ አኪሜሌክ ሆይ፣ አንተም እና የአባትህ ቤት ሁሉ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "መሞት"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ትሞታለህ"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "አኪሜሌክ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እናሁሉ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "የአባትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:47:53.795011734Z",
+  "model": "glm-5.3"
+}

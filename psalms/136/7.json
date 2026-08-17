@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 136,
+  "translation": "ታላላቅ ብርሃኖችን ለሠራ፣ በእውነት ለዘላለም ምክሩ ይኖራል፤ ታላላቅ ብርሃኖችን ለፈጠረ፣ ለዘላለም ምክሩ ይኖራል።",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "ለሠራ"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "ብርሃኖችን"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ታላላቅ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ምክሩ (ችሮታው)"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:49.012488466Z",
+  "model": "glm-5.3"
+}

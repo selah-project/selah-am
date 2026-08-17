@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ትእዛዙን ⟨את⟩፣ ሥርዓቶቹን ⟨את⟩ እና ፍርዶቹን ⟨את⟩ ስለዚህ ታስጠብቃለህ፣ ዛሬ ለማድረግ የምታዝዛቸውን።",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "ስለዚህ ታስጠብቃለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዙን"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ትእዛዙን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሥርዓቶቹን"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ሥርዓቶቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ፍርዶቹን"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ፍርዶቹን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምታዝዛቸውን"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "የምታዝዛህ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "ለማድረግ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:56:25.451944056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 57,
+  "translation": "በመንገድህ ብዛት ደከምክ፣ «ተስፋ ቆርጦአል» አልብለህም፤ የእጅህን ሕይወት አገኘህ፣ ስለዚህም አልታመምክም።",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "በ... ብዛት"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "መንገድህ"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "ደከምክ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "አልብለህም"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "«ተስፋ ቆርጦአል»"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ሕይወት"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "የእጅህን"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "አገኘህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ስለዚህም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "አልታመምክም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:28:55.041179940Z",
+  "model": "glm-5.3"
+}

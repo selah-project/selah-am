@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እነሱም እሷን ⟨את⟩ እና ⟨את⟩ ሁሉን የመሣሪያዎችዋን በተሐሳሐ ቆዳ ሽፋን ውስጥ ያስቀምጣሉ፣ እንዲሁም በበትሩ ላይ ያስቀምጣሉ።",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "ያስቀምጣሉ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እሷን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሁሉን የመሣሪያዎችዋን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "የመሣሪያዎችዋን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ውስጥ"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ሽፋን"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ቆዳ"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "የተሐሳሐ"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ያስቀምጣሉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "በበትሩ"
+    }
+  ],
+  "timestamp": "2026-08-17T06:03:38.338406510Z",
+  "model": "glm-5.3"
+}

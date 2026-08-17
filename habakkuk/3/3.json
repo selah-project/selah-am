@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "habakkuk 3:3",
+  "book": "habakkuk",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ኤሎሀ ከተማን ይመጣል፤ ቅዱሱም ከፓራን ተራራ፤ ሴላ። ክብሩ ሰማያትን ሸፈነ፤ ዝማሬውም ምድርን ሞላው።",
+  "tokens": [
+    {
+      "surface": "אלוה",
+      "gloss": "ኤሎሀ"
+    },
+    {
+      "surface": "מתימן",
+      "gloss": "ከተማን"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ይመጣል"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "ቅዱሱም"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ከ…ተራራ"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "ፓራን"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ሸፈነ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያትን"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ክብሩ"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "ዝማሬውም"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ሞላው"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድርን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:08:51.029852021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "isaiah 31:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "እና አሦር የሰው ሳይሆን በሰይፍ ይወድቃል፤ የሰው ሳይሆን ሰይፍ ይበላዋል፤ ለራሱ ከሰይፍ ፊት ይሸሻል፤ ወጣቶቹም ለግብር ይሆናሉ።",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "እና ይወድቃል"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "አሦር"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "በሰይፍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ሳይሆን አይደለም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "እና ሰይፍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ሳይሆን አይደለም"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ይበላዋል"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "እና ይሸሻል"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለራሱ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከ…ፊት"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    },
+    {
+      "surface": "ובחוריו",
+      "gloss": "እና ወጣቶቹ"
+    },
+    {
+      "surface": "למס",
+      "gloss": "ለግብር"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ይሆናሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:14:32.729074233Z",
+  "model": "glm-5.3"
+}

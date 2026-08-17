@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የሔላ ልጆችም ጸሬት፣ ይጽሐር እና እትናን ናቸው።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "የ…ልጆችም"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "ሔላ"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "ጸሬት"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "ይጽሐር"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "እና እትናን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:37:19.104807990Z",
+  "model": "glm-5.3"
+}

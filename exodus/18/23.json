@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ይህንን ⟨את⟩ ቃል ብታደርግ፣ ኤሎሂምም ብዙርህ እንደሆነ፣ ትችላለህ ⟨ልትቆም⟩፤ ይህ ሕዝብ ሁሉም በሰላም ወደ ስፍራው ይመለሳል።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ\/ከ…ብታደርግ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃልን ይህንን"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃልን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህንን"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ብታደርግ"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "ብዙርህም\/ብዘዝህም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "ትችላለህም"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ልትቆም"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እናም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "የሕዝቡ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ\/በ…ላይ"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "ስፍራው"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ይመለሳል\/ይሄዳል"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "በሰላም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:19:25.068847668Z",
+  "model": "glm-5.3"
+}

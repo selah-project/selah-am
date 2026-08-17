@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "አልፈው የሚሄዱ ሁሉ እንደ ተቃጠሉት ሰለቁት፤ ለአጎራባችዎቹም አፍኝቶ ሆነ።",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "አልፈው የሚሄዱ ሁሉ ሰለቁት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "አልፈው የሚሄዱ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "የሚሄዱ ሰለቁት"
+    },
+    {
+      "surface": "היה",
+      "gloss": "አፍኝቶ ሆነ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "እንደ ተቃጠሉት አፍኝቶ"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "ለአጎራባችዎቹም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:20.315554492Z",
+  "model": "glm-5.3"
+}

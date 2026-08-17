@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እና ⟨እርሱ⟩ ዓለምን በጽድቅ ይፈርዳል፤ ሕዝቦችን በቀጥታ ይፈርዳል።",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "እና ⟨እርሱ⟩"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ይፈርዳል"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ዓለምን"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "በጽድቅ"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ይፈርዳል"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ሕዝቦችን"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "በቀጥታ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:31.940224963Z",
+  "model": "glm-5.3"
+}

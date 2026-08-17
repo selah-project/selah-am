@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "በአዝሙድ ታነጽኝ እና ንጹህ እሆናለሁ፤ ታጠብኝ እና ከበረዶ ይልቅ እበዛለሁ።",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "ታነጽኝ"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "በአዝሙድ"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "እና ንጹህ እሆናለሁ"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "ታጠብኝ"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "እና ከበረዶ ይልቅ"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "እበዛለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:45:37.165760396Z",
+  "model": "glm-5.3"
+}

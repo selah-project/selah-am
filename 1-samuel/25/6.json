@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 25:6",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "እናንተም እንዲህ ትላችሁ፦ ለሕይወት! አንተም ሰላም፣ ቤትህም ሰላም፣ የአንተም ሁሉ ሰላም ይሁንልህ።",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "ትላችሁ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "ለሕይወት"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "አንተም"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "ቤትህም"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…"
+    },
+    {
+      "surface": "לך",
+      "gloss": "የአንተ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም ይሁንልህ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:46:42.479928731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ንጹሑን ተመልከት፣ ቀጥተኛውንም ተመኝ፤ በሰላም ላለው ሰው መጨረሻ አለና።",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ተመልከት"
+    },
+    {
+      "surface": "תם",
+      "gloss": "ንጹሑን"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "እና ተመኝ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ቀጥተኛውንም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "አለና"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "መጨረሻ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ላለው ሰው"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "በሰላም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:40:28.283288452Z",
+  "model": "glm-5.3"
+}

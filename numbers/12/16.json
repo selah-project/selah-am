@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ከዚያም በኋላ ሕዝቡ ከሐጼሮት ተነሳ፤ በፓራን ምድረ በዳርም ደመሩ።",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ከዚያም በኋላ"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "ተነሱ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "ከሐጼሮት"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ደመሩም"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በ...ምድረ በዳር"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "ፓራን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:13:42.894415213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "ምክንያቱም እኔ እስከ መጥለቅ ዝግጁ ነኝ፤ ሥቃዬም ሁልጊዜ ፊቴ ላይ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "እስከ መጥለቅ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ዝግጁ ነኝ"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "ሥቃዬም"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "ፊቴ ላይ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:40:54.467297430Z",
+  "model": "glm-5.3"
+}

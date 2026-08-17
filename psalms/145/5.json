@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 145,
+  "translation": "ክብርህ በኃላቅነትህ ድንቅ ሥራዎችህንም ቃላት አስብበታለሁ።",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "ኃላቅነት"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብር"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "በኃላቅነትህ"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "ቃላትም"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ድንቅ ሥራዎችህን"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "አስብበታለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:21.621458798Z",
+  "model": "glm-5.3"
+}

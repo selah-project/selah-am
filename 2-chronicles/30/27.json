@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-chronicles 30:27",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ካህናቱ፣ ሌዋዊዎቹም ተነሥተው ⟨את⟩ ሕዝቡን ባረኩ፤ ድምፃቸው ተሰማ፤ ጸሎታቸውም ወደ ቅዱስ መኖሪያው እስከ ሰማያት ወጣ።",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ተነሥተው"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናቱ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ሌዋዊዎቹ"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "ባረኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ተሰማ"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "ድምፃቸው"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ጸሎታቸው"
+    },
+    {
+      "surface": "למעון",
+      "gloss": "ወደ መኖሪያ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስ የሆነው"
+    },
+    {
+      "surface": "לשמים",
+      "gloss": "እስከ ሰማያት"
+    }
+  ],
+  "timestamp": "2026-08-16T18:54:41.202798685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "መሥዋዕት እና ቊርባን አልፈለግህም፤ ጆሮዎች ሠራህልኝ፤ የሚቃጠል መሥዋዕት እና የኃጢአት መሥዋዕት አልጠየቅህም።",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "መሥዋዕት"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "እና ቊርባን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "ፈለግህ"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "ጆሮዎች"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "ሠራህልኝ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "የሚቃጠል መሥዋዕት"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "እና የኃጢአት መሥዋዕት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "ጠየቅህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:39.644139610Z",
+  "model": "glm-5.3"
+}

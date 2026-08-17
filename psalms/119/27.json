@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "psalms 119:27",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "የትእዛዝዎችህን መንገድ አስገባኝ በአስደናቂነቶችህም አስብ።",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "የትእዛዝዎችህን"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "አስገባኝ"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "አስብ"
+    },
+    {
+      "surface": "בנפלאותיך",
+      "gloss": "በአስደናቂነቶችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:29.257257823Z",
+  "model": "glm-5.3"
+}

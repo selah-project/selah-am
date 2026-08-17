@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 60,
+  "translation": "የሚወዷትህ ይድኑ ዘንድ፤ በቀኝ እጅህ አድን፣ በሉንም።",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "…ዘንድ"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "ይድኑ"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "የሚወዷትህ"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "አድን"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "በቀኝ እጅህ"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "በሉንም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:39.627347654Z",
+  "model": "glm-5.3"
+}

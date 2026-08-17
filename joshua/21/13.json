@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ለአሃሮን ልጆች ለካህኑ የሚሸሽ ሰሌዳ ከተማን ⟨את⟩ ለገዳሙ ክረንን ⟨את⟩ ከመሬቶቿ ጋር በመስጠት ለብነህን ⟨את⟩ ከመሬቶቿ ጋር ሰጡ።",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ለ...ልጆች"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ለካህኑ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ሰጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተማን"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "የሚሸሽ ሰሌዳ"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ለገዳሙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክረንን"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ክረን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ከ...ጋር ⟨את⟩",
+      "marks": "መሬቶቿን"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መሬቶቿ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ለብነህን"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ለብነህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ከ...ጋር ⟨את⟩",
+      "marks": "መሬቶቿን"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መሬቶቿ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:10:51.675128082Z",
+  "model": "glm-5.3"
+}

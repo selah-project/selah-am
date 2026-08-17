@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "አንበሳ — ⟨ከ⟩ እንስሳት ጠንካራ፣ ከማንኛውም ፊት የሚመለስ አይደለም።",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "አንበሳ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ጠንካራ"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "እንስሳት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይደለምም"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "የሚመለስ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከ…ፊት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ማንኛውም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:37:58.447356658Z",
+  "model": "glm-5.3"
+}

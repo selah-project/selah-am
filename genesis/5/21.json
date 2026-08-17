@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ሄኖክም ሃምሳ እና ስድስት ዓመት ኖረ፤ እና ⟨את⟩ ሜቱሼላንን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ኖረ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ሄኖክ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ሃምሳ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "እና ስድስት"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሜቱሼላን"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "ሜቱሼላን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:31:18.793932751Z",
+  "model": "glm-5.3"
+}

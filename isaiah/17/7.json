@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 17:7",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "በዚያ ቀን ሰው ሰሪውን ወደ እርሱ ይመለከታል፤ ዐይኖቹም ወደ ቅዱሱ እስራኤል ይመለከታሉ።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያንን"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "ይመለከታል"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "ሰሪውን"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "እና ዐይኖቹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱሱ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "ይመለከታሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:57:13.541766526Z",
+  "model": "glm-5.3"
+}

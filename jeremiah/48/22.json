@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "እና በዲቦን ላይ፣ እና በነቦ ላይ፣ እና በቤት-ዲብላታይም ላይ።",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "እና በ…ላይ"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "ዲቦን"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ…ላይ"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "ነቦ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ…ላይ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት-"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "ዲብላታይም"
+    }
+  ],
+  "timestamp": "2026-08-16T08:10:40.746529829Z",
+  "model": "glm-5.3"
+}

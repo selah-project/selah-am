@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እኔም ሄጄ እቤራት ⟨את⟩ ሸፈንሁት፣ እንደዚህ እንዳዘዘኝ ያህዌህ።",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "ሄጄ"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "ሸፈንሁት"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "እቤራት"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "እኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:47:40.872318437Z",
+  "model": "glm-5.3"
+}

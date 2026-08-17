@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 124,
+  "translation": "ከዚያን ጊዜ በነፍሳችን ላይ የቆጣቢው ውኃ ያልፍ ነበር።",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "ከዚያን ጊዜ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ያልፍ ነበር"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ነፍሳችን"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውኃ"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "የቆጣቢው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:24.528113574Z",
+  "model": "glm-5.3"
+}

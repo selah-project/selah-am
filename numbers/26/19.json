@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "numbers 26:19",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "የይሁዳ ልጆች ዕር እና አውናን ነበሩ፤ ዕር እና አውናንም በከነዓን ምድር ሞቱ።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ዕር"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "እና አውናን"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞቱ፤"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ዕር"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "እና አውናን"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በ... ምድር"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነዓን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:23:50.079790458Z",
+  "model": "glm-5.3"
+}

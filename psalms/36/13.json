@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "እዚያ የአመካያኝ ሠሪዎች ወደቁ፤ ወደቁ እና ሊነሱ አልተቻላቸውም።",
+  "tokens": [
+    {
+      "surface": "שָׁם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "נָפְלוּ",
+      "gloss": "ወደቁ"
+    },
+    {
+      "surface": "פֹּעֲלֵי",
+      "gloss": "ሠሪዎች"
+    },
+    {
+      "surface": "אָוֶן",
+      "gloss": "አመካያኝ"
+    },
+    {
+      "surface": "דֹּחוּ",
+      "gloss": "ወደቁ\/ተገፉ"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "יָכְלוּ",
+      "gloss": "ቻሉ"
+    },
+    {
+      "surface": "קוּם",
+      "gloss": "ሊነሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:37:39.795752256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 63,
+  "translation": "የዳዊት መዝሙር፣ በይሁዳ ምድረ በዳ ሳለ።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "የዳዊት"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "ሳለ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በምድረ በዳ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:45.728611868Z",
+  "model": "glm-5.3"
+}

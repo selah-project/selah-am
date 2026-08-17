@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "አንተ ግን እስራኤል አገልጋዬ ነህ፤ ያዕቆብ የመረጥኩህ፤ የአብርሃም ዘር፣ የወደድኩህ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተ ግን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "አገልጋዬ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "የመረጥኩህ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘር"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃም"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "የወደድኩህ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:19:33.849682493Z",
+  "model": "glm-5.3"
+}

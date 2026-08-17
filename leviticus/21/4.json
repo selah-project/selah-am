@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ባል በሕዝቡ ውስጥ ራሱን እንዳያቀላቅል አያረክስም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ያረክስም"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ባል"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "በሕዝቡ ውስጥ"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "ራሱን እንዳያቀላቅል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:57:40.663189248Z",
+  "model": "glm-5.3"
+}

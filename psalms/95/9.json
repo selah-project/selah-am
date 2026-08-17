@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 95,
+  "translation": "አባቶቻችሁ የፈተኑኝ በዚያ፣ የመረመሩኝም ሆኖ፣ ሥራዬንም እንኳ ያዩ ነበር።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "የፈተኑኝ በዚያ"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "ፈተኑኝ"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "አባቶቻችሁ"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "መረመሩኝ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንኳ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ያዩ ነበር"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ሥራዬን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:45.926547115Z",
+  "model": "glm-5.3"
+}

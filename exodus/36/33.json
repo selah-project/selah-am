@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "መካከለኛውን በትር ከአንዱ ጫፍ እስከ ሌላው ጫፍ ድረስ በምኩራቡ ውስጥ እንዲዘል አደረገው።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መካከለኛውን በትር"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "በትርን"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "መካከለኛው"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "እንዲዘል"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በ…ውስጥ"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ምኩራቡ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "አንዱ ጫፍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "ሌላው ጫፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:38:06.026647900Z",
+  "model": "glm-5.3"
+}

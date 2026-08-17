@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 61,
+  "ref": "psalms 78:61",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "ኃይሉን ለምርኮ ሰጠ፣ በጎነቱንም በጠላት እጅ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "ለምርኮ"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "ኃይሉን"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "በጎነቱንም"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጅ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ጠላት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:44.671527442Z",
+  "model": "glm-5.3"
+}

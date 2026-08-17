@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "ሰው እንዳይበዳቸው አልፈቀደም፤ ስለ እነርሱም ነገሥታትን ያወቃል።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አልፈቀደም"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "አልፈቀደ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "እንዳይበዳቸው"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "ያወቃል"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ስለ እነርሱ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ነገሥታትን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:26.177430905Z",
+  "model": "glm-5.3"
+}

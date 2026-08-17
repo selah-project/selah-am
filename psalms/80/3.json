@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 80,
+  "translation": "ከኤፍራይም እና ከብንያምና ከምናሴ ፊት ⟨את⟩ ኃይልህን አስቅን፣ ወደ መዳናችን ና።",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "ከ…ፊት"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "እና ብንያም"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "እና ምናሴ"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "አስቀስቅስ\/አስቅን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኃይልህን"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "ኃይልህን"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "እና ና"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "ወደ መዳናችን"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:56.193951752Z",
+  "model": "glm-5.3"
+}

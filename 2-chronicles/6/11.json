@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የያህዌህን ቃል ኪዳን ⟨את⟩ የሚይዘውን ታቦትም እዚያ አኖርበታለሁ፤ ከእስራኤል ልጆች ጋር ያርጋል።",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "አኖርበታለሁ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦትን"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ቃል ኪዳን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ያረጋ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T13:33:29.352670571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "ከሌባ ጋር የሚከፋፈል ራሱን ይጠላል፤ መርገም ይሰማል አንሳ አይናገርም።",
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "የሚከፋፈል"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ሌባ"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ይጠላል"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ራሱን"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "መርገምን"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ይሰማል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ይናገርም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:36:38.151121384Z",
+  "model": "glm-5.3"
+}

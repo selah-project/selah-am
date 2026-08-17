@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ከሃብሳ አመት ልጅነት በኋላ ከአገልግሎት ሠራዊት ይመለሳል፣ እና ከዚያ በኋላ አይደረግም።",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "ከ…ልጅነት"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ሃብሳ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "አመት"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ይመለሳል"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "ከ…ሠራዊት"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "የአገልግሎት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና…አይ"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "ይደረግም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ከዚያ በኋላ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:17:41.644713328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ለዮሴፍ ልጆች ለኤፍራይም ኤልይሻማ የዓሚሁድ ልጅ፣ ለምናሴ ገምልኤል የፕዳሡር ልጅ።",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "ለ… ልጆች"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ለኤፍራይም"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "ኤልይሻማ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "ዓሚሁድ"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "ለምናሴ"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "ገምልኤል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "ፕዳሡር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:02:53.267741845Z",
+  "model": "glm-5.3"
+}

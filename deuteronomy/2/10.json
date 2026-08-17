@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ኤሚማውያን ቀድሞ በእርሷ ይኖሩ ነበር፤ ታላቅ፣ ብዙም ከፍም ያለ ሕዝብ፣ እንደ ዐናቂም።",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "ኤሚማውያን"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ቀድሞ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ይኖሩ ነበር"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሷ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "እና ብዙ"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "እና ከፍ ያለ"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "እንደ ዐናቂም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:32:36.716230653Z",
+  "model": "glm-5.3"
+}

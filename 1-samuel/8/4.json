@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-samuel 8:4",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ከዚያም የእስራኤል ሽማግሌዎች ሁሉ ተሰበሰቡ፤ ወደ ሳምዌልም በራማ መጡ።",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "ተሰበሰቡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ሽማግሌዎች የ…"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳምዌልም"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "በራማ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:33:45.790323103Z",
+  "model": "glm-5.3"
+}

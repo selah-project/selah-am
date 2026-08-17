@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "የኤሎሂምን ስም በዝማሬ አመሰግናለሁ፤ በምስጋና እከብረዋለሁ።",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "አመሰግናለሁ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "በዝማሬ"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "እከብረዋለሁ"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "በምስጋና"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:21.820536519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ወደ ⟨ረቡዕ ውንጭ⟩ ግባ፣ በአፊውም ተሰውር፤ ከያህዌህ ፍርሃት እና ከትልቅነቱ ክብር ስለ ⟨መገኘቱ⟩።",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "ግባ"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ወደ ውንጭ"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "ተሰውር"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "በአፊው"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከፊት"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ፍርሃት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "እና ከክብር"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "ትልቅነቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:55:29.876978348Z",
+  "model": "glm-5.3"
+}

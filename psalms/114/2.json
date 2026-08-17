@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 114,
+  "translation": "ይሁዳ ሆነ ለቅዱሱ፣ እስራኤል ለመንግሥቱ፤",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ለቅዱሱ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "ለመንግሥቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:52.068034215Z",
+  "model": "glm-5.3"
+}

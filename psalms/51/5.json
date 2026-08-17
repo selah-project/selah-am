@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "እንደዚህ በደሎቼን እኔ አውቃለሁ፤ ኃጢያቴም ሁልጊዜ በፊቴ ⟨ትገኛለች⟩።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "በደሎቼን"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "አውቃለሁ"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "ኃጢያቴም"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "በፊቴ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:01.016113009Z",
+  "model": "glm-5.3"
+}

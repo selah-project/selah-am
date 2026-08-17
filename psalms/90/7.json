@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 90,
+  "translation": "በቍጣህ ኮንን፤ በንዴትህ ተስተጋበይን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ ገና"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "ኮንን"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "በቍጣህ"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "በንዴትህ"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "ተስተጋበይን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:43.912801134Z",
+  "model": "glm-5.3"
+}

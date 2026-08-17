@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 11:11",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሯጮቹም እያንዳንዱ የራሱን መሣሪያ በእጁ ይዞ ከቤቱ ቀኝ ጎን እስከ ቤቱ ግራ ጎን ድረስ፣ በመሠዊያውም በቤቱም አካባቢ፣ በንጉሡ ዙሪያ ቆሙ።",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "ቆሙ"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "ሯጮቹ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "የራሱን መሣሪያ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "በእጁ"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "ከትከሻ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ቀኝ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "ትከሻ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ግራ"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "በመሠዊያው"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "እና በቤቱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ዙሪያ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:52:12.480084916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 19:8",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ይህችን ከተማ ⟨את⟩ ጥፋትና ማስቀለል አደርጋታለሁ፤ እርሷን የሚያልፍ ሁሉ ይደነግጣል፣ በቁስሎቿ ሁሉ ይጮኻል።",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "አደርጋታለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተማ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህችን"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "ጥፋት"
+    },
+    {
+      "surface": "ולשרקה",
+      "gloss": "ማስቀለል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "የሚያልፍ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "እርሷን"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "ይደነግጣል"
+    },
+    {
+      "surface": "וישרק",
+      "gloss": "ይጮኻል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מכתה",
+      "gloss": "ቁስሎቿ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:13:21.202513929Z",
+  "model": "glm-5.3"
+}

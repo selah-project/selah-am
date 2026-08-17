@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "proverbs 17:24",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ጥበብ በአሳቢ ⟨את⟩ ፊት ትገኛለች፤ የሞኝ ዐይኖች ግን በምድር ጫፍ ላይ ናቸው።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊት"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "አሳቢ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "ዐይኖችም"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ሞኝ"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "በጫፍ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:28:43.723327436Z",
+  "model": "glm-5.3"
+}

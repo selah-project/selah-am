@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "ምሕረተ ያህዌህ ለዘለዓለም እዘምራለሁ፤ ለወገንና ለወገን በአፌ አሳውቃለሁ የአንተን ታማኝነት።",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ምሕረተ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ለዘለዓለም"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "እዘምራለሁ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ለወገን"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ናለወገን"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "አሳውቃለሁ"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "የአንተን ታማኝነት"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "በአፌ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:46.230054108Z",
+  "model": "glm-5.3"
+}

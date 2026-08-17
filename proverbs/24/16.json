@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "proverbs 24:16",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ምክንያቱም ጻድቅ ሰባት ጊዜ ወድቆ ይነሳል፤ ክፉዎች ግን በክፉ ይወድቃሉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሰባት ጊዜ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ወድቆ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቅ"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ይነሳል"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ክፉዎች ግን"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ይወድቃሉ"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "በክፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:34:24.901261817Z",
+  "model": "glm-5.3"
+}

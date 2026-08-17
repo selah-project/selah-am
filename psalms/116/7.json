@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 116,
+  "translation": "ተመለሺ ነፍሴ ወደ ዕረፍትሽ፤ ፍንጭ ያህዌህ በጎነውን በአንቺ ላይ አደረገ።",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "ተመለሺ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "ወደ ዕረፍትሽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ፍንጭ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "በጎነውን አደረገ"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "በአንቺ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:39.803246698Z",
+  "model": "glm-5.3"
+}

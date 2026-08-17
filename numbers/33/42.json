@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ከጸልሞና ተነሡ፣ በፑኖን ሰፈሩ።",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ተነሡ"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "ከጸልሞና"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ሰፈሩ"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "በፑኖን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:29:44.745693642Z",
+  "model": "glm-5.3"
+}

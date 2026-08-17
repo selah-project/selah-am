@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "isaiah 9:4",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ምክንያቱም ሁሉም ጫማ በጩኸት እየተራገጠ፣ ልብስም በደም የተንጠለጠለ — ሁሉ ለቃጠሎ ይሆናል፤ ለእሳት ማገዶ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "סאון",
+      "gloss": "ጫማ"
+    },
+    {
+      "surface": "סאן",
+      "gloss": "እየተራገጠ"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "በጩኸት"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "ልብስም"
+    },
+    {
+      "surface": "מגוללה",
+      "gloss": "የተንጠለጠለ"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "በደም"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "ለቃጠሎ"
+    },
+    {
+      "surface": "מאכלת",
+      "gloss": "ማገዶ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:01:59.896738490Z",
+  "model": "glm-5.3"
+}

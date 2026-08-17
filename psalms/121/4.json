@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 121,
+  "translation": "እነሆ፣ የእስራኤልን የሚጠብቅ አያኝብምም አይተኛምም።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "አያኝብምም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ…ም"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "አይተኛምም"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "የሚጠብቅ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:16.062885330Z",
+  "model": "glm-5.3"
+}

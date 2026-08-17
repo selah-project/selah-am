@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 141,
+  "translation": "መዝሙር ለዳዊድ፤ ያህዌህ ወደ አንተ ጮኻለሁ፤ ለኔ በቶሎ ና፤ ወደ አንተ በምጮህልኝ ጊዜ ድምፄን አዳምጥ።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊድ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ወደ አንተ ጮኻለሁ"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "በቶሎ ና"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለኔ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "አዳምጥ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ድምፄን"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "በምጮህልኝ ጊዜ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ወደ አንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:28.764365572Z",
+  "model": "glm-5.3"
+}

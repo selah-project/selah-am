@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ምድራቂም የያዕቆብን ልጆች ⟨את⟩ በጭንቀት አገለገላቸው።",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "አገለገላቸው"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምድራቂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የያዕቆብን ልጆች"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የያዕቆብ"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "በጭንቀት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:05:53.680522779Z",
+  "model": "glm-5.3"
+}

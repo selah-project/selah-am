@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "አንተም ታደጋለህ፤ የያህዌህን ቃል ታዳምጣለህ፤ ዛሬ እኔ የምሰጥህን ⟨את⟩ ትእዛዙን ሁሉ ታደርጋለህ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተም"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ታደጋለህ\/ትመለሳለህ"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "ታዳምጣለህ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ቃል\/ድምፅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዙን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ትእዛዙን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምሰጥህን"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "የምሰጥህ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:53:27.638405354Z",
+  "model": "glm-5.3"
+}

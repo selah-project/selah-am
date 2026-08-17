@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-samuel 28:2",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ዳዊትም ወደ አኪስ፦ «ስለዚህ አንተ ባሪያህ የሚያደርገውን ⟨את⟩ ታውቃለህ» አለ፤ አኪስም ወደ ዳዊት፦ «ስለዚህ ሁሉን ቀናት የራሴን ጠባቂ አደርግሃለሁ» አለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "አኪስ"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ታውቃለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሚያደርገውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚያደርገውን"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ያደርገውን"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ባሪያህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "አኪስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ጠባቂ"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "የራሴን"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "አደርግሃለሁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ቀናት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:51:27.683078177Z",
+  "model": "glm-5.3"
+}

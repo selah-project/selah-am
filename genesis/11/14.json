@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሸላኅም ሠላሳ ዓመት ኖረ፤ ⟨את⟩ ዔበርን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "ሸላኅም"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ኖረ፤"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሠላሳ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዔበርን"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ዔበርን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:58.484156915Z",
+  "model": "glm-5.3"
+}

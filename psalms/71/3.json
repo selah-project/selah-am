@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 71,
+  "translation": "ለእኔ ሁልጊዜ ለመግባት የሚሆን ወጥመጃ መጠለያ ሁንልኝ፤ እንደ እምባዬ እና ግንብዬ ስለሆንህ ሊያድነኝ አዘዝክ።",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "ሁን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ወጥመጃ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "መጠለያ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ለመግባት"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "አዘዝክ"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "ሊያድነኝ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "እምባዬ"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "እና ግንብዬ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ ስለሆንህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:55.541119890Z",
+  "model": "glm-5.3"
+}

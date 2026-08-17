@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 117,
+  "translation": "ምክንያቱም በእኛ ላይ ምሕረቱ አሸነፈ፤ የያህዌህም እውነት ለዘላለም ነው፤ ያህን ያመሰግኑ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "አሸነፈ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "በእኛ ላይ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ምሕረቱ"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "እና እውነት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ያመሰግኑ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:03.146559634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የአስተዋይ አፍ ቃላት ሞቅ ያሉ ናቸው፤ የሞኝ ከንፈሮች ግን ይውጠሉታል።",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፍ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "አስተዋይ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ሞቅ ያሉ"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "ከንፈሮች"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ሞኝ"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "ይውጠሉታል"
+    }
+  ],
+  "timestamp": "2026-08-16T11:15:15.055395848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 36:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "ሞሼ ቤጸልኤልን፣ አሆልያብንና ያህዌህ ጥበብ በልቡ የሰጠውን እያንዳንዱን ጥበብ ባለው ሰው ጠራ፤ ልቡ ወደ ሥራው ለመቅረብ ያነሳው ሰው ሁሉ ለመሥራት ⟨את⟩ እሷን።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "ቤጸልኤል"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "אהליאב",
+      "gloss": "አሆልያብ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ጥበብ ያለው"
+    },
+    {
+      "surface": "לב",
+      "gloss": "በልቡ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "በልቡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ያነሳው"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "לקרבה",
+      "gloss": "ለመቅረብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ሥራው"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ለመሥራት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እሷን (ሥራውን)"
+    }
+  ],
+  "timestamp": "2026-08-16T03:38:25.134882304Z",
+  "model": "glm-5.3"
+}

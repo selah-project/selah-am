@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የሕዝቤን ስብር ለከፍለው ቀላል አድርገው «ሰላም፣ ሰላም» እያሉ ፈወሱት፤ ሰላም ግን የለም።",
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "ፈወሱት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስብር"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ስብር"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "የሕዝቤን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ለከፍለው"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "ቀላል"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እያሉ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም፣"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለም።"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    }
+  ],
+  "timestamp": "2026-08-16T19:58:10.493353649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ወንድሞቼ እንደ ወንዝ ወደቁብ ተመላለሱ፤ እንደ ወንዞች ቦይ ያልፋሉ።",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "ወንድሞቼ"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ወደቁብ ተመላለሱ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ወንዝ"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "እንደ... ቦይ"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "ወንዞች"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "ያልፋሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:43:04.226890815Z",
+  "model": "glm-5.3"
+}

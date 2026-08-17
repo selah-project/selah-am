@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እኔን ⟨את⟩ አስነውኝ ወደ ጨለማ አሳረፈኝ፤ ብርሃንም የለም።",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "እኔን"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "አስነውኝ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "አሳረፈኝ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጨለማ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…ም የለም"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:09:39.994920128Z",
+  "model": "glm-5.3"
+}

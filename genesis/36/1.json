@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "እነዚህም የዕሴው ትውልዶች ናቸው፤ እርሱ ኤዶም ነው።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እነዚህም"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "ትውልዶች"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዕሴው"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:53:26.747978627Z",
+  "model": "glm-5.3"
+}

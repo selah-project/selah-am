@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "job 8:12",
+  "book": "job",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እስከ አደገ ሳይከርም ቀድሞ ሳር ሁሉ ያርቃል።",
+  "tokens": [
+    {
+      "surface": "עדנו",
+      "gloss": "እስከ አሁንም"
+    },
+    {
+      "surface": "באבו",
+      "gloss": "በአደገ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "יקטף",
+      "gloss": "ይከረፋል"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "እና ከፊት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ሳር"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "ያርቃል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:42:13.085066817Z",
+  "model": "glm-5.3"
+}

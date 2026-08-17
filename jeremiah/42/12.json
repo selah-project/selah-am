@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "እናም ምሕረትን እሰጣችኋለሁ፤ ⟨את⟩ እና እራሕማችኋለሁ፤ ⟨את⟩ ወደ ምድራችሁም እመልሳችኋለሁ።",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "እና እሰጣለሁ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ላንተህ"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "ምሕረትን"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "እና እራሕማለሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ እናንተን",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "እና እመልሳለሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ እናንተን",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "ምድራችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:08:14.936049382Z",
+  "model": "glm-5.3"
+}

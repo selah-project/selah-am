@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "jeremiah 3:5",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እስከ ዘላለም ይቆጣልን? እስከ መጨረሻው ይጠብቀዋልን? እነሆ ተናግረሃል እና የምትችለውን ዓመፀኛ ሥራ ሠርተሃል።",
+  "tokens": [
+    {
+      "surface": "הינטר",
+      "gloss": "ይቆጣልን?"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "እስከ ዘላለም"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ወይስ"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ይጠብቃል"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "እስከ መጨረሻው"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ተናግረሃል"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "እና ሠርተሃል"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "ዓመፀኛ ሥራ"
+    },
+    {
+      "surface": "ותוכל",
+      "gloss": "የምትችለውን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:36:15.090513675Z",
+  "model": "glm-5.3"
+}

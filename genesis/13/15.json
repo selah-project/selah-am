@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "በእውነት ⟨את⟩ ሙሉውን ምድር የምታየውን ለአንተ እሰጠዋለሁ እና ለዘርህም እስከ ምዕራፍ ድረስ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሙሉውን ምድር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሙሉውን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ታያለህ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "እሰጠዋለሁ"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "እና ለዘርህም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ…ድረስ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ምዕራፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:35:38.157627899Z",
+  "model": "glm-5.3"
+}

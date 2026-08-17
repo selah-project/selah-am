@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "1-kings 19:13",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ኤልያስ ሲሰማ ሆነ፤ ፊቱን በልብሱ ሸፈነ፣ ወጥቶ በዋሻው አፋፍ ቆመ፤ እነሆ ድምፅ ወደ እርሱ መጣና «ኤልያስ፣ ለአንተ ምን እዚህ?» አለ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ሲሰማ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያስ"
+    },
+    {
+      "surface": "וילט",
+      "gloss": "ሸፈነ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱን"
+    },
+    {
+      "surface": "באדרתו",
+      "gloss": "በልብሱ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ወጥቶ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ቆመ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "አፋፍ"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "ዋሻው"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "እዚህ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያስ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:32:17.089169852Z",
+  "model": "glm-5.3"
+}

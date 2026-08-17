@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "ezra 7:11",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ይህም ⟨ሐረጉ⟩ ንቁርጌ ነው ያ ንጉሡ አርተኸሥስታ ለእዝራ ካህኑ ለጸሐፊው የሰጠው — ጸሐፊ የያህዌህ ትእዛዛት ቃላትና በእስራኤል ላይ ሥርዓቶቹ ጸሐፊ።",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ይህም"
+    },
+    {
+      "surface": "פרשגן",
+      "gloss": "ንቁርጌ"
+    },
+    {
+      "surface": "הנשתון",
+      "gloss": "ሐረጉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "የሰጠው"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "አርተኸሥስታ"
+    },
+    {
+      "surface": "לעזרא",
+      "gloss": "ለእዝራ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ለጸሐፊው"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ጸሐፊ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "የትእዛዛት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "እና ሥርዓቶቹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T12:02:07.139737520Z",
+  "model": "glm-5.3"
+}

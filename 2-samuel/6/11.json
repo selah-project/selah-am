@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የያህዌህ ታቦት በጌታዊው በኦቤድ-ኤዶም ቤት ሦስት ወራት ቆየች፤ ያህዌህ ⟨את⟩ ኦቤድ-ኤዶምን እና ⟨את⟩ መላውን ቤቱን ባረከ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ቆየች"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "የኦቤድ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-ኤዶም"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "ጌታዊ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ወራት"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ባረከ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኦቤድ-ኤዶምን"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ኦቤድ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-ኤዶም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መላውን ቤቱን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላውን"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T16:03:30.237671498Z",
+  "model": "glm-5.3"
+}

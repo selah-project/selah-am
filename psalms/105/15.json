@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "ተቀባዮቼን አትንኩ፤ ነቢያቼንም ክፉ አትሥሩ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "ትንኩ"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "ተቀባዮቼን"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "ነቢያቼንም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "ክፉ ትሥሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:26.179791481Z",
+  "model": "glm-5.3"
+}

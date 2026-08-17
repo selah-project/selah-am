@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "nehemiah 2:4",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ንጉሡም አለኝ፣ በምን ነገር ላይ ነው የምትሻው? እኔም ወደ ሰማያት ኤሎሂም ስገምት ጀመርሁ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "አለኝ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "በምን ነገር"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ ነህ"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "የምትሻው"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "ስገምት ጀመርሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    }
+  ],
+  "timestamp": "2026-08-16T12:03:51.103338965Z",
+  "model": "glm-5.3"
+}

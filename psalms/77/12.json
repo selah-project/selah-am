@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 77,
+  "translation": "የያህን ሥራዎች አስታውሳለሁ፤ በውኑ ከቀድሞ ተአምራትህን አስብበታለሁ።",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "አስታውሳለሁ"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "ሥራዎችን"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በውኑ"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "አስብበታለሁ"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ከቀድሞ"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "ተአምራትህን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:18.284991933Z",
+  "model": "glm-5.3"
+}

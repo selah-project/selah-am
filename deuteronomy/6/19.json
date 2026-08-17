@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ሁሉን ጠላቶችህን ⟨את⟩ ከፊትህ ለማባረር፣ እንደ ተናገረ ያህዌህ።",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "ለማባረር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን ጠላቶችህን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ጠላቶችህን"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ከፊትህ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:37:15.006846580Z",
+  "model": "glm-5.3"
+}

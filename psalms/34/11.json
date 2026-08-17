@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "አንበሶች በጎደሉና በራቡ፤ ያህዌህን የሚሻው ሰው ግን ከሁሉም መልካም አይጎድልም።",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "አንበሶች"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "በጎደሉ"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "ናበራቡ"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "የሚሻው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይጎድልም"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "ጎድለው"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ከሁሉም"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:00.075100469Z",
+  "model": "glm-5.3"
+}

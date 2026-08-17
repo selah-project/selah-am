@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "አብራሃምም እንደ ተናገረው ያህዌህ ሄደ፤ ሎጥም ⟨את⟩ ከእርሱ ጋር ሄደ፤ ከሐራን በወጣው ጊዜ አብራሃም የሰባ አምስት ዓመት ነበረ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "አብራሃም"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረው"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ሎጥ"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "አብራሃምም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ...ነበረ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ሰባ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "በወጣው ጊዜ"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "ከሐራን"
+    }
+  ],
+  "timestamp": "2026-08-16T14:32:12.238726687Z",
+  "model": "glm-5.3"
+}

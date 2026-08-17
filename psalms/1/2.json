@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ነገር ግን በያህዌህ ሕግ ፈቃዱ ⟨ነው⟩፤ በሕጉም ⟨ውስጥ⟩ ቀንና ሌሊት ያሰብበታል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ግን"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "በሕግ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "ፈቃዱ"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "እና በሕጉ"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ያሰብበታል"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ቀንና"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ሌሊት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:29:39.154436744Z",
+  "model": "glm-5.3"
+}

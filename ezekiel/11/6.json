@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "ezekiel 11:6",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "የተገደሉትን በዚህች ከተማ በዝታችሁ፣ እና መንገዶቿን በተገደሉ አጽደቋችሁ።",
+  "tokens": [
+    {
+      "surface": "הרביתם",
+      "gloss": "በዝታችሁ"
+    },
+    {
+      "surface": "חלליכם",
+      "gloss": "የተገደሉትን"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "በከተማ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "በዚህች"
+    },
+    {
+      "surface": "ומלאתם",
+      "gloss": "እና አጽደቋችሁ"
+    },
+    {
+      "surface": "חוצתיה",
+      "gloss": "መንገዶቿን"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "በተገደሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:22:01.165357807Z",
+  "model": "glm-5.3"
+}

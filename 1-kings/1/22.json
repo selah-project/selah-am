@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "1-kings 1:22",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እነሆ፣ እሷ ከንጉሡ ጋር እየተናገረች በለቀቀች ጊዜ፣ ነቢዩ ናታን መጣ።",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "እነሆ፣"
+    },
+    {
+      "surface": "עודנה",
+      "gloss": "እሷ እስከነበረች ጊዜ"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "እየተናገረች"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "እና ናታን"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነቢዩ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጣ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:13:15.045143105Z",
+  "model": "glm-5.3"
+}

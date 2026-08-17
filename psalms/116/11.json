@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 116,
+  "translation": "እኔ በሽኩቼ አልኩ፣ ሁሉም ⟨የ⟩ ሰው ሐሰተኛ ነው።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "አልኩ"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "በሽኩቼ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "የ ሰው"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ሐሰተኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:11.654381760Z",
+  "model": "glm-5.3"
+}

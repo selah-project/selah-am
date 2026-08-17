@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "isaiah 45:7",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "ብርሃንን የሚፈጥር፣ ጨለማን የሚፈጥር፣ ሰላምን የሚያደርግ፣ ክፉን የሚፈጥር — እኔ ያህዌህ ነኝ፤ ይህን ሁሉ የሚያደርግ።",
+  "tokens": [
+    {
+      "surface": "יוצר",
+      "gloss": "የሚፈጥር፤"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃንን"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "ጨለማን የሚፈጥር፤"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጨለማን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "የሚያደርግ፤"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላምን"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "የሚፈጥር፤"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉን"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "የሚያደርግ፤"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ይህን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:23:09.102946386Z",
+  "model": "glm-5.3"
+}

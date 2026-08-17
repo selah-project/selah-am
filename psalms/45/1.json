@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "ለመሳፍኛው፣ በሹሻኖት ⟨ላይ⟩፣ ለቆራሕ ልጆች፣ መስተዋት፣ የፍቅር መዝሙር።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመሳፍኛው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "ሹሻኖት"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለ…ልጆች"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ቆራሕ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "መስተዋት"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "የፍቅር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:17.057002209Z",
+  "model": "glm-5.3"
+}

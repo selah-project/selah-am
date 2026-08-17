@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 103,
+  "translation": "ከመቃብር ሕይወትህን የሚያድን፤ ምሕረትና ምሕረቶች የሚኮረቅርህ።",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "የሚያድን"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ከመቃብር"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "ሕይወትህን"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "የሚኮረቅርህ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ምሕረትን"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "እና ምሕረቶች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:11.681461953Z",
+  "model": "glm-5.3"
+}

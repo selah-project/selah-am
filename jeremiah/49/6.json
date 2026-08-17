@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "ከዚህ በኋላ ግን የዐሞን ልጆትን ⟨את⟩ ተመለሳቸውን እእመልሳለሁ ያህዌህ የተናገረ።",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "ከዚህ በኋላ ግን"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "እእመልሳለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተመለሳቸውን"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ተመለሳቸውን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆትን"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "የዐሞን"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "የተናገረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:31:51.390182434Z",
+  "model": "glm-5.3"
+}

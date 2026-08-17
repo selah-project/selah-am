@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "በንጉሡ በአካዝ ሞት ዓመት ይህ ሸክም ሆነ።",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "በ…ዓመት"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "አካዝ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "ሸክም"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:04:47.016294350Z",
+  "model": "glm-5.3"
+}

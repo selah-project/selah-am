@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ለዝብሉን አልያብ የኬሎን ልጅ።",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "ለዝብሉን"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "አልያብ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "ኬሎን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:02:53.267467208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "ያህዌህ በእነርስ ላይ የፊቱን ቁጭት፣ ቍጣን፣ ንዴትንና መከራን ላከ — የክፉ መልአኮችን መላክ።",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በእነርስ ላይ"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "የፊቱን ቁጭት"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "የንዴቱ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ቍጣን"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "እና ንዴትን"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "እና መከራን"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "መላክ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "የመልአኮች"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ክፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:50.307718801Z",
+  "model": "glm-5.3"
+}

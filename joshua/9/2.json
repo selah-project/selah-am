@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "joshua 9:2",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "አንድ ላይ ሆነው ከያሁሴ እና ከእስራኤል ጋር ለመዋጋት ተሰበሰቡ፣ አንድ አፍ ብለው።",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "ተሰበሰቡ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "አንድ ላይ"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ለመዋጋት"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ያሁሴ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "እና ከ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "פה",
+      "gloss": "አፍ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:03:24.995132960Z",
+  "model": "glm-5.3"
+}

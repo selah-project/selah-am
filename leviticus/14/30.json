@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ከታሪኮች ወይም ከዱር የእርግብ ውርዶች አንዱን ⟨את⟩ እጁ እንደሚዳርሰው ያቀርባል።",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ያደርጋል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አንዱን"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "አንዱን"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "ታሪኮች"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውርዶች የ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "የእርግብ"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "እንደሚዳርሰው"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "ዳረሰ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:51:17.166305891Z",
+  "model": "glm-5.3"
+}

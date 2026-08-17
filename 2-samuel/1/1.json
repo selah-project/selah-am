@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ከሳኦል ሞት በኋላ ሆነ፤ ዳዊት ከ⟨את⟩ የዓማሌቅ መደመር ተመለሰ፤ ዳዊትም በጽቅላግ ሁለት ቀናት ተቀመጠ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ...በኋላ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "እና ዳዊት"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "ከመደመር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የዓማሌቅን"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "ዓማሌቅ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "እና ተቀመጠ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "በጽቅላግ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:55:17.017620600Z",
+  "model": "glm-5.3"
+}

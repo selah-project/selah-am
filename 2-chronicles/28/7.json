@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ዝኽሪ የኤፍሬም ጀግና የንጉሡን ልጅ ምዕሣይን ⟨את⟩፣ የቤቱን አለቃ ዓዝሪቃምን ⟨את⟩ እና ከንጉሡ ቀጥሎ ያለውን ኤልቃናን ⟨את⟩ ገደለ።",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "ገደለ"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "ዝኽሪ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ጀግና"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "የኤፍሬም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምዕሣይን"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "ምዕሣይ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓዝሪቃምን"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "ዓዝሪቃም"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "የቤቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኤልቃናን"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ኤልቃና"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ከ… ቀጥሎ ያለው"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:09:11.693310701Z",
+  "model": "glm-5.3"
+}

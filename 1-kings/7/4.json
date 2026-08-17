@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የሚታዩ መስኮቶች ሦስት ተረድፍ ነበሩ፤ መስኮት በቀኝ መስኮት ተቃራኒ ሦስት ጊዜ።",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "የሚታዩ መስኮቶችም"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "ተረድፍ"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "መስኮትም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በቀኝ ወደ"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "መስኮት"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ጊዜ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:18:53.249381934Z",
+  "model": "glm-5.3"
+}

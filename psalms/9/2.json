@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ያህዌህን በመላው ልቤ አመሰግናለሁ፤ ድንቆችህን ሁሉ አስረዳለሁ።",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "አመሰግናለሁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በመላው"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "አስረዳለሁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ድንቆችህን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:55.108238665Z",
+  "model": "glm-5.3"
+}

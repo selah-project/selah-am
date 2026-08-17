@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "በወረርሻእመታቸዋለሁና አጥፍቼ እወርሳቸዋለሁ፤ ከእነርሱም የሚበልጥ ታላቅ የማድረግ አደርጋችኋለሁ።",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "እመታቸዋለሁ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "በወረርሻ"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "አጥፍቼ እወርሳቸዋለሁ"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "አደርጋችኋለሁ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "አንተን"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "የሚበልጥ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእነርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:15:47.452277303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "የዳዊት (መዝሙር)፣ ሳለ ፊቱ ለአቢሜሌኽ ⟨את⟩ ባሕርዩን ሲቀይር፤ እርሱም አባረደው፣ እርሱም ሄደ።",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "የዳዊት"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "ሲቀይር ሳለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ባሕርዩን"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "ባሕርዩን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊቱ ለአቢሜሌኽ ሳለ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "አቢሜሌኽ"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "አባረደው"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:53.865424809Z",
+  "model": "glm-5.3"
+}

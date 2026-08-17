@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ነገሩም በአዶናይ ዓይኖች መልካም ሆነ፤ ሰሎሞን ይህን ነገር ⟨את⟩ ስለ ጠየቀ።",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "መልካም ሆነ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ነገሩም"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "በ…ዓይኖች"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ጠየቀ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነገሩን"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ነገሩን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    }
+  ],
+  "timestamp": "2026-08-16T16:21:02.177129656Z",
+  "model": "glm-5.3"
+}

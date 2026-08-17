@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 72,
+  "translation": "ድሃውንና ድንቁሱን ያዝናል፤ የድንቁሶችን ነፍሳት ያድናል።",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "ያዝናል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ድሃ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "እና ድንቁስ"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "እና ነፍሳትን"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ድንቁሶች"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ያድናል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:47.540648596Z",
+  "model": "glm-5.3"
+}

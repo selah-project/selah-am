@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "genesis 31:21",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "እርሱም ከነርሱም ከሁሉም ያለው ነገር አምለጠ፤ ተነሥቶም ⟨את⟩ ወንዙን ተሻገረ፤ ፊቱንም ⟨את⟩ ወደ ጒልዓድ ተራራ አደረገ።",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "አምለጠ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚኖረው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሥቶም"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ተሻገረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንዙን"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ወንዙ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "አደረገም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊቱን"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱን"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ጒልዓድ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:50:30.253232086Z",
+  "model": "glm-5.3"
+}

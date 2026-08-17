@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "jeremiah 27:7",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ሕዝቦች ሁሉ እርሱን ⟨את⟩፣ ልጁንም ⟨את⟩ እና የልጁን ልጅ ⟨את⟩ የምድሩ ጊዜ እርሱም እስኪመጣ ድረስ ያገለግሉዋል፤ ከዚያም ሕዝቦች ብዙዎች እና ነገሥታት ታላቃን እርሱን በእርሱ ያገለግሉበታል።",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "ያገለግሉዋል"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "እርሱን ⟨את⟩",
+      "marks": "ሕዝቦች ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ልጁን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የልጁን ልጅ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ…ልጅ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪመጣ ድረስ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "እስኪመጣ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "የምድሩ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እርሱም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ያገለግሉበታል"
+    },
+    {
+      "surface": "בו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙዎች"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "እና ነገሥታት"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ታላቃን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:56:13.796503268Z",
+  "model": "glm-5.3"
+}

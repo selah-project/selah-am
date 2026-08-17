@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "የራሳችሁን ጠርዝ አትንኩም፣ የአጃቢህንም ⟨את⟩ ጠርዝ አታጥፉም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "ንኩ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ጠርዝ"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "ራሳችሁን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አታ"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "ጥፉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የአጃቢህን ጠርዝ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ጠርዝ"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "አጃቢህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:56:25.938129941Z",
+  "model": "glm-5.3"
+}

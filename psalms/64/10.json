@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 64,
+  "translation": "ሰው ሁሉ ፈረ፤ የኤሎሂምን ሥራ ያስተዋውቃሉ፤ ሥራውንም በጥንቃቄ ይረዳሉ።",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "ፈሩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ያስተዋውቃሉ"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "ሥራውንም"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "በጥንቃቄ ይረዳሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:16.827072591Z",
+  "model": "glm-5.3"
+}

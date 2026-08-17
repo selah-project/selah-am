@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "1-samuel 15:32",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ሳሙኤልም አለ «የዓማሌቅን ንጉሥ አጋግ ⟨את⟩ ወደ እኔ አቅርቡት።» አጋግም በደስታ ወደ እርሱ መጣ፤ አጋግም አለ «እውነት፣ የሞት መራር ተመልሷል።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤልም"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "አቅርቡት"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አጋግን"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "አጋግ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ዓማሌቅ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "አጋግም"
+    },
+    {
+      "surface": "מעדנת",
+      "gloss": "በደስታ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "አጋግም"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "እውነት"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ተመልሷል"
+    },
+    {
+      "surface": "מר",
+      "gloss": "መራር"
+    },
+    {
+      "surface": "המות",
+      "gloss": "የሞት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:40:49.690968470Z",
+  "model": "glm-5.3"
+}

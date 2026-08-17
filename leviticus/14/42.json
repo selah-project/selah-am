@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ሌላ ድንጋይ ይወስዳሉ፤ ወደ ⟨את⟩ ድንጋዮቹ ስፍራ ያመጣሉ፤ ሌላ አፈርም ይወስዳል፤ እና ⟨את⟩ ቤቱን ይለጥጣል።",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ይወስዳሉ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ድንጋይ"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "ሌላ"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "ያመጣሉ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ስፍራ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ድንጋዮቹ"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "አፈርም"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ሌላ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ይወስዳል"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "ይለጥጣል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱን"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:52:03.941083654Z",
+  "model": "glm-5.3"
+}

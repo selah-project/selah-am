@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "2-samuel 3:16",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ባሏም ⟨את⟩ ከእሷ ጋር ሄደ እየሄደ እየላቀ በኋላዋ እስከ ባሑሪም ድረስ፤ አብኔርም አለው ⟨את⟩ ሂድ ተመልስ፤ እርሱም ተመለሰ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ከእሷ ጋር"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ባሏ"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "እየሄደ"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "እየላቀ"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "በኋላዋ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "בחרים",
+      "gloss": "ባሑሪም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "አብኔር"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ተመልስ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተመለሰ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:55:02.799559212Z",
+  "model": "glm-5.3"
+}

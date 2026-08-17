@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ቀኖቹ ከባቢ ተወስነዋል፤ የወራቱ ቁጥር ⟨את⟩ ከአንተ ጋር ⟨ሆኖ⟩ ነው፤ ወሰኑን አድርገኸዋል፣ እርሱም አያልፍም።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "ተወስነዋል"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ቀኖቹ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ቁጥር"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "የወራቱ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ከአንተ ጋር"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "ወሰኑን"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "አድርገኸዋል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "አያልፍም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:46:47.295979083Z",
+  "model": "glm-5.3"
+}

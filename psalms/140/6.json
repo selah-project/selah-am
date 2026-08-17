@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 140,
+  "translation": "ትላንቅቶች ማሳሪያ ሸሸጉልኝ፣ እና ገመዶችን፤ መረብን ከትሪቱ አጠገብ አፍሰሱ፤ ማሳሪያዎችን ለእኔ አቀመጡ። ሴላ።",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "ሸሸጉ"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "ትላንቅቶች"
+    },
+    {
+      "surface": "פח",
+      "gloss": "ማሳሪያ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "እና ገመዶችን"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "አፍሰሱ"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "መረብን"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ከ…አጠገብ"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "ትሪቱ"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "ማሳሪያዎችን"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "አቀመጡ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:49.678174684Z",
+  "model": "glm-5.3"
+}

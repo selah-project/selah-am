@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ምክንያቱም በከንፈር ውስጥ ይመጣል በጨለማም ይሄዳል ስሙም በጨለማ ይሸፋል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "በከንፈር"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ይመጣል"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "በጨለማም"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ይሄዳል"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "በጨለማ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙም"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ይሸፋል"
+    }
+  ],
+  "timestamp": "2026-08-16T11:17:30.453900428Z",
+  "model": "glm-5.3"
+}

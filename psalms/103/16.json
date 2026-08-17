@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 103,
+  "translation": "እንደ መሆኑ ነፋስ በእርሱ ትሻገራለች እርሱም የለም፤ ቦታውም ከእርሱ በኋላ አያውቀውም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ መሆኑ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ነፋስ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ትሻገራለች"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "እርሱም የለም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አያውቀውም"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "ከእርሱ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "በኋላ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ቦታውም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:35.288341429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 94,
+  "translation": "የጥፋት ዙፋን ከአንተ ጋር ይተባበራልን? በሕግ መጥፎን የሚያቀናብር?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "ከአንተ ጋር ይተባበራልን"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ዙፋን"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "የጥፋት"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "የሚያቀናብር"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "መጥፎን"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በ"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ሕግ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:31.110445845Z",
+  "model": "glm-5.3"
+}

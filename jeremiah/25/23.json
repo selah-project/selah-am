@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ደዳን ⟨את⟩፣ ቴማን ⟨את⟩፣ ቡዝንም ⟨את⟩፣ የጎን ጠርሙስ የተከሰከሱ ሁሉንም ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩…ም",
+      "marks": "ደዳን"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "ደዳን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩…ም",
+      "marks": "ቴማን"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "ቴማን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩…ም",
+      "marks": "ቡዝን"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "ቡዝን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩…ም",
+      "marks": "የጎን ጠርሙስ የተከሰከሱ ሁሉንም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉንም"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "የተከሰከሱ"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "የጎን ጠርሙስ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:52:55.878024020Z",
+  "model": "glm-5.3"
+}

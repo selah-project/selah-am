@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የንግሥቱ ክብረ ብልጽግና ⟨את⟩ ሲያሳይ እና የታላቅነቱ ክብረ ብርሃን ⟨את⟩ ሲያሳይ፣ ብዙ ዕለታት — መቶ ሰማንያ ቀን — ነበር።",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "ሲያሳይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክብረ ብልጽግና"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ብልጽግና"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብረ"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "የንግሥቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ እና",
+      "marks": "የታላቅነቱ ክብረ ብርሃን"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ክብረ ብርሃን"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ክብረ ብርሃን"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "የታላቅነቱ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ዕለታት"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "ሰማንያ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:20:30.007499747Z",
+  "model": "glm-5.3"
+}

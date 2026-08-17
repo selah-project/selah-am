@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 75,
+  "translation": "የክፉዎችን ቀኖች ሁሉ እቀጥፋለሁ፤ የጻድቁ ቀኖች ግን ይመራሉ።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "ቀኖችን"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "የክፉዎች"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "እቀጥፋለሁ"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "ይመራሉ"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "ቀኖች"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "የጻድቁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:03.448778320Z",
+  "model": "glm-5.3"
+}

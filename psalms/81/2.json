@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 81,
+  "translation": "ለኤሎሂም ኃያላችን ተዝኙ፤ ለያዕቆብ ኤሎሂም ዕቃብ ተንሡ።",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "ተዝኙ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ለኤሎሂም"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "ኃያላችን"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ዕቃብ ተንሡ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:34.754479728Z",
+  "model": "glm-5.3"
+}

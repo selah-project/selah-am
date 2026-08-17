@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 108,
+  "translation": "ማን ወደ ምሽጊቱ ከተር ያስገባኛል? ማን እስከ ኤዶም ይመራኛል?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "ያስገባኛል"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተር"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ምሽጊቱ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ይመራኛል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:16.509983581Z",
+  "model": "glm-5.3"
+}

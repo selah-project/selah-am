@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 57,
+  "translation": "ለእርሶቼ መረብ አዘገጁ፤ ነፍሴ ተዳፈነች፤ ፊቴን ቀድሞ ጕድጓድ ቈፈሩ፤ በእርሷም ውስጥ ወደቁ። ሴላህ።",
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "መረብ"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "አዘገጁ"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "ለእርሶቼ"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "ተዳፈነች"
+    },
+    {
+      "surface": "አንበሳ",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "ቈፈሩ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊቴን ቀድሞ"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "ጕድጓድ"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ወደቁ"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "በእርሷ ውስጥ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:24.515458020Z",
+  "model": "glm-5.3"
+}

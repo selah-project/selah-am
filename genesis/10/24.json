@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "አርፋክስድም ⟨את⟩ ሳላን ወለደ፤ ሳላም ⟨את⟩ ኤበርን ወለደ።",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "አርፋክስድም"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሳላን"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ሳላ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ሳላም"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤበርን"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ኤበር"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:29.080186711Z",
+  "model": "glm-5.3"
+}

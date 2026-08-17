@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 77,
+  "translation": "ኤሎሂምን አስታውሳለሁ እና እተኛለሁ፤ እዘካለሁ እና መንፈሴ ይሰነፋል። ሰላህ።",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "አስታውሳለሁ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "እና እተኛለሁ"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "እዘካለሁ"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "እና ይሰነፋል"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "መንፈሴ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:45.407274311Z",
+  "model": "glm-5.3"
+}

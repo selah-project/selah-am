@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "job 22:4",
+  "book": "job",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ከፍርሃትህ ስለ አንተ ይገሥጸሃልን? በፍርድ ከአንተ ጋር ይመጣልን?",
+  "tokens": [
+    {
+      "surface": "המיראתך",
+      "gloss": "ከፍርሃትህ…ን?"
+    },
+    {
+      "surface": "יכיחך",
+      "gloss": "ይገሥጸሃል"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ይመጣል"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "በፍርድ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:51:02.250974058Z",
+  "model": "glm-5.3"
+}

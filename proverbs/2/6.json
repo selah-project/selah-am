@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እንደ መሆኑ ያህዌህ ጥበብን ይሰጣል፤ ከአፉም ዕውቀትና ንቁ ተረድቶ ይመጣል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ መሆኑ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይሰጣል"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብን"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "ከአፉም"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ዕውቀትና"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "ንቁ ተረድቶ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:20:31.680506345Z",
+  "model": "glm-5.3"
+}

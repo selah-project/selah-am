@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "deuteronomy 7:23",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ያህዌህ አምላኬ ኤሎሂም እነሱን በፊትህ ያስረክብሃል፤ ታላቅ ውዝግነት ድረስ ያስደንውዋቸዋል — እስከ መጥፋታቸው ድረስ።",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "እነሱን ያስረክብሃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "አምላኬ ኤሎሂም"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "በፊትህ"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "ያስደንውዋቸዋል"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "ውዝግነት"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ … ድረስ"
+    },
+    {
+      "surface": "השמדם",
+      "gloss": "መጥፋታቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T04:37:47.112604848Z",
+  "model": "glm-5.3"
+}

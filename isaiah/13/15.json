@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "የተገኘ ሁሉ ይተሻገራል፣ እና የተጨመረ ሁሉ በሰይፍ ይወድቃል።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "የተገኘ"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "ይተሻገራል\/ይዘረጋል"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "የተጨመረ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ይወድቃል"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "በሰይፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:03:34.485557239Z",
+  "model": "glm-5.3"
+}

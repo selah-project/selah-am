@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 14:13",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ሞሼም ለሕዝቡ እንዲህ አለ፦ አትፍሩ፤ ቁሙ፣ የያህዌህን መድኃኒት ⟨את⟩ ዛሬ የሚያደርግላችሁን ተመልከቱ፤ ምክንያቱም የግብፃውያንን ⟨את⟩ ዛሬ እንደያዛችሁ፣ እስከ ዘለዓለም ድረስ እነሱን በድጋሚ አታዩም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ለሕዝቡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ትፍሩ"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "ቁሙ"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ተመልከቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መድኃኒት"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "መድኃኒት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚያደርግላችሁን"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ያደርግ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ላችሁ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "ያዛችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ግብፃውያንን"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፃውያንን"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תסיפו",
+      "gloss": "ታክሉ"
+    },
+    {
+      "surface": "לראתם",
+      "gloss": "ማየታችሁ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "በድጋሚ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለዓለም ድረስ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:08:36.662090087Z",
+  "model": "glm-5.3"
+}

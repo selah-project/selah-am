@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "isaiah 9:2",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ሕዝቡን አብዝተሃል፤ ደስታውን አላበዛህም፤ በአንተ ፊት ደስ ብለዋል፤ እንደ በገበታ ደስታ፣ እንደ ሚደሰቱ ዘመን ሲከፋፈሉ።",
+  "tokens": [
+    {
+      "surface": "הרבית",
+      "gloss": "አብዝተሃል"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "አብዛህም"
+    },
+    {
+      "surface": "השמחה",
+      "gloss": "ደስታውን"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "ደስ ብለዋል"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "በአንተ ፊት"
+    },
+    {
+      "surface": "כשמחת",
+      "gloss": "እንደ ደስታ"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "በገበታ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "ሚደሰቱ"
+    },
+    {
+      "surface": "בחלקם",
+      "gloss": "ሲከፋፈሉ"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ዘመን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:01:59.896410747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እንደ፦ «አባቴ፣ እናቴ» ከመጠራቱ በፊት ሕፃኑ ሲያውቅ፣ የደማስቆን ብልጽግነት ⟨את⟩ እና የሰማርያን ትርፍም ⟨את⟩ በአሦር ንጉሥ ፊት ይሸከማል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ከ... በፊት"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ሲያውቅ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ሕፃኑ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ከመጠራቱ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባቴ"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "እና እናቴ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ይሸከማል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብልጽግነት"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ብልጽግነት"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "የደማስቆን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ትርፍ"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ትርፍም"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "የሰማርያን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ... ፊት"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "አሦር"
+    }
+  ],
+  "timestamp": "2026-08-16T07:01:15.814701247Z",
+  "model": "glm-5.3"
+}

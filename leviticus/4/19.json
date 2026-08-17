@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "⟨את⟩ ስቡንም ሁሉ ከእሱ አንሥቶ በመሠዊያው ላይ ያቃጥለዋል።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስቡን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "ስቡን"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "አንሥቶ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእሱ"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ያቃጥለዋል"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "በመሠዊያው ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:44:07.868619521Z",
+  "model": "glm-5.3"
+}

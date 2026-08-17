@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እስራኤል ለያህዌህ ቅዱስ ነው፣ የመጀመሪያው ፍሬው ነው፤ በሉት ሁሉ ይበደላሉ፤ ክፉ ነገር ይመጣቸዋል፣ የያህዌህ ቃል ነው።",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "የመጀመሪያው ፍሬ"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "የምርቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "በሉት"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ይበደላሉ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ ነገር"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ይመጣል"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ወደ እነሱ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "የ... ቃል ነው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:35:36.694658430Z",
+  "model": "glm-5.3"
+}

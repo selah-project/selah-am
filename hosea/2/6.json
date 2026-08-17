@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እነሆም ⟨את⟩ ልጆቿን አይቀርብላቸውም፤ ልጆቿ የውነት ልጆች ስለሆኑ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እነሆም ⟨את⟩"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ልጆቿን",
+      "marks": "ልጆቿን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይቀርብላቸውም"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "እምራቸዋለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለሆነ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "ናቸው፤ የውነት"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:55:55.340150410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ዐፄውም ኤልቃና እና መላው ቤቱ ወጡ ወደ ላይ ያህዌህን ⟨את⟩ የዓመቱን መስዋዕት እና ⟨את⟩ መስኩን ለማቅረብ።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ወጣ ወደ ላይ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ዐፄው"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ኤልቃና"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና መላው"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ለማቅረብ መስዋዕት"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የዓመቱን መስዋዕት"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "መስዋዕት"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "የቀኞቹ (የዓመቱ)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መስኩን"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "መስኩ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:43:54.761094126Z",
+  "model": "glm-5.3"
+}

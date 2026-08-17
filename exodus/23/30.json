@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ትንሽ ትንሽ ከፊትህ አባራቸዋለሁ፤ እርግበት እስክታደርግ ድረስ፣ እና ⟨את⟩ ምድሪቱን ትወርሳለህ።",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "ትንሽ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ትንሽ"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "አባራቸዋለሁ"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ከፊትህ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስክ…ድረስ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ድረስ"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "እርግበት እስክታደርግ"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "ትወርሳለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪቱን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:23:13.789161339Z",
+  "model": "glm-5.3"
+}

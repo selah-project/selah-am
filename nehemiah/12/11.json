@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ዮያዳም ⟨את⟩ ዮናታንን ወለደ፤ ዮናታንም ⟨את⟩ ያዱዓን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "እና ዮያዳ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮናታንን"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ዮናታን"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "እና ዮናታን"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያዱዓን"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "ያዱዓ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:23:11.119899836Z",
+  "model": "glm-5.3"
+}

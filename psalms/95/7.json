@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 95,
+  "translation": "ምክንያቱም እርሱ ኤሎሂም ነው፤ እኛም የመርባው ሕዝብ፣ የእጁም በትሮች ነን። ዛሬ ድምፁን ብታደምጡ፣",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "እኛም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "የመርባው"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "በትሮችም"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "የእጁ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ብታደምጡ"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ድምፁን"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ትሰማላችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:33.677203095Z",
+  "model": "glm-5.3"
+}

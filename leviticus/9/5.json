@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "leviticus 9:5",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ያህዌህ እንዳዘዘው እነርሱም ⟨את⟩ ያዕቆብ... ሞሼ ያዘዘውን ⟨את⟩ ወስደው ወደ መገናኛ ድንኳን ፊት አቀረቡ፤ ማኅበሩም ሁሉ ተቃረበና በያህዌህ ፊት ቆመ።",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ወሰዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ ያዘዘውን (ወሰዱት)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያዘዘው"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "እንዳዘዘ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መገናኛ"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "ተቃረቡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ማኅበሩ"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ቆሙ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:47:51.759292686Z",
+  "model": "glm-5.3"
+}

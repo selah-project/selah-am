@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "እንዲሁም ትንሽ ጊዜ በኋላ ክፉው የለም፤ ቦታውን ታስተውላለህ እርሱም የለም።",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ትንሽ ጊዜ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉው"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "ታስተውላለህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ቦታውን"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "የለም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:33.706564529Z",
+  "model": "glm-5.3"
+}

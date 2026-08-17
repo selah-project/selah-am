@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እነሱ እንዳልተኛሉ በፊት፣ እርሷ ወደ እነሱ ወደ ⟨ጣቢያው⟩ አረገች።",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "እና እነሱ"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "እንዳል-ተኛሉ በፊት"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "ሊተኙ"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "እና እርሷ"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "አረገች"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ወደ እነሱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "⟨ጣቢያው⟩"
+    }
+  ],
+  "timestamp": "2026-08-16T04:58:39.416116372Z",
+  "model": "glm-5.3"
+}

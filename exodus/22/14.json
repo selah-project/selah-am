@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ባለቤቱ ከእርሱ ጋር ከሆነ አይከፍልም፤ ከተከራይ ከሆነ፣ በኪራዩ ይመጣል።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ባለቤቱ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይከፍልም"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ይከፍላል"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "ከተከራይ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨እርሱ⟩"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ይመጣል"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "በኪራዩ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:21:55.012494487Z",
+  "model": "glm-5.3"
+}

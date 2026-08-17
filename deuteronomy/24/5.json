@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 24:5",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ወንድም ሴትን አዲስዋን በሚያገባበት ጊዜ ወደ ሠራዊት አይወጣም፣ በምንም ነገርም አይጣልበትም፤ ለቤቱ ለአንድ ዓመት ነጻ ይሆናል፣ የወሰዳትንም ⟨את⟩ ሚስቱን ያረፍታታል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በሚያገባበት ጊዜ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "በሚወስድበት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ወንድም"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሴትን"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "አዲስዋን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይወጣም"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ይወጣል"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "ወደ ሠራዊት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንዲሁም አይጣልበትም"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ይሻገርበታል"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "በምንም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ነጻ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ለቤቱ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "እና ያረፍታታል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚስቱን"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሚስቱን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነች"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ወሰዳት"
+    }
+  ],
+  "timestamp": "2026-08-16T15:06:59.926134857Z",
+  "model": "glm-5.3"
+}

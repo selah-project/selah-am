@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "እኔ ያህዌህ ነኝ፤ ይህ ስሜ ⟨ነው⟩፤ ክብራን ለሌላ አልሰጥም፣ መስተናገዴንም ለቅርጾች አልሰጥም።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ስሜ"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "እና ክብራን"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "ለሌላ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "እሰጣለሁ"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "እና መስተናገዴንም"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "ለቅርጾች"
+    }
+  ],
+  "timestamp": "2026-08-16T07:20:13.696935388Z",
+  "model": "glm-5.3"
+}

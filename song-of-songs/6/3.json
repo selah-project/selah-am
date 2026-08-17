@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እኔ ለወዳጄ ነኝ፣ ወዳጄም ለእኔ ነው፤ ⟨הוא⟩ በሱሳኝ አበባዎች መካከል የሚሰማራ ነው።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "ለወዳጄ"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "ወዳጄም"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "የሚሰማራ ⟨הוא⟩"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "በሱሳኝ አበባዎች መካከል"
+    }
+  ],
+  "timestamp": "2026-08-16T11:03:57.986048985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ከያህዌህ ዘንድ በረከትን ይሸከማል፣ ከኤሎሂም የመዳኑ እርሱ የጽድቅን ያገኛል።",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "ይሸክማል"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "በረከትን"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ከ...ዘንድ (ያህዌህ)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ጽድቅንም"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "ከኤሎሂም"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "የመዳኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:49.860342557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "የካህናትንም አጽናሞች በመሠዊያዎቻቸው ላይ አቃጠለ፤ ይሁዳንም ⟨את⟩ እና ኢየሩሳሌምንም ⟨את⟩ አነጻ።",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "አጽናሞችንም"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "የካህናት"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "አቃጠለ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "מזבחותיהם",
+      "gloss": "መሠዊያዎቻቸው"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "አነጻም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይሁዳን"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኢየሩሳሌምንም"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ኢየሩሳሌምንም"
+    }
+  ],
+  "timestamp": "2026-08-16T18:56:55.176329114Z",
+  "model": "glm-5.3"
+}

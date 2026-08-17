@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ክፉ ሐሰትን ውጤት ያደርጋል፤ ጽድቅን የሚዘራ ደግሞ እውነተኛ ደመወዝ ያገኛል።",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ያደርጋል"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ውጤት"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሐሰትን"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "እና የሚዘራ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ጽድቅን"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ደመወዝ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "እውነተኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:25:42.949818057Z",
+  "model": "glm-5.3"
+}

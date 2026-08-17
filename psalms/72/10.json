@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 72,
+  "translation": "የተርሴስ ነገሥታትና ደሴቶች መባ ይመልሳሉ፤ የስባ ነገሥታትና የሰባ ነገሥታት ስጦታ ያቀርባሉ።",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "ነገሥታት የ"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ተርሴስ"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "ደሴቶችና"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "መባ"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "ይመልሳሉ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ነገሥታት የ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ስባ"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "ሰባም"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "ስጦታ"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ያቀርባሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:34.710683847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 90,
+  "translation": "በአንተ ዐይን ስለ ኾነ ሺህ ዓመታት እንደ ትናንቱ ቀን፣ እርሱም ሲያልፍ እንደ ከሌሊቱ ዘመን ናቸው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ ኾነ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "በአንተ ዐይን"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "እንደ ቀን"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "ትናንቱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እርሱም ሲያልፍ"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ሲያልፍ"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "እንደ ዘመን"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ከሌሊቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:51.703276330Z",
+  "model": "glm-5.3"
+}

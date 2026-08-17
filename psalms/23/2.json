@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "በለመለም ሣር መስኮች አንቀልጥኛል፤ በማረፊያ ውኃ አመራኛል።",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "በ…መስኮች"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ለመለም ሣር"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "አንቀልጥኛል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ\/በ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ውኃ"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "ማረፊያ"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "አመራኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:48.863170680Z",
+  "model": "glm-5.3"
+}

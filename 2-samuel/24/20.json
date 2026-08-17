@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "አራውናም ወደ ራሱ ሲሻገሩ ⟨את⟩ ንጉሡን እና ⟨את⟩ አገልጋዮቹን በመመልከት አየ፤ አራውናም ወጥቶ ለንጉሡ ወደ ምድር ፊቱን ሰግዶ ሰገደለት።",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "በመመልከት"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "አራውናም"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንጉሡን"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "አገልጋዮቹን"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "አገልጋዮቹን"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ሲሻገሩ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ወደ ራሱ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ወጥቶ"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "አራውናም"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ሰገደለት"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ለንጉሡ"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "ፊቱን"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ወደ ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T06:12:05.367395294Z",
+  "model": "glm-5.3"
+}

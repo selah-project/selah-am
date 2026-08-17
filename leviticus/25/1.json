@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ያህዌህ በሲና ተራራ ለሞሼ ተናገረው እንዲህ ሲል፦",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "በተራራ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ሲና"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:00:52.598341501Z",
+  "model": "glm-5.3"
+}

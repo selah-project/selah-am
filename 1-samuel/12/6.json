@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ሳሙኤልም ሕዝቡን እንዲህ አለው፦ ያህዌህ ሆይ፣ እርሱ ⟨את⟩ ሞሼን እና ⟨את⟩ አሃሮንን የፈጠረ፣ እና ⟨את⟩ አባቶቻችሁን ከውጭ ምድር ያወጣ እርሱ ነው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤልም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ... ወደ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ... የሆነው"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "የፈጠረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሼን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "አሃሮንን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮንን"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "እና የ... የሆነው"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ያወጣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አባቶቻችሁን"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "አባቶቻችሁን"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ከውጭ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:38:54.457074068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እኔ ግን በምሕረትህ ብዛት ወደ ቤትህ እገባለሁ፤ ወደ ቅዱስ መቅደስህ በፍርሃትህ እሰግዳለሁ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "በብዛት"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ምሕረትህ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "እገባለሁ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ወደ ቤትህ"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "እሰግዳለሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "መቅደስ"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ቅዱስ የሆነው"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "በፍርሃትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:27:50.377071296Z",
+  "model": "glm-5.3"
+}

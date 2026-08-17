@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "proverbs 19:12",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "የንጉሥ ቍጣ እንደ ነብር ጮኽ ⟨ነው⟩፤ መልካም ፈቃዱም እንደ ሣር ላይ ጠጅ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "ጮኽ"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "እንደ ነብር"
+    },
+    {
+      "surface": "זעף",
+      "gloss": "ቍጣ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "የንጉሥ"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "እንደ ጠጅ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ሣር"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "መልካም ፈቃዱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:30:51.035581310Z",
+  "model": "glm-5.3"
+}

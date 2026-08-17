@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "ማንን ለመብላት እንደ ዝናብ አዘነበባቸው፤ የሰማይ እህልም ሰጣቸው።",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "አዘነበባቸው"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ባቸው"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ማንን"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ለመብላት"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "እና እህልም"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "የሰማይ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጣቸው"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ለእነርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:53.754381658Z",
+  "model": "glm-5.3"
+}

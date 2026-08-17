@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "የሰውን ደም የሚፈስ ሰው — ደሙ በሰው ይፈሳል፤ በኤሎሂም መልክ ሰውን ⟨את⟩ ስለፈጠረ ነው።",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "የሚፈስ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "የሰውን"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "በሰው"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ደሙ"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ይፈሳል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነው ስለ"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "በመልክ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ስለፈጠረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰውን"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰውን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:32:07.523909821Z",
+  "model": "glm-5.3"
+}

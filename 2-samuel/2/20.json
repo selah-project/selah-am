@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "2-samuel 2:20",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "አብነርም ወደ ኋላው ተመልክቶ እንዲህ አለ — አንተ ዓሳሔል ነህን? እርሱም እኔ ነኝ አለ።",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "ተመለከተ"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "አብነር"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ወደ ኋላው"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "አንተ... ነህን?"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "ዓሳሔል"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:54:13.039730503Z",
+  "model": "glm-5.3"
+}

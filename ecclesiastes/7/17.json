@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ብዙ ክፉ አትሁን፣ እንዲሁም ሞኝ አትሁን፤ በጊዜህ ሳይሆን ስለምን ትሞታለህ?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "ክፉ አትሁን"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ብዥታ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ትሁን"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ሞኝ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ስለምን"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ትሞታለህ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ሳይሆን"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "በጊዜህ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:16:45.179861535Z",
+  "model": "glm-5.3"
+}

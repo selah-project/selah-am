@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "በአንተ ዘንድ አይገኝም — ልጁንም ልጇንም በእሳት የሚያልፍ፣ አዋቂ፣ በአዋጅ የሚናገር፣ የደመኞች ተመልካች፣ አስማተኛም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ይገኝል"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ ዘንድ"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "የሚያልፍ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁን"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "ልጇንም"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "የጥንቆላ አዋቂ"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "ጥንቆላዎችን"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "የደመኞች ተመልካች"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "አስመላሽም"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "አስማተኛም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:45:08.311085488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 132,
+  "translation": "በዚያ ለዳዊት ቀን አጨብጫቢ አደርጋለሁ፤ ለማሺኅዬ መብራት አዘጋጅቻለሁ።",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "አጨብጫቢ አደርጋለሁ"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "አዘጋጅቻለሁ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "መብራት"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "ለማሺኅዬ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:23.066774099Z",
+  "model": "glm-5.3"
+}

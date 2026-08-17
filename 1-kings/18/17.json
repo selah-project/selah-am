@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ሆኖም አሐብ ኤልይሁን ⟨את⟩ ሲያይ፣ አሐብ ወደ እርሱ እንዲህ አለው፤ አንተ ነህ፣ ይህ እርሱ፣ እስራኤልን የሚያስከብር?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆኖም"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "ሲያይ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "አሐብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤልይሁን"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልይሁ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "አሐብ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "አንተ ነህ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "የሚያስከብር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:31:57.670141215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-kings 11:4",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "በሰሎሞንም አይጠረው ወቅት ሴቶቹ ⟨את⟩ ልቡን ከሌሎች አማልክት በኋላ አዙሩት፤ ልቡም ከአባቱ ከዳዊት ልብ እንደሆነ ሙሉ በያህዌህ ኤሎሂሙ ጋር ሙሉ አልነበረም።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "በ… ወቅትም"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "በወቅት"
+    },
+    {
+      "surface": "זקנת",
+      "gloss": "አይጠረው"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ሴቶቹ"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "አዙሩት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልቡን"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ልቡን"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ… በኋላ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ከአማልክት"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ሌሎች"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበረም"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ሙሉ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ኤሎሂሙ"
+    },
+    {
+      "surface": "כלבב",
+      "gloss": "እንደ… ልብ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:27:18.332865800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ከወንድ ልጅ ከሃያ ዓመት በላይ በእስራኤል ወደ ጦር ከሚወጣ ሁሉ አንተና አሃሮን ⟨אתם⟩ በጭንቅላታቸው ወደ ጦር ሰራዊት ቁጠሩ።",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "ከወንድ ልጅ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ከሃያ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "እና በላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "የሚወጣ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ወደ ጦር"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "በእስራኤል"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "ቁጠሩ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ሁሉ የሚወጣ ወደ ጦር"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "በጭንቅላታቸው ወደ ጦር ሰራዊት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "እና አሃሮን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:04:24.430184919Z",
+  "model": "glm-5.3"
+}

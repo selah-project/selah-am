@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ኤሎሂምም አለኝ፤ «ስም ቤት አታሥራ፤ የጦርነቶች ሰው ነህና፣ ደምም አፍሰህል።»",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "ኤሎሂምም"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "አለኝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አታ"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ታሥራ\/አታሥራ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነህና"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "የጦርነቶች"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "ደምም"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "አፍሰህል"
+    }
+  ],
+  "timestamp": "2026-08-16T13:26:37.699098303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 43,
+  "ref": "1-kings 20:43",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "የእስራኤል ንጉሡም ቁጭ ብሎ ተቆጥቶ ወደ ቤቱ ሄደ፤ ወደ ሰማርያምም ገባ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ቁጭ ብሎ"
+    },
+    {
+      "surface": "וזעף",
+      "gloss": "ተቆጥቶ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ገባ"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "ወደ ሰማርያም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:32:52.863256243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "እንደ እውነቱ ኪነትና ምሕረት በሕይወቴ ቀኖች ሁሉ ይከተሉኛል፤ በያህዌህ ቤት ላልኩት ቀኖች እኖራለሁ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "እንደ እውነቱ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ኪነት"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "እና ምሕረት"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "ይከተሉኛል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "በ…ቀኖች"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ሕይወቴ"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "እኖራለሁ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "ላልኩት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀኖች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:05.008117410Z",
+  "model": "glm-5.3"
+}

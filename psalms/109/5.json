@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "ክፉን በመልካሙ ፋንታ በእኔ ላይ አዋረዱ፤ ጥላትንም በፍቅሬቱ ፋንታ።",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "አዋረዱ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉን"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ…ፋንታ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "መልካሙ"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "ጥላትንም"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ…ፋንታ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ፍቅሬቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:02.966732970Z",
+  "model": "glm-5.3"
+}

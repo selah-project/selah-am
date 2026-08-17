@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "የዮሴፍንም ⟨את⟩ ልብስ ወሰዱ፤ የፍየል ጠቦትም ሠወሩ፤ ⟨את⟩ ልብሱንም በደም አንከባለሉ።",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ወሰዱ፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልብስ"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ልብስ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍንም"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "ሠወሩ፤"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ጠቦትም"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "የፍየል"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "አንከባለሉ፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልብሱንም"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "ልብሱንም"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "በደም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:55:25.260681611Z",
+  "model": "glm-5.3"
+}

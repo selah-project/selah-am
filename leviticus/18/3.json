@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "leviticus 18:3",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "እናንተ የተቀመጣችምበት የምጽራይም ምድር ሥራ መሰል አትሥሩ፤ እኔ ወደምወሳችሁበት ⟨את⟩ የከነዓን ምድር ሥራ መሰልም አትሥሩ፤ በእነርሱም ሥርዓቶች አትሂዱ።",
+  "tokens": [
+    {
+      "surface": "כמעשה",
+      "gloss": "መሰል"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "የ… ምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "የምጽራይም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ… በት"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "ተቀመጣችሁበት"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሷ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት… አ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ትሥሩ"
+    },
+    {
+      "surface": "וכמעשה",
+      "gloss": "እና መሰል"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "የ… ምድር"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "የከነዓን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ… በት"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ወደምወሳችሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ እናንተን",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ወደ ዚያ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት… ም"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ትሥሩ"
+    },
+    {
+      "surface": "ובחקתיהם",
+      "gloss": "በእነርሱም ሥርዓቶች"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ትሂዱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:53:57.626529111Z",
+  "model": "glm-5.3"
+}

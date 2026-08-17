@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "መንገዳቸው ጨለምና ወፈር ይሁን፤ የያህዌህ መልአክም እየከተላቸው ይሁን።",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "መንገዳቸው"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጨለም"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "እና ወፈር"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "መልአክም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "እየከተላቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:42.123797051Z",
+  "model": "glm-5.3"
+}

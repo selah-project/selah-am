@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "በዚያም ቀን በይስሬኤል ሸለለ ውስጥ የእስራኤልን ቀስት ⟨את⟩ እሰብራለሁ።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "እሰብራለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቀስት"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ቀስት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤልን"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "በሸለለ"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "በይስሬኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T08:56:01.027916703Z",
+  "model": "glm-5.3"
+}

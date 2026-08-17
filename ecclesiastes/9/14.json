@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "አንድ ትንሽ ከተማ ነበረች፣ ሰዎችም በእሷ በጥቂቱ፤ ታላቅ ንጉሥም ወደ እሷ መጣ፣ አንጠባጠቧትም ⟨את⟩፣ ታላላቅ የዘመን ግንቦችንም በእሷ ላይ ሠራ።",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "ትንሽ"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "ሰዎችም"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእሷ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "በጥቂቱ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "መጣም"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ወደ እሷ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "አንጠባጠቧትም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እሷን (ከተማዋን)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "ሠራም"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "በእሷ ላይ"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "የዘመን ግንቦችን"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ታላላቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:16:46.445719762Z",
+  "model": "glm-5.3"
+}

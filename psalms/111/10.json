@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 111,
+  "translation": "የጥበብ መጀመሪያ የያህዌህ መፈራት ⟨ነው⟩፤ በጎ መረዳት ለሁሉም አደራጊዎቹ ⟨አላቸው⟩፤ ምስጋናው ለዘለቅኙ ይቆማል።",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "መጀመሪያ"
+    },
+    {
+      "surface": "ᗛכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "መፈራት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "መረዳት"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "በጎ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "አደራጂዎቹ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ምስጋናው"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "የቆማ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ለዘለቅኙ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:59.991019762Z",
+  "model": "glm-5.3"
+}

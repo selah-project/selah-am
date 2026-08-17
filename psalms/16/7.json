@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ያህዌህን ⟨את⟩ እባራለሁ፣ እርሱ የምክረኝ ነው፤ አዎ፣ ኒሮቼ በሌሊቶች ያስተምሩኛል።",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "እባራለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምክረኝ"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "የምክረኝ ነው"
+    },
+    {
+      "surface": "אף",
+      "gloss": "አዎ"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "በሌሊቶች"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "ያስተምሩኛል"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ኒሮቼ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:32.439238205Z",
+  "model": "glm-5.3"
+}

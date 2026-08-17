@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "ነታን ነቢዩ እርሱ ወደ ቤር-ሳባ ገብቶ በነበረበት ጊዜ በመጣ ጊዜ እርሱ ወደ እርሱ።",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "በመጣ ጊዜ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ነታን"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነቢዩ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ገብቶ በነበረበት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ቤር-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሳባ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:00.590429591Z",
+  "model": "glm-5.3"
+}

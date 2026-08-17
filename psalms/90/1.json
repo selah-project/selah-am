@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 90,
+  "translation": "የሞሼ ተስፋፊታ ይህ ነው፣ የኤሎሂም ሰው። አዶናይ ሆይ፣ ለዘልአለም ትውልድም ትውልድም ⟨ለኛ⟩ መኖሪያ አንተ ኾንሃል።",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "ተስፋፊታ"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ለሞሼ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "መኖሪያ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ኾንሃል"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨ለኛ⟩"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "ትውልድም"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ትውልድም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:51.702123706Z",
+  "model": "glm-5.3"
+}

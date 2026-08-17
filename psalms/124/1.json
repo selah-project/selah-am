@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 124,
+  "translation": "የመዓረጊያ መዝሙር፣ ለዳዊት። ያህዌህ ስለ ሆነልን መልካም — ይስራኤል አሁን ይመስክር፤",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "የመዓረጊያዎች"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "ካልሆነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ስለ ሆነልን"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ይመስክር"
+    },
+    {
+      "surface": "נא",
+      "gloss": "አሁን\/መልካም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:13.055711103Z",
+  "model": "glm-5.3"
+}

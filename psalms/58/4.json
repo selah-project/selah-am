@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 58,
+  "translation": "ክፉዎች ከማህፀን እንደ እንግዳ ተለያዩ፤ ከሆድ ተበታተኑ፤ ውሸትን የሚናገሩ ናቸው።",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "እንደ እንግዳ ተለያዩ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉዎች"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ከማህፀን"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "ተበታተኑ"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ከሆድ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "የሚናገሩ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ውሸትን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:48.483890303Z",
+  "model": "glm-5.3"
+}

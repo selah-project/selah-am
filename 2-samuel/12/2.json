@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ለሀብታሙ በጣም ብዙ በጎችና ላሞች ነበሩት።",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "ለሀብታሙ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበሩት"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "በጎች"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "እና ላሞች"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "በዝተው"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:01:56.979297052Z",
+  "model": "glm-5.3"
+}

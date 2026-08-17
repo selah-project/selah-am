@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ኤፍሬም ሲናገር መድኃኒት ነበር፤ እርሱ በእስራኤል ውስጥ ተሠወጠ፤ ነገር ግን በባዓል በደለ፣ እና ሞተ።",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "ሲናገር"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍሬም"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "መድኃኒት"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ተሠወጠ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "በእስራኤል"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "በደለ"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "በባዓል"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:26:31.671528769Z",
+  "model": "glm-5.3"
+}

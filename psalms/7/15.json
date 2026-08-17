@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እነሆ ⟨እርሱ⟩ ክፉነትን ያለብዳል፤ መከራን ተቀብሎ ውሸትን ወልዷል።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "ያለብዳል"
+    },
+    {
+      "surface": "און",
+      "gloss": "ክፉነትን"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "ተቀብሎ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "መከራን"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "ወልዷል"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ውሸትን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:28:14.987701380Z",
+  "model": "glm-5.3"
+}

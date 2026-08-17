@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ያልሞቱትም ሰዎች በዐፄሮች ተመቱ፤ የከተማዋም ጮኽ እስከ ሰማያት ወጣ።",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "ሰዎችም ያልሞቱት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ሞቱም"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "ተመቱ"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "በዐፄሮች"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ወጣችም"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "ጮኽ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "የከተማዋ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "እስከ ሰማያት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:33:52.902673876Z",
+  "model": "glm-5.3"
+}

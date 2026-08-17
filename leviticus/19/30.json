@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ሰንበቶቼን ⟨את⟩ ትጠብቃላችሁ፣ መቅደሴንም ትፈራላችሁ፤ እኔ ያህዌህ ነኝ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰንበቶቼን"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "ሰንበቶቼን"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ትጠብቃላችሁ"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "መቅደሴንም"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ትፈራላችሁ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:56:31.651489113Z",
+  "model": "glm-5.3"
+}

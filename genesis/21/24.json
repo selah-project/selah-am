@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "አብራሃምም እኔ እማልላለሁ አለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብራሃም"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "እማልላለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:41:05.666571824Z",
+  "model": "glm-5.3"
+}

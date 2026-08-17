@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ይህም ⟨את⟩ እንዲህ ታደርገዋታለህ፤ ሦስት መቶ ክንድ የታቦቱ ርዝመት፣ ሃምሳ ክንድ ስፋቷ፣ ሠላሳ ክንድም ቁመቷ ይሁን።",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ይህም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ታደርገዋታለህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦቱን"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ክንድ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ርዝመት"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "የታቦቱ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ሃምሳ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ክንድ"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ስፋቷ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ሠላሳም"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ክንድ"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "ቁመቷ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:28:43.171667492Z",
+  "model": "glm-5.3"
+}

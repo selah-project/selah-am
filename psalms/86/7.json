@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 86,
+  "translation": "በጭንቀት ቀን እጠራሃለሁ፥ መልሼኝ ታገኛለህ።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "በ...ቀን"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "ጭንቀት"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "እጠራሃለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "መልሼኝ"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ታገኛለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:20.269422452Z",
+  "model": "glm-5.3"
+}

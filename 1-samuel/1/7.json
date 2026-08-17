@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እንዲህም ዓመት በዓመት ያደርግ ነበር፤ ቤተ ያህዌህ በሚወጣበት ወቅት ሁሉ እንዲህ ታስቈሳታት ነበር፤ እሷም አለቅሳለች፤ አትበላም ነበር።",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "እንዲህም"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ያደርግ ነበር፤"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "በዓመት"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "በወቅት ሁሉ"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "በሚወጣበት"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ቤተ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "ታስቈሳታት ነበር፤"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "አለቅሳለች፤"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ትበላም ነበር፤"
+    }
+  ],
+  "timestamp": "2026-08-16T05:31:25.096340537Z",
+  "model": "glm-5.3"
+}

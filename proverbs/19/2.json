@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እውቀት የሌለው ነፍስ ደግሞ መልካም አይደለም፤ በእግሮች የሚቆራራም ያመካኛል።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "የሌለው"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "እውቀት"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "እና የሚቆራራ"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "በእግሮች"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "ያመካኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:30:49.278323212Z",
+  "model": "glm-5.3"
+}

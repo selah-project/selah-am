@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የፈርዖን ልብ ከበደ፣ ወደ ⟨እነርሱ⟩ም አልሰማም፣ እንደ ተናገረው ያህዌህ።",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ከበደ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "የፈርዖን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አልፈጽም"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "አልሰማም"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ወደ ⟨እነርሱ⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:09:37.251440687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "jeremiah 17:10",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "እኔ ያህዌህ ልብን የሚመረምር፣ ኩላሊትን የሚፈትሽ ነኝ፤ ለወንድም በመንገዱ መሠረት፣ በሥራው ፍሬ መሠረት እንዲሰጠው።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "የሚመረምር"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብን"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "የሚፈትሽ"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "ኩላሊትን"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "እንዲሰጠው"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ለወንድም"
+    },
+    {
+      "surface": "כדרכו",
+      "gloss": "በመንገዱ"
+    },
+    {
+      "surface": "כפרי",
+      "gloss": "በፍሬ"
+    },
+    {
+      "surface": "מעלליו",
+      "gloss": "ሥራው"
+    }
+  ],
+  "timestamp": "2026-08-16T07:47:55.981034870Z",
+  "model": "glm-5.3"
+}

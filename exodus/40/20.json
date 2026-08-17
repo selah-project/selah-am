@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ወስዶ እና ⟨את⟩ ምስክሩን ወደ ታቦቱ አስቀመጠ፤ እና ⟨את⟩ በቶቹን በታቦቱ ላይ አደረገ፤ እና ⟨את⟩ የማስተስተሊውን ኮበሌን ከላይ በታቦቱ ላይ አስቀመጠ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወስዶ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "አስቀመጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምስክሩን"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ምስክሩን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ታቦቱ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በቶቹን"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "በቶቹን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ታቦቱ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "አስቀመጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኮበሌን"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ኮበሌን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ታቦቱ"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ከላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:41:00.853481149Z",
+  "model": "glm-5.3"
+}

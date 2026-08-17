@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ከሰውም የወሲባ ዘር ቢወጣ ከእርሱ፣ በውሃ ⟨את⟩ መላውን ሥጋውን ያጠባል፤ እስከ ምሽትም እርኩስ ነው።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ከሰውም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ቢወጣ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእርሱ"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "የወሲባ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘር"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ያጠባል"
+    },
+    {
+      "surface": "במים",
+      "gloss": "በውሃ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መላውን ሥጋውን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላውን"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ሥጋውን"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "እርኩስ ነው"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ምሽት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:54:42.335494039Z",
+  "model": "glm-5.3"
+}

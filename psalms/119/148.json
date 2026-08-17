@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 148,
+  "ref": "psalms 119:148",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ዓይኖቼ የሌሊት መጠበቂያዎችን አስቀድመዋል፤ በቃልህ ለመተንተን።",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "አስቀድመዋል"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኖቼ"
+    },
+    {
+      "surface": "אשמרות",
+      "gloss": "የሌሊት መጠበቂያዎችን"
+    },
+    {
+      "surface": "לשיח",
+      "gloss": "ለመተንተን"
+    },
+    {
+      "surface": "באמרתך",
+      "gloss": "በቃልህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:28.436015264Z",
+  "model": "glm-5.3"
+}

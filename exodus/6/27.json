@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እነርሱ የእስራኤልን ልጆች ⟨את⟩ ከግብፅ ለማውጣት ወደ ፈርዖን የግብፅ ንጉሥ የተናገሩ ናቸው፤ ይህ ሞሼ እና አሃሮን ነው።",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "እነርሱ"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "የተናገሩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "የ…ንጉሥ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፅ"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ለማውጣት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእስራኤልን ልጆች"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆችን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ከግብፅ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ይህ ነው"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "እና አሃሮን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:08:10.029646944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "numbers 16:31",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "እርሱም እነዚህን ቃላት ሁሉ ⟨את⟩ ሲጨርስ ሲናገር፣ ከእነርሱ በታች የነበረው ምድር ተሰነጠለ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "ሲጨርስ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ሲናገር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላቱን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላቱን"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህን"
+    },
+    {
+      "surface": "ותבקע",
+      "gloss": "ተሰነጠለች"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "ከእነርሱ በታች"
+    }
+  ],
+  "timestamp": "2026-08-16T04:17:53.962935680Z",
+  "model": "glm-5.3"
+}

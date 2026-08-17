@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ለፀሐይ የሚያዘዛት እርሷም አትወጣም፤ ከዋክብትንም በማህተም ይዘጋል።",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "የሚያዘዛት"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "ለፀሐይ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አትወጣም"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "አትወጣም"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ከዋክብትንም"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "ከዋክብትን"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "በማህተም ይዘጋል"
+    }
+  ],
+  "timestamp": "2026-08-16T18:16:15.617444904Z",
+  "model": "glm-5.3"
+}

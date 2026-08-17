@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 118,
+  "translation": "በያህዌህ ማምለሽ ይሻላል፤ ከበአለቆች መተማመን ይሻላል።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ይሻላል"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "ማምለሽ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "በያህዌህ"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ከመተማመን"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "በአለቆች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:35.416995142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "exodus 35:8",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "እና ለመብራት ዘይት፣ እና ለየቁስቁስ ዘይት ለመቀባት፣ እና ለመርገም ሽቶ፤",
+  "tokens": [
+    {
+      "surface": "ושמן",
+      "gloss": "እና ዘይት"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ለመብራት"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "እና ለየቁስቁስ"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "ዘይት ለ"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "መቀባት"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "እና ለመርገም"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ሽቶ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:31:23.722008745Z",
+  "model": "glm-5.3"
+}

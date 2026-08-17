@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "ዝም ኮኝ፤ አፌን አልከፈትኩም፤ ስለዚህ ⟨አንተ⟩ አደረግኸው።",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "ዝም ኮኝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ከፍትኩ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፌን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨አንተ⟩"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "አደረግኸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:23.027029152Z",
+  "model": "glm-5.3"
+}

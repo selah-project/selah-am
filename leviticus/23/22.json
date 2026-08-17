@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "leviticus 23:22",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "የምድራችሁን መከር በታጨችሁ ጊዜ የበረሃችሁን ጠርሶ አትጨርሱ፣ የመከርህን ቀረውንም አትሰብስቡ፤ ለድሆችና ለመቀመጫ እነርሱን ተው፤ እኔ ያህዌህ ኤሎሂምአችሁ ነኝ።",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "በታጨችሁ ጊዜ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መከርን"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "መከርን"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "የምድራችሁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "ጨርሱ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ጠርሶ"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "የበረሃህን"
+    },
+    {
+      "surface": "בקצרך",
+      "gloss": "በመታጨትህ"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "የቀረውንም"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "የመከርህን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "ሰብስቡ"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ለድሆች"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "ለመቀመጫም"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ተው"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምአችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:59:46.343507409Z",
+  "model": "glm-5.3"
+}

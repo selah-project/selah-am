@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 7:21",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ስለ ቃልህ እና ስለ ልብህ ይህንን ሁሉንም ታላቅነት ⟨את⟩ ሠራህ፣ ለአገልጋይህ ⟨את⟩ አሳወቅህ።",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ቃልህ"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "እና ስለ ልብህ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ሠራህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉንም ታላቅነት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉንም"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ታላቅነት"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህንን"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "ለማሳወቅ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ለአገልጋይህ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "አገልጋይህ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:41:23.926013140Z",
+  "model": "glm-5.3"
+}

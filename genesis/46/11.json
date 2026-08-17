@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 46,
+  "translation": "የሌዊ ውነዎችም ጌርሶን፣ ቀሃትና ምራሪ ናቸው።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "የ…ውነዎችም"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ሌዊ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ጌርሶን"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ቀሃት"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "ና ምራሪ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:01:55.859512425Z",
+  "model": "glm-5.3"
+}

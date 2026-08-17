@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 31:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "የብዙዎችን ሐሜት ሰምቻለሁ፤ ከዙሪያ ፍርሃት ነበር፤ በተሰበሰቡ ጊዜ በእኔ ላይ ነፍሴን ሊወስዱ ምክር ሠሩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ሰምቻለሁ"
+    },
+    {
+      "surface": "דבת",
+      "gloss": "ሐሜት"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙዎችን"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "ፍርሃት"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ከዙሪያ"
+    },
+    {
+      "surface": "בהוסדם",
+      "gloss": "በተሰበሰቡ ጊዜ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "በአንድነት"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ሊወስዱ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "ምክር ሠሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:39.757899245Z",
+  "model": "glm-5.3"
+}

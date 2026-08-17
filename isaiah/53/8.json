@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 53,
+  "translation": "ከማቆርጃም ከፍርድም ተወሰደ፤ የዘመኑንም ⟨את⟩ ማን ይገልጸዋል? ከሕያዋን ምድር ተቆረጠና፤ ስለ ሕዝቤ መፈረጃ ለእነርሱ የመታ ሆኗል።",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "ከማቆርጃ"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "ከፍርድም"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ተወሰደ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዘመኑ"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "የዘመኑን"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "ይገልጸዋል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "ተቆረጠ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከ...ምድር"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ሕያዋን"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "ስለ መፈረጃ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "የመታ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ለእነርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:04:02.730619366Z",
+  "model": "glm-5.3"
+}

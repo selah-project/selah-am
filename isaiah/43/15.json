@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "እኔ እኔ ነኝ ያህዌህ ቅዱሳችሁ፣ የእስራኤል ፈጣሪ እና ንጉሳችሁ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "ቅዱሳችሁ"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "ፈጣሪ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "ንጉሳችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:20:03.812515660Z",
+  "model": "glm-5.3"
+}

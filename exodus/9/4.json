@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "exodus 9:4",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ያህዌህም በእስራኤል እንስሳትና በግብፅ እንስሳት መካከል ልዩነት ያደርጋል፤ ከእስራኤል ልጆች እንስሳት ሁሉ አንድም አይሞትም።",
+  "tokens": [
+    {
+      "surface": "והפלה",
+      "gloss": "ልዩነት ያደርጋልም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በ…መካከል"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "እንስሳት የ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እና በ…መካከል"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "እንስሳት የ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፅ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይሞትምም"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "አይሞት"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለልጆች የሆነ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "አንድም ነገር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:11:30.600879184Z",
+  "model": "glm-5.3"
+}

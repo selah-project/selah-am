@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 18:46",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "የያህዌህ እጅ በኤልይሁ ላይ ነበረ፤ እርሱም ወገቡን ታጀበ፤ በአሐብ ፊት በመግባቱ ወደ ይስራኤል ድረስ ሮጠ።",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "እና እጅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነበረ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልይሁ"
+    },
+    {
+      "surface": "וישנס",
+      "gloss": "እና ታጀበ"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "ወገቡን"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "ሮጠ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "አሐብ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ድረስ"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "በመግባቱ"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "ወደ ይስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T16:27:10.738400607Z",
+  "model": "glm-5.3"
+}

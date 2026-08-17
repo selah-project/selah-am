@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 34:14",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ወደ ያህዌህ ቤት የገባውን ⟨את⟩ ገንዘብ በሚያወጡ ጊዜ ካህኑ ሕልቅያሁ የያህዌህን የሕግ መጽሐፍ ⟨את⟩ በሞሼ እጅ አገኘ።",
+  "tokens": [
+    {
+      "surface": "ובהוציאם",
+      "gloss": "በሚያወጡ ጊዜ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገንዘብ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ገንዘብ"
+    },
+    {
+      "surface": "המובא",
+      "gloss": "የገባው"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "አገኘ"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "ሕልቅያሁ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሕግ መጽሐፍ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "መጽሐፍ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "የሕግ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በ… እጅ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:48:02.410536527Z",
+  "model": "glm-5.3"
+}

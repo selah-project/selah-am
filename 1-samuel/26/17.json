@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ሳኦልም የዳዊትን ድምፅ ⟨את⟩ ለወቀ፤ እንዲህም አለ፦ «ይህ ድምፅህ ነውን የኔ ልጅ ዳዊት?» ዳዊትም አለ፦ «ድምፄ ነው፣ ጌታዬ ንጉሡ።»",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "ለወቀ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦልም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምፅ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "የዳዊትን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህም አለ፦"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "ድምፅህ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የኔ ልጅ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ድምፄ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጌታዬ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:33:08.762831459Z",
+  "model": "glm-5.3"
+}

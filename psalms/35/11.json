@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "የበደል ምስክሮች ይነሣሉ፤ ያላወቅሁትን ነገር ይጠይቁኛል።",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "ይነሣሉ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ምስክሮች"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "የበደል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "አወቅሁትን"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "ይጠይቁኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:30.181163084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "የጻድቅ አፍ ጥበብን ያሰማል፣ እና ቋንቋው ፍርድን ይናገራል።",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "የ… አፍ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቅ"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ያሰማል"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብን"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "እና ቋንቋው"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ይናገራል"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:40:19.058167241Z",
+  "model": "glm-5.3"
+}

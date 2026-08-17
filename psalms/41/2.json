@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "የሚያመሳኘው ለደካማው እንዴት ደስተኛ ነው፤ በክፉ ቀን ያህዌህ ያድነዋል።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ደስተኛ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "የሚያመሳኘው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለደካማው ላይ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ደካማው"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በክፉ ቀን"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "ያድነዋል፤"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:34.983191610Z",
+  "model": "glm-5.3"
+}

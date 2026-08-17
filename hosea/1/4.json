@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ያህዌህም እንዲህ አለው፤ ስሙን ይስረእል ብለው ጠሩት፤ ምክንያቱም ጥቂት ነው ቀርቶ፣ ⟨את⟩ የይስረእል ደሙን በይሁ ቤት ላይ እፈርሳለሁ፣ የእስራኤልን ቤት መንግሥትም አቆማለሁ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ጠሩት"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "ይስረእል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ጥቂት ነው ቀርቶ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ጥቂት"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "እፈርሳለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የይስረእል ደሙን"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "ይስረእል"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ይሁ"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "አቆማለሁ"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "መንግሥት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T08:56:43.174233254Z",
+  "model": "glm-5.3"
+}

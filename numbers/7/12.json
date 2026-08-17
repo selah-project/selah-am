@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "numbers 7:12",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "በመጀመሪያው ቀን ⟨את⟩ መሥዋዕቱን ያቀረበ የአሚናዳብ ልጅ፣ ከይሁዳ ነገዥ የሆነው ናክሶን ⟨ነበር⟩።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "ያቀረበ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በ... ቀን"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "በመጀመሪያው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሥዋዕቱን"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "መሥዋዕቱን"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "ናክሶን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "አሚናዳብ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ከ... ነገዥ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:09:52.246009413Z",
+  "model": "glm-5.3"
+}

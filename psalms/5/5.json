@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ክፉን የሚፈልግ ኤል አንተ ስለሆንክ አይደለህም፤ ክፉም ከአንተ ጋር አይኖርም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "የሚፈልግ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "ከአንተ ጋር አይኖርም"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:27:50.375753480Z",
+  "model": "glm-5.3"
+}

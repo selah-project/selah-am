@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ከዚያም ሁሉን ትእዛዞችህን በማየቴ ጊዜ አልፈራም ነበር።",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ከዚያም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "አፍራለሁ"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "በማየቴ ጊዜ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ትእዛዞችህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:22.220388099Z",
+  "model": "glm-5.3"
+}

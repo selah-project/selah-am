@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እንደ ውኃ ተፈስቻለሁ፤ የእጄ ሁሉ አጥንቶች ተበታትነዋል፤ ልቤ እንደ ሰሚ ሆኗል፤ በሆድ ውስጜ ተቀልብሷል።",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "እንደ ውኃ"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "ተፈስቻለሁ"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "ተበታትነዋል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "የእጄ አጥንቶች"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ሆኗል"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "እንደ ሰሚ"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "ተቀልብሷል"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በ…ውስጜ"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "ሆድ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:23.932569703Z",
+  "model": "glm-5.3"
+}

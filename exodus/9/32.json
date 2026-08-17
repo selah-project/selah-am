@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ስንዴው ግን እና ዳሮው አልተመቱም፤ የዘገዩ ናቸውና።",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "ስንዴው ግን"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "እና ዳሮው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "ተመቱም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ናቸውና"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "የዘገዩ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:10:47.812863260Z",
+  "model": "glm-5.3"
+}

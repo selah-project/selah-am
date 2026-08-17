@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "የእኔን ⟨את⟩ ሥርዓቶቼን ታደርጋቸዋላችሁ እና ታደርጓቸዋላችሁ፤ እኔ ያህዌህ እናንተን የሚያቀድስ ነኝ።",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ታደርጋቸዋላችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሥርዓቶቼን"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ሥርዓቶቼን"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "እና ታደርጓቸዋላችሁ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ እነሱን"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "እናንተን የሚያቀድስ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:56:38.474302841Z",
+  "model": "glm-5.3"
+}

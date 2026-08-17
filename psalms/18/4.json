@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ምስጌኃዊ የሆነውን ያህዌህን እጠራለሁ፤ ከጠላቶቼም ይድነኛለሁ።",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "ምስጌኃዊ የሆነውን"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "እጠራለሁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "እና ከ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ጠላቶቼ"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "ይድነኛለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:30.200285079Z",
+  "model": "glm-5.3"
+}

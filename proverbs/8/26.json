@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "proverbs 8:26",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እርሱ ምድርን፣ መስኮችንም፣ የዓለምንም አፈር ራስ እስከዚያ ጊዜ ድረስ ሳይሠራ።",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "እስከዚያ ጊዜ ድረስ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ሳይሠራ (አል…ም)"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ሳይሠራ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "וחוצות",
+      "gloss": "መስኮችንም"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "…ራስንም"
+    },
+    {
+      "surface": "עפרות",
+      "gloss": "የአፈር"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "የዓለም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:24:37.660347266Z",
+  "model": "glm-5.3"
+}

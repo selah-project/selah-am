@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "ሕዝቡን ⟨את⟩ በጣም አፈራ፤ ከጠላቶቹም ኃይለኛ አደረጋቸው።",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "አፈራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "ኃይለኛ አደረገው"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "ከጠላቶቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:22.021707748Z",
+  "model": "glm-5.3"
+}

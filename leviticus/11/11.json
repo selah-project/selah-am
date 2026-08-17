@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እነሱ ጥላት ይሆናሉ ላንተህ፤ ከሥጋቸው አትብሉም፣ እና ⟨את⟩ አሥነጋቸውን ታሥነጋጋላችሁ።",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "እና ጥላት"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ይሆናሉ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ላንተህ"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "ከሥጋቸው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት...ም"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ታቅላላችሁ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "አሥነጋቸውን"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "አሥነጋቸውን"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "ታሥነጋጋላችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:48:32.118511289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 14:18",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ንጉሡም መልሶ ለሴትዮዋ እንዲህ አለባት፦ «እባክሽ እኔ የምሰጥሽውን ⟨את⟩ ቃል ከእኔ አትደበቂብኝ።» ሴቲቱም እንዲህ አለች፦ «የንጉሡ ጌታዬ እባክህ ይናገር።»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መልሶ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሴትዮዋ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክሽ"
+    },
+    {
+      "surface": "תכחדי",
+      "gloss": "ትደብቂ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ምሰጥሽ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ቃል (ወደ እሷ)"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "አለች"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሴቲቱ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ይናገር"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጌታዬ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-17T07:15:54.789389538Z",
+  "model": "glm-5.3"
+}

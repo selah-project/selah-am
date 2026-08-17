@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ምክር ሠሩ፣ ከተበታተነ ይሆናል፤ ቃል ተናገሩ፣ ⟨አይ⟩ቆምም፤ ኤል ከእኛ ⟨ጋር⟩ ነውና።",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "ሠሩ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ምክር"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "ከተበታተነ ይሆናል"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ተናገሩ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ቆምም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነውና"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ከእኛ ጋር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:00:17.234190629Z",
+  "model": "glm-5.3"
+}

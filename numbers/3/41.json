@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.3",
+  "verse": 41,
+  "ref": "numbers 3:41",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የሌዋውያንን ⟨את⟩ ለእኔ ታከል እኔ ያህዌህ ነኝ፤ ከውእታቸው በእርስ በእስራኤል ልጆች የሁሉ በኩር ፈንታ፤ የሌዋውያንንም ⟨את⟩ እንስሳት ከእስራኤል ልጆች እንስሳት የሁሉ በኩር ፈንታ።",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ታከል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሌዋውያንን"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ሌዋውያን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ፈንታ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "በኩር"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "በ…ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የሌዋውያንን እንስሳት"
+    },
+    {
+      "surface": "בהמת",
+      "gloss": "እንስሳት"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ሌዋውያን"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ፈንታ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "በኩር"
+    },
+    {
+      "surface": "בבהמת",
+      "gloss": "በ…እንስሳት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:05:29.787527657Z",
+  "model": "glm-5.3"
+}

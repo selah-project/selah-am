@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ዛሬ፣ በአቢብ ወር፣ እናንተ ትወጣላችሁ።",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "ትወጣላችሁ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "በ…ወር"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "አቢብ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:15:17.989345193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 70,
+  "ref": "psalms 78:70",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "ዳዊትን ባሪያውን መረጠ፤ ከበጎች እርብብትም ወሰደው።",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "መረጠ፤"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "ዳዊትን"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ባሪያውን"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "ወሰደው፤"
+    },
+    {
+      "surface": "ממכלאת",
+      "gloss": "ከእርብብት"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "በጎች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:56.923842157Z",
+  "model": "glm-5.3"
+}

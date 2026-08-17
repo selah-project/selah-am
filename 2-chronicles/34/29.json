@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ንጉሡም ላከ እና የይሁዳንና የየሩሳሌምን ሽማግሌዎች ሁሉ ሰበሰበ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ሰበሰበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሽማግሌዎች ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ሽማግሌዎች"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "የይሁዳ"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "የየሩሳሌምም"
+    }
+  ],
+  "timestamp": "2026-08-16T19:02:38.857353442Z",
+  "model": "glm-5.3"
+}

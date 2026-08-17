@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "በክሱም የድሃውን ፍርድ አታስቲያም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "ታስቲያም"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድ"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "የድሃውን"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "በክሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:20:45.576387785Z",
+  "model": "glm-5.3"
+}

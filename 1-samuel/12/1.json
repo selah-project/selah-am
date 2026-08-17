@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-samuel 12:1",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ሳሙኤልም ለእስራኤል ሁሉ እንዲህ አለ፤ እነሆ በላኩት ሁሉ ድምፃችሁን ሰማሁ፣ ንጉሥም አንግቤያለሁ በላይሽሕ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ፤"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ሰማሁ"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "ድምፃችሁን"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "በሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ፤"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "ላኩት"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ልን።"
+    },
+    {
+      "surface": "ואמליך",
+      "gloss": "አንግቤያለሁም"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "በላይሽሕ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:38:01.366542026Z",
+  "model": "glm-5.3"
+}

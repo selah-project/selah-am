@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ያህዌህ ኤሎሂም ሰውየውን እንዲህ ብሎ አዘዘው፤ ከየአትክልት ቦታው ዛፍ ሁሉ በእርግጥ ትበላለህ።",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "አዘዘው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰውየውን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከ…ሁሉ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ዛፍ"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "የአትክልት ቦታው"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "በእርግጥ ትበላለህ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ትበላለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:15.995128347Z",
+  "model": "glm-5.3"
+}

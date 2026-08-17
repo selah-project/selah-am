@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "1-kings 6:8",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የመካከለኛው ጎን ቤት መግቢያ በቤቱ ቀኝ ትከል ላይ ነበር፤ በጎብኝ በሮችም ወደ መካከለኛው ይወጣሉ፣ ከመካከለኛውም ወደ ሦስተኛው።",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "መግቢያ"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "የጎን ቤት"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "የመካከለኛው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "ትከል"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "የቤቱ"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ቀኝ"
+    },
+    {
+      "surface": "ובלולים",
+      "gloss": "በጎብኝ በሮችም"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ይወጣሉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "መካከለኛው"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "መካከለኛው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "ሦስተኛው"
+    }
+  ],
+  "timestamp": "2026-08-16T06:17:43.729434283Z",
+  "model": "glm-5.3"
+}

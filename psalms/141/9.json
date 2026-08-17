@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 141:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 141,
+  "translation": "ጠላቶቼ ለኔ ያጠለሉኝ ሽንኩርት እጅ እና ክፉ ሥራ አዋቂዎች ማሳማቸውች አትውርደኝ — ጠብቀኝ።",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "ጠብቀኝ"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ከ…እጅ"
+    },
+    {
+      "surface": "פח",
+      "gloss": "የሽንኩርት"
+    },
+    {
+      "surface": "יקשו",
+      "gloss": "ያጠለሉ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለኔ"
+    },
+    {
+      "surface": "ומקשות",
+      "gloss": "እና ከማሳማቸውች"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "የ…አዋቂዎች"
+    },
+    {
+      "surface": "און",
+      "gloss": "ክፉ ሥራ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:39.536184868Z",
+  "model": "glm-5.3"
+}

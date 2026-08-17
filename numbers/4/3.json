@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "numbers 4:3",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ከሰላሳ ዓመት ልጅ እስከ ላይ፣ እስከ ሃምሳ ዓመት ልጅ ድረስ፣ ሁሉም ወደ ሠራዊት የሚገባ፣ በመገናኛው ድንኳን ውስጥ ሥራ ለመሥራት።",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "ከ…ልጅ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሰላሳ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "እስከ ላይ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እና እስከ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ሃምሳ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "בא",
+      "gloss": "የሚገባ"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "ወደ ሠራዊት"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ለመሥራት"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "በ…ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መገናኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:06:29.373540196Z",
+  "model": "glm-5.3"
+}

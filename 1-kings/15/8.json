@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "1-kings 15:8",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "አቢያም ከአባቶቹ ጋር ተኝቶ በዳዊት ከተማ ⟨את⟩ ቀበሩት፤ እና ልጁ አሳ በርሱ ፋንታ ነገሠ።",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "እና ተኝቶ"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "አቢያም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ከአባቶቹ"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "እና ቀበሩት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "በዳዊት ከተማ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "በከተማ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "እና ነገሠ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "አሳ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "በርሱ ፋንታ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:28:50.748290576Z",
+  "model": "glm-5.3"
+}

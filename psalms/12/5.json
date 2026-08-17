@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የሚሉ፦ በአንደበታችን እንገድሳለን፤ ከንፈሮቻችን ⟨את⟩ ከእኛ ናቸው፤ ማን ጌታ ነው ⟨ለእኛ⟩?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "የሚሉ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "አሉ"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "በአንደበታችን"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "እንገድሳለን"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "ከንፈሮቻችን"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ከእኛ ናቸው"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ጌታ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:40.026387736Z",
+  "model": "glm-5.3"
+}

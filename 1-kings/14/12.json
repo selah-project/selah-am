@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "አንቺም ተነሺ ወደ ቤትሽ ሂጂ፤ እግሮችሽ ወደ ከተማዋ በሚገቡ ጊዜ ልጁ ይሞታል።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "አንቺም"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "ተነሺ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ሂጂ"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "ወደ ቤትሽ"
+    },
+    {
+      "surface": "בבוא",
+      "gloss": "በሚገቡ ጊዜ"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "እግሮችሽ"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "ወደ ከተማዋ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ይሞታል"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ልጁ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:27:15.199732762Z",
+  "model": "glm-5.3"
+}

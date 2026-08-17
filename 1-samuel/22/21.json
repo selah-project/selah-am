@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "አቢያታርም ለዳዊት ነገረ፤ ሳኦል የያህዌህን ካህናት ⟨את⟩ ገደለ የሚል ነው።",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ነገረ"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "አቢያታርም"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "የሚል ነው፤"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ገደለ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ካህናትን"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:46:22.973640681Z",
+  "model": "glm-5.3"
+}

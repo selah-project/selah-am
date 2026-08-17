@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "ወንድማችንን ⟨את⟩ ከእኛ ጋር ⟨את⟩ ብትልክ፣ እኛ ምስር እንወርዳለን፣ ምግብም እንሸረችርሃለን።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ከሌለ ብትልክ፣"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ብትልክ፣"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ብትልክ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንድማችንን"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ወንድማችንን"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ከእኛ ጋር"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "ምስር እንወርዳለን"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "እንሸረችርሃለንም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ምግብ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:59:47.878137403Z",
+  "model": "glm-5.3"
+}

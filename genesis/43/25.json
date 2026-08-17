@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "እነርሱም ⟨את⟩ ስጦታውን እስከ ሞሼ በእኩለ ቀን መምጣት ድረስ አዘጋጁ፤ እነርሱ እዚያ ዳቦ እንመገባለን ብለው ሰምተው ነበርና።",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "አዘጋጁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስጦታውን"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ስጦታውን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "መምጣት"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "በእኩለ ቀን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነበርና"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ሰምተው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንመገባለን ብለው"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "እንመገባለን"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:59:26.595459833Z",
+  "model": "glm-5.3"
+}

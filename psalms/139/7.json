@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 139,
+  "translation": "ወዴት እሄዳለሁ ከመንፈስህ? እና ወዴት ከፊትህ እሸሻለሁ?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "ወዴት"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "እሄዳለሁ"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "ከመንፈስህ"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "እና ወዴት"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ከፊትህ"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "እሸሻለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:07.997645828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የባዓል ቤቱን ⟨את⟩ ሐውሎቹን አወጡ እና አቃጠሉት።",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "አወጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሐውሎቹን"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "ሐውሎች"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "የባዓል"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "አቃጠሉት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:43:37.186934932Z",
+  "model": "glm-5.3"
+}

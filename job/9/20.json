@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ብጻንም አፌ ይከሳኛል፤ ፍጹም እንደ ሆንሁም ዕድፍ አድርጎ ያሳያኛል።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ቢሆንም"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "ብጻን"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፌ"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "ይከሳኛል"
+    },
+    {
+      "surface": "תם",
+      "gloss": "ፍጹም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "ዕድፍ አድርጎ ያሳያኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:43:39.343065663Z",
+  "model": "glm-5.3"
+}

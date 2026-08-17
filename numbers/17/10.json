@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "«እናንተ ከዚህ ማኅበር መካከል ተነሱ፤ እነርሱን ⟨את⟩ ወዲያውኑ አጠፋቸዋለሁ።» እነርሱም በፊታቸው ላይ ወደቁ።",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "ተነሱ"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ከመካከል"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ይህችው ማኅበር"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህችው"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "አጠፋቸዋለሁ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "ወዲያውኑ"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ወደቁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "በፊታቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T04:18:19.437358874Z",
+  "model": "glm-5.3"
+}

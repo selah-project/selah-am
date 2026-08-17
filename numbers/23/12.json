@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "መልሶም እንዲህ አለ፣ ያህዌህ ⟨את⟩ የሚያኖረውን ቃል በአፌ ውስጥ ⟨אתו⟩ አለመጠበቅ እችላለሁን በማይናገር።",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መልሶም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "አይደለምን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሚያኖረውን ቃል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚያኖረውን"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ያኖራል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "በአፌ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "እንዲናገር"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "እጠብቃለሁ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ለመናገር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:22:19.775024717Z",
+  "model": "glm-5.3"
+}

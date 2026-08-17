@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ያዕቆብም ለአባቱና ለእናቱ እንደ ሰማ ወደ ፓዳን አራም ሄደ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ለ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "እናቱ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "ፓዳን"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "አራም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:47:45.537015447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እና ⟨את⟩ መገናኛውን እንደ ፍርዱ ታቆማለህ፣ እንደዚያ የተራየኸው በተራራው ላይ።",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "እና ታቆማለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መገናኛውን"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "መገናኛውን"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "እንደ ፍርዱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደዚያ"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "የተራየኸው"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "በተራራው ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:26:56.660802546Z",
+  "model": "glm-5.3"
+}

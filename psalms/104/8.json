@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 104,
+  "translation": "ተራሮች ይወጣሉ፣ ሸለቆዎች ይወርዳሉ፤ አንተ ለእነሱ ይህን ስፍራ ሠርተሃል።",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "ይወጣሉ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ተራሮች"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ይወርዳሉ"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "ሸለቆዎች"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ስፍራ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "ሠርተሃል"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:57.541994722Z",
+  "model": "glm-5.3"
+}

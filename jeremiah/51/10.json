@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 51:10",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "ያህዌህ ⟨את⟩ ጽድቃችንን አወጣ፤ ኑ፣ በጽዮን ⟨את⟩ የያህዌህ ኤሎሂምን ሥራ እንነግር።",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "አወጣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጽድቃችንን"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "ጽድቃችንን"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ኑ"
+    },
+    {
+      "surface": "ונספרה",
+      "gloss": "እንነግር"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "በጽዮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሥራ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T17:36:06.847841716Z",
+  "model": "glm-5.3"
+}

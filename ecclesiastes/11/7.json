@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እና ብርሃኑ ጣፋጭ ነው፤ እና ለዓይኖች ⟨את⟩ ፀሐይን ማየት መልካም ነው።",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "እና ጣፋጭ"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ብርሃኑ"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "እና መልካም"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "ለዓይኖች"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ማየት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፀሐይን"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ፀሐይ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:18:17.221100907Z",
+  "model": "glm-5.3"
+}

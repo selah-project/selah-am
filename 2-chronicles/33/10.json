@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ያህዌህም ወደ ማነሼ እና ወደ ሕዝቡ ተናገረ፤ እነርሱ ግን አላዳመጡም።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ፤"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ማነሼ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ግን አል"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "ዳመጡም"
+    }
+  ],
+  "timestamp": "2026-08-16T18:54:58.735681520Z",
+  "model": "glm-5.3"
+}

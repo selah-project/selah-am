@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ነገር ግን እኔ ለኤል እጠይቃለሁ፤ ወደ ኤሎሂምም ቃሌን አቀርባለሁ።",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "እጠይቃለሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "አቀርባለሁ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ቃሌን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:42:55.921395599Z",
+  "model": "glm-5.3"
+}

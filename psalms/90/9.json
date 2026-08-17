@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 90,
+  "translation": "የእኛ ቀናት ሁሉ በአንተ ቍጣ ወደቁ፤ የእኛ ዓመታት እንደ ⟨ማልቀስ⟩ አለቁ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ (ቍጣው ምክንያት)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "የእኛ ቀናት"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "ወደቁ"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "በአንተ ቍጣ"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "አለቅን"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "የእኛ ዓመታት"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "⟨ማልቀስ⟩"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:42.057972641Z",
+  "model": "glm-5.3"
+}

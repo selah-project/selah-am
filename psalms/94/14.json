@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 94,
+  "translation": "በእርግጥ ያህዌህ ሕዝቡን አይጣላም፣ ርስቱንም አይተዋም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእርግጥ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "ይጣላም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "እና ርስቱን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "ይተዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:52.055542844Z",
+  "model": "glm-5.3"
+}

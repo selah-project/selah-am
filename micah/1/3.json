@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ፍጹም እነሆ ያህዌህ ከስፍራው ይወጣል፤ ይወርዳልም እና በምድር ከፍታዎች ላይ ይረግጣል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ፍጹም"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ይወጣል"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "ከስፍራው"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "እና ይወርዳል"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "እና ይረግጣል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "ከፍታዎች"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:11:55.600467929Z",
+  "model": "glm-5.3"
+}

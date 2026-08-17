@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 4:9",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የካህናትን ⟨את⟩ እርካት ሠራ፤ የታላቂቱን እርካት እና ለእርካቱ በሮችን፤ በሮቻቸውንም በናስ አንጸባቸው።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "እርካት"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "የካህናት"
+    },
+    {
+      "surface": "והעזרה",
+      "gloss": "እና እርካቱን"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ታላቂቱን"
+    },
+    {
+      "surface": "ודלתות",
+      "gloss": "በሮችን"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "ለእርካቱ"
+    },
+    {
+      "surface": "ודלתותיהם",
+      "gloss": "በሮቻቸውንም"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "አንጸባቸው"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "በናስ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:44:28.272412543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 58,
+  "translation": "በእውነትና በጸጥታ ጽድቅን ትናገራላችሁን? ትክክለኛ ፍርድ ትፈርዳላችሁን የሰው ልጆች?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "በእውነትና"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "በጸጥታ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቅን"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "ትናገራላችሁን"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ትክክለኛ ፍርድ"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "ትፈርዳላችሁን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "የሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:48.483533375Z",
+  "model": "glm-5.3"
+}

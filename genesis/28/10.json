@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ያዕቆብ ከበከር-ሸባ ወጣ፤ ወደ ሐራንም ሄደ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "ከበከር-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸባ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "ወደ ሐራን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:47:14.087652668Z",
+  "model": "glm-5.3"
+}

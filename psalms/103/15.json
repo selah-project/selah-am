@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 103,
+  "translation": "ሰው እንደ ሣር ቀኖቹ ናቸው፤ እንደ የመስክ አበባ እንዲሁ ያበብራል።",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "እንደ ሣር"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ቀኖቹ"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "እንደ አበባ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "የመስክ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲሁ"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "ያበብራል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:35.288068545Z",
+  "model": "glm-5.3"
+}

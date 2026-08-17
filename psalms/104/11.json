@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 104,
+  "translation": "የመስኩ አራት በሙሉ ያጠጣሉ፤ የተራሮች አህዮች ጥምታቸውን ያሸብልላሉ።",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "ያጠጣሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "አራት"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "የመስኩ"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ያሸብልላሉ"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "አህዮች"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "ጥምታቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:10.224143306Z",
+  "model": "glm-5.3"
+}

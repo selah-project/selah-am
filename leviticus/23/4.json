@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "እነዚህ የያህዌህ የተወሰኑ ወቅቶች፣ የተቀደሱ ስብሰባዎች ናቸው፤ በየወቅታቸው ⟨את⟩ ትጠራቸዋል።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "የተወሰኑ ወቅቶች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "ስብሰባዎች"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "የተቀደሱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ያ"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "ትጠራቸዋል"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ወቅቶችን"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "በየወቅታቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:58:59.777189626Z",
+  "model": "glm-5.3"
+}

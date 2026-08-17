@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "እና ለእንስሳትህ እና በምድርህ ውስጥ ላለው ለዱር እንስሳ ሁሉም ውጤቷ ለመብላት ትኾናለች።",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "እና ለእንስሳትህ"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "እና ለዱር እንስሳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኘው"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "በምድርህ ውስጥ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ትኾናለች"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ውጤቷ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ለመብላት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:00:48.191448086Z",
+  "model": "glm-5.3"
+}

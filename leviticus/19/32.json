@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "leviticus 19:32",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "የነጭ ጸጉር በፊት ትነሳለህ፣ የእድሜ ያረጁ ፊትም ታከብራለህ፤ ኤሎሂምህንም ትፈራለህ፤ እኔ ያህዌህ ነኝ።",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "ነጭ ጸጉር"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ትነሳለህ"
+    },
+    {
+      "surface": "והדרת",
+      "gloss": "ታከብራለህ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "እድሜ ያረጁ"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ትፈራለህ"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "ኤሎሂምህን"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:56:31.651786996Z",
+  "model": "glm-5.3"
+}

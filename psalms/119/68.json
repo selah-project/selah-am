@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "በጎ ⟨አንተ ነህ⟩፣ እና በጎ ታደርጋለህ፤ ጽኑኆችህን አስተምረኝ።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "በጎ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ ነህ"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "በጎ ታደርጋለህም"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "አስተምረኝ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ጽኑኆችህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:10.499261343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እና የእርሱ ሠራዊት፣ እና የተቆጠሩት ሦስት እና ሃምሳ ሺህ እና አራት መቶ ⟨ናቸው⟩።",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "እና የእርሱ ሠራዊት"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "እና የተቆጠሩት"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "እና ሃምሳ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "እና አራት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:05:37.475761914Z",
+  "model": "glm-5.3"
+}

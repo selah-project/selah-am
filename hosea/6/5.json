@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "hosea 6:5",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ስለዚህ በነቢያት እኮራቸዋለሁ፤ በአፌ ቃላት ገድያቸዋለሁ፤ ሥርዓተ ፍርድህም እንደ ብርሃን ይወጣል።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "חצבתי",
+      "gloss": "እኮራቸዋለሁ"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "በነቢያት"
+    },
+    {
+      "surface": "הרגתים",
+      "gloss": "ገድያቸዋለሁ"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "በቃላት"
+    },
+    {
+      "surface": "פי",
+      "gloss": "በአፌ"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "ሥርዓተ ፍርድህም"
+    },
+    {
+      "surface": "אור",
+      "gloss": "እንደ ብርሃን"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ይወጣል"
+    }
+  ],
+  "timestamp": "2026-08-16T08:57:24.827935449Z",
+  "model": "glm-5.3"
+}

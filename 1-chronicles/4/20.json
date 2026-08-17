@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "1-chronicles 4:20",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የሺሞን ወንዶችም አምኖንና ሪና ናቸው፤ በን-ገናንና ቲሎንም፤ የይሼ ወንዶችም ዞሔትና በን-ዞሔት ናቸው።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ወንዶችም"
+    },
+    {
+      "surface": "שימון",
+      "gloss": "ሺሞን"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "አምኖን"
+    },
+    {
+      "surface": "ורנה",
+      "gloss": "ሪና"
+    },
+    {
+      "surface": "בן",
+      "gloss": "በን-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ገናን"
+    },
+    {
+      "surface": "ותולון",
+      "gloss": "ቲሎንም"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ወንዶችም"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ይሼ"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "ዞሔት"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "በን-"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "ዞሔት"
+    }
+  ],
+  "timestamp": "2026-08-16T12:38:09.303786876Z",
+  "model": "glm-5.3"
+}

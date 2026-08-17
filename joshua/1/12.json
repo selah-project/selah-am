@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "joshua 1:12",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ለራኡቤናውያንም ለጋዳውያንም ለምናሴ ነገድም ግማሽ የሱሴያ እንዲህ ሲል ተናገረ፦",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "ለራኡቤናውያንም"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "ለጋዳውያንም"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "ለግማሽም"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ነገድ"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "ምናሴ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሱሴያ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:58:37.449578196Z",
+  "model": "glm-5.3"
+}

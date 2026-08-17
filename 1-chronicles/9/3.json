@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "በኢየሩሳሌምም ከይሁዳ ልጆች፣ ከብንያም ልጆች፣ ከኤፍሬም ልጆች እና ከምናሴ ልጆች ተቀመጡ።",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "እና በኢየሩሳሌምም"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ተቀመጡ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "እና ከ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ብንያም"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "እና ከ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍሬም"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "እና ከምናሴ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:47:37.291118826Z",
+  "model": "glm-5.3"
+}

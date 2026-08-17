@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "את הים በቀኝ በኩል በምሥራቅ አካባቢ በደቡብ ፊት ለፊት አስቀመጠ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "በማድረግ ⟨את⟩",
+      "marks": "הים በማድረግ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "በማድረግ ውሃ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "አስቀመጠ"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "በቀኝ በኩል በማድረግ ጎን"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "በቀኝ በኩል በማድረግ በኩል"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "በምሥራቅ አካባቢ"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "በፊት ለፊት"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "በደቡብ በኩል በማድረግ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:44:28.272759554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ማን ነው ይህ የክብር ንጉሥ? ያህዌህ — ኃያልና ጀግና፣ ያህዌህ በውጊያ ጀግና።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "የክብር ንጉሥ"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "የክብር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "ኃያል"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "እና ጀግና"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ጀግና"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "በውጊያ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:49.860863646Z",
+  "model": "glm-5.3"
+}

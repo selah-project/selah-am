@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "job 5:3",
+  "book": "job",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እኔ አንድ ሞኝ ሥር የሰደደውን አይቻለሁ፤ ቤቱንም ወዲያውኑ ረገምኩ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "አይቻለሁ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ሞኝ"
+    },
+    {
+      "surface": "משריש",
+      "gloss": "ሥር የሰደደውን"
+    },
+    {
+      "surface": "ואקוב",
+      "gloss": "ረገምኩም"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "ቤቱን"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ወዲያውኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:43:51.557048472Z",
+  "model": "glm-5.3"
+}

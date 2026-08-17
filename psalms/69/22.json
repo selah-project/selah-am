@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "በምግቤ ላይ መርዝ ሰጡኝ፤ በጠምቴም አሲድ አጠጡኝ።",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ሰጡኝ"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "በምግቤ ላይ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "መርዝ"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "በጠምቴም"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "አጠጡኝ"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "አሲድ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:41.821053945Z",
+  "model": "glm-5.3"
+}

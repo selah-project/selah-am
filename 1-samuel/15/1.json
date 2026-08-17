@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-samuel 15:1",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ሳሙኤልም ሳኦልን እንዲህ አለው፦ ያህዌህ ⟨את⟩ መላኩኝ ልቀብህ በሕይወት ላይ ለሕዝቡ ላይ ለእስራኤል ንጉሥ እንድትሆን፤ አሁንም የያህዌህን ቃላት ድምፅ እስማ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤልም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦልን"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "መላኩኝ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "למשחך",
+      "gloss": "ልቀብህ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ለሕዝቡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ለእስራኤል"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "አሁንም"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "እስማ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:42:09.352344759Z",
+  "model": "glm-5.3"
+}

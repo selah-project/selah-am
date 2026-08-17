@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "የሞሼ ሚስት አባት እርሱን፦ አንተ የምታደርገው ቃል ⟨ተሟላ⟩ አይደለም አለው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ሚስት አባት"
+    },
+    {
+      "surface": "משה",
+      "gloss": "የሞሼ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ተሟላ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምታደርገው"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ታደርጋል"
+    }
+  ],
+  "timestamp": "2026-08-16T14:44:40.098595016Z",
+  "model": "glm-5.3"
+}

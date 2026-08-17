@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ብንያሚንም በላዕላይ ቤላውን ⟨את⟩ የመጀመሪያውን ልጁን ወለደ፤ አሽቤል ሁለተኛው፣ አህራሕ ሦስተኛው።",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "ብንያሚንም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤላ"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ቤላ"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "የመጀመሪያው ልጁ"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "አሽቤል"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ሁለተኛው"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "አህራሕ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ሦስተኛው"
+    }
+  ],
+  "timestamp": "2026-08-16T12:43:22.936374579Z",
+  "model": "glm-5.3"
+}

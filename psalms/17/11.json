@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "አሁን በእርሳታችን ያንቀሳቅሱናል፤ ዐይኖቻቸውን በምድር ላይ ለማስወርድ አቁሞዋል።",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "እርሳታችንን"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ያንቀሳቅሱናል"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ዐይኖቻቸውን"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "አቁሞዋል"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "ለማግበር"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:10.635774134Z",
+  "model": "glm-5.3"
+}

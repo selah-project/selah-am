@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ሰው ተሸበረ፣ ወንድም ተዋረደ፤ የከፋቸውም ዓይኖች ይዋረዳሉ።",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "ተሸበረ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "ተዋረደ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ወንድ"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "ዓይኖች"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "የከፋቸው"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "ይዋረዳሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:59:20.724726350Z",
+  "model": "glm-5.3"
+}

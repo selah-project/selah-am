@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 72,
+  "translation": "የጥህ በለጠ በምድር በተራሮች ራስ ላይ ይሁን፤ ፍሬው እንደ ሊባኖስ ይንቀጠቀጣል፤ ከከተማም እንደ ምድር ሣር ያብባሉ።",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "በለጠ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ጥህ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "በራስ ላይ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ተራሮች"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "ይንቀጠቀጣል"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "እንደ ሊባኖስ"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ፍሬው"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "እና ያብባሉ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ከከተማ"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "እንደ ሣር"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:47.546990182Z",
+  "model": "glm-5.3"
+}

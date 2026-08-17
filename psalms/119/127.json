@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ስለዚህ ትእዛዞችህን ከወርቅ እና ከተጣራ ወርቅ በላይ አደርጋቸዋለሁ።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "አደርጋቸዋለሁ (ወደድሁ)"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ትእዛዞችህን"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "ከወርቅ"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "እና ከተጣራ ወርቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:35.285855858Z",
+  "model": "glm-5.3"
+}

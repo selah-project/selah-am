@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የእስራኤል ንጉሥም የኤሎሂም ሰውዬ ወደ ነገረው ስፍራ ላከ፤ አስጠነቀቀም፤ እርሱም በዚያ ተጠነቀቀ — አንድ ጊዜም ሳይሆን ሁለት ጊዜም ሳይሆን።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ስፍራ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የነገረው"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ውል"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰውዬ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "አስጠነቀቀም"
+    },
+    {
+      "surface": "ונשמר",
+      "gloss": "ተጠነቀቀ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ሳይሆን"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "አንድ ጊዜም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ሳይሆንም"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ሁለት ጊዜ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:43:46.770958229Z",
+  "model": "glm-5.3"
+}

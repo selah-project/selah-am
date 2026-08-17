@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "daniel 11:22",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "የጎርፉ ክንፎች ከፊቱ ይጥለቀለቃሉ፤ ይሰበራሉ፤ የቃል ኪዳን አለቃም እንዲሁ።",
+  "tokens": [
+    {
+      "surface": "וזרעות",
+      "gloss": "ክንፎች"
+    },
+    {
+      "surface": "השטף",
+      "gloss": "የጎርፉ"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "ይጥለቀለቃሉ"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "ከፊቱ"
+    },
+    {
+      "surface": "וישברו",
+      "gloss": "ይሰበራሉ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "የቃል ኪዳን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:47:41.450738448Z",
+  "model": "glm-5.3"
+}

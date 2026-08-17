@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 44:16",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "ግማሹን በእሳት አቃጠለ፤ በግማሹም ላይ ሥጋ በላ፤ የጠበሰውን ጠብሶ ጥልቅ ሆነ፤ ደግሞም ተሞቀ እንዲህም አለ «ሆ! ተሞቃለሁ፣ እሳቱን አይቻለሁ።»",
+  "tokens": [
+    {
+      "surface": "חציו",
+      "gloss": "ግማሹን"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "አቃጠለ"
+    },
+    {
+      "surface": "במו",
+      "gloss": "በ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "በግማሹ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "በላ"
+    },
+    {
+      "surface": "יצלה",
+      "gloss": "ጠብሶ"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "የጠበሰውን"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ጥልቅ ሆነ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ደግሞም"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ተሞቀ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ሆ!"
+    },
+    {
+      "surface": "חמותי",
+      "gloss": "ተሞቃለሁ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "አይቻለሁ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "እሳቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T19:54:53.484516298Z",
+  "model": "glm-5.3"
+}

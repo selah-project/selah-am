@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "ከአትራፊውና ከስድብ አድራሽው ድምፅ ስለ፣ ከጠላትና ከበቀላት አድራሽ ስለ ፊት።",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ከድምፅ ስለ"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "አትራፊው"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "እና ከስድብ አድራሽው"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ስለ ፊት"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ከጠላት"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "እና ከበቀላት አድራሽ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:58.476690622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ረዑም ሁለት ዓመትና ሠላሳ ዓመት ኖረ፤ ⟨את⟩ ሰሩግንም ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ኖረም"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "ረዑ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ሠላሳና"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰሩግ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "ሰሩግ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:35:02.916398602Z",
+  "model": "glm-5.3"
+}

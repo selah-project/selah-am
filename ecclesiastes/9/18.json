@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ጥበብ ከውጊያ መሣሪያዎች ይሻላል፤ አንድ በደለኛ ግን ብዙ መልካምን ያጠፋል።",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ይሻላል፤ (ጥሩ)"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "ከ…መሣሪያዎች"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ውጊያ"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "እና በደለኛ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "ያጠፋል።"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "መልካምን"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ብዙ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:14:28.274492976Z",
+  "model": "glm-5.3"
+}

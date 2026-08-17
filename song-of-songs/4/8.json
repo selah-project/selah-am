@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "song-of-songs 4:8",
+  "book": "song-of-songs",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ከእኔ ⟨את⟩ ከሌባኖን ና እመቤቴ፣ ከእኔ ⟨את⟩ ከሌባኖን ና፤ ከአማና ጫፍ፣ ከሰኒርና ከሔርሞን ጫፍ ተመልከቺ፣ ከአንበሶች መናዣዎች፣ ከነጠቦች ተራሮች።",
+  "tokens": [
+    {
+      "surface": "אתי",
+      "gloss": "ከእኔ ⟨את⟩"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "ከሌባኖን"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "እመቤቴ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ከእኔ ⟨את⟩"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "ከሌባኖን"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "ና"
+    },
+    {
+      "surface": "תשורי",
+      "gloss": "ተመልከቺ"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "ከጫፍ"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "አማና"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "ከጫፍ"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "ሰኒር"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "እና ሔርሞን"
+    },
+    {
+      "surface": "ממענות",
+      "gloss": "ከመናዣዎች"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "አንበሶች"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "ከተራሮች"
+    },
+    {
+      "surface": "נמרים",
+      "gloss": "ነጠቦች"
+    }
+  ],
+  "timestamp": "2026-08-16T11:04:07.622087713Z",
+  "model": "glm-5.3"
+}

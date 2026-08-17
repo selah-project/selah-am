@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ምክንያቱም የሠራዊት ያህዌህ እንዲህ ይላል፤ እንደገና አንድ ጊዜ ⟨ናት⟩፣ ጥቂት ብቻ፤ እኔ ሰማያትን ⟨את⟩፣ ምድርን ⟨את⟩፣ ባሕሩን ⟨את⟩ እና ደረቁን ⟨את⟩ አስናወጣለሁ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "የሠራዊት"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "እንደገና"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "አንድ ጊዜ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ጥቂት"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ናት⟩"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "አስናወጣለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰማያቱን"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ምድሪቱን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ባሕሩን"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ደረቁን"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "ደረቅ ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T18:09:26.325658736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "አሁንስ በእጅህ ስር ምን አለ? አምስት ዳቦ በእጄ ስጠኝ፣ ወይም የሚገኘውን።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "አሁንም"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "יש",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ስር"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "በእጅህ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦ"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ስጠኝ"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "በእጄ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "የሚገኘውን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:46:29.166576472Z",
+  "model": "glm-5.3"
+}

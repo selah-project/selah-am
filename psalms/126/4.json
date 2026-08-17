@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 126,
+  "translation": "ያህዌህ ሆይ እንደደቡቡ ሸለቆዎች ⟨את⟩ ምርቃታችንን መልሰህ እንለምናለን።",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "መልሰህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ ሆይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምርቃታችንን"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "ምርቃታችንን"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "እንደሸለቆዎች"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "በደቡቡ\/በነገብ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:54.460996671Z",
+  "model": "glm-5.3"
+}

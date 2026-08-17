@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 56,
+  "translation": "በምጮኸው ቀን ጠላቶቼ ወደኋላ ይመለሳሉ፤ ይህን አውቄያለሁ፤ እንደ ኤሎሂም ለእኔ ነው።",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "በዚያን ጊዜ"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ይመለሳሉ"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ጠላቶቼ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ወደኋላ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀኑ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ምጮኸው"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "አውቄያለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:35.184314312Z",
+  "model": "glm-5.3"
+}

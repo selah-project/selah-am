@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "ክንፍ ከኃይል ጋር ⟨አለህ⟩፤ እጅህ ኃያል ነው፣ ቀኝህ ከፍ ይበላል።",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ላንተ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ክንፍ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "ኃይል"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "ኃያል ነው"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህ"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ከፍ ይበላል"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ቀኝህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:38.003957116Z",
+  "model": "glm-5.3"
+}

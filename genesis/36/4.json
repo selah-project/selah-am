@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "ዓዳም ለዕሴው ⟨את⟩ ኤልፋዝን ወለደች፤ በስመትም ⟨את⟩ ርኡኤልን ወለደች።",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ዓዳም"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "ለዕሴው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤልፋዝን"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ኤልፋዝን"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "በስመትም"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ርኡኤልን"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ርኡኤልን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:53:26.748908187Z",
+  "model": "glm-5.3"
+}

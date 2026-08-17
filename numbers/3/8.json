@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "«የመሰብሰቢያውን ድንኳን በሙሉ ዕቃዎች ⟨את⟩ እና የእስራኤል ልጆችን መጠባበቂያ ⟨ואת⟩ ይጠብቃሉ፤ የመገኛውን አገልግሎት ⟨את⟩ ለማከናወን፤",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "ይጠብቃሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በሙሉ ዕቃዎች"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ዕቃዎች"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መሰብሰቢያ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "የእስራኤል ልጆችን መጠባበቂያ"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "መጠባበቂያ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ለማከናወን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አገልግሎት"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "አገልግሎት"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "መገኛው"
+    }
+  ],
+  "timestamp": "2026-08-16T04:05:32.400650085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "የከነፋኝነት ከተማ ተሰባርቃለች፤ ሁሉም ቤት ከመግቢያ ተዘግቷል።",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "ተሰባርቃለች"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "የከነፋኝነት"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ተዘግቷል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ከመግቢያ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:09:42.905849939Z",
+  "model": "glm-5.3"
+}

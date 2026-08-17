@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 22:10",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ሰማያትን አዘነበለ እና ወረደ፤ ጨለማ ጥቅም በእግሮቹ ስር ነበር።",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "አዘነበለ\/አጠበ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያትን"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "እና ወረደ"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ጨለማ ጥቅም"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ…ስር"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "እግሮቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:20:31.505847703Z",
+  "model": "glm-5.3"
+}

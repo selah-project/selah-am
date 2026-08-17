@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "የተባረክ ነህ ያህዌህ፤ ሥርዓቶችህን አስተምረኝ።",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "የተባረክ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "አስተምረኝ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ሥርዓቶችህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:01.847246125Z",
+  "model": "glm-5.3"
+}

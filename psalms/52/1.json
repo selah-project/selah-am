@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 52,
+  "translation": "ለአስተዳዳሪ፤ የምኅረት ጽሑፍ፤ ለዳዊት።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለአስተዳዳሪ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "የምኅረት ጽሑፍ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:53.982315963Z",
+  "model": "glm-5.3"
+}

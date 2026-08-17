@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ድምፅ እያለ፣ ጩኸህ፤ እርሱም አለ፣ ምን እጩኸአለሁ? ሥጋ ⟨ሁሉ⟩ ሣር ነው፣ ምሕረቱም ⟨ሁሉ⟩ እንደ የበረሃ አበባ ነው።",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "እያለ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ጩኸህ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "እጩኸአለሁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ሣር"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ምሕረቱም ሁሉ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ምሕረቱ"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "እንደ አበባ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "የበረሃ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:20:47.489285258Z",
+  "model": "glm-5.3"
+}

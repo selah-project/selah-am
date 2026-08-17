@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እና የተራዘመ ወይም የተጓደለ እንስሳ ላም ወይም በግ እንደ በጎ ፈቃድ መባ ⟨את⟩ን ታደርጋለህ፤ ነገር ግን ለቃል ኪዳን አይቀበልም።",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "እና ላም"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ወይም በግ"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "የተራዘመ"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "ወይም የተጓደለ"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "እንደ በጎ ፈቃድ መባ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን (እንስሳውን)"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "ነገር ግን ለቃል ኪዳን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አ"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ይቀበልም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:58:16.809870958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እነዚህ የኖኅ ልጆች ትውልዶች ናቸው — ሴም፣ ካምና ያፌት፤ ሙሉውን ⟨את⟩ መጥፋት ከኋላ ልጆች ተወለዱላቸው።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ትውልዶች"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖኅ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ሴም"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ካም"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "እና ያፌት"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "ተወለዱ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለነሱ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ከኋላ"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ሙሉውን ⟨את⟩ መጥፋት",
+      "marks": "መጥፋት"
+    }
+  ],
+  "timestamp": "2026-08-16T02:33:15.035387578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 32:12",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ለጡቶች ይደረጋል ማልቀስ፣ ለሚያምሩ መስኮች፣ ለፍሬ ለሚያፈሩ የወይን ዛፎች።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ለ…ላይ"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "ጡቶች"
+    },
+    {
+      "surface": "ספדים",
+      "gloss": "ይደረጋል ማልቀስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ለ…ላይ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "መስኮች"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "ሚያምሩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ለ…ላይ"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "የወይን ዛፎች"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ፍሬ ለሚያፈሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:55:37.174250393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ነፍሴን ጠብቃት፤ አድነኝ፤ አታፍረኝ፤ በአንተ ማረግሁና።",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "ጠብቃት"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "እና አድነኝ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አታ"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ፍረኝ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደፈለገው"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ማረግሁና"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:39.129388733Z",
+  "model": "glm-5.3"
+}

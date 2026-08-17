@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "የዕውሮችን ዓይኖች ለመክፈት፣ ከመታሰሪያ እስረኛን ለማውጣት፣ ከመታሰሪያ ቤት ከጨለማ ውስጥ ለሚቀመጡት ለማውጣት።",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "ለመክፈት"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ዓይኖችን"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "የዕውሮችን"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ለማውጣት"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "ከመታሰሪያ"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "እስረኛን"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ከቤት"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "መታሰሪያ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ለሚቀመጡት"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጨለማ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:20:13.696781787Z",
+  "model": "glm-5.3"
+}

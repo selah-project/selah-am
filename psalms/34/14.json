@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ልሳንህን ከክፉ ጠብቅ እና ከንፈሮችህን ከሐሰት መናገር።",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "ጠብቅ"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "ልሳንህን"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ከክፉ"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "እና ከንፈሮችህን"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ከመናገር"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ከሐሰት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:00.152318811Z",
+  "model": "glm-5.3"
+}

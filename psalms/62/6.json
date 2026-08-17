@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 62,
+  "translation": "ነፍሴ ለኤሎሂም ብቻ ዝም ብለህ ተጠብቅ፤ ምክንያቱም ተስፋዬ ከእርሱ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ለኤሎሂም"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "ዝም ብለህ ተጠብቅ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእርሱ"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "ተስፋዬ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:10.726072861Z",
+  "model": "glm-5.3"
+}

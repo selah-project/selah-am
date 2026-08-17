@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 50,
+  "ref": "ezra 2:50",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የአስና ልጆች፣ የምዑናውያን ልጆች፣ የነፊሲም ልጆች።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "אסנה",
+      "gloss": "አስና"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "ምዑናውያን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "נפיסים",
+      "gloss": "ነፊሲም"
+    }
+  ],
+  "timestamp": "2026-08-16T11:54:20.971171322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 20:36",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ለእርሱም አለው፦ የያህዌህን ድምፅ ስላልሰማህ እነሆ ከእኔ ⟨את⟩ ትሄዳለህ፣ አንበሳም ይመታሃል፤ ከእርሱም ሲሄድ አንበሳ አገኘውና መታው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለውም"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ስላለ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ሰማህ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "በድምፅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ትሄዳለህ"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ ከእኔ",
+      "marks": "ከእኔ"
+    },
+    {
+      "surface": "והכך",
+      "gloss": "ይመታሃል"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "አንበሳ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "מאצלו",
+      "gloss": "ከእርሱ"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "አገኘው"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "አንበሳ"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "መታው"
+    }
+  ],
+  "timestamp": "2026-08-16T19:48:46.610280611Z",
+  "model": "glm-5.3"
+}

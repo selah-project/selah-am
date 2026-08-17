@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "exodus 9:31",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ተልባውም እና ገብሱም ተመቱ፤ የነበረው ገብስ ጥላ አጭር ነበረው፣ ተልባውም አበባ አፍሮ ነበረውና።",
+  "tokens": [
+    {
+      "surface": "והפשתה",
+      "gloss": "ተልባውም"
+    },
+    {
+      "surface": "והשערה",
+      "gloss": "ገብሱም"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "ተመቱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነበረውና"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "ገብሱ"
+    },
+    {
+      "surface": "אביב",
+      "gloss": "ጥላ አጭር ነበረው"
+    },
+    {
+      "surface": "והפשתה",
+      "gloss": "ተልባውም"
+    },
+    {
+      "surface": "גבעל",
+      "gloss": "አበባ አፍሮ ነበረው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:10:47.812729348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "jonah 2:4",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "አንተ ወደ ጥልቁ በባሕር ልብ ውስጥ ጣልከኝ፤ ወንዙም ይከብበኛል፤ ማዕበሎችህ ሁሉ እና ሞገዶችህ በላዬ አለፉ።",
+  "tokens": [
+    {
+      "surface": "ותשליכני",
+      "gloss": "ጣልከኝ"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "ወደ ጥልቁ"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "በልብ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "ወንዙም"
+    },
+    {
+      "surface": "יסבבני",
+      "gloss": "ይከብበኛል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "ማዕበሎችህ"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "እና ሞገዶችህ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በላዬ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "አለፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:10:28.130333466Z",
+  "model": "glm-5.3"
+}

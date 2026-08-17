@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "ውኃም ጠባቂዎቻቸውን ሸፈነ፤ ከእነርሱ አንድ እንኳ አልቀረም።",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "ሸፈነ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውኃ"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "ጠባቂዎቻቸውን\/ጠላቶቻቸውን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ከእነርሱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አልቀረም እንኳ\/አል"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "ቀረ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:30.035722819Z",
+  "model": "glm-5.3"
+}

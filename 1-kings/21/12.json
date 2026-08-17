@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ምግብ እገዳ አወጁ፤ ናቦትንም ⟨את⟩ በሕዝቡ ራስ ላይ አስቀመጡ።",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "አወጁ"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ምግብ እገዳ"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "አስቀመጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ናቦትን"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "ናቦትን"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "በራስ ላይ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:32:36.026312107Z",
+  "model": "glm-5.3"
+}

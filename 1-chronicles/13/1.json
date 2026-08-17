@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ዳዊትም ከሺህ አለቆች እና ከመቶ አለቆች ጋር፣ ለእያንዳንዱ አለቅ አማኝቶ ወሰነ።",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "አማኝቶ ወሰነ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "አለቆች"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "እና መቶ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለእያንዳንዱ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "አለቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:56:43.076937717Z",
+  "model": "glm-5.3"
+}

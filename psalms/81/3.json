@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 81,
+  "translation": "ዝማሬ አንሡ፣ ከበሮንም ስጡ፤ መለከት በነበልባል ጋር ተውቅታማ ነው።",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "አንሡ"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ዝማሬ"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "ስጡ"
+    },
+    {
+      "surface": "תף",
+      "gloss": "ከበሮ"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "መለከት"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ተውቅታማ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋር"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ነበልባል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:34.756375114Z",
+  "model": "glm-5.3"
+}

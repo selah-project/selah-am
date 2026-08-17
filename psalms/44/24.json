@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "ንቃ፤ አዶናይ ሆይ፣ ለምን ትተኛለህ? ተነሣ፤ ለዘላለም አትጥለን።",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "ንቃ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "ትተኛለህ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "ተነሣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "ጥለን"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ለዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:19.374347757Z",
+  "model": "glm-5.3"
+}

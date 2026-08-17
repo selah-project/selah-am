@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የሱኻ ወንድም ከሉብም ⟨את⟩ ምህርን ወለደ፤ እርሱ ⟨የ⟩አስቶን አባት ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "ከሉብም"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ወንድም"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "የሱኻ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምህርን"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "ምህር"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባት"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "የአስቶን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:39:05.604272713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ዳዊትም እና መላው የያዕቆብ ቤት ⟨את⟩ የያህዌህ ታቦት በድምፅ በቀለም በእህል ቀርከሃ ድምፅ እያሰማ ያሳልፉ ነበር።",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና መላው"
+    },
+    {
+      "surface": "בית",
+      "gloss": "የ-ቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ያዕቆብ (እስራኤል)"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "እያሳለፉ ነበር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦት"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "በድምፅ በቀለም"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "በ-ድምፅ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "የእህል ቀርከሃ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:57:28.550310640Z",
+  "model": "glm-5.3"
+}

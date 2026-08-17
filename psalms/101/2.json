@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 101,
+  "translation": "በፍጹም መንገድ እአስተውላለሁ፤ መቼ ትመጣለህ እሴኝ? በትክክለኛ ልብ በቤቴ ውስጥ እንቀላቀላለሁ።",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "እአስተውላለሁ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ፍጹም"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "መቼ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ትመጣለህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "እሴኝ"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "እንቀላቀላለሁ"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "በትክክለኛነት"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "በውስጥ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ቤቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:12.666750628Z",
+  "model": "glm-5.3"
+}

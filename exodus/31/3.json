@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "እኔም እርሱን ⟨את⟩ የኤሎሂም መንፈስ አሟልቼዋለሁ በጥበብ፣ በንጽጽር፣ በዕውቀት፣ እና በየትኛውም ሥራ።",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "አሟልቼያለሁ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "በጥበብ"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "በንጽጽር"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "በዕውቀት"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "በየትኛውም"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ሥራ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:28:30.600859207Z",
+  "model": "glm-5.3"
+}

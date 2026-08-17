@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "እና ከመሰባተቻው ውጭ ቦታ ለአንተ ይኑርህ፤ እናንተ ወደ ዚያ ወደ ውጭ ታውጣለህ።",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "እና ቦታ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ይኑርህ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ከ...ውጭ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ለመሰባተቻው"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "እና ታውጣለህ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ወደ ዚያ"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ወደ ውጭ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:49:35.417141764Z",
+  "model": "glm-5.3"
+}

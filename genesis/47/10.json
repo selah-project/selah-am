@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 47,
+  "translation": "ያዕቆብም ⟨את⟩ ፈርዖን ባረከ፤ ከፈርዖንም ፊት ወጣ።",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ባረከ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፈርዖን"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ከፊት"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "የፈርዖንም"
+    }
+  ],
+  "timestamp": "2026-08-16T14:30:12.975326078Z",
+  "model": "glm-5.3"
+}

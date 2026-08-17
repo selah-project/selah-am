@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "በጠቦታቸውና በላሞቻቸው ያህዌህን ⟨את⟩ ለመፈለግ ይሄዳሉ፤ ነገር ግን አያገኙትም፤ ከእነርሱ ተገልሏል።",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "በጠቦታቸው"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "እና በላሞቻቸው"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ይሄዳሉ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ለመፈለግ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ነገር ግን አይ"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "ያገኛሉ"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ተገልሏል"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ከእነርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:03:01.976414558Z",
+  "model": "glm-5.3"
+}

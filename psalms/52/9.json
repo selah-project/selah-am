@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 52:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 52,
+  "translation": "እነሆ ⟨የዚህ⟩ አዛው ኤሎሂምን ማድረግ አልፈለገም እንደ መጠለያው፤ በብዛት ሀብቱም ተቀመጠ፤ በክፋቱ ላይ ደፈ።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "የዚህ አዛው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አልፈለገም"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ማድረግ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂምን"
+    },
+    {
+      "surface": "מעוזו",
+      "gloss": "እንደ መጠለያው"
+    },
+    {
+      "surface": "ויבטח",
+      "gloss": "ተቀመጠ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "በብዛት"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "ሀብቱም"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "ደፈ።"
+    },
+    {
+      "surface": "בהותו",
+      "gloss": "በክፋቱ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:45:38.230040925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "የእስራኤል ልጆት የማያንን ⟨את⟩ በቀል አድርግ፤ ከዚያ በኋላ ወደ ሕዝብህ ትሰበሰባለህ።",
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "በቀል አድርግ"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "በቀሉን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ማያን"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "ማያን"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ከዚያ በኋላ"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "ትሰበሰባለህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "ሕዝብህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:28:35.187289469Z",
+  "model": "glm-5.3"
+}

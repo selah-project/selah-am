@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 9:9",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ለአዶናይ ኤሎሂም እኛ ምሕረቶች እና ምሕረቶች\/ይቅርታዎች ይገባሉ፣ ስለ ሆነም እኛ በእርሱ ላይ አመጸንን።",
+  "tokens": [
+    {
+      "surface": "לאדני",
+      "gloss": "ለአዶናይ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂም እኛ"
+    },
+    {
+      "surface": "הרחמים",
+      "gloss": "ምሕረቶቹ"
+    },
+    {
+      "surface": "והסלחות",
+      "gloss": "እና ይቅርታዎቹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ ሆነም"
+    },
+    {
+      "surface": "מרדנו",
+      "gloss": "አመጸንን"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:26:07.103266778Z",
+  "model": "glm-5.3"
+}

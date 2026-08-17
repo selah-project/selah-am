@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 47,
+  "translation": "ዮሴፍም ያዕቆብን ⟨את⟩ አባቱን አስገባ ከፈርዖን ፊት አቆመው፤ ያዕቆብም ፈርዖንን ⟨את⟩ ባረከው።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "አስገባም"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያዕቆብን"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብን"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱን"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "አቆመው"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ከፊት"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ባረከም"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፈርዖንን"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖንን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:03:25.562487254Z",
+  "model": "glm-5.3"
+}

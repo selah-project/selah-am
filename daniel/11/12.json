@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "daniel 11:12",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሠራዊቱም ይተውታል፣ ልቡ ይመሰጠዋል፤ አስር ሺዖችን ያስወድቃል፣ ነገር ግን አይጠነክርም።",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "ይተውታል"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "ሠራዊቱም"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "ይመሰጠዋል"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "והפיל",
+      "gloss": "ያስወድቃል"
+    },
+    {
+      "surface": "רבאות",
+      "gloss": "አስር ሺዖችን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ነገር ግን…አይ"
+    },
+    {
+      "surface": "יעוז",
+      "gloss": "አይጠነክርም"
+    }
+  ],
+  "timestamp": "2026-08-16T11:49:21.204697145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "በምድረ በዓር ተቅበዘበዙ፤ በበረሃ በሚያልፍበት መንገድ የሚኖርበት ከተማ አላገኙም።",
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "ተቅበዘበዙ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በምድረ በዓር"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "በበረሃ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "በሚያልፍበት መንገድ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "የሚኖርበት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "ገኙም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:03.397962545Z",
+  "model": "glm-5.3"
+}

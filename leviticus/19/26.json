@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ደም ላይ ⟨ሆነ⟩ አትብሉ፣ አትናፍቁም እና አታምነዙም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ብሉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "ናፍቁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "አምነዙ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:56:25.937975238Z",
+  "model": "glm-5.3"
+}

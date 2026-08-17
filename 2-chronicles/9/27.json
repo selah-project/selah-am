@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "2-chronicles 9:27",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ንጉሡ ⟨את⟩ ብርን በኢየሩሳሌም እንደ ድንጋዮች አደረገ፤ እና ⟨את⟩ አረዶዎችን በትንሹ ምድር ባሉት እንደ የሐሴት ዛፎች በብዛት ሰጠ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "አደረገ\/ሰጠ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብርን"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "በኢየሩሳሌም"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "እንደ ድንጋዮች"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "አረዶዎችን"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "አረዶዎች"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "እንደ የሐሴት ዛፎች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "በትንሹ ምድር"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "በብዛት"
+    }
+  ],
+  "timestamp": "2026-08-16T13:46:43.389836754Z",
+  "model": "glm-5.3"
+}

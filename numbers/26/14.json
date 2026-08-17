@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እነዚህ የስምዖናውያን ስድስቶች ናቸው — ሁለት እና ሃያ ሺህ እና ሁለት መቶ።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ስድስቶች"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "የስምዖናውያን"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "እና ሃያ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "እና ሁለት መቶ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:23:55.199726152Z",
+  "model": "glm-5.3"
+}

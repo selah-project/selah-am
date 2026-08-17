@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ነፍሴ ትኖር፤ እናንተን ትወድሳለች፤ በአንተ ስለ ምንደገፍህ፣ ፍርድህም ያግዘኛል።",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "ትኖር"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "ትወድሳለች"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "ፍርድህም"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "ያግዘኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:38.765551032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "numbers 21:10",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "የእስራኤል ልጆችም ጉዞ ጀመሩ፤ በኡብም አረፉ።",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ጉዞ ጀመሩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆችም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "አረፉ"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "በኡብ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:19:17.096666429Z",
+  "model": "glm-5.3"
+}

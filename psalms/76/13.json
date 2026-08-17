@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 76:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 76,
+  "translation": "የአለቆችን መንፈስ ያጠራል፤ ለምድር ነገሥታት እንደ ሚፈራ ነው።",
+  "tokens": [
+    {
+      "surface": "יבצר",
+      "gloss": "ያጠራል፤"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "የአለቆችን"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "እንደ ሚፈራ ነው።"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "ለነገሥታት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:42.856168741Z",
+  "model": "glm-5.3"
+}

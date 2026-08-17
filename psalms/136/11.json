@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 136,
+  "translation": "እስራኤልንም ከእነርሱ መካከል አወጣ፤ ምክንያቱም ለዘላለም ምሕረቱ ትኖራለች።",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "አወጣም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "ከእነርሱ መካከል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ምሕረቱ ትኖራለች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:48.250288514Z",
+  "model": "glm-5.3"
+}

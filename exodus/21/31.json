@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ወንድ ልጅን ወይም ሴት ልጅን ከተኮረረ፣ በዚህ ሕግ መሠረት በእርሱ ላይ ይደረጋል።",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወንድ ልጅን"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "ከተኮረረ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ሴት ልጅን"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "ከተኮረረ"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "በሕግ መሠረት"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "በዚህ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ይደረጋል"
+    },
+    {
+      "surface": "לו",
+      "gloss": "በእርሱ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:23:14.581913310Z",
+  "model": "glm-5.3"
+}

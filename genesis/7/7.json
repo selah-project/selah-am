@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ኖህም፣ ወንዶቹም፣ ሚስቱም፣ የወንዶቹም ሚስቶች ⟨את⟩ ከእርሱ ጋራ ወደ መርከቡ ገቡ፤ ከመብዛቁ ውኃ ፊት ሆነው።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ገቡ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖህ"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ወንዶቹም"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ሚስቱም"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ሚስቶችም"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "የወንዶቹ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ከእርሱ ጋራ",
+      "marks": "ኖህና ቤተሰቡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "መርከቡ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከ... ፊት ሆነው"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ውኃ"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "የመብዛቁ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:31:14.448337956Z",
+  "model": "glm-5.3"
+}

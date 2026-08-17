@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 54,
+  "translation": "እነሆ ኤሎሂም ረዳኝ ⟨ነው⟩፤ አዶናይ ከነፍሴ አጥባቶች ⟨ጋር⟩ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ረዳኝ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "ከሚያጥቡ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:45:40.725480287Z",
+  "model": "glm-5.3"
+}

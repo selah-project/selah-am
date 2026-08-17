@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "እንዲህ ቢሉ፣ በሰባተኛው ዓመት ምን እንበላ? እነሆ አንዘራም፣ መከርናችንንም ⟨את⟩ አንሰበስብም።",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "እንዲህ ቢሉ"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ብትሉ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "እንበላ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "በዓመት"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "በሰባተኛው"
+    },
+    {
+      "surface": "הן",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "አንዘራ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "አንሰበስብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መከርናችንን"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "መከርናችንን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:01:13.045809793Z",
+  "model": "glm-5.3"
+}

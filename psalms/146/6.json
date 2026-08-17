@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 146,
+  "translation": "ሰማያትንና ምድርን፣ ⟨את⟩ ባሕሩንና ⟨את⟩ በእነርሱ ውስጥ ያለውን ሁሉ የሠራ፣ እውነትን ለዘላለም የሚጠብቅ ነው።",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "የሠራ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያትን"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "እና ምድርን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ባሕሩን"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሩን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የሚገኘውን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለው"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በእነርሱ"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "የሚጠብቅ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "እውነትን"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:57.082452653Z",
+  "model": "glm-5.3"
+}

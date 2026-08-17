@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 50,
+  "translation": "የተራሮችን ወፎች ሁሉ አውቀዋለሁ፤ የመስክ እንስሳም ከእኔ ጋር ነው።",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "አውቀዋለሁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ወፎች"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "የተራሮች"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "እና እንስሳ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "የመስክ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ከእኔ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:51.724851939Z",
+  "model": "glm-5.3"
+}

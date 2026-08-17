@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "ከአባትህ ኤል — እርሱ ያግዝሃል፣ እና ⟨את⟩ ሻዳይ — እርሱም ይባርክሃል፤ ከላይ የሰማያት በረከቶች፣ ከታች የተኝታዋ የተሀት በረከቶች፣ የጡቶችና የሆድ በረከቶች።",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "ከኤል"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "አባትህ"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "ያግዝሃል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሻዳይ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ሻዳይ"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "ይባርክሃል"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "በረከቶች የ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከላይ"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "በረከቶች የ"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "ተሀት"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "የተኝታዋ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ከታች"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "በረከቶች የ"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "ጡቶች"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "እና የሆድ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:06:16.315950293Z",
+  "model": "glm-5.3"
+}

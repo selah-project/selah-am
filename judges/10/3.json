@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ከእርሱ በኋላ ያኢር ንጉሥ የተባለው የጌልዓድ ሰው ተነሳ፣ እንዲሁም እስራኤልን ⟨את⟩ ሳስር ሃያ ሁለት ዓመት ፈረደ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሳ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ከእርሱ በኋላ"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ያኢር"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "የጌልዓድ ሰው"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "ፈረደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ሃያ"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "እና ሁለት"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:22:55.229330715Z",
+  "model": "glm-5.3"
+}

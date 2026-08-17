@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 94,
+  "translation": "አስተውሉ፣ በሕዝብ ውስጥ ያሉ አሳቦች፤ ሞኞችም ስንት ጊዜ ጥበብ ታሳያላችሁ?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "አስተውሉ"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "አሳቦች"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "በሕዝብ ውስጥ ያሉ"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "ሞኞችም"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ስንት ጊዜ"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "ጥበብ ታሳያላችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:47.764037884Z",
+  "model": "glm-5.3"
+}

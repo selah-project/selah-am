@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "እርሱም አለ፦ አሁንም እንደ ቃላችሁ እንደሆነ ይሁን፤ በማን ዘንድ የሚገኘው ⟨אתו⟩ ለእኔ ባሪያ ይሆናል፤ እናንተም ትነካላችሁ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ም"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "እንደ ቃላችሁ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደሆነ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኘው"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ይገኝ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "በማን ዘንድ የሚገኘው ባሪያ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ባሪያ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "እናንተም"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ትሆኑ"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "ትነካላችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:00:00.116444796Z",
+  "model": "glm-5.3"
+}

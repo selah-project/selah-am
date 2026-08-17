@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እያንዳንዱ ሰው እናቱንና አባቱን ይፍራ፤ የእኔን ⟨את⟩ ሰባቶቼንም ትጠብቁ፤ እኔ ነኝ ያህዌህ አምላካችሁ።",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "እናቱን"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "አባቱንና"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ይፋልችሁ\/ይፍራ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሰባቶቼን"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "ሰባቶቼን"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ትጠብቁ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "አምላካችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:55:27.899301916Z",
+  "model": "glm-5.3"
+}

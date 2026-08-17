@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ኤፍሬም — ክብራቸው እንደ ወፍ ያመልጣል፤ ወሊድ የለም፣ ሆድ የለም፣ ፀንስም የለም።",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍሬም"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "እንደ ወፍ"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "ያመልጣል"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ክብራቸው"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "ወሊድ የለም"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "ሆድ የለም"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "ፀንስም የለም"
+    }
+  ],
+  "timestamp": "2026-08-16T08:59:01.497025735Z",
+  "model": "glm-5.3"
+}

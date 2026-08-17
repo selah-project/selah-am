@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "አንተ ግን እና አገልጋዮችህ ከያህዌህ ኤሎሂም ፊት ገና እንደማትፈሩ አውቃለሁ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተ ግን"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "እና አገልጋዮችህ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "አውቃለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ገና"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "እንደማትፈሩ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:10:47.812556159Z",
+  "model": "glm-5.3"
+}

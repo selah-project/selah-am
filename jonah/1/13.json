@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "jonah 1:13",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ሰዎቹም ወደ ደረቁ ምድር እንዲመለሱ ሾሩ፣ ነገር ግን አልቻሉም፤ ምክንያቱም ባሕሩ በእነርሱ ላይ እየተናወጠ እየሄደ ነበር።",
+  "tokens": [
+    {
+      "surface": "ויחתרו",
+      "gloss": "ሾሩ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ሰዎቹ"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "እንዲመለሱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ደረቁ ምድር"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ነገር ግን አል…ም"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ቻሉ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሩ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "እየሄደ ነበር"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "እየተናወጠ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "በእነርሱ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:10:35.129559443Z",
+  "model": "glm-5.3"
+}

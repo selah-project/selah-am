@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ንጉሡም ተመልሰህ እዚህ ቁም አለው፤ እርሱም ተመልሶ ቆመ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "סב",
+      "gloss": "ተመልስ"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "ቁም"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እዚህ"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ተመልሶ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ቆመ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:07:59.331500446Z",
+  "model": "glm-5.3"
+}

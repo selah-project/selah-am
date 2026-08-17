@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "የሙሺ ልጆች ምህሊ፣ ዓደር እና ይረሞት — ሦስት ናቸው።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "ሙሺ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "ምህሊ"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "እና ዓደር"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "እና ይረሞት"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ሦስት"
+    }
+  ],
+  "timestamp": "2026-08-16T13:12:44.149935454Z",
+  "model": "glm-5.3"
+}

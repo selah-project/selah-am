@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ዳዊት ሳኦል ሕይወቱን ⟨את⟩ ለመፈለግ እንደ ወጣ አየ፤ ዳዊትም በዛፍ ምድረ በዳ በኮረማ በነበረ ጊዜ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ለመፈለግ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕይወቱን"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ሕይወቱን"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በ…ምድረ በዳ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ዛፍ"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "በኮረማ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:46:18.587114977Z",
+  "model": "glm-5.3"
+}

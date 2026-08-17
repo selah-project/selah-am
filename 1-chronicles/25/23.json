@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "1-chronicles 25:23",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ለአሥራ ስድስትው የሚሆነው ሐናንያህ ነው፤ ⟨እርሱ፣ ልጆቹ እና ወንድሞቹ ዐሥራ ሁለት ነበሩ።",
+  "tokens": [
+    {
+      "surface": "לששה",
+      "gloss": "ለስድስት"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥር (የአሥራ ስድስትው)"
+    },
+    {
+      "surface": "לחנניהו",
+      "gloss": "ለሐናንያህ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ልጆቹ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "እና ወንድሞቹ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት (ዐሥራ)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥር"
+    }
+  ],
+  "timestamp": "2026-08-16T13:13:36.448851469Z",
+  "model": "glm-5.3"
+}

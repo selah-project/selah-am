@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 63,
+  "translation": "በአልጋዬ ላይ ካሰብሁህ፣ በሌሊት ዘመቆች በአንተ አሰብበታለሁ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ካሰብሁህ፣"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "አስቼሃለሁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "በአልጋዬ"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "በሌሊት ዘመቆች"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "አሰብበታለሁ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:13.103798022Z",
+  "model": "glm-5.3"
+}

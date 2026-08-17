@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ያህዌህ ኤሎሂም ሆይ፣ ይህን አድርጌ ከሆነ፣ በእጆቼ ውስጥ በደል ከሆነ እኔ አድርጌዋለሁ —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም ሆይ፣ የኔ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ይህን አድርጌ እኔ አድርጌዋለሁ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "በደል ከሆነ አለ እኔ አድርጌዋለሁ"
+    },
+    {
+      "surface": "עול",
+      "gloss": "በደል"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "በእጆቼ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:29:15.440152340Z",
+  "model": "glm-5.3"
+}

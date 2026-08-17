@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ተነኩ እና እንድጠብቅ ትዕግስት አላደረግሁም በራሴ ሆኜ አላዘገያሁም ትእዛዞችህን።",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "ተነኩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "አዘገያሁም"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "እንድጠብቅ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ትእዛዞችህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:18.403007716Z",
+  "model": "glm-5.3"
+}

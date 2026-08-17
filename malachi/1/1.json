@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የያህዌህ ቃል ሸክም ለእስራኤል በምላኪ እጅ።",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ሸክም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጅ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "በምላኪ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:26:28.477210631Z",
+  "model": "glm-5.3"
+}

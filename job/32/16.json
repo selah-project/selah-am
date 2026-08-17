@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "job 32:16",
+  "book": "job",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "አጠበቅሁም ስንመሰለ ማውራት አልቻሉም፤ ስንመሰለ ቆሙ፤ ከልትም አላሉ ደግሞ።",
+  "tokens": [
+    {
+      "surface": "והוחלתי",
+      "gloss": "አጠበቅሁም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስንመሰለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ማውራት ቻሉም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስንመሰለ"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ቆሙ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አላሉ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ከልት"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደግሞ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:55:54.758248502Z",
+  "model": "glm-5.3"
+}

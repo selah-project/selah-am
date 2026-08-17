@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እንደ ያህዌህ እንዳዘዘው ሞሼን ⟨את⟩፤ በሲና ምድረ በዳ ቆጠራቸው።",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "እንዳዘዘው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሼን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "ቆጠራቸው"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በምድረ በዳ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ሲና"
+    }
+  ],
+  "timestamp": "2026-08-16T04:04:03.838783037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "እንዲሁም በብረት መሣሪያ መቶ ቢሞት፣ እርሱ መገዳዳጭ ነው፤ ⟨ה⟩መገዳዳጁ ፈጽሞ ይገደላል።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እንዲሁም ቢ"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "በመሣሪያ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ብረት"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ቢሞት"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "መገዳዳጭ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ፈጽሞ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይገደላል"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "⟨የ⟩መገዳዳጁ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:31:01.583519107Z",
+  "model": "glm-5.3"
+}

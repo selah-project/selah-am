@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ሕዝቡም ⟨את⟩ ይህን መጥፎ ቃል ሰማ፤ አዘኑም፤ ሰውም ጌጣጌጡን በላዩ ላይ አልጣለም።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማም"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህን መጥፎ ቃል"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "መጥፎ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "አዘኑም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አልም"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "አልጣለም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰውም"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "ጌጣጌጡን"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በላዩ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:33:47.363844538Z",
+  "model": "glm-5.3"
+}

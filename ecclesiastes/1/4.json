@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ትውልድ ይሄዳል፣ ትውልድም ይመጣል፤ ⟨ነገር ግን⟩ ምድር ለዘላለም ትቆማለች።",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ትውልድ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ይሄዳል"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ትውልድም"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ይመጣል"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "⟨ነገር ግን⟩ ምድር"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ትቆማለች"
+    }
+  ],
+  "timestamp": "2026-08-16T11:14:14.243975321Z",
+  "model": "glm-5.3"
+}

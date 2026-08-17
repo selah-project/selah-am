@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "የያዕቆብ ልጆች ማኅበር ሁሉ በምድረ በዳ ላይ ሞሼንና አሃሮንን አጉረመረመ።",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "አጉረመረሙ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ማኅበር"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼን"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና…ን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በምድረ በዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:16:17.469292317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የተንቀባባቀው እና አገልጋዩ ያለው ከራሱን የሚያከብር እና የሆድ ላባ ከሆነው ይሻላል።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ይሻላል"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "የተንቀባባቀው"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "እና አገልጋዩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ያለው"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "ራሱን የሚያከብር ከ"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "እና የሆድ ላባ ከሆነው"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "የሆድ ላባ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:25:47.404380925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "የሰማነውንና የወቀስናቸውን አባቶቻችንም ነግረውናል።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "ሰማነውን"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "ወቀስናቸውን"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "አባቶቻችንም"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ነግረውናል"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ልን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:11.266709462Z",
+  "model": "glm-5.3"
+}

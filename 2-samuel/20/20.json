@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ዮአብም መልሶ እንዲህ አለ፤ ከእኔ ርቆ ይሁን፣ ከእኔ ርቆ ይሁን፤ ልዋጣም፣ ልያጠፋም አይደለም።",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መልሶ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለ"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "ከእኔ ርቆ ይሁን"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "ከእኔ ርቆ ይሁን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "ልዋጣ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ልያጠፋም... አይደለም"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ልያጠፋ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:07:20.894971993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 92,
+  "translation": "በያህዌህ ቤት የተተከሉ በኤሎሂም እኛ አደባባዮች ውስጥ ያበብራሉ።",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "የተተከሉ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "በአደባባዮች"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "በኤሎሂም እኛ"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "ያበብራሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:43.915737315Z",
+  "model": "glm-5.3"
+}

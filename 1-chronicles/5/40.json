@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ዐዛርያ ደግሞ ⟨את⟩ ሠራያን ወለደ፤ ሠራያ ደግሞ ⟨את⟩ ይሁጻዳቅን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "ዐዛርያ ደግሞ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሠራያን"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "ሠራያን"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "ሠራያ ደግሞ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይሁጻዳቅን"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "ይሁጻዳቅን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:35:55.796244927Z",
+  "model": "glm-5.3"
+}

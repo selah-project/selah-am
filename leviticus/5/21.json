@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 5:21",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ነፍስ ቢበድልና በያህዌህ ላይ በደል ብታደርግ፣ በአጋሩ ላይ ብትዋሽ — በጠብቆት፣ ወይም በእጅ አሳልፎ መስጠት፣ ወይም በዘረፋ፣ ወይም ⟨את⟩ አጋሩን ብታሳድድ፣",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ቢ"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "ቢበድል"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ብታደርግ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "በደል"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "በያህዌህ"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "ብትዋሽ"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "በአጋሩ"
+    },
+    {
+      "surface": "בפקדון",
+      "gloss": "በጠብቆት"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "בתשומת",
+      "gloss": "በእጅ አሳልፎ መስጠት"
+    },
+    {
+      "surface": "יד",
+      "gloss": "እጅ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "בגזל",
+      "gloss": "በዘረፋ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ብታሳድድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አጋሩን"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "አጋሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:43:29.900922595Z",
+  "model": "glm-5.3"
+}

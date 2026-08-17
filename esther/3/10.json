@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ንጉሡም ⟨את⟩ ቀረጹን ከእጁ አንሥቶ ለሐማን ለሄመዳታ ልጅ ለአጋጊው ለአይሁዳውያን ጠላት ሰጠው።",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "አንሥቶም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቀረጹን"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "ቀረጹን"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከ… ላይ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ከእጁ"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ሰጠውም"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "ለሐማን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "ለሄመዳታ"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "ለአጋጊው"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "ጠላት"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "የአይሁዳውያን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:15:47.146011394Z",
+  "model": "glm-5.3"
+}

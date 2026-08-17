@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "በመከርታችሁ የምድራችሁን ⟨את⟩ መከር የእርሻህን ጠርሶ ለመከር አትጨርስም፣ እንዲሁም የመከርህን የወደቀውን አትሰብስብም።",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "በመከርታችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መከር"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "መከር"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ምድራችሁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት…ም"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "አትጨርስ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ጠርሶ"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "የእርሻህ"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "ለመከር"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "የወደቀውን"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "የመከርህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት…ም"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "አትሰብስብ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:55:54.898470109Z",
+  "model": "glm-5.3"
+}

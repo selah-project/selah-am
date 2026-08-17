@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 139,
+  "translation": "እንደዚያም የአንተ እጅ ይመራኛል፣ የአንተም ቀኝ እጅ ይይዘኛል።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እንደዚያም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "የአንተ እጅ"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ይመራኛል"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "ይይዘኛልም"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "የአንተን ቀኝ እጅ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:06.088728849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "2-samuel 14:12",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ሴቷም እንዲህ አለች፦ «እባክህ፣ አገልጋይህ ለጌታዬ ለንጉሡ አንድ ቃል ትናገር።» ንጉሡም እንዲህ አለ፦ «ተናገር።»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "አለች"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሴቷ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ትናገር"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "שפחתך",
+      "gloss": "አገልጋይህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጌታዬ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ተናገር"
+    }
+  ],
+  "timestamp": "2026-08-16T06:01:30.125779511Z",
+  "model": "glm-5.3"
+}

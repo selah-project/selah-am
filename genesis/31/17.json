@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ያዕቆብም ተነሣ፤ ወንዶቹንና ሴቶቹን በግመሎቹ ላይ አሳለፈ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሣም"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "አሳለፈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንዶቹን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ወንዶቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሴቶቹን"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ሴቶቹን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "ግመሎቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:50:23.899996593Z",
+  "model": "glm-5.3"
+}

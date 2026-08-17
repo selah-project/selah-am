@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ሸምተቴን ፈትቼያለሁ ⟨את⟩፤ እንዴት እለብሳታለሁ? እጶቴን አጥቼያለሁ ⟨את⟩፤ እንዴት አጠብቃቸዋለሁ?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "ፈትቼያለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሸምተቴን"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "ሸምተቴን"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "እንዴት"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "እለብሳታለሁ"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "አጥቼያለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጶቴን"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "እጶቴን"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "እንዴት"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "አጠብቃቸዋለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:04:09.280785145Z",
+  "model": "glm-5.3"
+}

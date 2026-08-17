@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የቤት-ኤል እና የአይ ሰዎች ሁለት መቶ ሃያ እና ሦስት።",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "የ…ሰዎች"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ሁለት መቶ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ሃያ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "እና ሦስት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:49:43.568315337Z",
+  "model": "glm-5.3"
+}

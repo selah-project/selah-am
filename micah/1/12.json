@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ምክንያቱም በማሮት ነዋሪት ለበጎ ታገሥ ነበር፤ ምክንያቱም ክፉ ከያህዌህ ⟨את⟩ ወርቶ እስከ ኢየሩሳሌም በር መጣ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ታገሥ ነበር"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "ለበጎ"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ነዋሪት"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "ማሮት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ወርቶ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ከ⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "እስከ በር"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ኢየሩሳሌም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:09:58.574539728Z",
+  "model": "glm-5.3"
+}

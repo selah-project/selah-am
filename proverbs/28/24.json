@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "አባቱን እና እናቱን የሚዘረፍ እና «ኃጢአት አይደለም» የሚለው ሰው፣ ከሚያጠፋ ሰው ጋር አጋር ነው።",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "የሚዘረፍ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱን"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "እና እናቱን"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "እና የሚለው"
+    },
+    {
+      "surface": "אין",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ኃጢአት"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "አጋር"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ነው"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ከሰው"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "ሚያጠፋ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:36:55.662810043Z",
+  "model": "glm-5.3"
+}

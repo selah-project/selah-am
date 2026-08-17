@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "የማንም በዘርፍ ዘር መልክ ነበረ፤ ቅርጹም እንደ ብርሃን ዕንቁ ቅርጽ ነበር።",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "የማንም"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "እንደ ዘር"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ዘርፍ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ነበረ፤"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "ቅርጹም"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "እንደ ቅርጽ"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "ብርሃን ዕንቁ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:13:18.705509841Z",
+  "model": "glm-5.3"
+}

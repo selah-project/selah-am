@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ወደ ኢየሩሳሌምም መጣሁ፤ እኔም ሦስት ቀናት በዚያ ነበርሁ።",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "መጣሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ኢየሩሳሌምም"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ነበርሁ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ሦስት"
+    }
+  ],
+  "timestamp": "2026-08-16T12:11:47.717078293Z",
+  "model": "glm-5.3"
+}

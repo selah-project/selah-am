@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "የታማኝነት ⟨መንገድ⟩ መርጫለሁ፤ ፍርዶችህን ፊቴ አድርጌያለሁ።",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ታማኝነት"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "መርጫለሁ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ፍርዶችህ"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "አድርጌያለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:59.381567289Z",
+  "model": "glm-5.3"
+}

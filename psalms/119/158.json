@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ሰርገኞችን አየሁ እና አዘንኩ፤ ቃልህን ሳይጠብቁ እነሱ።",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "አየሁ"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ሰርገኞችን"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "አዘንኩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ቃልህን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ሳይ…"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ጠብቁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:51.076517532Z",
+  "model": "glm-5.3"
+}

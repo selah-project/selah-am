@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "የልቡን ምኞት ስጠው፤ የከንፈሮቹንም ጥያቄ በጭራሽ አትከለክለው። ሴላህ።",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "ምኞት"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "የልቡን"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ስጠው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "የጥያቄም"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "የከንፈሮቹን"
+    },
+    {
+      "surface": "בל",
+      "gloss": "በጭራሽ"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "አትከለክለው"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:15.049462566Z",
+  "model": "glm-5.3"
+}

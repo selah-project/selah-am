@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 1:3",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እና በአርባዎቹ ዓመት፣ በአስራ አንደኛው ወር፣ በወሩ በአንደኛው ቀን፣ ሞሼ እንደ ⟨את⟩ ያህዌህ እነርሱን በእርሱ ላይ የሾመው ሁሉ ልጆች የእስራኤልን ተናገረ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እና ሆነ"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "በአርባ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "በአስራ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ወር"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "በአንደኛው ቀን"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "በወሩ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤልን"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "እንደ ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሾመው"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "እነርሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T19:19:31.690247870Z",
+  "model": "glm-5.3"
+}

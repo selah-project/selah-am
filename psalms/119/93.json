@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ለዘላለም ትእዛዝህን አልረሳም፤ በእነሱ ሕያው አደረኝና።",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ረሳም"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ትእዛዝህን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእነሱ...አደረኝና (ምክንያት)"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በእነሱ"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "ሕያው አደረኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:13.580505398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 55,
+  "translation": "ኤሎሂም ሆይ፣ የልመናዬን ጆሮ አንሳ፤ ከምላጄም አትሰውር።",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "ጆሮ አንሳ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "የልመናዬን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "አትሰውር"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "ከምላጄም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:41.168982374Z",
+  "model": "glm-5.3"
+}

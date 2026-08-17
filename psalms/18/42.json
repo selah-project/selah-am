@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ይጮኃሉ፤ አድኛ ግን የለም፤ ወደ ያህዌህ ጮኁ፤ እርሱ ግን አልመለሳቸውም።",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "ይጮኃሉ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ነገር ግን የለም"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "አድኛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "መለሳቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:55.474917724Z",
+  "model": "glm-5.3"
+}

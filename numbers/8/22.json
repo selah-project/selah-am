@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "numbers 8:22",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ከዚህ በኋላም እንዲሁ ሌዋውያን በአሃሮን ፊትና በልጆቹ ፊት በስብሰባው ድንኳን ውስጥ ⟨את⟩ አገልግሎታቸውን ለማከናወን ገቡ፤ እንደ ያህዌህ ⟨את⟩ ሞሼን ስለ ሌዋውያን እንዳዘዘው እንዲሁ አደረጉላቸው።",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "ከዚህ በኋላ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲሁ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ገቡ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ሌዋውያን"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ለማከናወን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አገልግሎታቸውን"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "አገልግሎታቸውን"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "በድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "የስብሰባ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ…ፊት"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "እና በ…ፊት"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ልጆቹ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሼን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ሌዋውያን"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲሁ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "አደረጉ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ላቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T04:10:56.935882199Z",
+  "model": "glm-5.3"
+}

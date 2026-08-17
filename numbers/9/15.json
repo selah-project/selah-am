@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "numbers 9:15",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እና በዚያ ቀን ማደሪያውን ⟨את⟩ በማቆሙ ደመኑ ⟨את⟩ ማደሪያውን ለምስክርነት ድንኳን ሸፈነ፤ እና በምሽት በማደሪያው ላይ እንደ እሳት መልክ እስከ ጠዋት ይሆናል።",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "እና በቀን"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "በማቆሙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማደሪያውን"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ማደሪያውን"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ሸፈነ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ደመኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማደሪያውን"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ማደሪያውን"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "ለድንኳን"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ምስክርነት"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "እና በምሽት"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላዩ ላይ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ማደሪያው"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "እንደ መልክ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ጠዋት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:12:28.955030891Z",
+  "model": "glm-5.3"
+}

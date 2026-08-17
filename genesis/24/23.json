@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "genesis 24:23",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "እና አለ፦ የማን ልጅ ነሽ? እባክሽ ንገሪኝ፤ በአባትሽ ቤት ለኛ ለማደር ቦታ አለ ወይ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "የማን"
+    },
+    {
+      "surface": "את",
+      "gloss": "አንች"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "ንገሪ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክሽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ኝ"
+    },
+    {
+      "surface": "היש",
+      "gloss": "አለ ወይ?"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "አባትሽ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለኛ"
+    },
+    {
+      "surface": "ללין",
+      "gloss": "ለማደር"
+    }
+  ],
+  "timestamp": "2026-08-16T02:43:26.670968341Z",
+  "model": "glm-5.3"
+}

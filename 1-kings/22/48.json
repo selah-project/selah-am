@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 48,
+  "ref": "1-kings 22:48",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "በኤዶምም ንጉሥ የለም ነበር፤ አንድ ⟨መኮናን⟩ ንጉሥ ሆኖ ቆመ።",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "ንጉሥም"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "በኤዶም"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "የቆመ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ ሆኖ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:36:07.454273895Z",
+  "model": "glm-5.3"
+}

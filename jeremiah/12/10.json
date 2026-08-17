@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ብዙ እረኞች አጥፍተዋል የወይን ዓትሜን፤ እየተረገጡ ናቸው ⟨את⟩ ርስቴን፤ የምወዳትን ቦታ አድርገዋታል ምድረ በዳ ወደ አጥፋት።",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "እረኞች"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "አጥፍተዋል"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "የወይን ዓትሜን"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "እየተረገጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ርስቴን"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "ርስቴን"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "አድርገዋታል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የምወዳትን ቦታ"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "የምወዳትን"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "ምድረ በዳ"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ወደ አጥፋት"
+    }
+  ],
+  "timestamp": "2026-08-16T19:59:24.816835285Z",
+  "model": "glm-5.3"
+}

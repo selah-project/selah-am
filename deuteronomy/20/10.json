@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ወደ ከተማ ታቅረብ ዘንድ፣ በእሷ ላይ ልታገልባት፣ ለሰላም ትጠራታለህ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ዘንድ፣"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "ታቅረብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ልታገልባት"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "በእሷ ላይ"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "ትጠራታለህ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "እሷን"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ለሰላም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:44:54.271540785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "የሞሼ የወንድ ልጆች ጌርሶምና ኤልዔዘር ናቸው።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "የወንድ ልጆች"
+    },
+    {
+      "surface": "משה",
+      "gloss": "የሞሼ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ጌርሶም"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "ና ኤልዔዘር"
+    }
+  ],
+  "timestamp": "2026-08-16T13:12:17.211746804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ለምን እንደገና ትሮበባላችሁ? ክፋታችሁን ታበዛላችሁ፤ ⟨መላው⟩ ራስ በሽታ ⟨ነው⟩፣ ⟨መላው⟩ ልብ ደካማ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ለምን ላይ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "ትሮበባላችሁ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "እንደገና"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "ታበዛላችሁ"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "ክፋት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላው"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "በሽታ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ⟨መላው⟩"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "ደካማ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:54:44.248330345Z",
+  "model": "glm-5.3"
+}

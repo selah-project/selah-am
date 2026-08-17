@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "ወደ መመልከት ቢመጣ ውርቅን ይናገራል፤ ልቡ ክፉ ነገርን ለራሱ ይሰብስባል፤ ወደ ውጭ ቢወጣ ያነጋግረዋል።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ቢመጣ ከእነዚህ በኋላ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ይመጣል"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ወደ መመልከት"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ውርቅን"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ይናገራል"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "ይሰብስባል"
+    },
+    {
+      "surface": "און",
+      "gloss": "ክፉ ነገርን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለራሱ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ይወጣል"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "ወደ ውጭ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ያነጋግረዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:42.392319895Z",
+  "model": "glm-5.3"
+}

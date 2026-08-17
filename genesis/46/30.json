@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 46,
+  "translation": "እስራኤልም ለዮስፍ እንዲህ አለ፦ ፊትህን ⟨את⟩ ካየሁ በኋላ እና አንተ እስከ አሁን በሕይወት ስለምኖርህ እሺ እሞታለሁ በዚህ ጊዜ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮስፍ"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "እሞታለሁ"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "በዚህ ጊዜ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "በኋላ"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "ካየሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊትህን"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለም…ህ"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "እስከ አሁን"
+    },
+    {
+      "surface": "חי",
+      "gloss": "በሕይወት ኖርህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:02:45.945328957Z",
+  "model": "glm-5.3"
+}

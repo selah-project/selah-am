@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "አለቃዎችሽ ሁሉ አብረው ሮጡ፤ ከቀስት ተማርከዋል፤ የተገኙትሽ ሁሉ አብረው ተማርከዋል፤ ወደ ሩቅ ሮጡ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "አለቃዎችሽ"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ሮጡ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "አብረው"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "ከቀስት"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "ተማርከዋል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "የተገኙትሽ"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "ተማርከዋል"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "አብረው"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ወደ ሩቅ"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "ሮጡ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:08:05.870631920Z",
+  "model": "glm-5.3"
+}

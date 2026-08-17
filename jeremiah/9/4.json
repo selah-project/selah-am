@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 9:4",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እያንዳንዱም ሰው በጎረቤቱ ይሳቃል፣ እውነትንም አይናገሩም፤ ልሳናቸውን ውሸትን መናገር አስተማሩ፣ ኃጢአትን ማጣመር ደክመዋል።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "እና እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "በጎረቤቱ"
+    },
+    {
+      "surface": "יהתלו",
+      "gloss": "ይሳቃል"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "እውነትንም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ናገሩም"
+    },
+    {
+      "surface": "למדו",
+      "gloss": "አስተማሩ"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ልሳናቸውን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "መናገር"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ውሸትን"
+    },
+    {
+      "surface": "העוה",
+      "gloss": "ኃጢአትን ማጣመር"
+    },
+    {
+      "surface": "נלאו",
+      "gloss": "ደክመዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T19:58:41.187095939Z",
+  "model": "glm-5.3"
+}

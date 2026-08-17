@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "እርሱም እስራኤልን ⟨את⟩ ሲነቀ፣ የዳዊት ወንድም የሸምዐ ልጅ ይሆናን ገደለው።",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "ሲነቀ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ገደለው"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ይሆናን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "የሸምዐ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ወንድም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:06:27.972890670Z",
+  "model": "glm-5.3"
+}

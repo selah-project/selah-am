@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 140,
+  "translation": "አድነኝ ያህዌህ ከክፉ ሰው፤ ከጥቃት አዙሪት ሰው ጠብቀኝ።",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "አድነኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ከሰው"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ከሰው"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "የጥቃት"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "ጠብቀኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:06.991117303Z",
+  "model": "glm-5.3"
+}

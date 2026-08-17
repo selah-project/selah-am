@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ለሚደበድበው የፊቱን ሰጠ፤ በንቀት ጠገበ።",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "ለሚደበድበው"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "የፊቱን (ኩራት)"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ጠገበ"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "በንቀት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:09:38.333653520Z",
+  "model": "glm-5.3"
+}

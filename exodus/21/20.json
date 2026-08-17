@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "እና አንድ ሰው ባለሟልን ⟨את⟩ ወይም አገልጋይቱን ⟨את⟩ በበትር ቢወጋ በእጁ ስርም ቢሞት በእርግጠኝነት ይቀጣል።",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "እና ከሆነ"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ቢወጋ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "አንድ ሰው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ባለሟልን"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ባለሟልን"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አገልጋይቱን"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "አገልጋይቱን"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "በበትር"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ቢሞት"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ... ስርም"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "በእጁ"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "በእርግጠኝነት"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "ይቀጣል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:21:59.289600659Z",
+  "model": "glm-5.3"
+}

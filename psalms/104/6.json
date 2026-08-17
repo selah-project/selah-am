@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 104,
+  "translation": "ጥልቀቱን እንደ ልብስ ሸፈንከው፤ ውኆች በተራሮች ላይ ይቆማሉ።",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "ጥልቀቱን"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "እንደ ልብስ"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "ሸፈንከው"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "በተራሮች"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ይቆማሉ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውኆች"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:57.541731737Z",
+  "model": "glm-5.3"
+}

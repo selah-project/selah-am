@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ንጉሡም ሴትዮዋን ጠየቃት፣ እርሷም ነገረችው፤ ንጉሡም ለእርሷ አንድ ሹም ሰጠ፣ እንዲህ ልብል፦ የእርሷን ሁሉ ⟨את⟩ መልስላት፣ እንዲሁም ከምድር የወጣች በእለት ጀምሮ እስከ አሁን ድረስ ⟨את⟩ የቦታውን ፍሬ ሁሉ ⟨את⟩ መልስላት።",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ጠየቃት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ሴትዮዋን"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "ነገረችው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለርሱ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ለእርሷ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "ሹም"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ልብል"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "መልስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ… ነው"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ላት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ፍሬ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "የቦታው"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ከእለት"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "የወጣች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድርን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እና እስከ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "አሁን"
+    }
+  ],
+  "timestamp": "2026-08-17T09:20:03.774471438Z",
+  "model": "glm-5.3"
+}

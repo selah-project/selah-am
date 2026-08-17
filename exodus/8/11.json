@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ፈርዖንም መዳን ሲሆን አየ፤ ልቡን አከበደ፣ ⟨את⟩ እነሱንም አልሰማም፣ እንደ ተናገረው ያህዌህ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖንም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ሲሆን"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነበረች"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "መዳን"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "አከበደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልቡን"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰማም"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "እነሱን"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:11:13.999534271Z",
+  "model": "glm-5.3"
+}

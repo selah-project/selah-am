@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 126,
+  "translation": "በእንባ የሚዘሩት በሮኔታ (በደስታ ዘፈን) ያጭዳሉ።",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "የሚዘሩት"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "በእንባ"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "በሮኔታ (በደስታ ዘፈን)"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "ያጭዳሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:38.567030967Z",
+  "model": "glm-5.3"
+}

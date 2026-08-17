@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "jeremiah 46:7",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 46,
+  "translation": "ይህ ማን ነው? እንደ ወንዝ ይወጣል፤ ውሃዎቹም እንደ ነጭራሮች ይናወጣሉ።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "እንደ ወንዝ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ይወጣል"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "እንደ ነጭራሮች"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "ይናወጣሉ"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ውሃዎቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:09:19.399621517Z",
+  "model": "glm-5.3"
+}

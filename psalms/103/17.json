@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 103,
+  "translation": "የያህዌህ ቸርነት ግን ከዘላለም እስከ ዘላለም በሚፈሩት ላይ ነው፤ የእርሱም ጽድቅ ለልጆች ልጆች ነው።",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "የ…ቸርነት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ከዘላለም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘላለም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ሚፈሩት"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "የእርሱ ጽድቅ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለልጆች"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ልጆች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:35.277635285Z",
+  "model": "glm-5.3"
+}

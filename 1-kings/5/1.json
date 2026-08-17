@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 5:1",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ሰሎሞን በሁሉም መንግሥታት ላይ ገዥ ነበር — ከወንዙ ጀምሮ የፍልስጤም ምድር እስከ የግብፅ ድንበር ድረስ፤ ስጦታ ያቀርቡ ነበርና ⟨את⟩ ሰሎሞንን የሕይወት ቀናቱ ሁሉ ያገለግሉ ነበር።",
+  "tokens": [
+    {
+      "surface": "ושלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበር"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ገዥ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉም"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "መንግሥታት"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ወንዙ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ድንበር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፅ"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "ያቀርቡ ነበር"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ስጦታ"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "እና ያገለግሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰሎሞንን"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "የሕይወቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:21:26.529012822Z",
+  "model": "glm-5.3"
+}

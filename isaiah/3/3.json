@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የሃምሳ አለቃን እና የክብር ሰውን፣ አማካሪውን እና የብሕት ጠንቋይን፣ የስነ ምግብ አዋቂን፣",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "አለቃን"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "የሃምሳ"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "እና የተቀበለውን"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ገጽ (የክብር ሰው)"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "እና አማካሪውን"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "እና ጠንቋይን"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "የብሕት"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "እና አዋቂን"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "የስነ ምግብ (የምትሰማ ቃል)"
+    }
+  ],
+  "timestamp": "2026-08-16T06:58:01.182756654Z",
+  "model": "glm-5.3"
+}

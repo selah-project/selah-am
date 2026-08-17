@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ሳውልም ⟨את⟩ ሳሙኤልን በበሩዱ መካከል ቀርቦ አለው፦ እባክህ አሳየኝ፤ የአሳዩ ቤት የት ነው?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "ቀርቦ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳውልም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሳሙኤልን"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤልን"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በ…መካከል"
+    },
+    {
+      "surface": "השער",
+      "gloss": "በሩዱ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "አሳየኝ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "የት"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "አሳዩ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:39:57.432843029Z",
+  "model": "glm-5.3"
+}

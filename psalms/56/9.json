@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 56,
+  "translation": "መንኈሳሴን አንተ ቆጥርሃል፤ እንባዬን በጠርሙስህ አኑር፤ ወይስ በመጽሐፍህ አልተጻፉም?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "መንኈሳሴን"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "ቆጥርሃል"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "አኑር"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "እንባዬን"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "በጠርሙስህ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ወይስ አልተጻፉም?"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "በመጽሐፍህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:35.184055616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 24:1",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ወንድ ሴትን ሲያገባትና ሲበዛት ከዚያም በዓይኖቹ ፊት ሞገስ ካላገኘች ሳይሆን በእርሷ የሚያፍር ነገር ስለሠራበት፣ የፍቺ መጽሐፍ ጽፎ በእጇ ይስጣት፣ ከቤቱም ይላካት።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ሲያገባትና ከዚያም"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ሴትን ወስዶ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ወንድ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "ובעלה",
+      "gloss": "ሲበዛት"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ከዚያም ይሆናል"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንደ ሆነ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ታገኝ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ሞገስ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "በዓይኖቹ ፊት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "አገኘ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሷ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "የሚያፍር ነገር"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "ጽፎም"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ላት"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "መጽሐፍ"
+    },
+    {
+      "surface": "כריתת",
+      "gloss": "የፍቺ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ይስጣትም"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "በእጇ"
+    },
+    {
+      "surface": "ושלחה",
+      "gloss": "ይላካትም"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "ከቤቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:19:58.208069411Z",
+  "model": "glm-5.3"
+}

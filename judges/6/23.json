@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ያህዌህም እንዲህ አለው፦ ሰላም ይሁንልህ፤ አትፍራ፤ አትሞትም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ይሁንልህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ፍራ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ሞትም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:16:28.153023134Z",
+  "model": "glm-5.3"
+}

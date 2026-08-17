@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ያህዌህ ቃልን በቢልዓም አፍ ላይ ጨመረ፤ እንዲህ አለው፦ ወደ ባላቅ ተመልስ እና እንዲህ ታወራለህ።",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ጨመረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃልን"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "በአፍ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ቢልዓም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ተመልስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ባላቅ"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ታወራለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:23:04.770536500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 102,
+  "translation": "አንተ ግን አንተ ዑደት ተመሳሳይ ነህ፤ ዓመታትህም አይጨርሱም አይጠፋም።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተ ግን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "አንተ ዑደት ተመሳሳይ ነህ፤"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "ዓመታትህም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አ"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "ይጨርሱም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:44.759267339Z",
+  "model": "glm-5.3"
+}

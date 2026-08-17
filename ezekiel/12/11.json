@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "ezekiel 12:11",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ንገር፦ እኔ ምልክታችሁ ነኝ፤ እንደ አደረግሁ እንዲሁ ይደረግላቸዋል፤ ወደ ውግየት፣ ወደ ምርኮ ይሄዳሉ።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ንገር"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "מופתכם",
+      "gloss": "ምልክታችሁ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "አደረግሁ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲሁ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ይደረጋል"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ላቸው"
+    },
+    {
+      "surface": "בגולה",
+      "gloss": "ወደ ውግየት"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "ወደ ምርኮ"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ይሄዳሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:21:53.607069958Z",
+  "model": "glm-5.3"
+}

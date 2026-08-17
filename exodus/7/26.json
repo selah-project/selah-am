@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ያህዌህም ሞሼን፦ «ወደ ፈርዖን ሂድና እንዲህ በለው፦ ያህዌህ እንዲህ ይላል — ⟨את⟩ ሕዝቤን ልከው ይገውኑኝ» አለው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ… ለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "በለው"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "እሱን"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ልከው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቤን"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤን"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ይገውኑኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:10:34.134594758Z",
+  "model": "glm-5.3"
+}

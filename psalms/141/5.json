@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 141,
+  "translation": "ጻድቁ በቸርነት ይምታኝ፣ ያስተውለኝ፤ የራስ ዘይት — ራሴ አይከልከለው፤ ምክንያቱም አሁንም የእኔ ጸሎት በክፋታቸው መካከል ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "ይምታኝ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቁ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "በቸርነት"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "ያስተውለኝ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘይት"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יני",
+      "gloss": "ይከልከል"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ራሴ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "አሁንም"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "እና የእኔ ጸሎት"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "በክፋታቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:38.051997371Z",
+  "model": "glm-5.3"
+}

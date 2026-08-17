@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 82,
+  "translation": "አያውቁም እንዲሁም አይረዱም፤ በጨለማ ውስጥ ይንከራተታሉ ይሄዳሉ፤ የምድር መሠረቶች ሁሉ ይንቀጠቀጣሉ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "አያውቁም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንዲሁም አይ…ም"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "አይረዱም"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "በጨለማ ውስጥ"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ይሄዳሉ"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "ይንቀጠቀጣሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "የ…መሠረቶች"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:57:22.571466144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 55,
+  "translation": "ነገር ግን እርሱ፣ እኔ እኩል የሆንኩት ሰው፣ የቅርብ ወዳጄ፣ የሚታወቀኝ፤",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ነገር ግን እርሱ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "እኔ እኩል የሆንኩት"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "የቅርብ ወዳጄ"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "የሚታወቀኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:18.408828084Z",
+  "model": "glm-5.3"
+}

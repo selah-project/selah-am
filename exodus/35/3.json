@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "በሰይጣን ቀን በሁሉም የምትኖሩባቸው ስፍራዎች እሳት አታቃጥሉ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት...አይ"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "አታቃጥሉ\/አታበሩ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉም"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "የምትኖሩባቸው ስፍራዎች"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "የሰይጣን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:34:17.514275235Z",
+  "model": "glm-5.3"
+}

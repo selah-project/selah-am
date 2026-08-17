@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "አመቻችሁ የደረቀ ሣር፣ ትወልዳላችሁ ጭቃ፤ መንፈሳችሁ እሳት ነው፣ ያቃጥላችኋል።",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "አመቻችሁ"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "የደረቀ ሣር"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "ትወልዳላችሁ"
+    },
+    {
+      "surface": "קש",
+      "gloss": "ጭቃ"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "መንፈሳችሁ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "ያቃጥላችኋል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:12:26.084167891Z",
+  "model": "glm-5.3"
+}

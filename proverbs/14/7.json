@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "proverbs 14:7",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ከሞኝ ሰው ፊት ሂድ፤ የእውቀት ከንፈሮችን አታውቅም።",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ከ…ፊት"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ለሰው"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ሞኝ"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "አታ…ም"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ታውቅ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ከንፈሮችን"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "እውቀት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:27:20.998639039Z",
+  "model": "glm-5.3"
+}

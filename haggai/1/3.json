@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እንዲህም ሲል በነቢዩ በኀጌ እጅ የያህዌህ ቃል ሆኖ መጣ፦",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እንዲህም…ሆኖ መጣ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በ…እጅ"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "በኀጌ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነቢዩ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:19:23.894941109Z",
+  "model": "glm-5.3"
+}

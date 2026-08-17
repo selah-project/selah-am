@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "አሥራ አንድ ቀን (ጉዞ) ከሖሬብ በሰዒር ተራራ መንገድ እስከ ቃዴስ ባርኔዓ።",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥራ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን (ጉዞ)"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ከሖሬብ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ሰዒር"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቃዴስ"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "ባርኔዓ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:17:40.753387728Z",
+  "model": "glm-5.3"
+}

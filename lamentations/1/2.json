@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 1:2",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "በከፋ ልቅሶ በሌሊት እያለቀቀች ናት፤ እንባዋም በእንባኞቿ ላይ ነው፤ ከሁሉም ወዳጆቿ አጽንዋት የላትም፤ ሁሉም ወዳሞቿ በእርሷ በደሉ፤ ለእርሷ ጠላቶች ሆኑ።",
+  "tokens": [
+    {
+      "surface": "בכו",
+      "gloss": "በከፋ ልቅሶ"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "እያለቀቀች"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "በሌሊት"
+    },
+    {
+      "surface": "ודמעתה",
+      "gloss": "እንባዋም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "לחיה",
+      "gloss": "እንባኞቿ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የላትም"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ላት"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "አጽንዋት"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉም"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "ወዳጆቿ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "רעיה",
+      "gloss": "ወዳሞቿ"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "በደሉ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሷ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ሆኑ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ለእርሷ"
+    },
+    {
+      "surface": "לאיבים",
+      "gloss": "ጠላቶች"
+    }
+  ],
+  "timestamp": "2026-08-16T18:17:21.946871183Z",
+  "model": "glm-5.3"
+}

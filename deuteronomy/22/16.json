@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "የወጣቷም አባት ለሽማግሌዎቹ እንዲህ ይላል፦ ⟨את⟩ ልጄን ለዚህ ሰው ሚስት ሆና ሰጥቼያለሁ፣ እርሱም ጠላታል።",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባት"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "የወጣቷ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ሽማግሌዎቹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጄን"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ልጄን"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ሰጥቼያለሁ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ለዚህ ሰው"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ሚስት ሆና"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "ጠላታል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:48:19.956283392Z",
+  "model": "glm-5.3"
+}

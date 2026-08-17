@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "በትርህን ከእኔ ላይ አንስተው፤ በእጅህ ጫና እኔ አልቃለሁ።",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "አንስተው"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ከእኔ ላይ"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "በትርህን"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "በጫና"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "በእጅህ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "አልቃለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:23.027172803Z",
+  "model": "glm-5.3"
+}

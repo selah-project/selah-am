@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "ከማዕበሉ ውስጥ ያህዌህ ⟨את⟩ ኢዮብን መለሰለት፤ እንዲህም አለ፦",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መለሰለት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢዮብን"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኢዮብ"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "ማዕበሉ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:59:47.677130067Z",
+  "model": "glm-5.3"
+}

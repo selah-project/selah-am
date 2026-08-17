@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 140,
+  "translation": "አውቄያለሁ ያህዌህ ለደቀመዛሙርያው ፍርድ እንደሚያደርግ፣ ለድሆች ድንጋጌ እንደሚፈርድ።",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "አውቄያለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ያደርጋል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ፍርድ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ለደቀመዛሙርያው"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ድንጋጌ"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ለድሆች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:35.322717563Z",
+  "model": "glm-5.3"
+}

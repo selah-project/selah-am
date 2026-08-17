@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "proverbs 11:14",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "በመካድ ምክር ሕዝብ ይወድቃል፤ ነገር ግን በብዙ መካሽ መዳን አለ።",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "በመካድ"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "ምክር"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ይወድቃል"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "ותשועה",
+      "gloss": "መዳን"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "በብዙ"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "መካሽ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:26:13.751484384Z",
+  "model": "glm-5.3"
+}

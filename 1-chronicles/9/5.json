@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ከሸሎናውያንም ⟨את⟩ ዓሳያ ቤኩር እና የእርሱን ልጆች ነበሩ።",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ከ…ም"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "ሸሎናዊው"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "ዓሳያ"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ቤኩር"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "እና የእርሱ ልጆች"
+    }
+  ],
+  "timestamp": "2026-08-16T12:46:10.924833660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ያህዌህ የእኔ ክፍል እና የእኔ ጽዋ ⟨ነው⟩፤ አንተ የእኔን ዕጣ ታስቀምጣለህ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "የተመዘነ ድርሻ"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "የእኔ ክፍል"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "እና የእኔ ጽዋ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "ታስቀምጣለህ"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "የእኔ ዕጣ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:32.438799077Z",
+  "model": "glm-5.3"
+}

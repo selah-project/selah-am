@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "2-kings 14:3",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "በያህዌህ ፊት ያለውን ትክክለኛውን አደረገ፤ እንጂ እንደ ዳዊት አባቱ አልነበረም፤ እንደ አባቱ ዮአስ እንደ አደረገው ሁሉ አደረገ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ትክክለኛውን"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "በ…ፊት (በዐይን)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "እንጂ ብቻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል…ነበረም"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "እንደ ዳዊት"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "እንደ ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለው"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገው"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ዮአስ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:46:39.156919078Z",
+  "model": "glm-5.3"
+}

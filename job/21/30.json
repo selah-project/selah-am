@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "job 21:30",
+  "book": "job",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ክፉ ሰው ለእልቂት ቀን ይቆያል፤ ለቍጣ ቀን ይመራል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንኳ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ለ…ቀን"
+    },
+    {
+      "surface": "איד",
+      "gloss": "እልቂት"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "ይቆያል"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ ሰው"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ለ…ቀን"
+    },
+    {
+      "surface": "עברות",
+      "gloss": "ቍጣ"
+    },
+    {
+      "surface": "יובלו",
+      "gloss": "ይመራሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:51:10.738149675Z",
+  "model": "glm-5.3"
+}

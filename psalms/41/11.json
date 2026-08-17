@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "አንተም ያህዌህ ሆይ፣ በእኔ ማረኝ፤ አስነሳኝም፤ እኔም ላቸው እከፍላለሁ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ማረኝ"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "አስነሳኝም"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "እከፍላለሁ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ላቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:38.991825479Z",
+  "model": "glm-5.3"
+}

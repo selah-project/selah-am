@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "የጥላት ቃላትም አክብበውኛል፤ ያለ ምክንያትም ተዋጉኝ።",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "እና የ…ቃላት"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "የጥላት"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "አክብበውኛል"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "ተዋጉኝ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ያለ ምክንያት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:58.575603422Z",
+  "model": "glm-5.3"
+}

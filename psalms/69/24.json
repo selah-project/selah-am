@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "ዓይኖቻቸው እንዳያዩ ይጨልሙ፤ ወገቦቻቸውም ሁልጊዜ ይለቀምቁ።",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "ይጨልሙ"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ዓይኖቻቸው"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "እንዳያዩ"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "ወገቦቻቸውም"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "ይለቀምቁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:41.823502481Z",
+  "model": "glm-5.3"
+}

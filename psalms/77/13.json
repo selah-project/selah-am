@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 77,
+  "translation": "በሙሉ ሥራህ እናስባለሁ፤ በተግባራትህም እነጋገራለሁ።",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "እናስባለሁ፤"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "ሥራህ"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "በተግባራትህም"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "እነጋገራለሁ።"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:38.618308667Z",
+  "model": "glm-5.3"
+}

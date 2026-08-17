@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "numbers 21:8",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ያህዌህም ለሞሼ እንዲህ አለ፦ «ራስህ እሳታማ እባብ አድርግ፤ በምልክት ላይ ⟨את⟩ እሱን በዝ። ተነክሶም የሚያደርገው ሁሉ ⟨את⟩ እሱን ያይና ሕያው ይኖራል።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አድርግ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ራስህ"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "እሳታማ እባብ"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "በዝ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እባቡን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ምልክት"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הנשוך",
+      "gloss": "ተነክሶም የሚያደርገው"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ያይና"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እባቡን"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ሕያው ይኖራል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:21:35.279042647Z",
+  "model": "glm-5.3"
+}

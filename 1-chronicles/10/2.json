@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ፍልስጤሞችም ከሳኦል እና ከወንዶቹ ጀርባ ተከተሉ፤ ፍልስጤሞችም ⟨את⟩ ዮናታንን እና ⟨את⟩ አቢናዳብን እና ⟨את⟩ ማልኪሹዓን፣ የሳኦል ወንዶችን ገደሉ።",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "ተኮሱም"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤሞች"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ… ጀርባ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "እና ከ… ጀርባ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ወንዶቹ"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ገደሉም"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤሞች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮናታንን"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ዮናታን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "አቢናዳብን"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "አቢናዳብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ማልኪሹዓን"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ማልኪ"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "ሹዓ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወንዶች"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    }
+  ],
+  "timestamp": "2026-08-16T12:50:56.986915840Z",
+  "model": "glm-5.3"
+}

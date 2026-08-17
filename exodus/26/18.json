@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "የድንኳኑን ሰሌዳዎች ⟨את⟩ ታደርጋለህ — ለደቡብ ጎን ወደ ደቡብ ሃያ ሰሌዳዎች።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰሌዳዎቹን"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ሰሌዳዎቹን"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ለድንኳን"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ሃያ"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "ሰሌዳ"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ለጎን"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ወደ ደቡብ"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ወደ ደቡብ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:26:04.104626969Z",
+  "model": "glm-5.3"
+}

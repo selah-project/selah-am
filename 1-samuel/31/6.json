@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "1-samuel 31:6",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ስለዚህ ሳኦል ሞተ፣ እና ሦስቱ ልጆቹ፣ እና የመሣሪያዎቹ ተሸካሚው፣ እንዲሁም ሰዎቹ ሁሉ በዚያው ቀን አብረው ሞቱ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "እና ሦስቱ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ልጆቹ"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "እና ተሸካሚው"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "የመሣሪያዎቹ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ሰዎቹ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "አንደዚያ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "አብረው"
+    }
+  ],
+  "timestamp": "2026-08-16T05:54:05.212351754Z",
+  "model": "glm-5.3"
+}

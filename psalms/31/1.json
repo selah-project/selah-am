@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ለመዝሙር አለቃ፤ የዳዊት መዝሙር።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመዝሙር አለቃ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:50.196168018Z",
+  "model": "glm-5.3"
+}

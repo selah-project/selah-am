@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 3:20",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እንደ እውነት እንደ ሚያመነዝር ሴት ከባሏ፣ እንዲሁ የእስራኤል ቤት በእኔ ላይ በዋልታችሁ አመንዝራችኋል፤ የያህዌህ ቃል ነው።",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "እንደ እውነት"
+    },
+    {
+      "surface": "בגדה",
+      "gloss": "አመንዝራለች"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "ከባሏ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲሁ"
+    },
+    {
+      "surface": "בגדתם",
+      "gloss": "አመንዝራችኋል"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "የ… ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:05:22.081352117Z",
+  "model": "glm-5.3"
+}

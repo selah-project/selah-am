@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "ምክንያቱም በቀስቴ አልእመንም፤ ሰይፌም አይድነኝም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "በቀስቴ"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "እመናለሁ"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "እና ሰይፌ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "ይድነኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:20.289663608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 46,
+  "translation": "እና በጉን ⟨את⟩ እና የሥጋ መባውን ⟨את⟩ እና ዘይቱን ⟨את⟩ ማለዳ በማለዳ ያዘጋጃሉ፤ ሁልጊዜ የሚሆን የሚቃጠል መሥዋዕት።",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "እና ያዘጋጃሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በጉን"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "በጉ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የሥጋ መባውን"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "የሥጋ መባ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዘይቱን"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ዘይት"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ማለዳ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "በማለዳ"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "የሚቃጠል መሥዋዕት"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:50:00.721820007Z",
+  "model": "glm-5.3"
+}

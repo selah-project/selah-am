@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "proverbs 23:5",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ዓይኖችህን በእርሱ ላይ ታደፋቸዋለህ? እርሱ ግን የለም፤ ምክንያቱም ሠርቶ ይሠራል ለራሱ ክንፎችን፤ እንደ ንስር ወደ ሰማያት ይበራል።",
+  "tokens": [
+    {
+      "surface": "התעוף",
+      "gloss": "ታደፋቸዋለህ (እትበርብ?)"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ዓይኖችህን"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ሠርቶ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ይሠራል"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለራሱ"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "ክንፎችን"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "እንደ ንስር"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "ይበራል"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ወደ ሰማያት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:35:23.777211877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ከቁጣ ተው፤ ክፉነትንም ተው፤ ክፉ ማድረግን ብቻ አትቆጣ።",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "ተው"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "ከቁጣ"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ተውም"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ክፉነትንም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "ትቆጣ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ክፉ ማድረግን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:46.809432400Z",
+  "model": "glm-5.3"
+}

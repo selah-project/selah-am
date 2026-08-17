@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እና ⟨את⟩ ይዑጽን እና ⟨את⟩ ሳኪያን እና ⟨את⟩ ሚርማን፤ እነዚህ የእርሱ ወንድ ልጆች፣ የቤተ አባቶች አለቆች ናቸው።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ይዑጽን"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "ይዑጽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሳኪያን"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "ሳኪያ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሚርማን"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ሚርማ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "የእርሱ ወንድ ልጆች"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "አለቆች"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "የቤተ አባቶች"
+    }
+  ],
+  "timestamp": "2026-08-16T12:41:54.066336254Z",
+  "model": "glm-5.3"
+}

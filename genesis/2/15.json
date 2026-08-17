@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ያህዌህ ኤሎሂም ሰውየውን ⟨את⟩ ወስዶ በዔደን የአትክልት ቦታ አክሎ እንዲያለማትና እንዲጠብቃት አስቀመጠው።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወስዶ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰውየውን"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰውየውን"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "አስቀመጠው"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "በየአትክልት ቦታ"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ዔደን"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "እንዲያለማት"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "እንዲጠብቃት"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:15.994967912Z",
+  "model": "glm-5.3"
+}

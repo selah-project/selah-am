@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "⟨את⟩ ሁሉን በከንቱ ቀናቼ አይቻለሁ፤ ጻድቅ በጽድቁ እየጠፋ አለ፤ ክፉም በክፉነቱ እየቆየ አለ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "አይቻለሁ"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "በ…ቀናቼ"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "ከንቱ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቅ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "እየጠፋ"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "በጽድቁ"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "እየቆየ"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "በክፉነቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:15:59.292927986Z",
+  "model": "glm-5.3"
+}

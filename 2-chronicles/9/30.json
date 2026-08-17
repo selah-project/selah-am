@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "2-chronicles 9:30",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ሰሎሞን በኢየሩሳሌም በእስራኤል ሁሉ ላይ አርባ ዓመት ነገሠ።",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "በኢየሩሳሌም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "አርባ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    }
+  ],
+  "timestamp": "2026-08-16T13:38:09.023113315Z",
+  "model": "glm-5.3"
+}

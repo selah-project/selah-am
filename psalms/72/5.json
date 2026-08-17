@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 72,
+  "translation": "ከፀሐይ ጋር ያኅዱርሃሉ፣ ከጨረቃም ፊት ለዘመን ዘመናት።",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "ያኅዱርሃሉ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ፀሐይ"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ከ…ፊት"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ጨረቃ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ለዘመን"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "ዘመናት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:34.513441629Z",
+  "model": "glm-5.3"
+}

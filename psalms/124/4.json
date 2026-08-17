@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 124,
+  "translation": "በዚያን ጊዜ ውኆቹ ያጥሉን ነበር፣ መዝሙሩ በነፍሳችን ላይ ያልፍ ነበር፤",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "በዚያን ጊዜ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውኆቹ"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "ያጥሉን"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ወንዙ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ያልፍ ነበር"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "በነፍሳችን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:13.056180310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "proverbs 31:5",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "እንዳል፣ ይጠጣም እና የተቋቋመውን ሕግ ይረሳል፣ የተገበርታ ልጆች ሁሉ ፍትሕ ይቀይራል።",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "እንዳል"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ይጠጣ"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "እና ይረሳ"
+    },
+    {
+      "surface": "מחקק",
+      "gloss": "የተቋቋመ ሕግ"
+    },
+    {
+      "surface": "וישנה",
+      "gloss": "እና ይቀይር"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ፍትሕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ደብዳቤ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:38:36.334353235Z",
+  "model": "glm-5.3"
+}

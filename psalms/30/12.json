@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 30:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ማልቀሴን ለእኔ ወደ መዋከብ መለስክልኝ፤ የዐቅሜን አፈታኸው ደስታንም አሰረኸኝ።",
+  "tokens": [
+    {
+      "surface": "הפכת",
+      "gloss": "መለስክልኝ"
+    },
+    {
+      "surface": "מספדי",
+      "gloss": "ማልቀሴን"
+    },
+    {
+      "surface": "למחול",
+      "gloss": "ወደ መዋከብ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "አፈታኸው"
+    },
+    {
+      "surface": "שקי",
+      "gloss": "የዐቅሜን"
+    },
+    {
+      "surface": "ותאזרני",
+      "gloss": "እና አሰረኸኝ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ደስታን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:08:39.338555308Z",
+  "model": "glm-5.3"
+}

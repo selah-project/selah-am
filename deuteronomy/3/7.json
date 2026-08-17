@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ሁሉንም እንስሳትና የከተሞችን ምርኮ ለራሳችን ከበርታን።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉንም"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "እንስሳትን"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "እና ምርኮን"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "የከተሞችን"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "ከበርታን"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለራሳችን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:33:33.300043575Z",
+  "model": "glm-5.3"
+}

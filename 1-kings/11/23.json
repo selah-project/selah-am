@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ኤሎሂም ለእርሱ ተቃዋሚ — ረዞንን የኤልያዳ ልጅ — አስነሳ፤ ⟨את⟩ ረዞን የኤልያዳ ልጅ ነው፤ እርሱ ከጌታው ከሐዳድዔዘር ከጾባ ንጉሥ ⟨את⟩ ሸሸ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "አስነሳ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "ተቃዋሚ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ረዞንን"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "ረዞን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "ኤልያዳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነው"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ሸሸ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ከ⟨את⟩"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ሐዳድዔዘር"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ጾባ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ጌታው"
+    }
+  ],
+  "timestamp": "2026-08-17T07:29:06.086427544Z",
+  "model": "glm-5.3"
+}

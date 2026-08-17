@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 111,
+  "translation": "ለአክሊሎቹ ምግብ ሰጠ፤ ቃል ኪዳኑን ለዘላለም ያስታውሳል።",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "ምግብ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ለአክሊሎቹ"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "ያስታውሳል"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ቃል ኪዳኑን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:00.425535303Z",
+  "model": "glm-5.3"
+}

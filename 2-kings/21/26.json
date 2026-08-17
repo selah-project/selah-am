@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "እና ⟨את⟩ በዑዛ የአትክልት ቦታ በመቃብሩ ቀበሩት፤ እና ልጁ ዮስያህ በርሱ ፋንታ ነገሠ።",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "ቀበሩት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን (አሞንን)"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "በመቃብሩ"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "በየአትክልት ቦታ"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ዑዛ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ዮስያህ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "በርሱ ፋንታ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:51:43.632729305Z",
+  "model": "glm-5.3"
+}

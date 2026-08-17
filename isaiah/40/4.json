@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ሁሉም በረሃ ይታሸጋል፣ ሁሉም ተራራና ኮረብታ ይወርዳሉ፤ አድመቀው ለቀጥታ ሜዳ ይለወጣል፣ ከሸረሮችም ለሸለቆ ቦታ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "በረሃ"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "ይታሸጋል"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉም"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "እና ኮረብታ"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "ይወርዳሉ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "አድመቀው"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "ለቀጥታ ሜዳ"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "እና ከሸረሮች"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "ለሸለቆ ቦታ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:21:20.115748563Z",
+  "model": "glm-5.3"
+}

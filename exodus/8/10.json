@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ቁልቁል አካበቱኋቸው ⟨את⟩ ክምር ክምር፤ ምድሪውም አሳሳቀች።",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "አካበቱኋቸው"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ክምር ክምር (አጃዎቹን)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "ክምር ክምር"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "ክምር ክምር"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "አሳሳቀች"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:11:13.999399988Z",
+  "model": "glm-5.3"
+}

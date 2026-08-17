@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 80,
+  "translation": "እነርሱን በእንባ ዳቦ አመጋቸሃል፤ በሦስት እጣን (በብዙ እንባ) አጠጣሃቸው።",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "አመጋቸሃቸው"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦ"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "እንባ"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "አጠጣሃቸው"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "በእንባ"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "ሦስት እጣን\/በብዙ መጠን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:51.945933985Z",
+  "model": "glm-5.3"
+}

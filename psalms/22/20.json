@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ነገር ግን አንተ ያህዌህ አትርቅም ኃይሌ ወደ እርዳታዬ በቶሎ ና",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ነገር ግን አንተ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት...ም"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "አትርቅ"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "ኃይሌ"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ወደ እርዳታዬ"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "በቶሎ ና"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:21.423076299Z",
+  "model": "glm-5.3"
+}

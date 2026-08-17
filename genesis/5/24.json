@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ሄኖክም ⟨את⟩ ኤሎሂምን አብሮ ሄደ፤ እርሱም ⟨ወደቀ አልተገኘም⟩ — ኤሎሂም ⟨את⟩ እርሱን ስለ ወሰደው።",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "አብሮ ሄደ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ሄኖክ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂምን"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "እርሱም ⟨ወደቀ አልተገኘም⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ወሰደው"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ እርሱን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:31:18.794410057Z",
+  "model": "glm-5.3"
+}

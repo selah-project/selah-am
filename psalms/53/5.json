@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 53,
+  "translation": "የአመክንያ ሠሪዎች አላወቁምን? የሕዝቤን በላቸው እንደ እንጀራ በላሁ፤ ኤሎሂምን አልጠሩም።",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "አላወቁምን?"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "አወቁ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ሠሪዎች"
+    },
+    {
+      "surface": "און",
+      "gloss": "የአመክንያ"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "በላቸው"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "የሕዝቤን"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "በላሁ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እንደ እንጀራ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂምን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ጠሩም"
+    }
+  ],
+  "timestamp": "2026-08-16T18:12:17.058830366Z",
+  "model": "glm-5.3"
+}

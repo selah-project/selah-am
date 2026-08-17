@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "ጻድቃንም ደስ ይላቸዋል፤ በኤሎሂም ፊት ይደሰታሉ፤ በሐሤት ይደሰታሉ።",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "ጻድቃንም"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ደስ ይላቸዋል"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "ይደሰታሉ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ ... ፊት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "ይደሰታሉ"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "በሐሤት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:13.026237372Z",
+  "model": "glm-5.3"
+}

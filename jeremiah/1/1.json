@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የዕርምያሁ ቃላት፣ የከልቂያሁ ልጅ፣ ከካህናት መካከል በአናቶት፣ በቢንያምን ምድር የነበረው።",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "የዕርምያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "የከልቂያሁ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የነበረው"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "በአናቶት"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ቢንያምን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:35:38.154837711Z",
+  "model": "glm-5.3"
+}

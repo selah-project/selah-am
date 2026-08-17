@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 85,
+  "translation": "ከቶ ለሚፈሩት ቅርብ ነው ⟨የእርሱ⟩ መዳን፤ ክብር በምድራችን እንዲኖር።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ከቶ"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ቅርብ"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ለሚፈሩት"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "መዳኑ"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "እንዲኖር"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብር"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "በምድራችን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:13.493782713Z",
+  "model": "glm-5.3"
+}

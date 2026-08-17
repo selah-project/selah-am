@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "leviticus 27:13",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "እና መልሶ ሊያድን ከፈለገ አምስተኛውን በአንተ ግመታ ላይ ይጨምራል።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እና ከፈለገ"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ሊያድን"
+    },
+    {
+      "surface": "יגאלנה",
+      "gloss": "መልሶ ይዋጸዋታል"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ይጨምራል"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "አምስተኛውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "የአንተ ግመታ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:03:56.675574005Z",
+  "model": "glm-5.3"
+}

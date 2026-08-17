@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "እርግበትን እንደ ልብሱ ለበሳት እና እንደ ውሃ በትኩሩ ውስጥ እንደ ዘይትም በአጥንቶቹ ገባች።",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "ለበሳት"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "እርግበትን"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "እንደ ልብሱ"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ገባች"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "እንደ ውሃ"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "በትኩሩ ውስጥ"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "እንደ ዘይትም"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "በአጥንቶቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:07.957520721Z",
+  "model": "glm-5.3"
+}

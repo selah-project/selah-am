@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 144,
+  "translation": "አድነኝ፣ ከመልካም እጅ አውጣኝ፣ ከየትየታዊው ልጆች እጅ — አፋቸው በከንቱ ተናግሯል፣ ቀኝ እጃቸውም የውርደት ቀኝ ናት።",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "አድነኝ"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "አውጣኝ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "የትየታዊው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "አፋቸው"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናግሯል"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "በከንቱ"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ቀኝ እጃቸውም"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ቀኝ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ውርደት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:02.910560350Z",
+  "model": "glm-5.3"
+}

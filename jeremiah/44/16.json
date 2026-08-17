@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "jeremiah 44:16",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "«በያህዌህ ስም ወደ እኛ የተናገርከውን ቃል ⟨את⟩ አንሰማም፤ አንከተልህም።",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ቃሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "የተናገርከው"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ወደ እኛ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "በስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "አንሰማም"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "አንከተልህም"
+    }
+  ],
+  "timestamp": "2026-08-16T08:08:49.237805619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "እርሱም እንዲህ አለ፦ ⟨את⟩ መልኩን ማየት አትችልም፤ ሰው ⟨את⟩ መልኬን ማየት እንዳለው አይኖርምና።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አትችልም"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "አትችልም"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "ማየት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መልኩን"
+    },
+    {
+      "surface": "פני",
+      "gloss": "መልኩን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ልክ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይኖርም"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "ማየት"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "እንዳለው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:33:49.013382012Z",
+  "model": "glm-5.3"
+}

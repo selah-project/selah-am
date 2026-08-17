@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 66,
+  "translation": "የከፈቱት ከንፈሮቼ እና የተናገረው አፌ በጭንቀቴ ላይ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "ከፈቱ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ከንፈሮቼ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "እና ተናገረ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፌ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "በጭንቀት"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ላይፈ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:15.818644622Z",
+  "model": "glm-5.3"
+}

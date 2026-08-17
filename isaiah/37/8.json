@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ራብሻቄም ተመለሶ ⟨את⟩ የአሦር ንጉሡን በሊብና ላይ እየተዋጋ አገኘው፤ ከላቂሽ እንደተነሳ ሰምቶ ነውና።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተመለሶም"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ራብ"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "ሻቄ"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "አገኘ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የአሦር ንጉሡን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "አሦር"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "እየተዋጋ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ሊብና"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምቶ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "ተነሳ"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "ከላቂሽ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:18:02.813684754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "በዚያ ቀን በኤሊ ላይ ⟨את⟩ ሁሉን የተናገርኩትን በቤቱ ላይ አስተናግዳለሁ — መጀመሪያውንም ፍጻሜውንም።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "በዚያ ቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "አስተናግዳለሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኤሊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ተናገርኩትን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ ላይ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "መጀመሪያውንም"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ፍጻሜውንም"
+    }
+  ],
+  "timestamp": "2026-08-16T15:39:59.104410576Z",
+  "model": "glm-5.3"
+}

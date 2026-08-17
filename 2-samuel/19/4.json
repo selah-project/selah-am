@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "2-samuel 19:4",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ሕዝቡም በዚያ ቀን ወደ ከተማዋ ለመግባት በስውር ገባ፤ በውጊያ ሲሸሹ የሚያፍሩ ሕዝብ እንደሚሸሽ ሆነ።",
+  "tokens": [
+    {
+      "surface": "ויתגנב",
+      "gloss": "በስውር ገባ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡም"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በ…ቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ዚያ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ለመግባት"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ወደ ከተማዋ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "יתגנב",
+      "gloss": "ሚሸሽ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "הנכלמים",
+      "gloss": "የሚያፍሩ"
+    },
+    {
+      "surface": "בנוסם",
+      "gloss": "ሲሸሹ"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "በውጊያ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:07:28.373560522Z",
+  "model": "glm-5.3"
+}

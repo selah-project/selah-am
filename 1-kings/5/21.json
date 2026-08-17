@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "1-kings 5:21",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ሖራም የሰሎሞንን ቃላት ሲሰማ ⟨את⟩ በጣም ደስ አለው፣ እንዲህም አለ፦ ዳዊትን በዚህ ብዙ ሕዝብ ላይ ጥበብ ያለው ልጅ በሰጠው ቀን ያህዌህ የተባረከ ነው።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ሲሰማ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ሖራም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሰሎሞንን ቃላት"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላትን"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "የሰሎሞን"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "ደስ አለው"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህም አለ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "የተባረከ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "በዚህ ቀን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "በ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "በሰጠው"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ዳዊትን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ጥበብ ያለው"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:18:20.743388201Z",
+  "model": "glm-5.3"
+}

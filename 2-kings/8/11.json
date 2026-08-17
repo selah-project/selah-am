@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ፊቱን አጽንቶ አቆማል ⟨את⟩ ፊቱን እስኪያፈር ድረስ ተመለከተው፤ የኤሎሂም ሰውም አለቀሰ።",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "አጽንቶ አቆማል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊቱን"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱን"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ተመለከተው"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪያፈር ድረስ"
+    },
+    {
+      "surface": "בש",
+      "gloss": "እስኪያፈር"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "አለቀሰ፤"
+    },
+    {
+      "surface": "איש",
+      "gloss": "የ…ሰው"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-17T07:39:44.715999508Z",
+  "model": "glm-5.3"
+}

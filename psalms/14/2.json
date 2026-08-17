@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ያህዌህ ከሰማያት ወደ ሰው ልጆች ተመለከተ፣ አዋቂ፣ የ⟨את⟩ ኤሎሂምን የሚሻ አለ ወይ ብሎ ለመመልከት።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ከሰማያት"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "ተመለከተ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ (ላይ)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው (አዳም)"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ለመመልከት"
+    },
+    {
+      "surface": "היש",
+      "gloss": "አለ ወይ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "አዋቂ"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "የሚሻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂምን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:31.084823700Z",
+  "model": "glm-5.3"
+}

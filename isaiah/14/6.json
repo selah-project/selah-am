@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "isaiah 14:6",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "በቍጣ ሕዝቦችን የሚወጋ፣ በማትበጠብጥ መታተም፣ በንዴት አሕዛብን የሚገዛ፣ ያለማቆም የሚያሳድድ —",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "የሚወጋ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝቦችን"
+    },
+    {
+      "surface": "בעברה",
+      "gloss": "በቍጣ"
+    },
+    {
+      "surface": "מכת",
+      "gloss": "መታተም"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ያለ"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "ማቆም"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "የሚገዛ"
+    },
+    {
+      "surface": "באף",
+      "gloss": "በንዴት"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "አሕዛብን"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "የሚያሳድድ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ያለ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ማቆም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:04:13.649416811Z",
+  "model": "glm-5.3"
+}

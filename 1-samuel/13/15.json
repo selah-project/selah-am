@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ሳሙኤልም ተነሥቶ ከጌልገል ወደ በንያም ገበዓ ወጣ፤ ሳኦልም ከእርሱ ጋር የተገኙትን ⟨את⟩ ሕዝብ ቈጠረ፤ እንደ ስድስት መቶ ሰው ናቸው።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሥቶ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤልም"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ጌልገል"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "ገበዓ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "የበንያም"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ቈጠረ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦልም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝብ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "የተገኙትን"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "እንደ ስድስት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T15:42:41.011983599Z",
+  "model": "glm-5.3"
+}

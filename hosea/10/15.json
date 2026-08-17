@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "hosea 10:15",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ቤት-ኤል ሆይ፣ ስለ ክፋታችሁ ክፉነት እንደዚህ ያደርግባታል፤ የእስራኤል ንጉሡ በማለዳ ፈጽሞ ይጠፋል።",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ያደርግባታል"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለናንተ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ክፋት"
+    },
+    {
+      "surface": "רעתכם",
+      "gloss": "ክፍናችሁነት"
+    },
+    {
+      "surface": "בשחר",
+      "gloss": "በማለዳ"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "ፈጽሞ"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "ይጠፋል"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:00:00.545098281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "የወገኖች አባትና የመራሮች ዳኛ ነው ኤሎሂም በቅዱስ መኖሪያው።",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "አባት"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "የወገኖች"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "ዳኛ"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "የመራሮች"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "በመኖሪያው"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:34.850899362Z",
+  "model": "glm-5.3"
+}

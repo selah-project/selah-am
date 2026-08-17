@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "joshua 9:8",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ለየሆሱዓም «አገልጋዮችህ እኛ ነን» አሉ፤ የሆሱዓም አላቸው «እናንተ ማን ናችሁ? እና ከየት ትመጣላችሁ?»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "አሉ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሱዓ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "አገልጋዮችህ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "እኛ ነን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "አላቸው"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሱዓ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "እና ከየት"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "ትመጣላችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:02:08.278311078Z",
+  "model": "glm-5.3"
+}

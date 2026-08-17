@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ማን ያውቃል? ኤሎሂም ይመለስና ይጸናነቅ ይሆናል፤ ከቁጭተ ቍጣው ይመለሳል፤ እኛም አንጠፋም።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ያውቃል"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ይመለስ"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "እና ይጸናነቃል"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "እና ይመለሳል"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "ከቁጭተ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ቍጣው"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "ንጠፋም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:09:27.919814241Z",
+  "model": "glm-5.3"
+}

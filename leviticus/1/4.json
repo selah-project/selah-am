@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "leviticus 1:4",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እጁንም የተቃጠለውን ⟨את⟩ መሥዋዕት በራሱ ላይ ይቀምጣል፤ እንዲሰረይለትም በእርሱ ዘንድ ተቀባይነት ያገኛል።",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ይቀምጣል"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "የተቃጠለውን መሥዋዕት"
+    },
+    {
+      "surface": "ונרצה",
+      "gloss": "ተቀባይነት ያገኛል"
+    },
+    {
+      "surface": "לו",
+      "gloss": "በእርሱ ዘንድ"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "እንዲሰረይለት"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:41:49.796339551Z",
+  "model": "glm-5.3"
+}

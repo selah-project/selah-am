@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "2-kings 20:21",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ይጽሐቅ፣ ከአባቶቹ ጋር ተኝቶ ከዚያ ሞሼህ ልጁ በሱ ፋንታ ነገሠ።",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ተኝቶ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ይጽሐቅ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "አባቶቹ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ሞሼህ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "በሱ ፋንታ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:51:28.789048951Z",
+  "model": "glm-5.3"
+}

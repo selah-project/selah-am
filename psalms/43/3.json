@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "ብርሃንህን እና እውነትህን ላክ፤ እነሱ ይመራኛል፣ ወደ ቅዱስ ተራራህ እና ወደ መኖሪያዎችህ ያመጡኛል።",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ላክ"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ብርሃንህን"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "እና እውነትህን"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነሱ"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "ይመራኛል"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "ያመጡኛል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ቅዱስ የሆነህ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "መኖሪያዎችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:29.528581944Z",
+  "model": "glm-5.3"
+}

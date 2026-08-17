@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 82,
+  "translation": "ተነሳ፣ ኤሎሂም፤ ⟨ምድሩን⟩ ፍረድ፤ ምክንያቱም አንተ ከአሕዛብ ሁሉ ታረሳለህ።",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ተነሳ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "ፍረድ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "ታረሳለህ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ከ…ሁሉ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "አሕዛብ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:57:22.574580904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 24:15",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ያህዌህ በእስራኤል ላይ መርጋትን ከጠዋቱ እስከ ተሠራው ጊዜ ላከ፤ ከሕዝቡም ከዳን እስከ ቤር-ሰባ ድረስ ሰባ ሺህ ሰው ሞቱ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "መርጋትን"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "በእስራኤል ላይ"
+    },
+    {
+      "surface": "מהבקר",
+      "gloss": "ከጠዋቱ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "የተሠራው (የተቆለለው)"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞቱ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "ከዳን"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ቤር"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሰባ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ሰባ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    }
+  ],
+  "timestamp": "2026-08-17T07:26:09.082910688Z",
+  "model": "glm-5.3"
+}

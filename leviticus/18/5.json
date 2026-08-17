@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ትእዛዜን ⟨את⟩ እና ፍርዴን ⟨את⟩ ታክቡ፤ ሰው የሚያደርገውን ⟨את⟩ በእነሱም ይኖራል፤ እኔ ያህዌህ ነኝ።",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ታክቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዜን"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ትእዛዜን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ፍርዴን"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ፍርዴን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚያደርገው"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ያደርጋል"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ሰው"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ይኖራል"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "በእነሱ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:53:16.855543323Z",
+  "model": "glm-5.3"
+}

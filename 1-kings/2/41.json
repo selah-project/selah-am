@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 41,
+  "ref": "1-kings 2:41",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ለሰሎሞንም ተነገረ፤ እንደ ሆነ የይሁዳ ሰው ሽሜይ ከየሩሳሌም ጋት ሄዶ ተመልሷል።",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ተነገለልኝ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ለሰሎሞን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ ሆነ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ሄዶ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ሽሜይ"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "ከየሩሳሌም"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ጋት"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተመለሰ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:15:10.375463417Z",
+  "model": "glm-5.3"
+}

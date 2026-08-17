@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 57,
+  "translation": "ተዘጋጅቷል ልቤ፣ ኤሎሂም፤ ተዘጋጅቷል ልቤ፤ እዘምራለሁ እና እዘፍናለሁ።",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ተዘጋጅቷል"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ተዘጋጅቷል"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "እዘምራለሁ"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "እና እዘፍናለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:24.515603986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "መልእክተኛውም ሄደ፣ መጣም፤ ዮአብ ያላከውን ⟨את⟩ ሁሉ ለዳዊት አወራ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "መልእክተኛው"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "አወራ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ያላከው"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:59:41.907359743Z",
+  "model": "glm-5.3"
+}

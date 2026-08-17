@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "deuteronomy 3:2",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ያህዌህም ለእኔ አለ፦ ⟨את⟩ እርሱን አትፍራ፤ በእጅህ እኔ የሰጠሁት ⟨את⟩ እርሱን እና ⟨את⟩ ሕዝቡን ሁሉ እና ⟨את⟩ ምድሩን ነው፤ በሐሼቦን ለሚኖረው ለአሞራውያን ንጉሥ ለሰይሆን እንዳደረግኸው እንዲሁ ታደርገዋለህ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ትፍራ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን (ዐግን)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ክፍት ነው"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "በእጅህ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ሰጠሁ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሩን"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ምድሩ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ታደርገዋለህ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለርሱ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "አደረግኸው"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "ለሰይሆን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "የአሞራውያን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ለሚኖረው"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "በሐሼቦን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:34:38.346658980Z",
+  "model": "glm-5.3"
+}

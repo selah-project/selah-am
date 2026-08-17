@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 88,
+  "translation": "ቍጣህ በእኔ ላይ ተደገፈ፤ ማዕበሎችህንም በሙሉ አሳዘንከኝ። ሴላ።",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "ተደገፈ"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ቍጣህ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና በሙሉ"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "ማዕበሎችህን"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "አሳዘንከኝ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:56.947137402Z",
+  "model": "glm-5.3"
+}

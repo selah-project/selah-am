@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "እና በሣር መካከል እንደሚበቅሉ እንደ ወንዝ ዳርቻዎች ያሉ ግርጌዎች ሆነው ይበቅላሉ።",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "እና ይበቅላሉ"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ሣር"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "እንደ ግርጌዎች"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ዳር"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "የወንዝ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውኃ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:21:54.100485270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "አረጋውያኑ የመከሩትን ⟨את⟩ ምክር ትቶ፣ ከእርሱ ⟨את⟩ ጋር ያደጉት፣ ፊቱ ላይ የቆሙት ልጆችን ⟨את⟩ ጋር ተመካከረ።",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "ትቶም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምክሩን"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ምክር"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "የአረጋውያኑ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "የመከሩት"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "ተመካከረም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጆችን"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ያደጉ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "የቆሙት"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ፊቱ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:25:45.848353467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 9:6",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "የሰኬም አለቆች ሁሉ እና የሚሎ ቤት ሁሉ ተሰበሰቡ፣ ሄዱም አቢሜሌክን ⟨את⟩ ሾሙት ንጉሥ እንዲሆን፣ በሰኬም ባለው ተንጠሣ ዙፋን አጠገብ።",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "ተሰበሰቡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "አለቆች"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ሰኬም"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "ሚሎ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ሄዱም"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "ሾሙት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አቢሜሌክን"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "አቢሜሌክን"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ንጉሥ እንዲሆን"
+    },
+    {
+      "surface": "עם",
+      "gloss": "አጠገብ"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "ተንጠሣ"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "ዙፋን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ባለው"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "በሰኬም"
+    }
+  ],
+  "timestamp": "2026-08-16T15:28:14.169959555Z",
+  "model": "glm-5.3"
+}

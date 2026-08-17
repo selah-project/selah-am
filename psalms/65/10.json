@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 65,
+  "translation": "ምድርን ጎበኘህ እና አጠጣሃት፤ በልግብት አበለጠናት፤ የኤሎሂም በሮ በውሃ ተሞላ፤ የእህላቸውን አዘጋጅሃል፤ እንደዚህ አዘጋጅሃታል።",
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "ጎበኘህ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "እና አጠጣሃት"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "በልግብት"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "አበለጠናት"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "በሮ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ተሞላ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "በውሃ"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "አዘጋጅሃል"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "የእህላቸውን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "አዘጋጅሃታል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:43.772537302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 13:5",
+  "book": "zechariah",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እርሱም ይላል ነቢይ አይደለሁም፤ ምድርን የሚያለማ ሰው ነኝ፤ ምክንያቱም አንድ ሰው ከሕፃንነቴ ጀምሮ ገዛኝ።",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "እርሱም ይላል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለሁም፤"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ነቢይ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ነኝ፤"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "የሚያለማ"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ነኝ፤"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "አንድ ሰው"
+    },
+    {
+      "surface": "הקנני",
+      "gloss": "ገዛኝ"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ከሕፃንነቴ ጀምሮ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:08:03.872019147Z",
+  "model": "glm-5.3"
+}

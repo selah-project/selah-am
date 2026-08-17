@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ግብፃውያን ⟨את⟩ አንቺን ሲያዩ፣ «ይህች ሚስቱ ናት» ይላሉ፤ እኔን ⟨את⟩ ይገድሉኛል፣ ነገር ግን አንቺን ⟨את⟩ ሕይወት ይሰጧታል።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "እና ይሆናል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ያያሉ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "አንቺን"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "ግብፃውያን"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "እና ይላሉ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሚስቱ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህች"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "እና ይገድላሉ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "እኔን"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩",
+      "marks": "አንቺን"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ሕይወት ይሰጣሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:35:21.130715090Z",
+  "model": "glm-5.3"
+}

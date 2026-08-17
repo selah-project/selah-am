@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "ስለዚህ ሐበዛቸው መትወርወር ነው፤ የበደል ልብስ ይሸፍናቸዋል።",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "ሐበዛቸው"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "መትወርወር"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "ይሸፍናቸዋል"
+    },
+    {
+      "surface": "שית",
+      "gloss": "ልብስ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "የበደል"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ላቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:37.439461826Z",
+  "model": "glm-5.3"
+}

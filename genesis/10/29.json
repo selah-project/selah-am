@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.3",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እና ⟨את⟩ ኦፊርን፣ እና ⟨את⟩ ከዊላህን፣ እና ⟨את⟩ ዮባብን፤ እነዚህ ሁሉ የዮቅጣን ወንዶች ናቸው።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ኦፊርን"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "ኦፊርን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ከዊላህን"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "ከዊላህን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዮባብን"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "ዮባብን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ… ወንዶች"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "ዮቅጣን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:23.836050052Z",
+  "model": "glm-5.3"
+}

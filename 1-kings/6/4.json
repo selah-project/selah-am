@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ለቤቱም ዓይን-ደርቆችን የተዘጉ አድርጎ ሠራ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አድርጎ ሠራ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ለቤቱ"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "የዊንዶች"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "ዓይን-ደርቆችን"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "የተዘጉ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:17:28.633005585Z",
+  "model": "glm-5.3"
+}

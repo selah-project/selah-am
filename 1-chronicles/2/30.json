@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የናዳብ ልጆችም ሰለድ እና አፓይም ነበሩ፤ ሰለድ ግን ልጆች ሳይኖሩት ሞተ።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "እና የ…ልጆች"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ናዳብ"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "ሰለድ"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "እና አፓይም"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "እና ሞተ"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "ሰለድ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ልጆች"
+    }
+  ],
+  "timestamp": "2026-08-16T12:32:25.549041779Z",
+  "model": "glm-5.3"
+}

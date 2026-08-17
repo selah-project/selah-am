@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "isaiah 42:13",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "ያህዌህ እንደ ጎበዝ ይወጣል፤ እንደ የውጊያዎች ሰው አድራሽ ያስነሳል፤ ይጮኻል፣ አዎም ይቀምጣል፤ በጠላቶቹ ላይ ይጠናበታል።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "እንደ ጎበዝ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ይወጣል"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "እንደ ሰው"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "የውጊያዎች"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "ያስነሳል"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "አድራሽ"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "ይጮኻል"
+    },
+    {
+      "surface": "אף",
+      "gloss": "አዎም"
+    },
+    {
+      "surface": "יצריח",
+      "gloss": "ይቀምጣል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ጠላቶቹ"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "ይጠናበታል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:21:15.234630302Z",
+  "model": "glm-5.3"
+}

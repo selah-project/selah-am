@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 9:12",
+  "book": "zechariah",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ወደ መከላከያ ተመልሱ፤ እናንተ ተስፋ እሳባት ሆይ እንኳን ዛሬ እኔ ባለ ሁለት እጥፍ እመልስላችኋለሁ ብዬ አስታውቃለሁ።",
+  "tokens": [
+    {
+      "surface": "שובו",
+      "gloss": "ተመልሱ"
+    },
+    {
+      "surface": "לבצרון",
+      "gloss": "ወደ መከላከያ ከተማ"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "ታሳሪዎች እናንተ"
+    },
+    {
+      "surface": "התקוה",
+      "gloss": "የተስፋ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንኳን"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "አስታውቃለሁ"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ባለ ሁለት እጥፍ"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "እመልስላችኋለሁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ላንተ(ላችሁ)"
+    }
+  ],
+  "timestamp": "2026-08-16T18:09:10.968045313Z",
+  "model": "glm-5.3"
+}

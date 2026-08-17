@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እና ይሆናታን ⟨את⟩ ሳኦልን አባቱን መለሰለት፣ እና አለው፦ ለምን ይገደላል? ምን አደረገ?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "እና መለሰ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ይሆናታን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሳኦልን"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይገደላል"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:45:39.149473278Z",
+  "model": "glm-5.3"
+}

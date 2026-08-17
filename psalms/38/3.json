@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "ምክንያቱም ፍንጮችህ በእኔ ተተክለዋል፣ እጅህም በላይዬ አርፎ ተጫኗል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "ፍንጮችህ"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "ተተክለዋል"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በእኔ"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "አርፎ ተጫኗል"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በላይዬ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:07.146981304Z",
+  "model": "glm-5.3"
+}

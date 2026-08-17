@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "judges 8:9",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ደግሞም ለፍኑኤል ሰዎች እንዲህ ብሎ ተናገረ፤ በሰላም ስመለስ ይህን ⟨את⟩ ማንጠር እፈርሳለሁ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ ተናገረ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ደግሞም"
+    },
+    {
+      "surface": "לאנשי",
+      "gloss": "ለ…ሰዎች"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "ፍኑኤል"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    },
+    {
+      "surface": "בשובי",
+      "gloss": "ስመለስ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "በሰላም"
+    },
+    {
+      "surface": "אתץ",
+      "gloss": "እፈርሳለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማንጠሩን"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "ማንጠሩን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:21:24.054425932Z",
+  "model": "glm-5.3"
+}

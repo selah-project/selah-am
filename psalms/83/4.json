@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 83,
+  "translation": "በሕዝብህ ላይ ምክር እያጠቡ ናቸው፤ እና በተሰወሩት ላይ እያመ኱ ናቸው።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ሕዝብህ"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "ምክር እያጠቡ ናቸው"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "ምክር\/ስውር ምክር"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "እና እያመኑ ናቸው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "በተሰወሩት"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:50.719682842Z",
+  "model": "glm-5.3"
+}

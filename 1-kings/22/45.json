@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 45,
+  "ref": "1-kings 22:45",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "የሆሳፍጥ የእስራኤል ንጉሥ ጋር ሰላም አደረገ።",
+  "tokens": [
+    {
+      "surface": "וישלם",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "የሆሳፍጥ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋር"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T06:36:07.453710057Z",
+  "model": "glm-5.3"
+}

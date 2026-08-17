@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እንግዲህ አንተ የተረገምህ ነህ፤ ከምድር፣ አፉን ⟨את⟩ የከፈተችው፣ ከእጅህ የወንድምህን ⟨את⟩ ደም ለመቀበል።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "እንግዲህ"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "የተረገምህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "የከፈተችው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አፉን"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "አፉን"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ለመቀበል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደም"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "የወንድምህን"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ከእጅህ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:07.660153676Z",
+  "model": "glm-5.3"
+}

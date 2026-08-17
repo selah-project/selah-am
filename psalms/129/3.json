@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 129,
+  "translation": "በጀርባዬ ላይ አርሰው አረሱ፤ መስኮቻቸውን አርዘዋል።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "በጀርባዬ"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "አርሰው አረሱ"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "አረሶዎች"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "አርዘዋል"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "መስኮቻቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:41.794651833Z",
+  "model": "glm-5.3"
+}

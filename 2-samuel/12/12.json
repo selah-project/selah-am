@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ምክንያቱም አንተ በስውር አደረግህ፤ እኔ ግን ⟨את⟩ ይህን ሥራ በእስራኤል ሁሉ ፊት እና በፀሐይ ፊት አደርጋለሁ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "አደረግህ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "በስውር"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "አደርጋለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህን ሥራ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "በ...ፊት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "እና በ...ፊት"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ፀሐይ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:59:29.500692730Z",
+  "model": "glm-5.3"
+}

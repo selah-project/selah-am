@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 97,
+  "translation": "ያህዌህ ነገሠ፤ ⟨ምድሩ⟩ ይደሰታል፤ አስር ደሴቶች ይደሰታሉ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ይደሰታል"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩ"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ይደሰታሉ"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ደሴቶች"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "አስር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:07.126545881Z",
+  "model": "glm-5.3"
+}

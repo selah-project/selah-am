@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 37:9",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ስለ ትርሃቃ የኩሽ ንጉሥም ሰማ እንዲህ ይላል፤ ሊዋጋ ⟨את⟩ አንተ ወጥቷል፤ እርሱም ሰምቶ መልክተኞችን ወደ ሕዝቅያስ ላከ እንዲህ ይል።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "תרהקה",
+      "gloss": "ትርሃቃ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ኩሽ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ይላል"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ወጥቷል"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ሊዋጋ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ አንተ",
+      "marks": "ሊዋጋ ⟨את⟩ አንተ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምቶም"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "መልክተኞችን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ሕዝቅያስ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ይል"
+    }
+  ],
+  "timestamp": "2026-08-16T17:01:13.777232844Z",
+  "model": "glm-5.3"
+}

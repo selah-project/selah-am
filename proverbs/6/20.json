@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ልጄ ሆይ፣ የአባትህን ትእዛዝ ጠብቅ፣ እና የእናትህን ትምህርት አትተው፣",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "ጠብቅ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጄ ሆይ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ትእዛዝን"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "የአባትህን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "ተው"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ትምህርትን"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "የእናትህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:22:48.485399361Z",
+  "model": "glm-5.3"
+}

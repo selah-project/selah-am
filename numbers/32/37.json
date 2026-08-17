@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.3",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "የሩበን ልጆች ከሸቦንን ⟨את⟩ እና ኤልዓሌን ⟨את⟩ እና ቂርያታይምን ⟨את⟩ ሠሩ።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ሩበን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ሠሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከሸቦንን"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ከሸቦን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ኤልዓሌን"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "ኤልዓሌ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ቂርያታይምን"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "ቂርያታይም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:28:31.929214116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "አውቤድም ⟨את⟩ ይሁአን ወለደ፤ ይሁአም ⟨את⟩ አዛርያን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "አውቤድም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይሁአን"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ይሁአ"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "ይሁአም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አዛርያን"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "አዛርያ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:33:02.636180722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "የሚፈሩህ ይመስሉኝ እና ደስ ይሰኙ፣ ቃልህን ጠብቄያለሁ ስለዚህ።",
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "የሚፈሩህ"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "ይመስሉኝ"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "እና ደስ ይሰኙ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "ቃልህን"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ጠብቄያለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:22.406102843Z",
+  "model": "glm-5.3"
+}

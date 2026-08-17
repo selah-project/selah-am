@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "በክፉዎች ላይ ወጥመዶችን፣ እሳትንና ድኝን ያዝናል፤ የሚቃጠል ነፋስም የስኳቸው እድል ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "ያዝናል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉዎች"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "ወጥመዶችን"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳትን"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "ድኝንም"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ነፋስም"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "የሚቃጠል"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "እድል"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "የስኳቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:49.934928910Z",
+  "model": "glm-5.3"
+}

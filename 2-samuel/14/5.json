@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ንጉሡም እንዲላት፣ ምን አለህ? እርሷም እንዲትል፣ እውነት ማለት ሴት መበላሸትዋ አነኝ፤ ባሌዬም ሞተ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲል"
+    },
+    {
+      "surface": "לה",
+      "gloss": "እንዲላት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "አለህ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "እንዲትል"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "እውነት ማለት"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "መበላሸትዋ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "አነኝ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "ባሌዬ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:02:09.354519528Z",
+  "model": "glm-5.3"
+}

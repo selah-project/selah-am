@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "እና እመልሳለሁ ⟨את⟩ እስራኤልን እና ⟨את⟩ ይሁዳን ማረጋቸውን እና እገነባቸዋለሁ እንደ መጀመሪያው።",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "እና እመልሳለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማረጋቸውን"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ማረጋቸውን"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ማረጋቸውን"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ማረጋቸውን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "እና እገነባቸዋለሁ"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "እንደ መጀመሪያው"
+    }
+  ],
+  "timestamp": "2026-08-16T08:00:30.160272406Z",
+  "model": "glm-5.3"
+}

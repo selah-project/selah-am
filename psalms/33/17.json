@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ፈርጀት ነው ⟨ה⟩ፈረስ ለመዳን፣ በብዙ ኃይሉም ማንንም አያድንም።",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "ፈርጀት"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "⟨ה⟩ፈረስ"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "ለመዳን"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "በብዙም"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ኃይሉ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ያድናል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:18.983206541Z",
+  "model": "glm-5.3"
+}

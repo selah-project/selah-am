@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 53,
+  "translation": "ከክፉዎች ጋር ⟨את⟩ መቃብሩን ሰጠ፤ በሞቱም ጊዜ ከሀብታም ጋር ⟨את⟩፤ ሥርዓት አልተደረገም — ምክንያቱም ግፍ አልሠራም፣ በአፉም ውስጥ ምንም ሽንገር የለም።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መቃብሩን"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ከክፉዎች"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "መቃብሩን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ከሀብታም ጋር"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ሀብታም"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "በሞቱ ጊዜ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በምክንያት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ግፍ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ሽንገር"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "በአፉ ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:27:48.328512429Z",
+  "model": "glm-5.3"
+}

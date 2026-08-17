@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ሐዳድም ሞተ፤ የኤዶምም አለቆች ሆኑ፤ የቲምና አለቃ፣ የዓልያ አለቃ፣ የየቴት አለቃ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ፤"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ሐዳድም"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ሆኑ፤"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "የ… አለቆች"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶምም"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "አለቃ፣"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "የቲምና"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "አለቃ፣"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "የዓልያ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "አለቃ።"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "የየቴት"
+    }
+  ],
+  "timestamp": "2026-08-16T12:29:42.462349532Z",
+  "model": "glm-5.3"
+}

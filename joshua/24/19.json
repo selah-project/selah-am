@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 24:19",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ያሁሼም ለሕዝቡ አለ፦ ያህዌህን ⟨את⟩ ማገለገል አትችሉም፤ በእውነት ኤሎሂም ቅዱሳን እርሱ ነው፤ ኤልም ብርቱ አሳሳቢ እርሱ ነው፤ መጣሰቃችሁንም ኃጢአታችሁንም አይሰግብም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ያሁሼ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አትችሉም"
+    },
+    {
+      "surface": "תוכלו",
+      "gloss": "ትችላላችሁ"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ማገለገል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ቅዱሳን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ ነው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "קנוא",
+      "gloss": "ብርቱ አሳሳቢ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ ነው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ሰግብም"
+    },
+    {
+      "surface": "לפשעכם",
+      "gloss": "መጣሰቃችሁን"
+    },
+    {
+      "surface": "ולחטאותיכם",
+      "gloss": "ኃጢአታችሁንም"
+    }
+  ],
+  "timestamp": "2026-08-16T15:27:49.655358508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እንገሩ ጻድቁን፤ በልታለት፤ ምክንያቱም የሥራዎቻቸውን ፍሬ ይበላሉ።",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "እንገሩ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቁን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በልታለት"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጥሩ ነው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ፍሬ"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "የሥራዎቻቸውን"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ይበላሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:57:25.818253173Z",
+  "model": "glm-5.3"
+}

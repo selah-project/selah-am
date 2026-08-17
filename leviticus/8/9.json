@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "leviticus 8:9",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እንደ አሸረው በራሱ ላይ አደረገው፤ እንዲሁም በአሸረው ላይ፣ በፊቱ ፊት ለፊት፣ ⟨את⟩ የወርቅ ሰሌዳውን — የቅዱስ ነጉድ — አደረገ፤ እንደ ያህዌህ በሞሼ ላይ ትእዛዝ እንዳዘዘው።",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "አደረገው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አሸረውን"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "አሸረውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ራሱ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "አሸረው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ለፊት"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የወርቅ ሰሌዳውን"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "ሰሌዳውን"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "የወርቅ"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "የተለየ ነጉድ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "የቅዱስ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዘው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በሞሼ ላይ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:47:03.121542666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 102,
+  "translation": "ሙሉን ቀን ጠሎቼ አፍረውብኝ ነበር፤ ያመጹኝ ደግሞ በእኔ መሐላ አደረጉ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሙሉን"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "አፍረውብኝ"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ጠሎቼ"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "ያመጹኝ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በእኔ"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "መሐላ አደረጉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:14.960072870Z",
+  "model": "glm-5.3"
+}

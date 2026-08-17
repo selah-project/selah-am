@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 7:10",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የእሳት ወንዝ ወጥቶ ከፊቱ ይፈሳል፤ ሺህ ሺሆች ያገለግሉታል፣ እና አሥር ሺህ አሥር ሺሆች በፊቱ ይቆማሉ፤ ፍርድ ተቀመጠ፣ እና መጻሕፍትም ተከፈቱ።",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "ወንዝ"
+    },
+    {
+      "surface": "די",
+      "gloss": "የ"
+    },
+    {
+      "surface": "נור",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ይፈሳል"
+    },
+    {
+      "surface": "ונפק",
+      "gloss": "እና ወጥቶ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "ፊቱ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሺሆች"
+    },
+    {
+      "surface": "ישמשונה",
+      "gloss": "ያገለግሉታል"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "እና አሥር ሺህ"
+    },
+    {
+      "surface": "רבון",
+      "gloss": "አሥር ሺሆች"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "በፊቱ"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "ይቆማሉ"
+    },
+    {
+      "surface": "דינא",
+      "gloss": "ፍርድ"
+    },
+    {
+      "surface": "יתב",
+      "gloss": "ተቀመጠ"
+    },
+    {
+      "surface": "וספרין",
+      "gloss": "እና መጻሕፍት"
+    },
+    {
+      "surface": "פתיחו",
+      "gloss": "ተከፈቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:37:44.605309781Z",
+  "model": "glm-5.3"
+}

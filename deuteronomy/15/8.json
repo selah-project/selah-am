@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ክፍት በኩል እጅህን ⟨את⟩ ለእርሱ ታድርገዋለህ፣ በደረሰው ማንነት ያለውን ውል ብድር ታበድረዋለህ፤ እጅግ እጥፋቱን የሚጎድለውን ወደ እርሱ ታበድረዋለህ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ከውጭ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ክፍት"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ታድርገዋለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጅህን"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "በደረሰው ማንነት ብድር ታበድረዋለህ"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "ታበድረዋለህ"
+    },
+    {
+      "surface": "די",
+      "gloss": "እጅግ"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "እጥፋቱን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚጎድለውን"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ይጎድለዋል"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:19:01.179558252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 74,
+  "translation": "ቀን የአንተ ነው፤ እንደዚሁም ሌሊት የአንተ ነው፤ አንተ ብርሃንንና ፀሐይን አዘጋጅህ።",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "የአንተ ነው"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እንደዚሁም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "የአንተ ነው"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ሌሊት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "አዘጋጅህ"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "ብርሃንን"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "እና ፀሐይን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:40.778344997Z",
+  "model": "glm-5.3"
+}

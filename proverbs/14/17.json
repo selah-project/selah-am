@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "proverbs 14:17",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "የንዴት አጭር ሰው ሞኝነትን ያደርጋል፤ እና የክፋት ሴራ ሰው ይጸየፋል።",
+  "tokens": [
+    {
+      "surface": "קצר",
+      "gloss": "አጭር"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "የንዴት"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ያደርጋል"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ሞኝነትን"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "እና ሰው"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "የክፋት ሴራ"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ይጸየፋል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:27:31.281199079Z",
+  "model": "glm-5.3"
+}

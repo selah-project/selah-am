@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "ruth 3:10",
+  "book": "ruth",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እርሱም «ልጄ ሆይ፣ አንቺ በያህዌህ የተባረክሽ ነሽ፤ በኋላው ሞገስሽ ከመጀመሪያው ይበልጣል፤ ወጣቶችን ወደ ኋላ እንዳትሄድ፣ ቢደለንም ወይም ባለ ጸጋም ሆኖ።» አለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "ברוכה",
+      "gloss": "የተባረክሽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "አንቺ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "በያህዌህ"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ልጄ ሆይ"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "አሳደርሽ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ሞገስሽን"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "የኋላው"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "መጀመሪያው"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "እንዳት"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "ሄድሽ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ወደ ኋላ"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "ወጣቶችን"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ቢደለንም"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ድሃ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ባለ ጸጋ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:06:27.839216885Z",
+  "model": "glm-5.3"
+}

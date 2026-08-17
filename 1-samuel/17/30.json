@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "1-samuel 17:30",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ከእርሱም ተመልሶ ወደ ሌላው ፊት እንደ ዚህ ቃል ተናገረ፤ ሕዝቡም እንደ መጀመሪያው ቃል መልስ ሰጡት።",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ተመልሶ"
+    },
+    {
+      "surface": "מאצלו",
+      "gloss": "ከእርሱም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ፊት ለፊት"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ሌላው"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "እንደ ቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "וישבהו",
+      "gloss": "መልስ ሰጡት"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "እንደ ቃል"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "መጀመሪያው"
+    }
+  ],
+  "timestamp": "2026-08-16T05:42:47.459456974Z",
+  "model": "glm-5.3"
+}

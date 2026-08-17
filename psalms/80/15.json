@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 80,
+  "translation": "የሰራዊት ኤሎሂም፣ እባክህ ተመለስ፤ ከሰማይ ተመልከት፣ እና ተመልከት፣ እና ይህችን የወይን ግንድ ተጎብኘት።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "የሰራዊት"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ተመለስ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "ተመልከት"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ከሰማይ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "እና ተመልከት"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "እና ተጎብኘት"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "የወይን ግንድ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህችን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:45.303229191Z",
+  "model": "glm-5.3"
+}

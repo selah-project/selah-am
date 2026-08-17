@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 103,
+  "translation": "እንደ አባት በልጆች ላይ ማምረር፣ ያህዌህ በሚፈሩት ላይ ያምራል።",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "እንደ ማምረር"
+    },
+    {
+      "surface": "אב",
+      "gloss": "አባት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ያምራል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ሚፈሩት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:35.287454405Z",
+  "model": "glm-5.3"
+}

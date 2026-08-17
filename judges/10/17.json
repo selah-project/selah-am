@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "judges 10:17",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የዐሞን ልጆችም ተጣሩ በጌልዕዳውም ሰፈሩ፤ የእስራኤል ልጆችም ተሰበሰቡ በሚጽፋም ሰፈሩ።",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "ተጣሩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ዐሞን"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ሰፈሩ"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "በጌልዕዳ"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ተሰበሰቡ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ሰፈሩ"
+    },
+    {
+      "surface": "במצפה",
+      "gloss": "በሚጽፋ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:22:45.669360865Z",
+  "model": "glm-5.3"
+}

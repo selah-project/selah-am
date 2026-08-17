@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "1-kings 18:14",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "እና አሁን አንተ ትላለህ ሂህ ለጌታህ ንገር እነሆ ኤልያስ አለ እና ይገድለኛል።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "እና አሁን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ትላለህ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ሂህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ንገር"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "ለጌታህ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያስ"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "እና ይገድለኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T06:31:14.210519985Z",
+  "model": "glm-5.3"
+}

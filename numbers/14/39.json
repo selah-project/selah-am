@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 39,
+  "ref": "numbers 14:39",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ሞሼም እነዚህን ቃላት ⟨את⟩ ለእስራኤል ልጆች ሁሉ ተናገረ፤ ሕዝቡም በጣም አዘነ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እነዚህን ቃላት"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላትን"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "አዘኑ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡም"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:14:52.759027841Z",
+  "model": "glm-5.3"
+}

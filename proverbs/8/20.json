@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "በጽድቅ መንገድ እንቀላጫለሁ፤ በፍርድ መንገዶች መካከል።",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "በ…መንገድ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ጽድቅ"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "እንቀላጫለሁ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በ…መካከል"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "መንገዶች"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:24:48.864211680Z",
+  "model": "glm-5.3"
+}

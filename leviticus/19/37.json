@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ሁሉንም የመሥርቆቼን እና ⟨את⟩ ሁሉንም የፍርዶቼን ታንቀሳቅሱ፣ ⟨את⟩ እነሱንም ታደርጋላችሁ፤ እኔ ያህዌህ ነኝ።",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ታንቀሳቅሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉንም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉንም"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "የመሥርቆቼን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉንም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉንም"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "የፍርዶቼን"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ታደርጋላችሁ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ እነሱንም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:55:44.041739829Z",
+  "model": "glm-5.3"
+}

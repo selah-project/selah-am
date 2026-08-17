@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ጠላት ነፍሴን ይከተል፣ ያድን፤ ሕይወቴን ለምድር ይረግጥ፤ ክብርም በአፈር ያድር። ሰላህ።",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "ይከተል"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ጠላት"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "እና ያድን"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "እና ይረግጥ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ለምድር"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ሕይወቴን"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "እና ክብርም"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "በአፈር"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ያድር"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:29:16.161682492Z",
+  "model": "glm-5.3"
+}

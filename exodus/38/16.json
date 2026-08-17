@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "በአደባባዩ ዙሪያ ያሉ መጋረጃዎች ሁሉ የተሸተተ በፍታ ⟨ነበሩ⟩።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "መጋረጃዎች የ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "አደባባዩ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ዙሪያ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "በፍታ"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "የተሸተተ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:37:59.058841977Z",
+  "model": "glm-5.3"
+}

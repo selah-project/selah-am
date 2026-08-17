@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "isaiah 51:15",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "እኔ እኔ ግን ያህዌህ ኤሎሂም አንተ ነኝ፤ ባሕሩን የሚያናውጥ፣ ማዕበሎቹም የሚያገዙ ያህዌህ ጽባዖት ስም ነው።",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "እኔ እኔ ግን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂም አንተ"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "የሚያናውጥ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሩን"
+    },
+    {
+      "surface": "ויהמו",
+      "gloss": "ማዕበሎቹም የሚያገዙ"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "ማዕበሎቹም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጽባዖት"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስም ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T07:27:58.593578220Z",
+  "model": "glm-5.3"
+}

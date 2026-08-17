@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እና ⟨את⟩ ቄደሞትን እና ⟨את⟩ መግራሾችዋን፣ ⟨את⟩ ሜፋዓትን እና ⟨את⟩ መግራሾችዋን ሰጡ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቄደሞት"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "ቄደሞት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መግራሾችዋ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "መግራሾችዋ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሜፋዓት"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "ሜፋዓት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መግራሾችዋ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "መግራሾችዋ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:42:59.055835161Z",
+  "model": "glm-5.3"
+}

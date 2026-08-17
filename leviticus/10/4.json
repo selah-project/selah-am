@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "leviticus 10:4",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ሞሼም የአሃሮን አጎት የዑዝኤልን ልጆች ሚሻኤልንና ኤልጸፋንን ጠራ፤ እነሱንም እንዲህ አላቸው፦ ቁሩ፤ የቅድስናውን ፊት ⟨את⟩ ከሰፈሩ ወደ ውጭ ⟨את⟩ ወንድሞቻችሁን ተሸክማችሁ ውሰዷቸው።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "ሚሻኤልን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "אלצפן",
+      "gloss": "ኤልጸፋንን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ዑዝኤል"
+    },
+    {
+      "surface": "דד",
+      "gloss": "አጎት"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አላቸው"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ለእነርሱ"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ቁሩ"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "ተሸክማችሁ ውሰዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንድሞቻችሕን"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ወንድሞቻችሕን"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ከ",
+      "marks": "የቅድስናው ፊት"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "የቅድስናው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ውጭ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ሰፈሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:49:51.870204311Z",
+  "model": "glm-5.3"
+}

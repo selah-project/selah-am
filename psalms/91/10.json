@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 91,
+  "translation": "ክፉ ነገር አይደርስም ወደ አንተ፤ መቅሠፍትም በድንኳንህ አይቀርብም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይደርስም"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "አይደርስም ወደ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ ነገር"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "መቅሠፍትም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይቀርብም"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "አይቀርብም"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "በድንኳንህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:16.124984301Z",
+  "model": "glm-5.3"
+}

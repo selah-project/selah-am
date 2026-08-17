@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "በምድርህ እለፋለሁ፤ በመንገድ በመንገድ እሄዳለሁ፤ ወደ ቀኝም ወደ ግራም አልመራም።",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "እለፋለሁ"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "በምድርህ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "እሄዳለሁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "አመራም"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ወደ ቀኝ"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "እና ወደ ግራ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:32:56.205539875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ከማንኛውም እንስሳ ጋር የሚተኛ የተረገመ ነው፤ ሕዝቡም ሁሉ አሜን ይላል።",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "የተረገመ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "የሚተኛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ማንኛውም"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "እንስሳ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ይላል፤"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡም"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "አሜን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:51:27.783384671Z",
+  "model": "glm-5.3"
+}

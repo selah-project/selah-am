@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ኤሎሂምም ⟨את⟩ ጩኸታቸውን ሰማ፤ ኤሎሂምም ⟨את⟩ ኪዳቱን — ⟨את⟩ አብርሃምን፣ ⟨את⟩ ይጽሐቅን እና ⟨את⟩ ያዕቆብን — አስታወሰ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጩኸታቸውን"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "ጩኸታቸውን"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "አስታወሰ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኪዳቱን"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ኪዳቱን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አብርሃምን"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃምን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይጽሐቅን"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይጽሐቅን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ያዕቆብን"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:07:11.263996934Z",
+  "model": "glm-5.3"
+}

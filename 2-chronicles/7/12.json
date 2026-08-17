@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "2-chronicles 7:12",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ያህዌህም በሌሊት ለሰሎሞን ተገለጠ፤ እንዲህም አለው። መጸለይህን ⟨את⟩ ሰማሁ፤ ይህንም ቦታ ራሴ ለመሥዋዕት ቤት ሆኖ መረጥኩ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ተገለጠም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "በሌሊት"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለውም"
+    },
+    {
+      "surface": "לו",
+      "gloss": "እሱን"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ሰማሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መጸለይህን"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "መጸለይህን"
+    },
+    {
+      "surface": "ובחרתי",
+      "gloss": "መረጥኩም"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ራሴ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ለ… ቤት"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "መሥዋዕት"
+    }
+  ],
+  "timestamp": "2026-08-16T13:36:02.490833234Z",
+  "model": "glm-5.3"
+}

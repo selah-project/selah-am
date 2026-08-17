@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እና አንድ ሰው መኝቱን በእንስሳ ላይ የሚሰጥ በእርግጥ ይገደላል፤ እናንተም ⟨את⟩ ⟨እንስሳውን⟩ ትገድላታላችሁ።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "እና አንድ ሰው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "የሚሰጥ"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "መኝቱን"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "በእንስሳ ላይ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "በእርግጥ ሞት"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይገደላል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "እንስሳውን"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "እንስሳው"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "ትገድላታላችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:58:23.006018173Z",
+  "model": "glm-5.3"
+}

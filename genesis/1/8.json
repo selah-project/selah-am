@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ኤሎሂምም የሰማይ ወለሉን ሰማይት ብሎ ጠራው፤ መሸሸግም ሆነ፤ ንጋትም ሆነ፤ ሁለተኛው ቀን ደግሞ ⟨ይህ⟩ ነው።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "የሰማይ ወለሉን"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማይት"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነም"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "መሸሸግ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነም"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ንጋት"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለተኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:28:21.820695016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ያህዌህ ብቻውን መራው፤ ከእርሱ ጋር የነፍሰ ገዥ አምላክ አልነበረም።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "ብቻውን"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "መራው"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አምላክ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "የነፍሰ ገዥ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:55:43.034014563Z",
+  "model": "glm-5.3"
+}

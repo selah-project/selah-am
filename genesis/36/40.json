@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 40,
+  "ref": "genesis 36:40",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "እነዚህም በስማቸው፣ በስፍላቸው፣ በቤተሰቦቻቸው መሠረት የዔሳው አለቆች ስም ናቸው፤ አለቅ ቲምና፣ አለቅ ዓልዋህ፣ አለቅ የቴት።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እነዚህም"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "የ… አለቆች"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዔሳው"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "በቤተሰቦቻቸው መሠረት"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "በስፍላቸው"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "በስማቸው"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "አለቅ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ቲምና"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "አለቅ"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "ዓልዋህ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "አለቅ"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "የቴት"
+    }
+  ],
+  "timestamp": "2026-08-16T02:53:25.369282233Z",
+  "model": "glm-5.3"
+}

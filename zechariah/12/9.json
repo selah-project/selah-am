@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "zechariah 12:9",
+  "book": "zechariah",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "በዚያው ቀን ይሆናል፤ በይሩሳሌም ላይ የሚመጡትን ⟨את⟩ ሕዝቦች ሁሉ ለማጥፋት እፈልጋለሁ።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ይሆናል፤"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በዚያው ቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እንደዚያው"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "እፈልጋለሁ"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "ለማጥፋት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቦች ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "የሕዝቦች"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "የሚመጡት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ይሩሳሌም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:25:49.386149542Z",
+  "model": "glm-5.3"
+}

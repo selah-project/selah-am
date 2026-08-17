@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ኤልዓዛር ጵንሐስን ⟨את⟩ ወለደ፤ ጵንሐስም አቢሹዋን ⟨את⟩ ወለደ።",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "ኤልዓዛር"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጵንሐስን"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ጵንሐስ"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ጵንሐስም"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አቢሹዋን"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "አቢሹዋ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:38:48.519169700Z",
+  "model": "glm-5.3"
+}

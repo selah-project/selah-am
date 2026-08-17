@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "በእኛ አንገት ላይ ተጨብጠን፤ ደከምን፤ ዕረፍት አልተሰጠንም።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "አንገታችን"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "ተጨብጠን"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "ደከምን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "ዕረፍት ተሰጠ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:12:37.801753013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 99,
+  "translation": "ያህዌህ ኤሎሂማችንን አስደምቁ፤ በቅድሱ ተራራ ላይ ስገዱ፤ ቅዱስ ነውና ያህዌህ ኤሎሂማችን።",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "አስደምቁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂማችንን"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "ስገዱ"
+    },
+    {
+      "surface": "להר",
+      "gloss": "በተራራ ላይ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "በቅድሱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነውና"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂማችን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:29.146531749Z",
+  "model": "glm-5.3"
+}

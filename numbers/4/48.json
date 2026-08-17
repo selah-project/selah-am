@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የተቆጠሩትም ስምንት ሺህ አምስት መቶ ሰማንያ ሆኑ።",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ሆኑ"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "የተቆጠሩት"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "ስምንት"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ሰማንያ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:07:08.648306933Z",
+  "model": "glm-5.3"
+}

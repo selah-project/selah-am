@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "በሥቃይ ሰው አልናቸውም፤ ከሰው ዘንድም አይነኩም።",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "በሥቃይ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "አልናቸውም"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ከ… ጋርም"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "ይነኩም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:37.438802848Z",
+  "model": "glm-5.3"
+}

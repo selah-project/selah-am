@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "1-kings 9:20",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ሕዝቡ ሁሉ የቀረው ከአሞራውያን፣ ከኬጢያውያን፣ ከፕሪዛውያን፣ ከኬውያን እና ከይቡሳውያን — እነርሱ ከእስራኤል ልጆች ያልነበሩት።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "የቀረው"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "አሞራውያን"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ኬጢያውያን"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "ፕሪዛውያን"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ኬውያን"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "እና ይቡሳውያን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያልነበሩት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ከልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:21:55.753505168Z",
+  "model": "glm-5.3"
+}

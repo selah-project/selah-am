@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እና በምሰሶው ውስጥ የሚበሰል ቢሆን በቅርቡም መባ ስታቀርብ፣ በዘይት የተደበደበ ዱቄት ማጥረት ይሠራል።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እና ቢሆን"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "በቅርቡም መባ"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "ምሰሶው ውስጥ"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "በቅርቡም መባህ ስታቀርብ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ማጥረት ዱቄት"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "በዘይት"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ይሠራል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:41:23.366107892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የይሁዳ ልጆች በየሩሻላይም ዋገኑ፤ ያዙአትም ⟨את⟩፤ በሰይፍ አፍ መቷት፤ ከተሩንም ⟨את⟩ በእሳት ላኩ።",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "ዋገኑ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "የይሁዳ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "በየሩሻላይም"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ያዙ"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "እርሷን (የሩሻላይምን)"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "መቷት"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "አፍ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ከተሩን"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተር"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ላኩ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:13:13.587729343Z",
+  "model": "glm-5.3"
+}

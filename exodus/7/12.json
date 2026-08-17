@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እያንዳንዱ በትሩን ጣለ፤ እነሱም ወደ ትላላቅ እባቦች ሆኑ፤ የአሃሮን በትር ግን ⟨את⟩ በትሮቻቸውን ዋጠ።",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "ጣለ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "በትሩን"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ሆኑ"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "ወደ ትላላቅ እባቦች"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "ዋጠ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "በትር"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "የአሃሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በትሮቻቸውን"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "በትሮቻቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:08:04.184314556Z",
+  "model": "glm-5.3"
+}

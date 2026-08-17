@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "genesis 44:13",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "ልብሳቸውንም ቈረጡ፤ እያንዳንዱ ሰው በአህያው ላይ ጭኖ ወደ ⟨ት⟩ከተሉ ተመለሱ።",
+  "tokens": [
+    {
+      "surface": "ויקרעו",
+      "gloss": "ቈረጡ"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "ልብሳቸውን"
+    },
+    {
+      "surface": "ויעמס",
+      "gloss": "ጭኖ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "በአህያው"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ተመለሱ"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "ወደ ከተሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:00:57.007003647Z",
+  "model": "glm-5.3"
+}

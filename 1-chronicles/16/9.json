@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ለእርሱ ዘምሩ፤ ለእርሱ በመለከት ዘምሩ፤ በሁሉም ድንቆቹ ላይ አስቡ።",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ዘምሩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "በመለከት ዘምሩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "አስቡ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉም"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "ድንቆቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:53:50.120996899Z",
+  "model": "glm-5.3"
+}

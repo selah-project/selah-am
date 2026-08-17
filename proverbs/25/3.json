@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ሰማያት ለከፍታ፣ ምድርም ለጥልቀት፤ የነገሥታትም ልብ የማይመረመር ነው።",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "ለከፍታ"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ምድርም"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "ለጥልቀት"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ልብም"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "የነገሥታት"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "መረመር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:34:40.548323263Z",
+  "model": "glm-5.3"
+}

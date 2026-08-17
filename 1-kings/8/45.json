@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "በሰማይ ታዳምጣለህ ⟨את⟩ ጸሎታቸውን እና ⟨את⟩ ልመናቸውን፤ ፍርዳቸውንም ታደርጋለህ።",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ታዳምጣለህ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "በሰማይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጸሎታቸውን"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ጸሎታቸውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ልመናቸውን"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ልመናቸውን"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ፍርዳቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T16:23:28.737122966Z",
+  "model": "glm-5.3"
+}

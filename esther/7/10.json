@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ሐማንንም ⟨את⟩ በዛፉ ላይ እርሱም ለሞርደቃይ ያዘጋጀው አንጠሉት፤ የንጉሡም ቍጣ ተረጋጋ።",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "አንጠሉትም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሐማንን"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሐማን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ዛፉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያዘጋጀው"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ያዘጋጀ"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "ለሞርደቃይ"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "ቍጣውም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "ተረጋጋ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:21:46.226673194Z",
+  "model": "glm-5.3"
+}

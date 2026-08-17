@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ምክንያቱም ሥራውን ለሚሠሩት ይሰጡት ነበር፤ በእርሱም የያህዌህን ቤት ⟨את⟩ ያጠናክሩ ነበር።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "ለሚሠሩት"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ሥራውን"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "ይሰጡት ነበር"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "ያጠናክሩ ነበር"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:45:51.410246712Z",
+  "model": "glm-5.3"
+}

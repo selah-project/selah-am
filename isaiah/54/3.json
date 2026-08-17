@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 54,
+  "translation": "እንደ ቀኝ እንደ ግራ ትሰፋለሽ፤ ዘርሽም አሕዛብን ይወርሳል የጠፉትንም ከተሞች ያስነግዳሉ ሰው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ቀኝ"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ግራ"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "ትሰፋለሽ"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "ዘርሽም"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "አሕዛብን"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "ይወርሳል"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "ከተሞችም"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "የጠፉትን"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "ያስነግዳሉ ሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T07:28:40.845135265Z",
+  "model": "glm-5.3"
+}

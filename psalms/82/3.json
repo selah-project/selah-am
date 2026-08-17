@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 82,
+  "translation": "ድሆችን እና ያልና ውለቶችን ፈርዱ፤ ለራቁና ለድሆች ጽድቅ አድርጉ።",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "ፈርዱ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ድሆችን"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "እና ያልና ውለቶችን"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ለራቁ"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "እና ለድሆች"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "ጽድቅ አድርጉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:53.809012329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ከሁሉም ክፉ መንገድ እግሮቼን ገድቤያለሁ፤ የአንተን ቃል እጠብቅ ዘንድ።",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉም"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "ገድቤያለሁ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "እግሮቼን"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ዘንድ"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "እጠብቅ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "የአንተን ቃል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:40.019773005Z",
+  "model": "glm-5.3"
+}

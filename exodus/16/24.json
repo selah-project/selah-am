@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "እነርሱም እንደ አዘዘ ሞሼ ⟨אתו⟩ እስከ ነጋዴ አስቀመጡት፤ አልበሳበሰም፣ ትልም አልነበረበትም።",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "አስቀመጡት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እሱን (ማንን)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ነጋዴ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አልበሳበሰም"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "አልበሳበሰም"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "ትልም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አልነበረበትም"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነበረች"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእሱ ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:18:32.947256646Z",
+  "model": "glm-5.3"
+}

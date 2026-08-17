@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ዓይኖቼ ለቃልህ እየጠበቁ ፈጠሩ፤ «መቼ ታጽናኑኛለህ?» ሲሉ።",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "ፈጠሩ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኖቼ"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "ለቃልህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ሲሉ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "መቼ"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "ታጽናኑኛለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:42.346548192Z",
+  "model": "glm-5.3"
+}

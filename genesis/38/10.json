@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "በያህዌህ ፊት ያደረገው ክፉ ሆነ፤ እርሱም ⟨את⟩ እንዲሁ ገደለው።",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ክፉ ሆነ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "በዓይኖች ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያደረገው"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ገደለውም"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን (ኦናንን)"
+    }
+  ],
+  "timestamp": "2026-08-16T02:56:47.770336961Z",
+  "model": "glm-5.3"
+}

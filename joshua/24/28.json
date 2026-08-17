@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "የሱስዩም ⟨את⟩ ሕዝቡን እያንዳንዱን ሰው ወደ ርስቱ ላከ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሱስዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱን ሰው"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "ወደ ርስቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:26:47.042595768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 81,
+  "translation": "ከጭነት ትከሻውን አንሶለሁ፤ እጆቹም ከቅርጫት ያልፋሉ።",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "አንሶለሁ"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "ከጭነት"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ትከሻውን"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "እጆቹም"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "ከቅርጫት"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "ያልፋሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:57:14.356409971Z",
+  "model": "glm-5.3"
+}

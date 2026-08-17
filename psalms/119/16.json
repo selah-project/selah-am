@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "በአንተ ጽኑኮች እደሰታለሁ፤ የአንተን ቃል አልረሳውም።",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "በአንተ ጽኑኮች"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "እደሰብበታለሁ፣ እተማራቸዋለሁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል፣ መተላለፊያ"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "አልረሳውም"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "የአንተን ቃል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:04.526842056Z",
+  "model": "glm-5.3"
+}

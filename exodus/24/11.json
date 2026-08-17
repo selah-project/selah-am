@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "የይስራኤል ልጆች አማልተኞች ላይ እጁን አልላከም፤ እነርሱም ⟨את⟩ ኤሎሂምን አዩ፣ በሉም ጠጡም።",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "አማልተኞች"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "አዩም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂምን"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "በሉም"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ጠጡም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:22:44.005415949Z",
+  "model": "glm-5.3"
+}

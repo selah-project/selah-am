@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 23:21",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ንጉሡም ሕዝቡን በሙሉ ⟨את⟩ እንዲህ ሲል አዘዘ፦ ለያህዌህ ለኤሎሂም ለእናንተ ፋሲካ አድርጉ፣ በዚህ በቃል ኪዳን መጽሐፍ ላይ እንደ ተጻፈው።",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን በሙሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "አድርጉ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ፋሲካ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ለኤሎሂም ለእናንተ"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "እንደ ተጻፈው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "መጽሐፍ"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "የቃል ኪዳን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:52:42.160970588Z",
+  "model": "glm-5.3"
+}

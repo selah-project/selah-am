@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 52,
+  "translation": "ኤልም ለዘላለም ያፈርስሃል፤ ያነሳሃል፤ ከድንኳንህም ያወጣሃል፤ ስርህንም ከሕያዋን ምድር ያለቅላል። ሴላ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "ያፈርስሃል"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "ያነሳሃል"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "እና ያወጣሃል"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "ከድንኳን"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "ስርህንም"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከምድር"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ሕያዋን"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:40.264766741Z",
+  "model": "glm-5.3"
+}

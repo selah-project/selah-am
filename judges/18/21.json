@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ተመለሱና ሄዱ፤ ሕፃናቱን ⟨את⟩ እና ከብቱን ⟨את⟩ እና ክብረ ቁጠባውን ⟨את⟩ በፊታቸው አስቀመጡ።",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "ተመለሱና"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ሄዱ"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "አስቀመጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕፃናቱን"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "ሕፃናቱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ከብቱን"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "ከብቱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ክብረ ቁጠባውን"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "ክብረ ቁጠባውን"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "በፊታቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T05:29:05.075679314Z",
+  "model": "glm-5.3"
+}

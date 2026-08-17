@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "proverbs 1:19",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የበደል ትርፍ የሚበዝገድ ሁሉ መንገዶች እንዲሁ ናቸው፤ ⟨את⟩ ነፍስ ባለቤቱን ይወስዳል።",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "እንዲሁ"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "መንገዶች"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "የሚበዝገድ"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "የበደል ትርፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍስ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ባለቤቱን"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ይወስዳል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:20:03.943035501Z",
+  "model": "glm-5.3"
+}

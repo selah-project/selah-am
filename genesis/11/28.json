@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሐራንም በአባቱ በቴራሕ ፊት ሞተ፤ በራሱ የተወለደበት ምድር፣ በከሰዳውያን ኡር።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተም"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "ሐራን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ፊት"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ቴራሕ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በ… ምድር"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "የተወለደበት"
+    },
+    {
+      "surface": "באור",
+      "gloss": "በ… ኡር"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ከሰዳውያን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:55.001913489Z",
+  "model": "glm-5.3"
+}

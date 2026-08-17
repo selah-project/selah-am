@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ወደ ሰማርያም ገብቶ በሰማርያ ለአክአብ የቀሩትን ሁሉ ⟨את⟩ መታቸው፣ እስከ ማጥፋቱ ድረስ፣ በያህዌህ ቃል ልክ እንደ ሆነ ወደ ኤልይያሁ ያነገረው ነው።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ገብቶ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ወደ ሰማርያ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "መታቸው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የቀሩትን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "የቀሩትን"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "ለአክአብ"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "በሰማርያ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "ማጥፋቱ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "በቃል ልክ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ያነገረው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልይያሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:43:50.879887377Z",
+  "model": "glm-5.3"
+}

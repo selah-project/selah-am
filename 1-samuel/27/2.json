@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ዳዊትም ተነሥቶ እርሱና ከእርሱ ጋር የነበሩ ስድስት መቶ ሰዎች ወደ ጋት ንጉሥ የሞአክ ልጅ አኪስ ዘምተው ሄዱ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "እና ተነሠተ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "እና ዘመተ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "እና ስድስት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የነበሩ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "አኪስ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "የሞአክ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ጋት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:52:08.723815277Z",
+  "model": "glm-5.3"
+}

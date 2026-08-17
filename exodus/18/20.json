@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "አንተም እነሱን ⟨את⟩ ትእዛዞችን እና ⟨את⟩ ሕጎችን አስጠንቅቀህ እነሱን ⟨את⟩ የሚሄዱበትን መንገድ እና ⟨את⟩ የሚሠሩትን ሥራ አሳየው።",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "አስጠንቅቀህ"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ እነሱን",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዞችን"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ትእዛዞችን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሕጎችን"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "ሕጎችን"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "አሳየህ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "እነሱን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንገድን"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "መንገድን"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "የሚሄዱበትን"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእሷ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሥራን"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ሥራን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚሠሩትን"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "የሚሠሩት"
+    }
+  ],
+  "timestamp": "2026-08-16T14:44:40.099624683Z",
+  "model": "glm-5.3"
+}

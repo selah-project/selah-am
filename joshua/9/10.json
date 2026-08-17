@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 9:10",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እንዲሁም ⟨את⟩ ሁሉን ለአሞራውያን ሁለት ነገሥታት በዮርዳን ማዶ ላሉት አደረገ፤ ለሲሆን የሕሶን ንጉሥ፣ ለዐጎምም የባሳን ንጉሥ በዓስታሮት ላለው።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያደረገውን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ለሁለት"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ነገሥታት"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "የአሞራውያን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ላሉት"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "በማዶ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳን"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "ለሲሆን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ሕሶን"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "ለዐጎምም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ባሳን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ላለው"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "በዓስታሮት"
+    }
+  ],
+  "timestamp": "2026-08-16T15:21:38.501486383Z",
+  "model": "glm-5.3"
+}

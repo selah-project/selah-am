@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "እና ⟨את⟩ የመቀባት ዘይቱን ታንሳለህ፤ በራሱ ላይም ታፈስሰዋለህ፤ እና ታቀብሰዋለህ።",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ታንሳለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የመቀባት ዘይቱን"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘይት"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "የመቀባት"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ታፈስሰዋለህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ራሱ"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ታቀብሰዋለህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ እርሱን",
+      "marks": "እርሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:27:59.141538898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 53,
+  "translation": "ለዘማኔጁ፣ በማኅላት ላይ፣ መምኅር የሆነ መዝሙር፣ ለዳዊት።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለዘማኔጁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "ማኅላት"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "መምኅር የሆነ መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:01.079782445Z",
+  "model": "glm-5.3"
+}

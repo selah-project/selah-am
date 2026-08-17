@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "እንዲሁም በንጉሡ በያሆአስ ዘመን በሃያ እና ሦስት ዓመት የቤቱ ጉድለት ⟨את⟩ ካህናት አላጠገኑም።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "በዓመት"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ሃያ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "እና ሦስት"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "ያሆአስ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "አጠገኑ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጉድለት"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ጉድለት"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "የቤቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:51:46.368000290Z",
+  "model": "glm-5.3"
+}

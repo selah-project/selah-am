@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "ወዮለት ለአባት «ምን ወለድህ?» የሚለው፣ ወይም ለሴት «ምን ትወልጂያለሽ?» የሚለው።",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ወዮለት"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "የሚለው"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "ለአባት"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "ወለድህ?"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "ወይም ለሴት"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "ትወልጂያለሽ?"
+    }
+  ],
+  "timestamp": "2026-08-16T07:22:34.872651732Z",
+  "model": "glm-5.3"
+}

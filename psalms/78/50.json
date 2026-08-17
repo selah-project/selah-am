@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "ለቍጣው መንገድ አቀለለ፤ ነፍሳቸውን ከሞት አልጠበቀም፣ ሕይወታቸውንም ለወሐዝ አሳልፎ ሰጠ።",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "አቀለለ\/አራመደ"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "ለቍጣው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጠበቀም"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ከሞት"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ነፍሳቸውን"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "እና ሕይወታቸውንም"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ለወሐዝ"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "አሳልፎ ሰጠ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:50.308473186Z",
+  "model": "glm-5.3"
+}

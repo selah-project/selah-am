@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "የዉሎች እጥረት አለብኝና ⟨את⟩ እሱን በፊቴ እንዲዉል አመጣችሁኝ? ይህ ወደ ቤቴ ይገባልን?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "እጥረት"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "የዉሎች"
+    },
+    {
+      "surface": "אני",
+      "gloss": "አለብኝና"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንዲ…"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "አመጣችሁኝ?"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እሱን"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እሱን"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "እንዲዉል"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በፊቴ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ይገባልን?"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ቤቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:46:53.234969070Z",
+  "model": "glm-5.3"
+}

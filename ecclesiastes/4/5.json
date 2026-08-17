@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "መንኩሱ እጆቹን ⟨את⟩ ያጥባል፣ ሥጋውንም ⟨את⟩ ይበላል።",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "መንኩሱ"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "ያጥባል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጆቹን"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "እጆቹን"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ይበላልም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሥጋውን"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ሥጋውን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:15:12.760390491Z",
+  "model": "glm-5.3"
+}

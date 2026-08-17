@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 133,
+  "translation": "ከኸርሞን እንደሚወርድ ጤም፣ በጽዮን ተራሮች ላይ የሚወርድ፤ ምክንያቱም እዚያ ያህዌህ ⟨את⟩ ቡርኬን፣ ሕይወትን እስከ ዘላለት ⟨አዘደ⟩።",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "እንደ ጤም"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ኸርሞን"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "የሚወርድ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "ተራሮች"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቡርኬን"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ቡርኬ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ሕይወት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ዘላለት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:52.346435438Z",
+  "model": "glm-5.3"
+}

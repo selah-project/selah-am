@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "1-chronicles 24:17",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ለያቂን ሃያ አንድ፣ ለጋሙል ሃያ ሁለት።",
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "ለያቂን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "እና ሃያ"
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "ለጋሙል"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "እና ሃያ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:13:45.361845966Z",
+  "model": "glm-5.3"
+}

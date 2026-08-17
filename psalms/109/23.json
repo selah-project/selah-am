@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "የሚዘል እንደ ⟨the⟩ ጥላ ሄድሁ፤ እንደ አካራብ ተንዠርጌያለሁ።",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "እንደ ጥላ"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "ሲዘል"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "ሄድሁ"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "ተንዠርጌያለሁ"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "እንደ አካራብ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:35.403788050Z",
+  "model": "glm-5.3"
+}

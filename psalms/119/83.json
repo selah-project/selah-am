@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "እንደ ጭስ ውስጥ ያለ ከርስ ሆንሁና፤ ጽኑኾችህን አልረሳሁም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ...ሆንሁና"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ሆንሁ"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "እንደ ከርስ"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "በጭስ ውስጥ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ጽኑኾችህን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ረሳሁም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:42.346827729Z",
+  "model": "glm-5.3"
+}

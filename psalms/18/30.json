@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "እንደ እውነታ በአንተ ኃይልን አወጣጣለሁ፤ በእኔ ኤሎሂምም በድንጋይ ክራር እዘልላለሁ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ እውነታ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "አወጣጣለሁ"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "ኃይልን"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "በእኔ ኤሎሂምም"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "እዘልላለሁ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "በድንጋይ ክራር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:10.660717354Z",
+  "model": "glm-5.3"
+}

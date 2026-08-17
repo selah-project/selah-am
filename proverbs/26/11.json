@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "proverbs 26:11",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እንደ ውሻ ወደ ብላቱ የሚመለስ፣ ሞኝም በሞኝነቱ የሚደጋግም ነው።",
+  "tokens": [
+    {
+      "surface": "ככלב",
+      "gloss": "እንደ ውሻ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "የሚመለስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "קאו",
+      "gloss": "ብላቱ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ሞኝ"
+    },
+    {
+      "surface": "שונה",
+      "gloss": "የሚደጋግም"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "በሞኝነቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:34:51.985876587Z",
+  "model": "glm-5.3"
+}

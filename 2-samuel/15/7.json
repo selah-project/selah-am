@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "2-samuel 15:7",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ከአርባ ዓመታት መጨረሻ በኋላ አቤሰሎም ለንጉሡ እንዲህ አለ፦ እሺ ልሂድና ⟨את⟩ ቃል የገባሁትን በአቤሰሎም ከተማ ለያህዌህ በሔብሮን በዓለኝ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ከ...መጨረሻ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "አርባ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "አቤሰሎም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "ልሂድ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እሺ"
+    },
+    {
+      "surface": "ואשלם",
+      "gloss": "በዓለኝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃል የገባሁትን"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "ቃል የገባሁትን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የገባሁትን"
+    },
+    {
+      "surface": "נדרתי",
+      "gloss": "ለያህዌህ በዓለኝ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "በሔብሮን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:02:48.060157378Z",
+  "model": "glm-5.3"
+}

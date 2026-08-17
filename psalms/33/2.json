@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ለያህዌህ በኪናር አመስግኑ፤ በአሥር-አውታር ነባርም ዘምሩለት።",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "አመስግኑ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "በኪናር"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "በነባር"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "አሥር-አውታር"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ዘምሩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:36.128479105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "numbers 24:13",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ብላቅ ቤቱን በብርና በወርቅ ቢሞላልኝ ሁሉ፣ ከልቤ መልካም ወይም ክፉ ለማድረግ የያህዌህን ⟨את⟩ አፍ ልተላልፍ አይችልም፤ ያህዌህ የሚናገረውን ⟨אתו⟩ እኔ እናገራለሁ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ቢ… ሁሉ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ቢሞላልኝ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ብላቅ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ሙላት"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱን"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "በብር"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "እና በወርቅ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይችልም"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ልተላልፍ አይችልም"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "ለመተላለፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አፍ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ለማድረግ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "מלבי",
+      "gloss": "ከልቤ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚናገረውን"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "የሚናገር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "እናገራለሁ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "እናገራለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:23:35.324794801Z",
+  "model": "glm-5.3"
+}

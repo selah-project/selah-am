@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 98,
+  "translation": "ምድር ሁሉ ለያህዌህ ድምፅ አስመልክቱ፤ ተፈክራችሁ ደሰቱ፣ እና ዘምሩ።",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "ድምፅ አስመልክቱ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "ተፈክራችሁ ደሰቱ"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "እና ስብሃት አሰሙ"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "እና ዘምሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:19.239496987Z",
+  "model": "glm-5.3"
+}

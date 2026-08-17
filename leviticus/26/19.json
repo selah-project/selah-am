@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "የኃይላችሁን ኩራት ⟨את⟩ አፍርሳለሁ፤ የሰማያችሁንም ⟨את⟩ እንደ ብረት አደርጋቸዋለሁ፤ ምድራችሁንም ⟨את⟩ እንደ ናስ።",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "አፍርሳለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩራት"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ኩራት"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "የኃይላችሁን"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "አደርጋቸዋለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሰማያችሁን"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "ሰማያችሁ"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "እንደ ብረት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምድራችሁን"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ምድራችሁ"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "እንደ ናስ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:04:07.575568585Z",
+  "model": "glm-5.3"
+}

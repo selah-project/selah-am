@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ይህ ሆነልኝ ታሪት ምክንያቱም ትእዛዞችህን ጠበቅሁ።",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ሆነልኝ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "በእኔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ትእዛዞችህን"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ጠበቅሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:32.924823885Z",
+  "model": "glm-5.3"
+}

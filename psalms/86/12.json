@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 86,
+  "translation": "አዶናይ ኤሎሄዬ ሆይ፣ በመላው ልቤ አመሰግንሃለሁ፤ ስምህን ለዘላለም አከብራለሁ።",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "አመሰግንሃለሁ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሄዬ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በመላው"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "አከብራለሁ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህን"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:53.352253574Z",
+  "model": "glm-5.3"
+}

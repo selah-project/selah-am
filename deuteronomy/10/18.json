@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ያለመስቀለኛን ፍርድ ያደርጋል እና ለምትዳረቅ፤ መጻኛንም ይወዳል — ሰንብትን እና ልብስን እንዲሰጠው።",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ያደርጋል"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድ"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ያለመስቀለኛ"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "እና ምትዳረቅ"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "እና ይወዳል"
+    },
+    {
+      "surface": "גר",
+      "gloss": "መጻኛ"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "እንዲሰጠው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለ…ርሱ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ሰንብት"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "እና ልብስ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:39:46.750490645Z",
+  "model": "glm-5.3"
+}

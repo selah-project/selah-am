@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የሆነው ነገር የራቀ ነው፤ የሚገኘውም በጣም ጥልቅ፣ በጣም ጥልቅ ነው — ማን ያገኘዋል?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "የራቀ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "የሆነው"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ነገር ነው"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "የሚገኘውም ጥልቅ"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "በጣም ጥልቅ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "ያገኘዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T11:15:52.190103251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ተከታው እኔ ነኝ፤ ነፍሴን አላውቅም፤ ሕይወቴን እገልላለሁ።",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "ተከታው"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ ነኝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "አውቅም"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "እገልላለሁ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ሕይወቴን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:44:32.114034594Z",
+  "model": "glm-5.3"
+}

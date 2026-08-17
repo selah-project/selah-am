@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 94,
+  "translation": "ሕዝብህን ያህዌህ ወግሰዋል፣ ርስትህንም በደለዋል።",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "ሕዝብህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "ወግሰዋል"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "ርስትህንም"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "በደለዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:47.760255879Z",
+  "model": "glm-5.3"
+}

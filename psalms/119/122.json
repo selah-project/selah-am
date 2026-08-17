@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "አገልጋይህን ለበጎ ተስፋ አድርግልኝ፤ የቆሙ በረቶች አይገዱኝ።",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "ተስፋ አድርግልኝ (ቦሃል ተቀበል)"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "አገልጋይህን"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "ለበጎ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "ይገዱኝ"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "የቆሙ በረቶች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:58.152610517Z",
+  "model": "glm-5.3"
+}

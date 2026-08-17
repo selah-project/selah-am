@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ልትወጡ ግን አልፈለጋችሁም፣ የያህዌህ ኤሎሂም አንደበትንም ⟨את⟩ አመጡላችሁ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "አልፈለጋችሁም"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "ፈለጋችሁ"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "ልትወጡ"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "አመጡላችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አንደበትን"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አንደበት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:33:37.377987329Z",
+  "model": "glm-5.3"
+}

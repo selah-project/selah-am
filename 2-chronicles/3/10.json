@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "በቅዱሳን ቅዱስ ቤትም ሁለት ክሩቦችን የተቀረጸ ሥራ አድርጎ ሠራ፤ ⟨את⟩ እነሱንም በወርቅ ከደመዋቸው።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አድርጎ ሠራም"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "የቅዱሳን"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "ክሩቦችን"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "የ... ሥራ"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "የተቀረጸ"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "ከደመዋቸውም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ክሩቦችን"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "በወርቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:27:20.545068499Z",
+  "model": "glm-5.3"
+}

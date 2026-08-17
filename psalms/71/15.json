@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 71,
+  "translation": "አፌ ጽድቅህን ይናገራል፤ ሁሉን ቀን፣ መዳንህን፤ ቁጥሮቹን አላወቅሁኝምና።",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "አፌ"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ይናገራል"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ጽድቅህን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "መዳንህን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደዚህም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "አወቅሁኝም"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "ቁጥሮቹን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:08.384390267Z",
+  "model": "glm-5.3"
+}

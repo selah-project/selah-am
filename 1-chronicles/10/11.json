@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የያቤስ ገልዓ ሰዎች ሁሉ ፍልስጤም ሰዎች ለሳኦል ያደረጉትን ⟨את⟩ ሁሉ ሰሙ።",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ሰሙ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "የያቤስ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ገልዓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያደረጉትን"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ያደረጉትን"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤም ሰዎች"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ለሳኦል"
+    }
+  ],
+  "timestamp": "2026-08-16T12:49:20.849894924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "amos 1:10",
+  "book": "amos",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "በጾር ግንብ ላይ እሳትን እልካለሁ፣ እርሷም መንግሥታቷን ትበላለች።",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "እልካለሁ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳትን"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "በግንብ ላይ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ጾር"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "እርሷም ትበላለች"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "መንግሥታቷን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:03:29.063506131Z",
+  "model": "glm-5.3"
+}

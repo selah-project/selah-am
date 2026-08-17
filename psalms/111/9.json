@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 111,
+  "translation": "ለሕዝቡ መዳን ሰደደ፤ ቃል ኪዳኑን ለዘለዓለም አዘዘ፤ ቅዱስ እና ሚፈራ ⟨ነው⟩ ስሙ።",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "መዳን"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ለሕዝቡ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘለዓለም"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ቃል ኪዳኑን"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "እና ሚፈራ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:59.989002076Z",
+  "model": "glm-5.3"
+}

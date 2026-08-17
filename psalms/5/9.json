@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ያህዌህ በጽድቅህ መርተኝ፣ የተቃዋሚዎቼ ምክንያት፤ መንገድህን በፊቴ ቀጥ አድርገህ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "መርተኝ"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "በጽድቅህ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ምክንያት"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "ተቃዋሚዎቼ"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "ቀጥ አድርገህ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊቴ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "መንገድህን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:27:40.227069965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "እሷ እህትህ ናት ስለምን አልኸኝ እና ⟨את⟩ እሷን ለእኔ ሚስት ለመውሰድ? እና አሁን እነሆ ሚስትህ፣ ውሰዳት እና ሂድ።",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ስለምን"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "አልኸኝ"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "እህትህ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ናት"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "እና ልውሰዳት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እሷን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ሚስት"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "እና አሁን"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "ሚስትህ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ውሰዳት"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "እና ሂድ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:35:40.141704712Z",
+  "model": "glm-5.3"
+}

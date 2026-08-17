@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ለምድያም ካህንም ሰባት ሴት ልጆች ነበሩት፤ መጥተውም ውሃ አነሱ፤ የአባታቸውን በጎች ለማጠራቀም ምንጣፎችን ⟨את⟩ ሞሉ።",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "ለ…ካህንም"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ምድያም"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ሴት ልጆች"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "መጥተውም"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "ውሃ አነሱ"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "ሞሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምንጣፎችን"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "ምንጣፎችን"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "ለማጠራቀም"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "በጎች"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "የአባታቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:06:13.436194337Z",
+  "model": "glm-5.3"
+}

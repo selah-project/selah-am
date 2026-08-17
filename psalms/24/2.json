@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "እንደ፡ እርሱ በባሕሮች ላይ መሠረታት፣ እና በወንዞች ላይ አጸናት።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ፡"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ባሕሮች"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "መሠረታት"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በላይ"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ወንዞች"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "አጸናት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:19.947317403Z",
+  "model": "glm-5.3"
+}

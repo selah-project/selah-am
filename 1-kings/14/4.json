@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-kings 14:4",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "የያሮብዓም ሚስትም እንደዚህ አደረገች፤ ተነሥታም ወደ ሺሎ ሄደች፤ ወደ አሂያም ቤት ገባች፤ አሂያ ግን ሊያይ አልቻለም፤ ዓይኖቹ ከእርጅኑ ስለ ቆሙ ነው።",
+  "tokens": [
+    {
+      "surface": "ותעש",
+      "gloss": "አደረገችም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሚስት"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ያሮብዓም"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ተነሥታም"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ሄደችም"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "ሺሎ"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ገባችም"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "አሂያ"
+    },
+    {
+      "surface": "ואחיהו",
+      "gloss": "አሂያም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "ቻለ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ሊያይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "የሆነው"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ቆሙ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ዓይኖቹ"
+    },
+    {
+      "surface": "משיבו",
+      "gloss": "ከእርጅኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:27:23.500500146Z",
+  "model": "glm-5.3"
+}

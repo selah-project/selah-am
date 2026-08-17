@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ጠባቂዎቼን ተመልከት፤ ብዙ ናቸውና፤ በጠባብ ጥላቻ ጠሉኝ።",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ተመልከት"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ጠባቂዎቼን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደፈለገው"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ብዙ ናቸው"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "ጥላቻ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ጠባብ"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "ጠሉኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:39.129273217Z",
+  "model": "glm-5.3"
+}

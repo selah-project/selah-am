@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "ezekiel 11:11",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እርሷ አይሆንም ለእናንተ በዳስ መሆን፤ እናንተም አትሆኑም በመካከሏ ሥጋ ሆናችሁ፤ እስከ እስራኤል ድንበር ድረስ እናንተን ⟨את⟩ እፈርዳችኋለሁ።",
+  "tokens": [
+    {
+      "surface": "היא",
+      "gloss": "እርሷ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ትሆናለች"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለእናንተ"
+    },
+    {
+      "surface": "לסיר",
+      "gloss": "በዳስ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "እናንተም"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ትሆናላችሁ"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "በመካከሏ"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ድንበር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "እፈርዳለሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተን"
+    }
+  ],
+  "timestamp": "2026-08-16T08:22:46.328576183Z",
+  "model": "glm-5.3"
+}

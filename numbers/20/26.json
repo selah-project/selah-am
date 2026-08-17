@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "numbers 20:26",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "አሃሮንን ⟨את⟩ ከልብሶቹ ⟨את⟩ አራቅው፤ ኤልዓዛርን ⟨את⟩ የሱንን ልጅ አልብሳቸው፤ አሃሮንም ይሰበሰባል እና በዚያ ይሞታል።",
+  "tokens": [
+    {
+      "surface": "והפשט",
+      "gloss": "አራቅው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አሃሮንን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከልብሶቹ"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ልብሶቹ"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "አልብሳቸው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤልዓዛርን"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ኤልዓዛር"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "የሱ ልጅ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "አሃሮንም"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "ይሰበሰባል"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ይሞታል"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:20:24.285870593Z",
+  "model": "glm-5.3"
+}

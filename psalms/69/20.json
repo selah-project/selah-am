@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "አንተ ንቀቴን ዐውቀሃል፤ ውርደቴንም ደብቀኝነቱንም፤ ጠላቶቼ ሁሉ ፊትህ አደርጊያለሁ።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ዐውቀሃል"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ንቀቴን"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "ውርደቴንም"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "ደብቀኝነቱንም"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "ፊትህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ጠላቶቼ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:01.098205001Z",
+  "model": "glm-5.3"
+}

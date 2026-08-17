@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "እንግዲህ ኤሎሂም የጠላቶቹን ራስ ይሰብራል፤ በደንበሮበት የሚሄድ የሰው አንገት ላይ ያለውን አፈርን ያፈርሳል።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "እንግዲህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "ይሰብራል"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስን"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "የጠላቶቹን"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "አንገት ላይ ያለውን"
+    },
+    {
+      "surface": "שער",
+      "gloss": "አፈርን"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "የሚሄድ"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "በደንበሮበት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:37.739793033Z",
+  "model": "glm-5.3"
+}

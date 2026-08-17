@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "አሁዳም ⟨את⟩ የግራ እጁን ዘረጋ፣ ⟨את⟩ ቢሳን ከቀኝ ጅሩ በኩል ወሰደ፣ በሆዱም ውስጥ ተኳሰው።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ዘረጋ"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "አሁዳ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የግራ እጁን"
+    },
+    {
+      "surface": "יד",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "የግራ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቢሳን"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ቢሳን"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ጅሩ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ቀኝ"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "ተኳሰው"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "በሆዱም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:16:11.421056012Z",
+  "model": "glm-5.3"
+}

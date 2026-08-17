@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 145,
+  "translation": "የመንግሥትህን ክብር ይናገራሉ፣ እና ኃይልህን ይነግራሉ።",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "ክብር"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "የመንግሥትህን"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ይናገራሉ"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "እና ኃይልህን"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ይነግራሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:03.298922745Z",
+  "model": "glm-5.3"
+}

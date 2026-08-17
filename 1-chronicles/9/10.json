@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እና ከካህናን የነበሩት የዕዝራህያ ልጆች፣ የይሆያሪብ ልጆች እና የያቁር ልጆች ናቸው።",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "እና ከ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናን"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "የዕዝራህያ ልጆች"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "የይሆያሪብ ልጆች"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "የያቁር ልጆች"
+    }
+  ],
+  "timestamp": "2026-08-16T12:45:54.417372053Z",
+  "model": "glm-5.3"
+}

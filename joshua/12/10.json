@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የየሩሳሌም ንጉሥ አንድ፤ የኬብሮን ንጉሥ አንድ፤",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሳሌም"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ኬብሮን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:04:56.136247455Z",
+  "model": "glm-5.3"
+}

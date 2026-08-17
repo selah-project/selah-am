@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እኔ ቆህሌት በይሩሳሌም በእስራኤል ላይ ንጉሥ ነበርኩ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ቆህሌት"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ነበርኩ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "በእስራኤል"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "በይሩሳሌም"
+    }
+  ],
+  "timestamp": "2026-08-16T11:13:12.867967963Z",
+  "model": "glm-5.3"
+}

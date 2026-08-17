@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "hosea 7:11",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ኤፍራይም እንደ ተታለለች ርግብ፣ ልብ የሌላት፣ ሆነ፤ ግብፃን ጮኩ፤ አሦር ሄዱ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "እንደ ርግብ"
+    },
+    {
+      "surface": "פותה",
+      "gloss": "ተታለለች"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የሌላት"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፃን"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ጮኩ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "አሦር"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ሄዱ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:58:29.119217019Z",
+  "model": "glm-5.3"
+}

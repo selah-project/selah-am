@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 138,
+  "translation": "በመከራ መካከል ብሄድ ታሳውነኛለህ፤ በጠላቶቼ ቍጣ ላይ እጅህን ትልካለህ፣ ቀኝህም ያድነኛል።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ብሄድ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ብሄድ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "በ…መካከል"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "መከራ"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "ታሳውነኛለህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ቍጣ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ጠላቶቼ"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "ትልካለህ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህን"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "ያድነኛልም"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ቀኝህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:38.358863244Z",
+  "model": "glm-5.3"
+}

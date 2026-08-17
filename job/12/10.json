@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "በእርሱ እጅ ውስጥ ⟨is⟩ የሁሉም ሕያይ ነፍስ እና የሁሉም ሥጋ ሰው መንፈስ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "የሆነው በእርሱ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "በእጁ ውስጥ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "የሁሉም"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ሕያይ"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "እና መንፈስ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "የሁሉም"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:44:36.181004974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ሕፃኑም አደገ፤ ለፈርዖን ልጅ አመጣችው፤ ላትም ⟨ልጅ⟩ ኾነ። ስሙንም ሞሼ ብላ፤ እንደ መሆኑ ከውኃው ሳልቀቅህበት አለች።",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "አደገ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ሕፃኑ"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "አመጣችው"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "ለልጅ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኾነ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ላት"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ጠራች"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "አለች"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ መሆኑ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውኃው"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "ሳልቀቅህበት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:05:58.566499768Z",
+  "model": "glm-5.3"
+}

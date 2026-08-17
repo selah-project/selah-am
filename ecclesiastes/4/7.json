@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ተመለስሁም እኔ፣ እና ፍንትሐትን በፀሐይ ሥር አየሁ።",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "ተመለስሁም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "አየሁም"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ፍንትሐትን"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ… ሥር"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ፀሐይ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:15:12.760736710Z",
+  "model": "glm-5.3"
+}

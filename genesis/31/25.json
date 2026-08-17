@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ላባን ⟨את⟩ ያዕቆብን አሳለፈ፤ ያዕቆብም ⟨את⟩ ድንኳኑን በተራራ ላይ ተከለ፤ ላባንም ⟨את⟩ ወንድሞቹን በጎልዓድ ተራራ ላይ ተከለ።",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "አሳለፈ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ላባን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያዕቆብን"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብን"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ያዕቆብም"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "ተከለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድንኳኑን"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "ድንኳኑን"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "በተራራ ላይ"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "ላባንም"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "ተከለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንድሞቹን"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሞቹን"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "በተራራ ላይ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ጎልዓድ ተራራ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:51:28.686349433Z",
+  "model": "glm-5.3"
+}

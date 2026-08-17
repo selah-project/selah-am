@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ምክንያቱም እነርሱ ቢወድቁ አንዱ ⟨את⟩ ወዳጁን ያስነሳዋል፤ ነገር ግን አንዱ ቢወድቅ፣ ሁለተኛ ሳለ ወዮለት — ሊያስነሳው የሚችል የለም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ቢወድቁ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "አንዱ"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "ያስነሳዋል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወዳጁን"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "ወዳጁ"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "ነገር ግን \/ ወዮለት"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "አንዱ"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "ቢወድቅ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ሳለ \/ የለምም"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለተኛ"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "ሊያስነሳው"
+    }
+  ],
+  "timestamp": "2026-08-16T11:13:13.748847050Z",
+  "model": "glm-5.3"
+}

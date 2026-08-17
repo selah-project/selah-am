@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ሀብታም ብሎ የሚታይ ምንም የሌለው አለ፤ ደሃ ብሎ የሚታይ ብዙ ሀብት ያለው አለ።",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "ሀብታም ብሎ የሚታይ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "…የለም ግን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ምንም"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "ደሃ ብሎ የሚታይ"
+    },
+    {
+      "surface": "והון",
+      "gloss": "ሀብት"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:26:21.977408242Z",
+  "model": "glm-5.3"
+}

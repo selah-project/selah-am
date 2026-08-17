@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ያህዌህም ሞሼን እንዲህ አለው፦ ወደ ⟨ተ⟩ሕዝቡ ሂድ፤ ዛሬና ነገ ቀድሳቸው፤ ልብሳቸውንም ያጥቡ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "ቀድሳቸው"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "እና ነገ"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "ያጥቡም"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "ልብሳቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:17:26.341669456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "መጨረሻው ለመቆረጥ ይሁን፤ በሌላ ትውልድ ስማቸው ይሰረዝ።",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "መጨረሻው"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "ለመቆረጥ"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "በትውልድ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ሌላ"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "ይሰረዝ"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ስማቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:55.102866969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 141,
+  "translation": "ልቤ ወደ ክፉ ቃል አይዘነጋ፤ በክፍነት ክፉ ሥራዎችን ለማድረግ፣ ከዕድል ሠሪዎች ⟨את⟩ ጋር፤ ከጣፋጮቻቸውም አልበላም።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ይዘነጋ\/ያጣ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ወደ ቃል"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "ለማድረግ"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "ሥራዎችን"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "በክፍነት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰዎችን"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "ሰዎችን"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ሠሪዎች"
+    },
+    {
+      "surface": "און",
+      "gloss": "ዕድል"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "አል…ምም"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "አበላ\/አልበላ"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "ከጣፋጮቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:28.764899266Z",
+  "model": "glm-5.3"
+}

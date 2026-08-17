@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 11:18",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እነዚህን የእኔን ቃላት ⟨את⟩ በልባችሁ እና በነፍሳችሁ ላይ ትይዛላችሁ፤ እነሱንም ⟨את⟩ በእጃችሁ ላይ ለምልክት ታስራላችሁ፤ በዓይናችሁም መካከል ለጠፈርጠፈሮች ይሆናሉ።",
+  "tokens": [
+    {
+      "surface": "ושמתם",
+      "gloss": "ትይዛላችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላትን"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "የእኔን ቃላት"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ልባችሁ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በላይ"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "ነፍሳችሁ"
+    },
+    {
+      "surface": "וקשרתם",
+      "gloss": "ታስራላችሁ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "ለምልክት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "እጃችሁ"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ይሆናሉ"
+    },
+    {
+      "surface": "לטוטפת",
+      "gloss": "ለጠፈርጠፈሮች"
+    },
+    {
+      "surface": "בין",
+      "gloss": "መካከል"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ዓይናችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:10:52.950993136Z",
+  "model": "glm-5.3"
+}

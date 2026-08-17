@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "አስጠነብቅሃለሁ እና በምትሄድበት መንገድ እመራሃለሁ፤ ዓይኔ በአንተ ላይ ሆኖ ምክር እሰጥሃለሁ።",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "አስጠነብቅሃለሁ"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "እና እመራሃለሁ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ትሄድበታል"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "ምክር እሰጥሃለሁ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "በአንተ ላይ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:55.530623177Z",
+  "model": "glm-5.3"
+}

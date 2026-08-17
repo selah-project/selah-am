@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ኢዮብም ተነሣ፤ የውጭ ልብሱን ⟨את⟩ ቈረጠ፤ ራሱንም ⟨את⟩ አራረው፤ ወደ ምድር ወደቀ እና ሰገደ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "እና ተነሣ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኢዮብ"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "እና ቈረጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የውጭ ልብሱን"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "የውጭ ልብሱን"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "እና አራረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራሱን"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ራሱን"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "እና ወደቀ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ወደ ምድር"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ሰገደ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:14:39.455994804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 83,
+  "translation": "መዝሙር፣ የአሳፍ ዝምሮ።",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ዝምሮ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "የአሳፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:50.719078851Z",
+  "model": "glm-5.3"
+}

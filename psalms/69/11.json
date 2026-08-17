@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "ነፍሴን በጾም አለቅሁ፤ እርሷም ለእኔ ለንቀት ሆነች።",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "አለቅሁ"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "በጾም"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "እና ሆነች"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "ለንቀት"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:24.714172527Z",
+  "model": "glm-5.3"
+}

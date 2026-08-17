@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እና ካህኑ ⟨את׊ህ⟩ በያህዌህ ፊት ያቀርባል፣ እና ⟨את⟩ ኃጢአቱን እና ⟨את⟩ ሠዊራውን ያደርጋል።",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ያቀርባል"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ያደርጋል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኃጢአቱን"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "ኃጢአቱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሠዊራውን"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "ሠዊራውን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:08:32.468304753Z",
+  "model": "glm-5.3"
+}

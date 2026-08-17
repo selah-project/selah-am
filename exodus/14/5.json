@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "exodus 14:5",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ለምጽር ንጉሥ ሕዝቡ እንደ ሸሸ ተነገረለት፤ የፈርዖንና የባሮቹ ልብ በሕዝቡ ላይ ተገለበጠ፤ «እስራኤልን ⟨את⟩ ከበርካችን የላክንበት ይህን የሠራንበት ምንድን ነው?» አሉ።",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ተነገረለት"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ለንጉሥ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽር"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ሸሸ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "ተገለበጠ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "የፈርዖን"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "እና የባሮቹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ...ላይ ወደ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "አሉ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምንድን"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "የሠራንበት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "የላክንበት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "ከበርካችን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:14:23.148442428Z",
+  "model": "glm-5.3"
+}

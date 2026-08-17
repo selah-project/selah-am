@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "exodus 8:20",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ያህዌህም እንደዚህ አደረገ፤ ከባድ አንበሪ ወደ ፈርዖን ቤት፣ ወደ አገልጋዮቹ ቤቶች፣ በመላውም የምጽራይም ምድር ላይ መጣ፤ በአንበሪው ፊትም ምድሪቱ ተበታተነች።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "አንበሪ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ከባድ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ወደ … ቤት"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "እና ወደ … ቤት"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "አገልጋዮቹ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "እና በሁሉም"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽራይም"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ተበታተነች"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪቱ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "በ… ፊት"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "አንበሪው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:11:33.486861362Z",
+  "model": "glm-5.3"
+}

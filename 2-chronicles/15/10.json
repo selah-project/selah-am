@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "2-chronicles 15:10",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "በአሳ መንግሥት በአሥራ አምስተኛው ዓመት በሦስተኛው ወር በኢየሩሳሌም ተሰበሰቡ።",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ተሰበሰቡ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "በኢየሩሳሌም"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "በወር"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "በሦስተኛው"
+    },
+    {
+      "surface": "לשנת",
+      "gloss": "በዓመት"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "አሥራ"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "በመንግሥት"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "የአሳ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:44:20.433637994Z",
+  "model": "glm-5.3"
+}

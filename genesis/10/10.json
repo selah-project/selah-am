@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የመንግሥቱ መጀመሪያ ባቢሎን፣ ኤሬክ፣ አካድ እና ከልኔ በሸናር ምድር ውስጥ ነበረች።",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "እና ነበረች"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "መጀመሪያ"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "የመንግሥቱ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ባቢሎን"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "እና ኤሬክ"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "እና አካድ"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "እና ከልኔ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር ውስጥ"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "ሸናር"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:35.267203059Z",
+  "model": "glm-5.3"
+}

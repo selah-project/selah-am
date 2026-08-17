@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ኬጽሮንም ⟨את⟩ ራምን ወለደ፤ ራምም ⟨את⟩ ዓሚናዳብን ወለደ።",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "ኬጽሮንም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራምን"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ራም"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ራምም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓሚናዳብን"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ዓሚናዳብ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:06:52.190419967Z",
+  "model": "glm-5.3"
+}

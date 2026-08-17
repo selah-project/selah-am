@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "exodus 12:31",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "እና ሞሼንና አሃሮንን በሌሊቱ ጠራ፤ እና አለ — ተነሱ፣ ከሕዝቤ መካከል ውጡ — እናንተም እንዲሁም የእስራኤል ልጆችም፤ ሂዱ፣ ያህዌህን ⟨את⟩ አገልግሉ፣ እንደ ተናገራችሁት።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ሞሼን"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "እና አሃሮንን"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "በሌሊት"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "ተነሱ"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "ውጡ"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ከመካከል"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እናንተም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ሂዱ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "አገልግሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כדברכם",
+      "gloss": "እንደ ተናገራችሁት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:15:18.032174345Z",
+  "model": "glm-5.3"
+}

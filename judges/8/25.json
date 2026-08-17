@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "judges 8:25",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እነርሱም «እንሰጣለን፣ እንሰጣለን» አሉ፤ ⟨את⟩ ልብሱንም አዘረጋጁ፣ እያንዳንዱም ሰው የማረከውን ክንፍር በዚያ ወረወረ።",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "አሉ"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "እንሰጣለን"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "እንሰጣለን"
+    },
+    {
+      "surface": "ויפרשו",
+      "gloss": "አዘረጋጁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልብሱን"
+    },
+    {
+      "surface": "השמלה",
+      "gloss": "ልብሱን"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "ወረወሩ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "ክንፍር"
+    },
+    {
+      "surface": "שללו",
+      "gloss": "የማረከውን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:21:25.482073479Z",
+  "model": "glm-5.3"
+}

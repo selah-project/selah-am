@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 84,
+  "translation": "ከኃይል ወደ ኃይል ይሄዳሉ፤ ሁሉም ፊት ለኤሎሂም በጽዮን ይታያል።",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "ይሄዳሉ"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "ከኃይል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ኃይል"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ይታያል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ…ፊት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "በጽዮን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:37.591805341Z",
+  "model": "glm-5.3"
+}

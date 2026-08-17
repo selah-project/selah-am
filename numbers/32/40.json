@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ሞሴም ጌልዓድን ⟨את⟩ ለማኪር የምናሴ ልጅ ሰጠ፤ እርሱም ⟨በውስጡ⟩ ተቀመጠ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሴ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጌልዓድን"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ጌልዓድን"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "ለማኪር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሴ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቀመጠ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በውስጡ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:28:31.929977402Z",
+  "model": "glm-5.3"
+}

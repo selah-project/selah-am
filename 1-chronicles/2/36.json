@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ዓታይም ⟨את⟩ ናታንን ወለደ፤ ናታንም ⟨את⟩ ዛባድን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "ዓታይም"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ናታንን"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ናታን"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ናታንም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዛባድን"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "ዛባድ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:32:57.803161839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ከወንድ እስከ ሴት ትላኩ፤ ወደ መስኩ ውጭ ትላኳቸው፤ መሳቂያዎቻቸውንም ⟨את⟩ አያረክሱም፤ እኔ በእነርሱ መካከል የምትኖርባቸው።",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "ከወንድ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "ትላኩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ውጭ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "መስኩ"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "ትላኳቸው"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "ያረክሱም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሳቂያዎቻቸውን"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "መሳቂያዎቻቸው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እቴ"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "የምትኖር"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "በእነርሱ መካከል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:09:22.161655281Z",
+  "model": "glm-5.3"
+}

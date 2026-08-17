@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 85,
+  "translation": "እሰማለሁ ምን ኤል ያህዌህ እንደሚናገር፤ ምክንያቱም ሰላም ወደ ሕዝቡ እና ወደ ቅዱሳኑ ይናገራል፤ ወደ ሞኝነትም እንዳይመለሱ።",
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "እሰማለሁ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "እንደሚናገር"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ይናገራል"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ቅዱሳኑ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እንዳይ-"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ይመለሱ"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "ወደ ሞኝነት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:13.491667417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.3",
+  "verse": 44,
+  "ref": "genesis 41:44",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "ፈርዖንም ለዮሴፍ እንዲህ አለ፦ እኔ ፈርዖን ነኝ፤ ከአንተ ውጭ ሰው በምጽራይም ምድር ሁሉ ውስጥ ⟨את⟩ እጁንም ሆነ ⟨את⟩ እግሩን አያነሣም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖንም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "ובלעדיך",
+      "gloss": "ከአንተ ውጭ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ… ም"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "አያነሣም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጁን"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "እግሩን"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "እግሩን"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽራይም ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:58:52.323134315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ተቀደስን የሚሸከሙት ቀሓቲም ወጥተው ተነሱ፤ እነሱም ⟨את⟩ መገናኛውን ድነስ እስኪመጡ ድረስ አቆሙት።",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "ተነሱ"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "ቀሓቲም"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "የሚሸከሙት"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "ተቀደስን"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "አቆሙት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መገናኛውን ድነስ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "መገናኛውን ድነስ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪመጡ ድረስ"
+    },
+    {
+      "surface": "באם",
+      "gloss": "እነሱም ሲመጡ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:11:35.063044289Z",
+  "model": "glm-5.3"
+}

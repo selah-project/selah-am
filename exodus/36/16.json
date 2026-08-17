@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "አምስቱን ምንጣፎች ⟨את⟩ ብቻቸውን አገናኘ፤ እና ስድስቱን ምንጣፎችም ⟨את⟩ ብቻቸውን አገናኘ።",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "አገናኘ፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አምስቱን ምንጣፎች"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "አምስቱን"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ምንጣፎች"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ብቻቸውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ስድስቱን ምንጣፎች"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ስድስቱን"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ምንጣፎች"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ብቻቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:37:57.752410648Z",
+  "model": "glm-5.3"
+}

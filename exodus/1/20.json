@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ኤሎሂምም ለአዋላጆቹ መልካም አደረገ፤ ሕዝቡም በዝቶ በጣም ኃይለኞች ሆኑ።",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "መልካም አደረገ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "ለአዋላጆቹ"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "በዝቶ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "ኃይለኞች ሆኑ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:06:19.696572477Z",
+  "model": "glm-5.3"
+}

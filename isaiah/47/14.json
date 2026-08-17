@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 47:14",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 47,
+  "translation": "እነሆ እንደ ጥላ ሆነዋል፤ እሳት አቃጥሏቸዋል፤ ⟨את⟩ ነፍሳቸውን ከነበባ እጅ ሊያድኑ አይችሉም። ለማሞቅ ጠላት፣ ከፊቱም ለመቀመጥ ብርሃን የላቸውም።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ሆነዋል፤"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "እንደ ጥላ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "שרפתם",
+      "gloss": "አቃጥሏቸዋል፤"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይችሉም"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "ሊያድኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሳቸውን"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ነፍሳቸውን"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "ከነበባ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የላቸውም።"
+    },
+    {
+      "surface": "גחלת",
+      "gloss": "ጠላት፣"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "ለማሞቭ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ለመቀመጥ"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "ከፊቱም"
+    }
+  ],
+  "timestamp": "2026-08-16T17:01:25.096613645Z",
+  "model": "glm-5.3"
+}

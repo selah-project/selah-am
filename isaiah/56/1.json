@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "isaiah 56:1",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 56,
+  "translation": "እንዲህ አለ ያህዌህ፦ ፍርድን ጠብቁ፣ ጽድቅንም አድርጉ፤ ምክንያቱም ትድኃኔ ለመምጣት ቅርብ ናት፣ ጽድቄም ለመገለጥ ነው።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ጠብቁ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድን"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "አድርጉም"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ጽድቅን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "ቅርብ ናት"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ትድኃኔ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ለመምጣት"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "ጽድቄም"
+    },
+    {
+      "surface": "להגלות",
+      "gloss": "ለመገለጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:28:08.012149963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እና ⟨את⟩ ፐርሻንዳታን፣ እና ⟨את⟩ ዳልፎንን፣ እና ⟨את⟩ አስፓታን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ፐርሻንዳታን"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "ፐርሻንዳታ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዳልፎንን"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "ዳልፎን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "አስፓታን"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "አስፓታ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:22:04.167906244Z",
+  "model": "glm-5.3"
+}

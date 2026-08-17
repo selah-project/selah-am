@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እንደ ከላሙ ከሰላም መሥዋዕት እንደሚወገድ፤ ካህኑም በደረቁ መሥዋዕት መሠዊያ ላይ ያቃጥላቸዋል።",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "እንደሚወገድ"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ከላም"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "መሥዋዕት"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "የሰላም"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "ያቃጥላቸዋል"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠዊያ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "የደረቅ መሥዋዕት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:44:25.508206700Z",
+  "model": "glm-5.3"
+}

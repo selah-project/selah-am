@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ጉላቶቹም ከአንተ፣ ከቤቶችህ፣ ከአገልጋዮችህና ከሕዝብህ ይጠፋሉ፤ በወንዙ ብቻ ይቀራሉ።",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "ይጠፋሉም"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ጉላቶቹ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ከአንተ"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "ከቤቶችህም"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "ከአገልጋዮችህና"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "ከሕዝብህም"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "በወንዙ"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "ይቀራሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:11:09.769254671Z",
+  "model": "glm-5.3"
+}

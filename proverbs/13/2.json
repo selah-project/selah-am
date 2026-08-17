@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ከአፍ ፍሬ ሰው መልካም ይበላል፤ የተዋላጆች ነፍስ ግን ጥቃት ⟨ትበላለች⟩።",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "ከአፍ ፍሬ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፍ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበላል"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ነፍስ ግን"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "የተዋላጆች"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ጥቃት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:27:32.359229459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "2-samuel 15:17",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ንጉሡም ወጣ፣ ሕዝቡም ሁሉ በእግሩ ከኋላው ነበር፤ በሩቅ ቤትም ቆሙ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጣም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "በእግሩ"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ቆሙም"
+    },
+    {
+      "surface": "בית",
+      "gloss": "በ…ቤት"
+    },
+    {
+      "surface": "המרחק",
+      "gloss": "ሩቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:04:46.000499346Z",
+  "model": "glm-5.3"
+}

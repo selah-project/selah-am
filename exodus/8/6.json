@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ወደ ነገ እንደሆነ አለ፤ እርሱም እንደቃልህ ይሁን አለ፤ ያህዌህ ኤሎሂም የኛ እንደሆነ ብቻ መሆኑን ታውቅ ዘንድ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "ወደ ነገ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "እንደቃልህ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ዘንድ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ታውቅ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ብቻ መሆኑን እንደሌለ"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "እንደ ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂም የኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:11:09.769120348Z",
+  "model": "glm-5.3"
+}

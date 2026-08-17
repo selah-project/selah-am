@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ሌሎች አማልክት በፊቴ ላት አይኖሩልም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይኖሩ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ላት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "አማልክት"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ሌሎች"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:19:15.142934457Z",
+  "model": "glm-5.3"
+}

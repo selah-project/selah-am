@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 137,
+  "translation": "የሩሳሌም ሆይ ብረሳህ ማለት የሚሆነው ነው ብዙም በኝ ትረሳ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ብረሳህ ማለት የሚሆነው ነው"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "ብረሳህ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሳሌም ሆይ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ትረሳ"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "ብዙም በኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:03.477294634Z",
+  "model": "glm-5.3"
+}

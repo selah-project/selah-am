@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ነገር ግን በእጃቸው የተሰጠው ብር ⟨את⟩ ከእነርሱ ጋር አይቆጠርም፤ ምክንያቱም በታማኝነት እየሠሩ ነው።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይቆጠርም"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ይቆጠር"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ብር ከእነርሱ ጋር"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "የተሰጠው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "እጃቸው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "በታማኝነት"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እነርሱ"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "እየሠሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:54:00.644146696Z",
+  "model": "glm-5.3"
+}

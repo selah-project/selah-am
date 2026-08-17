@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "isaiah 14:25",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "አሽሩን በምድሬ ለመስበር እና በተራሮቼ ላይ ለመትረገም፤ ቀንበሩ ከእነርሱ ላይ ይነሳል፤ ሸክሙም ከትከራቸው ላይ ይወገዳል።",
+  "tokens": [
+    {
+      "surface": "לשבר",
+      "gloss": "ለመስበር"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "አሽሩን"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "በምድሬ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ…ላይ"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "ተራሮቼ"
+    },
+    {
+      "surface": "אבוסנו",
+      "gloss": "ለመትረገም"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "ይነሳል"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "ከእነርሱ ላይ"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ቀንበሩ"
+    },
+    {
+      "surface": "וסבלו",
+      "gloss": "እና ሸክሙ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከ…ላይ"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ከትከራቸው"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ይወገዳል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:04:47.015806884Z",
+  "model": "glm-5.3"
+}

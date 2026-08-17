@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ሳኦልም እርሱ በጣም እውቀት ያለው መሆኑን ባየ ጊዜ ከእርሱ ወገኖች ፈራ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ባየ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እርሱ... መሆኑን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ ⟨እርሱ⟩"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "እውቀት ያለው"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "ፈራ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ከእርሱ ፊት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:43:31.847420696Z",
+  "model": "glm-5.3"
+}

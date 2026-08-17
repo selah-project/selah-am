@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የሁሉም ቃል መጨረሻ ይህ ተሰምቷል፤ ኤሎሂምን ⟨את⟩ ስገዱ፣ ትእዛዞቹንም ⟨את⟩ ጠብቅ፤ በእውነት ይህ ሙሉው ሰው ነው።",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "መጨረሻ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "የሁሉም"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ተሰምቷል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂምን"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ስገዱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ትእዛዞቹን"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ትእዛዞቹን"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ጠብቅ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሙሉው"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T11:17:57.023955050Z",
+  "model": "glm-5.3"
+}

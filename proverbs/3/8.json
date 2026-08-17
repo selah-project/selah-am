@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "proverbs 3:8",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ለቀፎህ ፈውስ ይሁን፤ እና ለአጥንቶችህ እርጥብ ነፋስ።",
+  "tokens": [
+    {
+      "surface": "רפאות",
+      "gloss": "ፈውስ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": "ለቀፎህ"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "እና እርጥብ ነፋስ"
+    },
+    {
+      "surface": "לעצמותיך",
+      "gloss": "ለአጥንቶችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:20:43.366131553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "ምክንያቱም በደሌን እናገራለሁ፤ ከኃጢያቴ እጨነቃለሁ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "በደሌን"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "እናገራለሁ"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "እጨነቃለሁ"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "ከኃጢያቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:40:54.467461220Z",
+  "model": "glm-5.3"
+}

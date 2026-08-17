@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እና በይሁዳ ላይ እሳትን እልካለሁ፣ እናም የዩሩሳሌምን ምሽጎች ትበላለች።",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "እልካለሁ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳትን"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "በይሁዳ"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "እናም ትበላለች"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "ምሽጎችን"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የዩሩሳሌምን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:04:51.734655155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እነዚህ የቆሙትም ንጉሡን ⟨את⟩ ሰሎሞንን እና ⟨את⟩ ለንጉሡ ለሰሎሞን ጠረጴዛ የሚቀርቡትን ሁሉ በወሩ ወሩ ሰበሩለት፤ አንድን ነገር አላስገደሉም ነበር።",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "ሰበሩለት"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "እነዚህ የቆሙት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንጉሡን ሰሎሞንን"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡን"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞንን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "የሚቀርቡትን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "ጠረጴዛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ለሰሎሞን"
+    },
+    {
+      "surface": "איש",
+      "gloss": "በወሩ ወሩ"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "(ወሩ)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "አላስገደሉም ነበር"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "አንድን ነገር"
+    }
+  ],
+  "timestamp": "2026-08-16T06:17:02.618780973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "የአካዝያሁ እናት የሆነችው ዐትልያ ልጇ ሞተ ባየች ጊዜ ተነሳች፤ የመንግሥቱን ዘር ሁሉ ⟨את⟩ አጠፋች።",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "ዐትልያ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እናት"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "የአካዝያሁ"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "ባየች"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ልጇ"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ተነሳች"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "አጠፋች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዘሩን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘር"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "የመንግሥቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:41:55.514661710Z",
+  "model": "glm-5.3"
+}

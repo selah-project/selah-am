@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 102,
+  "translation": "ሕዝቦች አብረው ሲሰበሰቡ፣ መንግሥታትም ⟨את⟩ ያህዌህን ለማገልገል፤",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "ሲሰበሰቡ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "አብረው"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "መንግሥታትም"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ለማገልገል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:58.728050013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 57,
+  "translation": "ምክንያቱም ቸርነትህ እስከ ሰማያት ድረስ ታላቅ ነው፤ እና እስከ ደመናዎች ድረስ ሐቅነትህ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ታላቅ ነው"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ…ድረስ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ቸርነትህ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እና እስከ…ድረስ"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ደመናዎች"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ሐቅነትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:15.993202659Z",
+  "model": "glm-5.3"
+}

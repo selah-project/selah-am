@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ያህዌህም እኔን አለኝ፦ ስለ ⟨ይህ⟩ ሕዝብ ለበግ አትማልድም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህም አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "እኔን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "ትማልድም"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "ለበግ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:47:54.216930124Z",
+  "model": "glm-5.3"
+}

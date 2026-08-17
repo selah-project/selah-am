@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ሕዝቡ ሁሉ በላይዳን ⟨את⟩ ወንዙን ለመሻገር ሲጨርስ፣ ያህዌህ ወደ ይሁሹዕ እንዲህ ብሎ ተናገረ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ሲጨርስ"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "ጨረሰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "ለመሻገር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንዙን (በላይዳን)"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "በላይዳን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ይሁሹዕ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:00:48.622348271Z",
+  "model": "glm-5.3"
+}

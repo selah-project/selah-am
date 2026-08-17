@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ያህዌህ ሰይጣንን «ከየት መጣህ?» አለው፤ ሰይጣንም ⟨את⟩ ያህዌህን መልሶ «በምድር ላይ ከመንሳፈፍና በእርሷም ላይ ከመዞር ነው» አለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ሰይጣን"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ከየት"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "መጣህ"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "መልሶ"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ሰይጣንም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "ከመንሳፈፍ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር ላይ"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "ከመዞርም"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሷ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:40:37.316897450Z",
+  "model": "glm-5.3"
+}

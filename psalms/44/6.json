@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "በአንተ ጠላቶቻችንን ንነጋቸዋለን፤ በስምህ የሚነሱብንን እንበሳቸዋለን።",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ጠላቶቻችንን"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "ንነጋቸዋለን"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "በስምህ"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "እንበሳቸዋለን"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "የሚነሱብንን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:20.289529165Z",
+  "model": "glm-5.3"
+}

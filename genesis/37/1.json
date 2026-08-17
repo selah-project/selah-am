@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ያዕቆብም በአባቱ መጻኢ በኩል የነበረበት በከነዓን ምድር አደረ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "አደረ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብም"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "መጻኢ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "የአባቱ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነዓን"
+    }
+  ],
+  "timestamp": "2026-08-16T14:28:49.103620566Z",
+  "model": "glm-5.3"
+}

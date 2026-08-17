@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "ያህዌህ ለጽድቁ ምክንያት ፈቀደ፤ ትምህርቱን ያበዛል እና ያከብራል።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ፈቀደ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ለምክንያት"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ጽድቁ"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "ያበዛል"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "ትምህርቱን"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "እና ያከብራል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:20:22.787576021Z",
+  "model": "glm-5.3"
+}

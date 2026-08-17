@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 33,
+  "ref": "exodus 9:33",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ሞሼ ከፈርዖን ከ⟨የ⟩ከተማዋ ወጥቶ እጆቹን ወደ ያህዌህ ዘረጋ፤ ነጎዶቹና በረጃዱም አቁ፤ ዝናብም ወደ ምድር አልተከደነም።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጥቶ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ከ… ጋር ከ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተማዋ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋ"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "ዘረጋ"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "እጆቹን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "አቁ"
+    },
+    {
+      "surface": "הקלות",
+      "gloss": "ነጎዶቹ"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "እና በረጃዱም"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "እና ዝናብም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል፤ አል… ም"
+    },
+    {
+      "surface": "נתך",
+      "gloss": "ተከደነ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ወደ ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:10:40.526470172Z",
+  "model": "glm-5.3"
+}

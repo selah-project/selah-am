@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "numbers 31:26",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "የተማረከውን አረማ በሰውም በእንስሳም ራስ ማንሳት አንተ፣ ኤልዓዛር ካህኑም፣ የማኅበረሰቡም የአባቶች አለቆችም ⟨את⟩ ይዛችኋል።",
+  "tokens": [
+    {
+      "surface": "שא",
+      "gloss": "ማንሳት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራስ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "አረማ"
+    },
+    {
+      "surface": "השבי",
+      "gloss": "የተማረከውን"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "በሰው"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "እና በእንስሳ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "እና ኤልዓዛር"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "እና የአለቆች"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "አባቶች"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "የማኅበረሰቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:29:18.207117700Z",
+  "model": "glm-5.3"
+}

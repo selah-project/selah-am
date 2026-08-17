@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "⟨את⟩ የሙሉ መሥዋዕት መሠዊያውን እና ⟨את⟩ የናስ ሰሌዳውን የሚኖረውን ⟨את⟩ አሞሎቹን እና ⟨את⟩ ሁሉንም ዕቃዎቹን ⟨את⟩ ማጠቢያውን እና ⟨את⟩ ጫማውን።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሠዊያ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠዊያ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "የሙሉ መሥዋዕት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሰሌዳ"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "ሰሌዳ"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "የናስ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚኖረው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "የ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አሞሎቹን"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "አሞሎቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉንም"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ዕቃዎቹን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማጠቢያ"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ማጠቢያ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ጫማውን"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ጫማውን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:33:23.933170291Z",
+  "model": "glm-5.3"
+}

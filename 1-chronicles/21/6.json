@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "እና ሌዊንና ብንያምን በእነርሱ ዘንድ አልቆጠረም፤ ምክንያቱም የንጉሡ ቃል በዮአብ ዘንድ ⟨את⟩ የተጠላ ነበር።",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "እና ሌዊ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "እና ብንያም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ቆጠረ"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "በእነርሱ ዘንድ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "የተጠላ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮአብ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:05:19.952575005Z",
+  "model": "glm-5.3"
+}

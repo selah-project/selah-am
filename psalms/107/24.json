@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "እነርሱ የያህዌህን ሥራዎች አይተዋል፣ እና ድንቆቹንም በጥልቀት ውስጥ።",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "እነርሱ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "አይተዋል"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "የ…ሥራዎችን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "እና ድንቆቹን"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "በጥልቀት ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:25.505714380Z",
+  "model": "glm-5.3"
+}

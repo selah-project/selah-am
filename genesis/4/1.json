@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እና ⟨האדם⟩ ሰውዬ የእርሱን ሚስት ሐዋን ⟨את⟩ አወቀ፤ እርሷም አረገች እና ቀይንን ⟨את⟩ ወለደች፤ እርሷም እንዲህ አለች፦ «በያህዌህ ⟨את⟩ አንድ ወንድ አትረፍኩ።»",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "እና ዐድም"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "አወቀ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሐዋ"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "ሐዋ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "የእርሱን ሚስት"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "አረገች"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቀይን"
+    },
+    {
+      "surface": "קין",
+      "gloss": "ቀይን"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "እና አለች"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "አትረፍኩ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ወንድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:30:05.781071064Z",
+  "model": "glm-5.3"
+}

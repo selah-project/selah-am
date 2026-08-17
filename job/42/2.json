@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "ሁሉን እንደምትችል አውቄያለሁ፤ ከሥርዓትህ የሚታከን ዕቅድ የለም።",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "አውቄያለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "እንደምትችል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "የለምም"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "የሚታከን"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ከሥርዓትህ"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "ዕቅድ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:02:02.054301640Z",
+  "model": "glm-5.3"
+}

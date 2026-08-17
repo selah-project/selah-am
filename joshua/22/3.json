@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "joshua 22:3",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ወንድሞቻችሁን ⟨את⟩ ይህን ብዙ ቀናት እስከ ዛሬው ዕለት አልተዋችሁም፤ የያህዌህ ኤሎሂም ትእዛዝ መጠበቂያንም ⟨את⟩ ጠበቃችሁ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አልም"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "አልተዋችሁም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንድሞቻችሁን"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ወንድሞቻችሁ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬው ዕለት"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "እና ጠበቃችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መጠበቂያን"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "መጠበቂያ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:12:17.143526930Z",
+  "model": "glm-5.3"
+}

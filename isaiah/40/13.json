@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "መንፈስ ያህዌህን ⟨את⟩ ማን መገንዘብ ይችላል? እና ሰው ምክሩን ያሳውቀዋልን?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "መገንዘብ ይችላል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንፈስ ያህዌህን"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "እና ሰው"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "ምክሩን"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "ያሳውቀዋልን?"
+    }
+  ],
+  "timestamp": "2026-08-16T07:21:06.093033302Z",
+  "model": "glm-5.3"
+}

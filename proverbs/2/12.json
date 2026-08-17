@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "proverbs 2:12",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ከክፉ መንገድ፣ ከመገለገለ የሚናገር ሰው ለማድነህ።",
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "ለማድነህ"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ከ…መንገድ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ከ…ሰው"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "የሚናገር"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "መገለገለ\/ተንኮል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:20:35.285529862Z",
+  "model": "glm-5.3"
+}

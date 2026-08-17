@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ያህዌህ ሆይ፣ በቃልህ እንደሚሆን ከአገልጋይህ ጋር ⟨በጎ⟩ አድርገሃል።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "በጎ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "አድርገሃል"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "አገልጋይህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "በቃልህ እንደሚሆን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:10.498677721Z",
+  "model": "glm-5.3"
+}

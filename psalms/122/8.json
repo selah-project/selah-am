@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 122,
+  "translation": "ስለ ወንድሞቼ እና ስለ ወዳጆቼ ማንነት፣ በአንተ ውስጥ ሰላም እናገራለሁ እንጂ እባክህ።",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ስለ ማንነት"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ወንድሞቼ"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "እና ወዳጆቼ"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "እናገራለሁ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እንጂ እባክህ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:25.497369312Z",
+  "model": "glm-5.3"
+}

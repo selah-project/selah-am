@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 7:14",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ሁለትም የፈረስ ሠረገሎች ወሰዱ፤ ንጉሡም ከአራም ሰፈር በኋላ ላከና አለ፦ ሂዱና አዩ።",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ወሰዱም"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "የፈረስ ሠረገሎች"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ፈረሶች"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "በኋላ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ሰፈር"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "አራም"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እያለ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ሂዱ"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "አዩ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:41:47.170245325Z",
+  "model": "glm-5.3"
+}

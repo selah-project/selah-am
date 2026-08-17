@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "proverbs 13:24",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "በኩራቱ የሚቆጥብ ልጁን ይጠላል፤ የሚወደው ግን በልጋ ተግሣጹን ይፈልጋል።",
+  "tokens": [
+    {
+      "surface": "חושך",
+      "gloss": "የሚቆጥብ"
+    },
+    {
+      "surface": "שבטו",
+      "gloss": "በኩራቱ"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ይጠላል"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁን"
+    },
+    {
+      "surface": "ואהבו",
+      "gloss": "የሚወደው"
+    },
+    {
+      "surface": "שחרו",
+      "gloss": "በልጋ ይፈልጋል"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ተግሣጹን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:27:02.681480452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "የኤሎሂም አምላካችንን ⟨את⟩ ታቦት ወደ እኛ እንመልስ፤ በሳኦል ዘመን አልፈለግነውምና።",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "እንመልስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦት"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "የኤሎሂም አምላካችንን"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ወደ እኛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "ፈለግነው"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "በ… ዘመን"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    }
+  ],
+  "timestamp": "2026-08-16T12:56:43.077427206Z",
+  "model": "glm-5.3"
+}

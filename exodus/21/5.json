@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "እና በሚል ቢል አገልጋዩ ሲናገር፣ ጌታዬን ወደድሁ፣ ⟨את⟩ ሚስቴን እና ⟨את⟩ ልጆቼንም — ነጻ አይወጣም።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እና ከሆነ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በሚል"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ቢል"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "አገልጋዩ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ወደድሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጌታዬን"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጌታዬ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚስቴን"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "ሚስቴን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ልጆቼን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆቼን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ወጣም"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "ነጻ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:21:16.336878130Z",
+  "model": "glm-5.3"
+}

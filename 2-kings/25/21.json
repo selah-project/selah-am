@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "የባቢሎን ንጉሥ እነሱን ⟨אתם⟩ መታቸው፣ በሐማት ምድር በሪብላ ገደላቸው፤ ይሁዳም ከምድሩ ተገፋ።",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "መታቸው"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "የባቢሎን"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "ገደላቸው"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "በሪብላ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በ…ምድር"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ሐማት"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "ተገፋ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳም"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከ…ተነሣ"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "ከምድሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:57:58.533380601Z",
+  "model": "glm-5.3"
+}

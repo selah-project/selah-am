@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "«እናንተ ማን ነህ?» አለኝ፤ እኔም እንዲህ አልሁት፦ «አማሌቃዊ ነኝ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለኝ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "እኔን"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ነህ?"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አልሁት፦"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "አማሌቃዊ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ነኝ።"
+    }
+  ],
+  "timestamp": "2026-08-16T05:53:00.089652828Z",
+  "model": "glm-5.3"
+}

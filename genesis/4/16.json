@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ቃየንም ከያህዌህ ፊት ወጣ፤ በኖድ ምድርም በዔድን ምሥራቅ ኑሮውን መሠረተ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጣም"
+    },
+    {
+      "surface": "קין",
+      "gloss": "ቃየን"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ከ… ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ኑሮውን መሠረተም"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በ… ምድር"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "ኖድ"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "ምሥራቅ"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ዔድን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:17.999920338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ሕዝቡም ለይሆሹዋ እንዲህ አለ፤ አይደለም፤ ነገር ግን ያህዌህን ⟨את⟩ እናገልግላለን።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ይሆሹዋ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "እናገልግላለን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:13:32.796822378Z",
+  "model": "glm-5.3"
+}

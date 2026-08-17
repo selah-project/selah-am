@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "numbers 21:4",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ከሖር ተራራም ወጥተው ወደ ኤዶም ምድር ⟨את⟩ ለማንከባለል በግሮች ባሕር መንገድ ተጓዙ፤ ሕዝቡም በመንገዱ ምክንያት ዕውነተኛ እስሜት አደረሰ።",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ተጓዙ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ከተራራ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ሖር"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ግሮች"
+    },
+    {
+      "surface": "לסבב",
+      "gloss": "ለማንከባለል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድር"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "የኤዶም"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "አደነዘዘ\/እስሜት አደረሰ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "የሕዝቡ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገዱ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:20:19.803819505Z",
+  "model": "glm-5.3"
+}

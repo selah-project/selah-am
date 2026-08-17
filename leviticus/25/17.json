@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "እንጂ ሰው ⟨את⟩ አጋሩን አትበዝበዙ፤ ከኤሎሂምህም ትፈራለህ፤ እኔ ያህዌህ ኤሎሂምና በመሆኔ ምክንያት።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "እንጂ"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "አትበዝበዙ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አጋሩን"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "አጋሩን"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ትፈራለህ"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "ከኤሎሂምህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያት"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:01:13.045271840Z",
+  "model": "glm-5.3"
+}

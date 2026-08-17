@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ለምን ለዘላለም ትረሳናለህ? ለብዙ ቀናት ትተውናለህ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "ትረሳናለህ"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "ትተውናለህ"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "ለብዙ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀናት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:12:24.051125966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 104,
+  "translation": "መንፈስህን ትልካለህ፣ ይፈጠራሉ፤ የምድርንም ፊት ታደስሃል።",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "ትልካለህ"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "መንፈስህን"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "ይፈጠራሉ"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "ታደስሃል"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊትን"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "የምድርንም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:29.142511230Z",
+  "model": "glm-5.3"
+}

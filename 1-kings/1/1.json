@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ንጉሡም ዳዊት ሽመገለ፣ በቀናት ⟨ገባ⟩፤ በልብሶችም ሰወሩት፣ ነገር ግን ሙቀት አልነበረውም።",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ሽመገለ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "በቀናት ⟨ገባ⟩"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "በቀናት"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "ሰወሩት"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "በልብሶችም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ነገር ግን አል"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ሙቀት ነበረው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:12:52.475807281Z",
+  "model": "glm-5.3"
+}

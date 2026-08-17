@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 71,
+  "translation": "ያህዌህ ሆይ፣ በአንተ ተጠጋኩ፤ ለዘላለም አልታፈርሁም።",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ተጠጋኩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አልፋ"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ታፈርሁ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:55.540473336Z",
+  "model": "glm-5.3"
+}

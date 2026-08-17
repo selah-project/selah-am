@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "የዮሴፍን ድንኳን ጥሎ አልመረመረም፤ የኤፍሬምን ነገዥም አልመረጠም።",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "ጥሎ አልመረመረም"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "በድንኳን"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "በነገዥም"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍሬም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "መረጠ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:51.970455122Z",
+  "model": "glm-5.3"
+}

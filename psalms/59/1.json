@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 59,
+  "translation": "ለመዝማሪው፤ «አታጥፋው»፤ ለዳዊድ፤ ሚክታም፤ በሳኦል በላከ ጊዜ ቤቱን ⟨את⟩ እንዲገድሉት ጠበቁ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመዝማሪው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ታጥፋው"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊድ"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ሚክታም"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "በላከ ጊዜ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "ጠበቁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱን"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤቱን"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "እንዲገድሉት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:05.116329669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ኖኅ አምስት መቶ ዓመት የዕድሜ ልጅ ሆኖ ኖኅ ⟨את⟩ ሴምን፣ ⟨את⟩ ካምን እና ⟨את⟩ ያፌትን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆኖ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖኅ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የዕድሜ ልጅ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖኅ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሴምን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ሴምን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ካምን"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ካምን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ያፌትን"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ያፌትን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:31:17.631277106Z",
+  "model": "glm-5.3"
+}

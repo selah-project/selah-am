@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "ezekiel 5:4",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ከእነሱም እንደገና ትወስዳለህ፣ ወደ እሳቱ መካከል ታስወርዳቸዋለህ፣ በእሳትም ታቃጥላቸዋለህ፤ ከዚያው እሳት ወደ ሁሉም የእስራኤል ቤት ያወጣል።",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "ከእነሱም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "እንደገና"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ትወስዳለህ"
+    },
+    {
+      "surface": "והשלכת",
+      "gloss": "ታስወርዳለህ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "እነሱን ⟨את⟩",
+      "marks": "የተወሰዱትን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "... መካከል"
+    },
+    {
+      "surface": "האש",
+      "gloss": "እሳቱ"
+    },
+    {
+      "surface": "ושרפת",
+      "gloss": "ታቃጥላቸዋለህም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "እነሱን ⟨את⟩",
+      "marks": "የተወረዱትን"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከዚያው"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ያወጣል"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T08:20:55.323859738Z",
+  "model": "glm-5.3"
+}

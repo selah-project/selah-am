@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "ሥጋ እንጂ አይደሉም ብላ አሰበ፤ ነፍስ የምትሄድ ትሆናለች፣ እንጂ ትመለሳለች አይደለችም።",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "አሰበ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንጂ አይደሉም ብላ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነሱ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ነፍስ\/ነፋስ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "የምትሄድ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይደለችም፤"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ትመለሳለች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:19.920997195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 57,
+  "translation": "አመሰግንሃለሁ በሕዝቦች መካከል አዶናይ፤ አዘምርሃለሁ በአሕዛቦች መካከል።",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "አመሰግንሃለሁ"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "በሕዝቦች መካከል"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "አዘምርሃለሁ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "በአሕዛቦች"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "መካከል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:15.993029831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 45,
+  "ref": "exodus 29:45",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "እኔም በእስራኤል ልጆች መካከል እኖራለሁ፤ ለእነርሱም ኤሎሂም እሆናለሁ።",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "እኖራለሁ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "እሆናለሁ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነርሱ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:27:32.105219548Z",
+  "model": "glm-5.3"
+}

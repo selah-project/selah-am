@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "ezekiel 16:10",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "የደረቀ ልብስ አልብሳህ፣ የታክሽ ቆዳ ጫማ አገራህ፣ በጥሩ በፍት አንበርብርህ፣ በሐርም አከድንህ።",
+  "tokens": [
+    {
+      "surface": "ואלבישך",
+      "gloss": "አልብሳህ"
+    },
+    {
+      "surface": "רקמה",
+      "gloss": "የደረቀ ልብስ"
+    },
+    {
+      "surface": "ואנעלך",
+      "gloss": "አገራህ"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "የታክሽ ቆዳ ጫማ"
+    },
+    {
+      "surface": "ואחבשך",
+      "gloss": "አንበርብርህ"
+    },
+    {
+      "surface": "בשש",
+      "gloss": "በጥሩ በፍት"
+    },
+    {
+      "surface": "ואכסך",
+      "gloss": "አከድንህ"
+    },
+    {
+      "surface": "משי",
+      "gloss": "በሐር"
+    }
+  ],
+  "timestamp": "2026-08-16T08:26:28.665520212Z",
+  "model": "glm-5.3"
+}

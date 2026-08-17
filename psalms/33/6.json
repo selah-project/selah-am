@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "በያህዌህ ቃል ሰማያት ተፈጠሩ፤ በእርሱ አፍ እስትንፋስም ሁሉ በትርም ተፈጠረ።",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "በቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "ተፈጠሩ"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "እና በእስትንፋስ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "በእርሱ አፍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "በትርም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:12.631250317Z",
+  "model": "glm-5.3"
+}

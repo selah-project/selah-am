@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 66,
+  "translation": "ለዝማሬ አለቃ። ዘፈን፣ መዝሙር። ለኤሎሂም ድምፅ አስተጋባ፣ መላው ⟨የ⟩ምድር ሁሉ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለዝማሬ አለቃ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ዘፈን"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ድምፅ አስተጋባ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ለኤሎሂም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላው"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:13.714353049Z",
+  "model": "glm-5.3"
+}

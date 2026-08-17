@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ለጓደኛህ «ሂኽ፣ ተመለስ፣ ነገ እሰጣለሁ» አትበል፣ ⟨את⟩ ከአንተ ጋር ሲኖር።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ትበል"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "ለጓደኛህ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ሂኽ"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "እና ተመለስ"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "እና ነገ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "እሰጣለሁ"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "እና ሲኖር"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ከአንተ ጋር",
+      "marks": "ከአንተ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:22:27.965413102Z",
+  "model": "glm-5.3"
+}

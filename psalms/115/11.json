@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 115,
+  "translation": "የያህዌህን ሚመራጆች ሆይ፣ በያህዌህ ታምካችሁ፤ ረዳታቸውና ጋሻቸው ⟨እርሱ⟩ ነው።",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "የሚመራጆች ሆይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህን"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ታምካችሁ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "በያህዌህ"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ረዳታቸው"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "እና ጋሻቸው"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨እርሱ⟩ ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:59.337830412Z",
+  "model": "glm-5.3"
+}

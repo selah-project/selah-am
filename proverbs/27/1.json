@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ስለ ነገ ቀን አትመስገን፤ እንደሆነ የቀን ወላድ አታውቅምና።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ትመስገን"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ስለ ቀን"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ነገ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደሆነ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አታውቅምና"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "አታውቅ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወላድ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "የቀን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:36:57.658495287Z",
+  "model": "glm-5.3"
+}

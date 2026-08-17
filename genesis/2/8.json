@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ያህዌህ ኤሎሂምም በዐደን በምሥራቅ ወደ አንድ አትክልት ተከለ፤ ⟨את⟩ ሰውንም እንደ አሰራው እዚያ አኖረው።",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "ተከለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "גן",
+      "gloss": "የአትክልት ስፍራ \/ አትክልት"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "በዐደን"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "በምሥራቅ \/ ከዚያ በፊት"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "አኖረው"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰውን"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "አሰራው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:17.633417116Z",
+  "model": "glm-5.3"
+}

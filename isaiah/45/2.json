@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "isaiah 45:2",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "እኔ ከፊትህ እሄዳለሁ፤ ኩራታን እቀናጃለሁ፤ የናስ በርቆችን አፈርሳለሁ፤ የብረት አሞሌዎችን እቆርጣለሁ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ከፊትህ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "እሄዳለሁ"
+    },
+    {
+      "surface": "והדורים",
+      "gloss": "ኩራታን"
+    },
+    {
+      "surface": "אושר",
+      "gloss": "እቀናጃለሁ"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "በርቆችን"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "የናስ"
+    },
+    {
+      "surface": "אשבר",
+      "gloss": "አፈርሳለሁ"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "አሞሌዎችን"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "የብረት"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "እቆርጣለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:24:12.101129687Z",
+  "model": "glm-5.3"
+}

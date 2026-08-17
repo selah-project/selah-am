@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 16:15",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "በውበትህ ተመካህ እና በስምህ ዘለቀህ፤ ⟨את⟩ ዝሙትህን በእያንዳንዱ ማለፊ ላይ ለራሱ ያለው ሆኖ አፈሰስህ።",
+  "tokens": [
+    {
+      "surface": "ותבטחי",
+      "gloss": "ተመካህ"
+    },
+    {
+      "surface": "ביפיך",
+      "gloss": "በውበትህ"
+    },
+    {
+      "surface": "ותזני",
+      "gloss": "ዘለቀህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህ"
+    },
+    {
+      "surface": "ותשפכי",
+      "gloss": "አፈሰስህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዝሙትህን"
+    },
+    {
+      "surface": "תזנותיך",
+      "gloss": "ዝሙትህን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በእያንዳንዱ"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "ማለፊ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለራሱ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ያለው ሆኖ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:38:52.660690982Z",
+  "model": "glm-5.3"
+}

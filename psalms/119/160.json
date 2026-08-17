@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ራስ የቃልህ እውነት ነው፤ እስከ ዘለዓለምም ሁሉ ፍርድ ጽድቅህ ነው።",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "የቃልህ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "እውነት"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "እስከ ዘለዓለምም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድ"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ጽድቅህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:51.076805064Z",
+  "model": "glm-5.3"
+}

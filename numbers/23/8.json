@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ራት እችላለሁኝ? ኤል አልራተውም፤ እና እቈጣለሁን? ያህዌህ አልቈጣውም።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ምን...ን?"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "እራታለሁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "ራተው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "እና ምን...ን?"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "እቈጣለሁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ቈጣው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:23:04.771339374Z",
+  "model": "glm-5.3"
+}

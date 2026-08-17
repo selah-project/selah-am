@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 135,
+  "translation": "ለሴይሆን የአሞራውያን ንጉሥ፣ ለዔግ የባሳን ንጉሥ፣ እና ለከነዓን መንግሥታት ሁሉ።",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "ለሴይሆን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ የ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "አሞራውያን"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "ለዔግ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ የ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ባሳን"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "እና ለሁሉም"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "መንግሥታት"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነዓን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:20.250249512Z",
+  "model": "glm-5.3"
+}

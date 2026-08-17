@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "በእውነት ነፍሴን ለሴኦል አትተዋትም፤ «እውነትም» ቅዱሳንህን ጉድጓድን እንዲያይ አታደርግም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አትተዋትም፤"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "አትተዋትም"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ለሴኦል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አታደርግም፤"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "አታደርግም"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "ቅዱሳንህን"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "እንዲያይ"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ጉድጓድን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:23.563384147Z",
+  "model": "glm-5.3"
+}

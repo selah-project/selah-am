@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ያህዌህም «ይህን ሥራ አታድርጉ» ብሎ ባለኝ በእነርሱ መልክ የሐሰት አማልክትን አገለገሉ።",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "አገለገሉ"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "የሐሰት አማልክትን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ብሎ ባለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "በእነርሱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አታድርጉ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ታደርጉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሥራን"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ሥራን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:49:06.815284880Z",
+  "model": "glm-5.3"
+}

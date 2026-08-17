@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 114,
+  "translation": "ተራሮች ሆይ፣ እንደ አውራ በጎች እንድትዘፈኑ፤ ኮረብቶች ሆይ፣ እንደ መንጋ ጠጆች ልጆች፧",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "ተራሮች"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "እንድትዘፈኑ"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "እንደ አውራ በጎች"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ኮረብቶች"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "እንደ ልጆች"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "መንጋ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:46.563828148Z",
+  "model": "glm-5.3"
+}

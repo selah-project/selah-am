@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "መሸም ሆነ፣ ጠዋትም ሆነ፤ አምስተኛው ቀን።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "መሸም"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነም"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ጠዋት"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "አምስተኛው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:28:27.512900625Z",
+  "model": "glm-5.3"
+}

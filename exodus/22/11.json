@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እና ከእርሱ ቢሰረቅ በሚሰረቅበት፣ ለባለቤቱ ይከፍላል።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እና ከሆነ"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "በሚሰረቅበት"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "ቢሰረቅ"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ከእርሱ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ይከፍላል"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "ለባለቤቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:21:00.285495669Z",
+  "model": "glm-5.3"
+}

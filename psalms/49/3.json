@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "እንዲሁም የሰው ልጆችም ሆኑ የባለጌቶች ልጆች፣ አብረዋቸው ባለጠጎችና ድሆች ሁሉ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ባለጌቶች"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "አብረው"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ባለጠጎች"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ድሆች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:33.276632994Z",
+  "model": "glm-5.3"
+}

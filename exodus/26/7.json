@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "የፍየል ጠጒር እርግጥሮችን ለመንደሩ ሽፋን በመንደሩ ላይ ታደርጋለህ፤ አሥራ አንድ እርግጥሮችን ⟨את⟩ እነሱን ታደርጋለህ።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "እርግጥሮችን"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "የፍየል ጠጒር"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "ለመንደሩ ሽፋን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "በመንደሩ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "አሥራ አንድ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "እርግጥሮችን"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:25:51.055391369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የያህዌህ ቃላት ንጹህ ቃላት ⟨ናቸው⟩፤ ለምድር ⟨ב⟩ማቅለሚያ ውስጥ የተፈተሸ ብር፣ ሰባት ጊዜ የተጥራ ነው።",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "ንጹህ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "የተፈተሸ"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "በ…ውስጥ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ለምድር"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "የተጥራ"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "ሰባት ጊዜ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:40.026822837Z",
+  "model": "glm-5.3"
+}

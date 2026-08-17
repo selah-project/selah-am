@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "በእውነት ማን ይበላል፣ እና ማን ያደንቃል ከእኔ በስተቀር፧",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበላል"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "እና ማን"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "ያደንቃል"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "በስተቀር"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:13:06.809262778Z",
+  "model": "glm-5.3"
+}

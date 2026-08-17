@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "በሮቹ በእቃው ቀለበቶች ውስጥ ይኖራሉ፤ ከእርሱ አይነሱም።",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "በቀለበቶች"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "እቃው"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ይኖራሉ"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "በሮቹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "ነገሩን አያዘዋም\/አይነሱም"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:24:08.216901318Z",
+  "model": "glm-5.3"
+}

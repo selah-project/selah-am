@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 24:25",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "የሱስዩ በዚያ ቀን ለሕዝቡ ቃል ኪዳን ቈረጸ፤ እንዲሁም በሴኬም ለራሱ ሕግና ፍርድ እንዲሆን አደረገ።",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "ቈረጸ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሱስዩ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ቃል ኪዳን"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ለሕዝቡ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በዚያ ቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያኔው"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለራሱ"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ሕግ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "እንዲሁም ፍርድ"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "በሴኬም"
+    }
+  ],
+  "timestamp": "2026-08-16T15:26:47.041901030Z",
+  "model": "glm-5.3"
+}

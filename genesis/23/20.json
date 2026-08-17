@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ማሳው እና በእርሱ ውስጥ ያለዋ ዋሻ ለአብርሃም እንደ መቃብር ንብረት ከኬት ልጆች ⟨את⟩ ተረጋገጡ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተረጋገጡ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ማሳው"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "እና ዋሻዋ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለዋ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ ውስጥ"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ለአብርሃም"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "እንደ ንብረት የተያዘ"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "መቃብር"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ከ — ⟨את⟩",
+      "marks": "ከኬት ልጆች"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ኬት"
+    }
+  ],
+  "timestamp": "2026-08-16T02:41:48.341968254Z",
+  "model": "glm-5.3"
+}

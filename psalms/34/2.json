@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ያህዌህን ⟨את⟩ በሁሉም ጊዜ እባርካለሁ፤ ምስጋናው በአፌ ውስጥ ሁልጊዜ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "እባርካለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉም"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ምስጋናው"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "በአፌ ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:53.865642635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ጠዋት ⟨את⟩ ዘሩህን ዘራ፤ እና ማታ እጅህን አታሳምን፤ የትኛው እንደሚጠቅም ለምን እንደምታውቅ — ይህ ወይ ያንን፣ ወይም ሁለቱም እንደ አንድ መልካም እንደሆኑ አታውቅም።",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "ጠዋት"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዘሩህን"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ዘርህን"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "እና ማታ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ታሳምን"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "የምንም"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "አት...ም"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ታውቅ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "የት"
+    },
+    {
+      "surface": "זה",
+      "gloss": "የትኛው"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "ይጠቅማል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "እና እንደ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ሁለቱም"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "እንደ አንድ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "መልካም ናቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T11:18:17.220910745Z",
+  "model": "glm-5.3"
+}

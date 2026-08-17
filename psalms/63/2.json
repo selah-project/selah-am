@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 63,
+  "translation": "ኤሎሂም ኤል ነህ፤ እንደ ጠዋት ልወጣህ ነፍሴ ለአንተ ጠማች፤ ሥጋዬ ለአንተ ተመኘ፤ በደረቅና በደክም ያለ ውሃ ምድር።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ነህ"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "እንደ ጠዋት ልወጣህ"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "ጠማች"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "ተመኘ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ሥጋዬ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "ደረቅ"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "እና ደክም"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ያለ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:45.729017871Z",
+  "model": "glm-5.3"
+}

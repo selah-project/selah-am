@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 76,
+  "translation": "በዚያ የቀስት እሳቶችን አበጣጣሸ፤ ጋሻን፣ ሰይፍንና ውጊያን። ሰላም።",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "አበጣጣሸ"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "እሳቶችን"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "የቀስት"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ጋሻን"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ሰይፍንና"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "ውጊያን"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:36.795092508Z",
+  "model": "glm-5.3"
+}

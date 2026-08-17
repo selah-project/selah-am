@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "የንጉሡንም ልጅ ⟨את⟩ አወጣ፤ አክሊሉንም ⟨את⟩ እና ⟨את⟩ ምስክሩን በላዩ አኖረ፤ ንጉሥም አደረጉት፤ ዘከሩትም፤ እጃቸውንም መቱ እና «ንጉሡ ይኑር!» አሉ።",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "አወጣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የንጉሡን ልጅ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "አኖረ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በላዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አክሊሉን"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "አክሊሉን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምስክሩን"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ምስክሩን"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ንጉሥ አደረጉት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን (ዘከሩት)"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "ዘከሩት"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "መቱ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "እጅ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "አሉ"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "ይኑር"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:52:12.480356197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "አሃሮንንም ⟨את⟩ እና ወንዶቹን ⟨את⟩ ወደ ማኅበር ድንኳን በር ታቀርባቸዋለህ እና በውሃ ⟨את⟩ እነሱን ታጠባቸዋለህ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "አሃሮንን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ወንዶቹን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ወንዶቹን"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "ታቀርባቸዋለህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "በር"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ማኅበር"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ታጠባቸዋለህ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "במים",
+      "gloss": "በውሃ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:29:55.894548595Z",
+  "model": "glm-5.3"
+}

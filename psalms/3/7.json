@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "በአኅዝ በሚሊዮኖች ሰዎች አልፈራም፤ በዙሪያዬ ሲሰሉ ይዘውኛል።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አልፈራም"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "አልፈራም"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "በሚሊዮኖች"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሰዎች፤ አኅዝ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚያ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "በዙሪያዬ"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ሲያቆሙ ይዘውኛል"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:28:42.731104254Z",
+  "model": "glm-5.3"
+}

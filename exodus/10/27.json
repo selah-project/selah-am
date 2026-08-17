@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ያህዌህም ⟨את⟩ የፈርዖንን ልብ አጠናከረ፤ እነሱንም ለመልቀቅ አልፈለገም።",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "አጠናከረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የፈርዖንን ልብ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ፈለገ"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "እነሱን ለመልቀቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:12:09.079642861Z",
+  "model": "glm-5.3"
+}

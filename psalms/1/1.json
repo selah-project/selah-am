@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የተባረከ ⟨ሰው⟩ ያ — በክፉዎች ምክር ያልሄደ፣ በኃጢአተኞችም መንገድ ያልቆመ፣ በአስቀማኞችም መቀመጫ ያልተቀመጠ።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "የተባረከ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ሄደም"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "በምክር"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉዎች"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "እና በመንገድ"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ኃጢአተኞች"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ቆመም"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "እና በመቀመጫ"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "አስቀማኞች"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ተቀመጠም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:29:39.154142820Z",
+  "model": "glm-5.3"
+}

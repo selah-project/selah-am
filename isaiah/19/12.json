@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "isaiah 19:12",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "አሁን የት ናቸው ጠቢባንህ? ያስረዱልህ እንጂ በጦርአት ያህዌህ በምጽርም ላይ ምን እንዳሳሰበ ይወቁ።",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "የት"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "ጠቢባንህ"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ያስረዱልህ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እንጂ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ይወቁ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "አሳሰበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "የጦርአት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽርም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:05:50.416524078Z",
+  "model": "glm-5.3"
+}

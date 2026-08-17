@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "አብራሃም ነፍሱን ሰጠ ሞተም፤ በጥሩ ሽማግሌነት አይጦ የሞላ አክሊል ሆኖ ከሕይወት በደረሰ ጊዜ ተሰበሰበ ወደ ሕዝቡ።",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "ነፍሱን ሰጠ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተም"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብራሃም"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "በ…ሽማግሌነት"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ጥሩ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "አይጦ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "የሞላ"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ተሰበሰበ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "ወደ ሕዝቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:43:37.129501194Z",
+  "model": "glm-5.3"
+}

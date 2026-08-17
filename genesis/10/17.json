@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እና ⟨את⟩ ሐዊዊ፣ እና ⟨את⟩ ዐርቂ፣ እና ⟨את⟩ ሲኒ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሐዊውያን"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ሐዊዊ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዐርቂ"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "ዐርቂ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሲኒ"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "ሲኒ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:30.129854791Z",
+  "model": "glm-5.3"
+}

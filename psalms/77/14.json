@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 77,
+  "translation": "ኤሎሂም፤ በቅድስና ⟨ነው⟩ መንገድህ፤ እንደ ኤሎሂም ታላቅ ኤል ማን ⟨ነው⟩?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "በቅድስና"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "መንገድህ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "እንደ ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:38.618792252Z",
+  "model": "glm-5.3"
+}

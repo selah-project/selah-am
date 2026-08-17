@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ፈርዖንም ወደ ኋላ ተመለሰ፤ ወደ ቤቱም ገባ፤ ልቡንም በዚህም ጉዳይ አልጨረሰም።",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "ተመለሰም"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ገባም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "שת",
+      "gloss": "አልጨረሰም"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡን"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "በዚህ ጉዳይ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:07:27.874118659Z",
+  "model": "glm-5.3"
+}

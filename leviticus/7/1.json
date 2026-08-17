@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እና ይህ ትእዛዝ የአመስቀል መሥዋዕት ⟨ናት፣ የ⟩ቅዱስ ቅዱሳን ና።",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "እና ይህ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "የአመስቀል መሥዋዕት"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ቅዱሳን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:45:24.961705668Z",
+  "model": "glm-5.3"
+}

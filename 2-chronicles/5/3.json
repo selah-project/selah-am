@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እስራኤላውያን ሰዎች ሁሉም በበዓሉ ጊዜ ወደ ንጉሡ ተሰበሰቡ፤ እርሱም ⟨ነው⟩ ሰባተኛው ወር።",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "ተሰበሰቡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤላውያን"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "በበዓሉ ጊዜ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱም"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ወር"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ሰባተኛው"
+    }
+  ],
+  "timestamp": "2026-08-16T18:37:29.873886696Z",
+  "model": "glm-5.3"
+}

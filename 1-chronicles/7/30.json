@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "1-chronicles 7:30",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የአሴር ልጆች ይምና እና ይስዋ እና ይስዊ እና በርያ እና ሴራሕ እህታቸው ናቸው።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "የ... ልጆች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "አሴር"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "ይምና"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "እና ይስዋ"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "እና ይስዊ"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "እና በርያ"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "እና ሴራሕ"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "እህታቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T12:44:13.872895576Z",
+  "model": "glm-5.3"
+}

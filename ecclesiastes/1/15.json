@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የተጣባቀው ሊታረም አይችልም፤ የጎደለውም ሊቆጠር አይችልም።",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "የተጣባቀው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ይችልም"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ሊታረም"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "የጎደለውም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ይችልም"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "ሊቆጠር"
+    }
+  ],
+  "timestamp": "2026-08-16T18:16:36.170608690Z",
+  "model": "glm-5.3"
+}

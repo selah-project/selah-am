@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ዘፈኑን ሁሉ ⟨את⟩ እና የወሰዱትን ሁሉ ⟨את⟩ በሰውም በእንስሳም ወሰዱ።",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ወሰዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "ዘፈኑን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "የወሰዱትን"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "በሰውም"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "በእንስሳም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:28:06.855287028Z",
+  "model": "glm-5.3"
+}

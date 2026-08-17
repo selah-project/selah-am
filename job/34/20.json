@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "job 34:20",
+  "book": "job",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "በአፍጻጸም ይሞታሉ፤ በሌሊት አጋጣሚ ሕዝቡ ይንቀጠቀጣል እና ያልፋል፤ ብርቱውንም ያለ እጅ ያስወግዳሉ።",
+  "tokens": [
+    {
+      "surface": "רגע",
+      "gloss": "በአፍጻጸም"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ይሞታሉ"
+    },
+    {
+      "surface": "וחצות",
+      "gloss": "እና በአጋጣሚ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ሌሊት"
+    },
+    {
+      "surface": "יגעשו",
+      "gloss": "ይንቀጠቀጣሉ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "ያልፋሉ"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "ያስወግዳሉ"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "ብርቱውን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጅ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:58:43.633279727Z",
+  "model": "glm-5.3"
+}

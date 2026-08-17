@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ምክንያቱም መልካም ትምህርት ሰጠሁላችሁ፤ ሕጌን አትተዉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ትምህርት"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ሰጠሁ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ላችሁ"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ሕጌ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "ትቷት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:22:05.342533891Z",
+  "model": "glm-5.3"
+}

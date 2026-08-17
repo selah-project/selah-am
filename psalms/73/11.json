@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "«ኤል እንዴት ያውቃል? በልዑልም እውቀት አለ?» ይላሉ።",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ይላሉ"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "እንዴት"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ያውቃል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "እውቀት"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "በልዑል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:12.954809256Z",
+  "model": "glm-5.3"
+}

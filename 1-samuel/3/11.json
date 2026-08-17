@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 3:11",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ያህዌህም ለሰሙኤል እንዲህ አለው፤ «እነሆ፣ እኔ በእስራኤል ውስጥ ነገር አደርጋለሁ፤ የሚሰማው ሁሉ ሁለቱ እንባሮቹ ይጮካሉ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሰሙኤል"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደርጋለሁ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "በእስራኤል ውስጥ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ሰማው"
+    },
+    {
+      "surface": "תצלינה",
+      "gloss": "ይጮካሉ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ሁለቱ"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "እንባሮቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:39:59.104227117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ቤቱን ለማንጠር ⟨את⟩ ሁለት ወፎችን፣ የአርዝ እንጨትን፣ የቀለም ትልን (ቀይ ቀለም)፣ ዑዝፍንም ይወስዳል።",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ይወስዳል"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "ለማንጠር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱን"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤቱን"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "ወፎችን"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "እንጨትንም"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "የአርዝ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "የቀለምንም"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ትል (ቀይ ቀለም)"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "ዑዝፍንም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:50:25.620867228Z",
+  "model": "glm-5.3"
+}

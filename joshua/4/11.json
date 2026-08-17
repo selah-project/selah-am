@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "joshua 4:11",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ሕዝቡ ሁሉ እንዳለፈ፣ የያህዌህ ታቦት ከሕዝቡ ፊት ለፊት ካህናትም አለፉ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እንዳለፈ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "תם",
+      "gloss": "እስኪጨርስ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "እንዲያልፍ"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "አለፈ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ካህናትም"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት ለፊት"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:00:21.343165213Z",
+  "model": "glm-5.3"
+}

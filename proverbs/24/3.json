@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "በጥበብ ቤት ይሠራል፤ እና በመረዳት ⟨ይጸናል⟩።",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "በጥበብ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ይሠራል"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "እና በመረዳት"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "ይጸናል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:34:41.878724697Z",
+  "model": "glm-5.3"
+}

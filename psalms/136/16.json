@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 136,
+  "translation": "ለሕዝቡ በምድረ በዳ ያመራ፣ ምክንያቱም ምሕረቱ ለዘላለም ናት።",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "ለሚመራ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በምድረ በዳ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ምሕረቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:59.710506020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "የወይን እርሻዬ የራሴ ነው፤ ከእኔ ፊት ነው፤ ሺሁ ለአንተ ነው ሰሎሞን፣ እና ሁለት መቶ ለጠባቂዎች ⟨את⟩ ፍሬውን ነው።",
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "የወይን እርሻዬ"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "የራሴ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ከእኔ ፊት"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "ሺሁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "እና ሁለት መቶ"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "ለጠባቂዎች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍሬውን"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ፍሬውን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:05:47.292841329Z",
+  "model": "glm-5.3"
+}

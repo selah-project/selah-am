@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እነርሱን በአንደበቶችህ አስራቸው፤ በልብህ ጽላት ላይ ጻፋቸው።",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "እነርሱን አስራቸው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "አንደበቶችህ"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "ጻፋቸው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "ጽላት"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ልብህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:24:16.392373795Z",
+  "model": "glm-5.3"
+}

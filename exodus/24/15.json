@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ሞሼም ወደ ተራራው ወጣ፤ ደመናውም ⟨את⟩ ተራራውን ሸፈነ።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ተራራው"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "ሸፈነም"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ደመናው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተራራውን"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ተራራውን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:22:37.256807432Z",
+  "model": "glm-5.3"
+}

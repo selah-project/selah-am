@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ኤሎሃ ልብለው፤ አታስክድነኝ፤ በምን ላይ እንደምታከሻኝ አሳየኝ።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ልብለው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ኤሎሃ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "ታስክድነኝ"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "አሳየኝ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "በምን"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "ትከሻኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:46:41.584823165Z",
+  "model": "glm-5.3"
+}

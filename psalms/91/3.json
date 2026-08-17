@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 91,
+  "translation": "እንደ ሆነ እርሱ ያድንሃል ⟨አንተን⟩ ከወጥመት ከወፍ ወጥ እና ከጥፋት ወረርሽኝ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ ሆነ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "ያድንሃል"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "ከወጥመት"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "ወፍ ወጥ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ከወረርሽኝ"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ጥፋት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:36.522918304Z",
+  "model": "glm-5.3"
+}

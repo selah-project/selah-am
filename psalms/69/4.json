@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "ከመጥራቴ ደክሞኛል፤ ጉሮሮዬ ተነክቷል፤ ዓይኖቼ አልጠፍተዋል፤ ለኤሎሄ ልጠብቅ እንጂ።",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "ደክሞኛል"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "ከመጥራቴ"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "ተነክቷል"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "ጉሮሮዬ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "አልጠፍተዋል"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኖቼ"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "ልጠብቅ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ለኤሎሄ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:17.354342173Z",
+  "model": "glm-5.3"
+}

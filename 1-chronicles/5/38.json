@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "አኪጦብ ደግሞ ⟨את⟩ ጻድቅን ወለደ፤ ጻድቅ ደግሞ ⟨את⟩ ሰሎምን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "አኪጦብ ደግሞ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጻድቅን"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ጻድቅን"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ጻድቅ ደግሞ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰሎምን"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰሎምን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:35:55.795905644Z",
+  "model": "glm-5.3"
+}

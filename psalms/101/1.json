@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 101,
+  "translation": "ለዳዊት ምዝሙር። ቸርነትንና ፍትሕን እተኛለሁ፤ ለአንተ ያህዌህ እዘምራለሁ።",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ምዝሙር"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ቸርነትን"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "እና ፍትሕን"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "እተኛለሁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "እዘምራለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:12.666112701Z",
+  "model": "glm-5.3"
+}

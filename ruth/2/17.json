@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "ruth 2:17",
+  "book": "ruth",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እርሷም በመስክ እስከ ምሽቱ አጨረሰች፤ የነጨችውንም ⟨את⟩ የተከለሰችውን ስታረድ እንደ አንድ ኤፋ ገብስ ሆነ።",
+  "tokens": [
+    {
+      "surface": "ותלקט",
+      "gloss": "አጨረሰችም"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "በመስክ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ምሽቱ"
+    },
+    {
+      "surface": "ותחבט",
+      "gloss": "አረደችም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የተከለሰችውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "ተከለሰችው"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነም"
+    },
+    {
+      "surface": "כאיפה",
+      "gloss": "እንደ አንድ ኤፋ"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ገብስ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:08:03.880694455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 8:23",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ሠዋው፤ ሞሼም ከደሙ ወሰደ፣ በአሃሮን ቀኝ ጆሮ ጫፍ ላይ፣ በእጁ ቀኝ ከፍተኛ ጣት ላይ፣ በእግሩም ቀኝ ከፍተኛ ጣት ላይ አኖረው።",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ሠዋው"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "מדמו",
+      "gloss": "ከደሙ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "አኖረ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "ጫፍ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ጆሮ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "የአሃሮን"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ቀኝ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና ላይ"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ከፍተኛ ጣት"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁ"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ቀኝ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና ላይ"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ከፍተኛ ጣት"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "እግሩ"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ቀኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:12:20.255936674Z",
+  "model": "glm-5.3"
+}

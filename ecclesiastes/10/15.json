@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የሞኞች ድካም ያሳጣቸዋል፤ ወደ ⟨ተ⟩ከተማ ሄዶ አያውቅም።",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "ድካም"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "የሞኞች"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "ያሳጣቸዋል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይችልም"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "አያውቅም"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ሄዶ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:16:30.886229212Z",
+  "model": "glm-5.3"
+}

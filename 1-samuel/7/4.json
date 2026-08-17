@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የእስራኤል ልጆችም ባዓላዎችን ⟨את⟩ እና የዓሼራህ ጣዖታትን ⟨את⟩ አስወገዱ፤ ያህዌህን ⟨את⟩ ብቻውንም አገለገሉ።",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "አስወገዱ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ባዓላዎችን"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "ባዓላዎችን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጣዖታትን"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "የዓሼራህ ጣዖታትን"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "አገለገሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ብቻውን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:35:33.147785497Z",
+  "model": "glm-5.3"
+}

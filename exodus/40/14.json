@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "የእርሱንም ወንዶች ታቀርባለህ፤ በኮታም ታስለስላቸዋለህ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ም",
+      "marks": "ወንዶቹን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ወንዶቹን"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "ታቀርባለህ"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "ታስለስላቸዋለህ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "እንደ ⟨את⟩",
+      "marks": "ወንዶቹን"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ኮታ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:40:43.366634325Z",
+  "model": "glm-5.3"
+}

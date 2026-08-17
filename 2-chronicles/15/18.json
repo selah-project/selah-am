@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "የአባቱን ቅዱሳንና የራሱን ቅዱሳን ⟨את⟩ የኤሎሂም ቤት አስገባ — ብርና ወርቅና ዕቃዎች።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "አስገባ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የአባቱን ቅዱሳንና የራሱን ቅዱሳን"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ቅዱሳን"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "የአባቱን"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "የራሱን ቅዱሳንም"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ወርቅም"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "ዕቃዎችም"
+    }
+  ],
+  "timestamp": "2026-08-16T13:44:05.377429484Z",
+  "model": "glm-5.3"
+}

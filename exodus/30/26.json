@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "እናትህ በእሱ ⟨את⟩ የስብሰባ ድንኳንን እና ⟨את⟩ የምስክርነት ታቦትን ትቀብዛለህ።",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ትቀብዛለህ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድንኳንን"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "የስብሰባ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ታቦትን"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "የምስክርነት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:28:14.209156995Z",
+  "model": "glm-5.3"
+}

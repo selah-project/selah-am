@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እና እናንተ በያህዌህ በአማልክታችሁ የተጣባቃችሁ ሁላችሁም ዛሬ በሕይወት ናችሁ።",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "እና እናንተ"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "የተጣባቃችሁ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "በያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "በአማልክታችሁ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "በሕይወት ናችሁ"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "ሁላችሁም"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:58:46.844950736Z",
+  "model": "glm-5.3"
+}

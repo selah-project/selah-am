@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "መግሠትን የሚወድ እውቀትን ይወዳል፤ ተግሰጽን የሚጠላ ግን ከብተኛ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "የሚወድ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "መግሠትን"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ይወዳል"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "እውቀትን"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "እና የሚጠላ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ተግሰጽን"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ከብተኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:27:04.155943523Z",
+  "model": "glm-5.3"
+}

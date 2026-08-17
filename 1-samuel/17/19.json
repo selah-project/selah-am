@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 17:19",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ሳኦልም፣ እነርሱም፣ እና ሁሉም የእስራኤል ሰዎች በኤላህ ሸለቆ ፍልስቴማውያንን እየተዋጉ ነበር።",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "ሳኦልም"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "እነርሱም"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "በ...ሸለቆ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ኤላህ"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "እየተዋጉ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ...ጋር"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስቴማውያንን"
+    }
+  ],
+  "timestamp": "2026-08-17T07:02:31.876149096Z",
+  "model": "glm-5.3"
+}

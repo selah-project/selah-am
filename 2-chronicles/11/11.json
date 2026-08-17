@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እንዲሁም ⟨את⟩ ማደሻዎቹን አጠነከረ፤ በእነሱም ውስጥ አለቆችን እና የምግብ፣ የዘይት እና የወይን መጋዘኖችን እንዲሆኑ አደረገ።",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "አጠነከረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማደሻዎቹን"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "ማደሻዎቹን"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "በእነሱም ውስጥ"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "አለቆችን"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "እና መጋዘኖችን"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "የምግብ"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "እና የዘይት"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "እና የወይን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:46:40.634866509Z",
+  "model": "glm-5.3"
+}

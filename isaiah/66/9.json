@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "isaiah 66:9",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 66,
+  "translation": "እኔ እከልስና አልወልድምን? ይላል ያህዌህ፤ እኔ አላሚዬ እየዘጋሁ ነውን? ይላል አንቺ ኤሎሂም።",
+  "tokens": [
+    {
+      "surface": "האני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אשביר",
+      "gloss": "እከልስ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አልወልድምን"
+    },
+    {
+      "surface": "אוליד",
+      "gloss": "አወልድ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እኔ ... ነውን?"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "המוליד",
+      "gloss": "አላሚ"
+    },
+    {
+      "surface": "ועצרתי",
+      "gloss": "እየዘጋሁ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "አንቺ ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:34:05.444360933Z",
+  "model": "glm-5.3"
+}

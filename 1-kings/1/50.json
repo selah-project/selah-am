@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 50,
+  "ref": "1-kings 1:50",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "አዶኒያሁም ከሰሎሞ ፊት ሮጠ፤ ተነሰም ሄደም የመሠዊያውን ቀኖች ያዘ።",
+  "tokens": [
+    {
+      "surface": "ואדניהו",
+      "gloss": "አዶኒያሁም"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ሮጠ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከ...ፊት"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞ"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሰ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ያዘ"
+    },
+    {
+      "surface": "בקרנות",
+      "gloss": "የ...ቀኖች"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያውን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:13:51.615794104Z",
+  "model": "glm-5.3"
+}

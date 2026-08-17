@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 75,
+  "translation": "እኔ ግን ለዘላለም አስተውላለሁ፤ ለያዕቆብ ኤሎሂም እዘምራለሁ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "አስተውላለሁ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "እዘምራለሁ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ለኤሎሂም"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:03.448505166Z",
+  "model": "glm-5.3"
+}

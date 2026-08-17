@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "እርሷም ሄዳ እንደኤልያሁ ቃል አደረገች፤ እርሷም እርሱም ቤተሰቧም ብዙ ቀናት በሉ።",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "ሄዳ"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "አደረገች"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "እንደቃል"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያሁ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "እርሷም"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "ቤተሰቧም"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀናት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:29:48.216985605Z",
+  "model": "glm-5.3"
+}

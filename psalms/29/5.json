@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "የያህዌህ ድምፅ አረዶዎችን ይሰብራል፤ ያህዌህም ⟨את⟩ የለባንሱን አረዶዎች አለሰለሰ።",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ይሰብራል"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "አረዶዎችን"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "አለሰለሰም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አረዶዎች"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "አረዶዎች"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "የለባንሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:52.140938155Z",
+  "model": "glm-5.3"
+}

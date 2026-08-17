@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 21:5",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ወደ ንጉሡም እንዲህ አሉ፦ እኛን ያጠፋንና እኛን ማጥፋትን ያሰበው ሰው፣ እኛ በየእስራኤል ድንበር ሁሉ ከመቆም ተጠፍቀናል።",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "አሉ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "ያጠፋን"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ና"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ያሰበው"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "እኛን"
+    },
+    {
+      "surface": "נשמדנו",
+      "gloss": "ተጠፍቀናል"
+    },
+    {
+      "surface": "מהתיצב",
+      "gloss": "ከመቆም"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉ"
+    },
+    {
+      "surface": "גבל",
+      "gloss": "ድንበር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T16:16:50.399092821Z",
+  "model": "glm-5.3"
+}

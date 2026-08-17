@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ሰላም ብዙ ለሚወዱ ሕጌህ ነው፤ ለእነርሱም ማሰናኪያ የለም።",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ለሚወዱ"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ሕጌህ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ለእነርሱም"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "ማሰናኪያ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:50.394767147Z",
+  "model": "glm-5.3"
+}

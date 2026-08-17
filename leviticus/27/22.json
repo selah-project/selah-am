@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "በተራው የገዛውን ⟨את⟩ መስክ — ከየተያዘው መስክ ያልሆነውን — ለያህዌህ የሚቀድስ ከሆነ፤",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "በተራው ከሆነ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መስክ"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "መስክ"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "የገዛውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ያልሆነውን"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "ከመስክ"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "የተያዘው"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "የሚቀድስ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:02:19.639463946Z",
+  "model": "glm-5.3"
+}

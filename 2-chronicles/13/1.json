@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "በያሮብዓም ንጉሥ በአሥራ ስምንተኛው ዓመት አቢያ በይሁዳ ላይ ነገሠ።",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "በ…ዓመት"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ስምንት"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ለንጉሥ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ያሮብዓም"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "እና ነገሠ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "አቢያ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:47:56.301945120Z",
+  "model": "glm-5.3"
+}

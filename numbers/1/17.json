@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ሞሼና አሃሮንም ⟨את⟩ እነዚህን ሰዎች በስም የተሰየሙትን ወሰዱ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰዱ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "አሃሮንም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እነዚህን ሰዎች"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የተሰየሙት"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "የተሰየሙ"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "በስም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:04:03.838347475Z",
+  "model": "glm-5.3"
+}

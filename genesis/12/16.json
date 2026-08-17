@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ስለ እሷም ለአብራም ደህና አደረገለት፤ በጎችና ላሞች፣ በቅሎች፣ አገልጋዮችና አገልጋይያዎች፣ ሴት በቅሎችና ግመሎች ኾነለት።",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "ለአብራምም"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "ደህና አደረገ"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "ስለ እሷ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኾነለት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "በጎች"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ላሞች"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "በቅሎች"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "አገልጋዮች"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "አገልጋይያዎች"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "ሴት በቅሎች"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "ግመሎች"
+    }
+  ],
+  "timestamp": "2026-08-16T02:35:24.850281646Z",
+  "model": "glm-5.3"
+}

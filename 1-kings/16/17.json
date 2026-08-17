@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "1-kings 16:17",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ዐምሪምም ከጊብቶን ወጣ፣ እርሱንም አልፈጠረም የእስራኤል ሁሉም ከእርሱ ጋር፣ ቲርጻንም ከበቡ።",
+  "tokens": [
+    {
+      "surface": "ויעלה",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "ዐምሪ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "מגבתון",
+      "gloss": "ከጊብቶን"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "ከበቡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "ቲርጻ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:28:56.232951996Z",
+  "model": "glm-5.3"
+}

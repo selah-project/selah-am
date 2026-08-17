@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 121,
+  "translation": "እግርህን እንዳይወድቅ አይፈቅድም፤ አንተን የሚጠብቅህ አያኝብም።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ያደርግም\/አይፈቅድም"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "እንዳይወድቅ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "እግርህን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "አያኝብም"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "የሚጠብቅህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:16.062778641Z",
+  "model": "glm-5.3"
+}

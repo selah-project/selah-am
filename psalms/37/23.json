@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ከያህዌህ ነው የጠንካራው ሰው እርምጃዎች የተሠሩት፤ የመንገዱንም ይወዳል።",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "ከያህዌህ"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "እርምጃዎች"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "የጠንካራው ሰው"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "የተሠሩት"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "የመንገዱንም"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ይወዳል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:40:24.644026757Z",
+  "model": "glm-5.3"
+}

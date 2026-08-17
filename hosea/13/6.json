@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "hosea 13:6",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እንደ መንጋቸው ልመና እንደ እርሳቸው፣ የጠገቡ እንደ ሆኑ፤ የጠገቡ፣ ልባቸውም ደረቀ፤ ስለዚህ ረሱኝ።",
+  "tokens": [
+    {
+      "surface": "כמרעיתם",
+      "gloss": "እንደ ልመናቸው"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "ጠገቡ"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "የጠገቡ"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "ደረቀ"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ልባቸው"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "ረሱኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:00:43.728164727Z",
+  "model": "glm-5.3"
+}

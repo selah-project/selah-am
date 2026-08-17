@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "በምድራቸው ውስጥ ሁሉን ሣር በላ፤ እና የአፈራቸውን ፍሬ በላ።",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "በላ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ሣር"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "በምድራቸው ውስጥ"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "በላ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ፍሬ"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "የአፈራቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:20.318726491Z",
+  "model": "glm-5.3"
+}

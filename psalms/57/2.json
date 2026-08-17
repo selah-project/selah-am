@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 57,
+  "translation": "አዘንልኝ ኤሎሂም አዘንልኝ፣ በአንተ ምክንያት ነፍሴ ታመነችና፣ በክንፎችህ ጥላ ሥለማቀም እተማገኛለሁ፣ ጥፋቱ እስኪያልፍ ድረስ።",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "አዘንልኝ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "አዘንልኝ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "ታመነችበት"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "በጥላ"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "የክንፎችህ"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "እተማገኛለሁ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪያልፍ ድረስ"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ያልፍ"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ጥፋት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:35.719381441Z",
+  "model": "glm-5.3"
+}

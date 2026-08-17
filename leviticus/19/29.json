@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ልጅሽን ⟨את⟩ ታረክ ዘንድ አትፈቅድም ዝሙት እንድትዘንት፤ ምድሪቱም አትዘንት፣ ምድርም በክፉ ዐሳብ ትሞላለች።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "ታረክ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጅሽን"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "ልጅሽን"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "ዝሙት እንድትዘንት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "ትዘንት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪቱ"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ትሞላለች"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩ"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ክፉ ዐሳብ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:56:31.651257570Z",
+  "model": "glm-5.3"
+}

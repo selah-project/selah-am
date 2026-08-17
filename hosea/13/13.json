@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 13:13",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "የሚያልብ ሴት ሕመሞች ወደ ⟨እርሱ⟩ ይመጣሉ፤ እርሱ አሳብ የሌለው ልጅ ነው፤ ምክንያቱም ጊዜው ሲደርስ በልጆች መወለጃ ማዕዘን አይቆምም።",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "ሕመሞች"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "የሚያልብ ሴት"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ይመጣሉ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ወደ ⟨እርሱ⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "አሳብ ያለው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ጊዜው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ይቆምም"
+    },
+    {
+      "surface": "במשבר",
+      "gloss": "በልጆች መወለጃ ማዕዘን"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ልጆች"
+    }
+  ],
+  "timestamp": "2026-08-16T17:58:32.135832285Z",
+  "model": "glm-5.3"
+}

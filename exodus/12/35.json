@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የእስራኤል ልጆችም እንደ ሞሼ ቃል አደረጉ፤ ከግብፃውያን የብር ቁሳቁሶችንና የወርቅ ቁሳቁሶችን እንዲሁም ልብሶችን ጠየቁ።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ልጆችም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "አደረጉ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "እንደ...ቃል"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "ጠየቁ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ከግብፃውያን"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "የብር ቁሳቁሶችን"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "የወርቅ ቁሳቁሶችን"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቅ"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "ልብሶችን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:14:48.241773058Z",
+  "model": "glm-5.3"
+}

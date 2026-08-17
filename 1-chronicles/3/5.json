@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እነዚህም በኢየሩሳሌም ተወለዱለት — ሽማዓ፣ ሹባብ፣ ናታንና ሰሎሞን፣ አራቱ ከባት-ሹዓ የዓሚኤል ሴት ልጅ ተወለዱ።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እነዚህም"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "ተወለዱ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለት"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "በኢየሩሳሌም"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "ሽማዓ"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "ሹባብ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ናታን"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "አራቱ"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "ከሴት ልጅ"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "ባት-ሹዓ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "ዓሚኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T12:35:28.888380238Z",
+  "model": "glm-5.3"
+}

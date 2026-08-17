@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "joshua 2:21",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እሷም «እንደ ቃላችሁ እንዲሆን ነው» አለች፤ እነሱንም ላከች፤ እነሱም ሄዱ፤ እሷም ⟨את⟩ የቀይ ገመሉን በመስኮቱ ላይ አስራች።",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "አለች"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "እንደ ቃላችሁ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲሆን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ነው"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "ላከች"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ሄዱ"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "አስራች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የቀይ ገመሉን"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "ገመል"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ቀይ"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "በመስኮቱ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:58:43.992987788Z",
+  "model": "glm-5.3"
+}

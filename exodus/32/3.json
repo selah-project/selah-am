@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ሕዝቡም ሁሉ በእጆቻቸው ውስጥ ያለውን ⟨את⟩ የወርቅ ቀለቦች ቈረጠ፤ ወደ አሃሮንም አመጣ።",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "ቈረጠ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የወርቅ ቀለቦች"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "የወርቅ ቀለቦች"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ወርቅ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለውን"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "በእጆቻቸው ውስጥ"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "አመጣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:31:40.714322089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እርሱም አለ፦ አትፍራ፤ ከእነሱ ጋር ⟨את⟩ ያሉት በላይ ከእኛ ጋር ያሉት ብዙ ናቸው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እርሱም አለ፦"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ትፍራ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደሆነ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙ ናቸው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያሉት"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ከእኛ ጋር ያሉት"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ከ… በላይ ይልቃል"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ከእነሱ ጋር ያሉት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:40:02.268600731Z",
+  "model": "glm-5.3"
+}

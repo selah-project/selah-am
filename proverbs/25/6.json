@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "proverbs 25:6",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "በንጉሥ ፊት አትተካከል፤ በታላላቅም ቦታ አትቁም።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תתהדר",
+      "gloss": "አትተካከል፤ አትኮራርር"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ובמקום",
+      "gloss": "በ…ቦታ"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ታላላቅ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "አትቁም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:34:49.531055085Z",
+  "model": "glm-5.3"
+}

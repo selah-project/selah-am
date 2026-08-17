@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 30:13",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "እንዲሁም ⟨በ⟩ባህር ማዶ አይደለችም፤ ትላለህ፣ ማን እኛን ወደ ባህሩ ማዶ ያልፍልን፣ ወስዶ ለእኛ ይስጠን፣ እናንተ እንሰማው ዘንድ ያሰማን፣ እኛም ⟨את⟩ እናከናውነው።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "እንዲሁም ... አይደለችም፤"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ማዶ"
+    },
+    {
+      "surface": "לים",
+      "gloss": "ባህር"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሷ (እሷ) ናት"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ትላለህ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ያልፍ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ማዶ ላይ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባህሩ"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "ወስዶት"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "ያሰማን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እሷን (ቃሉን)"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "እናከናውነው"
+    }
+  ],
+  "timestamp": "2026-08-16T15:18:37.553644661Z",
+  "model": "glm-5.3"
+}

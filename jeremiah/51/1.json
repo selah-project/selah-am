@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "jeremiah 51:1",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "እንዲህ አለ ያህዌህ፤ እነሆ እኔ ባቢሎንን እና ልብ የሚቃወሙኝ ወደ ሚኖሩት የሚያጠፋ ነፋስ አስነሳለሁ።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እነሆ እኔ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "አስነሳለሁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ባቢሎንን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "የሚኖሩት"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "የሚቃወሙኝ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ነፋስ"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "የሚያጠፋ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:14:26.240931126Z",
+  "model": "glm-5.3"
+}

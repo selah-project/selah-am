@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "እነርሱንም ⟨את⟩ ወደ ታስሪያ ጥብቅ አካደዳቸው ሦስት ቀን።",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "አካደዳቸው፣ አሰባቸው"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "ታስሪያ ጥብቅ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:59:09.319959913Z",
+  "model": "glm-5.3"
+}

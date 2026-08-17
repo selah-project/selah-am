@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "joel 1:15",
+  "book": "joel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ወዮ ለቀኑ! ምክንያቱም የያህዌህ ቀን ቅርብ ነው፤ እንደ ጥፋት ከሻዳይ ይመጣል።",
+  "tokens": [
+    {
+      "surface": "אהה",
+      "gloss": "ወዮ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ለቀኑ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ቅርብ ነው"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וכשד",
+      "gloss": "እንደ ጥፋት"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "ከሻዳይ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ይመጣል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:05:05.881386412Z",
+  "model": "glm-5.3"
+}

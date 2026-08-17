@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 93,
+  "translation": "ወንዞች አንሥተዋል ያህዌህ፤ ወንዞች ድምፃቸውን አንሥተዋል፤ ወንዞች ሞገዳቸውን ያንሥታሉ።",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "አንሥተዋል"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ወንዞች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "አንሥተዋል"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ወንዞች"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ድምፃቸውን"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ያንሥታሉ"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ወንዞች"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "ሞገዳቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:56.337935505Z",
+  "model": "glm-5.3"
+}

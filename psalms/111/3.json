@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 111,
+  "translation": "ክብር እና በለጸገ ደጋፊነት ⟨አለው⟩ ሥራው፤ ጽድቁም ለዘላለም ትነሳለች።",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "ክብር"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "እና በለጸገ ደጋፊነት"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ሥራው"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ጽድቁም"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ትነሳለች"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ለዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:02.089630186Z",
+  "model": "glm-5.3"
+}

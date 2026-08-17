@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ሳሙኤልም እስከ ጠዋት ተኛበት ከዚያም የያህዌህ ቤት በሮችን ⟨את⟩ ከፈተ ሳሙኤልም ራዕዩን ⟨את⟩ ለዔሊ ማሳየትን ፈራ ።",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ተኛበት"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ጠዋት"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ከፈተ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በሮችን"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "በሮችን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "ሳሙኤልም"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ፈራ"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "ማሳየትን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራዕዩን"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "ራዕዩን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ዔሊ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:33:03.866628843Z",
+  "model": "glm-5.3"
+}

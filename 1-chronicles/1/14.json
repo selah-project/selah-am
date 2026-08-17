@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እና ⟨את⟩ የቡሳዊውን፣ እና ⟨את⟩ አሞራዊውን፣ እና ⟨את⟩ ጊርጋሻዊውን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የቡሳዊውን"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "የቡሳዊው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "አሞራዊውን"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "አሞራዊው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጊርጋሻዊውን"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ጊርጋሻዊው"
+    }
+  ],
+  "timestamp": "2026-08-16T12:30:27.033940379Z",
+  "model": "glm-5.3"
+}

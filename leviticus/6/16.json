@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የካህኑ ቍርባን ሁሉ ሙሉ በሙሉ ይሁን፤ አይበላም።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "የቍርባን"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "የካህኑ"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ሙሉ በሙሉ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ይበላም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:44:51.138707151Z",
+  "model": "glm-5.3"
+}

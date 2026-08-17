@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ይህንም አይቻለሁ — ጥበብን በፀሐይ ሥር፤ እሷም ትልቅ ናት በእኔ ዘንድ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "አይቻለሁ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብን"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ…ሥር"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ፀሐይ"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "ትልቅም"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እሷ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "በእኔ ዘንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:16:46.445362612Z",
+  "model": "glm-5.3"
+}

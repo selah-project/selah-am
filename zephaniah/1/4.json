@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "zephaniah 1:4",
+  "book": "zephaniah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እጄንም በይሁዳ እና በኢየሩሳሌም ነዋሪዎች ሁሉ ላይ እዘረጋለሁ፤ ከዚህ ስፍራም ⟨את⟩ የባአል ቀሪዎችን፣ ⟨את⟩ የካህናት አገልጋዮችን ስም ከካህናቱ ጋራ እጨርሳለሁ።",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "እዘረጋለሁ፤"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "እጄን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ… ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ነዋሪዎች"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ኢየሩሳሌም"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "እጨርሳለሁ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ…"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ስፍራ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ዚህ እንደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የባአል ቀሪዎችን"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ቀሪዎችን"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "የባአል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የካህናት አገልጋዮችን ስም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "የካህናት አገልጋዮች"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ… ጋራ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:18:41.570601753Z",
+  "model": "glm-5.3"
+}

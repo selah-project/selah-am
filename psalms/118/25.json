@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 118,
+  "translation": "እባክህ ያህዌህ አድን አሁን፤ እባክህ ያህዌህ አበለጸን አሁን።",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "አድን"
+    },
+    {
+      "surface": "נא",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "አበለጸን"
+    },
+    {
+      "surface": "נא",
+      "gloss": "አሁን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:01.478911916Z",
+  "model": "glm-5.3"
+}

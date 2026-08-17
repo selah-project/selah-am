@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ያህዌህን ⟨את⟩ ውደቁ ሁላችሁም ቅዱሳኖቹ፤ ያህዌህ ታማኞችን ይጠብቃል፣ የሚትዕቢን የሚሠራውን በብርቱ ይከፍለዋል።",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "ውደቁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁላችሁም"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ቅዱሳኖቹ"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ታማኞችን"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "ይጠብቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "ይከፍለዋል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በብርቱ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ሙሉ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "የሚሠራውን"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "የሚትዕቢን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:03.993837290Z",
+  "model": "glm-5.3"
+}

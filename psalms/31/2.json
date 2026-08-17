@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "በአንተ ያህዌህ ሃይሌ፤ እስከ ዘለቄታው አልንቀጠቅም፤ በጽድቅህ አድነኝ።",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ሃይሌ አለኝ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አል፤ አትፍቀድ"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "እንቀጠቀጣለሁ\/የምንቀጠቅ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "እስከ ዘለቄታው"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "በጽድቅህ"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "አድነኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:50.196373540Z",
+  "model": "glm-5.3"
+}

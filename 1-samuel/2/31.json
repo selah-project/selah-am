@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እነሆ፣ ቀኖች ይመጣሉ፣ እና ክንፍህን ⟨את⟩ እና የአባትህ ቤትን ክንፍ ⟨את⟩ እቆርጣለሁ፤ በቤትህ ውስጥ አዛውሮ አይኖርም።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀኖች"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ይመጣሉ"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "እና እቆርጣለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክንፍህን"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ክንፍህን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ክንፍ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ክንፍ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "የ...ቤት"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "አባትህ"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "ከመኖር"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "አዛውሮ"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "በቤትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:44:45.990536925Z",
+  "model": "glm-5.3"
+}

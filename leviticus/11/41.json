@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እንዲሁም በምድር ⟨ላይ⟩ የሚንቀሳቀስ እንሽላላ ሁሉ ርኵሰት ⟨ነው⟩፤ አይበላም።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "እንዲሁም ... ሁሉ"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "እንሽላላው"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "የሚንቀሳቀስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ርኵሰት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ነው⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "በላም"
+    }
+  ],
+  "timestamp": "2026-08-16T14:46:15.525520716Z",
+  "model": "glm-5.3"
+}

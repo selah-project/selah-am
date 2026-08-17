@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "አብርሃምም እርሱን «ተጠንቀቅ፤ ልጄን ⟨את⟩ ወደ ዚያ እንዳትመልስ፤» አለው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃም"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "ተጠንቀቅ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ራስህን"
+    },
+    {
+      "surface": "פן",
+      "gloss": "እንዳት…ስ"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "እንዳትመልስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጄን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጴን"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ወደ ዚያ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:42:28.741516759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እርሱም ⟨את⟩ በመሠዊያው ጎን በሰሜን ነፈሰ-ሰሜን ከያህዌህ ፊት ለፊት ያርደዋል፤ የአሃሮን ልጆችም ካህናት ⟨את⟩ ደሙን በመሠዊያው ላይ ዙሪያውን ሁሉ ይረጭሉታል።",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ያርደዋልም"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ጎን"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "በሰሜን ነፈሰ-ሰሜን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት ለፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ይረጭሉታልም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደሙን"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ደሙን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ዙሪያውን ሁሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:41:25.615881261Z",
+  "model": "glm-5.3"
+}

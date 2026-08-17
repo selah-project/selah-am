@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "የነገሥታት ሴት ልጆች በክቡራንህ መካከል ⟨ናቸው⟩፤ ንግሥት በወርቅ ለብሳ በቀኝህ ቆማ ⟨ናት⟩።",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "ሴት ልጆች"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "የነገሥታት"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "በክቡራንህ"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "ቆማ"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "ንግሥት"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "በቀኝህ"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "በወርቅ"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ኦፊር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:33.473467737Z",
+  "model": "glm-5.3"
+}

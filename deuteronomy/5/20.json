@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እንዲሁም በፍጹም ስለ ⟨ה⟩ጎረቤትህ ውሸት ምስክርነት አትመስክር።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "እንዲሁም በፍጹም"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "አትመስክር"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ስለ ⟨ה⟩ጎረቤትህ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ምስክርነት"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ውሸት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:34:34.961715778Z",
+  "model": "glm-5.3"
+}

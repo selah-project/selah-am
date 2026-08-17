@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ከበሮች አጠግብ፣ በከተማዋ አፍ ላይ፣ በመግቢያ በሮች ትጮሃለች።",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "አጠግብ"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ከበሮች"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "በ… አፍ ላይ"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "መግቢያ"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "በሮች፣ ክፍተቶች"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "ትጮሃለች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:24:13.700150215Z",
+  "model": "glm-5.3"
+}

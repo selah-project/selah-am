@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ጻድቁ የክፉን ሰው ቤትን በጥንቃቄ ይመለከታል፤ ክፉዎችን ለጥፋታቸው ያጠፋል።",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "በጥንቃቄ ይመለከታል"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቁ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "የ... ቤትን"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉን ሰው"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "ያጠፋል"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉዎችን"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ለጥፋታቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:30:29.254254720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "እንደ እውነታ ማን ⟨ነው⟩ ኤሎሃ ከያህዌህ ውጭ? እና ማን ⟨ነው⟩ ዐለት ከእኛ ኤሎሂም በስተቀር?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ እውነታ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ኤሎሃ"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ከ... ውጭ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ከያህዌህ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "እና ማን"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ዐለት"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "በስተቀር"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ከእኛ ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:10.661062088Z",
+  "model": "glm-5.3"
+}

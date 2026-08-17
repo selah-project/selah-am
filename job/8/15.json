@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "በቤቱ ላይ ይደግፋል ነገር ግን አይቆማም፤ በእሱ ይይዛል ነገር ግን አይነሳም።",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "ይደግፋል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ነገር ግን አይ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ቆማል"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "ይይዛል"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእሱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ነገር ግን አይ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ይነሳል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:42:25.535396158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "ለእንግደሜ ለሆነው ኤል እላለሁ — ለምን ረሳኸኝ? ለምን በጠላት ጫና እየቆረስኩ እሄዳለሁ?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "እላለሁ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ለኤል"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "ለእንግደሜ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "ረሳኸኝ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "እየቆረስኩ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "እሄዳለሁ"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "በጫና"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ጠላት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:52.357957370Z",
+  "model": "glm-5.3"
+}

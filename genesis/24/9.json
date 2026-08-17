@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "እና አገልጋዩ ⟨את⟩ እጁን በአብራሃም ጌታው ጭን ሥር አድርጎ ስለ ⟨ያ⟩ ቃል በእርሱ ማለቀቀ እንዳለ ሆነ።",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "አድርጎ አስቀመጠ"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "አገልጋዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጁን"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ… ሥር"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ጭን"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብራሃም"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ጌታው"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ማለቀቀ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "በእርሱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃሉን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨ያ⟩"
+    }
+  ],
+  "timestamp": "2026-08-16T02:42:16.891930127Z",
+  "model": "glm-5.3"
+}

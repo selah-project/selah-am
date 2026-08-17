@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 74,
+  "translation": "አርማታችንን አላየንም፤ ነቢይ የለም፤ ⟨את⟩ ከኛ ጋር እስከ ስንት ጊዜ እንደሆነ የሚያውቅም የለም።",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "አርማታችንን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አላየንም (አል…ም)"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "አየን"
+    },
+    {
+      "surface": "אין",
+      "gloss": "…የለም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ከዚያ በኋላ (የቀረ)"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ነቢይ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…ም የለም"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ከኛ ጋር"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "የሚያውቅ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ስንት ጊዜ \/ ምን ድረስ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:16.362106656Z",
+  "model": "glm-5.3"
+}

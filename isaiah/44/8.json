@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "isaiah 44:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "አትፍሩ እና አትደንጉጡ፤ ያኔ ላው አስማቻለሁ እና አስተውልቻለሁ ወይ? እናንተ የእኔ ምስክሮች ⟨ናችሁ⟩። ከእኔ ውጪ ኤሎሃ ⟨አለ⟩? እና ዐለት የለም — አላውቅም።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תפחדו",
+      "gloss": "ትፍሩ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תרהו",
+      "gloss": "ትደንጉጡ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ወይ?"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ያኔ ላው"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "አስማቻለሁ"
+    },
+    {
+      "surface": "והגדתי",
+      "gloss": "እና አስተውልቻለሁ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "እና እናንተ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "የእኔ ምስክሮች"
+    },
+    {
+      "surface": "היש",
+      "gloss": "አለ?"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ኤሎሃ"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ከእኔ ውጪ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ዐለት"
+    },
+    {
+      "surface": "בל",
+      "gloss": "በፍጹም"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "አውቃለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:22:15.213106843Z",
+  "model": "glm-5.3"
+}

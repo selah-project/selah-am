@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 70,
+  "translation": "ለመዝማሪው፣ ለዳዊድ፣ ለማስታወስ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመዝማሪው"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊድ"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "ለማስታወስ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:27.386539010Z",
+  "model": "glm-5.3"
+}

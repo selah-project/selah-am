@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ሞርደቃይም በእርሱ ላይ የተከሰተውን ⟨את⟩ ሁሉን እና ሐማን በአይሁዳውያን ላይ ለማጥፋታቸው ወደ ንጉሡ መዝገብ ቤት ለመቀበል ባለው የብር መጠን ⟨את⟩ ነገረው።",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ነገረው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ሞርደቃይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የተከሰተው"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "በእርሱ ላይ ደረሰ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የብር መጠን"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "መጠን"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "የብር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሐማን"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "ለመቀበል"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "መዝገብ ቤት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "በአይሁዳውያን ላይ"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "ለማጥፋታቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T20:33:35.049104707Z",
+  "model": "glm-5.3"
+}

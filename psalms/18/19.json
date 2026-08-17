@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "በመከራዬ ቀን በፊቴ ደረሱ፤ ያህዌህ ለእኔ መተማ ⟨ኾነ⟩።",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "በፊቴ ደረሱ፤"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "መከራዬ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "እና ⟨ኾነ⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "መተማ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:04.025527375Z",
+  "model": "glm-5.3"
+}

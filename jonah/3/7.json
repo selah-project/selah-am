@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 3:7",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "በነኘዌም ከንጉሡ እና ከታላቆቹ ትእዛዝ ጮኽ አወራ ብሎ ሲል — ሰውም ሆነ እንስስት፣ በሬም ሆነ በግ ምንም አይቅመሱ፣ አይራቡ፣ ውሃም አይጠጡ።",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "ጮኽ አወራ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ብሎ ሲል"
+    },
+    {
+      "surface": "בנינוה",
+      "gloss": "በነኘዌም"
+    },
+    {
+      "surface": "מטעם",
+      "gloss": "ከ…ትእዛዝ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "וגדליו",
+      "gloss": "እና ከታላቆቹ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ሲል"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰውም"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "ሆነ እንስስት"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "በሬም"
+    },
+    {
+      "surface": "והצאן",
+      "gloss": "ሆነ በግ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יטעמו",
+      "gloss": "አይቅመሱ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ምንም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "አይራቡ"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ውሃም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "አይጠጡ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:02:00.293104693Z",
+  "model": "glm-5.3"
+}

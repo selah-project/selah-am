@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 21:18",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ሰው ሲኖረው አድመኝና አማመኝ የሆነ ልጅ ቢኖረው፣ የአባቱን ድምፅና የእናቱን ድምፅ አይሰማም፤ ያስተምሩትም ⟨את⟩፣ እርሱ ግን ወደ እነርሱ አይሰማም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ሲኖር"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ቢኖር"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ለሰው"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "አድመኝ"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "አማመኝ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "አይሰማም"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ያሰማል"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "የአባቱ"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "ድምፅና"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "የእናቱ"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "ያስተምሩታል"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይሰማም"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ይሰማል"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ወደ እነርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:08:57.939048435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-samuel 17:4",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ከፍልስጤም ሰፈሮች የሁለቱ መካከል ሰው ወጣ — ጎልያድ ስም ⟨ነበረው⟩፣ ከጋት ነው፤ ቁመቱ ስድስት ክንድ እና አንድ እጅ ስፋት ⟨ነበረ⟩።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "የሁለቱ መካከል"
+    },
+    {
+      "surface": "ממחנות",
+      "gloss": "ከሰፈሮች"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤም"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "ጎልያድ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "ከጋት"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ቁመቱ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ስድስት"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ክንድ"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "እና አንድ እጅ ስፋት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:42:21.473273750Z",
+  "model": "glm-5.3"
+}

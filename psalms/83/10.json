@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 83,
+  "translation": "እንደ ሚድያን አድርግላቸው፤ እንደ ሲሴራ፣ እንደ ያቢን በቂሾን ወንዝ ላይ።",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "አድርግላቸው"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ላቸው"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "እንደ ሚድያን"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "እንደ ሲሴራ"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "እንደ ያቢን"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "በ…ወንዝ ላይ"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "ቂሾን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:28.493846368Z",
+  "model": "glm-5.3"
+}

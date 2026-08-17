@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 62,
+  "translation": "ለመዝሙር አለቃ፣ በየዱቱን ላይ፤ የዳዊት መዝሙር።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመዝሙር አለቃ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "የየዱቱን"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "የዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:58.561433533Z",
+  "model": "glm-5.3"
+}

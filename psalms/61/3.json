@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 61,
+  "translation": "ከምድር ጫፍ ወደ አንተ እጮኻለሁ፤ ልቤ በሚሸብልልበት ጊዜ፣ ከእኔ በላይ ወደ ከፍተኛው ወጥመድ ታመራኛለህ።",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "ከ...ጫፍ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "እጮኻለሁ"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "በሚሸብልልበት"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ወደ ወጥመድ"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "ከፍተኛ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ታመራኛለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:45.558493454Z",
+  "model": "glm-5.3"
+}

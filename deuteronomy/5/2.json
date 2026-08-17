@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ያህዌህ ኤሎሂም የኛ ከእኛ ጋር በሖሬብ ቃል ኪዳን ቈረጠ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂም የኛ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ቈረጠ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ከእኛ ጋር"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ቃል ኪዳን"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "በሖሬብ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:35:10.578650522Z",
+  "model": "glm-5.3"
+}

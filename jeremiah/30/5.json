@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "በእውነት እንዲህ አለ ያህዌህ፦ የመደነቅ ድምፅ ሰምተናል፤ የፍርሃት፣ ነገር ግን የሰላም የለም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "የመደነቅ"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "ሰምተናል"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "የፍርሃት"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ነገር ግን የለም"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:58:38.971580955Z",
+  "model": "glm-5.3"
+}

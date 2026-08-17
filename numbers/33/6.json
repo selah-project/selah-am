@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "numbers 33:6",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ከሱኮትም ተነሱ፤ በምድረ በዳው ኅዳግ ላይ በሚገኘው በኤታም ተከሉ።",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ተነሱ"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "ከሱኮት"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ተከሉ"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "በኤታም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኘው"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "በኅዳግ ላይ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "በምድረ በዳው"
+    }
+  ],
+  "timestamp": "2026-08-16T04:29:53.798440200Z",
+  "model": "glm-5.3"
+}

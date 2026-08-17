@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የአዳም ሁሉም ቀናት እንደ ኖረ ዘጠኝ መቶ ዓመት እና ሠላሳ ዓመት ሆኑ፤ እና ሞተ።",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ሆኑ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "የአዳም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ኖረ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ዘጠኝ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "እና ሠላሳ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "እና ሞተ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:30:18.496389868Z",
+  "model": "glm-5.3"
+}

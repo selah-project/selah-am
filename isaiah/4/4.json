@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "አዶናይ የጽዮን ሴቶችን ቅናት ⟨את⟩ ሲያጥብ፣ የኢየሩሳሌምን ደምም ⟨את⟩ በፍርድ መንፈስና በሚቃጠል መንፈስ ከማኅበረታቸው ሲያንጽህ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ሲያጥብ ከሆነ"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "ያጥባል"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅናትን"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "ቅናትን"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "የ…ሴቶችን"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ደምን"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ደምን"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የኢየሩሳሌምን"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "ያንጽሃል"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "ከማኅበረታቸው"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "በ…መንፈስ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድ"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "በ…መንፈስም"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ሚቃጠል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:00:54.364685981Z",
+  "model": "glm-5.3"
+}

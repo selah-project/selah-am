@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ከዕብራይስጥ ተርጓሚ ማስታወሻ፦ «ያህዌህ ⟨את⟩ ሞሼን እና ⟨את⟩ አሃሮንን እንዳዘዘ በዚህም መሠረት የእስራኤል ልጆች ሁሉ አደረጉ።»",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "አደረጉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንዳዘዘ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ያዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሼን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "አሃሮንን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮንን"
+    },
+    {
+      "surface": "כן",
+      "gloss": "በዚህም"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "አደረጉ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:13:26.742701752Z",
+  "model": "glm-5.3"
+}

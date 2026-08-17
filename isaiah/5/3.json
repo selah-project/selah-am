@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "አሁንም ሆይ አንተ የኢየሩሳሌም ተቀማጭ፣ አንተም የይሁዳ ሰው ሆይ፣ እባክህ በእኔና በወይናቴ መካከል ፍረድ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "አሁንም"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ተቀማጭ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የኢየሩሳሌም"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "አንተም የ… ሰው"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "ፍረድ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "በእኔ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "በ… መካከል"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "ወይናቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:00:18.990043495Z",
+  "model": "glm-5.3"
+}

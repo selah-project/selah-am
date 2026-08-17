@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እና ሆነ፣ ያህዌህ ኤልያሁን ⟨את⟩ በሰማያት ማዕበል በማንሳት ጊዜ፣ ኤልያሁ እና ኤልያስ ከገልገል ሄዱ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እና ሆነ"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "በማንሳት ጊዜ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤልያሁን"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያሁ"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "በማዕበል"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄዱ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያሁ"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "እና ኤልያስ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ገልገል"
+    }
+  ],
+  "timestamp": "2026-08-16T19:49:12.716752340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "isaiah 13:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ከሩቅ ምድር ከሰማያት ዳር የሚመጡ ናቸው፤ ያህዌህ እና የቍጣው መሣሪያዎች ምድሩን በሙሉ ለማጥፋት።",
+  "tokens": [
+    {
+      "surface": "באים",
+      "gloss": "የሚመጡ ናቸው"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከሩቅ ምድር"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ሩቅ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ከዳር"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "እና መሣሪያዎች"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "የቍጣው"
+    },
+    {
+      "surface": "לחבל",
+      "gloss": "ለማጥፋት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:03:05.171090482Z",
+  "model": "glm-5.3"
+}

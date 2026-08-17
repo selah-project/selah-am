@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "joshua 19:16",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ይህች ነው በቤተ ሰቦቻቸው መሠረት የዛብሉን ልጆች ርስት — እነዚህ ከተሞችና መንደሮቻቸው።",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ይህች"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ርስት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ዛብሉን"
+    },
+    {
+      "surface": "למשפחותם",
+      "gloss": "በቤተ ሰቦቻቸው"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "እነዚህ ከተሞች"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "እና መንደሮቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T05:09:39.736790418Z",
+  "model": "glm-5.3"
+}

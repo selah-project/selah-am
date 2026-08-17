@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 86,
+  "translation": "አንተ አዶናይ ልህቀት የተሞላህ እና የምታዘን ስለሆንህ፣ ወደ አንተ ለሚጠሩት ሁሉ ቸርነት ስላለህ ነው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለሆነህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ልህቀት የተሞላህ"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "የምታዘን"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ስላለህ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ቸርነት"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "ወደ አንተ ለሚጠሩት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:20.266975077Z",
+  "model": "glm-5.3"
+}

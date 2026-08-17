@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ሄኖክም ⟨את⟩ ኤሎሂምን ከወለደ በኋላ ከሜቱሼላ ስምሶ ሦስት መቶ ዓመት አብሮ ሄደ፤ ወንዶችን እና ሴቶችንም ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "አብሮ ሄደ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ሄኖክ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂምን"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ… በኋላ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሜቱሼላን"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "ሜቱሼላን"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ወንዶችን"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "እና ሴቶችን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:31:18.794150237Z",
+  "model": "glm-5.3"
+}

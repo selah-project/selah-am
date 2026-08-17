@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ብረትና ናስ በሮችህ ይሁኑ፤ እንደ ቀኖችህም ሁሉ ድካምህ ይሁን።",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "ብረት"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ናስ"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "በሮችህ"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "እንደ ቀኖችህም"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "ድካምህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:56:50.994976100Z",
+  "model": "glm-5.3"
+}

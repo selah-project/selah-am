@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ነገር ግን አዋላጆቹ ኤሎሂምን ስለ ፈሩ፣ የምጽራይም ንጉሥ እንዳላቸው አላደረጉም፤ የወንድ ልጆችንም ⟨את⟩ ሕያው አደረጓቸው።",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "ፈሩ"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "አዋላጆቹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂምን"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አላደረጉም"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "አደረጉ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንዳላቸው"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "እነሱን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "የምጽራይም"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "ሕያው አደረጓቸው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የወንድ ልጆችን"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ልጆች"
+    }
+  ],
+  "timestamp": "2026-08-16T03:06:19.695954657Z",
+  "model": "glm-5.3"
+}

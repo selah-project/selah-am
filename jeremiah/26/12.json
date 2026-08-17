@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "jeremiah 26:12",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ኢርምያስ ወደ አለቆቹ ሁሉ እና ወደ ሕዝቡ ሁሉ እንዲህ እያለ ተናገረ፦ ያህዌህ ወደ ይህ ቤት እና ወደ ይቺ ከተማ እናንተ የሰማችሁትን ⟨את⟩ ቃላት ሁሉ እነብየ ዘንድ ላከኝ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ኢርምያስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ᛵל",
+      "gloss": "ሁሉ",
+      "surface_raw": "כל"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "አለቆቹ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ እያለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ላከኝ"
+    },
+    {
+      "surface": "להנבא",
+      "gloss": "እነብየ ዘንድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ይህ ቤት"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ይቺ ከተማ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይቺ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላት ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ያሉትን"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "የሰማችሁትን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:54:33.079987156Z",
+  "model": "glm-5.3"
+}

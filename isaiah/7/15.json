@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "በር እና ማር ይበላል፤ ክፉን መጣልና መልካምን መምረጥ እንዲያውቅ ⟨ይበቃዋል⟩።",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "በር"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "እና ማር"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበላል"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "እንዲያውቅ"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "መጣል"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ክፉን"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "እና መምረጥ"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "መልካምን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:00:53.237455017Z",
+  "model": "glm-5.3"
+}

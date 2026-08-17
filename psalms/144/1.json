@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 144,
+  "translation": "ለዳዊት። የተባረከ ይሁን ያህዌህ ዓለትዬ፣ እጆቼን ለውግሥ የሚያሠለጥኝ፣ ጣቶቼን ለዘመን የሚያሠለጥኝ።",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "የተባረከ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ዓለትዬ"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "የሚያሠለጥ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "እጆቼን"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "ለውግሥ"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "ጣቶቼን"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ለዘመን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:37.283263640Z",
+  "model": "glm-5.3"
+}

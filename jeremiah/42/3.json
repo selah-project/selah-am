@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "አምላክህ ያህዌህ በእርሷ እንሄድበት ወደን ያለውን ⟨את⟩ መንገድና እንሠራው ወደን ያለውንም ⟨את⟩ ቃል ይነግረን።",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ይነግረን"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለኛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "አምላክህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንገድን"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ወደን"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "እንሄድበት"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሷ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቃልን"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ወደን"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "እንሠራው"
+    }
+  ],
+  "timestamp": "2026-08-16T08:07:23.738031526Z",
+  "model": "glm-5.3"
+}

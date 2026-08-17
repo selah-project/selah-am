@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ያህዌህ ያስከፍታል እና ያበለጸጋል፤ ያዋርዳል እንዲሁም ያንሳል።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "ያስከፍታል"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "እና ያበለጸጋል"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "ያዋርዳል"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "ያንሳል"
+    }
+  ],
+  "timestamp": "2026-08-16T05:30:50.401411281Z",
+  "model": "glm-5.3"
+}

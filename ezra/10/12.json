@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "ezra 10:12",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ማኅበሩም ሁሉ መለሶ፣ በታላቅ ድምፅም እንዲህ አለ፤ እንደ ቃልህ በእኛ ላይ ⟨ነው⟩ ለመሥራት።",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "መለሶ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ማኅበሩ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "በ…ድምፅ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "እንደ ቃልህ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "በእኛ ላይ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ለመሥራት"
+    }
+  ],
+  "timestamp": "2026-08-16T12:00:44.559216532Z",
+  "model": "glm-5.3"
+}

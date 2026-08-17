@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 74,
+  "translation": "ለምን እጅህን እንዲሁም ቀኝ እጅህን ከልብህ መካከል ታስቀምጣለህ? ፈጽሞ አጠፋቸው።",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ታስቀምጣለህ (ትመልሳለህ)"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህን"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "እንዲሁም ቀኝ እጅህን"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ከ…መካከል"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "ደረትህ \/ ልብህ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ፈጽሞ አጠፋቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:16.362594931Z",
+  "model": "glm-5.3"
+}

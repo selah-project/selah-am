@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "ፋራስ፣ ኩሽ እና ፉጥ ⟨אתם⟩ ጋር ናቸው፤ ሁሉም እነርሱ ታስሪ እና በለጠ አላቸው።",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "ፋራስ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ኩሽ"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "እና ፉጥ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ከእነርሱ ጋር"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ታስሪ"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "እና በለጠ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:24:57.205486194Z",
+  "model": "glm-5.3"
+}

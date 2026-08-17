@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 37,
+  "ref": "numbers 33:37",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "እነሆም ከቃዴስ ተነሱ በዕድም ምድር ዳር በሆር ተራራ ተሠፈሩ።",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ተነሱ"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "ከቃዴስ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ተሠፈሩ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "በ…ተራራ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ሆር ተራራ"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "በዳር"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ዕድም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:30:20.126853165Z",
+  "model": "glm-5.3"
+}

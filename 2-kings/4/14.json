@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "2-kings 4:14",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እና አለ፣ እንኳው ለእርሷ ምን ይደረግ? እና ጌይሐዚ አለ፣ በእውነት ግን ልጅ የላትም፣ ባሏም አረጋዊ ነው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "እንኳው ምን"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ይደረግ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ለእርሷ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "גיחזי",
+      "gloss": "ጌይሐዚ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "በእውነት ግን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የላትም"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ላት"
+    },
+    {
+      "surface": "ואישה",
+      "gloss": "እና ባሏ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "አረጋዊ ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T06:38:47.957869210Z",
+  "model": "glm-5.3"
+}

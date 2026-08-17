@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የሞራሪን ልጆች በቤተ ሰባቸው በአባቶቻቸው ቤት ታሠራቸዋለህ ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ሞራሪን"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "በቤተ ሰባቸው"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "አባቶቻቸው"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ታሠራቸዋለህ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን (ሞራሪን ልጆችን)"
+    }
+  ],
+  "timestamp": "2026-08-16T04:06:35.903708006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ዓይን በዓይን አካል፣ ጥርስ በጥርስ አካል፣ እጅ በእጅ አካል፣ እግር በእግር አካል።",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "ዓይን"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ… አካል"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ዓይን"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ጥርስ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ… አካል"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ጥርስ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "እጅ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ… አካል"
+    },
+    {
+      "surface": "יד",
+      "gloss": "እጅ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "እግር"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ… አካል"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "እግር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:20:36.108926923Z",
+  "model": "glm-5.3"
+}

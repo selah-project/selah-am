@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "እንደ አባቶቻቸው አይሁኑ፤ የሚጋባና አመጸኛ ትውልድ፣ ልቡን ያላጠና ትውልድ፣ መንፈሱም ⟨את⟩ ከኤል ጋር ያልታመነ ትውልድ እንዳይሆኑ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "እንዳይሆኑም"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "አይሁኑ"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "እንደ አባቶቻቸው"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ትውልድ"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "አመጸኛ"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "የሚጋባም"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ትውልድ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አላ"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ያጠናም"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ያልታመነም"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "ማመኑን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከኤል ጋር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "መንፈሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:51.485973577Z",
+  "model": "glm-5.3"
+}

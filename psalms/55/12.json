@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 55,
+  "translation": "ጥፋት በከተማዋ ውስጥ ⟨አለ⟩፤ በጎዳናዎቿ ላይ ጫናና ተንኮል አይርቅም።",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "ጥፋት"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "በከተማዋ ውስጥ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይርቅም"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "አይራቅ"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "ከጎዳናዎቿ"
+    },
+    {
+      "surface": "תך",
+      "gloss": "ጫና"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "እና ተንኮል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:17.545956239Z",
+  "model": "glm-5.3"
+}

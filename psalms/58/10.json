@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 58,
+  "translation": "የእናንተ ብርሃኖች አኮቂ በረሃን ሳይለዱ እንደ ሕያው ሆኖ እንደ ቁጭት ያለ አውሎ እርሱን ይናወጣል።",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "ሳይ"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ይለዱ"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "የእናንተ ብርሃኖች"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "አኮቂ በረሃ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ሕያው ሆኖ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "ቁጭት ያለ"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "አውሎ ይናወጣል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:18.946219109Z",
+  "model": "glm-5.3"
+}

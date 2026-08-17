@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ሰገደም እና እንዲህ አለ፦ አገልጋይህ ምንድን ነው፣ እንደ እኔ ያለ ወደ ሞተ ⟨ውሻ⟩ እንዴት ዞርህ ነው?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "ሰገደ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምንድን ነው"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "አገልጋይህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንዴት"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "ዞርህ ነው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "⟨ውሻ⟩"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "እኔ ያለ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:58:37.953371116Z",
+  "model": "glm-5.3"
+}

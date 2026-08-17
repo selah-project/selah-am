@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ወደ ቤትህ ውስጥ ታመጣታለህ፤ ራሷን ⟨את⟩ ትራሻለች፣ ጥፍሮቿንም ⟨את⟩ ታደርጋለች።",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "ታመጣታለህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "ውስጥ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ቤትህ"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "ትራሻለች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራሷን"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "ራሷን"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "ታደርጋለች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጥፍሮቿን"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "ጥፍሮቿን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:46:54.863361236Z",
+  "model": "glm-5.3"
+}

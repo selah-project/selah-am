@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ሞሼም መጣ፤ የሕዝቡን ሽማግሌዎች ጠራ፤ ያህዌህ ያዘዘውን ⟨את⟩ ሁሉን ነገር ከዚህች ቃላት በፊታቸው አደረገ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "ሽማግሌዎችን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "በፊታቸው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን ነገር ከዚህች ቃላት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ከዚህች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያዘዘው"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ያዘዘው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:18:26.996871669Z",
+  "model": "glm-5.3"
+}

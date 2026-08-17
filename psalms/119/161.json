@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 161,
+  "ref": "psalms 119:161",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ሹማምቶች ያለምክኔ አደኑኝ፤ የአንተም ቃላት ልቤን አስደነገጡ።",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "ሹማምቶች"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "አደኑኝ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ያለምክኔ"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "የአንተም ቃላት"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "አስደነገጡ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:14.259784795Z",
+  "model": "glm-5.3"
+}

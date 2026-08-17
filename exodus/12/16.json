@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "exodus 12:16",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "በመጀመሪያው ቀን ቅዱስ ስብሰባ፣ በሰባተኛውም ቀን ቅዱስ ስብሰባ ለእናንተ ይሆናል፤ በእነሱ ውስጥ ማንኛውም ሥራ አይሠራም፤ ነገር ግን ለማንኛውም ነፍስ የሚበላ ነገር ብቻ በእናንተ ይሠራል።",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "በመጀመሪያው"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "ስብሰባ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "በቀንም"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "በሰባተኛው"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "ስብሰባ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለእናንተ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ማንኛውም"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይሠራም፤ አይሆንም"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ይሠራል"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "በእነሱ ውስጥ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚበላ ነገር"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "የሚበላ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለማንኛውም"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ይሠራል"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "በእናንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:16:20.344335888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ዕብራውያንም ⟨את⟩ ዮርዳኖስን ወደ ጋድ ምድርና ወደ ጌልዓድ አቋረጡ፤ ሹልም ገና በጌልጐላል ነበር፤ ሕዝቡም ሁሉ በርብርብ ከእሱ ተከተለ።",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "ዕብራውያንም"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "አቋረጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮርዳኖስን"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "ጌልዓድም"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ሹልም"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "ገና ነበር"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "በጌልጐላል"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "በርብርብ ተከተለ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ከእሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:36:21.554396047Z",
+  "model": "glm-5.3"
+}

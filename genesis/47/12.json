@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 47,
+  "translation": "ዮሴፍም ⟨את⟩ አባቱን እና ⟨את⟩ ወንድሞቹን እና ⟨את⟩ ቤተሰቡን ሁሉ እንደ ልጆቻቸው አፍዳም በልቶ እንዲኖሩ አስተናገዳቸው።",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "አስተናገዳቸው"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አባቱን"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ወንድሞቹን"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሞቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቤተሰቡን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤተሰብ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "የአባቱ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "አፍዳም"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "ልጆቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T14:30:12.976190394Z",
+  "model": "glm-5.3"
+}

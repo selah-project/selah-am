@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ናኽሾንም ⟨את⟩ ሣልማን ወለደ፤ ሣልማም ⟨את⟩ ቦዕዝን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "ናኽሾንም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሣልማን"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "ሣልማ"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "ሣልማም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቦዕዝን"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ቦዕዝ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:32:10.924662762Z",
+  "model": "glm-5.3"
+}

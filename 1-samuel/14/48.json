@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ጀግናም ሆነ፤ ⟨את⟩ ዓማሌቅንም መታ፤ ⟨את⟩ እስራኤልንም ከዘረፈው እጅ አዳነ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ጀግናም"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "መታ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓማሌቅን"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ዓማሌቅንም"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "አዳነ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልንም"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከ…እጅ"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "ዘረፈው"
+    }
+  ],
+  "timestamp": "2026-08-16T05:39:45.390616896Z",
+  "model": "glm-5.3"
+}

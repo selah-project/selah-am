@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "በቅዱሱ ስም ይመሰገኑ፤ ያህዌህን የሚፈልጉ ልብ ይደሰት።",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "ይመሰገኑ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "በስም"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱሱ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ይደሰት"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "የሚፈልጉ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:53:50.121276357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ሥጋ ሁሉ አብሮ ያልቃል፤ ሰውም ወደ አፈር ይመለሳል።",
+  "tokens": [
+    {
+      "surface": "יגוע",
+      "gloss": "ያልቃል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "አብሮ"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ሰውም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "አፈር"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ይመለሳል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:58:22.759018267Z",
+  "model": "glm-5.3"
+}

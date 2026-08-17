@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 76,
+  "translation": "የልብ ኃያላን ተበዘቡ፤ እንቅልፋታቸውን አንቀላፉ፤ እና የኃይል ወንዶች ሁሉ እጆቻቸውን አልአገኙም።",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "ተበዘቡ"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "ኃያላን የ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "አንቀላፉ"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "እንቅልፋታቸውን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "አገኙ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ወንዶች የ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ኃይል"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "እጆቻቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:36.953292925Z",
+  "model": "glm-5.3"
+}

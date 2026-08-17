@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "የያህዌህ ቃል ሁለተኛ ጊዜ ወደ እኔ መጣ፤ እንዲህ እያለ፦",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ (መጣ)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ሁለተኛ ጊዜ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ እያለ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:48:39.986344058Z",
+  "model": "glm-5.3"
+}

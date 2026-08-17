@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 104,
+  "translation": "ሰው ለሥራው ወጣ እና ለአገልግሎቱ እስከ መሸም ድረስ ይሄዳል።",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "ለሥራው"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "እና ለአገልግሎቱ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "እስከ ድረስ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "እስከ መሸም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:38.722202135Z",
+  "model": "glm-5.3"
+}

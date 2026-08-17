@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "2-kings 20:15",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እርሱም «በቤትህ ምን አዩ?» አለ። ይጽሐቅም «በቤቴ ያለውን ⟨את⟩ ሁሉ አዩ፤ በመደባቴ ውስጥ ያላሳያቸው ነገር ⟨ሳይኖር⟩ አልነበረም» አለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "አዩ"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "በቤትህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ይጽሐቅ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነውን"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "በቤቴ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "አዩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበረም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አላ"
+    },
+    {
+      "surface": "הראיתם",
+      "gloss": "አሳያቸው"
+    },
+    {
+      "surface": "באצרתי",
+      "gloss": "በመደባቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:52:40.369135697Z",
+  "model": "glm-5.3"
+}

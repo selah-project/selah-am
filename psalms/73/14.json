@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "ሙሉ ቀን ተሠቃዬለሁ፣ ያለሚታዘዝም ሆኖ እያመዘዘኝ ነበር በየጠዋቱ።",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ነበር፣\/ሆንሁ"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "ተሠቃዬለሁ፣"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሙሉ\/ሁሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ቀን\/ቀኑ"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "ያለሚታዘዝም ሆኖ እያመዘዘኝ"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "በየጠዋቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:09.173641730Z",
+  "model": "glm-5.3"
+}

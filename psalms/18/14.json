@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "በሰማያት ያህዌህ ነጎደ፤ የዐላዊውም ድምፁን ሰጠ — በረዶ እና የእሳት ጋድማዎች።",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "ነጎደ፤ (ነጋጋቸው)"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "በሰማያት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "እና የዐላዊው"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ድምፁን"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "በረዶ"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "እና የእሳት ጋድማዎች"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:32.714689717Z",
+  "model": "glm-5.3"
+}

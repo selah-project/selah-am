@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "jonah 2:10",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እናም እኔ በምስጋና ድምፅ ለአንተ እሠዋለሁ፤ የተሰጥኩትን ቃል እከፍላለሁ፤ መድኃኒት ለያህዌህ ናት።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እናም እኔ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "በ…ድምፅ"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ምስጋና"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "እሠዋለሁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ን"
+    },
+    {
+      "surface": "נדרתי",
+      "gloss": "ቃል የገባሁት"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "እከፍላለሁ"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "መድኃኒት"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:08:56.546940577Z",
+  "model": "glm-5.3"
+}

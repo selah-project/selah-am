@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ሐሞር፣ የሴኬም አባት፣ ያዕቆብ ዘንድ ሊነጋገረው ⟨את⟩ ወጣ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ሐሞር"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "የ... አባት"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ሴኬም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ዘንድ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ሊነጋገር"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ከእርሱ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T02:53:03.082452481Z",
+  "model": "glm-5.3"
+}

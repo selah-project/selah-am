@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ለያህዌህ ዘምሩ ቅዱሳኑ እኩርቶም፣ በቅድስናው ማስታወሻ እኩርቶም።",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ዘምሩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ቅዱሳኑ"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "እኩርቶም"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "በ…ማስታወሻ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅድስናው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:37:01.650187318Z",
+  "model": "glm-5.3"
+}

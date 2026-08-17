@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የምድሩ ሕዝብ የይሁዳ ሕዝብ እጆችን ያሳክናል ጀመር እና እነሱን ለመገንባት ⟨את⟩ ያሰለቅሳቸው ጀመር።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ይሆን ጀመር"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድሩ"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "ያሳክናል ጀመር"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "እጆችን"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "የይሁዳ"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "እና ያሰለቅሳቸው ጀመር"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ለመገንባት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:56:13.001292049Z",
+  "model": "glm-5.3"
+}

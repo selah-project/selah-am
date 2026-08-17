@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "1-kings 17:14",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "የእስራኤል ኤሎሂም ያህዌህ እንዲህ ስለሚል — የዱባው ዱቄት አይሟጠርም፤ የዘይቱ ጠርሙስ አይጎድልም፤ ያህዌህ በምድር ገጽ ላይ ዝናብ እስከሚሰጥበት ቀን ድረስ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለሚል"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም የ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כד",
+      "gloss": "ዱባ"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "ዱቄት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "ይሟጠርም"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "ጠርሙስም"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ዘይቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "ይጎድልም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ሚሰጥበት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "ዝናብ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T06:29:48.216785530Z",
+  "model": "glm-5.3"
+}

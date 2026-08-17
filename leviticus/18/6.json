@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "leviticus 18:6",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "እያንዳንዱ ሰው የሥጋውን ቤተሰብ ሁሉ አትቀርብም ብርቃትን ለማጋለጥ፤ እኔ ያህዌህ ነኝ።",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "የሥጋ ቤተሰብ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ሥጋው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት...ም"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "ትቀርቡ"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "ለማጋለጥ"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "ብርቃትን"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:53:16.855786829Z",
+  "model": "glm-5.3"
+}

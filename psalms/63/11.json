@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 63,
+  "translation": "ለሰይፍ እጅ ይደርቃሉ፤ ለቀበሮዎች ድልድል ይሆናሉ።",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "ይደርቃሉ\/ያፈሳሉ፤ ይሰጣሉት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ለ\/ወደ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "እጅ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ድልድል"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "ለቀበሮዎች"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ይሆናሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:34.474805055Z",
+  "model": "glm-5.3"
+}

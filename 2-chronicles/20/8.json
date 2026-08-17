@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "2-chronicles 20:8",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እነርሱም በእሷ ተቀመጡ፤ እንዲሁም በእሷ ላይ ለስምህ ቤተ መቅደስ ሠሩልህ፣ እንዲህ እያሉ፦",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ተቀመጡ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእሷ"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "ሠሩም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንት"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእሷ"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "ቤተ መቅደስ"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ለስምህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ እያሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:57:49.308320727Z",
+  "model": "glm-5.3"
+}

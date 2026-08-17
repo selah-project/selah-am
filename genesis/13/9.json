@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ሉጥ ሆይ፣ በአንተ ፊት መላው ⟨ምድር⟩ የለችምን? እባክህ፣ ከእኔ ተለይ፤ በግራ ከሆነ፣ እኔ በቀኝ እሆናለሁ፤ በቀኝ ከሆነ፣ እኔ በግራ እሆናለሁ።",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "የለምን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላው"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "በአንተ ፊት"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "ተለይ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "በግራ"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "እኔ በቀኝ እሆናለሁ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "እንደገና ከሆነ"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "በቀኝ"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "እኔ በግራ እሆናለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:35:12.487612573Z",
+  "model": "glm-5.3"
+}

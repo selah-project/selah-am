@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 77,
+  "translation": "እና አልኩ፦ ድካሜ ይኸው፤ የከፍተኛው የቀኝ እጅ ዓመታት ናቸው።",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "እና አልኩ"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "ድካሜ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ናት"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "የቀኝ እጅ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "የከፍተኛው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:18.283902413Z",
+  "model": "glm-5.3"
+}

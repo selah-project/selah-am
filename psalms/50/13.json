@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 50,
+  "translation": "የበሬዎችን ሥጋ በላለሁኝ? የፍየሎችንም ደም አጠጣለሁን?",
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "በላለሁኝ?"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "የበሬዎችን"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "ደምም"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "የፍየሎችን"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "አጠጣለሁን?"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:48.888144991Z",
+  "model": "glm-5.3"
+}

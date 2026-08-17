@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ሌባ በሆንጥታ ቢገኝ ተመቶ ቢሞት፣ ለእርሱ ደም የለውም።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ቢ"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "በሆንጥታ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ቢገኝ"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "ሌባ"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ተመቶ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ቢሞት"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ደም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:22:49.448594857Z",
+  "model": "glm-5.3"
+}

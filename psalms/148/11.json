@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 148,
+  "translation": "የምድር ነገሥታት፣ እና ሁሉም ሕዝቦች፤ አለቆች፣ እና የምድር ሁሉም ፈራጆች፤",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "ነገሥታት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉም"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "አለቆች"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉም"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "ፈራጆች"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:00.687949440Z",
+  "model": "glm-5.3"
+}

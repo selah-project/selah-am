@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 147,
+  "translation": "ለማንኛውም ሕዝብ እንዲህ አላደረገም፤ ፍርዶቹንም አላወቁም። ያህን አመስግኑ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለማንኛውም"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "እና ፍርዶቹን"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ፍጹም አል"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "አወቁአቸውም"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "አመስግኑ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:12.810321163Z",
+  "model": "glm-5.3"
+}

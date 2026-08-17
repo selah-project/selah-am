@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "esther 6:4",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ንጉሡም «በአደባባዩ ማን ነው?» አለ፤ ሞርደካይን በራሱ ላይ እንዲሆን ስላዘጋጀው እንጨት ላይ ⟨את⟩ ለመሰቀል ለንጉሡ ለመናገር ወደ ውጭ የንጉሡ ቤት አደባባይ ሐማን ገባ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "በአደባባዩ"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ሐማንም"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ገባ"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "ወደ አደባባይ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት የ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "ውጭ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ለመናገር"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ለንጉሡ"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "ለመሰቀል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞርደካይን"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ሞርደካይን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "እንጨት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "አዘጋጀው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ራሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:20:18.041442804Z",
+  "model": "glm-5.3"
+}

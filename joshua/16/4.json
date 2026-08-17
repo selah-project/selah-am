@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "joshua 16:4",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "የዮሴፍ ልጆች ምናሴና ኤፍራይም ወራሪነታቸውን ተቀበሉ።",
+  "tokens": [
+    {
+      "surface": "וינחלו",
+      "gloss": "ወራሪነታቸውን ተቀበሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሴ"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "እና ኤፍራይም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:08:21.001860805Z",
+  "model": "glm-5.3"
+}

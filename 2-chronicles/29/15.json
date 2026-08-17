@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "2-chronicles 29:15",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "ወንድሞቻቸውን ⟨את⟩ ሰበሰቡ፣ ተቀደሱም፣ በያህዌህ ቃላት በንጉሡ ትእዛዝ ደግሞ ወደ ቤቱ የያህዌህ ለማንጻት ገቡ።",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "ሰበሰቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንድሞቻቸውን"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ወንድሞቻቸውን"
+    },
+    {
+      "surface": "ויתקדשו",
+      "gloss": "ተቀደሱም"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ገቡ"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "በትእዛዝ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "በቃላት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "ለማንጻት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:16:31.225872614Z",
+  "model": "glm-5.3"
+}

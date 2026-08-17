@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "መታጠቢያውን ⟨את⟩ በስብሰባ ድንኳንና በመሠዊያው መካከል አቆመ፤ በዚያም ለመታጠብ ውሃ አኖረ።",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "አቆመ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መታጠቢያውን"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "መታጠቢያው"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ስብሰባ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እና በመካከል"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "አኖረ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "ለመታጠብ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:40:33.451620976Z",
+  "model": "glm-5.3"
+}

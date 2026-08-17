@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 32:2",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ይሖቅያስም ሰንሐሪብ መጥቶ ፊቱ ለውጊያ በኢየሩሳሌም ላይ እንደሆነ አየ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "ይሖቅያስ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጥቶ"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "ሰንሐሪብ"
+    },
+    {
+      "surface": "ופניו",
+      "gloss": "ፊቱ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ለውጊያ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ኢየሩሳሌም"
+    }
+  ],
+  "timestamp": "2026-08-16T18:55:38.301503411Z",
+  "model": "glm-5.3"
+}

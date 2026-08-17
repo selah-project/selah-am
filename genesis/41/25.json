@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "ዮሴፍም ለፈርዖን እንዲህ አለ፦ የፈርዖን ሕልም አንድ ⟨ነው⟩፤ ኤሎሂም የሚያደርገውን ⟨את⟩ ለፈርዖን አስቀድሞ ነግሮታል።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ሕልም"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "የፈርዖን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ነው⟩ እርሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂም የሚያደርገውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ያደርጋል"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ነግሮታል"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ለፈርዖን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:56:20.659446344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "በሦስተኛው ወር የእስራኤል ልጆች ከግብፅ ምድር በወጡ በዚያው ቀን ወደ ሲና ምድረ በዳ መጡ።",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "በወር"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ሦስተኛው"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "በመውጣት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፅ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ዚያው"
+    },
+    {
+      "surface": "באו",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ምድረ በዳ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ሲና"
+    }
+  ],
+  "timestamp": "2026-08-16T03:17:12.905218520Z",
+  "model": "glm-5.3"
+}

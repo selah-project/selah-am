@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "በአንተ አባቶቻችን ተስፋ አደረጉ፤ ተስፋ አደረጉ፣ አንተም አዳናቸው።",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ተስፋ አደረጉ"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "አባቶቻችን"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ተስፋ አደረጉ"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "አዳናቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:20.291898938Z",
+  "model": "glm-5.3"
+}

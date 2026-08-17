@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "እንደ የሚሸፈነው ልብስ ትሆንለት፣ እንደ ዘበዝባዥም ሕብረት ሁልጊዜ ይታሰራበታል።",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "ትሆንለት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለርሱ"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "እንደ ልብስ"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "የሚሸፈነው"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "እንደ ሕብረትም"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "ይታሰራበታል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:07.957918148Z",
+  "model": "glm-5.3"
+}

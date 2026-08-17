@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 59,
+  "translation": "የምሕረቱ ኤሎሂም ይቀድምኛል፤ ኤሎሂም ጠላቶቼን ያሳየኛል።",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "የምሕረቱ"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "ይቀድምኛል"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "ያሳየኛል"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "ጠላቶቼን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:01.841532687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "genesis 45:20",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "ዓይናችሁም በቁሳቆሻችሁ አይሕዘት፤ የግብፅ ምድር በጎ ሁሉ የራሳችሁ ነውና።",
+  "tokens": [
+    {
+      "surface": "ועינכם",
+      "gloss": "ዓይናችሁም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "ይሕዘት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "כליכם",
+      "gloss": "ቁሳቆሻችሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነውና"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "በጎ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፅ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "የራሳችሁ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:02:46.730682337Z",
+  "model": "glm-5.3"
+}

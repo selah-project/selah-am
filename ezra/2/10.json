@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የባኒ ልጆች ስድስት መቶ አርባ እና ሁለት።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ባኒ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ስድስት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "አርባ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "እና ሁለት"
+    }
+  ],
+  "timestamp": "2026-08-16T18:31:05.894401540Z",
+  "model": "glm-5.3"
+}

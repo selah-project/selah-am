@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ቴራሕም ሰባ ዓመት ኖረ፤ ወለደም ⟨את⟩ አብራምን፣ ⟨את⟩ ናሖርን እና ⟨את⟩ ሐራንን።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ኖረም"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ቴራሕ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ሰባ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አብራምን"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "አብራም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ናሖርን"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ናሖር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሐራንን"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "ሐራን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:55.001594324Z",
+  "model": "glm-5.3"
+}

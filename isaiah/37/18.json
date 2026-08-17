@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "በእውነት ያህዌህ ሆይ፣ የአሦር ነገሥታት ⟨את⟩ ሀገራትን ሁሉ አጠፉ እና ⟨את⟩ ሀገራቸውንም።",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "አጠፉ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ነገሥታት"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "የአሦር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሀገራትን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "ሀገራትን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሀገራቸውንም"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ሀገራቸውንም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:18:36.179431739Z",
+  "model": "glm-5.3"
+}

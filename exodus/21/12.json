@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ሰውን የመታ ቢሞትም በሞት ይገደላል።",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "የመታ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰውን"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ቢሞትም"
+    },
+    {
+      "surface": "מות",
+      "gloss": "በሞት"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይገደላል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:20:31.724761279Z",
+  "model": "glm-5.3"
+}

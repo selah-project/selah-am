@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ለምን ያህዌህ በሩቅ ትቆማለህ? በመከራ ጊዜያት ትሰውራለህ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ትቆማለህ"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "በሩቅ"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "ትሰውራለህ"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "በጊዜያት"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "በመከራ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:37.688495439Z",
+  "model": "glm-5.3"
+}

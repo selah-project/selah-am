@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "እንደ ፈረስ እንደ ባህር አትሁኑ — በትረና ቀንበር ማንቂያው ከባዶ ያስታግሳቸዋል፣ ሳይገቡልህ፣ አስተዋል የላቸውም።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት-"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "እንደ…እንደ…ትሁኑ"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "ፈረስ"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "ባህር"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የላቸውም"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "አስተዋል"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "በትረ"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "በቀንበር"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "ማንቂያው"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "ያስታግሳቸዋል"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ካል"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ሳይገቡ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ልህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:37:51.824075632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ሞሼም ለአናትሱ ድምፅ ሰማ፤ ያለውንም ሁሉ አደረገ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ለ…ድምፅ"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "አናትሱ\/የሴት ልጁ ባል"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለውን"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ\/ተናገረ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:19:25.069127485Z",
+  "model": "glm-5.3"
+}

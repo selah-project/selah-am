@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "isaiah 28:19",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "በየማለፉ ይወስዳችኋል፤ እንደ ማለዳ በማለዳ ያልፋልና፤ በቀንም በሌሊትም፤ ማስተዋል መልእክቱን ፍርሃትን ብቻ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "מדי",
+      "gloss": "በየ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ማለፉ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ይወስዳችኋል"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ እናንተን",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ማለዳ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "በማለዳ"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ያልፋል"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀንም"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "በሌሊትም"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "זועה",
+      "gloss": "ፍርሃትን"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "ማስተዋል"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "መልእክቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:11:34.591226585Z",
+  "model": "glm-5.3"
+}

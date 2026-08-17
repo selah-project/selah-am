@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ከእሱ ለማለዳ አይተዉም፤ አጥንትም አይሰብሩበትም፤ እንደ ፋሲካው ሁሉ ሥርዓት ⟨את⟩ን ያደርጋሉ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይተዉም"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "ይተዋሉ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእሱ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ማለዳ"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "አጥንትም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ሰብሩበትም"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእሱ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "እንደ ሁሉ"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ሥርዓት"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ፋሲካው"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ያደርጋሉ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:11:56.226887397Z",
+  "model": "glm-5.3"
+}

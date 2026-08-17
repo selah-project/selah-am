@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ስድስት ዓመታት መስኩን ትዘራለህ፣ ስድስት ዓመታትም የወይን ቦታህን ትከትናለህ፣ ⟨את⟩ ከፍራቱም ትሰብሳለህ።",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "ስድስት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ትዘራለህ"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "መስኩን"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ስድስትም"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "ትከትናለህ"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "የወይን ቦታህን"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ትሰብሳለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከፍራቱን"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ከፍራቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:00:52.599029357Z",
+  "model": "glm-5.3"
+}

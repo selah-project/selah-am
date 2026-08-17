@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ለተወሰነው ⟨ለ⟩ቀን እና ለያህዌህ ለበዓል ቀን ምን ታደርጋላችሁ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ታደርጋላችሁ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ለቀን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ለተወሰነ ጊዜ"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "እና ለቀን"
+    },
+    {
+      "surface": "חג",
+      "gloss": "በዓል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:04:54.100234598Z",
+  "model": "glm-5.3"
+}

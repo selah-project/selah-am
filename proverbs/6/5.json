@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እንደ ጠላጋዛሌ ከእጅ፣ እንደ ወፍም ከሰፈሪ እጅ ራስህን አድነ።",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "አድነ ራስህን"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "እንደ ጠላጋዛሌ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "እና እንደ ወፍ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "ሰፈሪ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:23:04.065826276Z",
+  "model": "glm-5.3"
+}

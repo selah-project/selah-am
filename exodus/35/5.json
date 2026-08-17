@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "exodus 35:5",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "ከእናንተ ⟨את⟩ መባ ወስዱ ለያህዌህ፤ ልቡ የተነሳ ሁሉ ⟨את⟩ መባውን ያህዌህ ያመጣል፤ ወርቅ፣ ብር እና ናስ።",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "ወስዱ"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ ከእናንተ"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "መባ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "የተነሳ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "יביאה",
+      "gloss": "ያመጣል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መባውን"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "መባ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቅ"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "እና ብር"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "እና ናስ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:31:23.721384583Z",
+  "model": "glm-5.3"
+}

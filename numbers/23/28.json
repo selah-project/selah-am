@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ባላቅም ⟨את⟩ ቢልዓምን ወሰደ፤ ወደ ፖዖር ጫፍ፣ ወደ በረሃው ፊት የሚመለከተው።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ባላቅ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቢልዓምን"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ቢልዓምን"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ጫፍ"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "ፖዖር"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "የሚመለከተው"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "በረሃው"
+    }
+  ],
+  "timestamp": "2026-08-16T04:23:16.286611083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "የያህዌህም መልአክ ከሰማይ ሁለተኛ ጊዜ ወደ አብርሃም ጠራ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "መልአክ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃም"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ሁለተኛ ጊዜ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማይ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:42:29.881191521Z",
+  "model": "glm-5.3"
+}

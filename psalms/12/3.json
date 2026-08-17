@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ሐሜትን ይናገራሉ እያንዳንዱ ሰው ⟨את⟩ ወዳጁን፤ የኮረበ ከንፈርና በሁለት ልብ ይናገራሉ።",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "ሐሜትን"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ይናገራሉ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወዳጁን"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ወዳጁን"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "…ከንፈር"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "የኮረበ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "በአንድ ልብ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "እና በሁለተኛ ልብ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ይናገራሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:43.707920577Z",
+  "model": "glm-5.3"
+}

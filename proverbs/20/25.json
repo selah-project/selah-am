@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ለሰው መስለል ነው «ተቀደሰ» ብሎ በልብ ማለት፣ ከነዚህ በኋላ በመቃወም ማጣራት።",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "መስለል"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ለሰው"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "በልብ ማለት"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "«ተቀደሰ»"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ከነዚህ በኋላ"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "በመቃወም"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ማጣራት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:31:01.821261224Z",
+  "model": "glm-5.3"
+}

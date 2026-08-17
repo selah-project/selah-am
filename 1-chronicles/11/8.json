@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ከተማዋንም ዙሪያ ሁሉ ከሚሎ እስከ ዙሪያው ድረስ ሠራ፤ ዮአብም ⟨את⟩ የከተማዋን ቀሪ ሕይወት አስቀጠለ።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሠራም"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋን"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ዙሪያ ሁሉ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "ሚሎ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "ዙሪያው"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "ዮአብም"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "አስቀጠለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የከተማዋን ቀሪ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ቀሪ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "የከተማዋን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:48:35.434856407Z",
+  "model": "glm-5.3"
+}

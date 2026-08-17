@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እሴ እስራኤል፣ ማበላሸትህን ያደረግኸው አንተ ⟨ነህ⟩፤ ነገር ግን እርዳታህ በኔ ⟨ናት⟩።",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "ማበላሸትህን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በኔ"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "እርዳታህ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:59:51.479830115Z",
+  "model": "glm-5.3"
+}

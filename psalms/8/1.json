@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ለመዘምሩ በጊታዊቱ መዝሙር ለዳዊት።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመዘምሩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "ጊታዊቱ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:29:22.908442029Z",
+  "model": "glm-5.3"
+}

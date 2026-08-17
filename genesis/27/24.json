@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "እንዲህም አለው፦ አንተ ይህ ልጄ ዔሳው ነህን? እርሱም እንዲህ አለ፦ እኔ ነኝ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህም አለው"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጄ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዔሳው"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ ነኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:46:15.565329340Z",
+  "model": "glm-5.3"
+}

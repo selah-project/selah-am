@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 1:20",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የንጉሡም ፍርድ በሚያደርግበት በመላው መንግሥቱ ይሰማል፤ በእውነት ትልቅ ናትና፣ ሴቶች ሁሉ እንደ ትልቁም እስከ ትንሹ ለባሎቻቸው ክብር ይሰጣሉ።",
+  "tokens": [
+    {
+      "surface": "ונשמע",
+      "gloss": "ይሰማልም"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "ፍርድ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ሚያደርግበት"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በመላው"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "መንግሥቱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ትልቅ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ናት"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ሴቶች"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ይሰጣሉ"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ክብር"
+    },
+    {
+      "surface": "לבעליהן",
+      "gloss": "ለባሎቻቸው"
+    },
+    {
+      "surface": "למגדול",
+      "gloss": "እንደ ትልቁ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "ትንሹ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:32:43.236918913Z",
+  "model": "glm-5.3"
+}

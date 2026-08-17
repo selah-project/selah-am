@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እንዲህም አለ፦ እባክሽህ፣ ወንድሞቼ፣ ክፉ አትሥሩ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህም አለ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት-"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክሽህ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ወንድሞቼ"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "ክፉ አትሥሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:38:43.325665661Z",
+  "model": "glm-5.3"
+}

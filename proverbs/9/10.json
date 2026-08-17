@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "መጀመሪያ የጥበብ የያህዌህ መፍራት ነው፤ የቅዱሳን መረዳትም አዋቂነት ነው።",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "መጀመሪያ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "የጥበብ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "መፍራት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "መረዳትም"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "የቅዱሳን"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "አዋቂነት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:23:25.018972503Z",
+  "model": "glm-5.3"
+}

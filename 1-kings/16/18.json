@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "1-kings 16:18",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ዜምሪምም ከተማዋ እንደ ተያዘች ሲያይ፣ የንጉሡ ቤት ወደ ⟨ምሽግ⟩ ገባ፤ በእርሱ ላይም የንጉሡን ቤት በእሳት ⟨את⟩ አቃጠለ፤ ሞተም።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኾነም"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "ሲያይ"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "ዜምሪ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "እንደ ተያዘች"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ገባ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "ወደ ምሽግ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "አቃጠለ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የንጉሡን ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:28:56.233240415Z",
+  "model": "glm-5.3"
+}

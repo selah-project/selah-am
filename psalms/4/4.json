@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እና ዕወቁ ያህዌህ በጎውን ለራሱ ልዩ አድርጎታል፤ ያህዌህ ወደ እርሱ ሳጮኝ ይሰማኛል።",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "እና ዕወቁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "ልዩ አድርጎታል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "በጎውን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለራሱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ይሰማኛል"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "ሳጮኝ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:29:03.729110069Z",
+  "model": "glm-5.3"
+}

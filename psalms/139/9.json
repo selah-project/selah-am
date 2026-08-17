@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 139,
+  "translation": "የንጋቱን ክንፎች ብርቅ፣ በባሕር ዳር ልኖር፣",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "ብርቅ"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ክንፎችን"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "የንጋቱን"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "ልኖር"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "በዳር"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:06.088425596Z",
+  "model": "glm-5.3"
+}

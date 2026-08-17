@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ኤሎሂም ⟨את⟩ ከሕፃኑ ጋር ነበር፤ እርሱም ዐደገ፣ በምድረ በዳም ኖረ፤ ቀስተኛም ሆኖ አደገ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነበር"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከሕፃኑ ጋር"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ሕፃኑ"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "ዐደገ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ኖረ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በምድረ በዳ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆኖ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "አደገ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ቀስተኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:41:39.328932185Z",
+  "model": "glm-5.3"
+}

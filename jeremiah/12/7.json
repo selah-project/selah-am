@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ቤቴን ⟨את⟩ ተውሁ፤ የወረድሁንም ⟨את⟩ ቅርሶቼን ተውሁ፤ የሕይወቴንም የተወደዳትን ⟨את⟩ ውድ ወዳጅ በጠላቶቋ እጅ አሳልፌ ሰጠሁ።",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "ተውሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቴን"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ቤቴን"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "ተውሁ\/ጣልሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅርሶቼን"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "የወረድሁን ቅርሶቼን"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ሰጠሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሕይወቴን ውድ ወዳጅ"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "ውድ ወዳጅ\/የተወደዳትን"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "የሕይወቴን"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "በ…እጅ"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "ጠላቶቋ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:46:26.408045605Z",
+  "model": "glm-5.3"
+}

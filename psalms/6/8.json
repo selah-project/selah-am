@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ከቁጭት ዓይኔ አረጀች፤ በጠላቶቼ ሁሉ ምክንያት አረጀች።",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "አረጀች"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "ከቁጭት"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኔ"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "አረጀች"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉበት"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ጠላቶቼ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:27:49.636753189Z",
+  "model": "glm-5.3"
+}

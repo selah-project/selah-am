@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 147,
+  "translation": "በረዶን እንደ ጥጥ የሚሰጥ፤ ማወዛወዛውን እንደ አመድ ያሰራራል።",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "የሚሰጥ"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "በረዶን"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "እንደ ጥጥ"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "ማወዛወዛውን"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "እንደ አመድ"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "ያሰራራል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:37.287581140Z",
+  "model": "glm-5.3"
+}

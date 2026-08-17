@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ዳዊትም ⟨את⟩ ታቦቱን ወደ እርሱ ወደ ዳዊት ከተማ አልወሰደውም፤ ወደ ጌታዊው የዑቤድ ኤዶም ቤት አንሰጋት።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦቱን"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ታቦቱን"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "አንሰጋት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ዑቤድ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ኤዶም"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "ጌታዊው"
+    }
+  ],
+  "timestamp": "2026-08-16T12:53:31.633184353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "«ኤል ሻዳይ ⟨את⟩ ያበረክልህ፣ ያፈራህ፣ ያብዛህ፤ ወደ ሕዝቦች ማኅበርም ትሆናለህ።",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "እና ኤል"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ሻዳይ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ይባርክ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ያበረክልህ"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "ያፈራህ"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "ያብዛህ"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ትሆናለህም"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "ወደ ማኅበር"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝቦች"
+    }
+  ],
+  "timestamp": "2026-08-16T02:48:37.210446556Z",
+  "model": "glm-5.3"
+}

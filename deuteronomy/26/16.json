@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ዛሬ ይህ ያህዌህ ኤሎሂምህ ⟨את⟩ እነዚህን ትእዛዞች ⟨את⟩ ፍርዶችንም እንድታደርግ ያዛልሃል፤ ከልብህ በሙሉ በነፍስህም በሙሉ ⟨את⟩ እነሱን ታከብራለህ ታደርጋለህ።",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምህ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ያዛልሃል"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "እንድታደርግ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እነዚህን ትእዛዞች"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ትእዛዞችን"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ወ⟨את⟩",
+      "marks": "ፍርዶችን"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ፍርዶችንም"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ታከብራለህ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ እነሱን",
+      "marks": "ትእዛዞቹንና ፍርዶቹን"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ልብህ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "በሙሉም"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ነፍስህ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:22:00.415631980Z",
+  "model": "glm-5.3"
+}

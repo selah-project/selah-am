@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 94,
+  "translation": "ኤል የበቀል፣ ያህዌህ፤ ኤል የበቀል፣ አብራ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "የበቀል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "የበቀል"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "አብራ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:54.834561808Z",
+  "model": "glm-5.3"
+}

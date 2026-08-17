@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "የጠገበች ነፍስ ማርን ትረጋለች፤ የራበች ነፍስ ግን ሁሉም መራር ጣፋጭ ነው።",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "የጠገበች"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "ትረጋለች"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "ማር"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "የራበች"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "מר",
+      "gloss": "መራር"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "ጣፋጭ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:36:49.796558410Z",
+  "model": "glm-5.3"
+}

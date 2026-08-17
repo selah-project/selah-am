@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "በፍርድ፣ በልኬት፣ በሚዛንና በኩባያ ልኬት የሆነ በደል አትሥሩ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ትሥሩ"
+    },
+    {
+      "surface": "עול",
+      "gloss": "የሆነ በደል"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "በፍርድ"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "በልኬት"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "በሚዛን"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "እና በኩባያ ልኬት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:56:23.125791983Z",
+  "model": "glm-5.3"
+}

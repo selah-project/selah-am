@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "የኤሎሂም ሰረገሎች በአኃዝ፣ ሺህ ሺህ ናቸው፤ አዶናይ በእነርሱ መካከል ⟨ነው⟩ — ሲናይ በቅዱስ ስፍራ።",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "ሰረገሎች"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "በአኃዝ"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ሺህ ሺህ"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "ድግግሞሽ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በእነርሱ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ሲናይ"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "በቅዱስ ስፍራ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:05.679547020Z",
+  "model": "glm-5.3"
+}

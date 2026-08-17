@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "አማልኳቸውንም ⟨את⟩ እዚያ ተዉ፤ ዳዊትም በእሳት እንዲቃጠሉ አዘዘ፤ በእሳትም ተቃጠሉ።",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "ተዉም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አማልኳቸውን"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "አማልኳቸውን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በመናገርም\/አዘዘ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ተቃጠሉ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    }
+  ],
+  "timestamp": "2026-08-16T12:54:21.673951468Z",
+  "model": "glm-5.3"
+}

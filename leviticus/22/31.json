@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ትእዛዞቼን ታስጠብቁ፣ እነሱን ⟨את⟩ ታደርጉ፤ እኔ ያህዌህ ነኝ።",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ታስጠብቁ፣"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ትእዛዞቼን"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ታደርጉ፤"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዞቼን"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ ነኝ።"
+    }
+  ],
+  "timestamp": "2026-08-16T03:58:15.787079406Z",
+  "model": "glm-5.3"
+}

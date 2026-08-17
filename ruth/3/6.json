@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እርሷም ወደ ⟨ትከሻው⟩ ወረደች፤ እናት እናቷ ያዘዟትን ሁሉ አደረገች።",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "ወረደች"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "ትከሻው"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "አደረገች"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ሁሉን እንደ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ን"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "ያዘዟት"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "እናት እናቷ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:07:40.091431560Z",
+  "model": "glm-5.3"
+}

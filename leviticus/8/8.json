@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "በርሱም ላይ ⟨את⟩ ሆሼንን አደረገ፤ በሆሼንም ውስጥ ⟨את⟩ ኡሪምን እና ⟨את⟩ ቱሚምን አስቀመጠ።",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በርሱ ላይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሆሼንን"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ሆሼን"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "አስቀመጠ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ሆሼን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኡሪምን"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "ኡሪም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቱሚምን"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "ቱሚም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:47:22.018889868Z",
+  "model": "glm-5.3"
+}

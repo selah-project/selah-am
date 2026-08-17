@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 50,
+  "translation": "ከጾን፣ የውበት ፍጹምነት፣ ኤሎሂም በራ።",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "ከጾን"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "የውበት ፍጹምነት"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "ውበት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "በራ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:48.512164212Z",
+  "model": "glm-5.3"
+}

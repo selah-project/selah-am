@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "የተሰበረ ጎልማሳ ሳይሰብር ይቀራል፤ የሚጥፋ የተሽከርካሪ ጥምጥምም አይጥፋም አያጠፋትም፤ በእውነት ፍርድን ያወጣል።",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "ጎልማሳ"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "የተሰበረ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "ይሰብራል"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "እና የተሽከርካሪ ጥምጥም"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "የሚጥፋ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "ያጠፋታል"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ያወጣል"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:21:44.981267592Z",
+  "model": "glm-5.3"
+}

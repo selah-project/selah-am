@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ዳዊትም በመሸጊያው ተቀመጠ፤ ስለዚህ «የዳዊት ከተማ» ብለው ጠሩት።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተቀመጠም"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "በመሸጊያው"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ጠሩት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "የዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T12:48:35.434703036Z",
+  "model": "glm-5.3"
+}

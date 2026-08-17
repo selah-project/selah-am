@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "የእኔን ቅዱሳን ነገሮች አዋርደሃል፤ እና ⟨את⟩ ሰንበቶቼን አርክሰሃል።",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "ቅዱሳን የእኔ"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "አዋርደሃል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሰንበቶቼን"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "ሰንበቶቼን"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "አርክሰሃል"
+    }
+  ],
+  "timestamp": "2026-08-16T08:33:58.040182489Z",
+  "model": "glm-5.3"
+}

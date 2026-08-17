@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "1-samuel 20:17",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ዮናታንም በፍቅሩ ⟨את⟩ ዳዊትን እንደገና አስማለት፤ ⟨את⟩ን በነፍሱ ፍቅር ወደደውና።",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "ጨመረም"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ዮናታን"
+    },
+    {
+      "surface": "להשביע",
+      "gloss": "ለማስማል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊትን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትን"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "በፍቅሩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "ፍቅር"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱ"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "ወደደው"
+    }
+  ],
+  "timestamp": "2026-08-16T05:44:28.408238118Z",
+  "model": "glm-5.3"
+}

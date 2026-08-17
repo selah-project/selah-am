@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 50,
+  "translation": "በመከራ ቀንም ጠራኝ፤ አድንሃለሁ፤ አክብርኝማለህ።",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "ጠራኝ፤"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በ…ቀን"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "መከራ"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "አድንሃለሁ፤"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "አክብርኝማለህ።"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:48.888547197Z",
+  "model": "glm-5.3"
+}

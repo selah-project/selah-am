@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ያዕቆብም የላባንን ⟨את⟩ ፊት አየ፤ እነሆ፣ እንደ ቀደመው ወደ እርሱ ጋር አልነበረም።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊት"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "የላባንን"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "አልነበረም"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "እንደ ትላንትናው"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "እንደ ኢያለፈው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:50:02.919667508Z",
+  "model": "glm-5.3"
+}

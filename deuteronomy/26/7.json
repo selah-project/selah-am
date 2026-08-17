@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ወደ ያህዌህ ወደ አባቶቻችን ኤሎሂም ጮክን፤ ያህዌህም ⟨את⟩ ድምፃችንን ሰማ፣ ⟨את⟩ መከራችንንም እና ⟨את⟩ ዋናታችንንም እና ⟨את⟩ ጭቅጉታችንንም አየ።",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "ጮክን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "የአባቶቻችን"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምፃችንን"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "ድምፃችንን"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መከራችንን"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "መከራችንን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዋናታችንን"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "ዋናታችንን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ጭቅጉታችንን"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "ጭቅጉታችንን"
+    }
+  ],
+  "timestamp": "2026-08-16T15:03:59.298220343Z",
+  "model": "glm-5.3"
+}

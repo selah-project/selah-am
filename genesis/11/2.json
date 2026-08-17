@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "genesis 11:2",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እነሱም ከምሥራቅ በተነሳሱ ጊዜ በሲናር ምድር ⟨እነሱ⟩ ሸለል አገኙ፤ በዚያም ተቀመጡ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እና ሆነ"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "በተነሳሱ ጊዜ"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ከምሥራቅ"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "አገኙ"
+    },
+    {
+      "surface": "בקעה",
+      "gloss": "ሸለል"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በ…ምድር"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "ሲናር"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ተቀመጡ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:35:51.818579456Z",
+  "model": "glm-5.3"
+}

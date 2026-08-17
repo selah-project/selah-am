@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "በእውነት እንዲህ አልሁ፦ ለዘለዓለም ምሕረት ትሠራለች፤ ሰማያት ሆይ፣ በእነርሱ ውስጥ ታስጸናለህ የአንተን ታማኝነት።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "አልሁ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ለዘለዓለም"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ምሕረት"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ትሠራለች"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "ታስጸናለህ"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "የአንተን ታማኝነት"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "በእነርሱ ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:46.231852685Z",
+  "model": "glm-5.3"
+}

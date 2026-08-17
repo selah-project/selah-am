@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ያህዌህ የተባረከ ይሁን፤ በዘመቻ ከተከበበች ከተማ ስለ እኔ ቸርነቱን አስደንቋልን።",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "የተባረከ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "አስደንቋል"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ቸርነቱን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ስለ እኔ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "በከተማ"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ዘመቻ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:03.993418832Z",
+  "model": "glm-5.3"
+}

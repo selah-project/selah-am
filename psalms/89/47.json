@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "እስከ መቼ ያህዌህ ተሰውራለህ ለዘላለም? ቍጣህ እንደ እሳት ይቃጠላል?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "መቼ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ተሰውራለህ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ይቃጠላል"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ቍጣህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:08.352394328Z",
+  "model": "glm-5.3"
+}

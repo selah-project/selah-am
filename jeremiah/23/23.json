@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "የቅርብ ኤሎሂም እኔ ነኝ ያህዌህ የሚያወራ ወይስ የሩቅ ኤሎሂም አይደለሁም?",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "የቅርብ ኤሎሂም"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "የቅርብ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "የሚያወራ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ወይስ... አይደለሁም"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "የሩቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:10:30.501963717Z",
+  "model": "glm-5.3"
+}

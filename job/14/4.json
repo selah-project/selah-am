@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ማን ከርኩስ ውስጥ ንጹህ ማድረግ ይችላል? አንድም አይደለም።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ማድረግ ይችላል"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ንጹህ"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "ከርኩስ ውስጥ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:46:32.203998991Z",
+  "model": "glm-5.3"
+}

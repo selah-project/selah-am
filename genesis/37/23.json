@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ዮሴፍም ወደ ወንድሞቹ ሲመጣ ሆነ፤ ዮሴፍንም ⟨את⟩ በሱ ያለችውን የበረንዳዋን ልብሱን ⟨את⟩ የዳር እጅጌ ልብሱን ⟨את⟩ አወለቁት።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ሲ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሞቹ"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "አወለቁት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮሴፍን"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልብሱን"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "ልብሱን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልብሱን"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ልብስ"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "የበረንዳዋ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በሱ ያለችው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:55:48.531144372Z",
+  "model": "glm-5.3"
+}

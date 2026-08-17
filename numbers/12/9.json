@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የያህዌህ ቍጣ በእነርሱ አቃጠለ፤ እርሱም ሄደ።",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "አቃጠለ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ቍጣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በእነርሱ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:13:45.141965511Z",
+  "model": "glm-5.3"
+}

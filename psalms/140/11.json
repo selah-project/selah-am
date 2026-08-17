@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 140,
+  "translation": "ጋድሞች በእነርሱ ላይ ይወድቁ፤ በእሳት ይጥላቸው፤ በጥልቅ ጉድጓዶች — ፈጽሞ አይነሱም።",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "ይወድቁ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "በእነርሱ ላይ"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "ጋድሞች"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "ይጥላቸው"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "በጥልቅ ጉድጓዶች"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ፈጽሞ"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "አይነሱም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:15.771087003Z",
+  "model": "glm-5.3"
+}

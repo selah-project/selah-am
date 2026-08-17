@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 16:15",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "በአሳ በይሁዳ ንጉሥ ዓመት በሃያ እና በሰባት ዓመት ዝምሪ ሰባት ቀን በትርዛ ነገሠ፤ ሕዝቡም በፍልስጤም የሆነው በጊብቶን ላይ ሰፈሩ ነበር።",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "በዓመት"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ሃያ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "እና ሰባት"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "በአሳ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "ዝምሪ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "በትርዛ"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ሕዝቡም"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "ሰፈሩ ነበር"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "በጊብቶን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነው"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "በፍልስጤም"
+    }
+  ],
+  "timestamp": "2026-08-16T19:48:23.541171533Z",
+  "model": "glm-5.3"
+}

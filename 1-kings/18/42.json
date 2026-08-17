@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "1-kings 18:42",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "አኅያብም ለመብላትና ለመጠጣት ወጣ፤ ኤልያስም ወደ ካርምል ራስ ወጣ፤ ወደ ምድርም ወረወረ፣ ፊቱንም በእግሮቹ መካከል አደረገ።",
+  "tokens": [
+    {
+      "surface": "ויעלה",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "አኅያብ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ለመብላት"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "እና ለመጠጣት"
+    },
+    {
+      "surface": "ואליהו",
+      "gloss": "ኤልያስም"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "ካርምል"
+    },
+    {
+      "surface": "ויגהר",
+      "gloss": "ወረወረ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ወደ ምድር"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱን"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በ…መካከል"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "እግሮቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:31:26.267559374Z",
+  "model": "glm-5.3"
+}

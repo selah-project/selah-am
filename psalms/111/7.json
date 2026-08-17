@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 111,
+  "translation": "የእጆቹ ሥራዎች እውነትና ፍርድ ናቸው፤ ትእዛዞቹ ሁሉ አስተማማኝ ናቸው።",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "ሥራዎች"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "የእጆቹ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "እውነትና"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ፍርድ"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "አስተማማኝ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "ትእዛዞቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:00.425914565Z",
+  "model": "glm-5.3"
+}

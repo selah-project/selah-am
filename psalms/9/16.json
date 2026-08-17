@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "አሕዛብ በያደረጉት ጕድጓድ በጡ፤ በደበቁት ይህ መረብ እግራቸው ተማረከች።",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "በጡ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "ጕድጓድ ውስጥ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ያደረጉት"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "መረብ ውስጥ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "የደበቁት"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "ተማረከች"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "እግራቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:37.084766799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "እነሱንም ⟨את⟩ በሁለት ረድፎች ታስቀምጣለህ፤ ስድስት በረድፉ፣ በንጹሑ ሠንጠረዥ ላይ፣ በያህዌህ ፊት።",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ታስቀምጣለህ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ዳቦዎቹን"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "ረድፎች"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ስድስት"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "ረድፉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ሠንጠረዡ"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "ንጹሕ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:59:49.062121269Z",
+  "model": "glm-5.3"
+}

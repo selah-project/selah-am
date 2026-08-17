@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 59,
+  "translation": "አትገዳቸው፤ ሕዝቤ እንዳይረሳ፤ በኃይልህ አሳድዳቸው፤ አዋርዳቸው፤ መከላከያችን ሆይ አዶናይ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "ትገዳቸው"
+    },
+    {
+      "surface": "פן",
+      "gloss": "እንዳይረሳ"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "ይረሳሉ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤ"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "አሳድዳቸው"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "በኃይልህ"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "አዋርዳቸው"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "መከላከያችን"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:01.841761715Z",
+  "model": "glm-5.3"
+}

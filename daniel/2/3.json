@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ንጉሡም እንዲህ አላቸው፦ ሕልም አየሁ፤ መንፈሴ ሕልሙን ⟨את⟩ ለመረዳት ተናወጠ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነሱ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ሕልም"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "አየሁ"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "ተናወጠችም"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "መንፈሴ"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ለመረዳት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕልሙን"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ሕልሙ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:25:51.147648390Z",
+  "model": "glm-5.3"
+}

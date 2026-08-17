@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ያህዌህ ሆይ፤ የቤትህን መኖሪያ ወደድሁ፤ የክብርህን ማደሪያም ቦታ ወደድሁ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ወደድሁ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "መኖሪያን"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "የቤትህ"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "እና የ…ቦታን"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "የማደሪያ"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "የክብርህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:07.732087214Z",
+  "model": "glm-5.3"
+}

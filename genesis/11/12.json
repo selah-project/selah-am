@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "አርፋክስድም ሠላሳ አምስት ዓመት ኖረ፤ ⟨את⟩ ሰላኅንም ወለደ።",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "አርፋክስድም"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ኖረ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "እና ሠላሳ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰላኅን"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ሰላኅን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:40.737127728Z",
+  "model": "glm-5.3"
+}

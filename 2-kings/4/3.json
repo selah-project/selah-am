@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እርሱም አለ፤ «ሂጂ፤ ለራስሽ ከውጭ ከሁሉም አጎራባችሽ ⟨את⟩ ዕቃዎችን — ባዶ ዕቃዎችን — ጠይቂ፤ ጥቂት አትሁኚ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ሂጂ"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "ጠይቂ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለራስሽ"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "ዕቃዎችን"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "ውጭ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ከ⟨את⟩",
+      "marks": "ሁሉንም አጎራባችሽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "አጎራባችሽ"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "ዕቃዎችን"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "ባዶ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "ማንሳት አትሁኚ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:39:51.133180200Z",
+  "model": "glm-5.3"
+}

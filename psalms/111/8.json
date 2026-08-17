@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 111,
+  "translation": "ለዘላለም እስከ ዘላለም ድረስ የተደገፉ ናቸው፤ በእውነትና በቅንነት ተደርገዋል።",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "የተደገፉ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "እስከ ዘላለም ድረስ"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "ተደርገዋል"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "በእውነትና"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "በቅንነት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:00.426033848Z",
+  "model": "glm-5.3"
+}

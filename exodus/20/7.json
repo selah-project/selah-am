@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "የያህዌህ ኤሎሂምህን ስም ⟨את⟩ በንቱ አታንሣ፤ በምክንያቱም ያህዌህ ስሙን ⟨את⟩ በንቱ የሚሸከመውን ⟨את⟩ ⟨እርሱን⟩ ያለከላከለ አይሆንም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አታንሣ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "በንቱ አታንሣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስምን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምህን"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "በንቱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በምክንያቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "ያለከላከለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሚሸከመውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚሸከመውን"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "የሚሸከመው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሙን"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "በንቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:17:15.186800097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 115,
+  "translation": "ያህዌህ በእናንተ ላይ፣ በእናንተ ላይ እና በልጆቻችሁ ላይ ይጨምርብታል።",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "ይጨምርብታል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "በእናንተ ላይ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "በእናንተ ላይ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ…ላይ"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ልጆቻችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:25.865721555Z",
+  "model": "glm-5.3"
+}

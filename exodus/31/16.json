@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "የእስራኤል ልጆችም ⟨את⟩ ሳብቱን ትውልዶቻቸውን ለዘላለሙ ቃል ኪዳን ⟨את⟩ ሳብቱን ለመጠበቅ ይጠብቋታል።",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "ይጠብቋታልም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሳብቱን"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ሳብቱን"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ለመጠበቅ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሳብቱን"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ሳብቱን"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ትውልዶቻቸውን"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ቃል ኪዳን"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ለዘላለሙ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:29:51.954014918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "numbers 31:7",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "እንደ ያህዌህ በሞሼ ⟨את⟩ እንዳዘዘ፣ በምድያም ላይ ዘመቱ፤ ሁሉን ወንድ ገደሉ።",
+  "tokens": [
+    {
+      "surface": "ויצבאו",
+      "gloss": "ዘመቱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ምድያም"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሼ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "ገደሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ወንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:28:59.112054448Z",
+  "model": "glm-5.3"
+}

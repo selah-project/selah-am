@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 71,
+  "translation": "ኤሎሂም ከ እኔ አትርቅ፤ ኤሎሃዬ ለረዳቴ በፍጥነት ተንቀሳቀስ።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ትርቅ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከ እኔ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሃዬ"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ለረዳቴ"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "በፍጥነት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:53.483484664Z",
+  "model": "glm-5.3"
+}

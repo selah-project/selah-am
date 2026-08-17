@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "የይስራኤል ንጉሥም ለአገልጋዮቹ አለ፦ ሮሞት ጌልዓድ የእኛ እንደሆነች ያወቃችሁ ነው? እኛ ግን ከአራም ንጉሥ እጅ ⟨את⟩ እሷን ከመውሰድ ዝም እንላለን?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "አገልጋዮቹ"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "ያወቃችሁ ነው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "የእኛ"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "ሮሞት"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ጌልዓድ"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "እኛም"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "ዝም እንላለን"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "ከመውሰድ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እሷን (ሮሞት ጌልዓድን)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከ…እጅ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "አራም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:35:20.978438142Z",
+  "model": "glm-5.3"
+}

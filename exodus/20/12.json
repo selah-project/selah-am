@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "አባትህን ⟨את⟩ አክብር እና እናትህን ⟨את⟩፤ ያህዌህ ኤሎሂም አምላክህ እንደሚሰጥህ ምድር ላይ ቀናትህ እንዲረዙ ለማንነት።",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "አክብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አባትህን"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "አባትህን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "እናትህን"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "እናትህን"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ለማንነት"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "እንዲረዙ"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ቀናትህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደሚሰጥህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂም አምላክህ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሚሰጥ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:19:45.600898719Z",
+  "model": "glm-5.3"
+}

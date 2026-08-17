@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ኃጢአተኞችን ክፋት ይከተላል፤ እና ⟨את⟩ ጻድቃንን መልካም ነገር ያከፍላል።",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "ኃጢአተኞችን"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ይከተላል"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፋት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጻድቃንን"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ጻድቃን"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ያከፍላል"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም ነገር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:27:02.680944622Z",
+  "model": "glm-5.3"
+}

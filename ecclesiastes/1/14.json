@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "በአማርኛ፦ ሁሉንም ከፀሐይ በታች የተሠሩትን ሥራዎች ⟨את⟩ አየሁ፤ እነሆ፣ ሁሉም ሐመልማል እና የነፍስ ምራቅ ነው።",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "አየሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉንም"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "ሥራዎች"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "የተሠሩትን"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ከ… በታች"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ፀሐይ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ሐመልማል"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "እና ምራቅ\/ማሰቃየት"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ነፍስ\/ነፋስ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:16:36.170417156Z",
+  "model": "glm-5.3"
+}

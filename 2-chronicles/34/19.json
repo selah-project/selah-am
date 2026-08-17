@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ንጉሡ የከለሶር ቃላትን ⟨את⟩ ሲሰማ ሆነ፤ ⟨את⟩ ልብሱንም ቈረሰ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ሲሰማ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የከለሶር ቃላትን"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላትን"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "የከለሶር"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ቈረሰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልብሱን"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ልብሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:56:40.420024760Z",
+  "model": "glm-5.3"
+}

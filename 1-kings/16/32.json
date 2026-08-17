@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "እና በሰማርያ ለባዓል መሠዊያ ቆም አደረገ፤ በባዓል ቤት ውስጥ ያንን የባዓልን ቤት የሠራውን።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "እና ቆም አደረገ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠዊያ"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ለባዓል"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት ውስጥ"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "የባዓል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያንን… የ…"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሠራውን"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "በሰማርያ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:29:22.826404154Z",
+  "model": "glm-5.3"
+}

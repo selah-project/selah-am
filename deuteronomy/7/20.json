@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ያህዌህ ኤሎሂምህ እንዲሁም ⟨את⟩ ⟨ጦርቶን በነሱ ይልካል፤ ፊትህን ⟨ተሰውሮች እና ⟨ቀሪዎች እስከሚጠፉ ድረስ።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጦርቶን"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "ጦርቶን"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ይልካል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምህ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በነሱ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ሚጠፉ"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "ቀሪዎች"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "እና ተሰውሮች"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ፊትህን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:38:42.042947260Z",
+  "model": "glm-5.3"
+}

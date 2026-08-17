@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 60,
+  "translation": "መከለኛ ከተማ ወደ እኔ የሚያመጣኝ ማን ⟨ነው⟩? እስከ ኤዶም የሚመራኝ ማን ⟨ነው⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "ያመጣኝ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "መከለኛ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "የሚመራኝ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:57.785511601Z",
+  "model": "glm-5.3"
+}

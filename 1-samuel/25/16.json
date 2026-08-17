@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "እነሱ ላንደግፍን እንደ ቅጥር ሆኑን፣ ላቄትም ሆነ ቀን በእነሱ እያለን በዘመናችን ሁሉ መንጋውን ⟨את⟩ እናሣርብ ነበር።",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "እንደ ቅጥር"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ሆኑን"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ላንደግፍን"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ላቄት"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "በዘመናችን"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "እያለን"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "በእነሱ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "እናሣርብ ነበር"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "መንጋውን ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-16T15:48:25.939181153Z",
+  "model": "glm-5.3"
+}

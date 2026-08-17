@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ያህዌህ ለክፉዎች በትርን፣ ለገዥዎች ዘንግን ሰበረ።",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ሰበረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "በትርን"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ለክፉዎች"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ዘንግን"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "ለገዥዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T07:04:13.649039781Z",
+  "model": "glm-5.3"
+}

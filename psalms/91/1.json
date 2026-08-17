@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 91,
+  "translation": "በዕልዮን ስውር ስፍራ የሚቀመጥ በሻዳይ ጥላ ሥር ያሌልሳል።",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "የሚቀመጥ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "በስውር ስፍራ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ዕልዮን"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ጥላ ሥር"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ሻዳይ"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "ያሌልሳል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:36.521807853Z",
+  "model": "glm-5.3"
+}

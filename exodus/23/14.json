@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "በዓመት ውስጥ ሦስት ጊዜያት ለእኔ ትከብራለህ።",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "ጊዜያት (በሥጋዊ ትርጉም እግሮች-በዓላት)"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "ትከብራለህ (በዓል ታከብራለህ)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "በዓመት ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:22:09.366611107Z",
+  "model": "glm-5.3"
+}

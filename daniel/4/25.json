@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ይህ ሁሉ በነቡከደነጸር ንጉሡ ላይ ደረሰ።",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "ይህ ሁሉ"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "ደረሰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "ነቡከደነጸር"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:26:25.446449951Z",
+  "model": "glm-5.3"
+}

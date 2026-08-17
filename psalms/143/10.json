@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 143,
+  "translation": "ፈቃድህን ለማድረግ አስተምረኝ፤ አንተ ኤሎሂም ነህና ስለዛሬ፤ መንፈስህ ⟨እርሷ⟩ መልካም ናት፤ በቀጥታ በምድር ላይ መራኝ።",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "አስተምረኝ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ለማድረግ"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "ፈቃድህን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዛሬ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "መንፈስህ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "መራኝ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "በቀጥታ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:43.338036332Z",
+  "model": "glm-5.3"
+}

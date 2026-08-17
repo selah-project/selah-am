@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 125,
+  "translation": "የኢየሩሳሌም ተራሮች በዙሪያዋ አሉታል፤ እንዲሁም ያህዌህ በዙሪያው አለው ለሕዝቡ፤ ከአሁንም ሆኖ እስከ ዘላለም ድረስ።",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "የኢየሩሳሌም"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ተራሮች"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "በዙሪያዋ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "አሉታል"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "እንዲሁም ያህዌህ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "በዙሪያው"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ለሕዝቡ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ከአሁንም ሆኖ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ ድረስ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:36.242456618Z",
+  "model": "glm-5.3"
+}

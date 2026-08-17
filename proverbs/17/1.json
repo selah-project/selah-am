@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "የደረቀ ቁራጭ ከእረፍቱ ጋር ይሻላል፤ ከጥቃት መሥዋዕት በሞላ ⟨የ⟩ቤት ይበልጣል።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ይሻላል"
+    },
+    {
+      "surface": "פת",
+      "gloss": "ቁራጭ"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "የደረቀ"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "እና እረፍት"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ከቤት"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ሞላ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "መሥዋዕት"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ጥቃት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:29:47.569320066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "ከጨለማ እና ከየሞት ጥላ አወጣቸው፤ ማሰሪያቶቻቸውን ቈረጠ።",
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "አወጣቸው"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "ከጨለማ"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "እና ከየሞት ጥላ"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "ማሰሪያቶቻቸውን"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "ቈረጠ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:44.085197879Z",
+  "model": "glm-5.3"
+}

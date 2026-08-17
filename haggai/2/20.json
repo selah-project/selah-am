@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "haggai 2:20",
+  "book": "haggai",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የያህዌህ ቃል ሁለተኛ ጊዜ ወደ ሕገይ መጣ፤ በወሩ ሃያ አራት ቀን፣ እንዲህ ብሎ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ (መጣ)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ሁለተኛ ጊዜ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "ሕገይ"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "በሃያ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "እና አራት"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "የወሩ (ቀን)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:17:36.144733618Z",
+  "model": "glm-5.3"
+}

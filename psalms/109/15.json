@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "በያህዌህ ፊት ሁልጊዜ ይሁኑ፤ ያህዌህም ትዝታቸውን ከምድር ይቆርጥ።",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ይሁኑ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ይቆርጥ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከምድር"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ትዝታቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:55.103255148Z",
+  "model": "glm-5.3"
+}

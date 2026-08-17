@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የኤሎሂም ሰውም «ወዴት ወደቀ?» አለ፤ ⟨את⟩ ስፍራውን አሳየው፤ እንጨት ቈረጠም ወደ እዚያ ወረወረው፤ ብረቱም እንዲናሽ አደረገ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ወዴት"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ወደቀ"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "አሳየው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስፍራውን"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ስፍራውን"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "ቈረጠም"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "እንጨት"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ወረወረው"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ወደ እዚያ"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "እንዲናሽ አደረገ"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ብረቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:38:47.066849320Z",
+  "model": "glm-5.3"
+}

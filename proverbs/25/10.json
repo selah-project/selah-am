@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "የሰማው ሰው አንተን እንዳሳፈረ እንዳይሆን፤ ወሬህም እንዳልተመለሰ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "እንዳይሆን እንዳሳፈረ አንተን"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "ያሳፈርሃል"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "የሰማው ሰው"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "ወሬህም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "እንዳልተመለሰ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ይመለስም ይሆናል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:33:32.064679265Z",
+  "model": "glm-5.3"
+}

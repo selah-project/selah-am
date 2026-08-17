@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 95,
+  "translation": "አርባ ዓመት ከዚያ ትውልድ ጋር ተጣላሁ፤ እንዲህም አልሁ፦ ልብ የተባባኙ ሕዝብ ናቸው፤ መንገዴንም አላወቁም።",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "አርባ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "ተጣላሁ"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "ከዚያ ትውልድ ጋር"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "እንዲህም አልሁ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "የተባባኙ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ናቸው"
+    },
+    {
+      "surface": "והם",
+      "gloss": "እነርሱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ወቁም"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "መንገዴን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:45.927773824Z",
+  "model": "glm-5.3"
+}

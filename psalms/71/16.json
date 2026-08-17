@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 71,
+  "translation": "በአዶናይ ያህወህ ኃይላት እመጣለሁ፤ ጽድቅህን ብቻህን እዘክራለሁ።",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "እመጣለሁ"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "በኃይላት"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህወህ"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "እዘክራለሁ"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ጽድቅህን"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ብቻህን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:08.385351195Z",
+  "model": "glm-5.3"
+}

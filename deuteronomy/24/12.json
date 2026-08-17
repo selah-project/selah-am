@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "እርሱም ደካማ ሰው ከሆነ በዋሱ አትተኛ።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እርሱም ከሆነ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ደካማ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ተኛ"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "በዋሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:48:32.103667127Z",
+  "model": "glm-5.3"
+}

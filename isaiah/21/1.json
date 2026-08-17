@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "የባሕር ምድረ በዳ ጭንቅ ተሸካሚ፤ እንደ ጋሪ ነፋሶች በደቡብ ለመሻገር፣ ከምድረ በዳ የሚመጣው ከየሚያስፈራ ምድር ይመጣል።",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ጭንቅ ተሸካሚ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ምድረ በዳ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "እንደ ጋሪ ነፋሶች"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "በደቡብ"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "ለመሻገር"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ከምድረ በዳ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ይመጣል"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከምድር"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "የሚያስፈራ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:07:42.290231664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የሮብዓምም በኤፍሬም ተራራ ⟨את⟩ እስክምን ሠራ፤ በእርሷም ተቀመጠ፤ ከዚያም ወጥቶ ⟨את⟩ ፕኑኤልን ሠራ።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "የሮብዓምም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስክምን"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "እስክምን"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "በተራራ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "በኤፍሬም"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቀመጠ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሷም"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ወጥቶ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ከዚያም"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፕኑኤልን"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "ፕኑኤልን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:25:23.043336361Z",
+  "model": "glm-5.3"
+}

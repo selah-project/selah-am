@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ርኵሳን ወደ ሴኦል ይመለሳሉ፤ ኤሎሂምን የረሱት ሕዝቦች ሁሉ።",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ይመለሳሉ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ርኵሳን"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "ወደ ሴኦል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "የረሱት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂምን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:49.930194375Z",
+  "model": "glm-5.3"
+}

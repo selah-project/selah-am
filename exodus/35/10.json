@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "እና ልብ-ጥበብ ያለው ሁሉ በናንተ ውስጥ የሚገኝ ይምጣ እና ያህዌህ ያዘዘውን ሁሉ ⟨את⟩ ይሥራ።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ጥበብ ያለው"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ-"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "በናንተ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ይምጣ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "እና ይሥራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ ያዘዘውን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያዘዘውን የ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ያዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:32:07.169698685Z",
+  "model": "glm-5.3"
+}

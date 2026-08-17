@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እኔ ግን በዚህ ምድር እሞታለሁ፤ ያርዳንን ⟨את⟩ አልሻገርም፤ ናንተ ግን ትሻገራችኋል፣ ይህንን በጎ ምድር ⟨את⟩ ትወርሳችኋል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "እሞታለሁ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህንን"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ሻገር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያርዳንን"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ያርዳንን"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ናንተ ግን"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ትሻገራችኋል"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ትወርሳችኋል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድር"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "በጎ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህንን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:36:46.807970259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "job 39:24",
+  "book": "job",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "በንዝረትና በቁጣ ምድርን ያልሳል፤ የቀንድ መለከት ድምፅ እንደሆነ አያምንም።",
+  "tokens": [
+    {
+      "surface": "ברעש",
+      "gloss": "በንዝረት"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "እና በቁጣ"
+    },
+    {
+      "surface": "יגמא",
+      "gloss": "ያልሳል"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "አያምንም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ ሆነ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "የቀንድ መለከት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:00:24.507861202Z",
+  "model": "glm-5.3"
+}

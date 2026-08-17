@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "ኪዳቱን ለዘላለም አስታውሶል፤ ለሺህ ትውልድ ያዘዘውን ቃል።",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "አስታውሶል"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ኪዳቱን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ያዘዘውን"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ለሺህ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ትውልድ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:07.117042070Z",
+  "model": "glm-5.3"
+}

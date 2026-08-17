@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እነርሱ መጥፎን ⟨ወደ⟩ ለማድረግ እግሮቻቸው ይሮጫሉና፤ ደም ለመፍሰስ ይቸክላሉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እነርሱ ስለሚሮጡ፤\/ስለዚህ"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "እግሮቻቸው"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "መጥፎን"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "ይሮጫሉ"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "ይቸክላሉ"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "ለመፍሰስ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ደም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:20:03.166463137Z",
+  "model": "glm-5.3"
+}

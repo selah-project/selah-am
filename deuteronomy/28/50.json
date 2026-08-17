@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ከፊት አንደበት ያለው አሕዛብ፤ ሽማግሌን ፊት የማያደርግ፣ ወጣትንም የማይራራ ነው።",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "አክባሪ\/ኃይለኛ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ያደርግም"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "ለሽማግሌ"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ወጣትንም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "ያዝናናም"
+    }
+  ],
+  "timestamp": "2026-08-16T19:26:21.587455763Z",
+  "model": "glm-5.3"
+}

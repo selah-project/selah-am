@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ሞሼም ⟨את⟩ ፍርዳቸውን በያህዌህ ፊት አቀረበ።",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "አቀረበም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍርዳቸውን"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "ፍርዳቸውን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ…ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:26:07.782059263Z",
+  "model": "glm-5.3"
+}

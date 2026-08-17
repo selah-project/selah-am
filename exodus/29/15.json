@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "አንዱን በግ ⟨את⟩ ታነሳለህ፤ አሃሮንና ልጆቹ እጃቸውን ⟨את⟩ በበጉ ላይ ይጫናሉ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "በጉን"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "በግ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "አንዱን"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ታነሳለህ"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "ይጫናሉ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "እና ልጆቹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጃቸውን"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "እጃቸውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "የበጉ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:28:46.508299317Z",
+  "model": "glm-5.3"
+}

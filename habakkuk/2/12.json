@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እውይ በደም ከተማ ለሚገነባ፣ በክፋትም ከተማ ለሚመሰርት።",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "እውይ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ለሚገነባ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "በደም"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "ለሚመሰርት"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "በክፋት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:13:36.382889859Z",
+  "model": "glm-5.3"
+}

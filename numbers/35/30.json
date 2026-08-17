@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "ማንኛውም ነፍስ የሚመታ ሰው በምስክሮች አንደበት ⟨את⟩ ጀራባውን ይገድላል፤ አንድ ምስክር ግን ለሞት በነፍስ ላይ አይመሰክርም።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ማንኛውም"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "የሚመታ ሰው"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "በአንደበት"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ምስክሮች"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "ይገድላል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጀራባውን"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ጀራባውን"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ምስክርም"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይመሰክርም ግን ይ"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "አይመሰክርም"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "በነፍስ ላይ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ለሞት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:31:24.959874345Z",
+  "model": "glm-5.3"
+}

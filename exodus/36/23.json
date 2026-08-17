@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "ለ⟨the⟩ መካከለኛ ድንኳን ⟨את⟩ ሰሌዳዎቹን አደረገ፤ ለደቡብ ጎን ወደ ደቡብ ሃያ ሰሌዳዎች።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰሌዳዎቹን"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ሰሌዳዎቹን"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ለመካከለኛ ድንኳን"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ሃያ"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "ሰሌዳዎች"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ለጎን"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ደቡብ"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ወደ ደቡብ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:37:03.888525092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ሐማንም ለንጉሡ እንዲህ አለ፦ «ለንጉሡ በሚያከብረው ሰው ላይ…»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሐማን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ይወዳል"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "ለክብሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:19:50.153636604Z",
+  "model": "glm-5.3"
+}

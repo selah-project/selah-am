@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "አዲሱ ወይን ጠርሙስ አዘነ፤ የወይን ግንዷ ደከመች፤ የልብ ደስተኞች ሁሉ እስትት አወጡ።",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "አዘነ"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "አዲሱ ወይን ጠርሙስ"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "ደከመች"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "የወይን ግንዷ"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "እስትት አወጡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "ደስተኞች"
+    },
+    {
+      "surface": "לב",
+      "gloss": "የልብ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:10:29.201552917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 66,
+  "translation": "ምክንያቱም ያህዌህ በእሳት ይፈርዳል፤ በሰይፉም ⟨את⟩ ሁሉን ሥጋ ይፈርዳል፤ የያህዌህ ተቀጥቂዎችም ብዙ ይሆናሉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "ይፈርዳል"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "በሰይፉም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉ ሥጋ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ብዙ ይሆናሉም"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ተቀጥቂዎች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:35:38.558995898Z",
+  "model": "glm-5.3"
+}

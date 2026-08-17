@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ወዮላት፣ የክንፋት ጮኽ የሚያሰማ ምድር፣ የምትገኘው በኩሽ ወንዞች በላይ ማዶ ያለች።",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ወዮላት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "ጮኽ የሚያሰማ"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "ክንፋት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምትገኘው"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ማዶ ያለች"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "በወንዞች በላይ"
+    },
+    {
+      "surface": "ᛩוש",
+      "gloss": "ኩሽ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:08:02.494090106Z",
+  "model": "glm-5.3"
+}

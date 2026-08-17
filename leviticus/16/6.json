@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "አሃሮን ⟨את⟩ የኃጢያት በሬውን የራሱን ያቀርባል፣ እና ስለ እርሱ እና ስለ ቤቱ ያስተስረያል።",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ያቀርባል"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የኃጢያት በሬውን"
+    },
+    {
+      "surface": "פר",
+      "gloss": "በሬ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "የኃጢያት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ራሱን"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ያስተስረያል"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ስለ እርሱ"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "እና ስለ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:54:49.100309525Z",
+  "model": "glm-5.3"
+}

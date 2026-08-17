@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "የቅብል ሥርያቱን ቅዱስ ዘይት እና ⟨את⟩ የቅመም ጣፋጩን ንጹህ ጣንቃ የማጣፈጫ ሠራተኛ ሥራ አዘጋጀ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አዘጋጀ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የቅብል ሥርያቱን ቅዱስ ዘይት"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘይት"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "የቅብል ሥርያቱን"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የቅመም ጣፋጩን ንጹህ ጣንቃ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ጣንቃ"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "የቅመም ጣፋጩን"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ንጹህ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "የማጣፈጫ ሠራተኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:35:54.891446661Z",
+  "model": "glm-5.3"
+}

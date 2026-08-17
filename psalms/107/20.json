@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "ቃሉን ላከ እና ፈወሳቸው፤ ከእርጅሞቻቸውም አዳናቸው።",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ቃሉን"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "እና ፈወሳቸው"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "አዳናቸውም"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "ከእርጅሞቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:46.628436941Z",
+  "model": "glm-5.3"
+}

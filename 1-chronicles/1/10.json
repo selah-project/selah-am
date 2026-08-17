@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ኩሽም ⟨את⟩ ኒምሮድን ወለደ፤ እርሱ በምድር ላይ ጠንካራ መሆን ጀመረ።",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "ኩሽም"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኒምሮድን"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "ኒምሮድ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ጀመረ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "መሆን"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ጠንካራ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T12:30:44.329744254Z",
+  "model": "glm-5.3"
+}

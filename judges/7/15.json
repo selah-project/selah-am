@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 7:15",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ጌዴዎንም ⟨את⟩ የሕልሙን አገላለጽ እና ⟨את⟩ ትርጉሙን ሲሰማ ሰገደ፤ ወደ እስራኤል ሰፈርም ተመለሰ፤ «ተነሱ፤ ያህዌህ ⟨את⟩ የምድያምን ሰፈር በእጃችሁ ሰጠ» አለ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሲሆን"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ሲሰማ"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "ጌዴዎንም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሕልሙን አገላለጽ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "አገላለጽ"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "የሕልሙን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ትርጉሙን"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ትርጉሙን"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ሰገደ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ሰፈር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ፦"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "ተነሱ፤"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ፦"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "በእጃችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የምድያምን ሰፈር"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ሰፈር"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ምድያምን"
+    }
+  ],
+  "timestamp": "2026-08-16T15:25:50.407359312Z",
+  "model": "glm-5.3"
+}

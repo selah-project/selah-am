@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 26:15",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ከቅዱስ መኖሪያህ ከሰማያት ተመልከት፣ ⟨את⟩ ሕዝብህን እስራኤልን ባረክ፣ ⟨את⟩ ምድሩንም ለአባቶቻችን እንደተማልክህ ለእኛ ያዘን — ወተትና ማር የሚፈስ ምድር።",
+  "tokens": [
+    {
+      "surface": "השקיפה",
+      "gloss": "ተመልከት"
+    },
+    {
+      "surface": "ממעון",
+      "gloss": "ከመኖሪያህ"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ባረክ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝብህን እስራኤልን"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ሕዝብህን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ወ⟨את⟩",
+      "marks": "ምድሩን"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድሩንም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ያዘን"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "ተማልክህ"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "ለአባቶቻችን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "የሚፈስ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ወተት"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ማር"
+    }
+  ],
+  "timestamp": "2026-08-16T19:22:00.415320740Z",
+  "model": "glm-5.3"
+}

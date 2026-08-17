@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "joshua 5:7",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የእነርሱን ልጆች ⟨את⟩ በምትኩ አስነሳቸው፤ እነርሱን ⟨אתם⟩ ያህውሻ ገረዘ፤ ስለ ያልተገረዙ ነበርና፤ ስለ በመንገድ ላይ ⟨את⟩ ⟨אותם⟩ አልገረዙም ነበር።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ልጆችን"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "የእነርሱን ልጆች"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "አስነሳ"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "በምትኩ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ገረዘ"
+    },
+    {
+      "surface": "מל",
+      "gloss": "ገረዘ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ያህውሻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "ያልተገረዙ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ነበሩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "ገረዙም"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "በመንገድ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገድ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:00:36.188386463Z",
+  "model": "glm-5.3"
+}

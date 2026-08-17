@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 10:5",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እንደ ሰጎት የተቆረጠ ⟨את⟩ እነሱ ናቸው፤ እና አይናገሩም፤ ተሸክመው ይጓዛሉ፣ ምክንያቱም አይራመዱም። ከእነሱ አትፍሩ፤ ምክንያቱም ክፉ አያደርጉም፣ እንዲሁም መልካም ማድረግ በእነሱ የለም።",
+  "tokens": [
+    {
+      "surface": "כתמר",
+      "gloss": "እንደ ሰጎት"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "የተቆረጠ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነሱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ናገሩም"
+    },
+    {
+      "surface": "נשוא",
+      "gloss": "ተሸክመው"
+    },
+    {
+      "surface": "ינשוא",
+      "gloss": "ይጓዛሉ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יצעדו",
+      "gloss": "ራመዱም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ፍሩ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ከእነሱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "ክፉ ያደርጉም"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "መልካም ማድረግ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:11:48.481636963Z",
+  "model": "glm-5.3"
+}

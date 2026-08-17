@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "2-kings 13:9",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "የሆዕዓሐዝ ከአባቶቹ ጋር ተኝቶ በሰማርያ ተቀበረ፤ ዮአስም ልጁ በርሱ ፋንታ ነገሠ።",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ተኝቶ"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "የሆዕዓሐዝ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ... ጋር"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "አባቶቹ"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ተቀበረ"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "በሰማርያ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ዮአስም"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "በርሱ ፋንታ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:45:32.776801849Z",
+  "model": "glm-5.3"
+}

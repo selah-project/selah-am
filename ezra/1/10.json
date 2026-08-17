@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የወርቅ ኮቦሎች ሠላሳ፣ የብር ኮቦሎች ሁለተኛ ዓይነት አራት መቶ እና አሥር፣ ሌላ ዓይነት ዕቃዎችም ሺህ።",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "ኮቦሎች"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "የወርቅ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሠላሳ"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "ኮቦሎች"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "የብር"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "ሁለተኛ ዓይነት"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "አራት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "እና አሥር"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "ዕቃዎች"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ሌላ ዓይነት"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:30:35.730574341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "job 15:6",
+  "book": "job",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "አፍህ ይከሳሃል፣ እኔ አይደለሁም፤ ከንፈሮችህም በአንተ ላይ ይመሰክራሉ።",
+  "tokens": [
+    {
+      "surface": "ירשיעך",
+      "gloss": "ይከሳሃል"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "አፍህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይደለም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "እና ከንፈሮችህም"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ይመሰክራሉ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:47:25.316403436Z",
+  "model": "glm-5.3"
+}

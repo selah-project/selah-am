@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ከብድ ጋር የሚተኛ ሁሉ በሞት ይገደላል።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "የሚተኛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ...ጋር"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "በብድ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "በሞት"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይሞታል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:22:38.740309179Z",
+  "model": "glm-5.3"
+}

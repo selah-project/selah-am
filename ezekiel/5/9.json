@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "በአንተም ⟨את⟩ ያላደረግኋቸውን እና ⟨את⟩ እንደዚያው የማደርግባቸውን አደርግብሃለሁ፣ በድጋሚ ከዚያ ወደ ኋላ በሁሉም የምትጸድፋቸው ዘንድ።",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "አደርጋለሁ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያላደረግኋቸውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "አደርግኩም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የማደርግባቸውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "አደርግም"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "እንደዚያው"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ወደ ኋላ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "በዘንድ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በሁሉም"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "የምትጸድፋቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T20:18:53.107908231Z",
+  "model": "glm-5.3"
+}

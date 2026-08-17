@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "⟨את⟩ ያህዌህ ኤሎሂም ስገድለት አንተ ተለይተህ ፍራው፤ እርሱን ⟨אתו⟩ አገልግለው፤ በርሱ ተጣበቅ፤ እና በስሙ ምል አል።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂም አንተ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ተለይተህ ፍራው"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "አገልግለው"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "እና በ…ርሱ"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "ተጣበቅ"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "እና በ…ስሙ"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ምል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:39:46.751102894Z",
+  "model": "glm-5.3"
+}

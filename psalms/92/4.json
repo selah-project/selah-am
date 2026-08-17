@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 92,
+  "translation": "በአሥር አውታር እና በናቤል በተደረገ ምላሽ በኪናር ⟨ላይ⟩።",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "አሥር አውታር"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "እና በ…ላይ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ናቤል"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "ምላሽ\/ግርጌ ድምፅ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "በኪናር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:05.990081201Z",
+  "model": "glm-5.3"
+}

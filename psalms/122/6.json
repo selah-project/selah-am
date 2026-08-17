@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 122,
+  "translation": "የኢየሩሳሌምን ሰላም ጠይቁ፤ የሚወዱህ ይደህኑ።",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "ጠይቁ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ኢየሩሳሌም"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "ይደህኑ"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "የሚወዱህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:25.497143971Z",
+  "model": "glm-5.3"
+}

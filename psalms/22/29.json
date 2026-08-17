@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "መንግሥቱ ሁሉ የያህዌህ ነውና፤ እርሱም በአሕዛብ ላይ ይገዛል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ነውና"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "መንግሥቱን"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ይገዛልም"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "በአሕዛብ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:11:14.265331344Z",
+  "model": "glm-5.3"
+}

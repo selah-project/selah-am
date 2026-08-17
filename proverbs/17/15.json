@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "proverbs 17:15",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ክፉን የሚጸድቅ እና ጻድቅን የሚክስስ — ሁለቱም ሆን ኮኝ ለያህዌህ ጸድቂ ናቸው።",
+  "tokens": [
+    {
+      "surface": "מצדיק",
+      "gloss": "የሚጸድቅ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉን"
+    },
+    {
+      "surface": "ומרשיע",
+      "gloss": "እና የሚክስስ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቅን"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ጸድቂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ሆን ኮኝ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ሁለቱም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:29:03.492049035Z",
+  "model": "glm-5.3"
+}

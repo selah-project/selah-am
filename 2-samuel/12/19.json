@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 12:19",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ዳዊትም አገልጋዮቹ እየጎተቱ መሆናቸውን ባየ ጊዜ ልጁ ሞተ ዳዊት ተረዳ፤ ዳዊትም አገልጋዮቹን ልጁ ሞተ ወይ? አላቸው፤ እነርሱም ሞተ አሉት።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ባየ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ…መሆኑ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "አገልጋዮቹ"
+    },
+    {
+      "surface": "מתלחשים",
+      "gloss": "እየጎተቱ"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ተረዳ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "አገልጋዮቹ"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ሞተ ወይ?"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "አሉ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞተ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:05:02.489170362Z",
+  "model": "glm-5.3"
+}

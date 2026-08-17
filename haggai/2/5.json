@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ከግብፅ ሲወጡ ከእናንተ ጋር ⟨את⟩ የቈረጥኩትን ⟨את⟩ ቃል እንደ ሆነ፣ መንፈሴ በእናንተ መካከል ቆም ብላለች፤ አትፍሩ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃሉን"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ቈረጥኩ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ጋር"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "ሲወጡ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ከግብፅ"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "መንፈሴ"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ቆም ብላለች"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "በእናንተ መካከል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት-"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ፍሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:09:26.325323390Z",
+  "model": "glm-5.3"
+}

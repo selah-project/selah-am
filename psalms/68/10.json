@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "የበጎነት ዝናብ አንተ አንዥለሃል ኤሎሂም፤ ዕርስትህን ስንገባ አንተ አረጋግተሃታለህ።",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "ዝናብ"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "የበጎነት"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "አንዥለሃል"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ዕርስትህን"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "ስንገባ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "አረጋግተሃታለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:45.143120711Z",
+  "model": "glm-5.3"
+}

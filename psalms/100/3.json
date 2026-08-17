@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 100,
+  "translation": "አውቁ፤ ያህዌህ እርሱ ኤሎሂም ነው፤ እርሱ አደረገን፤ እኛ የራሳችን አይደለንም፤ ሕዝቡ ነን፤ የመርባቱም በጎች ነን።",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "አውቁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "፤ የሚለውን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "አደረገን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይደለንም"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "እኛ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "በጎችም"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "የመርባቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:13.644503347Z",
+  "model": "glm-5.3"
+}

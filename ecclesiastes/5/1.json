@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 5:1",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "በአፍህ አትቸከል፣ ደግሞም ልብህ በኤሎሂም ፊት ቃል ማውጣት አይቶጥ፤ ኤሎሂም በሰማያት ነውና፣ አንተም በምድር ላይ ነህ፤ ስለዚህ ቃላትህ ጥቂት ይሁኑ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "ቸከል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "አፍህ"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "ደግሞም ልብህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ימהר",
+      "gloss": "ቶጥ"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ማውጣት"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነውና"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "በሰማያት"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "አንተም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር ላይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ይሁኑ"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ቃላትህ"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "ጥቂት"
+    }
+  ],
+  "timestamp": "2026-08-16T18:16:47.181680727Z",
+  "model": "glm-5.3"
+}

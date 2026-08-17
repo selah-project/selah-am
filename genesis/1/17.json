@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ኤሎሂምም ⟨את⟩ እነሱን በሰማይ በረቁቃት ውስጥ ሰጣቸው፤ በምድር ላይ ለመብራት።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሰጣቸው"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂምም"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "በረቁቃት ውስጥ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "በሰማይ"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "ለመብራት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "በምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T02:28:29.574899978Z",
+  "model": "glm-5.3"
+}

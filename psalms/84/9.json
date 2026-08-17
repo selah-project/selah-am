@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 84,
+  "translation": "ያህዌህ ኤሎሂም የሰራዊት ጌታ፣ የኔን ጸሎት ስማ፤ የያዕቆብ ኤሎሂም ሆይ፣ እርሱን ተስማ። ሴላህ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "የሰራዊት"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ስማ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "የኔን ጸሎት"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "እርሱን ተስማ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "የ… ኤሎሂም"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:14.868430499Z",
+  "model": "glm-5.3"
+}

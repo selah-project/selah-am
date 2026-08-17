@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "genesis 48:1",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "ከዚህ በኋላ እነዚህ ነገሮች ሆኑ፤ «እነሆ አባትህ ረክቷል» ለዮሴፍ ⟨ተብሎ⟩ ተባለ፤ እርሱም ሁለቱን ልጆቹን ⟨את⟩ ከእርሱ ጋር ወሰደ — የምንስሴን ⟨את⟩ እና የኤፍሬምን ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆኑ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከዚህ በኋላ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "እነዚህ ነገሮች"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ተባለ"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "ለዮሴፍ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "አባትህ"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ረክቷል"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁለቱን ልጆቹን"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለቱን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ልጆቹን"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የምንስሴን"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "የምንስሴ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የኤፍሬምን"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "የኤፍሬም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:03:47.342766076Z",
+  "model": "glm-5.3"
+}

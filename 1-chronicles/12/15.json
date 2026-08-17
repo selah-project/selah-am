@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "እነዚህ ከጋድ ልጆች የሥራዊቱ አለቆች ⟨ናቸው⟩፤ አንዱ ለመቶ፣ ትንሹ፤ ታላቁም ለሺህ።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ከ…ልጆች"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "አለቆች"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "የሥራዊቱ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንዱ"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "ለመቶ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ትንሹ"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "እና ታላቁ"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ለሺህ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:53:38.652842618Z",
+  "model": "glm-5.3"
+}

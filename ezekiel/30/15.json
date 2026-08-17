@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "ezekiel 30:15",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ቍጣዬንም በሲን ላይ አ፫ለሁ፣ በመጽረምም ማድከቅ የሆነችው፤ ከበሮንም ⟨את⟩ ብዛቷን ማጥፋት እከልካለሁ።",
+  "tokens": [
+    {
+      "surface": "ושפכתי",
+      "gloss": "አ፫ለሁ"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "ቍጣዬን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "סין",
+      "gloss": "ሲን"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ማድከቅ የሆነችው"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "በመጽረም"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ማጥፋት እከልካለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብዛቷን"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ብዛቷን"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ከበሮንም"
+    }
+  ],
+  "timestamp": "2026-08-16T08:39:53.139103927Z",
+  "model": "glm-5.3"
+}

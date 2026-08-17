@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "1-chronicles 23:6",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ዳዊትም ወደ ክፍሎች ከፋቸው፣ ለሌዊ ልጆች — ለጌርሾን፣ ለቄሃት እና ለምራሪ።",
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "ከፋቸው"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "ወደ ክፍሎች"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለልጆች"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ለሌዊ"
+    },
+    {
+      "surface": "לגרשון",
+      "gloss": "ለጌርሾን"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ለቄሃት"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "እና ለምራሪ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:12:04.411454492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እና ሠራዊቱ እና ተቆጠሩትም ሠላሳ ስምንት ሺህ አምስት መቶ ሃምሳ ⟨ናቸው⟩።",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "እና ሠራዊቱ"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "እና ተቆጠሩትም"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ሠላሳ ስምንት ሺህ ስድስት መቶ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "አርባ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "እና ስድስት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "እና ሃምሳ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:05:39.974482858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ቶፌትንም ⟨את⟩፣ በየሂኖም ልጆች ሸለቆ ያለችውን አረከሰ፤ ሰው ልጁን ⟨את⟩ እና ሴት ልጁን ⟨ואת⟩ በእሳት ለሞሌክ እንዳሳልፍ ዳሩ ግን በማድረግ።",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "አረከሰም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቶፌትን"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "ቶፌትን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለችውን"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "በሸለቆ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የልጆች"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "ሂኖም"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ዳሩ ግን በማድረግ"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "እንዳሳልፍ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጁን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ሴት ልጁን"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ሴት ልጁን"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ለሞሌክ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:54:43.647027108Z",
+  "model": "glm-5.3"
+}

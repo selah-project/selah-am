@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እና ⟨את⟩ ሃዶራምን፣ እና ⟨את⟩ ኡዛልን፣ እና ⟨את⟩ ዲቅላን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሃዶራምን"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ሃዶራምን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ኡዛልን"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "ኡዛልን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዲቅላን"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "ዲቅላን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:28:45.837116934Z",
+  "model": "glm-5.3"
+}

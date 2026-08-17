@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 55,
+  "translation": "ምክንያቱም ሐሳቦቼ ሐሳቦቻችሁ ⟨አይደሉም⟩፤ መንገዶቻችሁም መንገዶቼ ⟨አይደሉም⟩ የያህዌህ ቃል ነው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደሉም"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "ሐሳቦቼ"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "ሐሳቦቻችሁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይደሉም"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "መንገዶቻችሁ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "መንገዶቼ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:26:26.085627425Z",
+  "model": "glm-5.3"
+}

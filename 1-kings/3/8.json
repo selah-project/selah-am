@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "አገልጋይህም በመረጥከው በሕዝብህ መካከል ነው፤ በብዛቱ ሊመዘንም ሆነ ሊቆጠር የማይቻል ብዙ ሕዝብ ነው።",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "አገልጋይህም"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በ… መካከል"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ሕዝብህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "መረጥከው"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "ሊመዘን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንደሁም አይ"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ሊቆጠር"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "በብዛቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:15:36.744155325Z",
+  "model": "glm-5.3"
+}

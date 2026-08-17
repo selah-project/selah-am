@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "የሰው መንገዶች በያህዌህ ፈቃድ ሲሆኑ፣ አሻጥሮም ጠላቶቹን ⟨את⟩ ከእርሱ ጋር በሰላም ያደርጋል።",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "በፈቃድ ሲሆኑ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "መንገዶች"
+    },
+    {
+      "surface": "איש",
+      "gloss": "የሰው"
+    },
+    {
+      "surface": "גם",
+      "gloss": "አሻጥሮም"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "ጠላቶቹን"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "በሰላም ያደርጋል"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ጠላቶቹን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:29:18.607999685Z",
+  "model": "glm-5.3"
+}

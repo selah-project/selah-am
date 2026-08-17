@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "2-samuel 24:8",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "በሙሉ ምድሩ ዙሪያ ሄዱ፤ ከዘጠኝ ወር እና ከሃያ ቀን መጨረሻ ወደ ኢየሩሳሌም መጡ።",
+  "tokens": [
+    {
+      "surface": "וישטו",
+      "gloss": "ዙሪያ ሄዱ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ከ... መጨረሻ"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ዘጠኝ"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ወር"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "እና ከሃያ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ወደ ኢየሩሳሌም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:12:29.885795266Z",
+  "model": "glm-5.3"
+}

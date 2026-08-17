@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 4:15",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "አንተ እስራኤል እንደ አመንዝርች ሆንህ እንጂ ይሁዳ አይስሐብ፤ ጎልጎል አትምጡ፣ ቤት አዌን አይውጡ፣ «ያህዌህ ይኖራል» ብላችሁም አትምሱ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንደ…ሆንህ እንጂ"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "አመንዝርች"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "ይስሐብ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "ምጡ"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ጎልጎል"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "ውጡ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "און",
+      "gloss": "አዌን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "ምሱ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ይኖራል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:26:18.993039614Z",
+  "model": "glm-5.3"
+}

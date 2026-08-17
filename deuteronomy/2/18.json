@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ዛሬ የሞዓብን ድንበር ⟨את⟩፣ ዓርንም ⟨את⟩ ታልፋለህ።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ታልፋለህ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሞዓብን ድንበር"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ድንበር"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓርን"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ዓር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:32:41.269347743Z",
+  "model": "glm-5.3"
+}

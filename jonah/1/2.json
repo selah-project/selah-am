@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ተነሥ፣ ሂድ ወደ ነነዌ ⟨ትልቁ⟩ ከተማ እና በእሷ ላይ ጩኸት፤ ዓመፃቸው በፊቴ ፊት ወጥቷልና።",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "ተነሥ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ነነዌ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ትልቋ"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "እና ጩኸት"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "በእሷ ላይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ።የምክንያት ቃል"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ወጥቷል"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "ዓመፃቸው"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊቴ ፊት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:11:04.001666081Z",
+  "model": "glm-5.3"
+}

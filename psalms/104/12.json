@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 104,
+  "translation": "ከነሱ በላይ የሰማይ ወፎች ይኖራሉ፤ ከቅርንጫፎች መካከል ድምፅ ይሰጣሉ።",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "ከነሱ በላይ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ወፎች"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "የሰማይ"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "ይኖራሉ"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "ከ…መካከል"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "ቅርንጫፎች"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ይሰጣሉ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:10.225935801Z",
+  "model": "glm-5.3"
+}

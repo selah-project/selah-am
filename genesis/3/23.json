@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ያህዌህ ኤሎሂምም እርሱን የዔድን ከአትኩራት ላከው፤ ከዚያም እንደተወሰደበት ⟨את⟩ ምድሩን ለማልሙ።",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "ላከው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ከአትኩራት"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "የዔድን"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ለማልሙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሩን"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድሩን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እርሷ እንደሆነች"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "እንደተወሰደበት"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ከዚያ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:30:25.548093334Z",
+  "model": "glm-5.3"
+}

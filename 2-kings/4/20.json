@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "አንሥቶም ወደ እናቱ አመጣው፤ እሷም በጉንፏ ላይ ተቀምጦ እስከ ቀትር ኖረ፣ ከዚያም ሞተ።",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "አንሥቶም"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "አመጣው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "እናቱ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቀምጦ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "ጉንፏ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "ቀትር"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:39:17.373245377Z",
+  "model": "glm-5.3"
+}

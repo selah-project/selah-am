@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 36,
+  "ref": "psalms 78:36",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "በአፋቸው አታለሉት፤ በምላሳቸውም ያለመሆኑን ተናገሩለት።",
+  "tokens": [
+    {
+      "surface": "ויפתוהו",
+      "gloss": "አታለሉት"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "በአፋቸው"
+    },
+    {
+      "surface": "ובלשונם",
+      "gloss": "በምላሳቸውም"
+    },
+    {
+      "surface": "יכזבו",
+      "gloss": "ያለመሆኑን ተናገሩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:50.279497940Z",
+  "model": "glm-5.3"
+}

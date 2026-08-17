@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "isaiah 33:13",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ሩቅ የሆናችሁ ስሙ፣ ያደረግሁትን፤ ቅርብ የሆናችሁም አውቁ፣ ኃይሌን።",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "ሩቅ የሆናችሁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያደረግሁትን"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "(እኔ አደረግሁት)"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "አውቁም"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "ቅርብ የሆናችሁ"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "ኃይሌን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:12:26.271305022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 113,
+  "translation": "የጨካኪዋን ሴት በቤት እንደ ታላቅ እናት የልጆች ደስተኛ አስቀምጣታል፤ ያህን አመስግኑ።",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "አስቀምጣታል"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "ጨካኪዋን ሴት"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እናት"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "የልጆች"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ደስተኛ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "አመስግኑ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:43.960628818Z",
+  "model": "glm-5.3"
+}

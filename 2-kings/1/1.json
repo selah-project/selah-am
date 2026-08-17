@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ሞዓብ በእስራኤል ላይ ከአሐብ ሞት በኋላ አመጸበ።",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "አመጸበ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "በእስራኤል ላይ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ… በኋላ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "አሐብ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:37:09.808548716Z",
+  "model": "glm-5.3"
+}

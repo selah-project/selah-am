@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "exodus 27:11",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "እንዲሁም ለሰሜን በኩል በርዝመት ሸራዎች መቶ ርዝመት ይሆናሉ፤ ዓምዶቹ ሃያ እና መሠረቶቻቸው ሃያ ናቸው — ናስ፤ የዓምዶቹ ጊዛዎች እና ቀርጾዎቻቸው ወርቅ ናቸው።",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ለኩል"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ሰሜን"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "በርዝመት"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "ሸራዎች"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ርዝመት"
+    },
+    {
+      "surface": "ועמדו",
+      "gloss": "ዓምዶቹ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ሃያ"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "እና መሠረቶቻቸው"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ሃያ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ናስ"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "እና"
+    },
+    {
+      "surface": "ווי",
+      "gloss": "ጊዛዎች"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "የዓምዶቹ"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "እና ቀርጾዎቻቸው"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ወርቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:23:59.519817127Z",
+  "model": "glm-5.3"
+}

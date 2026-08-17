@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ሕዝቡም ለይሆሹዋ እንዲህ አሉ፤ ያህዌህን ⟨את⟩ ኤሎሂም አምላካችንን እናገልግላለን፤ ድምፀቱንም እንታዘዛለን።",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "አሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ይሆሹዋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂም አምላካችንን"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "እናገልግላለን"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "ድምፀቱንም"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "እንታዘዛለን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:13:32.797480987Z",
+  "model": "glm-5.3"
+}

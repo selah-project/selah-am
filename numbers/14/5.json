@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "numbers 14:5",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ሞሼና አሃሮንም በእነርሱ ፊት በኩራት ወደቁ፤ ይህም በሙሉ በእስራኤል ልጆች ማኅበር ቤተ ሰብ መካከል ከሆነ ሁሉ ማኅበር ፊት ነው።",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ወደቁ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "አሃሮንም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "በእነርሱ ፊት"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ማኅበር"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ቤተ ሰብ መካከል ከሆነ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:15:12.019743797Z",
+  "model": "glm-5.3"
+}

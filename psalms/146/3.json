@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 146,
+  "translation": "በአለቆች አትተማመኑ፤ በሰው ልጅም — በእርሱ ማዳን ⟨የለምም⟩።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "ትተማመኑ"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "በአለቆች"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "በልጅ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "የሰው"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "በሌለ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "ማዳን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:55.009724095Z",
+  "model": "glm-5.3"
+}

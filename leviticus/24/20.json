@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "የተሰበረ ለተሰበረ፣ ዓይን ለዓይን፣ ጥርስ ለጥርስ፤ በሰው ላይ ማንኛውን ጉድለት እንደ ሰጠ ሁሉ እንዲሁ በእርሱ ላይ ይሰጣል።",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "የተሰበረ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ለተሰበረ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "የተሰበረ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ዓይን"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ለዓይን"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ዓይን"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ጥርስ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ለጥርስ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ጥርስ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ጉድለት"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "በሰው ላይ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ሁሉ እንዲሁ"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "ይሰጣል"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:59:21.538051589Z",
+  "model": "glm-5.3"
+}

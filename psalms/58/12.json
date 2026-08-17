@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 58,
+  "translation": "ሰውም ይላል እውነትም ለጻድቁ ፍሬ አለ፤ እውነትም በምድር የሚፈርድ ኤሎሂም አለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ይላልም"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אך",
+      "gloss": "እውነትም"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ፍሬ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ለጻድቁ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "እውነትም"
+    },
+    {
+      "surface": "יש",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "የሚፈርድ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:18.946595194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እና ⟨את⟩ አክስቱ የሚተኛ ሰው — የአገሩ ድርቀት ገለጠ — ኀጢአታቸውን ይሸከማሉ፤ ልጅ-አልባ ሆነው ይሞታሉ።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "እና ሰው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚተኛ"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "የሚተኛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አክስቱን"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "አክስቱን"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ድርቀት"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "አገሩ"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ገለጠ"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "ኀጢአታቸውን"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ይሸከማሉ"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "ልጅ-አልባ ሆነው"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ይሞታሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:57:45.341712770Z",
+  "model": "glm-5.3"
+}

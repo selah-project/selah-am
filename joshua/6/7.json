@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "joshua 6:7",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ሕዝቡንም አሉ፦ ሂዱ፤ ከተማዋን ⟨את⟩ አንቀላፉ፤ የታጠቀውም ሰው የያህዌህ ታቦት ፊት ያልፋል።",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "አሉ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡንም"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ሂዱ"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "አንቀላፉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተማዋን"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋን"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "የታጠቀውም"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ያልፋል"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:01:28.019778370Z",
+  "model": "glm-5.3"
+}

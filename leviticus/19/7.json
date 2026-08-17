@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እና በሦስተኛው ቀን በእውነት ቢበላ፣ ዓረፍ ነው፤ አይተቀባም።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እና ቢ"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "በእውነት ቢበላ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ቢበላ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በ…ቀን"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ሦስተኛው"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "ዓረፍ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ነው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ተቀባም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:55:24.493178351Z",
+  "model": "glm-5.3"
+}

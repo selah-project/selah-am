@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "numbers 14:10",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ሙሉ ማኅበሩ በድንጋዮች ⟨את⟩ ሊደበድብ አለው፤ የያህዌህም ክብር ለእስራኤል ልጆች ሁሉ በስብሰባው ድንኳን ታየ።",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሙሉ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ማኅበሩ"
+    },
+    {
+      "surface": "לרגום",
+      "gloss": "ሊደበድብ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "በድንጋዮች"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "በድንጋዮች"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ክብርም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ታየ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "በድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "የስብሰባው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:15:47.451826708Z",
+  "model": "glm-5.3"
+}

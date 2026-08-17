@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "isaiah 23:14",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ወዷሉ የታርሺሽ መርከቦች ሆይ፤ በምክንያቱም ሀይላችሁ ተፈራረሰ።",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "ወዷሉ"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "መርከቦች"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "የታርሺሽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በምክንያቱም"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ተፈራረሰ"
+    },
+    {
+      "surface": "מעזכן",
+      "gloss": "ሀይላችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:09:38.062411910Z",
+  "model": "glm-5.3"
+}

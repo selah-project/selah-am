@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "በዚህ ሁሉ ኳል ኃጢአትን ሠሩ፤ በድንቅ ሥራዎቹም አላመኑም።",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ኳል ኃጢአትን ሠሩ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አላመኑም"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "አላመኑም"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "በድንቅ ሥራዎቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:12:28.003499465Z",
+  "model": "glm-5.3"
+}

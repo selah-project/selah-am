@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "genesis 8:20",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ኖኅም ለያህዌህ መሠዊያ ሠራ፤ ከንጹህ እንስሳት ሁሉ እና ከንጹህ ወፍ ሁሉም ወስዶ የተቃጠሉ መሥዋዕትን በመሠዊያው ላይ አሳረገ።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሠራም"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖኅ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠዊያ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወስዶም"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከ…ሁሉ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "እንስሳት"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "ንጹህ"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "እና ከ…ሁሉ"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ወፍ"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "ንጹህ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "አሳረገ"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "የተቃጠሉ መሥዋዕት"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "በመሠዊያው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:33:41.056535154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ጥበብም አልተማርኩም፤ የቅዱሳንን እውቀት አውቃለሁ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "ተማርኩ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "እና እውቀት"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "የቅዱሳን"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "አውቃለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:38:15.633795154Z",
+  "model": "glm-5.3"
+}

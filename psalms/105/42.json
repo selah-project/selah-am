@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "ቃሉን በቀደሰ ስለ አስታወሰ ለ አብርሃም ⟨את⟩ ባሪያው ⟨את⟩ በእውነት ስለ ፈጸመ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "አስታወሰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃሉን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃሉን"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "በቀደሰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አብርሃም"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃም"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ባሪያው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:08.072891848Z",
+  "model": "glm-5.3"
+}

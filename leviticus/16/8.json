@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "አሃሮን በሁለቱ አውራ ጠቦች ላይ እጣዎችን ይሰጣል፤ አንድ እጣ ለያህዌህ፣ እና አንድ እጣ ለዓዛዜል።",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ይሰጣል"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለቱ"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "አውራ ጠቦች"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "እጣዎችን"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "እጣ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "እና እጣ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "ለዓዛዜል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:54:49.100647557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ምዕኖትያም ⟨את⟩ ዓፍራን ወለደ፤ ሰራያህም ⟨את⟩ ዮአብን ወለደ፤ እርሱም የነጋዴዎች ሸለቆ አባት ነው፤ እነርሱም ነጋዴዎች ስለ ነበሩ ነው።",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "ምዕኖትያም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓፍራን"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "ዓፍራ"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "ሰራያህም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮአብን"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባት"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "ሸለቆ"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ነጋዴዎች"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ…ነው"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ነጋዴዎች"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ነበሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:37:39.757031689Z",
+  "model": "glm-5.3"
+}

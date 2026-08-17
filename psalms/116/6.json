@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 116,
+  "translation": "ያህዌህ ተሳሳቶችን ይጠብቃል፤ ወደቅሁ፣ እኔንም ⟨እርሱ⟩ አዳነኝ።",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ይጠብቃል"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "ተሳሳቶችን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "ወደቅሁ"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "እኔንም"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "አዳነኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:39.801749630Z",
+  "model": "glm-5.3"
+}

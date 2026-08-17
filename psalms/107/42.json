@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "ቀናዮቹ ያያሉ፣ እና ደስ ይላቸዋል፤ እና ሁሉም ክፉነት አፉን ይዘጋል።",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "ያያሉ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ቀናዮቹ"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ደስ ይላቸዋል"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ክፉነት"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "ይዘጋል"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "አፉን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:58.836056258Z",
+  "model": "glm-5.3"
+}

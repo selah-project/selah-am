@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 9:10",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እና አሁን ምን እንላለን አምላኮቻችን ኤሎሂም ከዚህ በኋላ፣ እኛ ትእዛዞችህን ተውን እንደ ሆነ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "እና አሁን"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "እንላለን"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂም አምላኮቻችን"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ… በኋላ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ ሆነ"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "ተውን"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ትእዛዞችህን"
+    }
+  ],
+  "timestamp": "2026-08-17T10:38:53.312768906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 80,
+  "translation": "ያህዌህ ኤሎሂም ጌታ ወታደሮች ሆይ፣ መልሰን፤ ፊትህን አብራ፣ እንድንድነቅ እንበለን።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ወታደሮች ጌታ"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "መልሰን"
+    },
+    {
+      "surface": "האר",
+      "gloss": "አብራ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህን"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "እንድንድነቅ እንበለን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:18.081799307Z",
+  "model": "glm-5.3"
+}

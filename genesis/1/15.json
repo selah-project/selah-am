@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "genesis 1:15",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "በሰማይም በረቁቃት ውስጥ ለማበራት፣ በምድር ላይ ለመብራት የሚያበሩ አካላት ይሁኑ፤ እንደዚህም ሆነ።",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ይሁኑ"
+    },
+    {
+      "surface": "למאורת",
+      "gloss": "የሚያበሩ አካላት"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "በረቁቃት ውስጥ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "በሰማይም"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "ለማበራት፣ ለመብራት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚህም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:28:29.574504342Z",
+  "model": "glm-5.3"
+}

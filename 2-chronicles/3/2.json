@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "2-chronicles 3:2",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "በሁለተኛው ወር በሁለተኛው ቀን በንጉሥነቱ አራተኛ ዓመት መሥራት ጀመረ።",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ጀመረ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "መሥራት"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "በወር"
+    },
+    {
+      "surface": "השני",
+      "gloss": "በሁለተኛው"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "በሁለተኛው ቀን"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "በዓመት"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "አራተኛ"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "በንጉሥነቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:34:22.473666357Z",
+  "model": "glm-5.3"
+}

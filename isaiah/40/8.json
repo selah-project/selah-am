@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ሣሩ ደርቋል፣ አበባው በጠፋዋል፤ የኤሎሂም ቃል ግን ለዘላለም ይነሣል።",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "ደርቋል"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ሣሩ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "በጠፋዋል"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "አበባው"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ቃል ግን"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ይነሣል"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:20:47.489614783Z",
+  "model": "glm-5.3"
+}

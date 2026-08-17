@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ሳጣንም ከያህዌህ ፊት ⟨את⟩ ወጣ፤ ኢዮብንም ⟨את⟩ ከእግሩ ኳስ እስከ አንገቱ ድረስ በክፉ ቁስል መታው።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጣም"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ሳጣን"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "መካከል ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "መታውም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢዮብን"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኢዮብን"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "በቁስል"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "ከኳስ"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "እግሩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "አንገቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:40:42.979761247Z",
+  "model": "glm-5.3"
+}

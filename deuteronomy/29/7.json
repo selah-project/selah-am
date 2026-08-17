@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "ምድራቸውን ⟨את⟩ ወሰድን፤ ለራኡቤናውያን፣ ለጋድያውያንና ለምናሴ ነገዥ ለግማሽ ለወራሽ ርስት ሆኖ ሰጠን።",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "ወሰድን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድራቸውን"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ምድራቸውን"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ሰጠን"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "ለወራሽ ርስት"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "ለራኡቤናውያን"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "ለጋድያውያን"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "ለግማሽ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ነገዥ"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "ምናሴ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:52:07.194466520Z",
+  "model": "glm-5.3"
+}

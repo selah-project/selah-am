@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "ያዕቆብ ሆይ፣ ⟨את⟩ አታስጠራኝም አንተ፤ እስራኤል ሆይ፣ በእኔ እንዳልካለህ ሆነህ አንተ ደክምከኛል።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "እና አታስጠራኝም"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "እኔ"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "አስጠራኸኝ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ ሆይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንዳልካለህ"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "ደክምከኛል"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በእኔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል ሆይ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:21:26.569421040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 76,
+  "translation": "ለመቅረዙ በመሰንቆዎች ላይ፤ ምዝሙር ለአሳፍ፤ በዘፈን።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመቅረዙ"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "በመሰንቆዎች ላይ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ምዝሙር"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ለአሳፍ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "በዘፈን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:36.793337006Z",
+  "model": "glm-5.3"
+}

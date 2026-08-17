@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ያህዌህ ሕዝቦችን ይፈርዳል፤ ያህዌህ ሆይ፣ በጽድቄ እና በብሎሌዬ መጠን እኔን ፈርድልኝ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ይፈርዳል"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝቦችን"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "እኔን ፈርድልኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ ሆይ"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "በጽድቄ መጠን"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "እና በብሎሌዬ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:27:04.592250840Z",
+  "model": "glm-5.3"
+}

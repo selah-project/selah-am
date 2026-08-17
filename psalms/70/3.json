@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 70,
+  "translation": "ይደነገጡና ይፈሩ ነፍሴን የሚፈልጉ፤ ወደ ኋላ ይመለሱና ይዋረዱ ክፉኝ የሚሻዎች።",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ይደነገጡ"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ይፈሩ"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "የሚፈልጉ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "ይመለሱ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ወደ ኋላ"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ይዋረዱ"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "የሚሻዎች"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ክፉኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:27.390209584Z",
+  "model": "glm-5.3"
+}

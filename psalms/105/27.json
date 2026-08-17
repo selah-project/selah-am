@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "የምልክቶቹን ቃላት በእነርሱ መካከል አደረጉ፤ ድንቃድንᆾችም በካም ምድር።",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "አደረጉ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በእነርሱ መካከል"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "የ…ቃላት"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "ምልክቶቹ"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "ድንቃድንᆾችም"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በ…ምድር"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ካም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:03.574373211Z",
+  "model": "glm-5.3"
+}

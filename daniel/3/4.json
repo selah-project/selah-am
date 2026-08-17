@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "daniel 3:4",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "መስበኪውም በታላቅ ድምፅ ጠራ፦ ሕዝቦች፣ ብሔሮችና ቋንቋዎች፣ ወደ እናንተ ይነገራል።",
+  "tokens": [
+    {
+      "surface": "וכרוזא",
+      "gloss": "መስበኪውም"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "በታላቅ ድምፅ"
+    },
+    {
+      "surface": "לכון",
+      "gloss": "ወደ እናንተ"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "ይነገራል"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "ብሔሮች"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "ቋንቋዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T11:28:57.281851153Z",
+  "model": "glm-5.3"
+}

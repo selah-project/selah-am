@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 48:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "ጽዮንን ዙሩ፣ አንቀላፋት፣ የመጥለቆቿን ቁጠሩ።",
+  "tokens": [
+    {
+      "surface": "סבו",
+      "gloss": "ዙሩ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮንን"
+    },
+    {
+      "surface": "והקיפוה",
+      "gloss": "አንቀላፋት"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ቁጠሩ"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "የመጥለቆቿን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:31.234342348Z",
+  "model": "glm-5.3"
+}

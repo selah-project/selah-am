@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 103,
+  "translation": "ለዳዊት። ነፍሴ ሆይ፥ ያህዌህን ⟨את⟩ ባረክ፤ እና ውስጣዊ አካሌ ሁሉ ቅዱስ ስሙን ⟨את⟩ ይባርክ።",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት።"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "ባረክ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ ሆይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና … ሁሉ"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "ውስጣዊ አካሌ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅዱስ ስሙን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:11.680282908Z",
+  "model": "glm-5.3"
+}

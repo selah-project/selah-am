@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 71,
+  "translation": "በአንተ ላይ ተደግፌ ነበር፤ ከሆድ፣ ከእናቴ ሆድ አንተ አውጥተኸኛል፤ ውዳሴዬ ሁልጊዜ በአንተ ላይ ነው።",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "በአንተ ላይ"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "ተደግፌ ነበር"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ከሆድ"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "ከ…ሆድ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "እናቴ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "አውጥተኸኛል"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ውዳሴዬ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:59.064160316Z",
+  "model": "glm-5.3"
+}

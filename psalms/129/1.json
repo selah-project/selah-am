@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 129,
+  "translation": "የደጋማዎች መዝሙር። ብዙ ጊዜ ከሕጻንነቴ አጥበውኝ ነበር፤ እንዲህ ይበል አሁን እስራኤል፦",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "የደጋማዎች"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "ብዙ ጊዜ"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "አጥበውኝ ነበር"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ከሕጻንነቴ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ይበል"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እንዲህ አሁን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:41.794244266Z",
+  "model": "glm-5.3"
+}

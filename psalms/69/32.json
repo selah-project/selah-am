@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "ይህም ላያህዌህ ከቀንድ ያለው እና ጥቅል እግር ያለው አውራ ላም ይበልጣል።",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "ይበልጣል"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ላያህዌህ"
+    },
+    {
+      "surface": "משור",
+      "gloss": "አውራ ላም"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ፍየል"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "ቀንድ ያለው"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "ጥቅል እግር ያለው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:21.821682368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "የሚቃጠለውን ⟨את⟩ መስዋዕት አቀረበ፤ እንደ ሥርዓቱ አዘጋጀው።",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "አቀረበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሚቃጠለው መስዋዕት"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "የሚቃጠለው መስዋዕት"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "አዘጋጀው"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "እንደ ሥርዓቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:47:49.152744859Z",
+  "model": "glm-5.3"
+}

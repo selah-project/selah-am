@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ያቀረባት ካህን ⟨את⟩ን ይበላታል፤ በቅዱስ ስፍራ ትበላለች፤ በመገናኛ ድንኳን በቅጥር ውስጥ።",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "ያቀረባት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እርሷን (የኃጢያት መቅደሱን)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "ይበላታል"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "በ…ስፍራ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ትበላለች"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "በ…ቅጥር"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መገናኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:40:26.380453910Z",
+  "model": "glm-5.3"
+}

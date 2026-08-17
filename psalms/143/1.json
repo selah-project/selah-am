@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 143,
+  "translation": "መዝሙር ለዳዊት። ያህዌህ ሆይ፥ ልመናዬን ስማ፥ ወደ ምሕላዬ አድምጥ፤ በሐቀኝነትህ በጽድቅህም መልስልኝ።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ስማ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ልመናዬን"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "አድምጥ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ምሕላዬ"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "በሐቀኝነትህ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "መልስልኝ"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "በጽድቅህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:28.139781447Z",
+  "model": "glm-5.3"
+}

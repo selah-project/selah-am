@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "daniel 11:20",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "በሠፈሩ ላይ ያለ አንድ ይቆማል ተቆጣጣሪ ያሳልፋል በመንግሥት ክብር እና በጥቂት ቀናት ይሰባል፤ በቁጭት አይሆንም እና በጦርነት አይሆንም።",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "ይቆማል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ሠፈሩ"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "ያሳልፋል"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "ተቆጣጣሪን"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "ክብር"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "መንግሥት"
+    },
+    {
+      "surface": "ובימים",
+      "gloss": "እና በቀናት"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "ጥቂት"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ይሰባል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይሆንም በ"
+    },
+    {
+      "surface": "באפים",
+      "gloss": "ቁጭት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይሆንም በ"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "ጦርነት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:49:12.914248105Z",
+  "model": "glm-5.3"
+}

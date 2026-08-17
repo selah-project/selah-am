@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 48,
+  "ref": "1-chronicles 1:48",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ሳምላም ሞተ፤ ከወንዙ ረሖቦት የመጣው ሳውል በርሱ ፈንታ ነገሠ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ፤"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "ሳምላም"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሠ፤"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "በርሱ ፈንታ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳውል"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "ከ… ረሖቦት"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ወንዙ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:31:02.856649608Z",
+  "model": "glm-5.3"
+}

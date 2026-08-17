@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ይህን ወደ ልቤ አስመልሳለሁ፤ ስለዚህ ታገሣለሁ።",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "አስመልሳለሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "ታገሣለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:09:39.615861108Z",
+  "model": "glm-5.3"
+}

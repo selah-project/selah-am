@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 41,
+  "ref": "psalms 119:41",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ያህዌህ ሆይ፣ ቸርነትህ ወደ እኔ ይምጣልኝ፣ በቃልህ እንደ ነገርኸው መዳንህም ይምጣልኝ።",
+  "tokens": [
+    {
+      "surface": "ויבאני",
+      "gloss": "ይምጣልኝ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ቸርነትህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "መዳንህ"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "በቃልህ እንደ ነገርኸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:20.428090482Z",
+  "model": "glm-5.3"
+}

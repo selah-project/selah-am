@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የይሁዳ ልጆች፦ ፈሬጽ፣ ኬጽሮን፣ ካርሚ፣ ኡር እና ሾባል።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "የይሁዳ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ፈሬጽ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ኬጽሮን"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "እና ካርሚ"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "እና ኡር"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "እና ሾባል"
+    }
+  ],
+  "timestamp": "2026-08-16T18:43:51.970788402Z",
+  "model": "glm-5.3"
+}

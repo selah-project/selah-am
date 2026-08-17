@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "እና ወደ ⟨ስፋት ቦታ⟩ አወጣኝ፤ በእኔ ስለሐመደኝ አዳነኝ።",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "እና አወጣኝ"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "ወደ ስፋት"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "አዳነኝ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለሐመደኝ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ነኩብለት፤ አፈረው"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:04.025686596Z",
+  "model": "glm-5.3"
+}

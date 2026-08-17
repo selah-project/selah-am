@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 2:13",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የኤልያስን ከእርሱ ላይ የወደቀችውን አደርት ⟨את⟩ አነሳት፤ ተመለሰም በዮርዳኑ ዳር ላይ ቆመ።",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "አነሳት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አደርትን"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "አደርት"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "የኤልያስን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የወደቀችውን"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "ወደቀች"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ከእርሱ ላይ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተመለሰም"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ቆመ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ዳር"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:47:23.435774357Z",
+  "model": "glm-5.3"
+}

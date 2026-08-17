@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እና ⟨את⟩ አራቱን ጋሪዎች እና ⟨את⟩ ስምንቱን ከብቶች ለምራሪ ልጆች በአገልግሎታቸው መጠን፣ በካህኑ በአሃሮን ልጅ በኢታማር እጅ ሥር ሰጠ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "አራቱን ጋሪዎች"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "አራቱን"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "ጋሪዎች"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ስምንቱን ከብቶች"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "ስምንቱን"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ከብቶች"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለ…ልጆች"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ምራሪ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "በ…መጠን"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "አገልግሎታቸው"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በ…እጅ ሥር"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "ኢታማር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:07:42.965674304Z",
+  "model": "glm-5.3"
+}

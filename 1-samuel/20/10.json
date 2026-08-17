@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ዳዊትም ወደ ዮናታን «አባትህ ከከፈረ መልስ ቢመልስህ፣ ወይስ በስተቀር ማን ይነግረኛል?» አለው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ዮናታን"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ይነግረኛል"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ልኝ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይስ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "ቢመልስህ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "አባትህ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "በከፈረ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:32:27.600951067Z",
+  "model": "glm-5.3"
+}

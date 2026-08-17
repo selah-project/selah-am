@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "lamentations 2:2",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "አዶናይ የያዕቆብን መኖሪያዎች ሁሉ ⟨את⟩ ዋገ፤ አላሳዘነም፤ በቍጣው የይሁዳ ልጅ ምሽጎችን አፈረሰ፤ ወደ ምድር አወረደ፤ መንግሥትን እና አለቆቿን አረከሰ።",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "ዋገ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "አሳዘነም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መኖሪያዎች ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "መኖሪያዎች"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "አፈረሰ"
+    },
+    {
+      "surface": "בעברתו",
+      "gloss": "በቍጣው"
+    },
+    {
+      "surface": "מבצרי",
+      "gloss": "ምሽጎችን"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "አደረሰ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ወደ ምድር"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "አረከሰ"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "መንግሥትን"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "እና አለቆቿን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:11:40.014798554Z",
+  "model": "glm-5.3"
+}

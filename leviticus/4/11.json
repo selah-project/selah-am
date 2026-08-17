@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የላሙን ቆዳ ⟨את⟩ እና ⟨את⟩ ስጋውን ሁሉ ከራሱ ራስ እና ከእግሮቹ ጋር፣ ከሆዱ ውስጣዊ ክፍሎች እና ከፍርሱም ጋር።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የላሙን ቆዳ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ቆዳ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "የላሙ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስጋውን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ስጋውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ራሱ ራስ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና ከ…ጋር"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "እግሮቹ"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "ሆዱ ውስጣዊ ክፍሎች"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ፍርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:44:25.508375110Z",
+  "model": "glm-5.3"
+}

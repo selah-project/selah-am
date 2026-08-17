@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ይስማኤልም ልጁ የሦስት አሥር ዓመት ልጅ ሲሆን ⟨את⟩ የዳሱን ሥጋ በመግደዱ ተገደደ።",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "ይስማኤልም"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "በመግደዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሥጋ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "የዳሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:37:39.087564367Z",
+  "model": "glm-5.3"
+}

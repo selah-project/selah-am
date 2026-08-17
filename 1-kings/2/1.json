@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የዳዊት ቀኖች ለሞት ቀረቡ፤ ልጁን ሰሎሞንንም በዚህ ብሎ አዘዘው።",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "ቀረቡ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀኖች"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "የዳዊት"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ለሞት"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "አዘዘው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰሎሞንን"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞንን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "በዚህ ብሎ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:16:07.803273519Z",
+  "model": "glm-5.3"
+}

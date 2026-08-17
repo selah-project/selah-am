@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "leviticus 23:23",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ያህዌህም ከሞሼ ጋር በመናገር እንዲህ አለው፦",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "በመናገር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ከሞሼ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:59:46.343677592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 99,
+  "translation": "ስምህን ያመሰግናሉ — ታላቅ፣ በሚያስፈራ ቅዱስ ⟨ነው⟩ እርሱ።",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ያመሰግናሉ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህን"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "በሚያስፈራ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:01.475045722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "እንደዚህ አደረጉ ያህዌህ ሞሼን ⟨את⟩ እንዳዘዘው፤ የጸሎፍሐድ ሴት ልጆች እንደዚያው አደረጉ።",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሼን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "አደረጉ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ሴት ልጆች"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "ጸሎፍሐድ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:31:54.166190533Z",
+  "model": "glm-5.3"
+}

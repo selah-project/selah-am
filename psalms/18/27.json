@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ከናባር ጋር ትናባራለህ፤ እና ከአቅስ ጋር ትተበተባለህ።",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "ናባር"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "ትናባራለህ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "እና ከ…ጋር"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "አቅስ"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "ትተበተባለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:46.053313766Z",
+  "model": "glm-5.3"
+}

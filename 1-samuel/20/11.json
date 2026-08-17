@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "የሆነው ይህ ነው፦ ያህዌንታን ለዳዊት እንዲህ አለ፤ «ና፣ ወደ መስኩ እንውጣ»፤ እነሱም ሁለቱ አብረው ወደ መስኩ ወጡ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ያሆናታን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ና"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "እንውጣ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ወደ መስኩ"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ወጡ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ሁለቱ አብረው"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ወደ መስኩ"
+    }
+  ],
+  "timestamp": "2026-08-17T07:03:10.354482860Z",
+  "model": "glm-5.3"
+}

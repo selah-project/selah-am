@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "የውሉን በሱ በተወሰነው ጊዜ የእስራኤል ልጆች ⟨את⟩ ፋሲካውን ያድርጉ።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ያድርጉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፋሲካውን"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ፋሲካውን"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "በሱ በተወሰነው ጊዜ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:12:29.079744759Z",
+  "model": "glm-5.3"
+}

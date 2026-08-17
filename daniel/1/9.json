@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ኤሎሂም ⟨את⟩ ዳንኤልን ለምሕረት እና ለርሕራሄ በጌባሮቹ አለቃ ፊት ሰጠ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳንኤልን"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ዳንኤል"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "ለምሕረት"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "እና ለርሕራሄ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "שר",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "የጌባሮቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:23:36.022492902Z",
+  "model": "glm-5.3"
+}

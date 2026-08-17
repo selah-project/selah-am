@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 4:15",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "አሃሮን እና ልጆቹ ቅዱሱን ⟨את⟩ እና ⟨את⟩ ሁሉን የቅዱስ ዕቃዎችን ለመሸፈን ሲጨርሱ፣ ማሕበሩ በሚነሳበት ጊዜ፣ ከዚያ በኋላ የቀሃት ልጆች ለመሸከም ይገባሉ፤ ወደ ⟨ቅዱሱ⟩ አይነኩም፣ ወይም ይሙታሉ፤ እነዚህ በስብሰባ ድንኳን የቀሃት ልጆች ሸክም ናቸው።",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "ሲጨርሉ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "እና ልጆቹ"
+    },
+    {
+      "surface": "לכסת",
+      "gloss": "ለመሸፈን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅዱሱን"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ቅዱሱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ዕቃዎችን"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "የቅዱስ"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "በሚነሳበት ጊዜ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ማሕበሩ"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ከዚያ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "በኋላ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ይገባሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ቀሃት"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ለመሸከም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יגעו",
+      "gloss": "ይነኩም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ቅዱሱ"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ወይም ይሙታሉ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ሸክም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ቀሃት"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "በድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ስብሰባ"
+    }
+  ],
+  "timestamp": "2026-08-17T08:23:30.723477620Z",
+  "model": "glm-5.3"
+}

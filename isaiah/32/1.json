@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "እነሆ ለጽድቅ ንጉሥ ይነግሣል፣ እና አለቆች ለፍርድ ይገዝዛሉ።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "ለጽድቅ"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ይነግሣል"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "እና አለቆች"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ለፍርድ"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "ይገዝዛሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:56:59.740112053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ተነሣ ያህዌህ፤ ሰው አይእራምድ፤ ሕዝቦች በፊትህ ይፈረዱ።",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ተነሣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "አይእራምድ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "ይፈረዱ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:49.930456437Z",
+  "model": "glm-5.3"
+}

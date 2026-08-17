@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እጆቼንና እግሮቼን እቆጥራለሁ ብዙ አጥንቶቼ ተቆጥረዋል እነሱም ይመለከቱኛል ወደ እኔ ይመለሳሉ",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "እቆጥራለሁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "አጥንቶቼን"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነሱ"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "ይመለከቱኛል"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ያያሉ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "እኔን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:21.422834647Z",
+  "model": "glm-5.3"
+}

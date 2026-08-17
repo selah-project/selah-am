@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ንጉሡም እንዲህ አለ፤ ሐማንን ⟨את⟩ በትንሹ እንዲሠራ የእስቴርን ⟨את⟩ ቃል ቈስቆስ፤ ንጉሡና ሐማንም ወደ እስቴር ወዳዘጻችው ምግብ መጡ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "ቈስቆስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሐማንን"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሐማንን"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "እንዲሠራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃልን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "የእስቴርን"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "መጡም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡና"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ሐማንም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "ምግቡ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ወዳዘጻችው"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ያዘጸችው"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "እስቴር"
+    }
+  ],
+  "timestamp": "2026-08-16T11:25:14.447464651Z",
+  "model": "glm-5.3"
+}

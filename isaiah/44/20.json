@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "አመድን የሚመገብ ልብ ተታለቀ፤ አሳስቶታል፤ እና ⟨את⟩ ነፍሱን ሊያድን አይችልም፣ «በቀኝ እጄ ውስጥ ሐሰት የለም እንዴ?»ም አይልም።",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "የሚመገብ"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "አመድ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "ተታለቀ"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "አሳስቶታል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "ሊያድን አይችልም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሱን"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ይልም"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "የለም እንዴ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሐሰት"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "በቀኝ እጄ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:23:51.588081923Z",
+  "model": "glm-5.3"
+}

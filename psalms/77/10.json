@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 77,
+  "translation": "ኤል ምሕረትን ረስቷልን? እንስ በቁጭቱ ምሕረቶቹን ዝግቷልን? ሰላ።",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "ረስቷልን"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "ምሕረትን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንስ"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "ዝግቷልን"
+    },
+    {
+      "surface": "באף",
+      "gloss": "በቁጭቱ"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "ምሕሮቹን"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:18.282796110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እንዲሁም በፀሐይ ሥር በውል ቦታ ላይ ክፉነት እንዳለ አየሁ፤ እና በጽድቅ ቦታ ላይ ክፉነት እንዳለ አየሁ።",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "አየሁ፤"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ሥር"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "በፀሐይ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "በውል"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ክፉነት"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "እና ቦታ"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "ጽድቅ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ክፉነት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:13:36.155328420Z",
+  "model": "glm-5.3"
+}

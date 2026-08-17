@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እሳት ቢወጣም እሾህንም ቢያገኝ፣ ክምሩም ሆነ ተከልቷል ሰብልም ሆነ ⟨the⟩ መስክ ቢቃጠል፣ እሳቱን ⟨את⟩ ያቃጠለው ካሳውን ሙሉ በሙሉ ይከፍላል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ቢወጣ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "እና ቢያገኝ"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "እሾህን"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "እና ቢቃጠል"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "ክምር"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "ተከልቷል ሰብል"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "መስክ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ካሳ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ይከፍላል"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "ያቃጠለው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እሳቱን"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "እሳቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:21:45.460432898Z",
+  "model": "glm-5.3"
+}

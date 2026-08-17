@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 132,
+  "translation": "ተነሣ፣ ያህዌህ ሆይ፤ ወደ እረፍትህ፤ አንተ፣ እና የኃይልህ ታቦት።",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ተነሣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "ወደ እረፍትህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "እና ታቦት"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "የኃይልህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:16.538470293Z",
+  "model": "glm-5.3"
+}

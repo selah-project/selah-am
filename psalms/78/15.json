@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "ዓለቶችን በምድረ በዳ በቀለ፤ እንደ ታላቁ ጥልቅም አጠጣቸው።",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "ይበቅላል"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "ዓለቶችን"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በምድረ በዳ"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "አጠጣቸውም"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "እንደ ጥልቁ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ታላቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:07.377902884Z",
+  "model": "glm-5.3"
+}

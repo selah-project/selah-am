@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 67,
+  "translation": "ኤሎሂም ያበረታን፣ ይባርከን፣ ፊቱን ⟨את⟩ ከእኛ ጋር ያበራል። ሰላህ።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "ያበረታን"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "ይባረክን"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "ያበራል"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱን"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ከእኛ ጋር"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:13.794526057Z",
+  "model": "glm-5.3"
+}

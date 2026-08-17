@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሴቶችም ሆኑለት እንደ ንግሥት የሚመደቡ ሰባት መቶ፣ እና ግብረሠያዊቶች ሦስት መቶ፤ ሴቶቹም ⟨את⟩ ልቡን አዙሩት።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆኑም"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለት"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ሴቶች"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "እንደ ንግሥት የሚመደቡ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "እና ግብረሠያዊቶች"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "አዙሩም"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ሴቶቹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልቡን"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:27:18.332660284Z",
+  "model": "glm-5.3"
+}

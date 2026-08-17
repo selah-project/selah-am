@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 115,
+  "translation": "እናንተ ያህዌህ የሰማያትን እና ምድርን ሠራ ለእርሱ የተባረካችሁ ⟨ናችሁ⟩።",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "የተባረካችሁ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ሠራ\/ፈጣሪ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያትን"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "እና ምድርን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:25.869460367Z",
+  "model": "glm-5.3"
+}

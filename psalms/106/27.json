@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "ዘርኣቸውን በአሕዛኦች መካከል ለማወደቅ እና በአገሮች ውስጥ ለማበታታት።",
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "ለማወደቅ"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "ዘርኣቸውን"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "በአሕዛኦች"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "ለማበታታት"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "በአገሮች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:52.272322206Z",
+  "model": "glm-5.3"
+}

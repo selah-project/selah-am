@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እኔ ግን ንጉሤን በጽዮን በቅዱስ ተራሬ ላይ ተክሼያለሁ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "ተክሼያለሁ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ንጉሤን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "በጽዮን"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራሬ"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "በቅዱስ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:28:50.035995306Z",
+  "model": "glm-5.3"
+}

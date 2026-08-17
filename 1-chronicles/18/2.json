@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ሞዓብን ⟨את⟩ መታ፤ ሞዓብ ስጦታ የሚሸከሙ ሆነው ለዳዊት አገልጋዮች ሆኑ።",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "መታ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞዓብን"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብን"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ሆኑ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "አገልጋዮች"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "የሚሸከሙ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ስጦታ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:03:03.719738596Z",
+  "model": "glm-5.3"
+}

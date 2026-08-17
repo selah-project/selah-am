@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እነዚህ የሐም ልጆች ናቸው፤ በስድሳቆቻቸው፣ በቋንቋዎቻቸው፣ በምድራቸው፣ በሕዝቦቻቸውም ሆኑ።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ሐም"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "በስድሳቆቻቸው"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "በቋንቋዎቻቸው"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "በምድራቸው"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "በሕዝቦቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:30.130436150Z",
+  "model": "glm-5.3"
+}

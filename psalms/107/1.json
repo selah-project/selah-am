@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "ለያህዌህ ያመሰግኑ፣ ዅሉ እርሱ ⟨ሆኖ⟩ በሚገባ ስለሚኖር፤ ምሕረቱ ለዘላለም ስለምትኖር።",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "ያመሰግኑ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለሚኖር (ዅሉ እርሱ ⟨ሆኖ⟩ በሚገባ)"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "በሚገባ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለምትኖር"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ምሕረቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:03.396981636Z",
+  "model": "glm-5.3"
+}

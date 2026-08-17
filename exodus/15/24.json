@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ሕዝቡም በሞሼ ላይ እንዲህ ብሎ ማተተ፦ ምን እንጠጣለን?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "እንዲህ ብሎ ማተተ\/አቈረቀረ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብሎ እንዲህ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "እንጠጣለን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:13:52.974743527Z",
+  "model": "glm-5.3"
+}

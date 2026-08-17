@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ዮናስን ⟨את⟩ ተሸከሙ፣ ወደ ባሕሩም ጣሉት፤ ባሕሩም ከመቃወሱ ቆመ።",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ተሸከሙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮናስን"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ዮናስን"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "ጣሉት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሩ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ቆመ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሩ"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "ከመቃወሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:10:35.130176421Z",
+  "model": "glm-5.3"
+}

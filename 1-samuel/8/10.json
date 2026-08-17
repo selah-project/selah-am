@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እና ሳሙኤል ከእርሱ ንጉሥ እየጠየቁ ለሆነው ሕዝብ የያህዌህን ⟨את⟩ ሁሉን ቃላት አለው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን ቃላት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "እየጠየቁ ለሆነው"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "ከእርሱ ⟨את⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:33:13.222038278Z",
+  "model": "glm-5.3"
+}

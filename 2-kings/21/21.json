@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "2-kings 21:21",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "እናም አባቱ በሄደበት ሁሉ በመንገድ ሄደ፤ አባቱ ያገለገላቸውን በኩላን ላይ ⟨את⟩ አገለገለ፤ እኊሱም ለእነሱ ሰገደ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…በት"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "አገለገለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በኩላን"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "ኩላን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ቸው"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "አገለገለ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ሰገደ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:52:16.414743219Z",
+  "model": "glm-5.3"
+}

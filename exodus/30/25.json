@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "እናትህ ⟨את⟩ ቅቤን የቀባ ቅዱስ መድሃኒት እንደ ማውለቂያ ሥራ የተቀላቀለ ማውለቂያ ታደርገዋለህ፤ ቅቤ የቀባ ቅዱስ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ቅቤን"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ቅቤ"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "የቀባ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "መድሃኒት"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "የተቀላቀለ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "ማውለቂያ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ቅቤ"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "የቀባ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:28:14.208939920Z",
+  "model": "glm-5.3"
+}

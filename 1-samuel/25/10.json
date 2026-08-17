@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ናባልም የዳዊትን አገልጋዮች ⟨את⟩ መልሶ እንዲህ አለ፦ ዳዊት ማን ነው? የይሴ ልጅስ ማን ነው? በዛሬው ዕለት እያንዳንዱ ከጌታው ፊት የሚያመልጥ ብዙ አገልጋዮች በዙ።",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መልሶ አለ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ናባል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የዳዊትን አገልጋዮች"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "የ…አገልጋዮች"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "እና ማን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ይሴ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "በዛሬው ዕለት"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "በዙ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "አገልጋዮች"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "የሚያመልጡ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከፊት ለ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ጌታው"
+    }
+  ],
+  "timestamp": "2026-08-16T05:48:33.693196806Z",
+  "model": "glm-5.3"
+}

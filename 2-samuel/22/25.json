@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ያህዌህ በጽድቄ መሠረት፣ በዓይኖቹ ፊት በንጹሐኝነቴ መሠረት ለእኔ መለሰልኝ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "መለሰልኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "በጽድቄ መሠረት"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "በንጹሐኝነቴ መሠረት"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "በ...ፊት"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ዓይኖቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:10:58.858215515Z",
+  "model": "glm-5.3"
+}

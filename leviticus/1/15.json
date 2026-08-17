@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ካህኑም ወደ መሠዊያው ያቀርበዋል፤ ጭኑን ⟨את⟩ ያንከባረካል፤ በመሠዊያውም ላይ ያቃጥለዋል፤ ደሙም በመሠዊያው ግድግዳ ላይ ይፈሳል።",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "ያቀርበዋል"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "ያንከባረካልም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጭኑን"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ጭኑን"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ያቃጥለዋልም"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "በመሠዊያውም ላይ"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "ይፈሳልም"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ደሙም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "ግድግዳ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:40:55.799258389Z",
+  "model": "glm-5.3"
+}

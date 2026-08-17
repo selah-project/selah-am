@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 28:30",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ሴት ታጭባለህ፣ ሌላ ሰው ግን ⟨אותה⟩ ይተኛታል፤ ቤት ትሠራለህ፣ በዚያ ግን አትቀመጥም፤ የወይን እርሻ ታረድሳለህ፣ ፍሬውን ግን አታወርስም።",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "תארש",
+      "gloss": "ታጭባለህ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ሌላ ሰው"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ግን"
+    },
+    {
+      "surface": "ישגלנה",
+      "gloss": "ይተኛታል"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ትሠራለህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ትቀመጥም"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "የወይን እርሻ"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "ታረድሳለህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አታ"
+    },
+    {
+      "surface": "תחללנו",
+      "gloss": "ወርስም"
+    }
+  ],
+  "timestamp": "2026-08-17T08:36:33.610378663Z",
+  "model": "glm-5.3"
+}

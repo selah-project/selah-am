@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "numbers 19:1",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ያህዌህ ሞሼን እና አሃሮንን በቃል በመናገር ይናገራቸዋል።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "በቃል ተናገረ፤ ይናገራል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ፤ ለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ፤ ለ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "በመናገር፤ እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:21:32.215335938Z",
+  "model": "glm-5.3"
+}

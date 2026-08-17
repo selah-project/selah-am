@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "malachi 1:2",
+  "book": "malachi",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ያፈራችሁ እናል ያህዌህ እናንተም በምን ያፈራችሁን ትላላችሁ፤ የያዕቆብ ወንድም የሆነው ዔሳው ያለ ነው እንዴ የያህዌህ ቃል እኔ ያዕቆብን ⟨את⟩ ወደድሁ።",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "ያፈራችሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ እናንተን",
+      "marks": "እናንተ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "እናል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "እናንተም ትላላችሁ"
+    },
+    {
+      "surface": "במה",
+      "gloss": "በምን"
+    },
+    {
+      "surface": "אהבתנו",
+      "gloss": "ያፈራሁን"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ያለ ነው እንዴ"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ወንድም"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዔሳው"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ለያዕቆብ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "የያህዌህ ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "ወደድሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያዕቆብን"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:26:28.477525586Z",
+  "model": "glm-5.3"
+}

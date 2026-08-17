@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "የውድነት መሥዋዕት ያቅርቡ፣ እና ሥራዎቹን በዝማሬ ይናገሩ።",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "እና ያቅርቡ መሥዋዕት"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "የመሥዋዕት"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ውድነት"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "እና ይናገሩ"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ሥራዎቹን"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "በዝማሬ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:25.502709734Z",
+  "model": "glm-5.3"
+}

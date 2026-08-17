@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "በፊትህ ጊዜ እነርሱን እንደ እሳት ምድጃ ታደርጋቸዋለህ፤ ያህዌህ በቍጣው ዋጋቸዋል፤ እሳትም በላቸዋል።",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "ታደርጋቸዋለህ"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "እንደ ምድጃ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "በፊትህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "በቍጣው"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "ዋጋቸዋል"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "በላቸዋል"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:58.037068115Z",
+  "model": "glm-5.3"
+}

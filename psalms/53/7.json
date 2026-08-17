@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 53:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 53,
+  "translation": "ማን ይሰጣል ከጽዮን የእስራኤልን መዳን? ኤሎሂም የሕዝቡን ምርቃት በመመለስ ጊዜ ያዕቆብ ደስ ይላል፤ እስራኤል ይደሰታል።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይሰጣል"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ከጽዮን"
+    },
+    {
+      "surface": "ישעות",
+      "gloss": "መዳን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤልን"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "በመመለስ ጊዜ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ምርቃት"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "የሕዝቡን"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "ደስ ይላል"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ይደሰታል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T18:12:17.059252702Z",
+  "model": "glm-5.3"
+}

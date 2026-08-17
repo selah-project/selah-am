@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "micah 6:12",
+  "book": "micah",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ከተማዋም ሀብታሞቿ በቀል ተሞሉ፤ ነዋሪዎቿም ውሸት ተናገሩ፤ ቋንቋቸውም በአፋቸው ውስጥ ዲጋ ነው።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ከተማዋም"
+    },
+    {
+      "surface": "עשיריה",
+      "gloss": "ሀብታሞቿ"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ተሞሉ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "በቀል"
+    },
+    {
+      "surface": "וישביה",
+      "gloss": "እና ነዋሪዎቿም"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ተናገሩ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ውሸት"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "እና ቋንቋቸውም"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ዲጋ"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "በአፋቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:13:12.962195537Z",
+  "model": "glm-5.3"
+}

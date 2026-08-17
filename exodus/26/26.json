@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "exodus 26:26",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ከገላው እንጨት አምዶችን ታደርጋለህ፤ ለመንበሩ አንዲት ጎን ሰሌዳዎች አምስት ይሁኑ።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "בריחם",
+      "gloss": "አምዶችን"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "የ… እንጨት"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ገላው"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "לקרשי",
+      "gloss": "ለ… ሰሌዳዎች"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "ጎን"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "መንበሩ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "አንዷ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:24:25.581717481Z",
+  "model": "glm-5.3"
+}

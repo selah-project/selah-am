@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 65,
+  "translation": "የዓመፅ ሥራዎች ከእኔ በላይ አሸነፉ፤ የእኛንም መተላለፊያ አንተ ታሸፍነዋለህ።",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ሥራዎች"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "የዓመፅ"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "አሸነፉ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ከእኔ በላይ"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "የእኛንም መተላለፊያ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "ታሸፍነዋለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:54.534161456Z",
+  "model": "glm-5.3"
+}

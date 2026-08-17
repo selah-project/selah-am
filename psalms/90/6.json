@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 90,
+  "translation": "በጠዋት ያበባል ያልፋል፤ በምሽት ይቆረጣል ይደርቃል።",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "በጠዋት"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "ያበባል"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "ያልፋል"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "በምሽት"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "ይቆረጣል"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ይደርቃል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:43.911650885Z",
+  "model": "glm-5.3"
+}

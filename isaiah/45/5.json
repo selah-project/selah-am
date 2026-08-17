@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "እኔ ያህዌህ ነኝ፤ ከእኔ ሌላ የላም፤ ከእኔ በቀር ኤሎሂም የለም፤ እኔ ዞብልሃለሁ፤ አንተ ግን አታውቀኝም።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የላም፤"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ሌላ"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ከእኔ በቀር"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም፤"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "ዞብልሃለሁ፤"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አታውቀኝም"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "አታውቀኝም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:23:09.102498689Z",
+  "model": "glm-5.3"
+}

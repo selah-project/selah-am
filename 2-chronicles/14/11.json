@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ያህዌህም ⟨את⟩ ኩሻውያንን በአሳም ፊት እና በይሁዳ ፊት መታቸው፤ ኩሻውያንም ሮጡ።",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "መታቸው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሻውያንን"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "ኩሻውያንን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ…ፊት"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "አሳም"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "እና በ…ፊት"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ሮጡ"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "ኩሻውያን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:48:31.139490755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 7:16",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ያህዌህ አምላክህ ለአንተ የሚሰጥህን ሕዝቦች ሁሉ ⟨את⟩ ታጠፋቸዋለህ፤ ዐይንህ በእነሱ ላይ አትራራ፤ አማልክታቸውንም ⟨את⟩ አትገዛ፣ ምክንያቱም ሽንኩርት ይሆንሃልና።",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "ታጠፋቸዋለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቦች ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "አምላክህ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "የሚሰጥህ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አትራራ"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "አትራራ"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ዐይንህ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "በእነሱ ላይ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አትገዛ"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "አትገዛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አማልክታቸውን"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "አማልክታቸውን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "ሽንኩርት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:57:29.126216925Z",
+  "model": "glm-5.3"
+}

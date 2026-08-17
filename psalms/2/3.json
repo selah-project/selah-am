@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ግንበሮቻቸውን ⟨את⟩ እንቅደዋለን፣ ገመዶቻቸውንም ከእኛ እንጥላለን ብለው አሉ።",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "እንቅደዋለን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ግንበሮቻቸውን"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "ግንበሮቻቸውን"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "እንጥላለንም"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእኛ"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "ገመዶቻቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:28:32.780824228Z",
+  "model": "glm-5.3"
+}

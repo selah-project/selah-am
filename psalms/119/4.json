@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "አንተ ትእዛዞችህን በትጋት እንጠብቃቸው ዘንድ አዘዝህ።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "አዘዝህ"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ትእዛዞችህን"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "እንጠብቃቸው ዘንድ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በትጋት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:24.758425536Z",
+  "model": "glm-5.3"
+}

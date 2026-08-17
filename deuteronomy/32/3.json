@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "በእውነት ስም ያህዌህን እጠራለሁ፤ አበዝብሩ ክብርን ለኤሎሂም አምላካችን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእውነት (እንደሚሆን)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "እጠራለሁ"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "አበዝብሩ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ክብርን (ታላቅነትን)"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ለኤሎሂም አምላካችን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:56:46.236249346Z",
+  "model": "glm-5.3"
+}

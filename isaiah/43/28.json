@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "isaiah 43:28",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "የቅድሳት አለቆችን አሳፈርሁ፤ ያዕቆብንም ለውድመት፣ እስራኤልንም ለስድብ አሳልፌ ሰጠሁ።",
+  "tokens": [
+    {
+      "surface": "ואחלל",
+      "gloss": "አሳፈርሁም\/አበላሁም"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "አለቆችን"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "የቅድሳት"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "አሳልፌ ሰጠሁም"
+    },
+    {
+      "surface": "לחרם",
+      "gloss": "ለውድመት"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብን"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "እስራኤልንም"
+    },
+    {
+      "surface": "לגדופים",
+      "gloss": "ለስድብ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:21:44.561695963Z",
+  "model": "glm-5.3"
+}

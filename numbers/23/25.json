@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ባላቅም ለቢልዓም እንዲህ አለው፦ ሳትረግም እንኳ አትረገምው፣ ሳትባርክ እንኳ አትባርከውም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ባላቅ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ።"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ቢልዓም"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንኳ"
+    },
+    {
+      "surface": "קב",
+      "gloss": "ሳትረግም አትረገም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "አትረገምው"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንኳ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ሳትባርክ አትባርከው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "አትባርከውም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:23:16.285948474Z",
+  "model": "glm-5.3"
+}

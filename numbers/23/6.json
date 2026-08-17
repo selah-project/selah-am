@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "numbers 23:6",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ወደ እርሱ ተመለሰ፤ እለ፣ እርሱ በደቡቱ ላይ ቆሞ ነበር፣ እርሱም ሆኖ ከሞዓብ አለቆች ሁሉ ጋር።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እለ"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ቆሞ ነበር"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "የደቡቱ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ከ... ሁሉ ጋር"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "አለቆች"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:23:04.770799746Z",
+  "model": "glm-5.3"
+}

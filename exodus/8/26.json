@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ሞሼም ከፈርዖን ወጥቶ ወደ ያህዌህ ለመነ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጥቶ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "ለመነ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:12:34.264571133Z",
+  "model": "glm-5.3"
+}

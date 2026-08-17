@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ባትሼባ ተንበረከከች እና ለንጉሡ ሰገደች፤ ንጉሡም አለ፦ «ምን አለሽ?»",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "ተንበረከከች ተንበረከከች"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ባት ባት"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሼባ ሼባ"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "እና ሰገደች ሰገደች"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ለንጉሡ ለንጉሡ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ንጉሡም አለው አለው"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ ንጉሡ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን ምን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "አለሽ አለሽ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:13:10.064237371Z",
+  "model": "glm-5.3"
+}

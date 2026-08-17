@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ነፍሱም በዲና፣ በያዕቆብ ልጅ፣ አጣበቀች፤ ወጣቷንም ⟨את⟩ ወደደባት፤ የወጣቷንም ልብ አረሰባት።",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "አጣበቀች"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱ"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "በዲና"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "የያዕቆብ"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "ወደደባት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወጣቷን"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ወጣቷን"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረባት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ\/በ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ወጣቷ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:30:03.633877856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 50,
+  "translation": "አንተም ተገሠጻን ጠላህ፣ እና ቃላትን ወደ ኋላህ ጣልህ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተም"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "ጠላህ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ተገሠጺን"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "ጣልህ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላትን"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ወደ ኋላህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:20.210813666Z",
+  "model": "glm-5.3"
+}

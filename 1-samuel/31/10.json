@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ዕቃዎቹን ⟨את⟩ በዓስታሮት ቤት አኖሩ፤ አካሉንም ⟨את⟩ በቤት ሳን ግንብ ሰቀሉ።",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "አኖሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዕቃዎቹን"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ዕቃዎቹን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "ዓስታሮት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "አካሉን"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "አካሉን"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ሰቀሉ"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "በ…ግንብ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ሳን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:53:26.885170318Z",
+  "model": "glm-5.3"
+}

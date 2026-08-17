@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 135,
+  "translation": "ያህዌህ የፈለገውን ሁሉ በሰማያትና በምድር፣ በባሕሮችና በሁሉም ጥልቆች አደረገ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ፈለገውን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገ።"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "በሰማያት"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "እና በምድር"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "በባሕሮች"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና በሁሉም"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ጥልቆች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:10.369215218Z",
+  "model": "glm-5.3"
+}

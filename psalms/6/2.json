@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ያህዌህ ሆይ፣ በቁጣህ አትወቅሰኝ፣ እንዲሁም በንዴትህ አትገሥጸኝ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት…"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "በቁጣህ"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "ወቅሰኝ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እንዲሁም አት…"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "በንዴትህ"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "ገሥጸኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:28:21.701243470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 117,
+  "translation": "አሕዛብ ሁሉ ያህዌህን ⟨את⟩ ያመሰግኑ፤ ሕዝቦች ሁሉ ያመስግኑት።",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ያመሰግኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "ያመስግኑት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "ሕዝቦች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:03.146087691Z",
+  "model": "glm-5.3"
+}

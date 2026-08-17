@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "እዮብም ያህዌህን ⟨את⟩ መለሰ እና አለ።",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መለሰም"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "እዮብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:02:02.054089413Z",
+  "model": "glm-5.3"
+}

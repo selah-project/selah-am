@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "ክፉን በበጎ ፋንታ የሚከፍሉትም በእኔ ላይ ይከሽፉኛል፣ እኔ በጎን ስንከታተል ነው።",
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "የሚከፍሉትም"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉን"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ...ፋንታ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "በበጎ"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "በእኔ ላይ ይከሽፉኛል"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ስንከታተል ባለበት"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "ስከተለው"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "በጎን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:01.692122513Z",
+  "model": "glm-5.3"
+}

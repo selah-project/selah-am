@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "2-kings 8:24",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ዮራምም ከአባቶቹ ጋር ተኛ፤ ከአባቶቹ ጋር በዳዊት ከተማ ተቀበረ፤ አክዚያሁም ልጁ በሱ ፋንታ ነገሠ።",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ተኛ"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "ዮራምም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋር"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ከአባቶቹ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ተቀበረ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋር"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ከአባቶቹ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "በ… ከተማ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "አክዚያሁም"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "በሱ ፋንታ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:41:46.490678351Z",
+  "model": "glm-5.3"
+}

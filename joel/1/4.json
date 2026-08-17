@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የጋዝም ቀሪ አርቤ በላው፤ የአርቤም ቀሪ ያለቅ በላው፤ የያለቁም ቀሪ ሐሲል በላው።",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "ቀሪ"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "የጋዝም"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "በላው"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "አርቤ"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "የአርቤም ቀሪ"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "ያለቅ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "በላው"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "የያለቁም ቀሪ"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ሐሲል"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "በላው"
+    },
+    {
+      "surface": "אכל",
+      "gloss": ""
+    },
+    {
+      "surface": "החסיל",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-16T09:01:35.050679753Z",
+  "model": "glm-5.3"
+}

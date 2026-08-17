@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 124,
+  "translation": "ረዳታችን በያህዌህ ስም ⟨ነው⟩፣ ሰማያትንና ምድርን የሠራ።",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "ረዳታችን"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "በ… ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "የሠራ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያትን"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "እና ምድርን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:24.528575607Z",
+  "model": "glm-5.3"
+}

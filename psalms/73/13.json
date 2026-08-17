@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "በእርግጥ በከንፈር ልቤን አነጻሁ፣ እጄንም በንጹህነት አጠብቼ ነበር።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "በእርግጥ"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "በከንፈር"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "አነጻሁ፣"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ልቤን"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "አጠብቼ ነበር፣"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "በንጹህነት"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "እጄን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:09.171044733Z",
+  "model": "glm-5.3"
+}

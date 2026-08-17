@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ፈርዖንም ስለ እስራኤል ልጆች ይላል፦ በምድሩ ውስጥ ተደናግረዋል፤ በምድረ በዳ ተዘግቷቸዋል።",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ስለ … ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "ተደናግረዋል"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እነሱ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ተዘግቷቸዋል"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "በእነሱ ላይ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "በምድረ በዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:16:02.694986751Z",
+  "model": "glm-5.3"
+}

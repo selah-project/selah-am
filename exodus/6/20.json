@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "አምራምም አክስቱን ዮካብድን ⟨את⟩ ለሚስቱ ወሰዳት፤ እርሷም ⟨לו⟩ አህሮንን ⟨את⟩ እና ሙሴን ⟨את⟩ ወለደችለት፤ የአምራም የሕይወት ዘመናትም መቶ ሠላሳ ሰባት ዓመት ⟨ናቸው⟩።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "እና ወሰደ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "አምራም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮካብድን"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "ዮካብድ"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "አክስቱን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ለሚስት"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "እና ወለደች"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አህሮንን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አህሮን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሙሴን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሙሴ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "እና የ... ዘመናት"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "የሕይወት"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "አምራም"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "እና ሠላሳ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "እና መቶ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:07:38.505849759Z",
+  "model": "glm-5.3"
+}

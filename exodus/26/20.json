@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ለድንኳኑ ሁለተኛ ጎን ለሰሜን ጎን ሃያ ሰሌዳዎች።",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "እና ለጎን"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ድንኳኑ"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ሁለተኛ"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ለጎን"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ሰሜን"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ሃያ"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "ሰሌዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:26:04.104956163Z",
+  "model": "glm-5.3"
+}

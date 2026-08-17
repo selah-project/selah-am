@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 145,
+  "translation": "ኃይልህንና በሚያስፈሩ ተአምራትህ ይናገራሉ፤ በትልቅነትህም እነግራለሁ።",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "ኃይልህንና"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "በሚያስፈሩ ተአምራትህ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ይናገራሉ"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "በትልቅነትህም"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "እነግራለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:21.621710811Z",
+  "model": "glm-5.3"
+}

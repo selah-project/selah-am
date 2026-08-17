@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ኤሎሂም ⟨את⟩ ሥራቸውን አየ — ከክፉ መንገዳቸው ስለ መለሱ፤ ኤሎሂምም ለእነርሱ ሊያደርግ የተናገረውን በክፉ ላይ ተጸናነቀ፤ እና አላደረገውም።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "እና አየ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሥራቸውን"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ሥራቸውን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "መለሱ"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "ከመንገዳቸው"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "እና ተጸናነቀ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ክፉው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረው"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ሊያደርግ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነርሱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ደረገውም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:09:27.920083689Z",
+  "model": "glm-5.3"
+}

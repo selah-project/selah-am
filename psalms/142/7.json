@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 142,
+  "translation": "ወደ ጩኸቴ ማዳመጥ አድርግ፤ በጣም ደንግጫለሁና፤ ከአዳኞቼ አድነኝ፤ ከእኔ ይበልጣሉና።",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "ማዳመጥ አድርግ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "ጩኸቴ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "አለብኝና\/ስለዚህ"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "ደንግጫለሁ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "አድነኝ"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "ከአዳኞቼ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "አለብኝና\/ስለዚህ"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "ይበልጣሉ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:26.271196390Z",
+  "model": "glm-5.3"
+}

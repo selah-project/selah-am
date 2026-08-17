@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እንዲህ ይላል ያህዌህ የሰራዊት፤ እባክህ ከቶራት ስለ ሕግ ካህናንን ⟨את⟩ ጠይቅ ሲል።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "የሰራዊት"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ጠይቅ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ካህናንን"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናንን"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "ቶራት\/ሕግ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:18:22.503054141Z",
+  "model": "glm-5.3"
+}

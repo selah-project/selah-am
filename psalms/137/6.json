@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 137,
+  "translation": "ምላሴ ለአፌ ይጣበቅ ካልዘኘሁህ ማለት የሚሆነው ነው፣ የሩሳሌምን ⟨את⟩ ከራስ ደስታዬ በላይ ካልከፍኩ ማለት የሚሆነው ነው።",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "ይጣበቅ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ምላሴ"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "ለአፌ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ማለት የሚሆነው ነው ካልዘኘሁህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "(ክሳት)"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "ካልዘኘሁህ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ማለት የሚሆነው ነው ካልከፍኩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "(ክሳት)"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ካልከፍኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሩሳሌምን"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሳሌምን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ከ… በላይ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "ደስታዬ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:03.477608207Z",
+  "model": "glm-5.3"
+}

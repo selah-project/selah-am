@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ዛባድም ⟨את⟩ ኤፍላልን ወለደ፤ ኤፍላልም ⟨את⟩ አውቤድን ወለደ።",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "ዛባድም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤፍላልን"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "ኤፍላል"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "ኤፍላልም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አውቤድን"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "አውቤድ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:33:02.635966653Z",
+  "model": "glm-5.3"
+}

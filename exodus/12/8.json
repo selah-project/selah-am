@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ሥጋውንም ⟨את⟩ በዚህ ምሽት በእሳት የተጠበሰ በአትክልት ዳቦና በአስማሚዎች ላይ ይበሉታል።",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ይበሉታል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሥጋውን"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ሥጋውን"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "በምሽት"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "የተጠበሰ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "በእሳት"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "አትክልት ዳቦና"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "አስማሚዎች"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ይበሉታል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:12:52.902689017Z",
+  "model": "glm-5.3"
+}

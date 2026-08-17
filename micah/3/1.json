@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እኔም እንዲህ አልሁ፣ አሁን ስሙ፣ የያዕቆብ አለቆች እና የእስራኤል ቤት ኳስቢዎች፣ ፍርድን ⟨את⟩ ማወቅ ለእናንተ አይደለም እንዴ?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "እኔም እንዲህ አልሁ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "አለቆች"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "የያዕቆብ"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "እና ኳስቢዎች"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "አይደለም እንዴ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለእናንተ"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ማወቅ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍርድን"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ፍርድን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:12:05.378039708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "job 7:7",
+  "book": "job",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "አስታውስ ነፍስ ሕይወቶ ⟨ናትእለች⟩፤ ዓይኔ ደግሞ መልሶ መልካም አያይም።",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "አስታውስ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ሕይወቶ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ትመለሳለች"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኔ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ለማየት"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:42:24.081141018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "በምድርህ የሚያሳዳጅ ወይም የማይወልድ የሚኖር የለም፤ የቀኖችህን ቁጥር ⟨את⟩ እሞላለሁ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይሆንም"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ይኖራል"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "የሚያሳዳጅ"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "የማይወልድ"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "በምድርህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የቀኖችህን ቁጥር"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ቁጥር"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "የቀኖችህ"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "እሞላለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:21:56.085365973Z",
+  "model": "glm-5.3"
+}

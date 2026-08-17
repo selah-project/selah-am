@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ሁሉን ምስጌስህን የውጭዮን ሴት በሮች እንዳስተላልፍ፣ በመዳናትህ እደሰታለሁ።",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "እንዳለ"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "እነግራለሁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "ምስጌስህን"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "በ…በሮች"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ውጭዮን"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "እደሰታለሁ"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "በመዳናትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:37.084542120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 2:13",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "በዚህም ልጃገረዋ ወደ ⟨ንጉሡ⟩ በምትገባ ጊዜ ⟨את⟩ የምትለውን ሁሉ ከሴቶች ቤት እስከ ንጉሡ ቤት እርሷ ጋር እንድትገባ ይሰጣታል።",
+  "tokens": [
+    {
+      "surface": "ובזה",
+      "gloss": "በዚህም"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "ልጃገረዋዋ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ትገባ ነበር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምትለውን"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ትለዋለች"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "ይሰጣል"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ላት"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "እንድትገባ"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ከእርሷ ጋር"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ከቤት"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "የሴቶች"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:22:05.784097182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "የጋሻዎቹ አለቃ ሰራያን ካህኑን ራስቀውን ⟨את⟩ ወሰደ፣ እና የሁለተኛውን ካህን ጸፋንያሁን ⟨את⟩፣ እና የበሩን ሦስት ጠባቂዎች ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ጋሻዎች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰራያን"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "ሰራያን"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ራስቀው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ጸፋንያሁን"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "ጸፋንያሁን"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ሁለተኛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሦስቱ ጠባቂዎች"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ጠባቂዎች"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "በሩ"
+    }
+  ],
+  "timestamp": "2026-08-17T07:46:37.135101901Z",
+  "model": "glm-5.3"
+}

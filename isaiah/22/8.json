@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "የይሁዳን ⟨את⟩ መሸፈኛ ገለጠ፤ በዚያም ቀን የጫካ ቤት ትጥቅ ⟨אל⟩ ተመለከትህ።",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "ገለጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የይሁዳን መሸፈኛ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "መሸፈኛ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "የይሁዳ"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "ተመለከትህ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በ…ቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ዚያ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "ትጥቅ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "היער",
+      "gloss": "ጫካ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:07:15.482773038Z",
+  "model": "glm-5.3"
+}

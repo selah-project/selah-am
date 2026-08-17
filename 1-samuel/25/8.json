@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 25:8",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ወጣቶችህን ⟨את⟩ ጠይቅ፤ ለአንተም ይነግሩሃል፤ ወጣቶቹም በዓይኖችህ ፀጋ ያገኛሉ፤ በመልካም ቀን ስለ መጣን፣ እጅህ የሚያገኘውን ⟨את⟩ ለአገልጋዮችህና ለልጅህ ለዳዊስ እባክህ ስጥ።",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "ጠይቅ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወጣቶችህን"
+    },
+    {
+      "surface": "נעריך",
+      "gloss": "ወጣቶችህን"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ይነግሩሃል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተም"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ያገኛሉ"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "ወጣቶቹም"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ፀጋ"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "በዓይኖችህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "መጣን"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ስጥ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሚያገኘውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ሚያገኘውን"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህ"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "ለአገልጋዮችህ"
+    },
+    {
+      "surface": "ולבנך",
+      "gloss": "ለልጅህም"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊስ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:46:42.483831287Z",
+  "model": "glm-5.3"
+}

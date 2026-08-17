@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "በጎነትን፣ ማስተዋልንና እውቀትን አስተምረኝ፤ በትእዛዞችህ አመንኩና እንጂ።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "በጎነትን"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "ማስተዋልን"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "እውቀትንና"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "አስተምረኝ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንጂ\/ምክንያቱም"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "በትእዛዞችህ"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "አመንኩና"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:10.498939243Z",
+  "model": "glm-5.3"
+}

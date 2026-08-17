@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ለምጽራይም እጅ ሰጠን፤ ለአሽርም ሆንን፤ በዳቦ እንብላ ዘንድ።",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "ለምጽራይም"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ሰጠን"
+    },
+    {
+      "surface": "יד",
+      "gloss": "እጅ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ለአሽር"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "እንብላ ዘንድ \/ እንገለበጥ ዘንድ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "በዳቦ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:12:37.802000188Z",
+  "model": "glm-5.3"
+}

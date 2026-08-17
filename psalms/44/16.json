@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "ዅሉን ቀን ንቀቴ ፊቴ ፊት ነው፣ የፊቴም ውርደት ሸፈነችኝ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ዅሉን"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "ንቀቴ"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "ፊቴ ፊት"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "ውርደትም"
+    },
+    {
+      "surface": "פני",
+      "gloss": "የፊቴ"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "ሸፈነችኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:11.353140345Z",
+  "model": "glm-5.3"
+}

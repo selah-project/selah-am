@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 70,
+  "translation": "ኤሎሂም ሊያድነኝ፣ ያህዌህ ለመርዳቴ ይቆረጥ።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "ሊያድነኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ለመርዳቴ"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ይቆረጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:27.388395258Z",
+  "model": "glm-5.3"
+}

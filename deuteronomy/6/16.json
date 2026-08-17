@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እንደ ማሳ በሰተው እንዳሳናችሁ፣ ያህዌህ ኤሎሂምናችሁን ⟨את⟩ አትፈትኑ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አትፈትኑ"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "አትፈትኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ ኤሎሂምናችሁን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምናችሁ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "እንዳሳናችሁ"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "በማሳ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:35:54.073149567Z",
+  "model": "glm-5.3"
+}

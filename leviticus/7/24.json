@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የራሷ የሞተች እንስሳ ስብም እና በአውሬ የተቀጠፈ ስብም ለማንኛውም ሥራ ሊውል ይችላል፤ ነገር ግን እንድታትቡት አትብሉትም።",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "ስብም"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "የራሷ…የሞተች"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "ስብም"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "የተቀጠፈ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ሊውል ይችላል"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለማንኛውም"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ነገር ግን…ስለ መብላት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "ትብሉትም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:44:25.478730658Z",
+  "model": "glm-5.3"
+}

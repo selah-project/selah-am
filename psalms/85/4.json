@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 85,
+  "translation": "ቍጣህን በሙሉ አንሰብሃል፤ ከንዴትህ ወደኋላ ተመልሰሃል።",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "አንሰብሃል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "ቍጣህን"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "ተመልሰሃል"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "ከንዴት"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "የንዴትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:57:59.597825603Z",
+  "model": "glm-5.3"
+}

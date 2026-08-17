@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "ማን ሠራና አደረገ፣ ትውልዶችን ከመጀመሪያ የሚጠራ? እኔ፣ ያህዌህ፣ ቀዳማዊ ነኝ፤ ⟨את⟩ የመጨረሻዎቹን ደግሞ እኔ እኔ ነኝ።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "እና አደረገ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "የሚጠራ"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "ትውልዶችን"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "ከመጀመሪያ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "ቀዳማዊ ነኝ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የመጨረሻዎቹን"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "የመጨረሻዎች"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እኔ ነኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:19:39.396911786Z",
+  "model": "glm-5.3"
+}

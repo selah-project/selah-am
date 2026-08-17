@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ነገር ግን ሥጋ ከነፍሱ አንድላይ ከደሙ ጋር አትብሉ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ከነፍሱ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ደሙ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ብሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:33:27.670515019Z",
+  "model": "glm-5.3"
+}

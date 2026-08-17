@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የመግደል ጊዜ አለ፤ እና የመፈወስ ጊዜ አለ፤ የመፍታት ጊዜ አለ፤ እና የመገንባት ጊዜ አለ።",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "የመግደል"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "እና ጊዜ"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "የመፈወስ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "የመፍታት"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "እና ጊዜ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "የመገንባት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:13:46.029981128Z",
+  "model": "glm-5.3"
+}

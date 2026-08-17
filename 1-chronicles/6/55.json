@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 55,
+  "ref": "1-chronicles 6:55",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እና ከግማሽ የምንሻሴ ነገዥ ⟨את⟩ ዓነርን እና ⟨את⟩ መስኮቿን እና ⟨את⟩ ቢላምን እና ⟨את⟩ መስኮቿን — ለቀራቢዎቹ የቀሃት ልጆች ቤተሰብ።",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "እና ከግማሽ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ነገዥ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምንሻሴ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓነርን"
+    },
+    {
+      "surface": "ענר",
+      "gloss": "ዓነር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መስኮቿን"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "መስኮቿ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ቢላምን"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ቢላም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መስኮቿን"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "መስኮቿ"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "ለቤተሰብ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለልጆች"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ቀሃት"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "ቀራቢዎቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:40:56.153303741Z",
+  "model": "glm-5.3"
+}

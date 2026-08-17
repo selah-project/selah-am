@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እና ⟨את⟩ ፓትሩሲሞችን እና ⟨את⟩ ካስሉሂሞችን — ከእነርሱም መካከል ፍልስጤሞች ወጡ — እና ⟨את⟩ ካፍቶራውያንን (ወለደ)።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ፓትሩሲሞችን"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "ፓትሩሲሞችን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ካስሉሂሞችን"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "ካስሉሂሞችን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ከእነርሱም"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ወጡ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "መካከል"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤሞች"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ካፍቶራውያንን"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "ካፍቶራውያንን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:30:44.330032418Z",
+  "model": "glm-5.3"
+}

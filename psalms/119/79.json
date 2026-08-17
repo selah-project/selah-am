@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "የሚያከብሩህ ወደ እኔ ይመለሱ፣ የምስክሮችህንም ያውቃሉ።",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ይመለሱ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "የሚያከብሩህ"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ያውቃሉም"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ምስክሮችህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:34.068219974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ለሁሉም ፍጻሜ አይቼያለሁ፤ ትእዛዝህ ግን እጅግ ሰፊ ናት።",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "ፍጻሜ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "አይቴያለሁ"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "መጨረሻ"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ሰፊ ናት"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "ትእዛዝህ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "እጅግ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:13.581110070Z",
+  "model": "glm-5.3"
+}

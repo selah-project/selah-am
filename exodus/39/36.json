@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.3",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "⟨את⟩ ማስቀመጫውን፣ ⟨את⟩ ሁሉን ዕቃዎቹን እና ⟨את⟩ የፊት እንጀራ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማስቀመጫውን"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ማስቀመጫውን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ዕቃዎቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "እንጀራውን"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እንጀራውን"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "የፊት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:39:46.398274163Z",
+  "model": "glm-5.3"
+}

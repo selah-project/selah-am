@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሞሼና አሃሮንም በፈርዖን ፊት ⟨את⟩ እነዚህን ተአምራት ሁሉ አደረጉ፤ ያህዌህም ⟨את⟩ የፈርዖንን ልብ አጠነከረ፤ ⟨את⟩ የእስራኤልን ልጆችም ከምድሩ አላሰደዳቸውም።",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "ሞሼና"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "አሃሮንም"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "አደረጉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እነዚህን ተአምራት ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "ተአምራትን"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ…ፊት"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "አጠነከረም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የፈርዖንን ልብ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "የፈርዖን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አላ…ም"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "አሰደደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእስራኤልን ልጆች"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆችን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ከምድሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:10:19.266546128Z",
+  "model": "glm-5.3"
+}

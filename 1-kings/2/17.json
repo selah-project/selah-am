@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "1-kings 2:17",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እርሱም አለ፦ እባክሽ ለሰሎሞን ንጉሡ ተናገሪ፣ በእርግጥ ፊትሽን ⟨את⟩ አይመልስም፤ እርሱም አቢሳግን ⟨את⟩ ሹናሚቷን ሚስት እንድሆኘኝ ይስገኝ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ተናገሪ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክሽ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ለሰሎሞን"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእርግጥ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ይመልስም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊትሽን"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትሽን"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ይስገኝ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አቢሳግን"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "አቢሳግን"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "ሹናሚቷን"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ሚስት እንድሆኘኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:15:38.649362971Z",
+  "model": "glm-5.3"
+}

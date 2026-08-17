@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እንደ ከርከሚሽ ካልኖ አይደለችም? ወይስ እንደ አርፓድ ሐማት አይደለችም? ወይስ እንደ ደማስቆ ሹምሮን አይደለችም?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "አይደለችም?"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "እንደ ከርከሚሽ"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "ካልኖ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ወይስ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለችም"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "እንደ አርፓድ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ሐማት"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ወይስ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለችም"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "እንደ ደማስቆ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ሹምሮን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:02:15.310063961Z",
+  "model": "glm-5.3"
+}

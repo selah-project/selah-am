@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ያንቀጠቅጣል፣ ያወርዳል፤ ድካሞች በኃይሉ ይወድቃሉ።",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "ያንቀጠቅጣል"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "ያወርዳል"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ይወድቃሉ"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "በኃይሉ"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "ድካሞች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:25.574314899Z",
+  "model": "glm-5.3"
+}

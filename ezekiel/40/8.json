@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "የበሩን እርጅና ከቤቱ ⟨את⟩ አንድ ዘንበቍ ወሰደ።",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እርጅናውን"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "እርጅና"
+    },
+    {
+      "surface": "השער",
+      "gloss": "የበሩ"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "ከቤቱ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ዘንበቍ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:50:01.299057976Z",
+  "model": "glm-5.3"
+}

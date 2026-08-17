@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "micah 7:13",
+  "book": "micah",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ምድርም በነዋሪዎቿ ምክንያት፣ ከሥራቸው ፍሬ የተነሣ ለበረሃ ትሆናለች።",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ትሆናለችም"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "ለበረሃ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ምክንያት"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "ነዋሪዎቿ"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ከ…ፍሬ"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ሥራቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:13:51.672929929Z",
+  "model": "glm-5.3"
+}

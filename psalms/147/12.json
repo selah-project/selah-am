@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 147,
+  "translation": "የሩሻላይም ሆይ፣ ያህዌህን ⟨את⟩ አክብሪ፤ ጽዮን ሆይ፣ ኤሎሂምህን አመስግኚ።",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "አክብሪ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "አመስግኚ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምህን"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:34.683159856Z",
+  "model": "glm-5.3"
+}

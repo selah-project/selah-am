@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 92,
+  "translation": "ያህዌህ በሥራህ አስደስተኛል፣ በእጆችህ ሥራዎች እዘምባለሁ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "አስደስተኛል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "በሥራህ"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "በሥራዎች"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "የእጆችህ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "እዘምባለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:39.174757091Z",
+  "model": "glm-5.3"
+}

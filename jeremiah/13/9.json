@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እንዲህ ብሏል ያህዌህ፦ እንደዚህ ታላቅ ኩራት የይሁዳን ⟨את⟩ ጎዳታለሁ፣ እና የኢየሩሳሌምን ታላቅ ኩራት ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ብሏል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ጎዳታለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩራት የይሁዳ"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ኩራት"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "የይሁዳ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ኩራት የኢየሩሳሌም"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ኩራት"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የኢየሩሳሌም"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "ታላቅ"
+    }
+  ],
+  "timestamp": "2026-08-17T07:56:49.043338362Z",
+  "model": "glm-5.3"
+}

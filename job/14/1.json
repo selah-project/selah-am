@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ሰው ከሴት የተወለደ የቀናት ቁጥሩ አጭር እና ከንዴት የተሞላ ነው።",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "የተወለደ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ከሴት"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "አጭር"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "የቀናት ቁጥሩ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "እና የተሞላ"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "ከንዴት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:46:32.203509103Z",
+  "model": "glm-5.3"
+}

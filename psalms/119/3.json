@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "አዎ፣ ክፉ ሥራ አልሠሩም፤ በመንገዶቹ ሄዱ።",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "አዎ፣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ሠሩ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ክፉ ሥራ"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "በመንገዶቹ"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ሄዱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:24.757450820Z",
+  "model": "glm-5.3"
+}

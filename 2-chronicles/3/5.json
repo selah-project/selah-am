@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እና ⟨את⟩ ቤቱን ዓዲሱን በኩፕረስ የዛፍ እንጨት ሸፈነ፤ በጥሩ ወርቅ ሰፈነው፤ በላዩ ላይም የዘንባባ ቅርጾችን እና ሰንሰለቶችን አሳደገ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ቤቱን ዓዲሱን"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤቱን"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ዓዲሱን"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "ሸፈነ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "እንጨት"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "የኩፕረስ ዛፎች"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "ሰፈነው"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቅ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጥሩ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "አሳደገ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በላዩ ላይ"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "የዘንባባ ቅርጾችን"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "እና ሰንሰለቶችን"
+    }
+  ],
+  "timestamp": "2026-08-16T13:30:56.426660027Z",
+  "model": "glm-5.3"
+}

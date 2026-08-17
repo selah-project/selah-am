@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ታጥቡ፤ ንጹህ ኹታችሁ፤ ክፉን ድርጊታችሁን ከዓይኖቼ ፊት አስወግዱ፤ ክፉ ማድረግን አቁ።",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "ታጥቡ"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "ንጹህ ኹታችሁ"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "አስወግዱ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉን"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "ድርጊታችሁን"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ከ…ፊት"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኖቼ"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "አቁ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ክፉ ማድረግን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:56:19.019635198Z",
+  "model": "glm-5.3"
+}

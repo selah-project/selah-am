@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "exodus 24:3",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ሞሼም መጥቶ ለሕዝቡ ⟨את⟩ የያህዌህን ቃላት ሁሉ እና ⟨את⟩ ፍርዶቹን ሁሉ አስረዘመ፤ ሕዝቡም ሁሉ በአንድ ድምፅ መልሶ እንዲህ አለ፦ ያህዌህ የተናገራቸው ቃላት ሁሉ እናደርጋለን።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጥቶ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "አስረዘመ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ለሕዝቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላት ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ፍርዶች ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ፍርዶቹ"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "መልሶ አለ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "እንዲህ አሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ያሉትን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "የተናገረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "እናደርጋለን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:22:49.436854203Z",
+  "model": "glm-5.3"
+}

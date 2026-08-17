@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 10:10",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "አሁን አውቁ፤ ያህዌህ በአኻብ ቤት ላይ የተናገረው ቃል ምድር ላይ አይወድቅም፤ ያህዌህም በአገልጋዩ በኤልያስ እጅ የተናገረውን ⟨את⟩ አደረገ።",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "አውቁ"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይወድቅም"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ይወድቃል"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ምድር ላይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የተናገረው"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "አኻብ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የተናገረውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ... ውን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረው"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በ... እጅ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "በአገልጋዩ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያስ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:42:41.429136383Z",
+  "model": "glm-5.3"
+}

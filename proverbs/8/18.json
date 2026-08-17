@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ሀብትና ክብር ከእኔ ጋር ⟨את⟩ ናቸው፤ የዘለዓለም ሀብትና ጽድቅም።",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ሀብት"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ክብርም"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ከእኔ ጋር ⟨את⟩",
+      "marks": "ሀብትና ክብር"
+    },
+    {
+      "surface": "הון",
+      "gloss": "የዘለዓለም ሀብት"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "የቆየ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ጽድቅም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:24:48.863943615Z",
+  "model": "glm-5.3"
+}

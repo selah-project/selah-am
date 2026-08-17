@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እርሷም «አብሻገ ⟨את⟩ ሰኑማዊቷ ለአዶናያሁ ወንድምህ እንደ ሚስት ትሰጥ» አለች።",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "አለችም"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ትሰጥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አብሻገ"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "አብሻገ"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "ሰኑማዊቷ"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "ለአዶናያሁ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ወንድምህ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "እንደ ሚስት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:14:56.938520222Z",
+  "model": "glm-5.3"
+}

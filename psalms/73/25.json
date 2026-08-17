@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "ማን አለኝ በሰማያት? ከአንተ ጋራ በምድር ማንንም አልፈልግም።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "አለኝ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "በሰማያት"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ከአንተ ጋራ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ፈልግም"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:05.004214652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ሣሩ ደርቋል፣ አበባው በጠፋዋል፤ የያህዌህ ነፍስ በእርሱ ላይ ስለ ነፈሰች፤ በእውነቱ ሕዝቡ ሣር ነው።",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "ደርቋል"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ሣሩ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "በጠፋዋል"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "አበባው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "ነፈሰች"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "በእውነቱ"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ሣር"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:20:47.489457525Z",
+  "model": "glm-5.3"
+}

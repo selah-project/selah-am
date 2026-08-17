@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ክብሩ አይደርጋችሁም ⟨ልዩነቱ⟩ ያስፈራችኋል? ስጋቱም ወደ እናንተ ይወድቃል።",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "አይደርጓችሁም"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "ክብሩ"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "ያስፈራችኋል"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "ስጋቱም"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ይወድቃል"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ወደ እናንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:45:06.413004739Z",
+  "model": "glm-5.3"
+}

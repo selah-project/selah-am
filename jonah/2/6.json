@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "jonah 2:6",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ውኃ እስከ ነፍሴ አክል ዘልቆኛል፤ በሮቅ ያክብተኛል፤ አልጋም በራሴ ተጠምጦአል።",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "ዘልቆኛል"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውኃ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "በሮቅ"
+    },
+    {
+      "surface": "יסבבני",
+      "gloss": "ያክብተኛል"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "አልጋ"
+    },
+    {
+      "surface": "חבוש",
+      "gloss": "ተጠምጦአል"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "በራሴ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:10:16.164510059Z",
+  "model": "glm-5.3"
+}

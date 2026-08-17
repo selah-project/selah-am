@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እንዲሁም ⟨את⟩ አሳሕቃውንና ⟨את⟩ እግሮቹን አጠበ፤ በመሠዊያው ላይ በሚቃጠለው መስዋዕት ላይ አጠፋ።",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "አጠበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አሳሕቃ"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "አሳሕቃ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እግሮች"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "እግሮች"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "አጠፋ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "የሚቃጠለው መስዋዕት"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "መሠዊዋ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:47:49.152370446Z",
+  "model": "glm-5.3"
+}

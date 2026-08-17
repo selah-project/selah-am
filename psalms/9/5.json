@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ምክንያቱም ፍርዴን እና ዳኜን አደረግህ፤ ጻድቅ ፈርጅ ሆነህ በዙፋን ተቀምጠህ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "አደረግህ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ፍርዴን"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "እና ዳኜን"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "ተቀምጠህ"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "በዙፋን"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "ፈርጅ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጻድቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:46.695495035Z",
+  "model": "glm-5.3"
+}

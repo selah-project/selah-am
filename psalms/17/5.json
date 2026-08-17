@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ደረጃዬ በአንተ መንገዶች ተያዘ፤ እግሮቼ ፈጽሞ አልንቀጠቀጡም።",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "ደረጃዬ ተያዘ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "የእኔ እርምጃዎች"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "በአንተ መንገዶች"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ፈጽሞ አል፤"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "አልንቀጠቀጡም"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "እግሮቼ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:25.597226778Z",
+  "model": "glm-5.3"
+}

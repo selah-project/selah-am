@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ሕዝቡም ሁሉ ⟨את⟩ ድምፆችን እና ⟨את⟩ መብራቶችን እና ⟨את⟩ የመለከቱን ድምፅ እና ⟨את⟩ ጢስ የሚያስወጣውን ተራራ አዩ፤ ሕዝቡም ባየ ጊዜ ተንቀጠቀጡ፣ ከሩቅም ቆሙ።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "አዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምፆችን"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "ድምፆችን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መብራቶችን"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "መብራቶችን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ድምፅ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "የመለከቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ተራራ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ጢስ የሚያስወጣ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ባየ ጊዜ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡም"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "ተንቀጠቀጡ"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ቆሙ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ከሩቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:18:29.692418943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 115,
+  "translation": "ሰማያቱ ሰማያት ለያህዌህ ⟨ናቸው⟩፤ ምድሪቱንም ለሰው ልጆች ሰጠ።",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያቱ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "እና ምድሪቱን"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለልጆች"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "የሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:25.870977073Z",
+  "model": "glm-5.3"
+}

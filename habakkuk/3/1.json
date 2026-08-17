@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የሕብቃቅ ነቢዩ ጸሎት በስግዮኖት ላይ።",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "ጸሎት"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "ለሕብቃቅ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነቢዩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "ስግዮኖት"
+    }
+  ],
+  "timestamp": "2026-08-16T18:08:51.029198442Z",
+  "model": "glm-5.3"
+}

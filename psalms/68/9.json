@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "ምድር ተንቀጠቀጠች፣ ደግሞም ሰማያት በኤሎሂም ፊት ጠጠሩ፤ ይህ ሲናይ በኤሎሂም ፊት ነው፣ በእስራኤል ኤሎሂም ፊት።",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "ተንቀጠቀጠች"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ደግሞም"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "ጠጠሩ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "በ…ፊት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ሲናይ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "በ…ፊት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:45.141021318Z",
+  "model": "glm-5.3"
+}

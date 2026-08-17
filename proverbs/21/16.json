@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "proverbs 21:16",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ሰው ከብልህነት መንገድ የሚተላለፍ በሬፋይም ቡሉብ ያርፋል።",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "የሚተላለፍ"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ከመንገድ"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "ብልህነት"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "በቡሉብ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ሬፋይም"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ያርፋል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:30:53.162830010Z",
+  "model": "glm-5.3"
+}

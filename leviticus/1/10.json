@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "መባቱም ከመንጋው ከበጎች ወይም ከፍየሎች ከሆነ ለበራሄ — ትክክለኛ ወንድ ያቀርባል።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ከሆነም"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "መንጋው"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "መባቱ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "በጎች"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ፍየሎች"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ለበራሄ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ወንድ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ትክክለኛ"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "ያቀርባል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:41:25.615676059Z",
+  "model": "glm-5.3"
+}

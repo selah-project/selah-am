@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "ecclesiastes 8:16",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ልቤን ለጥበብ ለማወቅና ⟨את⟩ በምድር ላይ የሚደረገውን ሥራ ⟨את⟩ ለማየት ስለሰጠሁ፣ ቀንም ሆነ ሌሊት በዓይኖቹ እንቅልፍ የማያይም አለ።",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ስለሰጠሁ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ሰጠሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልቤን"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤን"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ለማወቅ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "ולראות",
+      "gloss": "እና ለማየት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሥራ"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚደረገውን"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "የሚደረግ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ቀንም ሆነ"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "ሌሊት"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "እንቅልፍ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "በዓይኖቹ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ያያል"
+    }
+  ],
+  "timestamp": "2026-08-16T11:18:28.878357177Z",
+  "model": "glm-5.3"
+}

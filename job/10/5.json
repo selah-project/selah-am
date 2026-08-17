@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የአንተ ቀናት እንደ ሟች ቀናት ናቸውን? ወይስ ዓመታትህ እንደ የተጠናከረ ሰው ቀናት ናቸውን?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "እንደ ቀናት"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሟች"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "የአንተ ቀናት"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ወይስ"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "ዓመታትህ"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "እንደ ቀናት"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "የተጠናከረ ሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:45:03.843264363Z",
+  "model": "glm-5.3"
+}

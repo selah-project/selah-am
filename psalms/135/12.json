@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 135,
+  "translation": "እና ምድራቸውን ርስት አደረጋት፤ ርስት ለእስራኤል ሕዝቡ እንዲሆን።",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "እና አደረጋት"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ምድራቸዕን"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ርስት"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ርስት"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ለእስራኤል"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:20.250369276Z",
+  "model": "glm-5.3"
+}

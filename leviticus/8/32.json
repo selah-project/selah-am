@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "በሥጋውም በእንጀራውም የሚቀረውን በእሳት ታቃጥሉ።",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "የሚቀረውንም"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "በሥጋ"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "በእንጀራም"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "ታቃጥሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:52:39.849130217Z",
+  "model": "glm-5.3"
+}

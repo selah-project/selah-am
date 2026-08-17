@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 74,
+  "translation": "እርምጃዎችህን ወደ ዘላለማዊ ጥፋቶች አንሳ፤ ጠላት በቅዱስ ስፍራ ያደረገውን ሁሉ ክፉ አድርጓል።",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "አንሳ"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "እርምጃዎችህን"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "ወደ ጥፋቶች"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ዘላለማዊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ክፉ አድርጓል"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ጠላት"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "በቅዱስ ስፍራ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:48.769750826Z",
+  "model": "glm-5.3"
+}

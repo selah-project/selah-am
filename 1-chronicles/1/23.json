@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እና ⟨את⟩ ኡፊርን፣ እና ⟨את⟩ ኻቪላን፣ እና ⟨את⟩ ዮባብን፤ እነዚህ ሁሉ የዮቅጣን ልጆች ናቸው።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ኡፊርን"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ኡፊርን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ኻቪላን"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "ኻቪላን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዮባብን"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "ዮባብን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "ዮቅጣን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:28:45.837793076Z",
+  "model": "glm-5.3"
+}

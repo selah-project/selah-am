@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እናንተ ባትሰሙኝ፣ ⟨את⟩ ሁሉን የዚህን ትእዛዝ ባታደርጉም።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እናንተ ባትሰሙኝ ከሆነ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ትሰሙ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ኝ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ባታደርጉም"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ታደርጉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "የዚህን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:02:04.989981265Z",
+  "model": "glm-5.3"
+}

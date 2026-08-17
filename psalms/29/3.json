@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "የያህዌህ ድምፅ በታላቁ መስቀል ላይ ⟨ነው⟩፤ የክብር ኤል ነጎድ አስነጋው፤ ያህዌህ በብዙ ታላቅ መስቀል ላይ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "በታላቁ መስቀል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "የክብር"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ነጎድ አስነጋው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "መስቀል"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "በብዙ ታላቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:08.764051470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 103,
+  "translation": "እናንተ በመንግሥቱ ሁሉ በሚገኙ ቦታዎች ሁሉ የያህዌህ ሥራዎች ሁሉ ሆይ፣ ያህዌህን ባርኩ፤ ነፍሴ ሆይ፣ ⟨את⟩ ያህዌህን ባሪ።",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "ባርኩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ሥራዎቹ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በ…ሁሉ"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "ቦታዎች"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "መንግሥቱ"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "ባሪ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ ሆይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:45.467819064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "ስለ አንተ በሙሉ ቀን ተገደልን፤ ለመታረድ እንደ በጎች ተቈጠርን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ስለ አንተ"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "ተገደልን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "የቀን"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "ተቈጠርን"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "እንደ በጎች"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "ለመታረድ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:19.374208946Z",
+  "model": "glm-5.3"
+}

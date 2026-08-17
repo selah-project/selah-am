@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "እና ሰማያዊ፣ እና ወይንጠጅ፣ እና ቀይ ቀሚስ፣ እና ስስ በፍታ፣ እና የፍየል ፀጉር፤",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "እና ሰማያዊ"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "እና ወይንጠጅ"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "እና የትልቅ ቀይ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ቀሚስ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "እና ስስ በፍታ"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "እና የፍየል ፀጉር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:31:23.721662857Z",
+  "model": "glm-5.3"
+}

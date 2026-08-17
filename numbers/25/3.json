@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "numbers 25:3",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "እስራኤልም ከቤዕር ባዕል ጋር ተሳሰረ፤ ያህዌህም በእስራኤል በቀለ አደረ።",
+  "tokens": [
+    {
+      "surface": "ויצמד",
+      "gloss": "ተሳሰረ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልም"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ከባዕል"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "ቤዕር"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "በቀለ አደረ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ቍጣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "በእስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:23:36.718502256Z",
+  "model": "glm-5.3"
+}

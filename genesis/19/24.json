@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ያህዌህም በሰዶም እና በገሞራ ላይ ድኝ እና እሳት ⟨את⟩ ከያህዌህ ከሰማያት አዘነበረ።",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "አዘነበረ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "ሰዶም"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "ገሞራ"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "ድኝ"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "እና እሳት"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    }
+  ],
+  "timestamp": "2026-08-16T02:39:45.722684250Z",
+  "model": "glm-5.3"
+}

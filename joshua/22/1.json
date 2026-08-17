@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "joshua 22:1",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ከዚያ ጊዜ ኢያሱ ለሩቤናውያን እና ለጋድያውያን እና ለምናሴ ነገድ ለግማሹ አስጠላቸው።",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ከዚያ ጊዜ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "አስጠላቸው"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ኢያሱ"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "ለሩቤናውያን"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "እና ለጋድያውያን"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "እና ለግማሽ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ነገድ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሴ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:12:17.142995480Z",
+  "model": "glm-5.3"
+}

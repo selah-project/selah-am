@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ነገር ግን በንጹህ በጎረል ⟨את⟩ ምድሩ ትከፈላለች፤ እንደ ነገዶቻቸው ስም፣ የአባቶቻቸው፣ ይወርሳሉ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ነገር ግን\/አንድ ጊዜ ብቻ"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "በጎረል"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "ትከፈላለች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩ"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "እንደ ስም"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "ነገዶች"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "የአባቶቻቸው"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "ይወርሳሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:26:08.191357577Z",
+  "model": "glm-5.3"
+}

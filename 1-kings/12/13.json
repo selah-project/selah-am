@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ንጉሡም ሕዝቡን በከፋ መልሶ ⟨את⟩ የአዛውሮቹን ምክር የተወ፣ ያንን የመከሩትን ምክር ትቶ።",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መልሶ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "በከፋ"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "ትቶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የአዛውሮቹን ምክር"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "የ…ምክር"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "የአዛውሮቹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያንን"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "የመከሩትን"
+    }
+  ],
+  "timestamp": "2026-08-16T16:27:40.557790035Z",
+  "model": "glm-5.3"
+}

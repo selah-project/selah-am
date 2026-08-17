@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 4:3",
+  "book": "joel",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "በሕዝቤም ላይ ዕጣ ጥለዋል፤ ልጅን ለባሕቲቱ ሰጥተዋል፣ ሴት ልጅንም ለወይን ጠሩ ለውጡት፣ ጠጡም።",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ጥረዋል"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "ዕጣ"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ሰጥተዋል"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ልጅን"
+    },
+    {
+      "surface": "בזונה",
+      "gloss": "ለባሕቲቱ"
+    },
+    {
+      "surface": "והילדה",
+      "gloss": "ሴት ልጅንም"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "ለውጡት"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "ለወይን ጠሩ"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ጠጡም"
+    }
+  ],
+  "timestamp": "2026-08-16T18:04:11.660514974Z",
+  "model": "glm-5.3"
+}

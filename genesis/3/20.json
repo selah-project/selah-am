@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እና አዳም ሚሱን ሐዋን ብሎ ጠራት፤ ምክንያቱም እሷ የሁሉም ሕያው እናት ነበረች።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "እና ጠራ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "አዳም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሚሱን"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "ሐዋ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እሷ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነበረች"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እናት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "የሁሉም"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ሕያው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:30:37.038804861Z",
+  "model": "glm-5.3"
+}

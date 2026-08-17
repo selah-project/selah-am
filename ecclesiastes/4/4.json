@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እኔ ካለመከር በኋላ ከባድ ሉህን ⟨את⟩ ሁሉ እና ⟨את⟩ የሥራውን ሁሉ ስኬት አየሁ፤ የሰው በወዳጁ ላይ ቅናት ነው፤ ይህም ሁሉ ከንቱ እና የነፍስ ማሳከክ ነው።",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "አየሁ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከባድ ሉህን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ከባድ ሉህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስኬትን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "ስኬት"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "የሥራውን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እርሷ"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ቅናት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "የሰው"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "በወዳጁ ላይ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህም"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ከንቱ"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ማሳከክ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "የነፍስ\/የነፋስ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:15:05.219016886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "ጸጋዬን ከእርሱ አልወግድም፣ በታማኝነቴም አልያምንም።",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "ጸጋዬን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "ወግድም"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ከእርሱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "አያምንም"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "በታማኝነቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:14.358087446Z",
+  "model": "glm-5.3"
+}

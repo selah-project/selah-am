@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 39:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "ዮሴፍም በዐይኖቹ ፀጋ አገኘ፤ አገለገለውም ⟨את⟩፤ በቤቱም ላይ ሾመው፣ የነበረውንም ሁሉ በእጁ ሰጠ።",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "አገኘም"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ፀጋ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "በዐይኖቹ"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "አገለገለውም"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "ויפקדהו",
+      "gloss": "ሾመው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉንም"
+    },
+    {
+      "surface": "יש",
+      "gloss": "የነበረውን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "የርሱ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "በእጁ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:09:56.920720139Z",
+  "model": "glm-5.3"
+}

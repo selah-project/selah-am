@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ያህዌህም እንዲህ አለ፦ ⟨את⟩ ሰውን ከየምድር ፊት ላይ እነጥፋለሁ — ከሰው እስከ እንስሳ፣ እስከ ተንቀሳቃሽ ፍጡር እና እስከ የሰማያት ወፍ፤ እነርሱን እንደ ሠራኋቸው ተጸጸጥኋልና።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "እነጥፋለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰውን"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "ፈጠርኩ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከ… ላይ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ከሰው"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "እንስሳ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ተንቀሳቃሽ ፍጡር"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እና እስከ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ወፍ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "የሰማያት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "ተጸጸጥኋል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ሠራኋቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:31:45.717495773Z",
+  "model": "glm-5.3"
+}

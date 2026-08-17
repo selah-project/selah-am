@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ጉድጓድ የሚቆፍር በውስጡ ይወድቃል፣ እና አጥር የሚያፈርስ እባብ ይነክሰዋል።",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "የሚቆፍር"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "ጉድጓድን"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በውስጡ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ይወድቃል"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "እና የሚያፈርስ"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "አጥርን"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ይነክሰዋል"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "እባብ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:16:38.012297774Z",
+  "model": "glm-5.3"
+}

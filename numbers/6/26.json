@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ያህዌህ ፊቱን ወደ አንተ ያነሳል፣ እና ሰላም ይስጥልሃል።",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "ያነሳል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱን"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "እና ይስጥልሃል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:07:06.011303028Z",
+  "model": "glm-5.3"
+}

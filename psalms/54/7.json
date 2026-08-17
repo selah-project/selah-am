@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 54,
+  "translation": "ክፉው ወደ ጠላቶቼ ⟨ይመለሳል⟩፤ በእውነትህ አጥፋቸው።",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "ይመለሳል"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ክፉው"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "ወደ ጠላቶቼ"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "በእውነትህ"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "አጥፋቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:45:40.725628136Z",
+  "model": "glm-5.3"
+}

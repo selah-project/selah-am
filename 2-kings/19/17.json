@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "በእውነት ያህዌህ፣ የአሥር ነገሥታት ⟨את⟩ አሕዛንን እና ⟨את⟩ ምድራቸውን አጠፉ።",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "አጠፉ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "የአሥር ነገሥታት"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አሕዛንን"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "አሕዛንን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ምድራቸውን"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ምድራቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:52:29.039762848Z",
+  "model": "glm-5.3"
+}

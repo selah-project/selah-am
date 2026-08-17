@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እንዲሁም እስራኤልን ⟨את⟩ ሳስር ሃያ ሦስት ዓመት ፈረደ፤ ከዚያም ሞተ፣ በሻሚርም ተቀበረ።",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ፈረደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ሃያ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "እና ሦስት"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ተቀበረ"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "በሻሚር"
+    }
+  ],
+  "timestamp": "2026-08-16T05:22:55.229196584Z",
+  "model": "glm-5.3"
+}

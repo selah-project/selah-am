@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 136,
+  "translation": "እና ዖግን፣ የባሳንን ንጉሥ፤ በዘላለም ምሕረቱ ናት።",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "እና ዖግን፣"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "የባሳንን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በዘላለም ምሕረቱ ናት። እንደ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "በዘላለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ምሕረቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:12:06.793234339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ከእርሷም በኋላ ⟨את⟩ ማዓኻን — የአብስሎም ልጅ — ወሰደ፤ ስለዚህ ለርሱ ⟨את⟩ አቢያን፣ ⟨את⟩ ዓታይን፣ ⟨את⟩ ዚዛንና ⟨את⟩ ሰሎሚትን ወለደችለት።",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "ከእርሷ በኋላ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማዓኻን"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ማዓኻ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ልጅት"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "አብስሎም"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደችለት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለርሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አቢያን"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "አቢያ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓታይን"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "ዓታይ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዚዛን"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "ዚዛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሰሎሚትን"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "ሰሎሚት"
+    }
+  ],
+  "timestamp": "2026-08-16T13:38:59.889136665Z",
+  "model": "glm-5.3"
+}

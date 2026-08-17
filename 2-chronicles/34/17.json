@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 34:17",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "በያህዌህ ቤት ⟨የ⟩ተገኘውን ⟨את⟩ ብር አፍሰውት ለተመላከቾቹና ለሥራ አዛዦቹ እጅ ሰጡት።",
+  "tokens": [
+    {
+      "surface": "ויתיכו",
+      "gloss": "አፍሰውት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብር"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "የተገኘውን"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויתנוהו",
+      "gloss": "ሰጡት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "እጅ"
+    },
+    {
+      "surface": "המפקדים",
+      "gloss": "ለተመላከቾቹ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና ለ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "እጅ"
+    },
+    {
+      "surface": "עושי",
+      "gloss": "ለሥራ አዛዦቹ"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ሥራ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:56:40.419567570Z",
+  "model": "glm-5.3"
+}

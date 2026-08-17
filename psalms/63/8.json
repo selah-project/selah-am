@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 63,
+  "translation": "ረዳት ሆነሃልኝ እንጂ፤ በክንፎችህ ጥላ ሥር እዘምባለሁ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንጂ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ሆነሃል"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "ረዳት"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "በጥላ ሥር"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ክንፎችህ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "እዘምባለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:13.105642637Z",
+  "model": "glm-5.3"
+}

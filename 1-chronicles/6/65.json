@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ከጋድ ነገዥም ⟨את⟩ በጌልዓድ ያለችውን ራሞትን ከመስኮቿ ጋር፣ እና ⟨את⟩ መስኮቿን፣ እና ⟨את⟩ ማህናይምን ከመስኮቿ ጋር፣ እና ⟨את⟩ መስኮቿን።",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ከነገዥም"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራሞትን"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "ራሞትን"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "በጌልዓድ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መስኮቿን"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "መስኮቿን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ማህናይምን"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "ማህናይምን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መስኮቿን"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "መስኮቿን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:39:30.214760036Z",
+  "model": "glm-5.3"
+}

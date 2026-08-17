@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 17:6",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "የናስ ጠርሙስም (የእግር ጥበቃ) በእግሮቹ ላይ ነበረው፤ የናስ እርምጃም በትከሻዎቹ መካከል ነበረ።",
+  "tokens": [
+    {
+      "surface": "ומצחת",
+      "gloss": "የእግር ጥበቃም"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "የናስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "እግሮቹ ላይ"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "እርምጃም"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "የናስ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "כתפיו",
+      "gloss": "ትከሻዎቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:46:40.424090620Z",
+  "model": "glm-5.3"
+}

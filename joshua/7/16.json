@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ኢያሱም በማለዳ ቀድሞ ተነሥቶ ⟨את⟩ እስራኤልን በነገሥታቱ አቀረበ፤ የይሁዳም ነገሥት ተያዘ።",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ቀድሞ ተነሥቶ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ኢያሱ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "በማለዳ"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "አቀረበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "በነገሥታቱ"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ተያዘ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ነገሥት"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "የይሁዳም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:02:07.156075343Z",
+  "model": "glm-5.3"
+}

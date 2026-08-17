@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 50,
+  "translation": "ቅዱሳኔን ለውጁ እኔን ወደ እኔ ሰብስቡ፤ በመስዋዕት ላይ ኪዳኜን የተቋረጡትን።",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "ሰብስቡ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "እኔን"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "ቅዱሳኔን"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "የተቋረጡትን"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳኜን"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "በመስዋዕት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:35.137371323Z",
+  "model": "glm-5.3"
+}

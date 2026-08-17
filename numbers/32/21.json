@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "numbers 32:21",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ሁሉም የታጠቃችሁ ሰዎች እናንተ በያህዌህ ፊት ⟨את⟩ ዮርዳኖስን ትተልፋላችሁ፤ እርሱ ⟨את⟩ ጠላቶቹን ከፊቱ እስኪያባርካችሁ ድረስ።",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "ትተልፋላችሁ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "የታጠቃ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮርዳኖስን"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪ…ድረስ"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "እስኪያባርካችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጠላቶቹን"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ጠላቶቹን"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ከፊቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:28:34.841372061Z",
+  "model": "glm-5.3"
+}

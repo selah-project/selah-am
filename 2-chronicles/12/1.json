@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ሲሆን የረሐበዓም መንግሥት በተሠራጨች በእርሱም በተጠናከረ ጊዜ፣ እርሱ ⟨את⟩ የያህዌህን ሕግ ተወ፤ እና መላው እስራኤልም ከእርሱ ጋር።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሲሆን"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "በተሠራጨች ጊዜ"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "መንግሥት"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "የረሐበዓም"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "በእርሱም በተጠናከረ ጊዜ"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "ተወ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የያህዌህን ሕግ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ሕግ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና መላው"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልም"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T13:40:44.286657919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 149,
+  "translation": "እስራኤል በፈጣሪው ይደሰት፤ የጽዮን ልጆች በንጉሣቸው ይደሰቱ።",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ይደሰት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "በፈጣሪው"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "የጽዮን"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "ይደሰቱ"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "በንጉሣቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:31.180690781Z",
+  "model": "glm-5.3"
+}

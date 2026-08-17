@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "እርሱንም በንጹህ ወርቅ ከውስጥም ከውጭም አገለበጠው፤ ለእርሱም የወርቅ አክብብ ዙርያውን ሠራለት።",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "አገለበጠው፤"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቅ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ንጹህ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ከውስጥ"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "ከውጭም"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ሠራለት፤"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱም"
+    },
+    {
+      "surface": "זר",
+      "gloss": "አክብብ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "የወርቅ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ዙርያውን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:37:09.199072024Z",
+  "model": "glm-5.3"
+}

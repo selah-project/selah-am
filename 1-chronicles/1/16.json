@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እና ⟨את⟩ አርዋድዊውን፣ እና ⟨את⟩ ጽማርዊውን፣ እና ⟨את⟩ ኽማትዊውን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "አርዋድዊውን"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "አርዋድዊው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጽማርዊውን"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "ጽማርዊው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኽማትዊውን"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "ኽማትዊው"
+    }
+  ],
+  "timestamp": "2026-08-16T12:30:27.034231047Z",
+  "model": "glm-5.3"
+}

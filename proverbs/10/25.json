@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እንደ ሞገድ ሲያልፍ ክፉው ⟨አይኖርም⟩፤ ጻድቁ ግን የዘላለም መሠረት ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "እንደ ሲያልፍ"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "ሞገድ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "አይኖርም"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉው"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ጻድቁ ግን"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "መሠረት"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "የዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:25:10.239227771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "መጥፋትንና ⟨መንጻትን⟩ መለየን፣ የሚበላውንም ሕያው ፍጡርና የማይበላውንም ሕያው ፍጡር መካከል ልዩነት አድርጎ ማወቅ።",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "መለየን"
+    },
+    {
+      "surface": "בין",
+      "gloss": "መካከል"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "መጥፋትን"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እና"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "መንጻትን"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እና"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ሕያው ፍጡር"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "የሚበላውን"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እና"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ሕያው ፍጡር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ይበላም"
+    }
+  ],
+  "timestamp": "2026-08-16T14:45:34.927525821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ተነሣ፣ ሄደ፤ ይሆናታንም ወደ ⟨ተ⟩ከተማዋ ገባ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሣ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ይሆናታንም"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ገባ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:46:29.165967141Z",
+  "model": "glm-5.3"
+}

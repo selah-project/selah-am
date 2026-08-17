@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ያህዌህ በመከራ ቀን ይመልስህ፤ የያዕቆብ ኤሎሂም ስም ያንሰልስህ።",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "ይመልስህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በ…ቀን"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "መከራ"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "ያንሰልስህ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:07.073378897Z",
+  "model": "glm-5.3"
+}

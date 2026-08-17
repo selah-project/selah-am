@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ጥበበኛ የሆነ ድሃ ልጅ ከወደፊቱን ሊጠንቀቅ የማያውቅ ሸማ እና ስንብተኛ ንጉሥ ይሻላል።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ይሻላል"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "ድሃ"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ጥበበኛ"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "ከንጉሥ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ሸማ"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "እና ስንብተኛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "አውቅም"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "ሊጠንቀቅ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደግሞ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:13:47.186159397Z",
+  "model": "glm-5.3"
+}

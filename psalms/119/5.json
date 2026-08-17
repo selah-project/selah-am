@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "እንዴት ያረገዳል — መንገዶቼ ቢጸኑ፣ ዐዋጆችህን ለመጠበቅ የሚችሉ ቢሆኑ!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "እንዴት ያረገዳል"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "ቢጸኑ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "መንገዶቼ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ለመጠበቅ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ዐዋጆችህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:22.219276425Z",
+  "model": "glm-5.3"
+}

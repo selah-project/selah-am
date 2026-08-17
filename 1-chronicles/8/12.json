@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "የኤልፓልም ወንድ ልጆች ዔበር፣ ሚሻምና ሸመድ ናቸው፤ እርሱም ⟨את⟩ ኦኖን እና ⟨את⟩ ሎድን ከዚያም ከተሞቿን ሠራ።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "እና የ... ወንድ ልጆች"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "ኤልፓል"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ዔበር"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "እና ሚሻም"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "እና ሸመድ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኦኖን"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "ኦኖ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሎድን"
+    },
+    {
+      "surface": "לד",
+      "gloss": "ሎድ"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "እና ከተሞቿን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:41:54.066818272Z",
+  "model": "glm-5.3"
+}

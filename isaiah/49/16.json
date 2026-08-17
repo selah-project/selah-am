@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "እነሆ፣ በእጆቼ እጆች ላይ ቅረጽሃለሁ፤ በርሶችህ በዓይኔ ፊት ሁልጊዜ ናቸው።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "እነሆ፣"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "በእጆቼ እጆች"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "ቅረጽሃለሁ"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "በርሶችህ"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "በዓይኔ ፊት"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:24:40.808912562Z",
+  "model": "glm-5.3"
+}

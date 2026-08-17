@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 17:19",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ሴትዮም ወሰደች፤ መከለያውን ⟨את⟩ በጉድጓዱ ፊት ላይ አንጸባረቀች፤ በላዩም የተፈጨ እህል አንጸባረቀች፤ ነገሩም አልታወቀም።",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "ወሰደችም"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሴትዮ"
+    },
+    {
+      "surface": "ותפרש",
+      "gloss": "አንጸባረቀችም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መከለያውን"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "መከለያው"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "የጉድጓዱ"
+    },
+    {
+      "surface": "ותשטח",
+      "gloss": "አንጸባረቀችም"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በላዩ"
+    },
+    {
+      "surface": "הרפות",
+      "gloss": "የተፈጨ እህል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አልም"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "ታወቀም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ነገር"
+    }
+  ],
+  "timestamp": "2026-08-16T16:12:45.825185846Z",
+  "model": "glm-5.3"
+}

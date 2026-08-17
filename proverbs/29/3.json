@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "ጥበብን የሚወድ ሰው አባቱን ያስደስታል፤ ነገር ግን የድሀ አመጻደፊት አሳዳሪ ሀብትን ያጠፋል።",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "የሚወድ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብን"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ያስደስታል"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱን"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "አሳዳሪ"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "አመጻደፊት"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "ያጠፋል"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ሀብትን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:36:30.366044346Z",
+  "model": "glm-5.3"
+}

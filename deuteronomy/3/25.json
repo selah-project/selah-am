@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እንድልፍ እባክህ በቃል የዮርዳኖስ ማዶ ያለውን ⟨את⟩ መልካሙን ምድር እይቼ እለፋለሁ — ይህን መልካም ተራራና ሊባኖስንም።",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "እለፋለሁ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "እንድእይት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መልካሙን ምድር"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "መልካሟ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለውን"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "በማዶ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "እና ሊባኖስን"
+    }
+  ],
+  "timestamp": "2026-08-16T14:59:02.705487290Z",
+  "model": "glm-5.3"
+}

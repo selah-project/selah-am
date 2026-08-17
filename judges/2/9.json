@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "judges 2:9",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እነሱም እርሱን በወራሹ ድንበር ውስጥ በትምናት-ሐሬስ፣ በኤፍሬም ተራራ ላይ፣ ከጋዓሽ ተራራ ሰሜን አጠሙት።",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "አጠሙት"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "በድንበሩ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "የወራሹ"
+    },
+    {
+      "surface": "בתמנת",
+      "gloss": "በትምናት"
+    },
+    {
+      "surface": "חרס",
+      "gloss": "ሐሬስ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "በተራራ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍሬም"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ከሰሜን"
+    },
+    {
+      "surface": "להר",
+      "gloss": "የተራራ"
+    },
+    {
+      "surface": "געש",
+      "gloss": "ጋዓሽ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:13:19.513849059Z",
+  "model": "glm-5.3"
+}

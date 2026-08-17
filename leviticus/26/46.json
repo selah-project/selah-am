@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 46,
+  "ref": "leviticus 26:46",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እነዚህ ሥርዓቶች እና ፍርዶች እና ሕጌች — ያህዌህ በእርሱ እና በየእስራኤል ልጆች መካከል በሲናይ ተራራ በሞሼ እጅ የሰጣቸው ናቸው።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ሥርዓቶች"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "እና ፍርዶች"
+    },
+    {
+      "surface": "והתורת",
+      "gloss": "እና ሕጌች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "የሰጠ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "በእርሱ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እና በ... መካከል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "በተራራ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ሲናይ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጅ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:01:58.051604367Z",
+  "model": "glm-5.3"
+}

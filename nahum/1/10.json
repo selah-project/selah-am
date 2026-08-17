@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "በሾሎች እንደተቆላቆሉ፣ እና እንደ መጠጣቸው ሰክረው ሳሉ በደረቀ፣ ሙሉ በሆነ ተከላ ሁሉ ተበላቸዋል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ…ሁ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "ሾሎች"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "የተቆላቆሉ"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "እና እንደ መጠጣቸው"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "ሰክረው ሳሉ"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ተበላቸዋል"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "እንደ ተከላ"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "የደረቀ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ሙሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:13:52.116010284Z",
+  "model": "glm-5.3"
+}

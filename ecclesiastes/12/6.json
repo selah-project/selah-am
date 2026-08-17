@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "እስኪሆን ድረስ የብር ገመዱ አይተናበትም፣ የወርቅ እቃው አይሰባበርም፣ ኳስዋ በፈሳሽ አይሰባበርም፣ መሽኛውም ወደ ጉድጓዱ አይረገጥም —",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "እስኪሆን ድረስ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨እስኪሆን⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይከሰርም\/አይሆንም"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "አይተናበትም"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ገመዱ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "የብር"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "አይሰባበርም"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "እቃው"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "የወርቅ"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "አይሰባበርምም"
+    },
+    {
+      "surface": "כד",
+      "gloss": "ኳስዋ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "ፈሳሽ"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "አይረገጥምም"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "መሽኛው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "ጉድጓዱ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:18:37.015262563Z",
+  "model": "glm-5.3"
+}

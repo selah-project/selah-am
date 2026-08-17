@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "⟨את⟩ ሕዝቡንም እንዲህ ብለህ ታዘዛለህ፦ እናንተ በወንድሞቻችሁ በዔሳው ልጆች ድንበር ታልፋላችሁ፣ በሰዓር የሚኖሩት፤ እነርሱም ከእናንተ ይፈራሉ፤ እናንተም በጣም ተጠንቀቁ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "צו",
+      "gloss": "ታዘዛለህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብለህ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ታልፋላችሁ"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "በድንበር"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ወንድሞቻችሁ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዔሳው"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "የሚኖሩት"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "በሰዓር"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ይፈራሉ"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ከእናንተ"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "ተጠንቀቁ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:32:58.770053963Z",
+  "model": "glm-5.3"
+}

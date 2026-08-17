@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "ከሰዎት ልጆች በላይ ቆንጆ ነህ፤ ቸርነት በከንፈሮችህ ተቀድቷል፤ ስለዚህ ኤሎሂም ለዘላለም ባረክሃል።",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "ቆንጆ ነህ"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ከ…ልጆች"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰዎት"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "ተቀድቷል"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ቸርነት"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "በከንፈሮችህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለዚህ…"
+    },
+    {
+      "surface": "כן",
+      "gloss": "…ስለዚህ"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "ባረክሃል"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:17.057448381Z",
+  "model": "glm-5.3"
+}

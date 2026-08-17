@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 147,
+  "translation": "ሰማያትን በደመናዎች ⟨የሚሸፍን⟩፣ ለምድርም ዝናብን ⟨የሚያዘጋጅ⟩፣ በተራሮችም ሣርን ⟨የሚያበቅል⟩።",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "⟨የሚሸፍን⟩"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያትን"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "በደመናዎች"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "⟨የሚያዘጋጅ⟩"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ለምድርም"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ዝናብን"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "⟨የሚያበቅል⟩"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "በተራሮችም"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ሣርን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:41.099739755Z",
+  "model": "glm-5.3"
+}

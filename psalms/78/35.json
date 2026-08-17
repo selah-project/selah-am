@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "ኤሎሂም የነሐሳባቸው እንደሆነ አስታወሱ፤ የላዕሉቱ ኤልም መላጃቸው እንደሆነ።",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "አስታወሱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "የነሐሳባቸው"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኤልም"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "የላዕሉቱ"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "መላጃቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:50.279099892Z",
+  "model": "glm-5.3"
+}

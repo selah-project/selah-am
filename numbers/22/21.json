@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እና ቢልዓም በጠዋት ተነሣ እና ⟨את⟩ አህያውን አሰራ እና ከሞዓብ አለቃዎች ጋር ሄደ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሣ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ቢልዓም"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "በጠዋት"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "አሰራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አህያውን"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "አህያውን"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋር"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "አለቃዎች"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:21:26.584835712Z",
+  "model": "glm-5.3"
+}

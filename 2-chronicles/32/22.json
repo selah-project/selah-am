@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 32:22",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ያህዌህ ይጽሐቅን ⟨את⟩ እና የይሩሳላይምን ነዋሪዎች ⟨את⟩ ከአሦር ንጉሥ ከሳንሄሪብ እጅ እና ከሁሉም እጅ አዳነ፤ በዙሪያቸውም መራቸው።",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "አዳነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይጽሐቅን"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "ይጽሐቅ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የይሩሳላይምን ነዋሪዎች"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ነዋሪዎች"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ይሩሳላይም"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "ሳንሄሪብ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "አሦር"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "እና ከእጅ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "וינהלם",
+      "gloss": "መራቸው"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "በዙሪያቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T20:50:20.999756282Z",
+  "model": "glm-5.3"
+}

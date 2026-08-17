@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "የሆሮም በአባቱ መንግሥት ላይ ተነሠ፣ አጠናከረም፣ እንዲሁም ⟨את⟩ የሁሉን ወንድሞቹን በሰይፍ ገደለ፤ እንዲሁም ከእስራኤል አለቆችም ገደለ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሠ"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "የሆሮም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "መንግሥት"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "አጠናከረ"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ገደለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሁሉን ወንድሞቹን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሞቹን"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "በሰይፍ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "አለቆችን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T13:57:49.061580401Z",
+  "model": "glm-5.3"
+}

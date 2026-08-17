@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እና ስለዚህ ⟨את⟩ የደቡቤን ዘር እወቅሳለሁ፣ ግን ሁሉን የቀናት ⟨አይደለም⟩።",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "እወቅሳለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዘርን"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘርን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "የደቡቤ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ግን ብቻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "የቀናት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:25:42.367095845Z",
+  "model": "glm-5.3"
+}

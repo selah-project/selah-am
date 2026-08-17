@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 4:1",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የሳኦል ልጅ አብነር በኬብሮን ስለ ሞተ ሰምቶ እጆቹ ደክሙ፤ መላው እስራኤልም ተደነገጠ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምቶ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "አብነር"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "በኬብሮን"
+    },
+    {
+      "surface": "וירפו",
+      "gloss": "ደክሙ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "እጆቹ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና መላው"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ተደነገጠ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:01:29.776903424Z",
+  "model": "glm-5.3"
+}

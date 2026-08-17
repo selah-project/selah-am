@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "በመስክ ውስጥ ሞሼን በሚኾን ለአሃሮንም ያህወህ ቅዱስ በሚኾን ተቀኙ።",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "ተቀኙ"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ሞሼን በሚኾን"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "በመስክ ውስጥ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ለአሃሮንም በሚኾን"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህወህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:29.954455960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 108,
+  "translation": "ኤሎሂም በቅድስናው ተናገረ፤ እደማለሳለሁ፣ ሸኬምን እከፋፈላለሁ እና የሱኮትን ሸለቆ አሸምዳለሁ።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "በቅድስናው"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "እደማለሳለሁ"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "እከፋፈላለሁ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ሸኬምን"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "እና የ…ሸለቆ"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "ሱኮት"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "አሸምዳለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:25.571250672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ሁለት ክሩቦችንም ከወርቅ አደረገ፤ በመደባት ሥራ አደረጋቸው፤ በማንጠልጠያው ሁለቱም ጫፎች ላይ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "ክሩቦችን"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ከወርቅ"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "በመደባት ሥራ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረጋቸው"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ክሩቦችን"
+    },
+    {
+      "surface": "משני",
+      "gloss": "በሁለቱም"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ጫፎች"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "የማንጠልጠያው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:36:08.490047265Z",
+  "model": "glm-5.3"
+}

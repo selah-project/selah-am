@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "እናንተም የያህዌህን ቃል ስሙ — እኔ የላኳችሁ ሁሉ ከኢየሩሳሌም ወደ ባቢሎን የተሰደዳችሁ ሁሉ።",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "እናንተም"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "የተሰደዳችሁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ያላኳችሁ"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "ከኢየሩሳሌም"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ወደ ባቢሎን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:58:07.545478709Z",
+  "model": "glm-5.3"
+}

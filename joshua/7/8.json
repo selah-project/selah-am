@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 7:8",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እባክህ አዶናይ፣ እስራኤል ከጠላቶቹ ፊት ጀርባውን ካዘነበበ በኋላ ምን እላለሁ?",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "እላለሁ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ… በኋላ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ካዘነበበ"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "አዘነበ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ጀርባውን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ከጠላቶቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:21:08.197559225Z",
+  "model": "glm-5.3"
+}

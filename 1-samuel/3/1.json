@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እና ልጁ ስሙኤል ያህዌህን ⟨את⟩ በኤሊ ፊት ያገለግል ነበር፤ የያህዌህ ቃልም በዚያን ዕለታት ዥቅ ነበር፤ ራእይ የሚበርክ የለም።",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "እና ልጁ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ስሙኤል"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "ያገለግል ነበር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኤሊ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "እና የ…ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበር"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ዥቅ"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "በዕለታት"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "እነዚያ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "ራእይ"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "የሚበርክ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:32:17.702390543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ቁጭትን ከልብህ አስወግድ፣ ክፉንም ከሥጋህ አስውጣ፤ ብልጽግናውና ጥቁር ጸጉሩ ከንቱ ናቸውና።",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "አስወግድ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ቁጭትን"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "ከልብህ"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "አስውጣ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉን"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "ከሥጋህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ብለው"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "ብልጽግናውና"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "ጥቁር ጸጉሩ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ከንቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:32:10.851212609Z",
+  "model": "glm-5.3"
+}

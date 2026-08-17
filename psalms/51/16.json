@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "ከደም አድነኝ ኤሎሂም፤ የመዳኔ ኤሎሂም፤ ምላሴም ጽድቅህን ይዘምራል።",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "አድነኝ"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "ከደም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "የ…ኤሎሂም"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "መዳኔ"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "ይዘምራል"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ምላሴም"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ጽድቅህን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:45:51.062395951Z",
+  "model": "glm-5.3"
+}

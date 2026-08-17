@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ስታልፍ እርምጃህ አይጥበብም፤ ብትሮጥም አትሰናከልም።",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "ስታልፍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "አይጥበብም"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "እርምጃህ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ብትሮጥም"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "ብትሮጥ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አ...ም"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "አትሰናከልም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:20:44.896423409Z",
+  "model": "glm-5.3"
+}

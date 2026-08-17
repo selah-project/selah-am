@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "በጣም ጻድቅ አትሁን፤ እጅግም አትጥበብ፤ ለምን ትጠፋለህ?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "እን"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቅ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "አት…ም"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "አትጥበብ"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "እጅግ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "ትጠፋለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:15:59.293047861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "እና ⟨את⟩ መወጠጫውን እና ⟨את⟩ ሁሉን ዕቃዎቹን እና ⟨את⟩ መብራቱን እና ⟨את⟩ ዕቃዎቹን እና ⟨את⟩ የዕጣን መሠዊያውን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መወጠጫውን"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "መወጠጫው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ዕቃዎቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መብራቱን"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "መብራቱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዕቃዎቹን"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ዕቃዎቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መሠዊያውን"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠዊያውን"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "የዕጣን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:28:14.209314073Z",
+  "model": "glm-5.3"
+}

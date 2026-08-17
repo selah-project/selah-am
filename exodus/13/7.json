@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "የቆሎ ዳቦ ሰባቱን ቀናት ⟨ይበላል⟩⟨את⟩ ፤ እና የተቦካ ዳቦ አይታይልህም፣ እና እርሾ በምላሾችህ ሁሉ አይታይልህም።",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "የቆሎ ዳቦ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበላል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰባቱን ቀናት"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሰባቱን"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይታይልህም"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ይታያል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "የተቦካ ዳቦ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይታይልህም"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ይታያል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "እርሾ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉ"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "በድንበሮችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:41:23.210852995Z",
+  "model": "glm-5.3"
+}

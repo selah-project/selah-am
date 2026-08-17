@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "በርስትህ በሮች ወደ ⟨እርሱ⟩ ያንን ሰው ወይም ያንችን ሴት ታወጣለህ፣ ይህን ክፉ ነገር ያደረገውን ⟨את⟩ ሰው ወይም ሴት — እነሱን ⟨את⟩ በድንጋዮች ትወገራቸዋለህ፣ እነሱም ይሞታሉ።",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "ታወጣለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰው"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያንን"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሴት"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያንችን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ያደረገው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነገር"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "በርስትህ በሮች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰው"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሴት"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "በድንጋዮች ትወገራቸዋለህ"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "በድንጋዮች"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ይሞታሉ"
+    }
+  ],
+  "timestamp": "2026-08-17T06:22:37.352213807Z",
+  "model": "glm-5.3"
+}

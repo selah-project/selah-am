@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "እነሆ አለቆቹ በጾዓን ነበሩ፤ መልእክተኞቹም ወደ ሐኔስ ደርሰዋል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እነሆ እንኳ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ነበሩ"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "በጾዓን"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "አለቆቹ"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "መልእክተኞቹም"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "ወደ ሐኔስ"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "ደርሰዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:14:36.193916617Z",
+  "model": "glm-5.3"
+}

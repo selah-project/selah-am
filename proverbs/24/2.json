@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ምክንያቱም ውድመት ልባቸው ያሰባል፤ እና መከራ ከንፈሮቻቸው ይናገራሉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ውድመት"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ያሰባል"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ልባቸው"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "እና መከራ"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "ከንፈሮቻቸው"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "ይናገራሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:34:41.878553962Z",
+  "model": "glm-5.3"
+}

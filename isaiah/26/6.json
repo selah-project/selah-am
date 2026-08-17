@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እግር ታረምሳታል፤ የደሃው እጆች የድሆች እርምጃዎች።",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "ታረምሳታል"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "እግር"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "እጆች"
+    },
+    {
+      "surface": "עני",
+      "gloss": "የደሃው"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "እርምጃዎች"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "የድሆች"
+    }
+  ],
+  "timestamp": "2026-08-16T07:09:31.952349876Z",
+  "model": "glm-5.3"
+}

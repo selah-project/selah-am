@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "joshua 2:3",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የኢያሪሆ ንጉሥ ወደ ራሐብ ላከ እንዲህ እያለ፤ «ወደ አንቺ የመጡትን ሰዎች፣ ወደ ቤትሽ የገቡትን አውጣ፤ በእውነት ⟨את⟩ ሙሉ ምድሩን ለመቆፈር ብለው መጥተዋልና።»",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "የንጉሥ"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "ኢያሪሆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ራሐብ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እያለ"
+    },
+    {
+      "surface": "הוציאי",
+      "gloss": "አውጣ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ሰዎችን"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "የመጡትን"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንቺ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ገቡትን"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "ወደ ቤትሽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "ለመቆፈር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሙሉ ምድሩን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሙሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩን"
+    },
+    {
+      "surface": "באו",
+      "gloss": "መጥተዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:59:46.073081407Z",
+  "model": "glm-5.3"
+}

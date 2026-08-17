@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ገንዘብ ብትበደሩ ⟨את⟩ ሕዝቤን፣ ⟨את⟩ ከአንተ ጋር ያለውን ድሃ፣ እንደ ባለዕዳ አትሆንለትም፤ ወለድም አትቀምጡበትም።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ገንዘብ"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "ብትበደሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቤን"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድሃውን"
+    },
+    {
+      "surface": "העני",
+      "gloss": "ድሃውን"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር ያለውን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት…ም"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ትሆንለት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "እንደ ባለዕዳ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት…ም"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "ታቀምጡበታል"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ወለድ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:20:39.098122292Z",
+  "model": "glm-5.3"
+}

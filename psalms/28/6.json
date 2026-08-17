@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "የተባረከ ያህዌህ፣ ምክንያቱም የልመናዬን ድምፅ ሰማ።",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "የተባረክ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅን"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ልመናዬን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:08:15.776020717Z",
+  "model": "glm-5.3"
+}

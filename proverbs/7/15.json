@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "proverbs 7:15",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ስለዚህ ለመገኘትህ ወጥቼ ፊትህን እፈልግ ነበር፣ አግኝቼሃለሁ።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "ወጥቼ"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "ለመገኘትህ"
+    },
+    {
+      "surface": "לשחר",
+      "gloss": "እፈልግ ነበር"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህን"
+    },
+    {
+      "surface": "ואמצאך",
+      "gloss": "አግኝቼሃለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:23:42.010643792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ያህዌህም ሞሼን እንዲህ አለው፤ አንድ አለቅ በአንድ ቀን፣ አንድ አለቅ በአንድ ቀን፣ ⟨את⟩ መሥዋዕታቸውን ለመሠዊያው መቀደስ ያቀርባሉ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ... ወደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "አለቅ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "በአንድ ቀን"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "አለቅ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "በአንድ ቀን"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ያቀርባሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሥዋዕታቸውን"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "መሥዋዕታቸውን"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "ለ... መቀደስ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    }
+  ],
+  "timestamp": "2026-08-16T04:09:52.245866833Z",
+  "model": "glm-5.3"
+}

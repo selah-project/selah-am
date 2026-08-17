@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "isaiah 37:7",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "እነሆ፣ እኔ በእርሱ ውስጥ መንፈስ አኖረዋለሁ፤ ወሬንም ይሰማል፤ ወደ ምድሩም ይመለሳል፤ በምድሩም በሰይፍ እኔ አስወድቀዋለሁ።",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "እነሆ እኔ"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "አኖረዋለሁ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ይሰማልም"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "ወሬን"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ይመለሳልም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ምድሩ"
+    },
+    {
+      "surface": "והפלתיו",
+      "gloss": "አስወድቀዋለሁም"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "በሰይፍ"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "በምድሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:18:02.813517957Z",
+  "model": "glm-5.3"
+}

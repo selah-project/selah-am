@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ከሆነ አባቷ እሷን ለእርሱ ለመስጠት በጭራሽ ቢቃወም፣ በቄላልቶች ሙህር መጠን ብር ይመዝናል።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "በጭራሽ"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "ቢቃወም"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "አባቷ"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "እሷን ለመስጠት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "ይመዝናል"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "በሙህር መጠን"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "የቄላልቶች"
+    }
+  ],
+  "timestamp": "2026-08-16T03:21:55.012930260Z",
+  "model": "glm-5.3"
+}

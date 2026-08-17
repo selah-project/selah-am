@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ከወይኑም ጠጣ፣ ሰከረም፤ በድንኳኑም መካከል ተገለጠ።",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "ጠጣ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ወይኑ"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "ሰከረ"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "ተገለጠ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "ድንኳኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:30:47.923191212Z",
+  "model": "glm-5.3"
+}

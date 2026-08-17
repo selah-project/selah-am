@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ዓውቤድም ⟨את⟩ ይሴይን ወለደ፤ ይሴይም ⟨את⟩ ዳዊትን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "ዓውቤድም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይሴይን"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ይሴይን"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "ይሴይም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊትን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:05:23.634858422Z",
+  "model": "glm-5.3"
+}

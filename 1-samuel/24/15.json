@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "1-samuel 24:15",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "የእስራኤል ንጉሥ ከማን በኋላ ወጥቷል? አንተ ከማን በኋላ ታሳድዳለህ? ከሞተ ውሻ በኋላ፣ ከአንድ ጥንጭር በኋላ።",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "ከ… በኋላ (ከማን)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ወጥቷል"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ… በኋላ (ከማን)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ታሳድዳለህ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ… በኋላ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ውሻ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ… በኋላ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ጥንጭር"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:46:53.357386276Z",
+  "model": "glm-5.3"
+}

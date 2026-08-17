@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እና የጽዮን ልጅ በወይን እርሻ እንደ ዳስ ቀርቻለች፤ በአተሮ እርሻ እንደ መኝታ ሳት፣ እንደ ታቀፈች ከተማ ውስጥ ቀርቻለች።",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "እና ቀርቻለች"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "የጽዮን"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "እንደ ዳስ"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "በወይን እርሻ"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "እንደ መኝታ ሳት"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "በአተሮ እርሻ"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "እንደ ከተማ"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "ታቀፈች"
+    }
+  ],
+  "timestamp": "2026-08-16T16:54:44.249236085Z",
+  "model": "glm-5.3"
+}

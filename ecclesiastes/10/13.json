@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "ecclesiastes 10:13",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የአፉ ቃላት መጀመሪያ ሞኝነት ⟨ነው⟩፤ እና የአፉ መጨረሻ ክፉ ደንታ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "መጀመሪያ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "የአፉ"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "ሞኝነት"
+    },
+    {
+      "surface": "ואחרית",
+      "gloss": "እና መጨረሻ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "የአፉ"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "ደንታ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:16:30.885888073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 95,
+  "translation": "ኑ ለያህዌህ እንሮጭ፤ ለየድነታችን እረት እንጮኽ።",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ኑ"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "እንሮጭ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "እንጮኽ"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ለእረት"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "የየድነታችን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:22.393422820Z",
+  "model": "glm-5.3"
+}

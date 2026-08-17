@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 96,
+  "translation": "እንደፈለገ ያህዌህ ታላቅ ነው፤ በጣም የሚመሰገን ነው፤ ከአማልክት ሁሉ በላይ የሚፈራ ነው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደፈለገ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "የሚመሰገን"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "የሚፈራ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ነው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ከአማልክት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:39.890281324Z",
+  "model": "glm-5.3"
+}

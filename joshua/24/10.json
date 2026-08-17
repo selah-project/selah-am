@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ነገር ግን በልዓምን ልስማ አልፈልግም ነበር፤ እርሱ ደግሞ ባረከ በረከተ እናንተን ⟨את⟩፣ እኔም እናንተን ⟨את⟩ ከእጁ አድናችሁ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ነገር ግን…አል…ም"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "ፈልግም ነበር"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ልስማ"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "በልዓምን"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ባረከ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "በረከተ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "አድናችሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "ከእጁ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:13:10.957175868Z",
+  "model": "glm-5.3"
+}

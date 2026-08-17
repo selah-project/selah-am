@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 102,
+  "translation": "ምክንያቱም አመድን እንደ እንጀራ በላሁ፤ መጠጬንም በእንባ ቀላብቻለሁ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "አመድን"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "እንደ እንጀራ"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "በላሁ"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "መጠጬንም"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "በእንባ"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "ቀላብቻለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:14.962140643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ክንፋቸውን ታደርጋቸዋለህ እንደ። በጥቅልህ አንቀሾች ፊታቸውን ⟨ታነሳለህ⟩።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ።"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "ታደርጋቸዋለህ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ክንፋቸውን"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "በጥቅልህ አንቀሾች"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "ታነሳለህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ፊታቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:36.688824875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "joshua 16:3",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ወደ ምዕራብ ወደ ያፍሌቲውያን ወሰን ወረደ፤ እስከ ታችኛው ቤት ሆሮን ወሰንና እስከ ጌዘር ድረስ፤ መውጫውም ወደ ምዕራብ ነበር።",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ወረደ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ወደ ምዕራብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ወሰን"
+    },
+    {
+      "surface": "היפלטי",
+      "gloss": "ያፍሌቲውያን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ወሰን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "ሆሮን"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "ታችኛው"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እና እስከ"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ጌዘር"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ነበር"
+    },
+    {
+      "surface": "תצאתו",
+      "gloss": "መውጫው"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ወደ ምዕራብ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:08:21.001736702Z",
+  "model": "glm-5.3"
+}

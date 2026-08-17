@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የመውደድ ጊዜ እና የመጥላት ጊዜ፤ የውጊያ ጊዜ እና የሰላም ጊዜ።",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "ለመውደድ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "እና ጊዜ"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ለመጥላት"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ውጊያ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "እና ጊዜ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    }
+  ],
+  "timestamp": "2026-08-16T11:12:58.351897946Z",
+  "model": "glm-5.3"
+}

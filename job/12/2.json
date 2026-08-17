@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "በእውነቱ እናንተ ሕዝብ ናችሁ፤ እና ከእናንተ ጋር ጥበብ ትሞታለች።",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "በእውነቱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "እና ከእናንተ ጋር"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ትሞታለች"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:45:48.160417118Z",
+  "model": "glm-5.3"
+}

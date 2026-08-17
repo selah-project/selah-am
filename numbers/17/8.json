@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ሞሼና አሃሮን ወደ መገኛው ድንኳን ፊት መጡ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "እና አሃሮን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መገኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:18:10.429395666Z",
+  "model": "glm-5.3"
+}

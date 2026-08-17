@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "daniel 11:1",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እኔም ለዳርዮስ ለማዴያዊው በአንደኛው ዓመት ሆኜ ለእርሱ ለማጠናከርና ለመሸለት ቆምኩ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔም"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "በ…ዓመት"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "ለዳርዮስ"
+    },
+    {
+      "surface": "המדי",
+      "gloss": "ለማዴያዊው"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ቆምኩ"
+    },
+    {
+      "surface": "למחזיק",
+      "gloss": "ለማጠናከር"
+    },
+    {
+      "surface": "ולמעוז",
+      "gloss": "እና ለመሸለት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:49:48.435002298Z",
+  "model": "glm-5.3"
+}

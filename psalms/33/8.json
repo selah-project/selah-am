@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ከያህዌህ ሁሉ ምድር ይፈራ፤ ከእርሱ የዓለም ነዋሪዎች ሁሉ ይሰብሩ።",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "ይፈራ"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ከያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእርሱ"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ይሰብሩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ነዋሪዎች"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "የዓለም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:12.631503943Z",
+  "model": "glm-5.3"
+}

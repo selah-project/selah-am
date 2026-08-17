@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "እና በይሱሩን ⟨ንጉሥ⟩ ሆነ፤ በሕዝብ አለቆች መሰብሰብ፣ የእስራኤል ነገዶች አንድነት ሲሆኑ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እና ሆነ"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "በይሱሩን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "በመሰብሰብ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "አለቆች"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "አንድነት"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ነገዶች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:57:15.903842560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 5:19",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ብዙም ⟨አይደለም⟩ የሕይወቱን ቀናት ያስታውሳል፣ ምክንያቱም ኤሎሂም በልቡ ደስታ ይመልሳል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "ያስታውሳል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቀናት"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "የሕይወቱን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "ይመልሳል"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "በደስታ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:31:55.356529745Z",
+  "model": "glm-5.3"
+}

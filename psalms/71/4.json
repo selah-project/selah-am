@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 71,
+  "translation": "ኤሎሂሜ ሆይ፣ ከክፉ እጅ፣ ከደቂቃ ፍደት የበደለና የደለ ነገር የሚያምነው አምልጠኝ።",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂሜ ሆይ"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "አምልጠኝ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "ከፍደት"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "የበደለ"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "እና አስጨናቂ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:55.541367534Z",
+  "model": "glm-5.3"
+}

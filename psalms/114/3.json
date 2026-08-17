@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 114,
+  "translation": "ባሕሩ አየና ሸሸ፤ ዮርዳኑ ወደ ኋላ ተመለሰ፤",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "ባሕሩ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ሸሸ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኑ"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "ወደ ኋላ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:52.068886111Z",
+  "model": "glm-5.3"
+}

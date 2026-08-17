@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "አባቶቻችን አመፁ፤ እነሱ ግን የሉም፤ እኛ ደግሞ ክፋታቸውን ተሸከምን።",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "አባቶቻችን"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "አመፁ"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "የሉም"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "እኛ ደግሞ"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "ክፋታቸውን"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "ተሸከምን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:12:37.802144751Z",
+  "model": "glm-5.3"
+}

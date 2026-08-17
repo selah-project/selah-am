@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 60,
+  "translation": "ለመዝማሪው አለቃ፤ በሹሻን ኤዱት ላይ፤ ሚኽታም፣ ለዳዊት፣ ለማስተማር።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመዝማሪው አለቃ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "ሹሻን"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ኤዱት"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ሚኽታም"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "ለማስተማር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:42.933201393Z",
+  "model": "glm-5.3"
+}

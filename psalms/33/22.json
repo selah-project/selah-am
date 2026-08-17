@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ምሕረትህ ያህዌህ በእኛ ላይ ይሁን፤ በአንተ ላይ እንደ ተስፋ አድርገናል።",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ምሕረትህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "በእኛ ላይ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "ተስፋ አድርገናል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "በአንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:37:54.332564415Z",
+  "model": "glm-5.3"
+}

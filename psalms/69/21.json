@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "ስድብ ልቤን ሰበረ፤ እኔም ተሰነዘሁ፤ ለሚያዝኑ ተመኘሁ፣ የለም ግን፤ ለሚያጽናኑም አልካዘንም።",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "ስድብ"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "ሰበረ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤን"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "ተሰነዘሁ"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "ተመኘሁ"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "ለሚያዝኑ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "ለሚያጽናኑም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አልካዘንም"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "አግኝቼ አይደለም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:41.819682605Z",
+  "model": "glm-5.3"
+}

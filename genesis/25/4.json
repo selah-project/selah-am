@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "genesis 25:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "የምድያን ልጆችም ዒፋ፣ ኤፈር፣ ሕኖክ፣ አቢዳዕ እና ኤልዳዕ ነበሩ፤ እነዚህ ሁሉ የቀጥራ ልጆች ናቸው።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "የምድያን ልጆችም"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ምድያን"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "ዒፋ"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "ኤፈር"
+    },
+    {
+      "surface": "וחנך",
+      "gloss": "ሕኖክ"
+    },
+    {
+      "surface": "ואבידע",
+      "gloss": "አቢዳዕ"
+    },
+    {
+      "surface": "ואלדעה",
+      "gloss": "ኤልዳዕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "የቀጥራ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:44:40.435849971Z",
+  "model": "glm-5.3"
+}

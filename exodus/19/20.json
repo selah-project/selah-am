@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ያህዌህ ወደ ሲና ተራራ ወደ ተራራው ጫፍ ወረደ፤ ያህዌህም ሞሼን ወደ ተራራው ጫፍ ጠራው፤ ሞሼም ወጣ።",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ወረደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ... ላይ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ሲና"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ጫፍ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ተራራው"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ሞሼን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ጫፍ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ተራራው"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:17:11.031079144Z",
+  "model": "glm-5.3"
+}

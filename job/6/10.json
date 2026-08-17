@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "job 6:10",
+  "book": "job",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "መጽናናቱ ገና ይሁንልኝ፤ በማያዝን ሕመም እንኳ እደሰታለሁ፤ ምክንያቱም የቅዱሱን ቃላት አልሰውርኩምና።",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ገና"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "መጽናናቱ"
+    },
+    {
+      "surface": "ואסלדה",
+      "gloss": "እደሰታለሁ"
+    },
+    {
+      "surface": "בחילה",
+      "gloss": "በሕመም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "ያዝና"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "ሰውርኩም"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ቃላትን"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "የቅዱሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:42:24.555737369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "«ተነሣ፣ ወደ ሸክላ ሠሪው ቤት ውረድ፤ እና በዚያ ቃላቴን ⟨את⟩ ልሰምህ እሰማህለታለሁ።»",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "ተነሣ"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "ወርዳለህ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "ሸክላ ሠሪው"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "እና በዚያ"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "ልሰምህ እሰማህለታለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላቴን"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:52:05.463868987Z",
+  "model": "glm-5.3"
+}

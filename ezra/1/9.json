@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 1:9",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እነዚህም ቁጥራቸው፦ የወርቅ አጋርጥላዎች ሠላሳ፣ የብር አጋርጥላዎች ሺህ፣ ቢላዎች ዘጠኝ እና ሃያ።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እነዚህም"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "ቁጥራቸው"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "አጋርጥላዎች"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "የወርቅ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሠላሳ"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "አጋርጥላዎች"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "የብር"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "מחלפים",
+      "gloss": "ቢላዎች"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ዘጠኝ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "እና ሃያ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:30:35.730301538Z",
+  "model": "glm-5.3"
+}

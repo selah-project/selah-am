@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 81,
+  "translation": "በእውነት ሕዝቤ በኔ ሰምቶ እስራኤል በመንገዶቼ ይሄድ ኖሮ!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምቶ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "በኔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "በመንገዶቼ"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "ይሄድ ኖሮ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:21.167319264Z",
+  "model": "glm-5.3"
+}

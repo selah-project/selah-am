@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 98,
+  "translation": "ለያህዌህ በኪናር፣ በኪናር እና በዝማሬ ድምፅ ዝማሩ።",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ዝማሩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "በኪናር"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "በኪናር"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "እና በ…ድምፅ"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ዝማሬ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:27.098055385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ከሥጋት በፊት ትምክሐት ነው፤ ከመደምጠት በፊት የከፍ በራህ ነፍስ።",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ሥጋት"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ትምክሐት"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "እና በፊት"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "መደምጠት"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "የከፍ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "በራህ ነፍስ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:29:16.763707130Z",
+  "model": "glm-5.3"
+}

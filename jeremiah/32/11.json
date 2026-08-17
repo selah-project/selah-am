@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "እና የመሸጫውን መጽሐፍ ⟨את⟩ ወሰድሁ — እንደ ትእዛዝና እንደ ሥርዓት የተዘጋውን ⟨את⟩ እና የተከፈተውንም ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "ወሰድሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መጽሐፉን"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "መጽሐፍ"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "የመሸጫ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የተዘጋውን"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "የተዘጋው"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "እና ሥርዓት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የተከፈተውን"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "የተከፈተው"
+    }
+  ],
+  "timestamp": "2026-08-16T08:00:47.587665712Z",
+  "model": "glm-5.3"
+}

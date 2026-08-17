@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "1-chronicles 8:32",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ሚቅሎትም ⟨את⟩ ሽምዓን ወለደ፤ እነርሱም እንኳ በዐቢያቸው ፊት በኢየሩሳሌም ከወንድሞቻቸው ጋር ኖሩ።",
+  "tokens": [
+    {
+      "surface": "ומקלות",
+      "gloss": "ሚቅሎትም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሽምዓን"
+    },
+    {
+      "surface": "שמאה",
+      "gloss": "ሽምዓን"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "እነርሱም እንኳ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነርሱ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "በ…ፊት"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ወንድሞቻቸው"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ኖሩ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "በኢየሩሳሌም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ወንድሞቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T12:43:42.551194562Z",
+  "model": "glm-5.3"
+}

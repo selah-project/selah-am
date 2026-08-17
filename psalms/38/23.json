@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "አዶናይ ሆይ፥ ማዳኌ ሆይ፥ ለመርዳቴ በቶሎ ተነስ።",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "በቶሎ ተነስ"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ለመርዳቴ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ ሆይ"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "ማዳኌ ሆይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:01.692415326Z",
+  "model": "glm-5.3"
+}

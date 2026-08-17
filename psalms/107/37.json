@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "ማሳዎችን ዘሩ፣ የወይን እርሻዎችንም ተከሉ፣ የመከር ፍሬንም አደረጉ።",
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "ዘሩ"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "ማሳዎችን"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "ተከሉ"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "የወይን እርሻዎችንም"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "አደረጉ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ፍሬንም"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "የመከር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:32.284335260Z",
+  "model": "glm-5.3"
+}

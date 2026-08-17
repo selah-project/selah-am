@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ከድንገተኛ ፍርሃት አትፍራ፣ እና ከክፉዎች ጥፋት ሲመጣም አትፍራ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ትፍራ"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ከፍርሃት"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ድንገተኛ"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "እና ከጥፋት"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "የክፉዎች"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ሲ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "መጣ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:22:27.964798040Z",
+  "model": "glm-5.3"
+}

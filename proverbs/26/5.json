@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ለሞኝ እንደ ሞኝነቱ መልስ በመስጠት፣ በዓይኖቹ ጠቢብ እንዳይሆን።",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "መልስ በመስጠት"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ለሞኝ"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "እንደ ሞኝነቱ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "እንዳይሆን"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆን"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ጠቢብ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "በዓይኖቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:35:16.274829781Z",
+  "model": "glm-5.3"
+}

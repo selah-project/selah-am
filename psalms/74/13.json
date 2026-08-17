@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 74,
+  "translation": "አንተ በኃይልህ ባሕሩን ሰበርህ፤ የተንንዮችን ራሶች በውኆች ላይ ከሰርህ።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "ሰበርህ"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "በኃይልህ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕሩን"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "ከሰርህ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ራሶች"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "የተንንዮችን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውኆች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:40.775638035Z",
+  "model": "glm-5.3"
+}

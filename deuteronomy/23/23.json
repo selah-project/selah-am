@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "እንዳትሰጥ ብትተው ግን በአንተ ላይ ኃጢአት አይሆንም።",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ግን እንደ"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "ብትተው"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "እንዳትሰጥ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆንም"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ ላይ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ኃጢአት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:48:43.937567870Z",
+  "model": "glm-5.3"
+}

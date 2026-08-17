@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ነፍሴ በእኔ ላይ ስትሰንፍ ያህዌህን ⟨את⟩ አስታወስሁ፤ ጸሎቴም ወደ አንተ፣ ወደ ቅድስት መቅደስህ ገባ።",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "ስትሰንፍ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "አስታወስሁ"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ገባ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ጸሎቴም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "መቅደስ"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ቅድስትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:10:16.165058172Z",
+  "model": "glm-5.3"
+}

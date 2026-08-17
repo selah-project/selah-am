@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 22:9",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ጥም በአፍንጫው አወጣ፣ እሳትም ከአፉ በላ፤ እሳት ያለባቸው ጋድሞች ከእርሱ ተነሱ።",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "አወጣ\/ወጣ"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ጥም"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "በአፍንጫው"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "እና እሳት"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "ከአፉ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "በላ"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "ጋድሞች"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "ተነሱ\/ተነደዱ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:20:31.502316892Z",
+  "model": "glm-5.3"
+}

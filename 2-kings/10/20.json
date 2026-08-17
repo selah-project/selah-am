@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የሁም እንዲህ አለ፦ ለቤዓል ታላቅ ስብሰባ ቀድሱ፤ እነሱም አወጁ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "የሁ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቀድሱ"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "ታላቅ ስብሰባ"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ለቤዓል"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "አወጁ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:43:50.880462946Z",
+  "model": "glm-5.3"
+}

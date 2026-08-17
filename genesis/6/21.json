@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "genesis 6:21",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "አንተም ለራስህ ከሚበላው ምግብ ሁሉ ውሰድ፤ እና ወደ አንተ ታስቀምጣለህ፤ እና ለአንተም ለእነሱም ለምግብነት ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተም"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ውሰድ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለራስህ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉ"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ምግብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚበላው"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበላ"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "እና ታስቀምጣለህ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "እና ይሆናል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተም"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "ለእነሱም"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "ለምግብነት"
+    }
+  ],
+  "timestamp": "2026-08-16T02:31:02.838159496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 140,
+  "translation": "እንደእውኑ ጻድቃን ለስምህ ያመሰግናሉ፤ ቀጥተኞች ፊትህ ⟨את⟩ ያድራሉ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "እንደእውኑ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ጻድቃን"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "ያመሰግናሉ"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ለስምህ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ያድራሉ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ቀጥተኞች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊትህ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:35.323051567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 61,
+  "translation": "ኤሎሂም የኔን አውቃቴ ስማ፤ ጆሮ አንስተህ የኔን ልመና።",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "ስማ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "የኔን አውቃቴ"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "ጆሮ አንስተህ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "የኔን ልመና"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:45.558227163Z",
+  "model": "glm-5.3"
+}

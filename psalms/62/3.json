@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 62,
+  "translation": "እርሱ ብቻ ወሳኝ ድንጋዬ እና ማዳንያዬ ነው፤ መሸሸጊያዬ እርሱ ነው፤ በጣም አልንቀጠቀጥም።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ወሳኝ ድንጋዬ"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "እና ማዳንያዬ"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "መሸሸጊያዬ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ንቀጠቀጥም"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "በጣም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:58.561931205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "isaiah 9:1",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ሕዝቡ በጨለማ የሚሄዱ ታላቅ ብርሃን አይተዋል፤ በሞት ጥላ ⟨በ⟩ምድር የሚኖሩ በእነርሱ ላይ ብርሃን በራ።",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "የሚሄዱ"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "በጨለማ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "አይተዋል"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "የሚኖሩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "የሞት ጥላ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "በራ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "በእነርሱ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:01:59.896151178Z",
+  "model": "glm-5.3"
+}

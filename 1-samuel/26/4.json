@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ዳዊትም ኸረጎችን ላከ፤ ሳኦል በእውነት መጥቶ ነበርም ብሎ አወቀ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "ኸረጎችን"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "አወቀ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ…ብሎ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጥቶ ነበርም"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "በእውነት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:50:27.922491578Z",
+  "model": "glm-5.3"
+}

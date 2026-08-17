@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ፈርዖንም ⟨את⟩ ልቡን በዚህም ጊዜ አኮተው፤ ሕዝቡንም ⟨את⟩ አልላከም።",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "አኮተው"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖንም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልቡን"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡን"
+    },
+    {
+      "surface": "גם",
+      "gloss": "በዚህም"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "በዚህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡንም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:12:34.264859508Z",
+  "model": "glm-5.3"
+}

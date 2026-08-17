@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ካህናትና ሌዋውያን ተነጹ፤ እነሱም ⟨את⟩ ሕዝቡን፣ ⟨את⟩ በሮቹን እና ⟨את⟩ ቅጥሩን ነጡ።",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "ተነጹ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "እና ሌዋውያን"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "ነጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "በሮቹን"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "በሮቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ቅጥሩን"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ቅጥሩን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:25:40.049714969Z",
+  "model": "glm-5.3"
+}

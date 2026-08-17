@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "በዐምዶቹ ላይ ካሉት ከጎን ክፍሎች በላይ ከላይ በአገዳው ድንጋይ ተሸፈነ፤ አርባ አምስት ሲሆኑ፣ በአንድ ተረድፍ አሥራ አምስት።",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "ተሸፈነም"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "በአገዳው ድንጋይ"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ከላይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "ከጎን ክፍሎች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ዐምዶቹ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "አርባ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "አምስትም"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "ተረድፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:18:53.249197744Z",
+  "model": "glm-5.3"
+}

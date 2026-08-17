@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "ruth 3:14",
+  "book": "ruth",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እርሷም እስከ ጠዋቱ በእግሩ ሥር ተኛችለች፤ ሰው ወዳጁን ⟨את⟩ ከሚያውቅ በፊት ተነሳች፤ እርሱም «ሴትዮ ወደ መከር ቦታው መጣች ብሎ አይታወቅ» አለ።",
+  "tokens": [
+    {
+      "surface": "ותשכב",
+      "gloss": "ተኛችለች"
+    },
+    {
+      "surface": "מרגלתו",
+      "gloss": "በእግሩ ሥር"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ጠዋቱ"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ተነሳች"
+    },
+    {
+      "surface": "בטרום",
+      "gloss": "ከ… በፊት"
+    },
+    {
+      "surface": "יכיר",
+      "gloss": "ሊያውቅ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወዳጁን"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ወዳጁን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ይታወቅ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "መጣች"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሴትዮ"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "ወደ መከር ቦታው"
+    }
+  ],
+  "timestamp": "2026-08-16T11:07:20.229113391Z",
+  "model": "glm-5.3"
+}

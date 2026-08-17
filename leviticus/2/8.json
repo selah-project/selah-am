@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እና ከእነዚህ የሚሠራውን ⟨את⟩ በቅርቡም መባ ወደ ያህዌህ ታቀርባለህ፣ እና ካህኑ ወደ እርሱ ይቀርባል፣ እና ወደ መሠዊያው ያቀርባታል።",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "እና ታቀርባለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በቅርቡም መባን"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "በቅርቡም መባ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚሠራውን"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "የሚሠራ"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ከእነዚህ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ወደ ያህዌህ"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "እና ያቀርባታል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "እና ያቀርባታል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:41:23.366256423Z",
+  "model": "glm-5.3"
+}

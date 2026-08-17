@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "ተናገረ፤ አንበጣ መጣ፤ እና የምርጫ ትል የቁጥር ልክ የሌለው መጣ።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "አንበጣ"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "የምርጫ ትል"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የሌለው"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ቁጥር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:20.317090742Z",
+  "model": "glm-5.3"
+}

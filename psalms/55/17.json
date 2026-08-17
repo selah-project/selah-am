@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 55,
+  "translation": "እኔ ወደ ኤሎሂም እጠራለሁ፤ ያህዌህም ያድነኛል።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "እጠራለሁ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "ያድነኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:37.118383140Z",
+  "model": "glm-5.3"
+}

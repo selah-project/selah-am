@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "የአባትህን ብርቃት እና የእናትህን ብርቃት አታጋልጥ፤ እርሷ እናትህ ናት፤ ብርቃቷን አታጋልጥ።",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "የ... ብርቃት"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "አባትህ"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "እና የ... ብርቃት"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "እናትህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት...ም"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ታጋልጣለህ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "እናትህ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ናት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት...ም"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ታጋልጣለህ"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ብርቃቷን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:53:16.855912165Z",
+  "model": "glm-5.3"
+}

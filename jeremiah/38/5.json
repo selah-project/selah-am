@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "jeremiah 38:5",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "ንጉሡም ጽድቅያሁ እንዲህ አለ፤ እነሆ እርሱ በእጃችሁ ⟨ነው⟩፤ ምክንያቱም ንጉሡ በምንም ነገር ⟨אתᛉኣችሁ⟩ ሊቋቋም አይችልም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ጽድቅያሁ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "በእጃችሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אין",
+      "gloss": "አይችልም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ሊቋቋም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ኣችሁ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "በምንም ነገር"
+    }
+  ],
+  "timestamp": "2026-08-16T08:05:11.806140062Z",
+  "model": "glm-5.3"
+}

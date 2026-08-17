@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "job 18:19",
+  "book": "job",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ወንድ ልጅ የለውም፤ በሕዝቡ ውስጥ የወንድም ልጅም የለውም፤ በመኖሪያውም የሚቀር ⟨የለም⟩።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "נין",
+      "gloss": "ወንድ ልጅ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለርሱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና ... የለም"
+    },
+    {
+      "surface": "נכד",
+      "gloss": "የወንድም ልጅ"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "በሕዝቡ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "የሚቀር"
+    },
+    {
+      "surface": "במגוריו",
+      "gloss": "በመኖሪያው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:48:48.701894322Z",
+  "model": "glm-5.3"
+}

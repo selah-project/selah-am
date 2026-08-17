@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "እጅህን በእርሱ ላይ አድርግ; ጦርነቱን አስብ — እንደገና አታድርግም።",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "አድርግ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "እጅህን"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "አስብ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ጦርነቱን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አታ..."
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "እንደገና ታድርግም"
+    }
+  ],
+  "timestamp": "2026-08-16T18:12:47.134939468Z",
+  "model": "glm-5.3"
+}

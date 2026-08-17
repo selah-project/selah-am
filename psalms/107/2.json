@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "የያህዌህ የተዋጀዎች ይናገሩ፤ ከጠላት እጅ ⟨את⟩ ያዳኳቸው እነርሱ ናቸው።",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "ይናገሩ"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "የተዋጀዎች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያዳኳቸው እነርሱ"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "ያዳኳቸው"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ጠላት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:03.397309788Z",
+  "model": "glm-5.3"
+}

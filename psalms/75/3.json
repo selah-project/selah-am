@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 75,
+  "translation": "የተወሰነውን ጊዜ በምወስድበት ጊዜ፣ እኔ ራሴ በቅናት እፈርዳለሁ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በ…ጊዜ"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "በምወስድበት"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "የተወሰነውን ጊዜ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ ራሴ"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "በቅናት"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "እፈርዳለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:13.680629121Z",
+  "model": "glm-5.3"
+}

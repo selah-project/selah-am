@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "የሌላውም ስም «ኤልይዔዘር» — «የአባቴ ኤሎሂም ረድኤቴ ነው፣ እና ከፈርዖን ሰይፍ አዳነኝ» ባለው ምክንያት።",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "የ… ስምም"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "የሌላው"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "ኤልይዔዜር"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ባለው ምክንያት"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "የ… ኤሎሂም"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "የአባቴ"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "ረድኤቴ"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "አዳነኝ"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ከ… ሰይፍ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ከፈርዖን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:19:13.382464832Z",
+  "model": "glm-5.3"
+}

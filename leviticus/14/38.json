@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ካህኑም ከቤቱ ወደ ቤቱ በር ይወጣል፤ ቤቱንም ⟨את⟩ ሰባት ቀን ይዘጋዋል።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ይወጣል፤"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑም"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "በር"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ይዘጋዋል፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱንም"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤቱን"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:50:49.681964990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "lamentations 4:8",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "መልካቸው ከጥቁር ይበልጥ ጠቆረ፤ በመንገዶች ውስጥ አይታወቁም፤ ቆዳቸው በአጥንታቸው ላይ ተጣብቋል፤ ደርቋል፣ እንደ እንጨት ሆኗል።",
+  "tokens": [
+    {
+      "surface": "חשך",
+      "gloss": "ጠቆረ"
+    },
+    {
+      "surface": "משחור",
+      "gloss": "ከጥቁር"
+    },
+    {
+      "surface": "תארם",
+      "gloss": "መልካቸው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "נכרו",
+      "gloss": "ታወቁም"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "በመንገዶች"
+    },
+    {
+      "surface": "צפד",
+      "gloss": "ተጣብቋል"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "ቆዳቸው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "עצמם",
+      "gloss": "በአጥንታቸው"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ደርቋል"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ሆኗል"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "እንደ እንጨት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:10:31.859855236Z",
+  "model": "glm-5.3"
+}

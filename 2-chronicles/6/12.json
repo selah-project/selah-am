@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "2-chronicles 6:12",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እርሱም በያህዌህ መሠዊያ ፊት በእስራኤል ሙሉ ጉባኤ ፊት ቆሞ እጆቹን ከፈተ።",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ቆሞ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ…ፊት"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠዊያ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "በ…ፊት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሙሉ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ጉባኤ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "ከፈተ"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "እጆቹን"
+    }
+  ],
+  "timestamp": "2026-08-16T13:33:29.352894619Z",
+  "model": "glm-5.3"
+}

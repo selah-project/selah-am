@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ሾት ለፈረስ፣ ጉልበት-ማንጸቂያ ለአህያ፣ እና በትር ለሞኆች ጀርባ።",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "ሾት"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "ለፈረስ"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "ጉልበት-ማንጸቂያ"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "ለአህያ"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "እና በትር"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "ለ…ጀርባ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ለሞኆች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:35:21.419792530Z",
+  "model": "glm-5.3"
+}

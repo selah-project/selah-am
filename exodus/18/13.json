@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "እንደ ነበረ የነገ ቀን ሆኖ ሞሼ ሕዝቡን እንዲፈርድ ተቀምጦ ነበር፤ ሕዝቡም ⟨את⟩ ሕዝቡን ለሞሼ ከጠዋት እስከ ምሽት ቆሞ ነበር።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እንደ ነበረ"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "የነገ ቀን"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቀምጦ ነበር"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "እንዲፈርድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ቆሞ ነበር"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ጠዋት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ምሽት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:17:53.171405218Z",
+  "model": "glm-5.3"
+}

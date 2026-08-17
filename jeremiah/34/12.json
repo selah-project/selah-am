@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "jeremiah 34:12",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "የያህዌህ ቃል ከያህዌህ ⟨את⟩ ወደ ኢርምያስ መጣ ብሎን።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ኢርምያስ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ከ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብሎን"
+    }
+  ],
+  "timestamp": "2026-08-16T08:01:46.740825620Z",
+  "model": "glm-5.3"
+}

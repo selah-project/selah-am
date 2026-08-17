@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ከየደህንነት መስዋዕትም ለያህዌህ የእሳት ቍርባን ያቀርባል፤ ⟨את⟩ እንጨቱን ሽፋን የሚሸፍነውን ስብ እና ⟨את⟩ በእንጨቱ ላይ ያለውን ሁሉን ስብ።",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ያቀርባል"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ከመስዋዕት"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "የደህንነት"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "የእሳት ቍርባን"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስቡን"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ስብ"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "የሚሸፍን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እንጨቱን"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "እንጨት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ስብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኝበት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "እንጨት"
+    }
+  ],
+  "timestamp": "2026-08-16T14:43:04.379379383Z",
+  "model": "glm-5.3"
+}

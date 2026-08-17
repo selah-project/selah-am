@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ከዚያም በኋላ ሴት ልጅ ወለደች፤ ስሟንም ዲና ብላ ጠራት።",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ከዚያም በኋላ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ሴት ልጅ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ጠራት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሟን"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ስሟን"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "ዲና"
+    }
+  ],
+  "timestamp": "2026-08-16T02:46:36.846021181Z",
+  "model": "glm-5.3"
+}

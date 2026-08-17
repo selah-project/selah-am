@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 74,
+  "translation": "እና አሁን ቍረጾዎቹን ⟨את⟩ በአንድነት በሰሪ እና በቀላጭ እየመቱ ያፈርሳሉ።",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "እና አሁን"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "ቍረጾዎቹን"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "በአንድነት"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "በሰሪ"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "እና በቀላጭ"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "እየመቱ ያፈርሳሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:22.919321668Z",
+  "model": "glm-5.3"
+}

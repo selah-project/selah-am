@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "አመራር ሁሉ አትብላም፤ በሁሉም መኖሪያያችሁ ጣፍጃ ትበላላችሁ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "አመራር"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አትብላም"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "አትብላም"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉም"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "መኖሪያያችሁ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ትበላላችሁ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ጣፍጃ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:14:54.766196585Z",
+  "model": "glm-5.3"
+}

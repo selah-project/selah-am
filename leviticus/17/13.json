@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 17:13",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "የያዕቆብ ልጆች የሆኑ የእስራኤል ልጆች እና በእነርሱ መካከል የሚኖር መጻኛ የሆነ ማንኛውም ሰው በደን አድኖ የሚበላ እንስሳ ወይም ወፍ ሲያድን ደሙን ⟨את⟩ ያፈስሳል እና በአፈር ይሸፍነዋል።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "እና ማንኛውም ሰው"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "የ… ልጆች ከ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "እና ከ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "መጻኛው"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "የሚኖር"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "በእነርሱ መካከል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚያድን"
+    },
+    {
+      "surface": "יצוד",
+      "gloss": "በደን ያድናል"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "የደን ተዋጋ"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "እንስሳ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ወፍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚበላ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበላል"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": "እና ያፈስሳል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደሙን"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ደሙን"
+    },
+    {
+      "surface": "וכסהו",
+      "gloss": "እና ይሸፍነዋል"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "በአፈር"
+    }
+  ],
+  "timestamp": "2026-08-16T14:49:11.470811136Z",
+  "model": "glm-5.3"
+}

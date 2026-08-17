@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ናኮርም ሃያ ዘጠኝ ዓመት ኖረ፤ ⟨את⟩ ቴራሕንም ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ኖረ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ናኮር"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ዘጠኝ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "እና ሃያ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቴራሕን"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ቴራሕ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:19.283573169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ፀሐይዋም፣ ብርሃኑም፣ ጨረቁም፣ ከዋክብቱም እንዳልጨለሙ፣ ደመናዎቹም ከዝናቡ በኋላ እንዳልተመለሱ፣ (ከዚያ በፊት አስታውስ)።",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንዳል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "ጨለመ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ፀሐይ"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "እና ብርሃኑ"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "እና ጨረቁ"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "እና ከዋክብቱ"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "እና ተመለሱ"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "ደመናዎቹ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ከ… በኋላ"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ዝናቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:18:56.382352247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ስድስትም ዓመታት ⟨את⟩ ምድርህን ታረዝማለህ እና ⟨את⟩ የእርሷን አደራጅታ ታሰብራለህ።",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "ስድስትም"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ታረዝማለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድርህን"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ምድርህን"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "እና ታሰብራለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእርሷን አደራጅታ"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "የእርሷን አደራጅታ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:21:22.798134320Z",
+  "model": "glm-5.3"
+}

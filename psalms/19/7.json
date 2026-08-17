@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ከሰማያት ⟨የ⟩ዳር መውጫው ⟨ነው⟩፣ ዙርያውም እስከ ዳሮቻቸው ድረስ ⟨ነው⟩፤ ከሙቀቱም የሚሰወር ⟨ነገር⟩ የለም።",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "ከ…ዳር"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "መውጫው"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "ዙርያውም"
+    },
+    {
+      "surface": "על",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "ዳሮቻቸው"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና …የለም"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "የሚሰወር"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "ከሙቀቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:44.914876299Z",
+  "model": "glm-5.3"
+}

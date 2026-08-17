@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የእጅ አንበት ምረግ ከሁለት እጅ ሙላት ድካምና የሐይል መንፈስ መራርነት ይሻላል።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ይሻላል"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ሙላት"
+    },
+    {
+      "surface": "כף",
+      "gloss": "የእጅ አንበት"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ምረግ"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "ከሁለት ሙላት"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "የሁለት እጅ አንበት"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ድካም"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "እና መራርነት"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "የሐይል መንፈስ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:15:12.760610603Z",
+  "model": "glm-5.3"
+}

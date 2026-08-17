@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ሠራም ⟨את⟩ መዶሱን ከስስ እንጨት — ርዝመቱ ሁለት እንድር፣ ስፋቱ አንድ እንድር፣ ቁመቱም አንድ እንድር በግማሽ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ሠራም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መዶሱን"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "መዶሱን"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "እንጨት"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ስስ"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "ሁለት እንድር"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ርዝመቱ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "አንድ እንድር"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ስፋቱ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "አንድ እንድር"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "በግማሽ"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ቁመቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:37:16.795997573Z",
+  "model": "glm-5.3"
+}

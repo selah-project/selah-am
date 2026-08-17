@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 25:11",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "አማሥያሁም ተጠናከረ ወደ ጨውም ሸለል ሄዶ ሕዝቡን ⟨את⟩ በመምራት የሰዓር ልጆችን ⟨את⟩ አሥር ሺሕ መቶት ወጋቸው።",
+  "tokens": [
+    {
+      "surface": "ואמציהו",
+      "gloss": "አማሥያሁም"
+    },
+    {
+      "surface": "התחזק",
+      "gloss": "ተጠናከረ"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "በመምራት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄዶ"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "ሸለል"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "የጨው"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ወጋቸው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሰዓር ልጆችን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆችን"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "የሰዓር"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሺሕ መቶት"
+    }
+  ],
+  "timestamp": "2026-08-16T20:47:27.433089808Z",
+  "model": "glm-5.3"
+}

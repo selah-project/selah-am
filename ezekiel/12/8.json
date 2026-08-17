@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "ezekiel 12:8",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የያህዌህ ቃልም በጠዋት ወደ እኔ መጣ፤ እንዲህ ይላል፦",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃልም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "በጠዋት"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ይላል"
+    }
+  ],
+  "timestamp": "2026-08-16T08:21:50.192095476Z",
+  "model": "glm-5.3"
+}

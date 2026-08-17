@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "እና ⟨את⟩ ሁሉን የዚምሪ ነገሥታት፣ እና ⟨את⟩ ሁሉን የኤላም ነገሥታት፣ እና ⟨את⟩ ሁሉን የሜድያ ነገሥታት።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "የ…ነገሥታት"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "ዚምሪ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "የ…ነገሥታት"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ኤላም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "የ…ነገሥታት"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ሜድያ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:54:51.843549610Z",
+  "model": "glm-5.3"
+}

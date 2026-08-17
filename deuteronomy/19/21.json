@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ዐይንህም አይራራ፤ ነፍስ በነፍስ፣ ዐይን በዐይን፣ ጥርስ በጥርስ፣ እጅ በእጅ፣ እግር በእግር ይሁን።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "እንዳይሆን\/አይ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ያሳዝንም\/ይራራም"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ዐይንህ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "በነፍስ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ዐይን"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "በዐይን"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ጥርስ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "በጥርስ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "እጅ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጅ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "እግር"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "በእግር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:44:29.819763189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "በዚያን ጊዜ እግረኛ እንደ እርንቅላት ይዘልላል፣ የጉልህ ምላስም ይዘልቃል፤ በምድረ በዳ ውኃ ስለ ተከፈተ፣ ወንዞችም በበረሃ ስለ ተፈሱ።",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "በዚያን ጊዜ"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "ይዘልላል"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "እንደ እርንቅላት"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "እግረኛ"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "ይዘልቃልም"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ምላስ"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "የጉልህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "ተከፈተሉ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በምድረ በዳ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውኃ"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "ወንዞችም"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "በበረሃ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:58:50.574627823Z",
+  "model": "glm-5.3"
+}

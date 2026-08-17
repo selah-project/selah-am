@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እናንተ ሂዱ፤ በምታገኙበት ስፍራ ላችሁ ራሳችሁ ገነዝ ውሰዱ፤ ከሥራችሁም ምንም አይቀነስም።",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ሂዱ"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ውሰዱ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ላችሕ (ራሳችሕ)"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "ገነዝ"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ከ…በሚገኝበት"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "ታገኙበታል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ… (ምክንያት)"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም…ም"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "ይቀነሳል (ይጎድላል)"
+    },
+    {
+      "surface": "מעבדתכם",
+      "gloss": "ከሥራችሕ (ከአገልግሎታችሕ)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ምንም (ነገር)"
+    }
+  ],
+  "timestamp": "2026-08-16T03:07:02.859987164Z",
+  "model": "glm-5.3"
+}

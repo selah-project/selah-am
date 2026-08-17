@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ትንሽ ጉጉትን ⟨את⟩፣ ⟨את⟩ ትልቅ ጉጉትን እና ነጭ ጉጉትን፤",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትንሽ ጉጉት"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ትንሽ ጉጉት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ትልቅ ጉጉት"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "ትልቅ ጉጉት"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "እና ነጭ ጉጉት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:41:20.881932550Z",
+  "model": "glm-5.3"
+}

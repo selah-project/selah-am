@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "ኤሎሂም ከፓዳን አራም በመጣ ጊዜ እንደ ገና ለያዕቆብ ተገለጠ፤ እርሱንም ⟨את⟩ ባረከው።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ተገለጠ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "እንደ ገና"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "በመጣ ጊዜ"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "ከፓዳን"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "አራም"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ባረከ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ እርሱን",
+      "marks": "እርሱን (ያዕቆብን)"
+    }
+  ],
+  "timestamp": "2026-08-16T02:54:14.516185373Z",
+  "model": "glm-5.3"
+}

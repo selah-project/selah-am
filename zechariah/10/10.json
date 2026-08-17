@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "zechariah 10:10",
+  "book": "zechariah",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ከምጽራይም ምድር እመልሳቸዋለሁ፣ ከአሥርም አሰባቸዋለሁ፤ ወደ ጒልዓድ ምድርና ወደ ለባኖን አምጣቸዋለሁ፤ ስፍራም አይገኝላቸውም።",
+  "tokens": [
+    {
+      "surface": "והשיבותים",
+      "gloss": "እመልሳቸዋለሁ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከ…ምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽራይም"
+    },
+    {
+      "surface": "ומאשור",
+      "gloss": "ከአሥርም"
+    },
+    {
+      "surface": "אקבצם",
+      "gloss": "አሰባቸዋለሁ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ጒልዓድ"
+    },
+    {
+      "surface": "ולבנון",
+      "gloss": "ወደ ለባኖንም"
+    },
+    {
+      "surface": "אביאם",
+      "gloss": "አምጣቸዋለሁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…አይገኝም"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ይገኛል"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ላቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:24:05.222954475Z",
+  "model": "glm-5.3"
+}

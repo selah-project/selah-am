@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ባሪያህን ⟨את⟩ የብልሃት ከሌላት ሴት ልጅ አትቁጠርኝ፤ ከብዙ ሐዘኔ እና ከቁጭታዬ እስከ እለተ ዛሬ ተናግሬያለሁና።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ትቁጠርኝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ባሪያህን"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ባሪያህን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "የብልሃት ከሌላት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እስከ ስለ፤ ስለውኝ"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ከብዙ"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "ሐዘኔ"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "እና ከቁጭታዬ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ተናግሬያለሁና"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እለተ ዛሬ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:30:51.314999270Z",
+  "model": "glm-5.3"
+}

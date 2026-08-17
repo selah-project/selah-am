@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 2:40",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ስምዒ ተነሳ እና የአህያውን ⟨את⟩ ቀመሰ፤ የአገልጋዮቹን ⟨את⟩ ለመፈለግ ወደ ጋት ወደ አኪሽ ሄደ፤ ስምዒ ሄደ እና የአገልጋዮቹን ⟨את⟩ ከጋት አመጣ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "እና ተነሳ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ስምዒ"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "እና ቀመሰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የአህያውን"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "የአህያው"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "እና ሄደ"
+    },
+    {
+      "surface": "גתה",
+      "gloss": "ወደ ጋት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "አኪሽ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ለመፈለግ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የአገልጋዮቹን"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "የአገልጋዮቹን"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ስምዒ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "እና አመጣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የአገልጋዮቹን"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "የአገልጋዮቹን"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "ከጋት"
+    }
+  ],
+  "timestamp": "2026-08-16T16:24:06.746859953Z",
+  "model": "glm-5.3"
+}

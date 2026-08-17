@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ነፍሴ ለፍቃድ ተሰባሪች፤ በማንኛውም ጊዜ ወደ ፍርዶችህ።",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "ተሰባሪች፣ ተፈጨች"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "ለፍቃድ፣ ለመመካከት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ፍርዶችህ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉም፣ በማንኛውም"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:09.033486995Z",
+  "model": "glm-5.3"
+}

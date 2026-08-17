@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ምክንያቱም ሰው በፀሐይ ሥር ከሚያደርገው ከድካሙ ሁሉ እና ከልቡ ጭንቀት ምን ያገኛል?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "ያገኛል"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ከ… ሁሉ"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ድካሙ"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "እና ከ… ጭንቀት"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "የሚያደርግ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ሥር"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "በፀሐይ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:14:21.965357314Z",
+  "model": "glm-5.3"
+}

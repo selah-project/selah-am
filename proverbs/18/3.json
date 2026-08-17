@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ክፉ ሲመጣ ስድብም ይመጣል፤ ከዋረደኝነት ጋር እፍራት አለች።",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "ሲመጣ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ይመጣል"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ም"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "ስድብ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ከ... ጋር"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ዋረደኝነት"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "እፍራት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:29:55.949768278Z",
+  "model": "glm-5.3"
+}

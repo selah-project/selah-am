@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "ፈተኑም አስቀሱም ⟨את⟩ ኤሎሂም የላዕሉን፤ ምስክሮቹንም አልጠበቁም።",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "ፈተኑም"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "አስቀሱም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "የላዕሉን"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "ምስክሮቹንም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ጠበቁም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:53.678386353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ሰማያትህን ስትመለከት — የጣቶችህ ሥራዎች — ጨረቃንና ከዋክብትን ያንን የሠራሃቸው፣ እነሆ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ስትመለከት"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "ሰማያትህን"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "የሥራዎች"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "ጣቶችህ"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ጨረቃን"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "እና ከዋክብትን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያንን"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "የሠራሃቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:29:22.909120195Z",
+  "model": "glm-5.3"
+}

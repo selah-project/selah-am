@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እና አይቶ ተነሥቶ ለነፍሱ ሄደ፤ ወደ ቤርሰቤው፣ የይሁዳ ወደ ሆነችው ገብቶ ⟨את⟩ ወጣቱን እዚያ አሳምሮ ተወው።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "አይቶ"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሥቶ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለነፍሱ (ስለ)"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ገብቶ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ቤርሰቤው"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ቤርሰቤ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነችው"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "የይሁዳ"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "አሳምሮ ተወው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወጣቱን"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "ወጣቱን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    }
+  ],
+  "timestamp": "2026-08-17T07:33:05.601555537Z",
+  "model": "glm-5.3"
+}

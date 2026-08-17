@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ብቻ ራቶቹ አልተነሱም፤ ሕዝቡም እስከአሁን በራቶቹ ⟨ሆኖ⟩ ያልቃል እና ያጠናቅቃል።",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ራቶቹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "ተነሱ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "እስከአሁን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "ያልቃል"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "እና ያጠናቅቃል"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "በራቶቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:47:15.884843071Z",
+  "model": "glm-5.3"
+}

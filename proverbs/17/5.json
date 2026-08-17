@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "proverbs 17:5",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ድሃን የሚሳቀቅ መፈጠሪያውን ይሰድባል፤ ለመከራ የሚደሰስ አይነጻም።",
+  "tokens": [
+    {
+      "surface": "לעג",
+      "gloss": "የሚሳቀቅ"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "ድሃን"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ይሰድባል"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "መፈጠሪያውን"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "የሚደሰስ"
+    },
+    {
+      "surface": "לאיד",
+      "gloss": "ለመከራ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "ነጻም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:28:45.082228700Z",
+  "model": "glm-5.3"
+}

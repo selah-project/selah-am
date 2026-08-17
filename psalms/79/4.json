@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 79,
+  "translation": "ለአጎራባችዎቻችን ንቀት ሆንን፤ ለዙሪያዎቻችንም መስደብና ውለታ።",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "ሆንን"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ንቀት"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "ለአጎራባችዎቻችን"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "መስደብ"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "እና ውለታ"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "ለዙሪያዎቻችን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:57:33.846231119Z",
+  "model": "glm-5.3"
+}

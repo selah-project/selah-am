@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "leviticus 15:7",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "እና ⟨እርሱ⟩ የሚነካ በሥጋው ላይ ያለው የሚፈስ ሰው ልብሶቹን ያጠብላል፣ በውሃም ይታጠባል፣ እና እስከ ምሽቱ ድረስ እንደ ርኵስ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "והנגע",
+      "gloss": "እና ⟨እርሱ⟩ የሚነካ"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "በሥጋ"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "የሚፈስ ሰው"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ያጠብላል"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ልብሶቹን"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "እና ይታጠባል"
+    },
+    {
+      "surface": "במים",
+      "gloss": "በውሃ"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "እና እንደ ርኵስ ይሆናል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ምሽቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:53:17.897113645Z",
+  "model": "glm-5.3"
+}

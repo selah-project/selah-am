@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ሴቲቱም እንዲህ አለች፤ «⟨את⟩ ማንን አወጣልህ?» እርሱም እንዲህ አለ፤ «ሳሙኤልን ⟨את⟩ አውጣልኝ።»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "አለች"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሴቲቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማንን"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማንን"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "አወጣለሁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሳሙኤልን"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤልን"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "አወጣ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:50:11.323160397Z",
+  "model": "glm-5.3"
+}

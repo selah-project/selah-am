@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "በቤዘቅም ቆጠራቸው፤ የእስራኤል ልጆችም ሦስት መቶ ሺህ ነበሩ፤ የይሁዳ ሰዎችም ሠላሳ ሺህ ነበሩ።",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "ቆጠራቸው"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "በቤዘቅ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ነበሩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ...ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ሰዎችም"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "የይሁዳ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሠላሳ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:38:50.509783244Z",
+  "model": "glm-5.3"
+}

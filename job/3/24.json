@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "job 3:24",
+  "book": "job",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ምክንያቱም ከምግቤ ፊት ለፊት እስትታቴ ይመጣል፤ እና እንደ ውሃ ጩኸቴ ተፈስቋል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ከ… ፊት ለፊት"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ምግቤ"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "እስትታቴ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ይመጣል"
+    },
+    {
+      "surface": "ויתכו",
+      "gloss": "እና ተፈስቋል"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "እንደ ውሃ"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "ጩኸቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:39:15.328284508Z",
+  "model": "glm-5.3"
+}

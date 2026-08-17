@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "ይህ ሁሉ ደርሶብናል፤ አልረሳንህም እና በኪዳንህ አልተበደርንም።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "ደርሶብናል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "ረሳንህም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "ተበደርንም"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "በኪዳንህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:58.477059223Z",
+  "model": "glm-5.3"
+}

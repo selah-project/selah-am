@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "የአንተ አገልጋይ እኔ ⟨ነኝ⟩፤ አስተውለኝ፣ የአንተን ምስክርነቶችም እወቅ።",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "የአንተ አገልጋይ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "አስተውለኝ"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "እና እወቅ"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "የአንተን ምስክርነቶችም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:35.285418343Z",
+  "model": "glm-5.3"
+}

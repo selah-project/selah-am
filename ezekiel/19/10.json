@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 19:10",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እናትህ በደምህ እንደ የወይን ግንድ ተክላ በውኃ ላይ ነበረች፤ ፍሬያማ ነበረች፣ ቅርንጫፍ ነበራት፣ ከብዙ ውኃ በብዛት።",
+  "tokens": [
+    {
+      "surface": "אמך",
+      "gloss": "እናትህ"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "እንደ የወይን ግንድ"
+    },
+    {
+      "surface": "בדמך",
+      "gloss": "በደምህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "በውኃ"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "ተክላ"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ፍሬያማ ነበረች"
+    },
+    {
+      "surface": "וענפה",
+      "gloss": "ቅርንጫፍ ነበራት"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነበረች"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "ከውኃ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "በብዛት\/ብዙ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:39:49.494576871Z",
+  "model": "glm-5.3"
+}

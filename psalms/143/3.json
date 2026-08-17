@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 143,
+  "translation": "ጠላት ነፍሴን በደለኝ፥ ሕይወቴን ለምድር አስረከበ፥ በጨለማዎችም እንደ ቀደሙት ሙታን አኖረኝ፤",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "በደለኝ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ጠላት"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "አስረከበ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ለምድር"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "ሕይወቴን"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "አኖረኝ"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "በጨለማዎችም"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "እንደ ሙታን"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ቀደሙት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:28.140173644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "isaiah 45:22",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "ወደ እኔ ይመለሱ፣ የምድር ማእቀፆች ሁሉ ይድናሉ፤ እኔ ኤል ነኝና፣ ሌላ የለም።",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "ይመለሱ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "והושעו",
+      "gloss": "ይድናሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ማእቀፆች"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ሌላ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:24:49.679323166Z",
+  "model": "glm-5.3"
+}

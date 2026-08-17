@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "ፈርዖንም ለዮሴፍ እንዲህ አለ፦ ተመልከት፣ እኔ ⟨את⟩ አንተን በምጽራይም ምድር ሁሉ ላይ እንደ ገዛ ሾምሁህ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖንም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ተመልከት"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "እኔ እንደ ገዛ ሾምሁ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "አንተን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በሁሉት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽራይም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:58:52.322545001Z",
+  "model": "glm-5.3"
+}

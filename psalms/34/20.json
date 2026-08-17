@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "የጻድቁ መከራዎች ብዙ ናቸው፤ ከእነሱም ሁሉ ያህዌህ ያድነዋል።",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "መከራዎች"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "የጻድቁ"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "ከእነሱም ሁሉ"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ያድነዋል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:37:58.059593853Z",
+  "model": "glm-5.3"
+}

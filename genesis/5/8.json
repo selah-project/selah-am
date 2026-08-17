@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የሴት ሁሉም ቀናት አሥራ ሁለት ዓመት እና ዘጠኝ መቶ ዓመት ሆኑ፤ እና ሞተ።",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ሆኑ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "שת",
+      "gloss": "የሴት"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "እና ዘጠኝ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "እና ሞተ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:30:18.497037838Z",
+  "model": "glm-5.3"
+}

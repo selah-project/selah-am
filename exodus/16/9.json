@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "exodus 16:9",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ሞሼም ለአሃሮን እንዲህ አለው፦ ለእስራኤል ልጆች ሙሉ ጉባኤ ተናገር፦ የያህዌህን ፊት ቅረቡ፤ እነሆ፣ እርሱ ⟨את⟩ የእናንተን ቅርቀት ሰምቷልና።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ተናገር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሙሉ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ጉባኤ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ቅረቡ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምቷል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅርቀታችሁን"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "የእናንተ ቅርቀት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:17:08.927436723Z",
+  "model": "glm-5.3"
+}

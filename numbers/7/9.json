@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ለቀሐት ልጆች ግን አልሰጠም፤ በምክንያቱም የተቀደሰ አገልግሎት በእነርሱ ላይ ⟨ነው⟩፤ በትከል ላይ ይሸከማሉ።",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ለልጆች"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ቀሐት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በምክንያቱም"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "አገልግሎት"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "የተቀደሰ"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "በእነርሱ ላይ"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "በትከል"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ይሸከማሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:09:52.245363394Z",
+  "model": "glm-5.3"
+}

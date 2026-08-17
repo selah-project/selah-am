@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 139,
+  "translation": "አንተ መቀመጬንና መነሣቴን አውቀኸዋል፤ ሐሳቤን ከሩቅ ተረድተኸዋል።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "አውቀኸዋል"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "መቀመጬን"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "እና መነሣቴን"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "ተረድተኸዋል"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "ሐሳቤን"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ከሩቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:34.700255464Z",
+  "model": "glm-5.3"
+}

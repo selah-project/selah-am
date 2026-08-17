@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "እና ሳጳን በእስራኤል ላይ ቆመ፤ ዳዊትንም ⟨את⟩ እስራኤልን ⟨את⟩ እንዲቆጥር አነሳሳው።",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ቆመ"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "ሳጳን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "አነሳሳው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊትን"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "እንዲቆጥር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T13:05:32.633667498Z",
+  "model": "glm-5.3"
+}

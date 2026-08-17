@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ያህዌህ ማረኝ፤ ምክንያቱም ሟች በሆነኝ፤ በመከራ ዓይኔ፣ ነፍሴና ሆዴ ደክሟል።",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "ማረኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ሟች\/በጥቅልል ኾነ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "በሆነኝ"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "ደክሟል\/ደነዘዘ"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "በመከራ\/በቁጭት"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኔ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "እና ሆዴ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:33.552520816Z",
+  "model": "glm-5.3"
+}

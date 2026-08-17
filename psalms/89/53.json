@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "ያህዌህ ለዘላለም የተባረከ ነው፤ አሜን እና አሜን።",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "የተባረከ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "አሜን"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "እና አሜን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:59.936181318Z",
+  "model": "glm-5.3"
+}

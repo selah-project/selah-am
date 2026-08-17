@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "እንቆቅለሹ ሆኖ አዘንባለሁ፤ በቂኖር ላይ ምስጢሬን እከፍታለሁ።",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "አዘንባለሁ"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "እንቆቅለሹን"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "አውጣዬን"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "እከፍታለሁ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "በቂኖር ላይ"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "ምስጢሬን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:34.319127140Z",
+  "model": "glm-5.3"
+}

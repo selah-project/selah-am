@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ከእርሱም በኋላ ከቤትለሐም የሆነ እብጻን ⟨את⟩ እስራኤልን ፈረደ።",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ፈረደ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ከእርሱም በኋላ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "እብጻን"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ከቤትለሐም"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ቤትለሐም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:25:39.338064863Z",
+  "model": "glm-5.3"
+}

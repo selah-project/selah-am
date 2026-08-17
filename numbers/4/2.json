@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የቀሃት ልጆችን ⟨את⟩ ራስ ከሌዊ ልጆች መካከል፣ በቤተሰቦቻቸው፣ በአባቶቻቸው ቤት ተነሡ።",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "ተነሡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራስ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆችን"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ቀሃት"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ከ…መካከል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ሌዊ"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "በቤተሰቦቻቸው"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "አባቶቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T04:06:29.373354262Z",
+  "model": "glm-5.3"
+}

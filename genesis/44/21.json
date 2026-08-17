@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "genesis 44:21",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "እናት ለአገልጋዮችህ እንዲህ ብለህ አልክ። «አውርዱት ወደ እኔ፤ እና ዐይኔን በእርሱ ላይ አኑራለሁ።»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "አልክ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "አገልጋዮችህ"
+    },
+    {
+      "surface": "הורדהו",
+      "gloss": "አውርዱት"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "ואשימה",
+      "gloss": "እና አኑራለሁ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዐይኔን"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:59:34.433956003Z",
+  "model": "glm-5.3"
+}

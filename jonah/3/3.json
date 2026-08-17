@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "jonah 3:3",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ዮናህም ተነሶ በያህዌህ ቃል መሰረት ወደ ነነዌ ሄደ፤ ነነዌም ለኤሎሂም ታላቅ ከተማ ነበረች፣ የሦስት ቀን ጉዞ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሶም"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ዮናህ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ነነዌ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "በቃል መሰረት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "ነነዌም"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነበረች"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ለኤሎሂም"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "ጉዞ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "የሦስት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:10:45.536715172Z",
+  "model": "glm-5.3"
+}

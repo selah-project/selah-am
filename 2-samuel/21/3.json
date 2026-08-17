@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ዳዊትም ለጊቤዎናውያኑ አለ፦ «ምን አደርጋለሁ ላችሁ? በምንስ አራራታለሁ? የያህዌህንም ⟨את⟩ ቅርሥ ቡረኩ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ፦ (ወደ)"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "ጊቤዎናውያኑ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "አደርጋለሁ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ላችሁ"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "በምንስ"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "አራራታለሁ"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "ቡረኩም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅርሡን"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ቅርሥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-17T07:23:36.609816126Z",
+  "model": "glm-5.3"
+}

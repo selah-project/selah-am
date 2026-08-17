@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "isaiah 33:19",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "የደፈረ ሕዝብን ⟨את⟩ አታይም፤ ሕዝብ የጥልቅ ከንፈር፣ የሚሰማ ያልሆነ፣ የሚሳቀቅ ልሳን፣ ብልህት የሌለው።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የደፈረ ሕዝብን"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብን"
+    },
+    {
+      "surface": "נועז",
+      "gloss": "የደፈረ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አታይም በማለት አሉታዊ"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "አታይም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "የጥልቅ"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ከንፈር"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "የሚሰማ ያልሆነ"
+    },
+    {
+      "surface": "נלעג",
+      "gloss": "የሚሳቀቅ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ልሳን"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የሌለ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ብልህት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:15:20.162048454Z",
+  "model": "glm-5.3"
+}

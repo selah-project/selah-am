@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "ezekiel 14:10",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ዐመፃቸውንም ይሸከማሉ፤ እንደ የሚሰጠው (የሚጠይቀው) ዐመፅ፣ እንደ ነቢዩ ዐመፅ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "ይሸከማሉም"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ዐመፃቸውን"
+    },
+    {
+      "surface": "כעון",
+      "gloss": "እንደ ዐመፅ"
+    },
+    {
+      "surface": "הדרש",
+      "gloss": "የሚሰጠው (የሚጠይቀው)"
+    },
+    {
+      "surface": "כעון",
+      "gloss": "እንደ ዐመፅ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነቢዩ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    }
+  ],
+  "timestamp": "2026-08-16T08:24:59.887418678Z",
+  "model": "glm-5.3"
+}

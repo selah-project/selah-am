@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "proverbs 21:20",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ተፈላጊ ሀብትና ዘይት በጥበብ ባለው መኖሪያ ውስጥ አለ፤ ነገር ግን ሞኝ ሰው ያበላዋል።",
+  "tokens": [
+    {
+      "surface": "אוצר",
+      "gloss": "ሀብት"
+    },
+    {
+      "surface": "נחמד",
+      "gloss": "ተፈላጊ"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "እና ዘይት"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "በመኖሪያ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ለጥበብ ባለው"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ነገር ግን ሞኝ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "ያበላዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:31:28.958718431Z",
+  "model": "glm-5.3"
+}

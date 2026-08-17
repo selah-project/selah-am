@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "leviticus 20:12",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እና ከልጁ ሚስት ⟨את⟩ የሚተኛ ሰው — ሁለቱም ሞት ይሞታሉ፤ መደባለቅ አድርገዋል፤ ደማቸው በላያቸው ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚ"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "የሚተኛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጁ ሚስት"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ልጁ ሚስት"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ይሞታሉ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ሁለቱም"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "መደባለቅ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "አድርገዋል"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ደማቸው"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በላያቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:57:22.255596279Z",
+  "model": "glm-5.3"
+}

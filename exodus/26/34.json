@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "የምሕረት መከርያውንም ⟨את⟩ በቅዱሳን ቅዱስ መካከል በምስክር ታቦቱ ላይ ታስቀምጣለህ።",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ታስቀምጣለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የምሕረት መከርያውን"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "የምሕረት መከርያ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "የምስክር"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "በቅዱስ ቦታ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "የቅዱሳን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:26:01.618819531Z",
+  "model": "glm-5.3"
+}

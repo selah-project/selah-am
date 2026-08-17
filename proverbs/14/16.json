@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ጥበበኛ ያወቃል ከክፉም ይመለሳል፤ ሞኝ ግን በታዛቢነት ያልፋል በራሱም ያምናል።",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "ጥበበኛ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ያወቃል"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "ይመለሳል"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ከክፉም"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ሞኝ ግን"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "በታዛቢነት ያልፋል"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "በራሱም ያምናል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:27:06.439746313Z",
+  "model": "glm-5.3"
+}

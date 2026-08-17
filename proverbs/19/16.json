@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ትእዛዝን የሚጠብቅ ራሱን ይጠብቃል፤ የመንገዱን የሚንቀው ይሞታል።",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "የሚጠብቅ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ትእዛዝን"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ይጠብቃል"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ራሱን (ነፍሱን)"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "የሚንቀው"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "የመንገዱን"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይሞታል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:30:26.986737744Z",
+  "model": "glm-5.3"
+}

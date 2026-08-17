@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ለአገልጋይህ ቃልህን አስቀምጥ፤ ወደ መፍራትህ የሚያደርስ ነው።",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "አስቀምጥ"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ለአገልጋይህ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ቃልህን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚያደርስ"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "ወደ መፍራትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:18.856881383Z",
+  "model": "glm-5.3"
+}

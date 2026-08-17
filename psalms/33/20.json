@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ነፍሳችን ለያህዌህ ቆየች፤ ረዳታችንና ጋሻችን ⟨ርሱ⟩ ነው።",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "ነፍሳችን"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "ቆየች\/ጠበቀች"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "ረዳታችን"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "ጋሻችን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ርሱ⟩"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:18.983757819Z",
+  "model": "glm-5.3"
+}

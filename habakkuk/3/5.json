@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "habakkuk 3:5",
+  "book": "habakkuk",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ከፊቱ መቅሰል ይሄዳል፣ እና በእግሮቹ ዘንድ ነበልባል ይወጣል።",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "ከፊቱ"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ይሄዳል"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "መቅሰል"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "እና ይወጣል"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "ነበልባል"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "በእግሮቹ ዘንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:16:56.276302949Z",
+  "model": "glm-5.3"
+}

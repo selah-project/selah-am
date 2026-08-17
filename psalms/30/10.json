@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "በደሜ ምን ትርፍ አለ፣ ወደ ⟨ጉድጓዱ⟩ በምወርድ ጊዜ? አፈር ያመሰግሃልን? እውነትህን ይናገራልን?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ትርፍ"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "በደሜ"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "በምወርድ ጊዜ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "⟨ጉድጓዱ⟩"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "ያመሰግሃልን?"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "አፈር"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "ይናገራልን?"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "እውነትህን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:08:39.338221865Z",
+  "model": "glm-5.3"
+}

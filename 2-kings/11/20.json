@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "የምድሩ ሕዝብ ሁሉ ደስ አለ፤ ከተማዋም ዝግጁ ነበረች፤ ዓትልያሁንም ⟨את⟩ በሰይፍ በንጉሡ ቤት ገደሉ።",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "ደስ አለ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "ከተማዋም"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "ዝግጁ ነበረች"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዓትልያሁን"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "ዓትልያሁን"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ገደሉ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "በሰይፍ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "የንጉሥ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:38:52.776264120Z",
+  "model": "glm-5.3"
+}

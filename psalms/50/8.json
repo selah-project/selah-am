@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 50,
+  "translation": "በመስዋዕቶችህ ምክንያት አልወትርህም፤ የሚቃጠሉትም መሥዋዕቶችህ ሁልጊዜ ፊቴ ሆነዋልና።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ምክንያት"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "መስዋዕቶችህ"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ወትርህም"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "የሚቃጠሉትም መሥዋዕቶችህ"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "ፊቴ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:35.137947149Z",
+  "model": "glm-5.3"
+}

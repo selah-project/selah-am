@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "በዚያ ቀን የተገደሉት በሱሳን ምሽግ ውስጥ ቁጥር በንጉሡ ፊት መጣ።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "በዚያ ቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ቁጥር"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "የተገደሉት"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "በሱሳን"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "ምሽግ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ... ፊት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:22:17.721973161Z",
+  "model": "glm-5.3"
+}

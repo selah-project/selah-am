@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ወደ ከተማዋ ውጭ ወደ መስኩ ፊት ⟨את⟩ ሕያዋኛውን ወፉን ይለቃል፤ ስለ ቤቱ ያስተስረያል፤ ቤቱም ይከሥናል።",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "ይለቃል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕያዋኛውን ወፉን"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "ወፉን"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ሕያዋኛው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ውጭ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ወደ ከተማዋ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "መስኩ"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ያስተስረያል"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ይከሥናል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:50:59.429620813Z",
+  "model": "glm-5.3"
+}

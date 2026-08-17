@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "በአፌም አዲስ መዝሙር፣ ለኤሎሂም ውዳሴ እንዲሆን አደረገ፤ ብዙዎች ያዩታል፣ ያከብሩማል፣ በያህዌህም ያመናሉ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "በአፌም"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "አዲስ"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ውዳሴ"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ለኤሎሂም"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ያዩታል"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙዎች"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ያከብሩማል"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "ያመናሉ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "በያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:34.258854461Z",
+  "model": "glm-5.3"
+}

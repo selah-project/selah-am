@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ዕዝቅያሁም ⟨את⟩ በቤተ ያህዌህ ውስጥ የተገኘውን ሁሉን ብር እና በየቤተ ንጉሡ አስቆጣሪዎች ውስጥ ያለውን ሁሉ ሰጠው።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "እና ሰጠ"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ዕዝቅያሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን ብር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "የተገኘው"
+    },
+    {
+      "surface": "בית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "እና በአስቆጣሪዎች"
+    },
+    {
+      "surface": "בית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:49:48.454475464Z",
+  "model": "glm-5.3"
+}

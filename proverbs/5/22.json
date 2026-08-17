@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የእርሱ ኃጢያቶች ⟨את⟩ ክፉውን ያነግሩታል፤ እና በኃጢያቱ ገመዶች ይያዛል።",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "የእርሱ ኃጢያቶች"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "ያነግሩታል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክፉውን"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ክፉው"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "እና በገመዶች"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "ኃጢያቱ"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "ይያዛል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:21:14.640473545Z",
+  "model": "glm-5.3"
+}

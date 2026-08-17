@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "የከንብረት ቃል በእርሱ ላይ ይፈሳል፤ ተኝቶ ያለውም እንደገና ሊወጣ አይችልም።",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "የከንብረት"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "ይፈሳል"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "እና"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ተኝቶ ያለውም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይችልም"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "እንደገና"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "ሊወጣ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:38.991416610Z",
+  "model": "glm-5.3"
+}

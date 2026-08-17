@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ያውቃለሁ፣ ያህዌህ፣ ፍርዶችህ ጽድቅ እንደሆኑ፣ እና በታማኝነት አሳዝነኝ።",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "ያውቃለሁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደሆኑ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቅ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ፍርዶችህ"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "እና በታማኝነት"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "አሳዝነኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:22.406251604Z",
+  "model": "glm-5.3"
+}

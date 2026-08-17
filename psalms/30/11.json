@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ስማኝ ያህዌህ እና ውዴ በሉኝ፤ ያህዌህ ረዳት ይሁኑልኝ።",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ስማኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "እና ውዴ በሉኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ረዳት"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:08:39.338405775Z",
+  "model": "glm-5.3"
+}

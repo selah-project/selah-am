@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እሷም ⟨את⟩ ከእሷ ጋር ለመሄድ እንደ ተጠናከረች ባየች ጊዜ ከመናገር እሷን አቆመች።",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ባየች ጊዜ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "እንደ ተጠናከረች"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እሷ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ለመሄድ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ከእሷ ጋር"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "አቆመች"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ከመናገር"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "እሷን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:14:53.161920471Z",
+  "model": "glm-5.3"
+}

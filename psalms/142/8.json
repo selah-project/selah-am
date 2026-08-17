@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 142,
+  "translation": "ነፍሴን ⟨את⟩ ስምህን ለማመስገን ከውህሰት አውጣት፤ በእኔ ወንድሞች ይከብቡኛል፤ የበጎነትህን ይመልስልኛልና።",
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "አውጣት"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "ከውህሰት"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "ለማመስገን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስምህን"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህን"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በእኔ"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "ይከብቡኛሉ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ወንድሞች፤ ጻድቃን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "አለብኝና\/ስለዚህ"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "ይመልስልኛል"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:26.271362765Z",
+  "model": "glm-5.3"
+}

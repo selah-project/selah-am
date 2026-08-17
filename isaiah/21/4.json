@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ልቤ ተቅበዘበዘ፤ መድረቅ አስፈራኝ፤ ⟨את⟩ ምሽቱን የምመኘውን ለርገጠት አደረገልኝ።",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "ተቅበዘበዘ"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "መድረቅ"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "አስፈራኝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምሽቱን የምመኘውን"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "ምሽት"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "የምመኘው"
+    },
+    {
+      "surface": "שם",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ልኝ"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "ለርገጠት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:07:42.290992786Z",
+  "model": "glm-5.3"
+}

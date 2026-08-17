@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 148,
+  "translation": "ወጣቶች፣ እንዲሁም ድንግሎች፤ አዛውንት፣ ከወጣቶች ጋር፤",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "ወጣቶች"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "ድንግሎች"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "አዛውንት"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ወጣቶች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:00.688072480Z",
+  "model": "glm-5.3"
+}

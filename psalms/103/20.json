@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 103,
+  "translation": "እናንተ መልአኮቹ ኃያላን የሆናችሁ፣ ቃሉን የሚያደርጉ፣ የቃሉን ድምፅ ሰምታችሁ ለምንባቡ የምትኖራችሁ — ያህዌህን ባረኩ።",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "ባረኩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "መልአኮቹ"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "ኃያላን የሆናችሁ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "በኃይል"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "የሚያደርጉ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ቃሉን"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ሰምታችሁ ለምንባቡ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "የ…ድምፅ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ቃሉን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:35.282538884Z",
+  "model": "glm-5.3"
+}

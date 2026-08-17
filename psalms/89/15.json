@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "ጽድቅና ፍትሕ የዙፍርህ መሠረት ⟨ናቸው⟩፤ ምሕረትና እውነት ፊትህን ያቀድማሉ።",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቅ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ና ፍትሕ"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "መሠረት"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "የዙፍርህ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ምሕረት"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ና እውነት"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "ያቀድማሉ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:38.011113719Z",
+  "model": "glm-5.3"
+}

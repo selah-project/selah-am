@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 108,
+  "translation": "ተዘጋጅቷል ልቤ፣ ኤሎሂም፤ እተኛለሁ እና እዘምናለሁ፣ እንዲሁም ክብራቴ።",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ተዘጋጅቷል"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ፣"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም፤"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "እተኛለሁ"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "እና እዘምናለሁ፣"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ክብራቴ።"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:23.409739863Z",
+  "model": "glm-5.3"
+}

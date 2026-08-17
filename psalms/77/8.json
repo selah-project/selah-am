@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 77,
+  "translation": "አዶናይ እስከ ዘላለም ይጥላል? እንደገና ሊረካ አይጨምርምን?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "እስከ ዘላለም?"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "ይጥላል"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ይጨምርም"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "ሊረካ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "እንደገና"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:57.105272964Z",
+  "model": "glm-5.3"
+}

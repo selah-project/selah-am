@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ከሰድን፣ ኃዞን፣ ፒልዳሽን፣ ይድላፍንና ቤቱኤልንም ⟨את⟩ ወለደ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ከሰድን"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "ከሰድ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኃዞን"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ኃዞ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ፒልዳሽን"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "ፒልዳሽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ይድላፍን"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "ይድላፍ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱኤልን"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "ቤቱኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T02:40:55.059843509Z",
+  "model": "glm-5.3"
+}

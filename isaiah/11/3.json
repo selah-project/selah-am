@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "በያህዌህ ፍርሃት ደስ ይሰማዋል፤ በዓይኖቹ እይታ አይፈርድም፣ በጆሮዎቹም መስማት አይወቅስም።",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "ደስ ይሰማዋል"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "በፍርሃት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይፈርድም"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "በእይታ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ዓይኖቹ"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "ይፈርዳል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይወቅስም"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "በመስማት"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "ጆሮዎቹ"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ይወቅሳል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:04:19.998530827Z",
+  "model": "glm-5.3"
+}

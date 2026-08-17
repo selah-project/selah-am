@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "አባትህ ደስ ይሠማው፣ እናትህም ትደሰታለች፣ ከወለደችህም ትደሰታለች።",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ደስ ይሠማው"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "አባትህ"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "እናትህም"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ትደሰታለች"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "ከወለደችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:33:15.423341614Z",
+  "model": "glm-5.3"
+}

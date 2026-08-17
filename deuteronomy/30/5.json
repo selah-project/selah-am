@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ያህዌህ ኤሎሂም አባቶችህ ያወረሱትን ⟨את⟩ ምድር ወደ እርሷ ያመጣሃል፤ አንተም ታወራታለህ፤ ከአባቶችህ በላይ ያሻራሃል፤ ያበዛሃል።",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "ያመጣሃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂም አምላክህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያወረሱትን"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "ያወረሱ"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "አባቶችህ"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "ታወራታለህ"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "ያሻራሃል"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "ያበዛሃል"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "ከአባቶችህ በላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:53:27.636372069Z",
+  "model": "glm-5.3"
+}

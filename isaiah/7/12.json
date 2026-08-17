@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "አካዝም እንዲህ አለ፦ አልጠይቅም፣ ⟨את⟩ ያህዌህንም አልፈትንም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "አካዝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "አጠይቅም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "አፈትንም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:59:29.366712061Z",
+  "model": "glm-5.3"
+}

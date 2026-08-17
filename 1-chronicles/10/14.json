@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "በያህዌህም አልጠየቀም፤ ስለዚህ ገደለው፣ ⟨את⟩ መንግሥቱንም ለይሁዳ ለዳዊት ለይሴ ልጅ አዞረው።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "አልጠየቀምም"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "አልጠየቀም"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "በያህዌህ"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ገደለው"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "አዞረው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንግሥቱን"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "መንግሥቱንም"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ይሴ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:45:53.382183287Z",
+  "model": "glm-5.3"
+}

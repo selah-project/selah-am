@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ቤተ እስራኤል ሆይ፣ ያህዌህ ስለ እናንተ የተናገረውን ቃል ⟨את⟩ ስሙ፤",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃሉን"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የተናገረውን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ስለ እናንተ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤተ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:44:50.472884677Z",
+  "model": "glm-5.3"
+}

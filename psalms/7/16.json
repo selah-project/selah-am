@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ጉድጓድ ቈፍሮ በለቀቀው፤ በራሱ በሠራው ጉድጓድ ወደቀ።",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "ጉድጓድ"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "ቈፍሮ"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "በለቀቀው"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ወደቀ"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "በጉድጓድ"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "በሠራው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:28:14.987829861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 55,
+  "translation": "በጠላት ድምፅ፣ ከክፉ ጭንቀት ስንመለከት፣ ክፉነትን ወደ ላዬ ስለሚያወርዱብኝ፣ በቍጣም ይጠላኛል።",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "በድምፅ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ጠላት"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ስንመለከት"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "ጭንቀት"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "ያወርዳሉ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ወደ ላዬ ብኝ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ክፉነትን"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "እና በቍጣ"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "ይጠላኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:41.169265788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 81,
+  "translation": "ብዙሮ ለእስራኤል ሕግ ⟨ነው⟩፤ የያዕቆብ ኤሎሂም ለኤሎሂም ፍርድ ትእዛዝ ነው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ብዙሮ"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ሕግ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ለእስራኤል"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ነው⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድ ትእዛዝ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ለኤሎሂም"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "የያዕቆብ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:57:14.352369021Z",
+  "model": "glm-5.3"
+}

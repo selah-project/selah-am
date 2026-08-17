@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ሳሙኤልም ⟨את⟩ የእስራኤልን ነገዶች ሁሉ አቀረበ፤ የብንያምም ነገድ ተያዘ።",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "አቀረበ፤"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤልም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነገዶች ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ነገዶች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ተያዘ።"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ነገድ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ብንያምም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:37:04.797267315Z",
+  "model": "glm-5.3"
+}

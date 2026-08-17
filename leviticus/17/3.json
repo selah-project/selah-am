@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ከየሩሻላይም ቤት ያንድ ሰው በሰፈሩ ውስጥ የበሬ ወይም የበግ ወይም የፍየል ሊያርድ፣ ወይም ከሰፈሩ ውጭ ሊያርድ የሚያርደው ማንኛውም ሰው፣",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ማንኛውም"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ከቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የየሩሻላይም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚያርደው"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ሊያርድ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "የበሬ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "የበግ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "עז",
+      "gloss": "የፍየል"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "በሰፈሩ ውስጥ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚያርደው"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ሊያርድ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ከ... ውጭ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ከሰፈሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:54:57.180830441Z",
+  "model": "glm-5.3"
+}

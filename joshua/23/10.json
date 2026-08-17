@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "joshua 23:10",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ከእናንተ አንድ ሰው ሺህን ይከተላል፤ ምክንያቱም ያህዌህ ኤሎሂም፣ እርሱ ራሱ ስለ እናንተ የሚዋጋው ነው፣ ከእናንተ ጋር እንደ ተናገረው።",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ከእናንተ"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "ይከተላል"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ ራሱ"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "የሚዋጋው"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ስለ እናንተ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረው"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ከእናንተ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T05:13:30.603600072Z",
+  "model": "glm-5.3"
+}

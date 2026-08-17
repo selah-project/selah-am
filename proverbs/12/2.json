@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "መልካም ሰው ከያህዌህ ጸጋ ያገኛል፤ ክፉ ሴራ የሚያስብ ሰው ግን ⟨እርሱ⟩ ያሳስዳል።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "ያገኛል"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ጸጋን"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ከያህዌህ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "እና ሰው"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "ክፉ ሴራ"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "ያሳስዳል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:27:04.156182521Z",
+  "model": "glm-5.3"
+}

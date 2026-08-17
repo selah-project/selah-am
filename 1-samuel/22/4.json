@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "የሞዓብ ንጉሥንም ⟨את⟩ ፊት አቆማቸው፤ ዳዊትም በመብረቀኛው በቆየ ጊዜ ሁሉ ከእርሱ ጋር ተቀመጡ።",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "አቆማቸው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሞዓብ ንጉሥን ፊት"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥንም"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ተቀመጡ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ጊዜ ሁሉ"
+    },
+    {
+      "surface": "היות",
+      "gloss": "በቆየ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "በመብረቀኛው"
+    }
+  ],
+  "timestamp": "2026-08-16T05:47:58.753715537Z",
+  "model": "glm-5.3"
+}

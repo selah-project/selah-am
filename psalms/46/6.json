@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 46,
+  "translation": "ኤሎሂም በመካነዋ ነው፤ አይናወጥም፤ ኤሎሂም ሲፈነቅል እሷን ይረዳታል።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "በመካነዋ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "አይናወጥም"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "ይረዳታል"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "ሲፈነቅል"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ጠዋት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:51.019273474Z",
+  "model": "glm-5.3"
+}

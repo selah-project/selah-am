@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ምክንያቱም አሻጊያቸው ኃያል ነው፤ እርሱ ⟨את⟩ ክርክራቸውን ከአንተ ጋር ይከሻከራል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "አሻጊያቸው"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ኃያል"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ይከሻከራል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክርክራቸውን"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "ክርክራቸው"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ከአንተ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:32:43.787257531Z",
+  "model": "glm-5.3"
+}

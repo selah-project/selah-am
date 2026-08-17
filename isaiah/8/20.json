@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "isaiah 8:20",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "(ወደ) ቶራ እና (ወደ) ምስክርነት፤ ካልተናገሩ — የንጋት ብርሃን የሌለው በዚህ ቃል መሠረት አይናገሩም ወይ?",
+  "tokens": [
+    {
+      "surface": "לתורה",
+      "gloss": "ወደ ቶራ"
+    },
+    {
+      "surface": "ולתעודה",
+      "gloss": "እና ወደ ምስክርነት"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ካል… ወይ?"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ይናገሩም"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "በቃል መሠረት"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ሆነው"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የሌለ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ንጋት ብርሃን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:00:45.583907532Z",
+  "model": "glm-5.3"
+}

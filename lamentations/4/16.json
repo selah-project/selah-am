@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "lamentations 4:16",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የያህዌህ ፊት በታቸዋል፤ እነርሱን መመልከት አይቀጥልም፤ የካህናትን ፊት አልተሸከሙም፤ አዛውሮችን አልምረውም።",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "በታቸዋል\/ከፋቸዋል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ይቀጥልም"
+    },
+    {
+      "surface": "להביטם",
+      "gloss": "መመልከታቸውን"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊትን"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "የካህናት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ተሸከሙም"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "አዛውሮችን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "ምረውም"
+    }
+  ],
+  "timestamp": "2026-08-16T11:10:26.936495874Z",
+  "model": "glm-5.3"
+}

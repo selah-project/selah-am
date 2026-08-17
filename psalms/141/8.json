@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 141,
+  "translation": "ምክንያቱም ወደ አንተ ያህዌህ አዶናይ ዓይኖቼ ⟨ናቸው⟩፤ በአንተ ላይ ተጠግቼአለሁ፤ ነፍሴን አታሳዘነው\/አትጥለው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኖቼ"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "በአንተ ላይ"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ተጠግቼአለሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תער",
+      "gloss": "አታሳዘነው"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:38.052557577Z",
+  "model": "glm-5.3"
+}

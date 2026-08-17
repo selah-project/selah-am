@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ሰምቻለሁ ⟨את⟩ ያንን ያሉትን ነቢያት በስሜ ውሸት የሚነብዩትን እንዲህ እያሉ፦ ህልም አይቻለሁ፤ ህልም አይቻለሁ።",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "ሰምቻለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያንን (ያሉትን)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ያሉትን"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "ነቢያት"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "የሚነብዩትን"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "በስሜ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ውሸት"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ እያሉ"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ህልም አይቻለሁ"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ህልም አይቻለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:00:11.187782720Z",
+  "model": "glm-5.3"
+}

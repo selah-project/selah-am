@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ኤሎሂም ⟨את⟩ እስራኤልን ከሁሉም በዓውዞቹ ያድነው።",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "ያድነው"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉም"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "በዓውዞቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:10.608387288Z",
+  "model": "glm-5.3"
+}

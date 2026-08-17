@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "የቈረጠው ⟨את⟩ አብራሃምን እና መሐላውን ለይስሐቅ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ቈረጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አብራሃምን"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብራሃምን"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "እና መሐላውን"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "ለይስሐቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:03.637132940Z",
+  "model": "glm-5.3"
+}

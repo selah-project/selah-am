@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 112,
+  "translation": "ዘሩ በምድር ላይ ኃያል ይሆናል፤ የቀጥሮች ትውልድ ይባረካል።",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "ኃያል"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ዘሩ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ትውልድ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ቀጥሮች"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ይባረካል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:21.676407147Z",
+  "model": "glm-5.3"
+}

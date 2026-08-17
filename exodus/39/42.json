@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "እንደ ሁሉ ያዘዘ ያህዌህ ⟨את⟩ ሞሼን እንደዚህ አደረጉ የይስራኤል ልጆች ⟨את⟩ ሁሉን ሥራ።",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "እንደ ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሼን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼን"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "አደረጉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ሥራ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:39:27.050981848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 149,
+  "translation": "በአሕዛኝ ሕዝቦች ላይ ተበቀል ለማካሄድ፣ በአሕዛኝ ብሔራትም ላይ ተግሣጽ ለማድረግ፤",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ለማካሄድ"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "ተበቀል"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "በአሕዛኝ ሕዝቦች"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ተግሣጽ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "በ…ላይ (ግልጽ ያልሆነ)"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "አሕዛኝ ብሔራት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:00.501137654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 112,
+  "translation": "ለቀጥሮች በጨለማ ውስጥ ብርሃን ይወጣል፤ ⟨እርሱ⟩ ምሕረተኛ፣ ራሕም እና ጻድቅ ነው።",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "ይወጣል"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "በጨለማ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "ለቀጥሮች"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "ምሕረተኛ"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "እና ራሕም"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "እና ጻድቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:21.678827650Z",
+  "model": "glm-5.3"
+}

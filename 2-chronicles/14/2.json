@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "የሰውር መሠዊያዎችን ⟨את⟩ እና ቁምታዎችን አስወገደ፣ ሐውልቶችን ⟨את⟩ አፈራረሰ፣ አሸራምቆችን ⟨את⟩ ቈረጠ።",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "አስወገደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሰውር መሠዊያዎችን"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "መሠዊያዎችን"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "የሰውር"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "እና ቁምታዎችን"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "አፈራረሰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሐውልቶችን"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "ሐውልቶችን"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "ቈረጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አሸራምቆችን"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "አሸራምቆችን"
+    }
+  ],
+  "timestamp": "2026-08-16T13:46:09.207117906Z",
+  "model": "glm-5.3"
+}

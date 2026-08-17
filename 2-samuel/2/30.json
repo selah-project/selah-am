@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "2-samuel 2:30",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ዮአብም ከአብነር ኋላ ተመለሰ፤ ⟨את⟩ ሕዝቡንም ሁሉ ሰበሰበ፤ ከዳዊት አገልጋዮችም አሥራ ዘጠኝ ሰዎችና ዓሥራኤል ተቀነሱ።",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "ዮነአብም"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ከኋላ"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "አብነር"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "ሰበሰበም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "ተቆጠሩም"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "ከአገልጋዮች"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ዘጠኝ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥራ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "እና ዓሥራኤል (የስም መጀመሪያ ክፍል)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ዓሥራኤል (የስም ሁለተኛ ክፍል)"
+    }
+  ],
+  "timestamp": "2026-08-16T05:55:48.485550524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የልብ ጥበበኛ ትእዛዞችን ይቀበላል፤ የከንፈሮች ሞኞ ግን ይወድቃል።",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "ጥበበኛ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "የልብ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ይቀበላል"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ትእዛዞችን"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "ሞኞ ግን"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "የከንፈሮች"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "ይወድቃል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:24:44.947233151Z",
+  "model": "glm-5.3"
+}

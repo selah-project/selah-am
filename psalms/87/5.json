@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 87,
+  "translation": "ስለ ጽዮንም «ይህም ሰው እና ⟨ያንን⟩ ሰው በእርሷ ተወለደ» ይባላል፤ እርሷንም የሚያጸናት ኤልዮን ራሱ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "ስለ ጽዮንም"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ይባላል"
+    },
+    {
+      "surface": "איש",
+      "gloss": "አንድ ሰው"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "እና ሌላ ሰው"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ተወለደ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሷ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "እርሱም"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "ያጸናታል"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ኤልዮን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:11.687144928Z",
+  "model": "glm-5.3"
+}

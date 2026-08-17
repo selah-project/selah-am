@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "አሁን እንግዲህ ንጉሥች ሆይ፣ በጥበብ አስተውሉ፤ የ⟨ምድሩ⟩ ፈራጆች ሆይ፣ ተገሠጹ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "አሁን እንግዲህ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ንጉሥች"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "በጥበብ አስተውሉ"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "ተገሠጹ"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "ፈራጆች"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "የምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:27:28.785088063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "ሁሉም ሰው አይቶታል፤ ሞተኛ ሰው ከሩቅ ⟨አያለታል⟩ ያያል።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "አይቶታል"
+    },
+    {
+      "surface": "בו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሞተኛ ሰው"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ያያል"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ከሩቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:57:55.614599822Z",
+  "model": "glm-5.3"
+}

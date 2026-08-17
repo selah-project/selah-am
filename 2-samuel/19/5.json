@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እንዲሁም ንጉሡ ⟨את⟩ ፊቱን ከለለ፤ ንጉሡም በታላቅ ድምፅ አለቀሰ «ልጄ አብስሎም ሆይ፤ አብስሎም፣ ልጄ ሆይ፣ ልጄ ሆይ!»",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "እንዲሁም ንጉሡ"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "ከለለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊቱን"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱን"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "አለቀሰ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጄ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "አብስሎም"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "አብስሎም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጄ ሆይ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጄ ሆይ"
+    }
+  ],
+  "timestamp": "2026-08-17T07:20:16.538137177Z",
+  "model": "glm-5.3"
+}

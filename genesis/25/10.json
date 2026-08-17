@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "አብርሃም ከሐጢ ልጆች ⟨את⟩ የገዛው በረሃ — እዚያ አብርሃም እና ሣራ ሚስቱ ተቀበሩ።",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "በረሃው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ራሱ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ገዛ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃም"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ከ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ሐጢ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "ተቀበረ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃም"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "እና ሣራ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሚስቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:43:38.387488533Z",
+  "model": "glm-5.3"
+}

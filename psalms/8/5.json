@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ሰው ምንድነው እንደታሰብህ ዘንድ? የሰው ልጅስ እንደተጎበኘው ዘንድ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ምንድነው"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሐፍርተ ሥጋ (ሰው)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "ታስበዋለህ"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "እና የ… ልጅ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "ተጎብኘዋለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:00.466561039Z",
+  "model": "glm-5.3"
+}

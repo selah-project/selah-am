@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ያህዌህ ሆይ፣ በኃይልህ ንጉሡ ደስ ይላል፤ በማዳንህም ምን ያህል ይደሰታል!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "በኃይልህ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ደስ ይላል"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "በማዳንህም"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን ያህል"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "ይደሰታል"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "እጅግ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:15.049335076Z",
+  "model": "glm-5.3"
+}

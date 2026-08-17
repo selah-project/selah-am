@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ሞሼና አሃሮንም ለእስራኤል ልጆች ሁሉ እንዲህ አሉ፦ የምሽት ሆኖ ያህዌህ ⟨את⟩ ከምድረ ምጽራይም እናንተን ⟨הוציא⟩ አውጥቶአል የሚያውቁት ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አሉ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "አሃሮንም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "የምሽት ሆኖ"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ታውቃላችሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደሆነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "አውጥቶአል"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ እናንተን",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከምድረ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽራይም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:18:53.022160654Z",
+  "model": "glm-5.3"
+}

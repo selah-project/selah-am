@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "አንተ ግን ያህዌህ ሆይ፣ ለእኔ ጋሻ፣ ክብራት፣ እና ራሴን የሚያነሳኝ አንተ ነህ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተ ግን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ጋሻ"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ክብራት"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "የሚያነሳኝ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ራሴን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:28:13.224613606Z",
+  "model": "glm-5.3"
+}

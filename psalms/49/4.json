@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "አፌ ጥበብን ይናገራል፤ የልቤ ምክንያትም ብዙ ምርመራን ይናገራል።",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "አፌ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ይናገራል"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "ጥበብን"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "የልቤ ምክንያትም ይናገራል"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "ምርመራን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:33.276766305Z",
+  "model": "glm-5.3"
+}

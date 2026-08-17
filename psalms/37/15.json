@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ሰይፋቸው በልባቸው ይገባል፤ ቀስቶቻቸውም ይሰባራሉ።",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "ሰይፋቸው"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ይገባል"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "በልባቸው"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "እና ቀስቶቻቸው"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "ይሰባራሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:48.978817346Z",
+  "model": "glm-5.3"
+}

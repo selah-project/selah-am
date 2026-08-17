@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-chronicles 12:4",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ይስማዕያም ጊብዖናዊው፣ ከሠላሳው መካከል ጀግን፣ እና ከሠላሳው በላይ ኃላፊ።",
+  "tokens": [
+    {
+      "surface": "וישמעיה",
+      "gloss": "ይስማዕያ"
+    },
+    {
+      "surface": "הגבעוני",
+      "gloss": "ጊብዖናዊው"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ጀግን"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "ከሠላሳው መካከል"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በላይ"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "ከሠላሳው"
+    }
+  ],
+  "timestamp": "2026-08-16T12:50:41.092053659Z",
+  "model": "glm-5.3"
+}

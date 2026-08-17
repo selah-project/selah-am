@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "የዚያ ከተማ አለቆች ⟨את⟩ ሰውዬውን ወስደው ይገሠጹታል።",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ወስደው"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "አለቆች"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "የከተማዋ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰውዬውን"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰውዬው"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "ይገሠጹታል"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ሰውዬው"
+    }
+  ],
+  "timestamp": "2026-08-16T15:05:07.153237791Z",
+  "model": "glm-5.3"
+}

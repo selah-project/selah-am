@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "exodus 26:17",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ለአንዱ ሰሌዳ ሁለት እጆች ይሁኑ፤ እርስ በርስ ተያይዘው አንዲት ⟨ከ⟩እህቷ ጋር፤ ለድንኳኑ ሁሉም ሰሌዳዎች እንዲህ ታደርጋለህ።",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "ידות",
+      "gloss": "እጆች"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "ለሰሌዳ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ለአንዱ"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "ተያይዞ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "አንዲት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "እህቷ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "ሰሌዳዎች"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ድንኳኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:26:04.104368192Z",
+  "model": "glm-5.3"
+}

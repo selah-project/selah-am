@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 144,
+  "translation": "እጆችህን ከላይ ላከኝ፤ አውጣኝ እና ከብዙ መናው ከብዕረ ነገዶች እጅ አድነኝ።",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ላከኝ"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "እጆችህን"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ከላይ"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "አውጣኝ"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "እና አድነኝ"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "ከ…መና"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከ…እጅ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ወንድሞች\/ወንድሞች"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "የብዕረ ነገድ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:00.491712495Z",
+  "model": "glm-5.3"
+}

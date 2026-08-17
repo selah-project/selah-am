@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ያህዌህ በሰሎሞን ተቃወመ፣ ልቡ ከእስራኤል ኤሎሂም ከሆነው ያህዌህ — በርሱ ላይ ሁለት ጊዜ የታየው — ተጠልቶ ነበርና።",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "ተቃወመ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "በሰሎሞን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ልክ እንደ"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ተጠለቀ"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "የታየው"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "በርሱ ላይ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ሁለት ጊዜ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:45:36.461703255Z",
+  "model": "glm-5.3"
+}

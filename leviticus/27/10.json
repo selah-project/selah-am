@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "አይለውጠውም እና አይተካውም ⟨את⟩ — መልካምን በክፉ ወይም ክፉን በመልካም፤ እና ቢለውጥ ቢተካ እንስሳን በእንስሳ፣ እርሱም ሆኖ እና መተካቱም ቅዱስ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "ይለውጠውም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "ይተካውም"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካምን"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "በክፉ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉን"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "በመልካም"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "እና ከሆነ"
+    },
+    {
+      "surface": "המר",
+      "gloss": "ቢለውጥ"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "ቢተካ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "እንስሳን"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "በእንስሳ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "እና ይሆናል"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "እና መተካቱ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:50:14.194891034Z",
+  "model": "glm-5.3"
+}

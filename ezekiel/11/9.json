@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እናንተን ከመካከሏ አወጣችሁ፤ እናንተን ⟨את⟩ በእጅ አሳልፌ ሰጠሁ፤ በአጀንቃዎች እጅ፤ በእናንተ ላይ ፍርዶችን አከናወናለሁ።",
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "አወጣችሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "ከመካከሏ"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ሰጠሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጅ"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "አጀንቃዎች"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "አደርጋለሁ"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "በእናንተ"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ፍርዶችን"
+    }
+  ],
+  "timestamp": "2026-08-16T08:22:46.328231699Z",
+  "model": "glm-5.3"
+}

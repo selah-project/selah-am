@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ዳዊትና አገልጋዮቹ ወደ ከተማዋ ሲመጡ እነሆ፣ ⟨ናት⟩ በእሳት ተቃጥላለች፤ ሚሳታቸውም ወንዶቻቸውም ሴቶቻቸውም ተማረኩ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ሲመጡ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትና"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "አገልጋዮቹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "ተቃጥላለች"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "ሚሳታቸውም"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "ወንዶቻቸውም"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "ሴቶቻቸውም"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "ተማረኩ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:52:03.917143013Z",
+  "model": "glm-5.3"
+}

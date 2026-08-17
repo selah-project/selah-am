@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "ሲፈረድ ክፉው እንዲወጣ ⟨ይሁን⟩፤ መሰረዙም ለኃጢአት ይሁን።",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "ሲፈረድ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "እንዲወጣ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉው"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "መሰረዙም"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "ለኃጢአት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:02.968046368Z",
+  "model": "glm-5.3"
+}

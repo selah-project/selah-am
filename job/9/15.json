@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "job 9:15",
+  "book": "job",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እኔ ጽድቅ ብኖረኝም አልመልስም፤ ለሚፈርጀኝ እማጸናለሁ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ብኖረኝም በ... ጊዜ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "...ም"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "ጽድቅ ብኖረኝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "አልመልስም"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "ለሚፈርጀኝ"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "እማጸናለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:43:40.018710764Z",
+  "model": "glm-5.3"
+}

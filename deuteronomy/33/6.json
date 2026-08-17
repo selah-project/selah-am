@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ሮብኤን ይኑር፣ እና አይሙት፤ ወንዶቹም ቁጥር ይሁኑ።",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "ይኑር"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ሮብኤን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "ይሙት"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "እና ይሁን"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "ወንዶቹ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ቁጥር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:57:15.904291829Z",
+  "model": "glm-5.3"
+}

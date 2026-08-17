@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "job 40:4",
+  "book": "job",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "እነሆ ቀላል ሆንሁ፤ ምን አመልስልሃለሁ? እጄን በአፌ ላይ አኖር።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "קלתי",
+      "gloss": "ቀላል ሆንሁ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "አመልስልሃለሁ?"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "እጄን"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "አኖር"
+    },
+    {
+      "surface": "למו",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፌ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:00:50.121292828Z",
+  "model": "glm-5.3"
+}

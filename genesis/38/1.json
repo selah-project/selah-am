@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "በዚያ ጊዜ ሆኖ ይሁዳ ከወንድሞቹ ⟨ከ⟨את⟩⟩ ወረደ፤ ወደ አድላማዊው ሰው ዘነበ፤ ስሙም ኺራ ተባለ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆኖ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "በዚያ ጊዜ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያኔ"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ወረደ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ከ⟨את⟩",
+      "marks": "ወንድሞቹ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሞቹ"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ዘነበ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "አድላማዊው"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ስሙም"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "ኺራ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:55:49.096604190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 60,
+  "translation": "ምድርን አስንቀጠቀጥሃት፣ በራታትም፤ ቁሻቋን ፈውስ፣ የምትወዛወዛት ናትና።",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "አስንቀጠቀጥሃት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "በራታት"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "ፈውስ"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "ቁሻቋን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ና"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "የምትወዛወዛት ናት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:42.934033540Z",
+  "model": "glm-5.3"
+}

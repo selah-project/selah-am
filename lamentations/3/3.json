@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "አዎ ብቻ በእኔ ላይ ተመለሶ እጁን ይገልብጣል በየቀኑ ሁሉ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "አዎ ብቻ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ተመለሶ"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "ይገልብጣል"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "በየቀኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:09:39.995069010Z",
+  "model": "glm-5.3"
+}

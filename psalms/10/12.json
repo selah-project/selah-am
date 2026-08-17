@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ተነሣህ ያህዌህ፤ ኤል እጅህን አንሣ፤ ድሆችን አትርሳ።",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ተነሣህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "አንሣ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አትርሳ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "አትርሳ"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ድሆችን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:25.574570739Z",
+  "model": "glm-5.3"
+}

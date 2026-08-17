@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "judges 9:25",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "የሳቁርን አባቶች ለእርሱ ወደ ተራሮች ራስ ላይ መሸሸጊያዎችን አቆሙ፤ በመንገድ በእነርሱ ላይ የሚያልፍን ⟨את⟩ ሁሉን ዘረፉ፤ ለአቢሜሌክም ተነገረ።",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "አቆሙ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "የ…አባቶች"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ሳቁርን"
+    },
+    {
+      "surface": "מארבים",
+      "gloss": "መሸሸጊያዎችን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ራስ ላይ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ተራሮች"
+    },
+    {
+      "surface": "ויגזלו",
+      "gloss": "ዘረፉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚያልፍን"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ያልፍ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "በእነርሱ ላይ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ተነገረ"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "ለአቢሜሌክም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:21:36.723117921Z",
+  "model": "glm-5.3"
+}

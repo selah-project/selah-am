@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 140,
+  "translation": "አንደበታቸውን እንደ እባብ ቀስፈዋል፤ የአስፕ እባብ መርዝ በከንፈሮቻቸው ሥር ⟨ነው⟩። ሰላህ።",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "ቀስፈዋል"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "አንደበታቸውን"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "እባብ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "መርዝ"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "የአስፕ እባብ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በሥር"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ከንፈሮቻቸው"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:06.991402671Z",
+  "model": "glm-5.3"
+}

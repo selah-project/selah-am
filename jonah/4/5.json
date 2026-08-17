@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "jonah 4:5",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ዮና ከከተማዋ ወጣ፤ በከተማዋም ምሥራቅ ተቀመጠ፤ በዚያም ለራሱ ጎማ ሠራ፤ ከከተማው ምን እንደሚሆን እስኪያይ ድረስ በጥላዋ ሥር ተቀመጠ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ዮና"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቀመጠ"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "በምሥራቅ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ከተማዋን"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለራሱ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "סכה",
+      "gloss": "ጎማ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቀመጠ"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "በሥሯ ሥር"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "በጥላ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪያይ ድረስ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ያይ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "እንደሚሆን"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "በከተማው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:11:37.683501917Z",
+  "model": "glm-5.3"
+}

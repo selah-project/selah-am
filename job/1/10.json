@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "አንተ ለእርሱ፣ ለቤቱም፣ ለእርሱ ለሆነውም ሁሉ በዙሪያው ሳትከልልክ አልነበረምን? የእጁን ሥራ ባረክኸው፤ ከብቱም በምድር አወረደ።",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "አልነበረምን"
+    },
+    {
+      "surface": "את",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "አከልልኸው"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "እና ለ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "እና ለ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "በዙሪያው"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "የእጁ"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "ባረክኸው"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "እና ከብቱ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "አወረደ\/በረተ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:40:29.215140119Z",
+  "model": "glm-5.3"
+}

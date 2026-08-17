@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ሞያፍታን አፈርጃለሁ መስዋዕትን ሳይሆን፤ የኤሎሂምን እውቀትም ከሙላ መስዋዕት በላይ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "አፈርጃለሁ ስለ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሞያፍታን"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "አፈርጃለሁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ሳይሆን"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "መስዋዕትን"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "እውቀትም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "የኤሎሂምን"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "ከሙላ መስዋዕት በላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:57:24.830556901Z",
+  "model": "glm-5.3"
+}

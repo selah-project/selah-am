@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "2-chronicles 4:19",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ሰሎሞንም እነዚህን ሁሉ ዕቃዎች የኤሎሂም ቤት ⟨את⟩ አዘጋጠመ፤ የወርቅ መሠዊያ ⟨את⟩ እና ሠረጎች ⟨את⟩ እና በላያቸውም የፊት ዳቦ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አዘጋጠመም"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እነዚህን ሁሉ ዕቃዎች"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ዕቃዎች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩…እና",
+      "marks": "የወርቅ መሠዊያ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠዊያ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "የወርቅ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩…እና",
+      "marks": "ሠረጎች"
+    },
+    {
+      "surface": "השלחנות",
+      "gloss": "ሠረጎች"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "በላያቸውም"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦ"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "የፊት"
+    }
+  ],
+  "timestamp": "2026-08-16T13:32:21.147922556Z",
+  "model": "glm-5.3"
+}

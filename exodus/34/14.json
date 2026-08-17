@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "exodus 34:14",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ምክንያቱም ለሌላ ኤል አትሰግዱ፤ ምክንያቱም ያህዌህ «ቅናተኛ» የሚል ስም ያለው ቅናተኛ ኤል እርሱ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "ሰግዱ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ለሌላ ኤል"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ሌላ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ቅናተኛ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "የሚል ስም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ቅናተኛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ ⟨ነው⟩"
+    }
+  ],
+  "timestamp": "2026-08-16T03:32:44.148467053Z",
+  "model": "glm-5.3"
+}

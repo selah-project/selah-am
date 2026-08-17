@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "jeremiah 51:4",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "እና የተጎዱት በካስዲም ምድር ይወድቃሉ፣ እና የተተኩቱት በመንገዶቿ ውስጥ።",
+  "tokens": [
+    {
+      "surface": "ונפלו",
+      "gloss": "እና ይወድቃሉ"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "የተጎዱት፣ የተገደሉት"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "የካስዲም (ከልደናውያን)"
+    },
+    {
+      "surface": "ומדקרים",
+      "gloss": "እና የተተኩቱት"
+    },
+    {
+      "surface": "בחוצותיה",
+      "gloss": "በመንገዶቿ ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:14:26.241627635Z",
+  "model": "glm-5.3"
+}

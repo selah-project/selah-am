@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 91,
+  "translation": "ምክንያቱም አንተ ያህዌህ መጠለያዬ ነህ፤ እጅግ የላቀውን (ኤል ዓልዮንን) ማደሪያህ አድርገኸዋል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "መጠለያዬ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "እጅግ የላቀው"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "አድርገኸዋል"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "ማደሪያህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:16.123524457Z",
+  "model": "glm-5.3"
+}

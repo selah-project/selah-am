@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እነርሱንም «እኩልም ሦስት ቀን ቆዩ፤ ከዚያም ወደ እኔ ተመልሱ» አላቸው፤ ሕዝቡም ሄደ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አላቸው፤"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "እነርሱንም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "እኩልም"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "ተመልሱ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ፤"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡም"
+    }
+  ],
+  "timestamp": "2026-08-16T13:45:17.470966469Z",
+  "model": "glm-5.3"
+}

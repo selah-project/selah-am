@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ለዳዊት። ያህዌህ ፍርደኝ፣ በእውነት በንጹህነቼ ሄድኩ፤ በያህዌህም ተስፋ አደረግሁ፣ አልንቀጠቀጥም።",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "ፍርደኝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "በንጹህነቼ"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ሄድኩ"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "በያህዌህም"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ተስፋ አደረግሁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "ንቀጠቀጥም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:37:16.622460240Z",
+  "model": "glm-5.3"
+}

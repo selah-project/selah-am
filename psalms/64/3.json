@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 64,
+  "translation": "ከክፉዎች ምስጢር፣ ከክፉ ሠሪዎች ንዝረት ተሰውረኝ።",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "ተሰውረኝ"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "ከምስጢር"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "የክፉዎች"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "ከንዝረት"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "የሠሪዎች"
+    },
+    {
+      "surface": "און",
+      "gloss": "ክፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:36.674378463Z",
+  "model": "glm-5.3"
+}

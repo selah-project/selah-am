@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እና ከሱኮት ተነሱ፤ በኤታምም በምድረ በዳ ጠርዝ ሰፈሩ።",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ተነሱ"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "ከሱኮት"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ሰፈሩ"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "በኤታም"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "በ፤ጠርዝ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "የምድረ በዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:15:23.407166439Z",
+  "model": "glm-5.3"
+}

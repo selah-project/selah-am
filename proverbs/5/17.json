@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የሚሆኑልህ ለራስህ ብቻ ይሁኑ፤ ለእንግዳውያንም ⟨את⟩ ከአንተ ጋር የሚሆን የለም።",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ይሁኑ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ልህ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ለራስህ ብቻ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለምም"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "ለእንግዳውያን"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ከአንተ ጋር",
+      "marks": "እንግዳውያን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:21:50.194554720Z",
+  "model": "glm-5.3"
+}

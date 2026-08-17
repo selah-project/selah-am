@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "በሰንበት ቀን፣ በሰንበት ቀን፣ በያህዌህ ፊት ሁልጊዜ ያዘጋጃል፤ ከእስራኤል ልጆች ⟨את⟩ የዘላለም ቃል ኪዳን ነው።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ሰንበት"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ሰንበት"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "ያዘጋጃል"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ከእስራኤል ልጆች"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ቃል ኪዳን"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:59:49.062491093Z",
+  "model": "glm-5.3"
+}

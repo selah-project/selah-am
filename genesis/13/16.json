@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ዘርህንም ⟨את⟩ እንደ ምድር አፈር አደርገዋለሁ፤ አንድ ሰው የምድሩን አፈር ⟨את⟩ መቁጠር ከቻለ ዘርህም ቁጠር ይቻላል።",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "አደርገዋለሁም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዘርህን"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ዘርህን"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "እንደ አፈር"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ከቻለ ከዚያ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከ…"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ቻለ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "አንድ ሰው"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "መቁጠር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የምድሩን አፈር"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "አፈር"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ምክንያቱም\/በተመሳሳይም"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ዘርህም"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "ይቆጠራል"
+    }
+  ],
+  "timestamp": "2026-08-16T02:35:38.157779897Z",
+  "model": "glm-5.3"
+}

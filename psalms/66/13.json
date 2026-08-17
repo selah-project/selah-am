@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 66:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 66,
+  "translation": "ወደ ቤትህ በሚቃጠሉ መሥዋዕቶች እገባለሁ፤ ቃለ መላኪያዬን ለህ እሞላለሁ።",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "እገባለሁ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ወደ ቤትህ"
+    },
+    {
+      "surface": "בעולות",
+      "gloss": "በሚቃጠሉ መሥዋዕቶች"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "እሞላለሁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለህ"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "ቃለ መላኪያዬን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:15.816698239Z",
+  "model": "glm-5.3"
+}

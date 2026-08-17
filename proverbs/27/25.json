@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "proverbs 27:25",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ሣር ገለጠ፣ ደረቁ ሣሮችም ታዩ፤ የተራሮችም አረሞች ተሰበሰቡ።",
+  "tokens": [
+    {
+      "surface": "גלה",
+      "gloss": "ገለጠ"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ሣር"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "እና ታዩ"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ደረቁ ሣሮች"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "እና ተሰበሰቡ"
+    },
+    {
+      "surface": "עשבות",
+      "gloss": "አረሞች"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "የተራሮች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:35:47.078318711Z",
+  "model": "glm-5.3"
+}

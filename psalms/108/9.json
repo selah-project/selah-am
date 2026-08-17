@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 108,
+  "translation": "ግልዓድ የእኔ ነው፤ ምናሴ የእኔ ነው፤ ኤፍራይምም የራሴ መበላሸጊያ ነው፤ ይሁዳ የእኔ አዋጭ ነው።",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "የእኔ ነው"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ግልዓድ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "የእኔ ነው"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሴ"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ኤፍራይምም"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "መበላሸጊያ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "የራሴ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "የእኔ አዋጭ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:16.508806719Z",
+  "model": "glm-5.3"
+}

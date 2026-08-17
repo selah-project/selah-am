@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "isaiah 10:32",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ዛሬውኑ በኖብ ያቆማል፤ የጽዮን ሴት ተራራ፣ የየሩሳሌም ኮረብላ ላይ እጁን ያንዘፋል።",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "ዛሬውኑ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ቀኑ"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "በኖብ"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "ያቆማል"
+    },
+    {
+      "surface": "ינפף",
+      "gloss": "ያንዘፋል"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ሴት የ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "ኮረብላ የ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሳሌም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:02:26.690072498Z",
+  "model": "glm-5.3"
+}

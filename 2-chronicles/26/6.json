@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ወጣም፤ በፕልስቲም ላይ ተዋጋ፤ የጋት አፍርጋለሁ ⟨את⟩ በርን፣ ⟨את⟩ የያብኔ አፍርጋለሁ በርን፣ ⟨את⟩ የአሽዶድ አፍርጋለሁ በርን፤ በአሽዶድና በፕልስቲምም ከተሞችን ሠራ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጣም"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ተዋጋ"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "በፕልስቲም ላይ"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "አፍርጋለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በርን"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "የ… በር"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ጋት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "በርን"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "የ… በር"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ያብኔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "በርን"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "የ… በር"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "አሽዶድ"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ከተሞችን"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "በአሽዶድ"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "በፕልስቲምም"
+    }
+  ],
+  "timestamp": "2026-08-16T14:11:17.165452480Z",
+  "model": "glm-5.3"
+}

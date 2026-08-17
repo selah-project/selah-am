@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "በንደቀር በማቃጽ እና በሻዓልቢም እና በቤትሸመሽ እና ኤሎን ቤትሐናን።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "በንድቀር"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "የደቀር ልጅ"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "በማቃጽ"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "እና በሻዓልቢም"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "እና በቤት"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ሸመሽ"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "እና ኤሎን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ሐናን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:14:07.394333840Z",
+  "model": "glm-5.3"
+}

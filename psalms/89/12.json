@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "ሰማያት የአንተ ⟨ናቸው⟩፤ ምድርም ዑልታው የአንተ ⟨ናት⟩፤ ዓለምንና ሙላቷን አንተ መሠረትሃቸዋል።",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "የአንተ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ምድርም ዑልታው"
+    },
+    {
+      "surface": "לך",
+      "gloss": "የአንተ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ዓለምን"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "እና ሙላቷን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "መሠረትሃቸዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:16.509202495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "አቢሜሌክም አብርሃምን አለው፦ ምን አየህ፣ እንደ ሆነ ⟨את⟩ ⟨የ⟩ቃሉን ⟨ይህንን⟩ አድርገሃል?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለውም"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "አቢሜሌክ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃም"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "አየህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ ሆነ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "አድርገሃል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የቃሉን ይህንን"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "የቃሉን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህንን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:40:33.766361599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እንዲሁም ለሁሉም ⟨በ⟩ቃላት ያሉት በሚናገሩ ወቅት ልብህን አትስጥ፤ የአገልጋይህ እርስውን እየረገምህ ስለሆነ እንዳትሰማ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያሉት"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "በሚናገሩ ወቅት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ስጥ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ልብህን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ስለሆነ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "እንዳት"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እርስውን (የአገልጋይህን እውቀት በሚመስል ሁኔታ)"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "የአገልጋይህ"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "እየረገምህ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:15:52.189532403Z",
+  "model": "glm-5.3"
+}

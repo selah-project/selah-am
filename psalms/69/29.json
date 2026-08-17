@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "ከሕይወት መጽሐፍ ይጠፉ፤ ከጻድቃን ጋር አይጻፉም።",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "ይጠፉ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "መጽሐፍ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ሕይወት"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ጻድቃን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "ይጻፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:21.818214760Z",
+  "model": "glm-5.3"
+}

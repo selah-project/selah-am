@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "job 37:10",
+  "book": "job",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "በኤል እስትንፋስ በረዶ ይሰጣል፤ እና የውሃውን ስፋት ያጥባል።",
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "በ… እስትንፋስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይሰጣል"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "በረዶ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "እና ስፋት"
+    },
+    {
+      "surface": "מים",
+      "gloss": "የውሃውን"
+    },
+    {
+      "surface": "במוצק",
+      "gloss": "ያጥባል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:58:04.578313288Z",
+  "model": "glm-5.3"
+}

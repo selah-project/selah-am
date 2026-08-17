@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "እናም ⟨את⟩ ርዝመቱን ሃያ ክንድ እና ስፋቱን ሃያ ክንድ በሕክምና ቤቱ ፊት መጠነ፤ እናም ወደ እኔ አለኝ «ይህ ቅዱሳን ቅዱስ ነው»።",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "መጠነ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ርዝመቱን"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ርዝመቱን"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ሃያ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ክንድ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "እና ስፋት"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ሃያ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ክንድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ሕክምና ቤቱ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እናም አለ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ቅዱሳን"
+    }
+  ],
+  "timestamp": "2026-08-16T17:52:36.214896730Z",
+  "model": "glm-5.3"
+}

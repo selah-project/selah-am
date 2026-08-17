@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "jeremiah 21:1",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ወደ ኤርምያስ ከያህዌህ ⟨את⟩ የመጣው ቃል፣ የጽድቅያስ ንጉሥ ወደ እርሱ በላከበት ጊዜ፣ የሚልክያህ ልጅ ፓሽሑርን ⟨את⟩ እና የማዕሰያህ ልጅ ካህኑ ፍጥረንያስን ⟨את⟩ እንዲህ ሲል ላከ።",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ቃሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "የመጣው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ኤርምያስ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ከ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "በላከበት ጊዜ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ጽድቅያስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፓሽሑርን"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "ፓሽሑር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "ሚልክያህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ፍጥረንያስን"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "ፍጥረንያስ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "ማዕሰያህ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:52:15.123873659Z",
+  "model": "glm-5.3"
+}

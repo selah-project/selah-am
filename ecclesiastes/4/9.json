@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ሁለቱ ከ⟨አንዱ⟩ ይሻላሉ፣ ምክንያቱም በሥራቸው መልካም ደመወዝ አላቸው።",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "ይሻላሉ"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ሁለቱ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "አንዱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "יש",
+      "gloss": "አላቸው"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነርሱ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ደመወዝ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "በሥራቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T11:13:13.748549116Z",
+  "model": "glm-5.3"
+}

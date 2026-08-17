@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ጥሩ በጣም ቃልህ — የተፈተነ — እና አገልጋይህ ወደደችው።",
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "የተፈተነ — ጥሩ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ቃልህ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "እና አገልጋይህ"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ወደደችው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:40.876695917Z",
+  "model": "glm-5.3"
+}

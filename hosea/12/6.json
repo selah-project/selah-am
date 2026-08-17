@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "እና ያህዌህ፣ የሰራዊት ኤሎሂም — ያህዌህ ⟨ነው⟩ መታሰቢያው።",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "እና ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም የ"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "መታሰቢያው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:01:06.939149209Z",
+  "model": "glm-5.3"
+}

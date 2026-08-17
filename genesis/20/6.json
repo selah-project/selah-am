@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 20:6",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ኤሎሂም በሕንፈት እንዲህ አለው፦ እኔም እንኳ በልብህ በታማኝነት ይህን እንደ አደረግህ አውቄያለሁ፤ እኔም እንኳ ልትቀጣኝ ዘንድ ⟨את⟩ ከእኔ ላይ ከመድፈር ማግዘኝልሁህ። ስለዚህ እንዳትነካት አልተውህም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בחלם",
+      "gloss": "በሕንፈት"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንኳ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "አውቄያለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "በታማኝነት"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "የልብህ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "አደረግህ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "ואחשך",
+      "gloss": "እና ማግዘኝልሁህ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንኳ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "አንተ"
+    },
+    {
+      "surface": "מחטו",
+      "gloss": "ከመድፈር"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ከእኔ ላይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚህ ምክንያት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ተውህም"
+    },
+    {
+      "surface": "לנגע",
+      "gloss": "እንዳትነካ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "እሷን"
+    }
+  ],
+  "timestamp": "2026-08-16T14:31:14.515521086Z",
+  "model": "glm-5.3"
+}

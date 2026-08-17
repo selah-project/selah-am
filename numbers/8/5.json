@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "numbers 8:5",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ያህዌህ ሞሼን ይህን እንዲል ተናገረው።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:10:46.422695648Z",
+  "model": "glm-5.3"
+}

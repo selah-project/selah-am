@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ስለዚህ ታዛዦችህን በሙሉ በሁሉም ነገር ቀና ⟨አድርጌያለሁ⟩፤ የሐሰትን መንገድ ሁሉ ጠላሁ።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ታዛዦችህን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በሁሉም ነገር"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "ቀና አድርጌያለሁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "የሐሰት"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ጠላሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:35.286008888Z",
+  "model": "glm-5.3"
+}

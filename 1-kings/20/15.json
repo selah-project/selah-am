@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "የየአውራጃዎቹ አለቆችን ወጣቶች ⟨את⟩ ቆጠረ፤ ሁለት መቶ ሠላሳ አራት ሆኑ፤ ከእነርሱም በኋላ ሕዝቡን ሁሉ ⟨את⟩ ቆጠረ፤ የእስራኤል ልጆች ሁሉ ሰባት ሺሕ ናቸው።",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "ቆጠረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወጣቶችን"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ወጣቶችን"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "የአለቆች"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "የአውራጃዎቹ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ሆኑ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ሁለት መቶ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ሠላሳ"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "ከእነርሱም በኋላ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ቆጠረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሺሕ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:32:52.858342030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "በእውነት ውኃ በጠማው ላይ እና ፈሳሾችን በደረቁት ላይ አፈስሳለሁ፤ መንፈሴን በዘርህ ላይ እና በረከቴን በዘሮችህ ላይ አፈስሳለሁ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "አፈስሳለሁ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውኃ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "ጠማው"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "እና ፈሳሾችን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "ደረቁት"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "አፈስሳለሁ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "መንፈሴን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "በዘርህ"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "እና በረከቴን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "በዘሮችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:21:54.100285128Z",
+  "model": "glm-5.3"
+}

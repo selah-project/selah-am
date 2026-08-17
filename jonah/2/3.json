@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እንዲህ አለ፦ በመከራዬ ላይ ወደ ያህዌህ ጮኻሁ እርሱም መለሰኝ፤ ከሲኦል ሆድ ጮኸሁ አንተም ድምጼን ሰማኸ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ጮኻሁ"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "በመከራዬ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "መለሰኝ"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ከሆድ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሲኦል"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ጮኸሁ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ሰማኸ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ድምጼን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:10:28.130200806Z",
+  "model": "glm-5.3"
+}

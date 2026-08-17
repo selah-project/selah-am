@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 88,
+  "translation": "ሙሉ ቀን እንደ ውኃ አክብበውኝ ነበር፤ በአንድነት ወጥተው በእኔ ላይ ተኮሱኝ ነበር።",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "አክብበውኝ ነበር"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "እንደ ውኃ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሙሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "ተኮሱኝ ነበር"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "በአንድነት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:30.324434069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "numbers 24:24",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ከኪቲም እጅ በኩል መርከቦች ይመጣሉ፤ አሹርን ያሳመዱታል፤ ዔበርን ያሳመዱታል፤ እርሱም ራሱ እስከ መጨረሻው ይጠፋል።",
+  "tokens": [
+    {
+      "surface": "וצים",
+      "gloss": "መርከቦች"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "ኪቲም"
+    },
+    {
+      "surface": "וענו",
+      "gloss": "ያሳመዱታል"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "አሹርን"
+    },
+    {
+      "surface": "וענו",
+      "gloss": "ያሳመዱታል"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ዔበርን"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እርሱም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ራሱ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "እስከ መጨረሻው"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ይጠፋል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:22:35.765609182Z",
+  "model": "glm-5.3"
+}

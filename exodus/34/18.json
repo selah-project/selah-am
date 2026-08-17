@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "exodus 34:18",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "የማፍራት በዓልን ⟨את⟩ ታስጠብቃለህ፤ ሰባት ቀን አፍራች ታበላለህ፣ በአቢብ ወር በተወሰነው ወቅት እንዳዘዝሁህ፤ በአቢብ ወር ከግብፅ ወጣህና።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የማፍራት በዓልን"
+    },
+    {
+      "surface": "חג",
+      "gloss": "በዓል"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "የማፍራት"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ታስጠብቃለህ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ታበላለህ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "አፍራች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "አዘዝሁህ"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "በተወሰነው ወቅት"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ወር"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "አቢብ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ና"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "በአቢብ ወር"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "አቢብ"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "ወጣህ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ከግብፅ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:33:09.070228538Z",
+  "model": "glm-5.3"
+}

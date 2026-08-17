@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ኤርምያስም በሕዝቡ መካከል ወጥቶ ይገባ ነበር፤ ወደ መታሰቢያ ቤትም አልጨረሱትም።",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "ኤርምያስም"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ይገባ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ወጥቶ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል።"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "አስገቡ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "እርሱን ⟨את⟩",
+      "marks": "ኤርምያስን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "መታሰቢያ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:04:28.157858816Z",
+  "model": "glm-5.3"
+}

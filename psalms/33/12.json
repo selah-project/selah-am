@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "የተባረከው ⟨ሕዝብ⟩ ያህዌህ ኤሎሂም ⟨ሆነው፤⟩ ⟨እርሱ⟩ ለወራሽነት ⟨ለራሱ⟩ የመረጠው ሕዝብ።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "የተባረከው"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "⟨ሕዝብ⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "የመረጠው"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "ለወራሽነት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ለራሱ⟩"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:18.385854762Z",
+  "model": "glm-5.3"
+}

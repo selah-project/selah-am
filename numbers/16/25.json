@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "numbers 16:25",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ሞሼም ተነሣ ወደ ዳታንና ወደ አብራም ሄደ፤ የእስራኤል ሽማግሌዎችም በኋሉ ሄዱ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሣ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "ዳታን"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "እና ወደ አብራም"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ሄዱ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "በኋሉ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "የ…ሽማግሌዎች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:17:43.329322076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "አንተም የሰው ልጅ፣ ደም በቀለች ከተማን ⟨את⟩ ትፈርዳለህ ወይ? ትፈርዳለህ ወይ? በደለ ከተማዋን ⟨את⟩ አንትታት እንዲህ አሳውቃታለህ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "ትፈርዳለህ ወይ?"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "ትፈርዳለህ ወይ?"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደም በቀለች ከተማን"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "ደም በቀለች"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "አሳውቃታለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ርኵሐቶቿን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "ርኵሐቶቿ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:31:39.161818791Z",
+  "model": "glm-5.3"
+}

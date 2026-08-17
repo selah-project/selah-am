@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እኔ የሳሸር አበባ ሆኜአለሁ፤ የሸለሆች ሲሳ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "አበባ (ሳሸር)"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "ሳሸር"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "ሲሳ"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "ሸለሆች"
+    }
+  ],
+  "timestamp": "2026-08-16T11:03:01.117532647Z",
+  "model": "glm-5.3"
+}

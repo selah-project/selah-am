@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 9:19",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "አዶናይ ስማው፤ አዶናይ ይቅርበት፤ አዶናይ አድምጠው፣ አድርገው፤ አትዘግይ፣ ስለ ራስህ፣ ኤሎሂም የኔ፣ በከተማህም በሕዝብህም ላይ ስምህ ተጠርቷልና።",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ስማው"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "סלחה",
+      "gloss": "ይቅርበት"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "አድምጠው"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "አድርገው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "ትዘግይ"
+    },
+    {
+      "surface": "למענך",
+      "gloss": "ስለ ራስህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም የኔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህ"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "ተጠርቷል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "עירך",
+      "gloss": "ከተማህ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ… ላይ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ሕዝብህ"
+    }
+  ],
+  "timestamp": "2026-08-17T10:34:50.765527489Z",
+  "model": "glm-5.3"
+}

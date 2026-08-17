@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "judges 12:12",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "እና ኤሎን ዘውሉናዊው ሞተ፤ በዘቡሉን ምድር በአይያሎን ተቀበረ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "እና ሞተ"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "ኤሎን"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "ዘውሉናዊው"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ተቀበረ"
+    },
+    {
+      "surface": "באילון",
+      "gloss": "በአይያሎን"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ዘቡሉን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:22:49.713430898Z",
+  "model": "glm-5.3"
+}

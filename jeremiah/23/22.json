@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 23:22",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ነገር ግን በምክሩ ቢቆሙ ከእኔ የነገርኩትን ቃላት ⟨את⟩ ሕዝቤን ቢያሰሙ ከክፉ መንገዳቸው፣ ከክፋትም ተግባራቸው ቢመልሷቸው ነበር።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ነገር ግን ቢ"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ቢቆሙ"
+    },
+    {
+      "surface": "בסודי",
+      "gloss": "በምክሩ ከእኔ"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ቢያሰሙ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላቼን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቤን"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤን"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "ቢመልሷቸው"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "ከመንገዳቸው"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "ומרע",
+      "gloss": "ከክፋትም"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ተግባራቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T17:10:30.501794426Z",
+  "model": "glm-5.3"
+}

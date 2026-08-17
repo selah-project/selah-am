@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 77,
+  "translation": "ሞካሩ ለዘላለም አልቋልን? ቃሉ ለትውልድና ለትውልድ ተጨርሷልን?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "አልቋልን"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሞካሩ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ተጨርሷልን"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ቃሉ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ለትውልድ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "እና ለትውልድ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:18.281436593Z",
+  "model": "glm-5.3"
+}

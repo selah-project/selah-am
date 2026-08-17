@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 30:11",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ነገር ግን ከአሴር፣ ከምናሴ እና ከዘብሉን የኾኑ ጥቂት ሰዎች ተዋረዱ፣ ኢየሩሳሌምም ገቡ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ከአሴር፣"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ከምናሴ"
+    },
+    {
+      "surface": "ומזבלון",
+      "gloss": "እና ከዘብሉን"
+    },
+    {
+      "surface": "נכנעו",
+      "gloss": "ተዋረዱ፣"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ገቡ።"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ወደ ኢየሩሳሌም"
+    }
+  ],
+  "timestamp": "2026-08-16T18:44:28.980085564Z",
+  "model": "glm-5.3"
+}

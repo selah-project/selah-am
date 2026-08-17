@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ያህዌህ በያዕቆብ ኩራት ማልሶ ይላል ስለ እነሱ ሁሉ አይረሳቸውም እስከ መጨረሻው ድረስ።",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ማልሶ ይላል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "በኩራት"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ይረሳቸውም"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "እስከ መጨረሻው ድረስ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ስለ እነሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:58:58.567694964Z",
+  "model": "glm-5.3"
+}

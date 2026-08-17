@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 142,
+  "translation": "ለዳዊት የሚያስተምር ግጥም፣ በዋሻው ውስጥ ባለበት ጊዜ የጸሎት ቃል።",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "የሚያስተምር ግጥም"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "ባለበት ጊዜ"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "በዋሻው ውስጥ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "የጸሎት ቃል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:05.321328944Z",
+  "model": "glm-5.3"
+}

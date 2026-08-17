@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "ስለ አንተ ነው እኔ ንቀትን ተሸከምሁ ውርደት ፊቴን ሸፈነች።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ አንተ ነው"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ስለ አንተ"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ተሸከምሁ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ንቀትን"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "ሸፈነች"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "ውርደት"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊቴን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:33.552882446Z",
+  "model": "glm-5.3"
+}

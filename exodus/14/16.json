@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "አንተም ⟨את⟩ በትርህን አንሣ፤ ⟨את⟩ እጅህንም በባሕር ላይ ዘርግ፣ ቀዳይበት፤ የእስራኤል ልጆችም በደረቅ ምድር በባሕር መካከል ይግቡ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተም"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "አንሣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በትርህን"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "በትርህን"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "ዘርግ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጅህን"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "ቀዳይበት"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ይግቡ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראल",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በ... መካከል"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "በደረቅ ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T19:09:02.357165332Z",
+  "model": "glm-5.3"
+}

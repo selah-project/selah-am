@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "እና ⟨את⟩ ቅመማውንና ⟨את⟩ ዘይቱን — ለመብራት፣ ለመቀባት ዘይትና ለቅመማው ዕጣን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቅመማውን"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "ቅመማውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዘይቱን"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ዘይቱን"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ለመብራት"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "እና ለዘይት"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "የመቀባት"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "እና ለዕጣን"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "የቅመማ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:35:21.377847366Z",
+  "model": "glm-5.3"
+}

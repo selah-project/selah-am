@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "የአራም ንጉሥ የነበረው ሐዛኤል የእስራኤልን ⟨את⟩ በየን የይሆአሃዝ ቀኖች ሁሉ አሳዘናቸው።",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "ሐዛኤል ደግሞ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "አራም"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "አሳዘናቸው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀኖች"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "የይሆአሃዝ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:46:17.537319654Z",
+  "model": "glm-5.3"
+}

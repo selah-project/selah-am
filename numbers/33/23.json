@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "numbers 33:23",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ከቀለላታ ተነሱ፤ በሳፈር ተራራ ደገሙ።",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ተነሱ"
+    },
+    {
+      "surface": "מקהלתה",
+      "gloss": "ከቀለላታ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ደገሙ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "በ…ተራራ"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "ሳፈር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:29:56.390613428Z",
+  "model": "glm-5.3"
+}

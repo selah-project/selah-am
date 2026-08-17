@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እና ሆኖ በእነዚህ አንዷ ላይ ሲሆን በደለ፣ የበደለውን በእርሷ ላይ ይናዘዛል።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "እና ሆኖ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በ…ሲሆን ላይ"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "በደለ"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "በአንዷ ላይ"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ከእነዚህ"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "ይናዘዛል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ውን"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "በደለውን"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "በእርሷ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:46:31.543047967Z",
+  "model": "glm-5.3"
+}

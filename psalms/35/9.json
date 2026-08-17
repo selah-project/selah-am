@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "ነፍሴም በያህዌህ ትደሰታለች፤ በመድኀኒቱ ትደነቃለች።",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "ነፍሴም"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "ትደሰታለች"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "በያህዌህ"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "ትደነቃለች"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "በመድኀኒቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:30.180678236Z",
+  "model": "glm-5.3"
+}

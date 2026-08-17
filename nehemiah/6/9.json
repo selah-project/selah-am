@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "nehemiah 6:9",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ምክንያቱም ሁላቸው እኛን ⟨את⟩ እንዲንቀጠቀጡ ያደርጉ ነበር፤ «እጆቻቸው ከሥራው ይደክማሉ፤ እናም ⟨הוא⟩ አይሠራም» እያሉ፤ እና አሁን እጄን ⟨את⟩ አጥን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ሁላቸው"
+    },
+    {
+      "surface": "מיראים",
+      "gloss": "እንዲንቀጠቀጡ ያደርጉ ነበር"
+    },
+    {
+      "surface": "אותנו",
+      "gloss": "⟨את⟩",
+      "marks": "እኛን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እያሉ"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "ይደክማሉ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "እጆቻቸው"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ሥራው"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እናም አይ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "አይሠራም"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "እና አሁን"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "አጥን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጄን"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "እጄን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:13:30.444653159Z",
+  "model": "glm-5.3"
+}

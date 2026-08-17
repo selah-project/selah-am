@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የያህዌህ ቃል ወደ ፈጣሪ-አምላክ ልጅ ⟨ሲሆን⟩ ለዮኤል የመጣው ቃል።",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነው"
+    },
+    {
+      "surface": "היה",
+      "gloss": "የመጣው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "ዮኤል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "ፈጣሪ-አምላክ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:01:35.049617434Z",
+  "model": "glm-5.3"
+}

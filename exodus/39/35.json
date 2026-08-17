@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "⟨את⟩ የምስክርነቱን ታቦት እና ⟨את⟩ በትሮቹን እና ⟨את⟩ የማስተስረያውን ሽፋን።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦቱን"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "ታቦቱን"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "የምስክርነቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "በትሮቹን"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "በትሮቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሽፋኑን"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "የማስተስረያው ሽፋን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:39:46.398157715Z",
+  "model": "glm-5.3"
+}

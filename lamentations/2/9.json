@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "lamentations 2:9",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "በሮቿ ወደ ምድር ጠረጠሩ፤ እርሱ አጠፋቸውና በር ዊኖቿን አፈራቸው፤ ንጉሧና አለቆችዋ በአሕዛብ መካከል ⟨ናቸው⟩፤ ትምህርት የለም፤ ነቢዮችዋም ከያህዌህ ራእይ አላገኙም።",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "ጠረጠሩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ወደ ምድር"
+    },
+    {
+      "surface": "שעריה",
+      "gloss": "በሮቿ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "አጠፋ"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "እና አፈራ"
+    },
+    {
+      "surface": "בריחיה",
+      "gloss": "በር ዊኖቿን"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ንጉሧ"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "እና አለቆችዋ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "በአሕዛብ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "ትምህርት"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "נביאיה",
+      "gloss": "ነቢዮችዋ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "አገኙም"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "ራእይ"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ከያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:10:46.341538627Z",
+  "model": "glm-5.3"
+}

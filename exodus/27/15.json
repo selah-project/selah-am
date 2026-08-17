@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "exodus 27:15",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ለሁለተኛውም ጎን የመጋረጃዎች አሥራ አምስት አምባ ይሆናል፤ ዓምዶቻቸው ሦስት ናቸው፣ መሠረቶቻቸውም ሦስት ናቸው።",
+  "tokens": [
+    {
+      "surface": "ולכתף",
+      "gloss": "ለጎንም"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ለሁለተኛው"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "አሥራ"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "መጋረጃዎች"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "ዓምዶቻቸው"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "መሠረቶቻቸውም"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ሦስት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:24:55.926549085Z",
+  "model": "glm-5.3"
+}

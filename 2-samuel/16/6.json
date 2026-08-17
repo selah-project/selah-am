@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "በድንጋዮች ⟨את⟩ ዳዊትን እና ⟨את⟩ የንጉሡን ዳዊት አገልጋዮች ሁሉ ወረወረ፤ ሕዝቡም ሁሉ እና ጀግኖቹም ሁሉ በቀኙ እና በግራው ነበሩ።",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "ወረወረ"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "በድንጋዮች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊትን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የንጉሡን ዳዊት አገልጋዮች ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "አገልጋዮች"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "ጀግኖቹ"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "በቀኙ"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "እና በግራው"
+    }
+  ],
+  "timestamp": "2026-08-16T06:03:20.043006007Z",
+  "model": "glm-5.3"
+}

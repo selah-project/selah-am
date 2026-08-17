@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እንዲሁም እስከ ሰማያት ሠራዊት ድረስ አደገች፤ ከሠራዊቱና ከከዋክብትም ⟨አንዳንዱን⟩ ወደ ምድር አወረወረች፤ ወረዋቸውም።",
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "አደገችም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ሠራዊት"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "አወረወረች"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ወደ ምድር"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ሠራዊቱ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "እና ከ"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "ከዋክብት"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "ወረዋቸውም"
+    }
+  ],
+  "timestamp": "2026-08-16T11:38:09.183093992Z",
+  "model": "glm-5.3"
+}

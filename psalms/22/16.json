@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ኃይሌ እንደ የሸክላ ቍርጥ ደርቋል፤ አንደቤም ከከንፈሬ ጋር ተጣብቋል፤ ወደ ሞት አፈርም አኖርኝ።",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "ደርቋል"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "እንደ የሸክላ ቍርጥ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ኃይሌ"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "አንደቤም"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "ተጣብቋል"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "ከከንፈሬ"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "ወደ…አፈርም"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "አኖርኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:23.932738202Z",
+  "model": "glm-5.3"
+}

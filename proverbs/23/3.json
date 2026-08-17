@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ጣፋጮቹን አትመኝ፤ ሐሰተኛ ምግብ ነውና።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ትመኛለህ"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "ጣፋጮቹን"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ምግብ"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ሐሰተኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:33:59.768220915Z",
+  "model": "glm-5.3"
+}

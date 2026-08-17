@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "ከሥብ ዓይናቸው ወጣ፤ የልብ አስተሳለፍት ተሻገሩ።",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ከሥብ"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "ዓይናቸው"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ተሻገሩ"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "አስተሳለፍት"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "የልብ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:37.439972174Z",
+  "model": "glm-5.3"
+}

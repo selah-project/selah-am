@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 50,
+  "translation": "ሰማያትን ጨለማ አልብሳቸዋለሁ፣ ሸፈንም እንደ መሸፈኛአቸው አደርጋለሁ።",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "አልብሳቸዋለሁ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያትን"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "ጨለማ"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "ሸፈንም"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "አደርጋለሁ"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "እንደ መሸፈኛአቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T07:27:50.835670601Z",
+  "model": "glm-5.3"
+}

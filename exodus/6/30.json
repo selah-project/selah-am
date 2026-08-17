@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ሞሼም በያህዌህ ፊት እንዲህ አለ፦ እነሆ፣ እኔ የገረደሙ ከንፈሮች ነኝ፤ ፈርዖንስ እንዴት ያዳምጠኛል?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "የገረደመ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ከንፈሮች"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "እንዴት"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ያዳምጠኛል"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:06:47.262312267Z",
+  "model": "glm-5.3"
+}

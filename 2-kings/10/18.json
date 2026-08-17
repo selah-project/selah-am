@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የሁም ሕዝቡን ሁሉ ⟨את⟩ ሰበሰበ፣ እነሱንም እንዲህ አላቸው፦ አክአብ ቤዓልን ⟨את⟩ በጥቂቱ አገለገለ፤ የሁ ግን በብዙ ያገለግለዋል።",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "ሰበሰበ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "የሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አላቸው"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "እነሱን"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "አክአብ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "አገለገለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤዓልን"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ቤዓልን"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "በጥቂቱ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "የሁ"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "ያገለግለዋል"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "በብዙ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:43:50.880109012Z",
+  "model": "glm-5.3"
+}

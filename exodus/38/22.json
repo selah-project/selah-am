@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "exodus 38:22",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "በቦጸልም — የኡሪ ልጅ፣ የኩር ልጅ፣ ከይሁዳ ነገዥ — ያህዌህ ሞሼን ⟨את⟩ እንዳዘዘው ሁሉን ⟨את⟩ አደረገ።",
+  "tokens": [
+    {
+      "surface": "ובצלאל",
+      "gloss": "በቦጸልም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ኡሪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "חור",
+      "gloss": "ኩር"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ከ…ነገዥ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንዳዘዘው"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሼን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:37:57.452234028Z",
+  "model": "glm-5.3"
+}

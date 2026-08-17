@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "በቤትህ መዝሪያዎች ላይ እና በበሮችህ ላይ ትጻፋቸዋለህ።",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "ትጻፋቸዋለህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "መዝሪያዎች"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ቤትህ"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "በበሮችህም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:36:24.830751086Z",
+  "model": "glm-5.3"
+}

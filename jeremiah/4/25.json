@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "አየሁና እነሆ ሰው የለም፤ የሰማያት ወፎችም ሁሉ ተበተኑ።",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "አየሁ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ወፎች"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "የሰማያት"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ተበተኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:38:04.200839863Z",
+  "model": "glm-5.3"
+}

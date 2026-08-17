@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "መላውን ⟨את⟩ ቃል የምኾምታችሁን እናንተን ⟨את⟩ ማክበር ትችላላችሁ፤ ⟨את⟩ እርሱን ለማድረግ፤ በርሱ ላይ አትጨምሩ፣ ከርሱም አትቀንሱ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መላውን ቃል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላውን"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ን"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "እኾምታለሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ትጠብቃላችሁ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ለማድረግ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ጨምሩ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በርሱ ላይ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "ቀንሱ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:43:38.537729463Z",
+  "model": "glm-5.3"
+}

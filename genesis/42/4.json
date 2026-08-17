@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "ነገር ግን የዮሴፍን ወንድም ብንያምን ያዕቆብ ከወንድሞቹ ጋር ⟨את⟩ አልላከም፤ «እንዳይደረስበት በደል» አለና።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ብንያምን"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "ብንያምን"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ወንድም"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንድሞቹን"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሞቹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለና"
+    },
+    {
+      "surface": "פן",
+      "gloss": "እንዳይ"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "ይደረስበት"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "በደል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:00:32.139942064Z",
+  "model": "glm-5.3"
+}

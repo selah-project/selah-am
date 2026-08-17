@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ያህዌህን የሚፈሩ ሁሉ አመስግኑት፤ የያዕቆብ ዘር ሁሉ አክብሩት፤ የእስራኤል ዘር ሁሉ ከእርሱ ይፍሩ።",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "የሚፈሩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "አመስግኑት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘር"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "የያዕቆብ"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "አክብሩት"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "እና ይፍሩ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእርሱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:48.866986809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "አሁን ተነሥታችሁ የዛረድ ወንዝን ⟨את⟩ ላላፈራችሁ፤ እኛም የዛረድ ወንዝን ⟨את⟩ አቋረጥን።",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ተነሥታችሁ"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "ላላፈራችሁ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለናናተሁ\/ላችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የዛረድ ወንዝን"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ወንዝ"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "ዛረድ"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "አቋረጥን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የዛረድ ወንዝን"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ወንዝ"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "ዛረድ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:32:22.733832781Z",
+  "model": "glm-5.3"
+}

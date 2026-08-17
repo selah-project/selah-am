@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "በወንድ እና በሴት መልክ ፈጠራቸው፣ ባረኳቸውም፣ የእነርሱንም ስም ⟨את⟩ አዳም ብሎ ጠራበት በፈጠራቸውም ቀን።",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ወንድ"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "እና ሴት"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "ፈጠራቸው"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ባረኳቸው"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስማቸውን"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ስማቸውን"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "አዳም"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "በፈጠራቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:30:35.947334459Z",
+  "model": "glm-5.3"
+}

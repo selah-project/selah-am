@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ዳዓንም ⟨את⟩ እና አያሃን ⟨את⟩ ከዝርያዋ መሠረት።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዓን"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "ዳዓ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "አያሃን"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "አያሃ"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ከዝርያዋ መሠረት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:47:40.025903803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "2-kings 13:24",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "የአራም ንጉሥ ሐዛኤልም ሞተ፤ በልጁም በቤን-ሐዳድ በእርሱ ፋንታ ነገሠ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተም"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "ሐዛኤል"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "አራም"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሠም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "በልጁ በ... በቤን-ሐዳድ"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ቤን-ሐዳድ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "በልጁ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "በእርሱ ፋንታ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:46:17.537654130Z",
+  "model": "glm-5.3"
+}

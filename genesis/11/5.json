@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ያህዌህ ሰጥቶ ⟨את⟩ ⟨ከተማዋን⟩ እና ⟨את⟩ ⟨ግንቡን⟩ ለማየት ወረደ፤ የሰው ልጆች የሠሩትን በማየት።",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ወረደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "ለማየት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተማዋን"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ግንቡን"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "ግንቡን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሠሩትን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ሠሩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "የሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:35:08.329927818Z",
+  "model": "glm-5.3"
+}

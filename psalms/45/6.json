@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "ቀስቶችህ ስለታም ናቸው — ሕዝቦች በአንተ ሥር ይወድቃሉ — በንጉሡ ጠላቶች ልብ ውስጥ ይቀመጣሉ።",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "ቀስቶችህ"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "ስለታም"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "በአንተ ሥር"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ይወድቃሉ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "በ…ልብ"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ጠላቶች"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:45:05.752974174Z",
+  "model": "glm-5.3"
+}

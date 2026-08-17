@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ዕብራይስጥ አገልጋይ በቶረትህ ሲገዛ እስር ዓመታት ያገለግላል፤ በሰባተኛውም በነጻ ያለ ክፍያ ይወጣል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ሲገዛ"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "በቶረትህ ትገዛለህ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "አገልጋይ"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ዕብራይስጥ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ስድስት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "ያገለግላል"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "በሰባተኛውም"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ይወጣል"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "በነጻ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ያለ ክፍያ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:22:33.362790146Z",
+  "model": "glm-5.3"
+}

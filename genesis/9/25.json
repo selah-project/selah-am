@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እንዲህም አለ፦ የተረገመ የኾነ ከነን ነው፤ የአገልጋዮች አገልጋይ ለወንድሞቹ ይኾናል።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህም አለ፦"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "የተረገመ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነን"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "አገልጋይ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "የአገልጋዮች"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይኾናል"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ለወንድሞቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:31:38.903474942Z",
+  "model": "glm-5.3"
+}

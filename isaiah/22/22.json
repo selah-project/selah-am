@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "isaiah 22:22",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እና ቁልፍ የቤት ዳዊት እሰጣለሁ በትከራቡ ላይ፤ እና ይከፍታል እና የሚዘጋ የለም፤ እና ይዘጋል እና የሚከፍት የለም።",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "እሰጣለሁ"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "ቁልፍ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "የቤት"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ትከራቡ"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "እና ይከፍታል"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "የሚዘጋ"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "እና ይዘጋል"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "የሚከፍት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:09:08.095854548Z",
+  "model": "glm-5.3"
+}

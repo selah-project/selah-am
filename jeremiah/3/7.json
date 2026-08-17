@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እሷ ይህን ሁሉ ⟨את⟩ ካደረገች በኋላ ወደ እኔ ትመለሳለች አልሆንም ብዬ አሰብኩ፤ እሷ ግን አልተመለሰችም፤ የብድሮች እህቷ ይሁዳም ያየችው።",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "አልሁ አሰብኩ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ካደረገች በኋላ"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "ማድረግ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ትመለሳለች"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "ተመለሰችም"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "እና አየች"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "የብድሮች"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "እህቷ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:36:15.091062760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "leviticus 26:8",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ከናንተ አምስት መቶን ይከተላሉ፤ ከናንተም መቶ አሥር ሺህን ይከተላሉ፤ ጠላቶቻችሁም በሰይፍ በፊታችሁ ይወድቃሉ።",
+  "tokens": [
+    {
+      "surface": "ורדפו",
+      "gloss": "ይከተላሉ"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ከናንተ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "መቶን"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "መቶም"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ከናንተም"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "አሥር ሺህን"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "ይከተላሉ"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ይወድቃሉ"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ጠላቶቻችሁም"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "በፊታችሁ"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "በሰይፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:01:39.224069944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "proverbs 28:19",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ምድሩን የሚሠራ በእንጀራ ይጠግባል፤ ባዶዎችን የሚከተል ግን በድህነት ይጠግባል።",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "የሚሠራ"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "ምድሩን"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ይጠግባል"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "በእንጀራ"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "እና የሚከተል"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "ባዶዎችን"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ይጠግባል"
+    },
+    {
+      "surface": "ריש",
+      "gloss": "በድህነት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:37:41.348406918Z",
+  "model": "glm-5.3"
+}

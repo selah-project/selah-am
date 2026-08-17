@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ይህ በራስህ የሆነው አይደለም — ያህዌህ አምላክህን ⟨את⟩ በመተውህ የእርሱ በመንገዱ ሲያስኬድህ ነው?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "አይደለምም?"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ያደርግሃል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "በመተውህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "አምላክህ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "በዚያ ጊዜ"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "ሲያስኬድህ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገዱ"
+    }
+  ],
+  "timestamp": "2026-08-17T07:52:19.358906809Z",
+  "model": "glm-5.3"
+}

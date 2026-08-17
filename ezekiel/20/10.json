@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "ezekiel 20:10",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ከምድረ ምጥራብ አወጣኋቸውና ወደ ⟨በረሃ⟩ አመጣኋቸው።",
+  "tokens": [
+    {
+      "surface": "וָאֽוֹצִיאֵ֖ם",
+      "gloss": "አወጣኋቸው"
+    },
+    {
+      "surface": "מֵאֶ֣רֶץ",
+      "gloss": "ከምድር"
+    },
+    {
+      "surface": "מִצְרָ֑יִם",
+      "gloss": "ምጥራብ"
+    },
+    {
+      "surface": "וָאֲבִאֵ֖ם",
+      "gloss": "አመጣኋቸው"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הַמִּדְבָּֽר",
+      "gloss": "በረሃ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:29:03.295019889Z",
+  "model": "glm-5.3"
+}

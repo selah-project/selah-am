@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "1-kings 17:20",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ወደ ያህዌህም ጮኸ፤ እንዲህም አለ፤ ያህዌህ ኤሎሄዬ ሆይ፣ እኔ ከምኖርባት የመንገድ ሴት ላይም ብቻ ክፉ አድርገህ ⟨את⟩ ልጇን ለመግደል አደረኸኝን?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ጮኸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሄዬ"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "ደግሞም…ብቻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "האלמנה",
+      "gloss": "የመንገድ ሴቷ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነች"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "የምኖርባት"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ከእርሷ ጋር"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "ክፉ አድርገህ"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ለመግደል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጇን"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ልጇን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:30:55.648209598Z",
+  "model": "glm-5.3"
+}

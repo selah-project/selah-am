@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ኤሎሂም ⟨את⟩ ኖኅን አሰተው፣ ⟨את⟩ ሕያውን ፍጡር ሁሉ እና ⟨את⟩ ከብቱን ሁሉ ያሉትን ከእርሱ ⟨את⟩ ጋር በታባው ውስጥ፤ ኤሎሂም ነፋስን በምድሩ ላይ አሳለፈ፤ ውኃውም ዋረደ።",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "አሰተው"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኖኅ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖኅ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ሕያው ፍጡር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ከብት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለው"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ጋር ከእርሱ"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "በታባው"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "አሳለፈ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ነፋስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "ዋረደ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውኃው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:33:49.559122891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 74,
+  "translation": "የአሳፍ ማስተማሪያ። ኤሎሂም ሆይ፣ ለዘላለም ለምን ጣልካትን? በምትሰማራቸው በጎች ላይ ቍጣህ ለምን ያጨሳል?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "ማስተማሪያ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "የአሳፍ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "ጣልካትን"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "ያጨሳል"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ቍጣህ"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "በበጎች"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "የምትሰማራቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:48.769319393Z",
+  "model": "glm-5.3"
+}

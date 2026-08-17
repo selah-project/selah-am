@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ከእኔ ጠይቅ፤ አሕዛብን ወራሽ እሰጥሃለሁ፤ የምድር ዳሮችንም ባለቤትነትህ እሰጥሃለሁ።",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "ጠይቅ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "እሰጥሃለሁ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "አሕዛብን"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ወራሽ"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "ባለቤትነትህ"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ዳሮችንም"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "የምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:28:50.036267769Z",
+  "model": "glm-5.3"
+}

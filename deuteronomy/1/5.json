@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "በዮርዳኖስ ማዶ፣ በሞዓብ ምድር፣ ሞሼ ይህን ታላህ ማብራር ተነሣ፣ እንዲህ ሲል።",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "በማዶ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "ተነሣ\/ጀመረ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ማብራር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህን ታላህ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ታላህ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:33:08.907829669Z",
+  "model": "glm-5.3"
+}

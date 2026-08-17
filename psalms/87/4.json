@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 87,
+  "translation": "ራሐብን እና ባቢሎንን ለሚያውቁኝ እጠቅሳለሁ፤ እነሆ ፍልስጤም እና ጢሮስ ከኩሽ ጋራ፤ ይህ እዚያ ⟨ተወለደ⟩።",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "እጠቅሳለሁ"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "ራሐብን"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "እና ባቢሎንን"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "ለሚያውቁኝ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "ፍልስጤም"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "እና ጢሮስ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋራ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ኩሽ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "⟨ተወለደ⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:31.004944691Z",
+  "model": "glm-5.3"
+}

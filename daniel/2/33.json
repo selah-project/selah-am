@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እጆቹ የብረት እንደነበሩ፣ እግሮቹ ከእነርሱም አንዱ ከብረት፣ ሌላውም ከሸክላ ነበር።",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "እጆቹ"
+    },
+    {
+      "surface": "די",
+      "gloss": "የ"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "ብረት"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "እግሮቹ"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "ከእነርሱም አንዱ"
+    },
+    {
+      "surface": "די",
+      "gloss": "የ"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "ብረት"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "እና ሌላውም"
+    },
+    {
+      "surface": "די",
+      "gloss": "የ"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "ሸክላ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:28:35.917749292Z",
+  "model": "glm-5.3"
+}

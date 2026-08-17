@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 97,
+  "translation": "እሳት በፊቱ ይሄዳል፤ ጠላቶቹን በዙሪያው ያቃጥላል።",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "በፊቱ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ይሄዳል"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "ያቃጥላል"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "በዙሪያው"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ጠላቶቹን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:07.127676532Z",
+  "model": "glm-5.3"
+}

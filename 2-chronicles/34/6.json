@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 34:6",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "በምናሴም ከተሞች፣ በኤፍራምም፣ በሺሞንም፣ እስከ ንፍታሌም ድረስ፣ በተፈራረሹ ስፍራዎቻቸው ዙሪያ ሁሉ እንዲሁ አደረገ።",
+  "tokens": [
+    {
+      "surface": "ובערי",
+      "gloss": "በከተሞችም"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሴ"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ኤፍራምም"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "ሺሞንም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ... ድረስም"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ንፍታሌ"
+    },
+    {
+      "surface": "בהרבותיהם",
+      "gloss": "በተፈራረሹ ስፍራዎቻቸው"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ዙሪያ ሁሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:56:55.176566701Z",
+  "model": "glm-5.3"
+}

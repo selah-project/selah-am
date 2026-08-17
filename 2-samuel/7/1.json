@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "2-samuel 7:1",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እንዲሁም ሆነ፣ ንጉሡ በቤቱ እንደ ተቀመጠ፣ ያህዌህ ከሁሉም ጠባቂዎቹ ዙሪያ ለእርሱ እረፍት ሰጠው።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ተቀመጠ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "በቤቱ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "እረፍት ሰጠ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ዙሪያ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉም"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ጠባቂዎቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:57:49.039053176Z",
+  "model": "glm-5.3"
+}

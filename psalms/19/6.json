@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 19:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እርሱም እንደ ሙሽራ ባል ከወሳኝ ክፍሉ ወጥቶ፣ እንደ ጀግና መንገዱን ለሮጥ ደስ ይላል።",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "እርሱም"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "እንደ ሙሽራ ባል"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ወጥቶ"
+    },
+    {
+      "surface": "מחפתו",
+      "gloss": "ከወሳኝ ክፍሉ"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "ደስ ይላል"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "እንደ ጀግና"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "ለሮጥ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "መንገዱን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:44.914713771Z",
+  "model": "glm-5.3"
+}

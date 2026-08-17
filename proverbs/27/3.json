@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "የድንጋይ ክብደት እና የአሸዋ ሸክም ነው፤ ነገር ግን የሞኞች ቁጭት ከሁለቱም ይበልጣል።",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "ክብደት"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "የድንጋይ"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "እና ሸክም"
+    },
+    {
+      "surface": "החול",
+      "gloss": "የአሸዋ"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ነገር ግን የ…ቁጭት"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ሞኾች"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ይበልጣል"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "ከሁለቱም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:36:57.659239804Z",
+  "model": "glm-5.3"
+}

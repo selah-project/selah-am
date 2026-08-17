@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እና ይሆሻ ከእስራኤል ሁሉ ጋር ወደ ጊልጓል ⟨ሰ⟩ጨብ ተመለሰ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ይሆሻ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ጨብ"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "ጊልጓል"
+    }
+  ],
+  "timestamp": "2026-08-16T05:04:09.994339918Z",
+  "model": "glm-5.3"
+}

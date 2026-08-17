@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ወጣት ነበርሁ፣ እንዲሁም አረገዳሁ፣ ጻድቅ የተተወ ሆኖ፣ ዘሩም እንጀራ የሚሻ ሆኖ አላየሁም።",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "ወጣት"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ነበርሁ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "አረገዳሁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አላየሁም ሳይሆን"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "አላየሁም"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቅ"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "የተተወ"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ዘሩም"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "የሚሻ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እንጀራ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:40:23.151286228Z",
+  "model": "glm-5.3"
+}

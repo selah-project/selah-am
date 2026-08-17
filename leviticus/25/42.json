@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "በኤሎሂም አገልጋዮቼ ናቸውና፤ ⟨את⟩ እነሱን ከምድረ ምጽራይም አወጣሁ፤ በባሪያ ሽያጭ አይሸጡም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "አገልጋዮቼ ናቸውና"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "አገልጋዮቼ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እነሱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆኑት"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "አወጣሁ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምድረ ምጽራይም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይሸጡም"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "ይሸጣሉ"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "በሽያጭ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ባሪያ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:00:19.312920588Z",
+  "model": "glm-5.3"
+}

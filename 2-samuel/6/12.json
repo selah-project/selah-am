@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 6:12",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ለንጉሡ ለዳዊት እንዲህ ተነገረለት፦ «ያህዌህ በኤሎሂም ታቦት ምክንያት ⟨את⟩ የኦቤድ-ኤዶምን ቤት እና ⟨את⟩ ያለውን ሁሉ ባረከ።» ዳዊት ሄዶ ⟨את⟩ የኤሎሂምን ታቦት ከኦቤድ-ኤዶም ቤት ወደ የዳዊት ከተማ በደስታ አሳረገው።",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ተነገረለት"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ለንጉሡ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ባረከ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የኦቤድ-ኤዶምን ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "የኦቤድ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-ኤዶም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ያለውን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ...ውን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ምክንያት"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄዶ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "አሳረገው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የኤሎሂምን ታቦት"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ከ...ቤት"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "የኦቤድ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-ኤዶም"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "የዳዊት"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "በደስታ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:03:30.239277108Z",
+  "model": "glm-5.3"
+}

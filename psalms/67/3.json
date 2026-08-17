@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 67,
+  "translation": "በምድር ላይ መንገድህን ለመሳወቅ፣ በሕዝቦች ሁሉ መዳንህን (ለማወቅ)።",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "ለመሳወቅ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር ላይ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "መንገድህን"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉም"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ሕዝቦች\/አሕዛብ"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "መዳንህን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:13.795231546Z",
+  "model": "glm-5.3"
+}

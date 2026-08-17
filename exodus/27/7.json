@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "በቆሎቹም ⟨את⟩ በቀለበቶቹ ይገባሉ፤ በቆሎቹም በመሠዊያው ሁለት ጎኖች ሆነው እርሱን ⟨את⟩ ሲሸከሙት ይሆናሉ።",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "ይገባሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በቆሎቹን"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "በቆሎቹን"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "በቀለበቶቹ"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ይሆናሉ"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "በቆሎቹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "ᦲעת",
+      "gloss": "ጎኖች"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "ሲሸከሙት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን (መሠዊያውን)"
+    }
+  ],
+  "timestamp": "2026-08-16T03:25:03.494739052Z",
+  "model": "glm-5.3"
+}

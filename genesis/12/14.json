@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "አብራም ወደ ምጽር ሲገባ ሆኖ የምጽራውያን ⟨את⟩ ሴቲቱን አዩ፤ በጣም ቆንጆ ናትና።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆኖ"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "ሲገባ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "አብራም"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ወደ ምጽር"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "አዩ"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "ምጽራውያን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሴቲቱን"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሴቲቱን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ናትና"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ቆንጆ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እሷ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:35:24.849960648Z",
+  "model": "glm-5.3"
+}

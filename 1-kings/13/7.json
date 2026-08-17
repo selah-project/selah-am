@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 13:7",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ንጉሡም ወደ ኤሎሂም ሰው እንዲህ አለ፦ ከእኔ ⟨את⟩ ጋር ወደ ቤት እንግባ፤ ተመገብም፤ ስጦታም እሰጥሃለሁ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "באה",
+      "gloss": "እንግባ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ከእኔ ⟨את⟩ ጋር"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ወደ ቤት"
+    },
+    {
+      "surface": "וסעדה",
+      "gloss": "ተመገብም"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "እሰጥሃለሁም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "ስጦታ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:30:19.417451614Z",
+  "model": "glm-5.3"
+}

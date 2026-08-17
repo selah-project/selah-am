@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ያህዌህ ⟨את⟩ ከአንተ ጋር በአጋሮችህ ውስጥ እና በእጅህ ከሚልከው ሁሉ ላይ ⟨את⟩ በረከቱን ያዝዛል፤ ያህዌህ ኤሎሂምህ በሚሰጥህ ምድርም ያበረክትሃል።",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "ያዝዛል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ከአንተ ጋር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በረከቱን"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "በረከቱን"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "በአጋሮችህ ውስጥ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "እና በሁሉ"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ከሚልከው"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህ"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "ያበረክትሃል"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምህ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጥህ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:53:01.621791059Z",
+  "model": "glm-5.3"
+}

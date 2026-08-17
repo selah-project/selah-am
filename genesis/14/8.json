@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 14:8",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "የሰዶም ንጉሥ፣ የዐሞራ ንጉሥም፣ የአድማ ንጉሥም፣ የጽቦይም ንጉሥም፣ የበዕላ ንጉሥም — እርሷ ጾዓር ትባላለች — ወጡ፤ በሲድዲም ሸለቆ ከእነርሱ ⟨את⟩ ጋር ውጊያ አዘጋጁ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጡ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "የሰዶም"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "የዐሞራ ንጉሥም"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "ዐሞራ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "የአድማ ንጉሥም"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "አድማ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "የጽቦይም ንጉሥም"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "ጽቦይም"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "የበዕላ ንጉሥም"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "በዕላ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሷ"
+    },
+    {
+      "surface": "צער",
+      "gloss": "ጾዓር"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "አዘጋጁ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ከእነርሱ ጋር"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ውጊያ"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "በሸለቆ"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "ሲድዲም"
+    }
+  ],
+  "timestamp": "2026-08-16T19:08:03.347843029Z",
+  "model": "glm-5.3"
+}

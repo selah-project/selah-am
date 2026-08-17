@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 112,
+  "translation": "አመስግኑ ያህን! ብፁዕ ነው ያህዌህን ⟨את⟩ የሚፈራ ሰው፣ በትእዛዙ በጣም የሚወድ ሰው።",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "አመስግኑ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ብፁዕ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "የሚፈራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "በትእዛዙ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ሚወድ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:21.675118557Z",
+  "model": "glm-5.3"
+}

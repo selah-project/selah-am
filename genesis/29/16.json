@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "ላባንም ሁለት ሴት ልጆች ነበሩት፤ የታላቋ ስም ልዓህ ነበር፤ የአነሺዋም ስም ራሔል ነበር።",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "ላባንም"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ሴት ልጆች"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "የታላቋ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ልዓህ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "የስምም"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "የአነሺዋ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ራሔል"
+    }
+  ],
+  "timestamp": "2026-08-16T02:47:51.895159627Z",
+  "model": "glm-5.3"
+}

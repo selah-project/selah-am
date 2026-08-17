@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ምክንያቱም እነርሱ የያህዌህን ሥራዎች ወደ እነርሱ አላስተዋሉም፣ ወደ እጁም ሥራ አልተመለከቱም፤ ያፈርሳቸዋል፣ አያበሥራቸውም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አልተ"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "አስተዋሉም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ እነርሱ"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ሥራዎችን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ወደ እጁም"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "እጁ"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "ያፈርሳቸዋል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አያ"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "በሥራቸውም"
+    }
+  ],
+  "timestamp": "2026-08-16T18:08:15.775760748Z",
+  "model": "glm-5.3"
+}

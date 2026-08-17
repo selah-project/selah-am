@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 22:12",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እርሱም ከእነሱ ጋር ⟨את⟩ በኤሎሂም ቤት ተሸሽጎ ስድስት ዓመት እየተቀመጠ ነበር፤ እኛም ዓለቃ አትሊያ በ⟨the⟩ ምድር ላይ እየነገሰች ነበር።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነበር"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ከእነሱ ጋር"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በ…ቤት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "ተሸሽጎ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ስድስት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "እና ዓለቃ አትሊያ"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "እየነገሰች"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-17T10:50:51.267619114Z",
+  "model": "glm-5.3"
+}

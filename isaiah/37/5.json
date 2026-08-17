@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "የንጉሡ የንጉሡ ኬዝቅያሁ አገልጋዮችም ወደ የሻዕያሁ መጡ።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "መጡም"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "አገልጋዮች"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ኬዝቅያሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "የሻዕያሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:18:02.813026464Z",
+  "model": "glm-5.3"
+}

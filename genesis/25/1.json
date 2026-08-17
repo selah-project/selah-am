@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "አብርሃምም እንደ ገና ጨመረ እና ሚስት ወሰደ፤ ስሟም ቀጥራ ተባለች።",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ጨመረ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃምም"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሚስት"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ስሟም"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "ቀጥራ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:44:40.435190490Z",
+  "model": "glm-5.3"
+}

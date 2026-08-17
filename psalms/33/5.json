@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ጽድቅን እና ፍርድን የሚወድ ነው፤ በያህዌህ ችሮታ ምድር ተሞታለች።",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "የሚወድ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ጽድቅን"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "እና ፍርድን"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ችሮታ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ተሞታለች"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:12.631040176Z",
+  "model": "glm-5.3"
+}

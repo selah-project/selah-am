@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "እንዲህ አለ ያህዌህ፦ የቀኑን ⟨את⟩ ቃል ኪዳኜን እና የሌሊቱን ⟨את⟩ ቃል ኪዳኜን ብትበትኩ፣ ቀንና ሌሊት በሰዓታቸው እንዳልሆኑ ታደርጋላችሁ።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "ብትበትኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የቀኑን ቃል ኪዳኜን"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ቃል ኪዳኜን"
+    },
+    {
+      "surface": "היום",
+      "gloss": "የቀኑ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የሌሊቱን ቃል ኪዳኜን"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ቃል ኪዳኜን"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "የሌሊቱ"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "እንዳልሆኑ"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "እና ሌሊት"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "በሰዓታቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T08:01:11.874971197Z",
+  "model": "glm-5.3"
+}

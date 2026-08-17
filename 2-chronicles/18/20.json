@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "2-chronicles 18:20",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "መንፈሱም ወጥቶ በያህዌህ ፊት ቆመ፤ እኔ አታልለዋለሁ አለ። ያህዌህም እርሱን፦ በምን ነው? አለው።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጥቶም"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "መንፈሱ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ቆመ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ... ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "አታልለዋለሁ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "במה",
+      "gloss": "በምን"
+    }
+  ],
+  "timestamp": "2026-08-16T13:49:06.506473911Z",
+  "model": "glm-5.3"
+}

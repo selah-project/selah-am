@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እርሷም መጥታ ለየኤሎሂም ሰው ነገረች፤ እርሱም አለ፦ «ሂጂ ዘይቱን ⟨את⟩ ሽጪ፣ ብድሮችሽን ⟨את⟩ በላይ ክፈዪ፤ አንቺ ደግሞ በልጆችሽ በቀሪው ትኖራለሽ።»",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "መጥታ"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "ነገረች"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ለሰው"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ሂጂ"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "ሽጪ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዘይቱን"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ዘይቱን"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "በላይ ክፈዪ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብድሮችሽን"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "ብድሮችሽን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና አንቺ"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "በልጆችሽ"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "ትኖራለሽ"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "በቀሪው"
+    }
+  ],
+  "timestamp": "2026-08-16T06:39:15.892773346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ጋትን፣ ማሬሻንና ዚፍን ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ጋትን"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ጋትን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ማሬሻን"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "ማሬሻን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዚፍን"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ዚፍን"
+    }
+  ],
+  "timestamp": "2026-08-16T13:37:16.025835110Z",
+  "model": "glm-5.3"
+}

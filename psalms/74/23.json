@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 74,
+  "translation": "የጠላቶችህን ድምፅ አትርሳ፤ የተነሱብህ አመጽ ሁልጊዜ እየወጣ ነው።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ርሳ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "የጠላቶችህን"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "አመጽ"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "የተነሱብህ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "እየወጣ ነው"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:06.229451289Z",
+  "model": "glm-5.3"
+}

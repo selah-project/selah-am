@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 148,
+  "translation": "እነሱንም ለዘላለም ለዘመን ዘመናት ሁሉ አስቀማቸው፤ ሕግ ሰጠ እና ⟨የለም⟩ አያልፍም።",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "እነሱንም አስቀመጠው"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘመን ዘመናት ሁሉ"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ሕግ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና ⟨የለም⟩"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "አያልፍም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:45.376478973Z",
+  "model": "glm-5.3"
+}

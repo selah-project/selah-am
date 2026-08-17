@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 34:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "የተገደሉትም ይወረወራሉ፤ አስከሬኖቻቸውም ሽንፈታቸውን ያስወጣሉ፤ ተራሮችም በደማቸው ይቀልጣሉ።",
+  "tokens": [
+    {
+      "surface": "וחלליהם",
+      "gloss": "የተገደሉትም"
+    },
+    {
+      "surface": "ישלכו",
+      "gloss": "ይወረወራሉ"
+    },
+    {
+      "surface": "ופגריהם",
+      "gloss": "አስከሬኖቻቸውም"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ያስወጣል"
+    },
+    {
+      "surface": "באשם",
+      "gloss": "ሽንፈት"
+    },
+    {
+      "surface": "ונמסו",
+      "gloss": "ይቀልጣሉም"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ተራሮች"
+    },
+    {
+      "surface": "מדמם",
+      "gloss": "በደማቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T07:16:10.046823565Z",
+  "model": "glm-5.3"
+}

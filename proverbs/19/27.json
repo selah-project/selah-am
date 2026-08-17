@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "proverbs 19:27",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ወደፊት አታዳምጥ፣ ልጄ ሆይ፣ ማስተማርን ከሰማህ፣ ከእውቀት ቃላት ትናወጣለህ።",
+  "tokens": [
+    {
+      "surface": "חדל",
+      "gloss": "አታዳምጥ\/እተው"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጄ ሆይ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ማስተማርን ከመስማት"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ማስተማር\/ተግሣጽ"
+    },
+    {
+      "surface": "לשגות",
+      "gloss": "መናወጥ\/መብላት"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "ከቃላት"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "የእውቀት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:31:23.133489700Z",
+  "model": "glm-5.3"
+}

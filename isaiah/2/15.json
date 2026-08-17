@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "isaiah 2:15",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እና በከፍታ ግንብ ሁሉ ላይ፣ እና በሚመረት ግንብ ግንብ ሁሉ ላይ።",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "እና ... ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "ግንብ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ከፍታ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና ... ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "ግንብ"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "የተጠናከረች"
+    }
+  ],
+  "timestamp": "2026-08-16T06:55:33.095232355Z",
+  "model": "glm-5.3"
+}

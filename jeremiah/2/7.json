@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እናንተን ⟨את⟩ ወደ ከርመል ምድር አስገብቼ ፍሬዋንና በረከቷን እንብሉ ዘንድ ነበር፤ እናንተም በመጣችሁ ጊዜ ምድሬን ⟨את⟩ አረከሳችሁ፣ ወራሹንም ውርጉዝ አደረጋችሁ።",
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "አስገብቼ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "ከርመል"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "እንብሉ ዘንድ"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ፍሬዋን"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "እና በረከቷን"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "በመጣችሁ ጊዜ"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "አረከሳችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሬን"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "ምድሬን"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "ወራሹን"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "አደረጋችሁ"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "ውርጉዝ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:05:04.954873714Z",
+  "model": "glm-5.3"
+}

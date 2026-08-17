@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "የአባትህ እህት ራብን አትግለጥ፤ የአባትህ ሥጋ ⟨ናትና⟩።",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ራብ"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "እህት"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "የአባትህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ትግለጥ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "የአባትህ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ናት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:53:14.423703083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "አቢሜሌክም ወደ እርሷ አልቀረበም፤ «አዶናይ፣ ብሔርንስ እንኳ ጻድቅ የሆነን ትገድላለህ?» አለ።",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "አቢሜሌክም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ቀረበ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ወደ እርሷ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ብሔርንስ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንኳ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቅ የሆነን"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "ትገድላለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:40:41.627681220Z",
+  "model": "glm-5.3"
+}

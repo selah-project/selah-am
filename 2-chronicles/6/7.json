@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "2-chronicles 6:7",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ከዳዊት ከአባቴ ልብ ጋር ሆነ ለእስራኤል ኤሎሂም ለያህዌህ ስም ቤት ለመሥራት።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋር"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ከአባቴ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ለመሥራት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ለ... ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T13:27:54.170087795Z",
+  "model": "glm-5.3"
+}

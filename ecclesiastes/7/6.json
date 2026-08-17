@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እንደ እሾሆች ድምፅ በድስት ሥር ስለ⟨ነው⟩፣ እንዲሁ የሞኝ ሳቅ ⟨ነው⟩፤ ይህም ትንኮሳት ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "እንደ ድምፅ"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "እሾሆች"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ… ሥር"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ድስት"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲሁ"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ሳቅ"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "ሞኝ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እናም"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ትንኮሳት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:15:51.529231343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "በሞኝ አፍ የመቅጣት በትር የኩራት ነው፤ የጥበበኞች ከንፈሮች ግን ይጠብቋቸዋል።",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "በአፍ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ሞኝ"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "በትር"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "የኩራት"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "ከንፈሮች ግን"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "የጥበበኞች"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "ይጠብቃቸዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:27:28.558569106Z",
+  "model": "glm-5.3"
+}

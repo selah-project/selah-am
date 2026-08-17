@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "አዳምጊ ልጅ፣ ተመልከቺ ጆሮህን አጣፊ፤ ሕዝብህንም እና የአባትህን ቤት ረስቢ።",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "አዳምጊ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "ተመልከቺ"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "አጣፊ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ጆሮህን"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "ረስቢ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ሕዝብህን"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "የ… ቤት"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "የአባትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:33.473627219Z",
+  "model": "glm-5.3"
+}

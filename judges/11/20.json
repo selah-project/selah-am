@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "judges 11:20",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሲሆንም ⟨את⟩ እስራኤልን በድንበሩ እንዲያልፍ አላመነም፤ ሲሆንም ⟨את⟩ ሕዝቡን በሙሉ ሰብሶ በያህሳ ሰፈረ፤ ከእስራኤልም ጋር ተዋገተ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "አመነ"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "ሲሆንም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "እንዲያልፍ"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "በድንበሩ"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ሰብሶ"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "ሲሆንም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን በሙሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ሰፈረ"
+    },
+    {
+      "surface": "ביהצה",
+      "gloss": "በያህሳ"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ተዋገተ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ...ጋር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T05:25:39.591010337Z",
+  "model": "glm-5.3"
+}

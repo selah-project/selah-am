@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "judges 1:20",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ሙሴ እንዳለው ⟨את⟩ ኬብሮንን ለከለብ ሰጡ፤ ከዚያም ⟨את⟩ ሦስቱን የዐናቅ ልጆች ከዚያ አስወጣ።",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ሰጡ"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ለከለብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኬብሮን"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ኬብሮንን"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንዳለው"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሙሴ"
+    },
+    {
+      "surface": "ויורש",
+      "gloss": "አስወጣ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ከዚያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሦስቱን"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ሦስቱን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "የዐናቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:14:56.150652303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እኔም እንዲህ አልሁ — ጥበብ ከኃይል የተሻለች ናት፤ ከድሃው ጥበብም ትስቅበታለች፣ ቃላቱም አይሰሙም።",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "አልሁም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "የተሻለች"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "ከኃይል"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "ጥበብም…የ"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "ድሃው"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "ትስቅበታለች"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "ቃላቱም"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "ሰሙ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:16:46.446046402Z",
+  "model": "glm-5.3"
+}

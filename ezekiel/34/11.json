@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 34:11",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ምክንያቱም እንዲህ አለ አዶናይ ያህዌህ፦ እነሆ እኔ በራሴ፣ በጎቼንም ⟨את⟩ እፈልጋለሁ፤ እነሱንም እመረምራለሁ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "ודרשתי",
+      "gloss": "እፈልጋለሁም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በጎቼን"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "በጎቼን"
+    },
+    {
+      "surface": "ובקרתים",
+      "gloss": "እመረምራቸዋለሁም"
+    }
+  ],
+  "timestamp": "2026-08-16T17:49:12.415666710Z",
+  "model": "glm-5.3"
+}

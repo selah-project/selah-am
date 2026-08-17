@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "ካህናትን ⟨את⟩ እና ሌዋውያንን ⟨את⟩ አስገባ፤ ለምሥራቅ አደባባይም ሰበሰባቸው።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "አስገባ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ካህናትን"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሌዋውያንን"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ሌዋውያን"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "ሰበሰባቸው"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "ለ…አደባባይ"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "ለምሥራቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:17:15.231689403Z",
+  "model": "glm-5.3"
+}

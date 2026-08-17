@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እና ⟨את⟩ የቤቱን ወለል በወርቅ ለብቶ ነበር፤ ወደ ውስጥም ሆኖ ወደ ውጭም ሆኖ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የቤቱን ወለል"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "ወለል"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "የቤቱ"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "ለብቶ ነበር"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "በወርቅ"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "ወደ ውስጥም ሆኖ"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "ወደ ውጭም ሆኖ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:17:05.393986242Z",
+  "model": "glm-5.3"
+}

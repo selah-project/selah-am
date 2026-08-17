@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ጥሩ ዱቄትም ታንሳለህ፣ ከእሱም ⟨את⟩ አሥራ ሁለት ዳቦዎችን ታብሰላለህ፤ አንዱ ዳቦ ሁለት የኤፋ አሥረኛዎች ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ታንሳለህ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ጥሩ ዱቄት"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "ታብሰላለህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "አሥራ ሁለት ዳቦዎችን"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "ዳቦዎች"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "አሥረኛዎች"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "ዳቦው"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "አንዱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:59:49.061801563Z",
+  "model": "glm-5.3"
+}

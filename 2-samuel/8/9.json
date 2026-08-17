@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "የሐማት ንጉሥ ቶዒ ዳዊት የሐዳድዕዜርን ሠራዊት ሁሉ እንደ መታ ⟨את⟩ ሰማ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "ቶዒ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "የሐማት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "መታ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሠራዊት ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ሠራዊት"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "የሐዳድዕዜርን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:57:17.208040075Z",
+  "model": "glm-5.3"
+}

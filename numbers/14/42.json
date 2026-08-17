@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "አትውጣ፣ ያህዌህ በእናንተ መካከል ስለሌለ በጠላቶቻችሁ ፊት ትሸነፋላችሁ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "ውጣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለሚሆን"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "በእናንተ መካከል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንዳት"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "ትሸነፉ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ጠላቶቻችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:15:56.087957044Z",
+  "model": "glm-5.3"
+}

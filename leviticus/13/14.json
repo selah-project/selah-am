@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "በቀኑም በሥጋው ላይ ንቁ ሥጋ በሚታይበት ጊዜ ርኵስ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "በቀኑም"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "በሚታይበት ጊዜ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ንቁ ሥጋ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ርኵስ ይሆናል፤"
+    }
+  ],
+  "timestamp": "2026-08-16T03:50:00.736529420Z",
+  "model": "glm-5.3"
+}

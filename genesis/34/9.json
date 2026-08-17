@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ከእኛ ጋር ⟨את⟩ ተዋህዱ፤ ሴት ልጆቻችሁን ለእኛ በይ፣ ⟨את⟩ ሴት ልጃችንንም ለራሳችሁ ተቀበሉ።",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "ተዋህዱ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ሴት ልጆቻችሁ"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "ሴት ልጆቻችሁን"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "በይ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሴት ልጃችን"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "ሴት ልጃችንን"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ተቀበሉ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለራሳችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:53:17.938384975Z",
+  "model": "glm-5.3"
+}

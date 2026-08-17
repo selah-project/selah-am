@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እስራኤል ልጆች አፈሩ፣ ተበዙ፣ በለዙ፣ ደግሞም በእጅግ በእጅግ ተጠኑ፤ ምድሩም ⟨אֺתָם⟩ በእነሱ ተሞላች።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "እና ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "አፈሩ"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "ተበዙ፣ አሞሉ"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "በለዙ"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "ተጠኑ፣ አደረጉ ኃይል"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "በእጅግ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በእጅግ"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ተሞላችም"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "እነሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:04:59.644782152Z",
+  "model": "glm-5.3"
+}

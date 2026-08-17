@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "1-chronicles 2:16",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እኅታቸውም ጸሩያና አቢጋይል ናቸው፤ የጸሩያ ልጆችም አብሴይ፣ ዮአብና ዓሳሔል — ሦስት ናቸው።",
+  "tokens": [
+    {
+      "surface": "ואחיתיהם",
+      "gloss": "እኅታቸውም"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ጸሩያ"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "አቢጋይል"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "የ... ልጆችም"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ጸሩያ"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "አብሴይ"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "ዮአብ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ዓሳሔል"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ሦስት"
+    }
+  ],
+  "timestamp": "2026-08-16T12:33:12.911833695Z",
+  "model": "glm-5.3"
+}

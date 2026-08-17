@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 38:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "ኮኖቹን በአራቱ ማዕዘኖቹ ላይ አደረገ፤ ከእርሱ ጋር አንድ ሆነው ⟨ነበሩ⟩፤ ⟨אתו⟩ በናስ ሰለጠነው።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ኮኖቹን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "አራቱ"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "ማዕዘኖቹ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእርሱ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ነበሩ"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ኮኖቹ"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ሰለጠነ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "እርሱን (መሠዊያውን)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "በናስ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:38:32.165687541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 115,
+  "translation": "እሺራኤል ሆይ፣ በያህዌህ ታምካለህ፤ ረዳታቸውና ጋሻቸው ⟨እርሱ⟩ ነው።",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "እሺራኤል ሆይ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ታምካለህ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "በያህዌህ"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ረዳታቸው"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "እና ጋሻቸው"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨እርሱ⟩ ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:59.336380817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ያህዌህን ⟨את⟩ ፈለግሁ፣ እርሱም መለሰልኝ፣ እንዲሁም ከፍርህቶቼ ሁሉ አዳነኝ።",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "ፈለግሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "እና መለሰልኝ"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "እና ከሁሉ"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "ፍርህቶቼ"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "አዳነኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:00.801280744Z",
+  "model": "glm-5.3"
+}

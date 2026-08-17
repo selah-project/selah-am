@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "በምን ወጣኝ ⟨את⟩ ዓላማውን ያነጻል? በቃልህ እንደሚሆን ለመጠበቅ።",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "በምን"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "ያነጻል"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ወጣኝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓላማውን"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "ዓላማውን"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ለመጠበቅ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "እንደ ቃልህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:01.846746999Z",
+  "model": "glm-5.3"
+}

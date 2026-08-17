@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 33,
+  "ref": "genesis 26:33",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እርሱም ⟨את⟩ሷ ሽባህ ብሎ ጠራት፤ ስለዚህ ከተማዋ ስም በእር ሸባ ተብሎ እስከ ዛሬው ዕለት ድረስ (ነው)።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ሷ (ሽባህ)"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ሽባህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "በእር"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸባ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬው ዕለት"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:43:55.536806449Z",
+  "model": "glm-5.3"
+}

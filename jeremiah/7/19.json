@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 7:19",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እነሱ ⟨את⟩ እኔን ነው የሚያስቆጡት የያህዌህ ቃል፤ ወይስ ራሳቸውን ⟨את⟩ አይደለም — የፊታቸው ድርቀት እንዲሆን?",
+  "tokens": [
+    {
+      "surface": "האתי",
+      "gloss": "⟨את⟩",
+      "marks": "እኔን"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እነሱ"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "ያስቆጣሉ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "የ…ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ወይስ አይደለም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ራሳቸውን"
+    },
+    {
+      "surface": "למען",
+      "gloss": "እንዲሆን\/ለ…ምክንያት"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "ድርቀት"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ፊታቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T19:57:51.595294789Z",
+  "model": "glm-5.3"
+}

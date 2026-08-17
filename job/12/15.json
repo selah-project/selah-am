@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "እነሆ ውሃን ይገታል እና ይደርቃሉ፤ ያሰላቸዋል እና ምድርን ያንበርክታሉ።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "ይገታል"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ውሃን"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "እና ይደርቃሉ"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ያሰላቸዋል"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "እና ያንበርክታሉ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድርን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:45:35.728369636Z",
+  "model": "glm-5.3"
+}

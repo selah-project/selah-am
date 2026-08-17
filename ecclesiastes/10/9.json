@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ድንጋይ የሚያንቀሳቅስ በእነሱ ይጎዳል፤ እንጨት የሚቀድድ በእነሱ ይከሰራል።",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "የሚያንቀሳቅስ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ድንጋይ"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "ይጎዳል"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "በእነሱ"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "የሚቀድድ"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "እንጨት"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "ይከሰራል"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በእነሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:15:15.054826352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 61,
+  "translation": "ወደ ቀኖች የንጉሡን ቀኖች ታክላለህ፤ ዓመቶቹም እንደ ትውልድ እና ትውልድ ይሁናሉ።",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ቀኖችን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀኖች"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "ታክላለህ"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "ዓመቶቹ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "דר",
+      "gloss": "ትውልድ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "እና ትውልድ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:46.553413953Z",
+  "model": "glm-5.3"
+}

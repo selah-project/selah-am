@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "እኔም እንኳ እንደ ብክር ልጅ አደርገዋለሁ፤ ከምድር ነገሥታት ሁሉ ከፍ ያለ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "እንኳ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ብክር ልጅ"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "አደርገዋለሁ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ከፍ ያለ"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "ከነገሥታት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:49.918222448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እኔ ግን ለኤፍሬም ማለፍ አስተማርሁ፣ በእጆቻቸውም ወሰድኋቸው፤ እነሆም እኔ ፈወሳቸው ያወቁት የለም።",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "ማለፍ አስተማርሁ"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ለኤፍሬም"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "ወሰድኋቸው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "እጆቻቸይም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ያለ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "አወቁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "ፈወሳቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T08:59:52.382676801Z",
+  "model": "glm-5.3"
+}

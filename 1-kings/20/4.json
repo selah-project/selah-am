@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-kings 20:4",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እና የእስራኤል ንጉሥ መልሶ እንዲህ አለ፤ እንደ ቃልህ ነው ጌታዬ ንጉሡ፤ እኔ እና ሁሉም የእኔ ያለው የአንተ ነው።",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "እና…መልሶ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "የ…ንጉሥ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "እንደ ቃልህ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጌታዬ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "የአንተ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ያለው"
+    },
+    {
+      "surface": "לי",
+      "gloss": "የእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:32:33.313931209Z",
+  "model": "glm-5.3"
+}

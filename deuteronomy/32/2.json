@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ይወርዳል እንደ ዝናብ ትምህርቴ፤ ይቀዝፋል እንደ ጤዛ ቃሌ፤ እንደ ዝናብ ጠጠር በሣር ላይ፣ እና እንደ ትንሽ ዝናብ በሣርና በሳርም ላይ።",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "ይወርዳል (ያፈሳል)"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "እንደ ዝናብ"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "ትምህርቴ"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "ይቀዝፋል"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "እንደ ጤዛ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ቃሌ"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "እንደ ዝናብ ጠጠር"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በሣር ላይ"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ሣር"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "እና እንደ ትንሽ ዝናብ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በሣርም ላይ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ሣር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:56:46.236119963Z",
+  "model": "glm-5.3"
+}

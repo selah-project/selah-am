@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 33,
+  "ref": "exodus 34:33",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ሞሼም ከነሱ ⟨את⟩ ጋር ከተናገረ በኋላ አጠናቀቀ፤ በፊቱ ላይ መከራከር ጨመረ።",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "አጠናቀቀ።"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ከመናገር"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ጋር",
+      "marks": "ከነሱ ጋር"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ጨመረ።"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "በፊቱ"
+    },
+    {
+      "surface": "מסוה",
+      "gloss": "መከራከር (እጣኝ)"
+    }
+  ],
+  "timestamp": "2026-08-16T03:32:45.217337867Z",
+  "model": "glm-5.3"
+}

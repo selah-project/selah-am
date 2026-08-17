@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "የሐጢ ልጆችም ⟨את⟩ አብርሃምን መልሰው ለእርሱ እንዲህ አሉት።",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "መልሰው አሉት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ሐጢ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አብርሃምን"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃም"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ እያሉ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:41:46.896752167Z",
+  "model": "glm-5.3"
+}

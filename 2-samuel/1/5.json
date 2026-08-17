@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ዳዊትም ለሚነግረው ለወጣቁ እንዴት አውቄ ሳኦልና ዮናታን ልጁ እንደ ሞቱ አለው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው።"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ለወጣቁ"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "ለሚነግረው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "איך",
+      "gloss": "እንዴት"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "አውቄ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞቱ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦልና"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ዮናታን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:53:00.088898263Z",
+  "model": "glm-5.3"
+}

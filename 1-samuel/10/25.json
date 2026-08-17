@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ሳሙኤልም ለ⟨the⟩ ሕዝቡ ⟨את⟩ የመንግሥቱን ፍትሕ ተናገረ፤ በመጽሐፍም ጻፈው፤ በያህዌህ ፊትም አኖረው፤ ሳሙኤልም ⟨את⟩ ሕዝቡን ሁሉ እያንዳንዱ ሰው ወደ ቤቱ ለከው።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የመንግሥቱን ፍትሕ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍትሕ"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "የመንግሥት"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "ጻፈ"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "በመጽሐፍ"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "አኖረ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ለከው"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ወደ ቤቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:36:17.795924460Z",
+  "model": "glm-5.3"
+}

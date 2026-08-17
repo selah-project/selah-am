@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ስለዚህ እጆች ሁሉ ይደክማሉ፤ የሰው ልብም ሁሉ ይቀልጣል።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "እጆች"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ይደክማሉ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "የሰው"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "ይቀልጣል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:03:05.171492110Z",
+  "model": "glm-5.3"
+}

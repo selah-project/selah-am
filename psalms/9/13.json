@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ምክንያቱም ደም የሚፈልግ ⟨את⟩ እነርሱን አስታወሳል፤ የድሆችን ጩኸት አልረሳም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "የሚፈልግ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "አስታወሳል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "ረሳ"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "ጩኸት"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ድሆች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:37.084207346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "numbers 12:15",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ምርያምም ሰባት ቀን ከመስኪና ውጭ ታገዳ ነበር፤ ሕዝቡም ምርያም እስኪቀበል ድረስ አልተነሳም።",
+  "tokens": [
+    {
+      "surface": "ותסגר",
+      "gloss": "ታገዳ ነበርም"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "ምርያምም"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ከ...ውጭ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "መስኪና"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ሕዝቡም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "ተነሳም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪ...ድረስ"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "እሷ እስክተቀበል"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "ምርያም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:13:42.894227384Z",
+  "model": "glm-5.3"
+}

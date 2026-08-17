@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "እርሱም እንዲህ አለ፦ ⟨את⟩ ክብርህን እባክህ አሳየኝ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "አሳየኝ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክብርህን"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "ክብርህን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:33:49.012871183Z",
+  "model": "glm-5.3"
+}

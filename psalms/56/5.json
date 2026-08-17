@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 56,
+  "translation": "በኤሎሂም ቃሉን አመሰግናለሁ፤ በኤሎሂም ታምነያለሁ፤ አልፈራም — ሥጋ ምን ያደርግብኛል?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "በኤሎሂም"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "አመሰግናለሁ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ቃሉን"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "በኤሎሂም"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ታምነያለሁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አልፈራም"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "እፈራም"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ያደርግብኛል"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ብኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:21.763990508Z",
+  "model": "glm-5.3"
+}

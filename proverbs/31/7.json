@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ይጠጣል፣ እና ድህነቱን ይረሳል፤ ችግሩን ከእንግዲህ አያስብምም።",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "ይጠጣ"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "እና ይረሳ"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "ድህነቱን"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "እና ችግሩን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "ያስብ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ከእንግዲህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:38:36.334747005Z",
+  "model": "glm-5.3"
+}

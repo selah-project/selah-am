@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 46,
+  "translation": "የጋድ ወንድሞችም ጽፍዮን፣ ሐጂ፣ ሱኒ፣ እጽቦን፣ ዐሪ፣ አሮዲና አርኤሊ ናቸው።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "የ…ወንድሞችም"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "ጽፍዮን"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "ሐጂ"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "ሱኒ"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "እጽቦን"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ዐሪ"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "አሮዲ"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "አርኤሊ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:01:22.945628473Z",
+  "model": "glm-5.3"
+}

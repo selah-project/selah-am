@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ያህዌህም ሕዝቡን በምጽራውያን ፊት ሞገስ ⟨את⟩ ሰጠ፤ ደግሞም ሰውዬው ሞሼ በፈርዖን አገልጋዮችና በሕዝቡ ፊት በምጽራይም ምድር በጣም ታላቅ ነበር።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሰጠም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞገስን"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ሞገስ \/ ጸጋ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "በ… ፊት \/ በዓይን"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽራውያን"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ደግሞም"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰውዬው"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በ… ምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽራይም"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "በ… ፊት"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "አገልጋዮች"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "የፈርዖን"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "እና በ… ፊት"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:41:32.328126768Z",
+  "model": "glm-5.3"
+}

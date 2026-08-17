@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ይሆሹዓ ለእስራኤል ልጆች እንዲህ አለ፦ እዚህ ተቃረቡ፣ የእናንተ ኤሎሂም ያህዌህን ⟨את⟩ ቃላቱን ስሙ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ይሆሹዓ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "ተቃረቡ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እዚህ"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላቱን"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላቱን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "የእናንተ ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:59:22.555426829Z",
+  "model": "glm-5.3"
+}

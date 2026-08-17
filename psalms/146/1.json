@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 146,
+  "translation": "አመስግኑ ያህን፤ ነፍሴ ሆይ፥ ያህዌህን ⟨את⟩ አመስግኚው።",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "አመስግኑ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህን"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "አመስግኚ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ ሆይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:55.009360033Z",
+  "model": "glm-5.3"
+}

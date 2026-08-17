@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "አሃሮንን ⟨את⟩ እና ልጆቹን ⟨את⟩ ከእርሱ ጋር ውሰድ፤ እንዲሁም ⟨את⟩ ልብሶችን፣ ⟨את⟩ የመቀባት ዘዘብን፣ ⟨את⟩ የኃጢያት ወይፍን፣ ⟨את⟩ ሁለቱን አውራ በጎች እና ⟨את⟩ የቂጣ ቅርጫትን ውሰድ።",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ውሰድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አሃሮንን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮንን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ልጆቹን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ልጆቹን"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ከእርሱ ጋር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ልብሶችን"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "ልብሶችን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዘዘብን"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘዘብ"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "የመቀባት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ወይፍን"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ወይፍን"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "የኃጢያት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "አውራ በጎችን"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለቱን"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "አውራ በጎችን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቅርጫትን"
+    },
+    {
+      "surface": "סל",
+      "gloss": "ቅርጫትን"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "የቂጣ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:46:40.161557402Z",
+  "model": "glm-5.3"
+}

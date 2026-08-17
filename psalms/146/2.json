@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 146,
+  "translation": "በሕይወቴ ያህዌህን አመስግናለሁ፤ እኔ እንዳለሁ ለኤሎሄዬ እዘምራለሁ።",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "አመስግናለሁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "በሕይወቴ"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "እዘምራለሁ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ለኤሎሄዬ"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "እኔ እንዳለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:55.009562760Z",
+  "model": "glm-5.3"
+}

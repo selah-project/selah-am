@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ያህዌህ ኤሎሂም ከአዳም የወሰደውን ⟨את⟩ ጎቡን ለሴት ሠራ፤ ከዚያም እሷን ወደ አዳም አመጣት።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጎቡን"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "ጎቡን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ… ወሰደውን"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "አዳም"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ለሴት"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "አመጣት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "አዳም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:55.469061941Z",
+  "model": "glm-5.3"
+}

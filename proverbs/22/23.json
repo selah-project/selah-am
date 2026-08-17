@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "proverbs 22:23",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ምክንያቱም ያህዌህ ክሳቸውን ይከራከታል፣ እና የሚያበድሯቸውን ⟨את⟩ ሕይወትን ይቀምጣል፤",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ይከራከታል"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "ክሳቸውን"
+    },
+    {
+      "surface": "וקבע",
+      "gloss": "እና ይቀምጣል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሚያበድሯቸውን"
+    },
+    {
+      "surface": "קבעיהם",
+      "gloss": "የሚያበድሯቸው"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ሕይወትን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:32:50.457171710Z",
+  "model": "glm-5.3"
+}

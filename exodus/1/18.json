@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የምጽራይም ንጉሥም አዋላጆቹን ጠራቸው፤ እነሱንም «ይህን ሥራ ለምን ሠራታችሁ፤ የወንድ ልጆችንም ⟨את⟩ ሕያው ለምን አደረጋችሁ?» አላቸው።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "የምጽራይም"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "አዋላጆቹን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አላቸው"
+    },
+    {
+      "surface": "להן",
+      "gloss": "እነሱን"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "ሠራታችሁ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ሥራውን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "ሕያው አደረጓችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የወንድ ልጆችን"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ልጆች"
+    }
+  ],
+  "timestamp": "2026-08-16T03:06:19.696213614Z",
+  "model": "glm-5.3"
+}

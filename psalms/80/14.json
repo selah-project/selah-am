@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 80,
+  "translation": "ከዱር የመጣ እሪያ እሷን ያጠፋታል፣ እና የሜዳው እንስሳ እሷን ይረባታል።",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "እሷን ያጠፋታል"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "እሪያ"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "ከዱር"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "እና የሜዳው እንስሳ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "የሜዳው"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "እሷን ይረባታል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:45.300751197Z",
+  "model": "glm-5.3"
+}

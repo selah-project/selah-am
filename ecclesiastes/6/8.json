@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "መልካም ነገር ምን ያለው ነው ከሞኝ? በሕይወት ፊት ለሚሄድ የሚያውቅ ለድሃ ምን አለው?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "መልካም ነገር"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ይበልጣል"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ለጥበበኛ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "ሞኝ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ለድሃ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "የሚያውቅ"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "ለሚሄድ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ፊት ለ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ሕይወት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:17:02.975948566Z",
+  "model": "glm-5.3"
+}

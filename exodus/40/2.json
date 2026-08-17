@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "በአንደኛው ወር በወሩ በአንደኛው ቀን የመገኛ ድንኳንን ⟨את⟩ የስብሰባ ድንኳንን ታስተናግዳለህ።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ወሩ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "አንደኛው"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "በአንደኛው"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ወሩ"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "ታስተናግዳለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የመገኛ ድንኳንን"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "የመገኛ ድንኳን"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "የስብሰባ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:41:09.188675222Z",
+  "model": "glm-5.3"
+}

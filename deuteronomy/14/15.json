@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "እና ⟨את⟩ የጭጋሩን ሴት፣ ⟨את⟩ የሌሊቱን ወፍ፣ ⟨את⟩ ጎሽንም፣ ⟨את⟩ ጥላውንም በዓይነቱ፤",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የጭጋሩ ሴት"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ጭጋር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የሌሊት ወፍ"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "የሌሊት ወፍ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጎሽ"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "ጎሽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጥላ"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "ጥላ"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "በዓይነቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:41:20.881821443Z",
+  "model": "glm-5.3"
+}

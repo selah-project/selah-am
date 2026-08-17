@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "በከተማዋ ውስጥ ይሮጣሉ፤ በግድግዳዋ ላይ ይሮጣሉ፤ ወደ ቤቶች ይወጣሉ፤ በመስኮቶች ውስጥ እንደ ሌባ ይገባሉ።",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "በከተማዋ ውስጥ"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "ይሮጣሉ"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "በግድግዳዋ ላይ"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "ይሮጣሉ"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "ወደ ቤቶች"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ይወጣሉ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "በ… ውስጥ"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "መስኮቶች"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ይገባሉ"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "እንደ ሌባ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:03:45.541019616Z",
+  "model": "glm-5.3"
+}

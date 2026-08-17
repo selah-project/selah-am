@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "እንደ እነዚህ ሁሉም ቃላት እንደ ይህም ራዕይ ሁሉ እንዲሁ ናታን ወደ ዳዊት ተናገረ።",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "እንደ ሁሉም"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "እንደ ሁሉምም"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "ራዕይ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲሁ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ናታን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T13:05:32.048053780Z",
+  "model": "glm-5.3"
+}

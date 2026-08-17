@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የሸክላ መሣሪያም በእርሱ ውስጥ የተበሰለበት ይሰበራል፤ በነሐስ መሣሪያም ውስጥ በደረሰ በውሃ ይሠረቃል እና ይታጠባል።",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "የሸክላ መሣሪያም"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ሸክላ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነው"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "የበሰለው"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ ውስጥ"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ይሰበራል"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "እና ከሆነ"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "በመሣሪያ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "በነሐስ"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "በደረሰ"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "ይሠረቃል እና"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "ይታጠባል"
+    },
+    {
+      "surface": "במים",
+      "gloss": "በውሃ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:37:00.469120073Z",
+  "model": "glm-5.3"
+}

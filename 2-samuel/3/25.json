@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "አብነርን ⟨את⟩ የኔርን ልጅ ታውቀዋል፤ ሊያታልልህ እንደ መጣ፣ የመውጫህን ⟨את⟩ እና የመግቢያህን ⟨את⟩ ለመረዳት፣ አንተ እየሠራህ ያለውን ሁሉ ⟨את⟩ ለመረዳት ነው።",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "ታውቀዋል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አብነርን"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "አብነር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ኔር"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "ሊያታልልህ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "እና ለመረዳት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መውጫህን"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "መውጫህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መግቢያህን"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "መግቢያህ"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "እና ለመረዳት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለው"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "እየሠራህ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:41:18.940069899Z",
+  "model": "glm-5.3"
+}

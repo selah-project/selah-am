@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ምክንያቱም እንደገና ትንሽ፣ እጅግ በጣም ጥቂት፣ ቍጣው ይፈጸማል፤ ቍጣዬም በመጨረሻቸው ላይ ይወርዳል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "እንደገና"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ትንሽ"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "እጅግ በጣም ጥቂት"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ይፈጸማል"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ቍጣው"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "ቍጣዬም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "መጨረሻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T07:02:08.916038608Z",
+  "model": "glm-5.3"
+}

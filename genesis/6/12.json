@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ኤሎሂምም ⟨את⟩ ምድሪቱን አየ፤ እነሆም ተበላሸችለት፤ ምክርም ሁሉም ሥጋ መንገዱን ⟨את⟩ በምድር ላይ በደለው።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪቱን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪቱ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆም"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "ተበላሸችለት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክርም"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "በደለው"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንገዱን"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "መንገዱን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "በምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T02:31:31.047568991Z",
+  "model": "glm-5.3"
+}

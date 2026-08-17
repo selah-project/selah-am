@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 55,
+  "translation": "እነሆ፥ በራቅ እሮጣለሁ፤ በምድረ በዳ አደርሳለሁ። ሴላ።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ፥"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "በራቅ"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "እሮጣለሁ፤"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "አደርሳለሁ።"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በምድረ በዳ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ።"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:04.117064774Z",
+  "model": "glm-5.3"
+}

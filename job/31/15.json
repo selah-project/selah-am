@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "job 31:15",
+  "book": "job",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "በሆድ ውስጥ የሠራኝ እርሱን አላሠራውምን? እና በሆድ ውስጥ አንድ ⟨ራሱ⟩ አላዋቀረንምን?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "አል...ምን?"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "በሆድ ውስጥ"
+    },
+    {
+      "surface": "עשני",
+      "gloss": "የሠራኝ"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "እርሱን አሠራው"
+    },
+    {
+      "surface": "ויכננו",
+      "gloss": "እና አዋቀረው"
+    },
+    {
+      "surface": "ברחם",
+      "gloss": "በሆድ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:56:00.601785931Z",
+  "model": "glm-5.3"
+}

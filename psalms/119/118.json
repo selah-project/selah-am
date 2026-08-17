@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ከሥርዓቶችህ ሁሉን የተበረቱትን ጨርሰህ ባለበለው፣ ምክንያቱም ሐሰት ነው ማጭበርበራቸው።",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "ጨርሰህ ባለበለው"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "የተበረቱትን"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "ከሥርዓቶችህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሐሰት"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "ማጭበርበራቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:04.712318984Z",
+  "model": "glm-5.3"
+}

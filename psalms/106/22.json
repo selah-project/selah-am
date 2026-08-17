@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "ድንቅ ሥራዎችን በካም ምድር፣ የሚያስፈራ ነገሮችንም በሱፍ ባሕር።",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "ድንቅ ሥራዎችን"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በ...ምድር"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ካም"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "የሚያስፈራ ነገሮችንም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ሱፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:12.394858975Z",
+  "model": "glm-5.3"
+}

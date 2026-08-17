@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "እና ከይሣሣካር ነገድ ቂስዮንን ⟨את⟩ እና መስኮቿን ⟨את⟩፣ ዳብራትን ⟨את⟩ እና መስኮቿን ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "እና ከ…ነገድ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ይሣሣካር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቂስዮንን"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "ቂስዮን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መስኮቿን"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መስኳዋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳብራትን"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ዳብራት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መስኮቿን"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መስኳዋ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:11:05.913094431Z",
+  "model": "glm-5.3"
+}

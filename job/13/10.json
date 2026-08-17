@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እርሱ በእርግጥ ይወትዳችኋል፣ እናንተ በስውር ፊት ቢታከቱ።",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "ይወትዳል"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "በእርግጥ ይወትዳችኋል"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እናንተ ቢታከቱ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "በስውር"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "ቢታከቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:45:06.412838514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "proverbs 6:15",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ስለዚህ መከራው በድንገት ይመጣል፤ በምትኩ ይሰባራል፣ እና መፍትሔ የለም።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "በድንገት"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ይመጣል"
+    },
+    {
+      "surface": "אידו",
+      "gloss": "መከራው"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "በምትኩ"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ይሰባራል"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "መፍትሔ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:23:01.840178212Z",
+  "model": "glm-5.3"
+}

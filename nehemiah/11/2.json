@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሕዝቡም በኢየሩሳሌም እንዲኖሩ በራሳቸው ፈቃድ የተቀሰቁትን ሰዎች ሁሉ ባረካ።",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "ባረካ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡም"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "በራሳቸው ፈቃድ የተቀሰቁትን"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "እንዲኖሩ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "በኢየሩሳሌም"
+    }
+  ],
+  "timestamp": "2026-08-16T12:26:15.700707391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ያህዌህም አለ፤ እነርሱ በፊታቸው ያስቀመጥኩትን ሕጄን ⟨את⟩ ስለ ተወቁት እና ድምፄን ሳይሰሙ፣ በእርሱም ሳይሄዱ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "ስለ ተወቁት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕጄን"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ሕጄን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ… እንደ ሆነ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ያስቀመጥኩትን"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "በፊታቸው"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ሰሙ"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ድምፄን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ሄዱም"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:43:46.998299221Z",
+  "model": "glm-5.3"
+}

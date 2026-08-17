@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "በዚያ ወቅት ለእናንተ እንዲህ አልሁ፡ እናንተን ⟨את⟩ ብቻዬን ማንሳት አልችልም።",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "እና አልሁ"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ለእናንተ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "በወቅት"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ኤቱ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "እችላለሁ"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ብቻዬን"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ማንሳት"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:31:59.970271820Z",
+  "model": "glm-5.3"
+}

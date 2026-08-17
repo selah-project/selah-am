@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "አምስቱን መጋረጃዎች ⟨את⟩ አንዱን ወደ ሌላው አገናኘ፤ እና ሌሎቹን አምስት መጋረጃዎች አንዱን ወደ ሌላው አገናኘ።",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "እና አገናኘ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አምስቱን መጋረጃዎች"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "መጋረጃዎች"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "አንዱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ሌላው"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "እና አምስት"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "መጋረጃዎች"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "አገናኘ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "አንዱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ሌላው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:36:58.906708275Z",
+  "model": "glm-5.3"
+}

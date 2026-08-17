@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "hosea 8:10",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "በአሕዛብ መካከል ምንም ቢቀጥሩ፣ አሁን እኔ አሰባቸዋለሁ፤ ከንጉሥ እና ከአለቆች ሸክም ትንሽ ደከሙ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ምንም...ቢ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ቢቀጥሩ (አገናኝ)"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ቢቀጥሩ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "በአሕዛብ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "אקבצם",
+      "gloss": "አሰባቸዋለሁ"
+    },
+    {
+      "surface": "ויחלו",
+      "gloss": "ደከሙ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ትንሽ"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "ከሸክም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ከንጉሥ"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "እና ከአለቆች"
+    }
+  ],
+  "timestamp": "2026-08-16T08:59:00.620567320Z",
+  "model": "glm-5.3"
+}

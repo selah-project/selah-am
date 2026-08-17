@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ምክንያቱም ቀን በቀን እና ሌሊት እጅህ በእኔ ላይ ይከብድ ነበር፤ እርጥበቴ እንደ በጋ ደረቅ ተለወጠ። ሴላ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ቀን በቀን"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "እና ሌሊት"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "ይከብድ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህ"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "ተለወጠ"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "እርጥበቴ"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "እንደ ደረቀ ወቅት"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "በጋ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:09.381829585Z",
+  "model": "glm-5.3"
+}

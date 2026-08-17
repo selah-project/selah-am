@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 3:13",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እና እጁን በራሱ ላይ ላይ ራሱ ላይ በመግፈፍ ያስቀምጣል፣ እና ከኤሎሂም ማኅበር ድንኳን ፊት ለፊት ያለውን ⟨את⟩ ያርድዋል፣ እና የአሃሮን ልጆች ደሙን ⟨את⟩ መሠዊያ ላይ በዙሪያው ሁሉ ያረክባሉ።",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ያስቀምጣል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጁን"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ራሱ ላይ"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ያርድዋል"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እሱን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት ለፊት"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ማኅበር"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ያረክባሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደሙን"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ደሙን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያ ላይ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "በዙሪያው ሁሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:37:10.792484515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ሞሼ ብቻውን ወደ ያህዌህ ይቀርባል፤ እነሱ ግን አይቀርቡም፤ ሕዝቡም ከእርሱ ጋር አይወጣም።",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "ይቀርባል"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ብቻውን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "እነሱ ግን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "ይቀርቡም"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ሕዝቡም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ይወጣሉ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:22:49.436668399Z",
+  "model": "glm-5.3"
+}

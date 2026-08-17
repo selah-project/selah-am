@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የያህዌህን ድምፅ ባትሰሙ፣ የያህዌህን አፍ ⟨את⟩ ብትቃወሙ ግን፣ የያህዌህ እጅ በእናንተም በአባቶቻችሁም ላይ ትሆናለች።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ግን ከሆነ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ብትሰሙ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "ብትቃወሙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አፍ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ትሆናለች"
+    },
+    {
+      "surface": "יד",
+      "gloss": "እጅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "በእናንተ"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "እና በአባቶቻችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:37:14.049957360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "አያል እና ጸብይ እና ያሕሙር እና አቆ እና ዲሾን እና ተው እና ዛመር።",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "አያል"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "እና ጸብይ"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "እና ያሕሙር"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "እና አቆ"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "እና ዲሾን"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "እና ተው"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "እና ዛመር"
+    }
+  ],
+  "timestamp": "2026-08-16T19:21:57.620888625Z",
+  "model": "glm-5.3"
+}

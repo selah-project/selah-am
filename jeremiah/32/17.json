@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 32:17",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "አው! አዶናይ ያህዌህ፣ እነሆ አንተ ⟨את⟩ ሰማያትን እና ⟨את⟩ ምድርን በታላቅ ኃይልህ እና በዘረጋህ እጅ አደረግህ፤ ምንም ነገር ከአንተ አይረብሽም።",
+  "tokens": [
+    {
+      "surface": "אהה",
+      "gloss": "አው!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "አደረግህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰማያትን"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያትን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምድርን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "በኃይልህ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "በእጅህ"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "ዘረጋህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይረብሽም"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "የሚረብሽ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ከአንተ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ምንም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ነገር"
+    }
+  ],
+  "timestamp": "2026-08-17T08:05:14.326680954Z",
+  "model": "glm-5.3"
+}

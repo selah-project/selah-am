@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "በክፉ ቀን በዳስ ውስጥ ይሰውረኛል፤ በድንኳኑ ስውር ይደብቀኛል፤ በዐለት ላይ ያነሣኛል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ\/እንደ"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "ይሰውረኛል"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "በዳስ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "ይደብቀኛል"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "በስውር"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "ድንኳኑ"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "በዐለት"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "ያነሣኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:27.573865825Z",
+  "model": "glm-5.3"
+}

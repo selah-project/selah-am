@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ሙሉ ስብሰባውም እንደዚህ ማድረግ እንዲሆን ተናገረ፤ ቃሉ በሕዝቡ ሁሉ ዓይን ቀና ነበርና።",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ተናገረም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሙሉ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ስብሰባውም"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ማድረግ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ…ና"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ቀና ነበር"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃሉ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "በ… ዓይን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:56:43.077570687Z",
+  "model": "glm-5.3"
+}

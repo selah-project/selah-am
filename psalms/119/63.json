@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "እኔ የምትፈሩህ ሁሉ አጋር ነኝ፤ እንዲሁም ትእዛዞችህን ለሚጠብቁ አጋር ነኝ።",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "አጋር"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ..."
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "ምትፈሩህ"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "እንዲሁም ለሚጠብቁ"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ትእዛዞችህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:28.887344985Z",
+  "model": "glm-5.3"
+}

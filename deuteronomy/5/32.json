@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እናንተም ያህዌህ ኤሎሂም እናንተን ⟨את⟩ እንዳዘዛችሁ እንዲህ ሁሉ እንድታደርጉ ተጠንቀቁ፤ ቀኝ ወይም ግራ አትዞሩ።",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "እናንተም ተጠንቀቁ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "እንድታደርጉ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂም አምላካችሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "ዞሩ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ቀኝ"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "ወይም ግራ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:35:46.810013410Z",
+  "model": "glm-5.3"
+}

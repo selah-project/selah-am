@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 104,
+  "translation": "ያህዌህ ሆይ፣ ሥራዎችህ ምን ያህል በዝተዋል! ሁሉንም በጥበብ አድርገኸዋል፤ ምድር በፍጥረቶችህ ተሞታለች።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ምን ያህል"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "በዝተዋል"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ሥራዎችህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ ሆይ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ሁሉንም"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "በጥበብ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "አድርገኸዋል"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ተሞታለች"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "በፍጥረቶችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:38.722538653Z",
+  "model": "glm-5.3"
+}

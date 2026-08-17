@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "በክሩቤሎች የሰው እጅ ቅርጽ በክንፎቻቸው ሥር ታየ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ታየ"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "በክሩቤሎች"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ቅርጽ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "እጅ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "የሰው"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ … ሥር"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "በክንፎቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T08:22:22.838697754Z",
+  "model": "glm-5.3"
+}

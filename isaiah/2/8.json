@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ምድሩ በአስሮች ተሞለች፤ ለእጆቹ ሥራ ይሰግዳሉ፤ አንዶቹ ጣቶቹ ለሠራው።",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "ተሞለች"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ምድሩ"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "በአስሮች"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "ለሥራ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "እጆቹ"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "ይሰግዳሉ"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "ለሠራው"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ሠሩ"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "ጣቶቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:56:15.917846037Z",
+  "model": "glm-5.3"
+}

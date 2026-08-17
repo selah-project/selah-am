@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "የታማኝ መስክር አይዋሽም፤ የሐሰት መስክር ውሽታ ያነፍሳል።",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "መስክር"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ታማኝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "ያዋሽ"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "ያነፍሳል"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ውሽታ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "መስክር"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሐሰት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:27:20.998213435Z",
+  "model": "glm-5.3"
+}

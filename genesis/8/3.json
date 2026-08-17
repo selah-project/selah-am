@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ውኃው ከምድር ላይ ሄጃ ተመልሶ ተመለሰ፤ ውኃውም ከመቶ በሃምሳ ቀናት መጨረሻ ጎደለ።",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ተመለሱ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውኃው"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከ…ላይ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ሄጃ"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ተመልሶ"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "ጎደሉ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውኃው"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ከ…መጨረሻ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ሃምሳ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "እና መቶ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀናት"
+    }
+  ],
+  "timestamp": "2026-08-16T02:33:49.559511452Z",
+  "model": "glm-5.3"
+}

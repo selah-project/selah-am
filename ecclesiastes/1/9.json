@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የነበረው ነገር እንደሚሆነው ⟨ነው⟩፤ የተደረገውም እንደሚደረገው ⟨ነው⟩፤ በፀሐይ ሥር አዲስ ምንም የለም።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "የነበረው"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "የሚሆነው"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "እና ምን"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "የተደረገው"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "የሚደረገው"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ማንኛውም"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "አዲስ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ሥር"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "የፀሐይ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:13:12.867409428Z",
+  "model": "glm-5.3"
+}

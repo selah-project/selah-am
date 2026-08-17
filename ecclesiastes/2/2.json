@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ስለ ሥስት እንቢል ዋልታ ነው አልሁ፤ ስለ ደስታም፥ ይህ ምን ያደርጋል?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "ስለ ሥስት"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "አልሁ"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "ዋልታ ነው"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "ስለ ደስታም"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ያደርጋል"
+    }
+  ],
+  "timestamp": "2026-08-16T11:14:23.295180158Z",
+  "model": "glm-5.3"
+}

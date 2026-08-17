@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ነገር ግን ለዚህ ማሳየቴን በምታይበት ቆምሃለሁ፤ ኃይሌን ⟨את⟩ ታይበት ወደ እንግዲህ ስሜን በምድር ሁሉ ለማስነገር ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ለዚህ…ማሳየቴን"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "ቆምሃለሁ"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ለ…ታይበት"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "በምታይበት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኃይሌን"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ኃይሌን"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ወደ እንግዲህ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ለማስነገር"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ስሜን"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:11:07.753245913Z",
+  "model": "glm-5.3"
+}

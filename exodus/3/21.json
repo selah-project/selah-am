@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እኔም ⟨את⟩ ጸጋውን የሕዝቡን ይህ በዐይኖች የምጽርያውያን እሰጣለሁ፤ እናንተም በምትሄዱበት ጊዜ ባዶ አትሄዱም።",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "እሰጣለሁ፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጸጋውን"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ጸጋውን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "የሕዝቡን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "በዐይኖች"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "የምጽርያውያን"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "እናንተም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በምትሄዱበት ጊዜ"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "በምትሄዱበት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ሄዱም"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ባዶ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:30:48.266582715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ቁም፣ ምክንያቱም ጉዳዩ በአንተ ላይ ነው፣ እና እኛ ከአንተ ጋር ነን፤ ተጠንክር አድርግ።",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "ቁም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "በአንተ ላይ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ጉዳዩ"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "እና እኛ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ተጠንክር"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "አድርግ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:33:53.956079235Z",
+  "model": "glm-5.3"
+}

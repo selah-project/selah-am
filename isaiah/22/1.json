@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "የራእይ ሸለቆ ትንቢታዊ ጭንቀት። ምን ሆነልሽ አሁን፣ ኪ አንቺ ሁሉሽ ወደ ቤት ጣሪያዎች ⟨ወጣሽ⟩።",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ትንቢታዊ ጭንቀት"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "ሸለቆ"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "ራእይ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለሽ"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ኪ"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "ወጣሽ"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "አንቺ ሁሉሽ"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "ወደ ቤት ጣሪያዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T07:08:05.870206125Z",
+  "model": "glm-5.3"
+}

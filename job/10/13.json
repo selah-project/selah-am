@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 10:13",
+  "book": "job",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እነዚህንም በልብህ ደብቀሃቸዋል፤ ይህ ⟨ከአንተ⟩ ጋር እንደ⟨ሆነ⟩ አውቀዋለሁ።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እነዚህንም"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "ደብቀሃቸዋል"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "በልብህ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "አውቀዋለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T18:14:13.684307120Z",
+  "model": "glm-5.3"
+}

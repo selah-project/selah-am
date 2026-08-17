@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "proverbs 1:24",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ስለ ደወልኋችሁ አመለከታችሁ፤ እጄን ዘረጋሁኝ፤ የሚያዳምጥ ግን የለም።",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ደወልኋችሁ"
+    },
+    {
+      "surface": "ותמאנו",
+      "gloss": "አመለከታችሁ"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "ዘረጋሁኝ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "እጄን"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ግን የለምም"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "የሚያዳምጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:52.577919478Z",
+  "model": "glm-5.3"
+}

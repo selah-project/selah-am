@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 115,
+  "translation": "ሞቱት ያህን አያመሰግኑም፣ ወደ ጸጥታ የሚወርዱትም ሁሉ አያመሰግኑም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይፈጽሙም"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ሞቱት"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ያመሰግኑ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንዲሁም አይፈጽሙም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "የሚወርዱት"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "ወደ ጸጥታ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:59.856832164Z",
+  "model": "glm-5.3"
+}

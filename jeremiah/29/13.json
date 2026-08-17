@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "እናትፈልጉኝም ⟨את⟩፣ እናታገኙኝም፣ ልባችሁን በሙሉ ስታስሱኝ ስለሆነ።",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "እናትፈልጉኝም"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "እኔን"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "እናታገኙኝም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለሆነ"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "ስታስሱኝ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ልባችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:59:46.794419598Z",
+  "model": "glm-5.3"
+}

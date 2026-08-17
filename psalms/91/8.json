@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 91,
+  "translation": "በዓይኖችህ ብቻ ታያለህ፣ የክፉዎችን በቀል ታያለህ።",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "በዓይኖችህ"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "ታያለህ\/ትመለከታለህ"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "እና የበቀል"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "የክፉዎች"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ታያለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:16.297009861Z",
+  "model": "glm-5.3"
+}

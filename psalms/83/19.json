@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 83,
+  "translation": "እነርሱም አንተ ስምህ ያህዌህ ብቻውን ታውቁ ዘንድ፤ አንተ በላይ በሁሉው ⟨ላይ⟩ ⟨ምድር⟩ ላይ አንተ ብቻህ ከፍ ያለ ነህ።",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ያውቁ ዘንድ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ብቻህ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ከፍ ያለ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በሁሉው"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:18.827743357Z",
+  "model": "glm-5.3"
+}

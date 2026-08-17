@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 80,
+  "translation": "እርስዎ የወይን ግንድን ከምጽራይም በማውጣት አንቀሳቀሷት፤ አሕዛቦችን አስለቅቁ እርሷንም ተከላት።",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "የወይን ግንድን"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ከምጽራይም"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "አንቀሳቀሷት"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "አስለቅቁ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "አሕዛቦችን"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "ተከላት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:15.713449478Z",
+  "model": "glm-5.3"
+}

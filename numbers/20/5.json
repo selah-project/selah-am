@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እና ለምን ከግብፅ አወጣችሁን ልገባን ⟨את⟩ ወደ ይህ ክፉ ስፍራ? የማይዘር ስፍራ አይደለም፣ የበለስ፣ የወይን፣ የሮማን፤ የሚጠጣ ውኃም የለም።",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "እና ለምን"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "አወጣችሁን"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ከግብፅ"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ልገባን"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "እኛን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ስፍራው"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ስፍራ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘር"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "እና የበለስ"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "እና የወይን"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "እና የሮማን"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "እና ውኃ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "የሚጠጣ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:20:08.630534775Z",
+  "model": "glm-5.3"
+}

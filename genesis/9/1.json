@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ኤሎሂም ⟨את⟩ ኖኅን እና ⟨את⟩ ወንዶቹን ባረኳቸው፤ ለእነርሱም እንዲህ አላቸው፦ በሉ፣ ብዙ ይደሉ፣ ⟨את⟩ ምድርን ሙሉታት።",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ባረኳቸው"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኖኅን"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖኅ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ወንዶቹን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ወንዶቹን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አላቸው"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነርሱ"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ብዙ ይደሉ"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ሙሉታት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድርን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድርን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:33:27.669893761Z",
+  "model": "glm-5.3"
+}

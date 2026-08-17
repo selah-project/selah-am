@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 72,
+  "translation": "ከምዝበያዤና ከጉልበተኝነት ነፍሳቸውን ያውጣል፤ ደማቸውም በዓይኖቹ ውስጥ ውድ ⟨ይሆናል⟩።",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "ከምዝበያዤ"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "እና ከጉልበተኝነት"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ያውጣል"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ነፍሳቸውን"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "እና ውድ"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ደማቸው"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "በዓይኖቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:47.542696880Z",
+  "model": "glm-5.3"
+}

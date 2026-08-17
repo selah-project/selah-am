@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ካህኑ ያያል፤ እነሆ ቁስሉ ወደ ነጭ ተገፍቶ ከሆነ፣ ካህኑ ⟨את⟩ ቁስሉን ንጹህ ይመስለዋል፤ እርሱ ንጹህ ነው።",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "ያያል፤"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "ተገፍቶ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ቁስሉ"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ወደ ነጭ"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ይመስለዋል፤ ንጹህ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቁስሉን"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ቁስሉን"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ንጹህ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:51:32.312489660Z",
+  "model": "glm-5.3"
+}

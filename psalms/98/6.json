@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 98,
+  "translation": "በቀለል እና በራቅፋ ድምፅ ከፍ ብላችሁ በንጉሡ በያህዌህ ፊት።",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "በቀለል"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "እና ድምፅ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "በራቅፋ"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ከፍ ብላችሁ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "በንጉሡ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:27.098874828Z",
+  "model": "glm-5.3"
+}

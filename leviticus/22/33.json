@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እናንተን ⟨את⟩ ከምድረ ግብፅ ያወጣችሁ፣ ለእናንተ ኤሎሂም እንድሆን ያደረገው፤ እኔ ያህዌህ ነኝ።",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "ያወጣችሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "እናንተን ⟨את⟩",
+      "marks": "እናንተ (የወጣችሁት)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፅ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "እንዲሆን"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለእናንተ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:55:55.064239410Z",
+  "model": "glm-5.3"
+}

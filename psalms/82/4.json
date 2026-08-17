@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 82,
+  "translation": "ድሆችን እና አስተላላቂዎችን አምልጡ፤ ከክፉዎች እጅ አድናቸው።",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "አምልጡ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ድሆችን"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "እና አስተላላቂዎችን"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉዎች"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "አድናቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:53.810490309Z",
+  "model": "glm-5.3"
+}

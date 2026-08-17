@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "የአቪብ ወርን ጠብቅ፣ ለያህዌህ አምላክህ ፋሲካ አድርግ፤ በአቪብ ወር ያህዌህ አምላክህ ከምጽራይም በሌሊት አወጣህና።",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "ጠብቅ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የአቪብ ወርን"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ወር"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "የአቪብ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "አድርግ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ፋሲካ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "አምላክህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ\/እንደ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "በ...ወር"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "የአቪብ"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "አወጣህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "አምላክህ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ከምጽራይም"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "በሌሊት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:42:42.683669320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ኤልያስም ልብሱን ⟨את⟩ ወስዶ አጠበበው፣ ውሃውንም ⟨את⟩ መታ፤ ውሃውም ወደዚያ ወደዚያ ተከፈለ፤ ሁለቱም በደረቀው ላይ አለፉ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወስዶ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልብሱን"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "ልብሱን"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "አጠበበው"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "መታ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውሃውን"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውሃውን"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "ተከፈለ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ወደዚያ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ወደዚያ"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "አለፉ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ሁለቱም"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "በደረቀው ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:36:06.235237722Z",
+  "model": "glm-5.3"
+}

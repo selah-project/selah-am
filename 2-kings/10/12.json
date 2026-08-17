@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ተነሥቶ ሄዶ ወደ ሰማርያ ገባ፤ እርሱም በመንገዱ ላይ በእረኞች ምጥማጥ ቤት (ቤት-ዔቄድ) ነበረ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሥቶ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ገባ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄዶ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ወደ ሰማርያ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱም"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "ዔቄድ"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "የእረኞች"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገዱ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:42:41.429542044Z",
+  "model": "glm-5.3"
+}

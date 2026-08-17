@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እኔ የምሠራው ቤትም ታላቅ ነው፤ መኤሎሂም ከሁሉም አማልክት በላይ ታላቅ ስለ ሆነና።",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "እና ቤት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ… ድንጋጌ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "የምሠራው ነው"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ… ስለ ሆነ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ ስለ ሆነና"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂም ከሁሉም አማልክት በላይ ታላቅ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉም"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "አማልክት"
+    }
+  ],
+  "timestamp": "2026-08-16T13:29:40.220088939Z",
+  "model": "glm-5.3"
+}

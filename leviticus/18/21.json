@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "እንዲሁም ከዘርሃችሁ ለሞሌክ እንዲያልፍ አትስጡ፤ የኤሎሂምህንም ስም አታንቀላፉ፤ እኔ ያህዌህ ነኝ።",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "እንዲሁም ከዘርሃችሁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ትስጡ"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "እንዲያልፍ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ለሞሌክ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንደሁም አት"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "ታንቀላፉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስምን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስምን"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "የኤሎሂምህን"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:54:03.272893194Z",
+  "model": "glm-5.3"
+}

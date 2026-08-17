@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 34,
+  "ref": "psalms 119:34",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "አስተዋልኝ፣ እኔም ትእዛዝህን እጠብቃለሁ፤ በሙሉ ልቤም እከተለዋለሁ።",
+  "tokens": [
+    {
+      "surface": "הבינני",
+      "gloss": "አስተዋልኝ"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "እኔም እጠብቃለሁ"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ትእዛዝህን"
+    },
+    {
+      "surface": "ואשמרנה",
+      "gloss": "እከተለዋለሁ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቤ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:49.584854250Z",
+  "model": "glm-5.3"
+}

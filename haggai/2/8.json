@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ብር የኔ ⟨ነው⟩፤ ወርቅም የኔ ⟨ነው⟩ የተናገረው የሠራዊት ያህዌህ።",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "የኔ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "እና የኔ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ወርቅ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "የተናገረው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "የሠራዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T18:09:26.326048028Z",
+  "model": "glm-5.3"
+}

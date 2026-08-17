@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 59,
+  "translation": "በምሽት ይመለሳሉ፤ እንደ ውሻ ያሎቃሉ እና በከተማ ይዞራሉ።",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ይመለሳሉ"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "በምሽት"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ያሎቃሉ"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "እንደ ውሻ"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "እና ይዞራሉ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "በከተማ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:34.433649826Z",
+  "model": "glm-5.3"
+}

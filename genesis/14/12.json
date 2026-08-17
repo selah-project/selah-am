@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ሎጥንም ⟨את⟩ — የአብራም ወንድም ልጅ የነበረውን — እና ⟨את⟩ ንብረቱን ወሰዱ፤ እርሱ በሰዶም ይኖር ነበር፤ እነርሱም ሄዱ።",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "እና ወሰዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሎጥን"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ሎጥን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ንብረቱን"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "ንብረቱን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ወንድም"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "አብራም"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "እና ሄዱ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "እና እርሱ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ይኖር ነበር"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "በሰዶም"
+    }
+  ],
+  "timestamp": "2026-08-16T14:28:53.274963328Z",
+  "model": "glm-5.3"
+}

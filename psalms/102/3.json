@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 102,
+  "translation": "ፊትህን ከእኔ አትሰውር፤ በማጥቂያ ቀኔ ጆሮህን ወደ እኔ አዝን፤ በምጮኅበት ቀን ፈጥነህ መልስ ስጠኝ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት-"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ሰውር"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህን"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በ…ቀን"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ማጥቂያ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "የእኔ"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "አዝን"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ጆሮህን"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በ…ቀን"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ምጮኅበት"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ፈጥነህ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "መልስ ስጠኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:40.869366354Z",
+  "model": "glm-5.3"
+}

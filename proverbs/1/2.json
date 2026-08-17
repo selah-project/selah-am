@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ጥበብን እና ተግሣጽን ለመረዳት፣ የመረዳት ቃላትን ለመቀበል —",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "ለመረዳት"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "እና ተግሣጽ"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "ለመቀበል"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "የ…ቃላት"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "መረዳት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:55.214143816Z",
+  "model": "glm-5.3"
+}

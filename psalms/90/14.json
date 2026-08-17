@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 90,
+  "translation": "በጠዋት በምሕረትህ አስገብበን እንድንጠግብ፣ እና በሁሉት ቀናታችን እናበራና እናደሰን።",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "አስገብበን እንድንጠግብ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "በጠዋት"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "በምሕረትህ"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "እና እናበራ"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "እና እናደሰን"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉት"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ቀናታችን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:58.657969236Z",
+  "model": "glm-5.3"
+}

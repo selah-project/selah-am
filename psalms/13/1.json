@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ለማዕረጉ አስተባባሪ ስለዚህ ስብሔ፣ የዳዊድ መዝሙር።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለአስተዳዳሪው"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊድ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:12.117186665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ኤሎሂም ላይ ያለው ጋሻዬ እርሱ ትክክለኛ ልብ ያላቸውን ያድናል።",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "ጋሻዬ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ ያለው"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ያድናል"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ትክክለኛ ያላቸውን"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:27:04.592836524Z",
+  "model": "glm-5.3"
+}

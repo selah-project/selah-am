@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 71,
+  "translation": "እኔ ግን ሁልጊዜ እተማጸናለሁ፤ በሁሉም ምስጋናህ ላይ እጨምራለሁ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "እተማጸናለሁ"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "እጨምራለሁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ምስጋናህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:08.383354292Z",
+  "model": "glm-5.3"
+}

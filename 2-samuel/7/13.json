@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እርሱ ለስሜ ቤት ይገነባል፤ የመንግሥቱን ዙፍም እስከ ዘላለም እኔ ⟨את⟩ አጸናለሁ።",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ይገነባል"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "ለስሜ"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "እኔ አጸናለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የመንግሥቱን ዙፍ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ዙፍ"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "መንግሥቱ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:56:53.856190389Z",
+  "model": "glm-5.3"
+}

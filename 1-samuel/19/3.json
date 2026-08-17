@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "1-samuel 19:3",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እኔ ወጥቼ ከአንተ እለት ባለበት በሜዳ ከአባቴ ጎን እቆማለሁ፣ እኔም ስለ አንተ ከአባቴ ጋር እናገራለሁ፤ የምታየውን ሁሉ አይቼ ላንተ አሳውቅሃለሁ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ወጥቼ"
+    },
+    {
+      "surface": "ועמדתי",
+      "gloss": "እቆማለሁ"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ከ... ጎን"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባቴ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "በሜዳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እለት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ባለበት"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "እኔም"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "እናገራለሁ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ስለ አንተ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ከ... ጋር"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባቴ"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "አይቼ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "የምታየውን"
+    },
+    {
+      "surface": "והגדתי",
+      "gloss": "አሳውቅሃለሁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ላንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:44:33.768393864Z",
+  "model": "glm-5.3"
+}

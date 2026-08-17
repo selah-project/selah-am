@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ሴትዋም ምንጩን እንዲህ አለችው፤ «ከአትኩሩ ዛፍ ፍሬ እንበላለን።",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "እና አለች"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሴትዋ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ምንጩ"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ከፍሬ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "የዛፍ"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "የአትኩሩ"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "እንበላለን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:30:20.578525903Z",
+  "model": "glm-5.3"
+}

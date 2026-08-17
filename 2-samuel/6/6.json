@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "2-samuel 6:6",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ወደ ናኮን ደረጃ ቦታም ሲደርሱ፣ ዑዛ ወደ ⟨את⟩ የአምላኪቱ ሳጥን እጁን ላከ፣ እርሷንም ያዘ፤ ምክንያቱም ከብቶቹ ተናወጡ።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ሲደርሱ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "ደረጃ ቦታ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ናኮን የ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ላከም"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ዑዛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የአምላኪቱ ሳጥን"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ሳጥን የ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "አምላኪቱ"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "ያዘም"
+    },
+    {
+      "surface": "בו",
+      "gloss": "እርሷን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "ተናወጡ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ከብቶቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:57:04.958378578Z",
+  "model": "glm-5.3"
+}

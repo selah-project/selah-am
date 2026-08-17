@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 35:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "በውሸት የሚገዱኝ ጠባቂዎቼ ደስ አይበሉብኝ፤ ያለ ምክንያት የሚጠሉኝ ዓይን አይገረፉ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ደስ ይበሉ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ብኝ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ጠባቂዎቼ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "በውሸት"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "የሚጠሉኝ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ያለ ምክንያት"
+    },
+    {
+      "surface": "יקרצו",
+      "gloss": "ይገረፉ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ዓይን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:16.085374264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ከታሰሩት ስር ማሳደፍ እና ከተገደሉት ጋር ማየቅ እንጂ አይደለም፤ በዚህ ሁሉ ቍጣው አልመለሰም እና እጁ አሁንም የተዘረጋች ናት።",
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "እንጂ"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "ማሳደፍ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ስር"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ታሰሩት"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "እና ጋር"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "ተገደሉት"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ማየቅ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በ…ሁሉ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "שב",
+      "gloss": "መለሰ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ቍጣው"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "እና አሁንም"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁ"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "የተዘረጋች"
+    }
+  ],
+  "timestamp": "2026-08-16T07:04:01.999695707Z",
+  "model": "glm-5.3"
+}

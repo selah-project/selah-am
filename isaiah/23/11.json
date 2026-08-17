@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "isaiah 23:11",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "እጁን በባሕሩ ላይ ዘረጋ፣ መንግሥታትን አስናቀዋል፤ ያህዌህ ስለ ከነዓን አዘዘ፣ እርሷን ማዛሞቿን ለማጥፋት።",
+  "tokens": [
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ዘረጋ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሩ"
+    },
+    {
+      "surface": "הרגיז",
+      "gloss": "አስናቀዋል"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "መንግሥታትን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነዓን"
+    },
+    {
+      "surface": "לשמד",
+      "gloss": "ለማጥፋት"
+    },
+    {
+      "surface": "מעזניה",
+      "gloss": "እርሷን ማዛሞቿን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:09:04.171659207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "joshua 1:1",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ከሞሼ የያህዌህ አገልጋይ ሞት በኋላ ያህዌህ ለዮሱዋ የኑን ልጅ የሞሼ አገልጋይ ብሎ ተናገረ እንዲህ ሲል።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ…በኋላ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "አገልጋይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ዮሱዋ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "ኑን"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "አገልጋይ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T05:00:27.304952155Z",
+  "model": "glm-5.3"
+}

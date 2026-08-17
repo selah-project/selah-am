@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 30:16",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "እንደ ሥርዓታቸው በሥራቸው ቦታ ቆሙ፤ እንደ ሞሼ የኤሎሂም ሰው ሕግ፤ ካህናት ከሌዋውያን እጅ ⟨את⟩ ደምን ይረጭ ነበር።",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "ቆሙ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "ቦታቸው"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "እንደ ሥርዓታቸው"
+    },
+    {
+      "surface": "כתורת",
+      "gloss": "እንደ ሕግ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "זרקים",
+      "gloss": "ይረጭ ነበር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደምን"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ደምን"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ሌዋውያን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:44:37.046115036Z",
+  "model": "glm-5.3"
+}

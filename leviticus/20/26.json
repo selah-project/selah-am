@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 20:26",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ለእኔ ቅዱሳን ትሆናላችሁ፤ ቅዱስ እኔ ያህዌህ ነኝና፤ ከሕዝቦች ⟨את⟩ እናንተን ለያየሁት ለእኔ እንድትሆኑ ነው።",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "ትሆናላችሁ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ቅዱሳን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואבדל",
+      "gloss": "ለያየሁት"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ እናንተን",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "እንድትሆኑ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:46:20.432219051Z",
+  "model": "glm-5.3"
+}

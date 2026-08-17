@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ክፉው ጻድቁን ማበላሸት ያስባል፤ ጥላቱንም እርሱ ላይ ያፈራል።",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "ማበላሸት ያስባል"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉው"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ጻድቁን"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "ያፈራል"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "እርሱ ላይ"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ጥላቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:33.706860728Z",
+  "model": "glm-5.3"
+}

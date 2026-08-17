@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 51,
+  "ref": "1-kings 8:51",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እንደ ሕዝብህና እንደ ወራሽህ ናቸውና፣ ከብረት ምድጃ መካከል ከግብፅ ያወጣህ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ...ናቸውና"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ሕዝብህ"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "እና ወራሽህ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እነርሱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "ያወጣህ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ከግብፅ"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ከ...መካከል"
+    },
+    {
+      "surface": "כור",
+      "gloss": "ምድጃ"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ብረት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:20:36.576538729Z",
+  "model": "glm-5.3"
+}

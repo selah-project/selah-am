@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እና ⟨את⟩ ሙሉውን ጉባኤ ወደ መገናኛ ድንኳን በር አሰብስብ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሙሉውን ጉባኤ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሙሉውን"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ጉባኤ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "አሰብስብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "በር"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መገናኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:46:40.161819736Z",
+  "model": "glm-5.3"
+}

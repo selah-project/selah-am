@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 139,
+  "translation": "በሰማይ ብወጣ እንደዚያ አንተ ነህ፤ እና በሲኦል የእንቅልፌን ብዘረጋ እነሆ አንተ ነህ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ ብቻ"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "ብወጣ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "በሰማይ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እንደዚያ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ ነህ"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "እና የእንቅልፌን ብዘረጋ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "በሲኦል"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "እነሆ አንተ ነህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:07.997864285Z",
+  "model": "glm-5.3"
+}

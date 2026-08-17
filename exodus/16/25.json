@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "exodus 16:25",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ሞሼም እንዲህ አለ፦ ዛሬ ብሉት፤ ዛሬ ለያህዌህ ሰንበት ነው፤ ዛሬ በሜዳ አታገኙትም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "אכלהו",
+      "gloss": "ብሉት"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ፦ ዛሬ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ሰንበት"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አታገኙትም"
+    },
+    {
+      "surface": "תמצאהו",
+      "gloss": "ታገኙት"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "በሜዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:17:00.903545945Z",
+  "model": "glm-5.3"
+}

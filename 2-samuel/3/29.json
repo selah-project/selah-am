@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 3:29",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ይዙረብ በራስ ላይ ዮአብ እና በቤት አባቱ ሁሉ ላይ፤ ከቤት ዮአብም የፈሳ በሽታ ያለበት፣ የሥጋ በሽታ ያለበት፣ በትርን የሚይዝ፣ በሰይፍ የሚወድቅ፣ እና ዳቦ የሚጎድለው አይቋረጥ።",
+  "tokens": [
+    {
+      "surface": "יחלו",
+      "gloss": "ይዙረብ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና በ… ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አይ…"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "ይቋረጥ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ከቤት"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብ"
+    },
+    {
+      "surface": "זב",
+      "gloss": "የፈሳ በሽታ ያለበት"
+    },
+    {
+      "surface": "ומצרע",
+      "gloss": "እና የሥጋ በሽታ ያለበት"
+    },
+    {
+      "surface": "ומחזיק",
+      "gloss": "እና የሚይዝ"
+    },
+    {
+      "surface": "בפלך",
+      "gloss": "በትርን"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "እና የሚወድቅ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "በሰይፍ"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "እና የሚጎድለው"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:03:34.118360178Z",
+  "model": "glm-5.3"
+}

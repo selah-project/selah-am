@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እያንዳንዱ የመጀመሪያ የተወለደ — እያንዳንዱ ማኅፀን ከፈተ — በእስራኤል ልጆች መካከል፣ በሰውም ሆነ በእንስሳት፣ ለእኔ ቅዱስ ይሁን፤ የእኔ ነው።",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ ይሁን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "እያንዳንዱ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "የመጀመሪያ የተወለደ"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "ከፈተ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "እያንዳንዱ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ማኅፀን"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "በልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "በሰው"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "እና በእንስሳት"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:15:17.988940581Z",
+  "model": "glm-5.3"
+}

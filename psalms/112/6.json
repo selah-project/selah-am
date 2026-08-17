@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 112,
+  "translation": "ምክንያቱም ለዘላለም አይናወጥም፤ ጻድቁ ለዘላለም ትዝታ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ወጥቶ አያወጥም"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "ትዝታ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:38.618860870Z",
+  "model": "glm-5.3"
+}

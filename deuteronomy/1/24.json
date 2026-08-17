@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ተመለሱም፣ ወደ ተራራው ወጡ እና እስከ ወንዝ ኤሽኮል ደረሱ፤ ምድሩንም ⟨את⟩ ተመርምሩ።",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "ተመለሱ"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ወጡ"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "ወደ ተራራው"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ደረሱ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ወንዝ"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "ኤሽኮል"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "ተመርምሩ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሩንም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:32:33.337143224Z",
+  "model": "glm-5.3"
+}

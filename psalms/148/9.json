@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 148,
+  "translation": "ተራሮች፣ እና ሁሉም ኮረብታዎች፤ የፍራፍሬ ዛፍ፣ እና ሁሉም ኦጣዎች፤",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "ተራሮች"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉም"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ኮረብታዎች"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ዛፍ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ፍራፍሬ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉም"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ኦጣዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:00.687455383Z",
+  "model": "glm-5.3"
+}

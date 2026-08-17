@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 2:15",
+  "book": "joel",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "በጥይዮን መለከትን ኩሩ፤ ጾምን ቀድሱ፣ ስብሰባን ጥሩ።",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "ኩሩ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "መለከትን"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "በጥይዮን"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቀድሱ"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ጾምን"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ጥሩ"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "ስብሰባን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:03:12.183537956Z",
+  "model": "glm-5.3"
+}

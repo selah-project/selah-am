@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ዮሴፍም ሞተ፤ ከእርሱም ከአንድ አኃዞቹ ሁሉ እና ⟨ከ⟩ዚያ ትውልድ ሁሉ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተም"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ ከ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "አንድ አኃዞቹ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ ከ"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "ዚያ ትውልድ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ዚያ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:04:59.644579725Z",
+  "model": "glm-5.3"
+}

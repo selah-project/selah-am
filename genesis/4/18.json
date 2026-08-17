@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "genesis 4:18",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ለሕኖክም ⟨את⟩ ዕይራድ ተወለደ፤ ዕይራድም ⟨את⟩ መሑያኤልን ወለደ፤ መሑያኤልም ⟨את⟩ መቱሻኤልን ወለደ፤ መቱሻኤልም ⟨את⟩ ላሜክን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ተወለደ"
+    },
+    {
+      "surface": "לחנוך",
+      "gloss": "ለሕኖክ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዕይራድ"
+    },
+    {
+      "surface": "עירד",
+      "gloss": "ዕይራድ"
+    },
+    {
+      "surface": "ועירד",
+      "gloss": "ዕይራድም"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሑያኤልን"
+    },
+    {
+      "surface": "מחויאל",
+      "gloss": "መሑያኤልን"
+    },
+    {
+      "surface": "ומחייאל",
+      "gloss": "መሑያኤልም"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መቱሻኤልን"
+    },
+    {
+      "surface": "מתושאל",
+      "gloss": "መቱሻኤልን"
+    },
+    {
+      "surface": "ומתושאל",
+      "gloss": "መቱሻኤልም"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ላሜክን"
+    },
+    {
+      "surface": "למך",
+      "gloss": "ላሜክን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:56.760122285Z",
+  "model": "glm-5.3"
+}

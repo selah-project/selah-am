@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እና በዛሬው ቀን በፊታችሁ የምዘረጋቸውን ሁሉንም ሥርዓቶች ⟨את⟩ እና ፍርዶችን ⟨את⟩ ለማድረግ ትጠብቃላችሁ።",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "እና ትጠብቃላችሁ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ለማድረግ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉንም ሥርዓቶች"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉንም"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ሥርዓቶች"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ፍርዶችን"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ፍርዶች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "የምዘረጋቸው"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "በፊታችሁ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "በዛሬው ቀን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:40:46.432399806Z",
+  "model": "glm-5.3"
+}

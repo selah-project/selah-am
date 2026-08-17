@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ተመልከት፣ በስም ጠርቼዋለሁ እርሱን በጽላል፣ የኡሪ ልጅ፣ የኩር ልጅ፣ ከይሁዳ ነገድ።",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ተመልከት"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ጠርቼያለሁ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "በስም"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "በጽላል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "የኡሪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "חור",
+      "gloss": "የኩር"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ከነገድ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:28:30.600644828Z",
+  "model": "glm-5.3"
+}

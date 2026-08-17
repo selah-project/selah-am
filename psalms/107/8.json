@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "ወደ ያህዌህ ለምሕረቱ ያመሰግኑ፣ እንዲሁም ለሰው ልጆች ለአስደናቂ ሥራዎቹ።",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ያመሰግኑ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ወደ ያህዌህ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ለምሕረቱ"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "እንዲሁም ለአስደናቂ ሥራዎቹ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለልጆች"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:30.690536211Z",
+  "model": "glm-5.3"
+}

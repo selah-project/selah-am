@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እኔም እንዲሁ ዓይኔ አያሳዝንም፣ አልምረድምም፤ መንገዳቸውን በራሳቸው ራስ ላይ አኖራለሁ።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "እኔም እንዲሁ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ያሳዝን"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "እምረድ"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "መንገዳቸውን"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "በራሳቸው ራስ ላይ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "አኖራለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:21:31.079019679Z",
+  "model": "glm-5.3"
+}

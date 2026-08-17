@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "ezekiel 36:10",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "በእናንተ ላይ ሰዎችን አበዛለሁ፣ የእስራኤልን ቤት ሁሉ በሙሉ፤ ከተሞችም ይኖራሉ፣ ጥፍቶችም ይገነባሉ።",
+  "tokens": [
+    {
+      "surface": "והרביתי",
+      "gloss": "አበዛለሁ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "በእናንተ ላይ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰዎችን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "የ…ቤትን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "ונשבו",
+      "gloss": "ይኖራሉ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ከተሞችም"
+    },
+    {
+      "surface": "והחרבות",
+      "gloss": "ጥፍቶችም"
+    },
+    {
+      "surface": "תבנינה",
+      "gloss": "ይገነባሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:45:53.051466338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "እና አሁን ስማ, ያዕቆብ አገልጋዬ, እና እስራኤል, በእርሱ መርጫለሁ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "እና አሁን"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ስማ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "አገልጋዬ"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "እና እስራኤል"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "መርጫለሁ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:21:54.099787363Z",
+  "model": "glm-5.3"
+}

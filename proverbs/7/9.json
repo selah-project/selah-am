@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "በምሽት አውድማ፣ በቀኑ አረፍታ ላይ፣ በሌሊት ጥቁር ደቡት እና በጨለማ ማቅመጫ።",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "በምሽት አውድማ"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "በአረፍታ ላይ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "የቀኑ"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "በጥቁር ደቡት"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "የሌሊት"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "እና በጨለማ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:23:24.215644789Z",
+  "model": "glm-5.3"
+}

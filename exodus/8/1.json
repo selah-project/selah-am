@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ያህዌህም ሞሼን እንዲህ አለው፦ አሃሮንን ንገር፦ እጅህን በበትርህ በዐውሮዎቹ ላይ፣ በባሮቹ ላይ እና በሐይቆቹ ላይ ዘርግ፤ ጉላቶችንም በምድረ ምጽራይ ላይ አውጣ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ንገር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ዘርግ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጅህን"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህን"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "በበትርህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "ዐውሮዎቹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "ባሮቹ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ... ላይ"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "ሐይቆቹ"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "አውጣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጉላቶችን"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ጉላቶችን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽራይ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:11:20.713776693Z",
+  "model": "glm-5.3"
+}

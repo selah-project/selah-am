@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "exodus 38:15",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "እና ለሁለተኛው ⟨ትከል⟩ በአደባባዩ በር በዚህ እና በዚያ መጋረጃዎች አሥራ አምስት እጥፍ ⟨ነበሩ⟩፤ ዓምዶቻቸው ሦስት፣ እና መሠረቶቻቸው ሦስት።",
+  "tokens": [
+    {
+      "surface": "ולכתף",
+      "gloss": "እና ለትከል"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ሁለተኛው"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "በዚህ"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "እና በዚያ"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "በር"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "አደባባዩ"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "መጋረጃዎች"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "እጥፍ"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "ዓምዶቻቸው"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "እና መሠረቶቻቸው"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ሦስት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:37:59.058703115Z",
+  "model": "glm-5.3"
+}

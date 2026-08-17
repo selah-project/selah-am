@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "ታማኝነቴም እና ቸርነቴ ከእርሱ ጋር ይኖራሉ፤ በስሜም ቀንዱ ይነሳል።",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "እና ታማኝነቴ"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "እና ቸርነቴ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "እና በስሜ"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ይነሳል"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "ቀንዱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:49.913522368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ለያህዌህ ዝምሩ፤ ያህዌህን ⟨את⟩ አመስግኑ፤ እንደ አስቸኳይ ስለ ሆነ ከክፉዎች እጅ ድሆውን ⟨את⟩ ነፍስ አዳነ።",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ዝምሩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "አመስግኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ አስቸኳይ ስለ ሆነ"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "አዳነ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍስን"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ድሆ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ክፉዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T07:50:01.036129039Z",
+  "model": "glm-5.3"
+}

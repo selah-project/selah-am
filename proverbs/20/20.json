@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "አባቱንና እናቱን የሚረግም ሰው መብራቱ በጥቁር ጨለማ ይጠፋል።",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "የሚረግም"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱን"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "እናቱን"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "ይጠፋል"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "መብራቱ"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "በጥቁር ጨለማ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጨለማ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:31:15.807292235Z",
+  "model": "glm-5.3"
+}

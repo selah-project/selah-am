@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ንገር ዘሩባቤልን የይሁዳን አገረገዥ «እኔ ሰማያትን ⟨את⟩ እና ምድርን ⟨את⟩ አናወጣለሁ» በማለት።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ንገር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "ዘሩባቤል"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "አገረገዥ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "የይሁዳ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "በማለት"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "አናወጣለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰማያትን"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያትን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ወ⟨את⟩",
+      "marks": "ምድርን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድርን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:11:22.847922930Z",
+  "model": "glm-5.3"
+}

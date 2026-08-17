@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "ምክንያቱም መንፈሱን ⟨את⟩ አሳዘኑ፤ እርሱም በከንፈሮቹ በለህሳሶ ተናገረ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "አሳዘኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንፈሱን"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "መንፈሱን"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "በለህሳሶ ተናገረ"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "በከንፈሮቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:49.219748390Z",
+  "model": "glm-5.3"
+}

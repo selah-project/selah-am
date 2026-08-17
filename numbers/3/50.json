@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ከእስራኤል ልጆች በኵሮች ⟨את⟩ ብሩን ወሰደ — አምስት እና ስልሳ እና ሶስት መቶ እና አንድ ሺህ በቅዱስ ሚዛን።",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "ከ⟨את⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "በኵሮች"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብሩን"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ብሩን"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "እና ስልሳ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "እና ሶስት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "እና አንድ ሺህ"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ሚዛን"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "የቅዱስ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:05:17.932215787Z",
+  "model": "glm-5.3"
+}

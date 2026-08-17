@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "⟨את⟩ መታጠቢያውን በመሰብሰቢያው ድንኳንና በማሕረጉ መካከል ታደርጋለህ፤ በዚያም ውሃ ታደርጋለህ።",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መታጠቢያውን"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "መታጠቢያውን"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በ…መካከል"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መሰብሰቢያ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ና"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "በማሕረግ"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:40:24.050488911Z",
+  "model": "glm-5.3"
+}

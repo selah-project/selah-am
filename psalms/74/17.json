@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 74,
+  "translation": "አንተ የምድርን ሁሉ ድንበሮች አቆምክ፤ በጋን እና ክረምትን አንተ ሠራሃቸው።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "አቆምክ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "ድንበሮች"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "በጋን"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "እና ክረምትን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "ሠራሃቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:57.826344374Z",
+  "model": "glm-5.3"
+}

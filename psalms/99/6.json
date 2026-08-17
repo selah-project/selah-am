@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 99,
+  "translation": "ሞሼ እና አሃሮን በካህናቱ ⟨መካከል⟩ ነበሩ፤ ስሙኤልም ስሙን በሚጠሩት ⟨መካከል⟩፤ ያህዌህን ይጠሩ ነበር፤ እርሱም ይመልሳቸው ነበር።",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "እና አሃሮን"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "በካህናቱ"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "ስሙኤልም"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "በሚጠሩት"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "ይጠሩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "እርሱም"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "ይመልሳቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:45.341690121Z",
+  "model": "glm-5.3"
+}

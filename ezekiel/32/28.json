@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 32:28",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "አንተም በአልታለቁት ⟨መካከል⟩ ትሰበራለህ እና ከሰይፍ ⟨ለቀሙ⟩ ጋር ትተኛለህ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተም"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "አልታለቁት"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "ትሰበራለህ"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "እና ትተኛለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ለቀሙ (የሰይፍ ተለቅሞች)"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ለቀሙ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    }
+  ],
+  "timestamp": "2026-08-17T10:08:36.959637611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "ከስውርነቱ ስለ ሞቅሻዬ ሕመሞቼ ሸቱ እና ተበስበሱ።",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "ሸቱ"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "ተበስበሱ"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "ሕመሞቼ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከ-ስለ"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "ስውርነቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:40:49.103200223Z",
+  "model": "glm-5.3"
+}

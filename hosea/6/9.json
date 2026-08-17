@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "hosea 6:9",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እንደ ሰው የሚጠብቁ ሽልቆች ሁሉ፣ የካህናት ማኅበር በመንገድ ላይ ወደ ሰኬም ይገድላል፤ ምክንያቱም ክፉ ሴስ ሠሩ።",
+  "tokens": [
+    {
+      "surface": "וכחכי",
+      "gloss": "እንደሚጠብቁ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "גדודים",
+      "gloss": "ሽልቆች"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ማኅበር"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "ይገድላል"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "ወደ ሰኬም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ክፉ ሴስ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ሠሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:57:51.623528439Z",
+  "model": "glm-5.3"
+}

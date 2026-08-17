@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 74,
+  "translation": "እንደ ላይ አስገቢ ሆኖ ይታወቃል — በደን ውስጥ ላይ ⟨በ⟩እኩያን አውቃሪዎች።",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "ይታወቃል"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "እንደ አስገቢ"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "በደን ውስጥ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "እኩያን"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "አውቃሪዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:22.918309279Z",
+  "model": "glm-5.3"
+}

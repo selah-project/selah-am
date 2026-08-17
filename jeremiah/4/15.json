@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "jeremiah 4:15",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "በርግጥ ከዳን የሚነግር ድምፅ አለ፤ ከኤፍሬም ተራራም መከራን የሚያሰማ አለ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በርግጥ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "የሚነግር"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "ከዳን"
+    },
+    {
+      "surface": "ומשמיע",
+      "gloss": "የሚያሰማ"
+    },
+    {
+      "surface": "און",
+      "gloss": "መከራን"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ከተራራ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍሬም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:37:36.213675985Z",
+  "model": "glm-5.3"
+}

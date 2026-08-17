@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ገና በክፉ ቤት ውስጥ የክፋት መኝታዎች አሉ? እና የራዘነች ኤፋ የተቃወምች ናት?",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "ገና"
+    },
+    {
+      "surface": "האש",
+      "gloss": "አሉ?"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "መኝታዎች"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፋት"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "እና ኤፋውም"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "ራዘነች"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "የተቃወምች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:13:12.961905880Z",
+  "model": "glm-5.3"
+}

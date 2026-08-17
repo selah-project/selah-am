@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "እና ⟨את⟩፡በንጹህ ወርቅ ታከላለህ፤ እና የወርቅ አክብብ አክሊል ታዘጋለህ ለእርሱ ዙሪያውን ሁሉ።",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "ታከላለህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን (መጠረዙን)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቅ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ንጹህ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ታዘጋለህ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "አክብብ አክሊል"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "የወርቅ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ዙሪያውን ሁሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:25:45.644972684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "በዚያም ቀን ፈርዖን በሕዝቡ ላይ ለነበሩት ግፊት አድራጊዎች ⟨את⟩ እና ⟨את⟩ ሹሞቹን ትእዛዝ ሰጠ እንዲህ ሲል፦",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ትእዛዝ ሰጠ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በዚያ ቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እነዚያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ግፊት አድራጊዎችን"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "ግፊት አድራጊዎች"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "በሕዝቡ ላይ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "ሹሞቹን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T14:30:17.480449195Z",
+  "model": "glm-5.3"
+}

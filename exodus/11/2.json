@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እባክህ በሕዝቡ ጆሮ አናግር፤ እያንዳንዱ ሰው ከጎረቤቱ ዘንድ፣ እያንዳንዷም ሴት ከጎረቤቷ ዘንድ የብርና የወርቅ ዕቃዎችን ይጠይቁ።",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ተናገር \/ አናግር"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "በጆሮ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "ይጠይቁ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ከ ⟨את⟩ ዘንድ",
+      "marks": "ጎረቤቱ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ጎረቤቱ"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "እና ሴት"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ከ ⟨את⟩ ዘንድ",
+      "marks": "ጎረቤቷ"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "ጎረቤቷ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ዕቃዎች የ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "እና ዕቃዎች የ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:41:32.327844194Z",
+  "model": "glm-5.3"
+}

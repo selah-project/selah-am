@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "ምዝሙር ለአሳፍ፤ እንዲሁ በእውነት መልካም ⟨ነው⟩ ለእስራኤል ኤሎሂም፣ ለንጹሓን ልብ።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ምዝሙር"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ለአሳፍ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "እንዲሁ በእውነት"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ለእስራኤል"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "ለንጹሓን"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልብ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:08.030856828Z",
+  "model": "glm-5.3"
+}

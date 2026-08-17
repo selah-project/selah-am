@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "jeremiah 41:3",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "በሚጽጳ ከገድልያ ጋር የነበሩትን አይሁዳውያን ሁሉ ⟨את⟩ እና በዚያ የተገኙትን ካልዳውያን ⟨את⟩ የውጊያ ሰዎችንም ⟨את⟩ እስማኤል መታ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "አይሁዳውያን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "አይሁዳውያን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የነበሩት"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ነበሩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ከእርሱ ጋር",
+      "marks": "አይሁዳውያን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገድልያ"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "ገድልያ"
+    },
+    {
+      "surface": "במצפה",
+      "gloss": "በሚጽጳ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ካልዳውያን"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "ካልዳውያን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የተገኙት"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "ተገኙ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የውጊያ ሰዎች"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "የ… ሰዎች"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ውጊያ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "መታ"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "እስማኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T08:07:16.988309206Z",
+  "model": "glm-5.3"
+}

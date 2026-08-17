@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "habakkuk 1:14",
+  "book": "habakkuk",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ሰውንም እንደ የባሕር ዓሦች፣ እንደ በርሱ ላይ አለቃ የለሽ መንቀሳቀሽ አደረግህ?",
+  "tokens": [
+    {
+      "surface": "ותעשה",
+      "gloss": "አደረግህ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰውንም"
+    },
+    {
+      "surface": "כדגי",
+      "gloss": "እንደ ዓሦች"
+    },
+    {
+      "surface": "הים",
+      "gloss": "የባሕር"
+    },
+    {
+      "surface": "כרמש",
+      "gloss": "እንደ መንቀሳቀሽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "የለሽ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በርሱ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:14:48.045379517Z",
+  "model": "glm-5.3"
+}

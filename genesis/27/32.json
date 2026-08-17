@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "አባቱም ይስሐቅ አለው፦ አንተ ማን ነህ? እርሱም አለ፦ እኔ የአንተ ልጅ፣ በኵርህ ዓሳው ነኝ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይስሐቅ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱም"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ ነህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "የአንተ ልጅ"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "በኵርህ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዓሳው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:47:45.336923054Z",
+  "model": "glm-5.3"
+}

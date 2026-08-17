@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 57,
+  "translation": "ሰላም የለም ለክፉዎች አለ አምላኬ ያህዌህ ኤሎሂም ወደ ክፉዎች",
+  "tokens": [
+    {
+      "surface": "אֵ֣ין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "שָׁל֔וֹם",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "אָמַ֥ר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אֱלֹהַ֖י",
+      "gloss": "አምላኬ ኤሎሂም"
+    },
+    {
+      "surface": "לָרְשָׁעִֽים",
+      "gloss": "ለክፉዎች ወደ ክፉዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T07:28:56.356642386Z",
+  "model": "glm-5.3"
+}

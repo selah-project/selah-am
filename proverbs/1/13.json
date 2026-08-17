@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ሁሉን የሚገኝ ውድ ብልጽግና እናገኛለን፤ ቤቶቻችንን በዘውድ እንሞላለን።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ብልጽግና"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ውድ"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "እናገኛለን"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "እንሞላለን"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "ቤቶቻችንን"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "በዘውድ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:20:03.165852312Z",
+  "model": "glm-5.3"
+}

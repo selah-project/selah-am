@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "አንድ መንገድ በሰው ፊት ቀጥታ ይመስላል፤ መጨረሻው ግን የሞት መንገዶች ናቸው።",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "አንድ...አለ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ቀጥታ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ...ፊት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "መጨረሻው ግን"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "የ...መንገዶች"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:25:45.678652260Z",
+  "model": "glm-5.3"
+}

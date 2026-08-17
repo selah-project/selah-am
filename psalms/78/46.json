@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 46,
+  "ref": "psalms 78:46",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "የእነርሱን ምርት ለትሉ ሰጠ፤ እና የእነርሱን ድካም ለተንዠቁ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "לחסיל",
+      "gloss": "ለትሉ"
+    },
+    {
+      "surface": "יבולם",
+      "gloss": "የእነርሱን ምርት"
+    },
+    {
+      "surface": "ויגיעם",
+      "gloss": "እና የእነርሱን ድካም"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "ለተንዠቁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:04.549497096Z",
+  "model": "glm-5.3"
+}

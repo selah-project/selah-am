@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "2-samuel 17:5",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "አብሳሎምም አለ፦ እባክህ እንዲሁም ሑሴ አርኪውን ጥራ፣ እንዲሁም እርሱ በአፉ ውስጥ ያለው ምን እንደሆነ እንሰማለን።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "አብሳሎም"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ጥራ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "לחושי",
+      "gloss": "ሑሴን"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "አርኪውን"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "እንሰማለን"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "በአፉ ውስጥ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:04:22.339803523Z",
+  "model": "glm-5.3"
+}

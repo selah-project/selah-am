@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 136,
+  "translation": "ፈርዖንንና ሠራዊቱን በሣር ባሕር ወረወረ፣ ምክንያቱም ምሕረቱ ለዘላለም ናት።",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "ወረወረ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖንን"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "ሠራዊቱንም"
+    },
+    {
+      "surface": "בים",
+      "gloss": "በባሕር"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ሣር"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ምሕረቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:59.710367699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ምክንያቱም ለሁሉም ፈቃድ ጊዜ አለ፤ እና ፍርድም አለ፤ ምክንያቱም የሰው ክፉነት በእርሱ ላይ በርካታ ነው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ፈቃድ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "እና ፍርድ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ክፉነት"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "የሰው"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "በርካታ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:17:32.218162834Z",
+  "model": "glm-5.3"
+}

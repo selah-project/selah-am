@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "የውኃ ፍሰት አይዋርድብኝ፤ ጥልቁም አይውጠልኝ፤ ጉድጓዱም አፉን በላዬ አይዝጋብኝ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "ይዋርድብኝ"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "ፍሰት"
+    },
+    {
+      "surface": "מים",
+      "gloss": "የውኃ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "ይውጠልኝ"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "ጥልቁ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "ይዝጋብኝ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በላዬ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ጉድጓዱ"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "አፉን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:47.051703361Z",
+  "model": "glm-5.3"
+}

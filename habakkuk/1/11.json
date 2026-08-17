@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 1:11",
+  "book": "habakkuk",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ከዚያም ነፋስ ሲያልፍ ያልፋል፣ እና በደል ይሆናል — ይህን ኃይሉን ለኤሎሂም የሚያወጣው ⟨እርሱ ነው⟩።",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ከዚያም"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "ያልፋል"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ነፋስ"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "እና ያልፋል"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "እና በደል ይሆናል"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "ኃይሉን"
+    },
+    {
+      "surface": "לאלהו",
+      "gloss": "ለኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T18:11:24.026271555Z",
+  "model": "glm-5.3"
+}

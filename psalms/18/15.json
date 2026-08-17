@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "በሮቹን ላከ እና በተናቸው፤ መብረቆችን በብዛት ተኮሰ እና አደናቃባቸው።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "በሮቹን"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "እና በተናቸው"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "መብረቆችን"
+    },
+    {
+      "surface": "רב",
+      "gloss": "በብዛት (ተኮሰ)"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "እና አደናቃባቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:32.714817096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "numbers 27:2",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "በሞሼ ፊት፣ በካህኑ በኤልዓዛር ፊት፣ በአለቆቹ እና በማኅበሩ ሁሉ ፊት፣ በመገኛው ድንኳን በር ፊት ቆሙ፤ እንዲህ እያሉ፦",
+  "tokens": [
+    {
+      "surface": "ותעמדנה",
+      "gloss": "ቆሙ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ… ፊት"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "እና በ… ፊት"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ኤልዓዛር"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "እና በ… ፊት"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "አለቆቹ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ማኅበሩ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "በር"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መገኛ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ እያሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:26:46.221936730Z",
+  "model": "glm-5.3"
+}

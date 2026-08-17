@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "የያህዌህ ዓይኖች እውቀትን ይጠብቃሉ፤ የተከዳይም ቃላትን ያፈርሳል።",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "የ…ዓይኖች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "ይጠብቃሉ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "እውቀትን"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "ያፈርሳል"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላትን"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "የተከዳይ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:31:35.125773814Z",
+  "model": "glm-5.3"
+}

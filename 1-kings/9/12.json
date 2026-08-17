@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ሖራምም ከሣሮስ ወጥቶ ⟨את⟩ ከተሞቹን ⟨את⟩ ሰሎሞን የሰጠውን ለማየት መጣ፤ በዓይኖቹም አልተስማሙም።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጥቶ መጣ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ሖራምም"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ከሣሮስ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ለማየት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተሞቹን"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ከተሞቹን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሰጠውን"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "የሰጠውን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አልተስማሙም"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "አልተስማሙም"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "በዓይኖቹም"
+    }
+  ],
+  "timestamp": "2026-08-16T19:45:51.133939030Z",
+  "model": "glm-5.3"
+}

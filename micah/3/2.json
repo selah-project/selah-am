@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "መልካምን የሚጠሉ እና ክፉን የሚወዱ፣ ቆዳቸውን ከላያቸው የሚነጥቁ እና ሥጋቸውን ከአጥንቶቻቸው ላይ።",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "የሚጠሉ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካምን"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "እና የሚወዱ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉን"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "የሚነጥቁ"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "ቆዳቸውን"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "ከላያቸው"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "እና ሥጋቸውን"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከላይ"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "ከአጥንቶቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:12:05.378342080Z",
+  "model": "glm-5.3"
+}

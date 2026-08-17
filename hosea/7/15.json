@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እኔ ገና ያስተማርኋቸው ነበር፣ ክንዳቸውን አጠናክሬ ነበር፤ እነሱ ግን በእኔ ላይ ክፉ አስበዋል።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ገና"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "ያስተማርኋቸው ነበር"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "አጠናክሬ ነበር"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "ክንዳቸውን"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "አስበዋል"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:28:00.925906265Z",
+  "model": "glm-5.3"
+}

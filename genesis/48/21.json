@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "እስራኤልም ለዮሴፍ እንዲህ አለው፤ እነሆ እኔ እሞታለሁ፤ ኤሎሂም ግን ከናንተ ጋር ይሆናል፤ ⟨את⟩ናችሁን ወደ አባቶቻችሁ ምድር ይመልሳችኋል።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለውም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "እሞታለሁ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ይሆናልም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ከናንተ ጋር"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ይመልሳልም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ናችሁን",
+      "marks": "ናችሁ (እናንተ)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "አባቶቻችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:04:07.560940333Z",
+  "model": "glm-5.3"
+}

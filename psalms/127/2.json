@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 127,
+  "translation": "በለው ተነሳችሁ፣ ዘግያችሁ ተቀምጣችሁ፣ የሥቃይ እንጀራ የሚበሉት ላናንተ በከንፈር ነው፤ እንዲሁ ለወዳጁ እንቅልፍን ይሰጣል።",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "በከንፈር"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ላናንተ"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "በለው የሚነሱት"
+    },
+    {
+      "surface": "קום",
+      "gloss": "መነሳት"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "የሚዘጉት"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "መቀመጥ"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "የሚበሉት"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እንጀራ"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "የሥቃይ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲሁ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይሰጣል"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "ለወዳጁ"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "እንቅልፍን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:17.389837818Z",
+  "model": "glm-5.3"
+}

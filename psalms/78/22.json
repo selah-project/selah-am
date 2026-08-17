@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "በኤሎሂም አላመኑም፣ በመድኃኒቱም አልተማከሩምና።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ፡ነገር ግን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "አመኑ"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "በኤሎሂም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አልተማከሩም"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ተማከሩ"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "በመድኃኒቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:53.754086221Z",
+  "model": "glm-5.3"
+}

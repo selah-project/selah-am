@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "1-kings 21:17",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "የያህዌህ ቃል ወደ ኤልያሁ እርሱ የቲስቢ ነዋሪ መጣ፤ ሲል፦",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያሁ"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "የቲስቢ ነዋሪ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T06:34:35.268519644Z",
+  "model": "glm-5.3"
+}

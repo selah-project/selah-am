@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "isaiah 38:14",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "እንደ ሱስ ወይም እንደ ወፍ ጭጭ እላለሁ፤ እንደ ዱኩር እንቆቅቅለሁ፤ ዓይኖቼ ወደ ከፍታ ወደቁ፤ አዶናይ ሆይ፥ ጭቅጋት በእኔ ላይ ናት፤ ቋሚ ሁነኝ።",
+  "tokens": [
+    {
+      "surface": "כסוס",
+      "gloss": "እንደ ሱስ"
+    },
+    {
+      "surface": "עגור",
+      "gloss": "ወይም ወፍ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "אצפצף",
+      "gloss": "ጭጭ እላለሁ"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "እንቆቅቅለሁ"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "እንደ ዱኩር"
+    },
+    {
+      "surface": "דלו",
+      "gloss": "ወደቁ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኖቼ"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "ወደ ከፍታ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "עשקה",
+      "gloss": "ጭቅጋት"
+    },
+    {
+      "surface": "לי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "ערבני",
+      "gloss": "ቋሚ ሁነኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:16:24.691757658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "እናም ⟨את⟩ ወንድን በሴት መተኛቻ አትተኛ፤ ግድየና ናት።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እናም ⟨את⟩",
+      "marks": "ወንድን"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ወንድን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ትተኛ"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "በመተኛቻ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ግድየና"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ናት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:54:03.273210435Z",
+  "model": "glm-5.3"
+}

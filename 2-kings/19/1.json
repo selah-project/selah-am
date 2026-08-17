@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እነሆም ንጉሡ ኅዝቅያሁ በሰማ ጊዜ ⟨את⟩ ልብሶቹን ቈረጠ፤ በሰርቅ ተከደነ፤ ወደ ያህዌህ ቤትም ገባ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እነሆም"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "በሰማ ጊዜ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ኅዝቅያሁ"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ቈረጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልብሶቹን"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ልብሶቹን"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "ተከደነ"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "በሰርቅ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ገባ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:51:50.582964774Z",
+  "model": "glm-5.3"
+}

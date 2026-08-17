@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "አቢሜሌክም በአሩማ ተቀምጦ ነበር፤ ዘቡልም ጋዓልን ⟨את⟩ እና ወንድሞቹን ⟨את⟩ ከእሸም መኖር አባረዳቸው።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተቀምጦ ነበር"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "አቢሜሌክም"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "በአሩማ"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "አባረዳቸው"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "ዘቡልም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጋዓልን"
+    },
+    {
+      "surface": "געל",
+      "gloss": "ጋዓልን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ወንድሞቹን"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሞቹን"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "ከመኖር"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "በእሸም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:22:25.147166053Z",
+  "model": "glm-5.3"
+}

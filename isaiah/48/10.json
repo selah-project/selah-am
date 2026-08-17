@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "እነሆ እንደ ብር አልነበረም፤ በድህነት ሙቀት ውስጥ መርጤሃለሁ፤ እኔ አጥርቼሃለሁ።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "አጥርቼሃለሁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንደ ብር አልነበረም"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "በብር"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "መርጤሃለሁ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "በሙቀት ውስጥ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "በድህነት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:22:24.258515216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "እኔ አልኩ፦ ያህዌህ ሆይ፣ በእኔ ላይ ምሕረት አድርግ፤ ነፍሴን ፈውስ፤ ክፉ ነገር በአንተ ላይ ስለ ሠራሁ ነው።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "አልኩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "በእኔ ላይ ምሕረት አድርግ"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "ፈውስ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ክፉ ነገር ስለ ሠራሁ"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ስለ ሠራሁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "በአንተ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:42.391797032Z",
+  "model": "glm-5.3"
+}

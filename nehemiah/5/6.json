@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "nehemiah 5:6",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የጭንቀት ቍጣ በእኔ ውስጥ እጅግ አደረብኝ፣ የእነርሱን ጮክ በቃ እና ⟨את⟩ እነዚህን ቃላት ሳስማ ስለዝሰማኝ።",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ቍጣ አደረብኝ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "በእኔ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "እጅግ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ሳስማ ስለዝሰማኝ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ሰማሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጮክ በቃ"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "ጮክ በቃቸውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላት"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላትን"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:18:10.638885994Z",
+  "model": "glm-5.3"
+}

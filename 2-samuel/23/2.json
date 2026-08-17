@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "የያህዌህ መንፈስ በእኔ ተናገረ፤ ቃሉም በምላሴ ላይ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በእኔ"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "ቃሉም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "በምላሴ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:12:02.078101771Z",
+  "model": "glm-5.3"
+}

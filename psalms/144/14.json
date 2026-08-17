@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 144,
+  "translation": "ላሞቻችን ሸክም የሚሸከሙ ናቸው፤ መበላሸት የለም፣ መውጣትም የለም፣ ጩኸትም የለም በአደባባዮቻችን።",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "ላሞቻችን"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "ሸክም የሚሸከሙ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "መበላሸት"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለምም"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "መውጣት"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለምም"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "ጩኸት"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "በአደባባዮቻችን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:12.936017986Z",
+  "model": "glm-5.3"
+}

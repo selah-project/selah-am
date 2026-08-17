@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የአማርያ ልጅ፣ የዕዝርያ ልጅ፣ የሜራዮት ልጅ።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "አማርያ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ዕዝርያ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "ሜራዮት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:58:03.126189768Z",
+  "model": "glm-5.3"
+}

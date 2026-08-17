@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 20:1",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ያህዌህ እንዲህ ሲል ለሞሼ ተናገረ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲል"
+    }
+  ],
+  "timestamp": "2026-08-16T14:50:07.936155496Z",
+  "model": "glm-5.3"
+}

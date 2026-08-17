@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እና ግንጭላው፣ እና ጎማሪው፣ እና ላምሳኙ እሬማ፣ እና ሸራሩ እሬማ፣ እና ጋዞው።",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "እና ግንጭላው"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "እና ጎማሪው"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "እና ላምሳኙ እሬማ"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "እና ሸራሩ እሬማ"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "እና ጋዞው"
+    }
+  ],
+  "timestamp": "2026-08-16T19:10:35.853747156Z",
+  "model": "glm-5.3"
+}

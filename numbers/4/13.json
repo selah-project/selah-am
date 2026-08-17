@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የ⟨the⟩ መስዋዊትን ቅርፊት ያስወግዳሉ፣ እና በእርሱ ላይ የአምረኛ (ቻሮል) ልብስ ያስተማትሉ።",
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "ያስወግዳሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መስዋዊትን"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መስዋዊት"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ያስተማትሉ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ልብስ"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "አምረኛ (ቻሮል)"
+    }
+  ],
+  "timestamp": "2026-08-16T19:12:46.006996711Z",
+  "model": "glm-5.3"
+}

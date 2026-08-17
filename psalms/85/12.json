@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 85,
+  "translation": "እውነት ከምድር ታበቅላለች፤ ጽድቅም ከሰማያት ወደ ታች ትመለከታለች።",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "እውነት"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከምድር"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "ታበቅላለች"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "ጽድቅም"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ከሰማያት"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "ወደ ታች ትመለከታለች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:13.497690413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "የአንዱ ጥርስ ክርጎ ከሰሜን በኩል በሚክማስ ፊት ⟨ቆሞ ነበር⟩፤ ሌላው ደግሞ ከደቡብ በኩል በገባዓ ፊት ⟨ነበር⟩።",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "የጥርስ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "የአንዱ"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "ክርጎ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ከሰሜን በኩል"
+    },
+    {
+      "surface": "מול",
+      "gloss": "በ...ፊት"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "ሚክማስ"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "እና ሌላው"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "ከደቡብ በኩል"
+    },
+    {
+      "surface": "מול",
+      "gloss": "በ...ፊት"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "ገባዓ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:47:43.569468391Z",
+  "model": "glm-5.3"
+}

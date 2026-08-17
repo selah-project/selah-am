@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "ምክንያቱም ከአንተ ጋር የሕይወት ፏፏር ⟨ነው⟩፤ በብርሃንህም ብርሃንን እናያለን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "ፏፏር"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "የሕይወት"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "በብርሃንህ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "እናያለን"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃንን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:56.853070789Z",
+  "model": "glm-5.3"
+}

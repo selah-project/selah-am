@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የሰው ሁሉ ድካም ለአፉ ⟨ነው⟩፤ ነፍስ ግን አትሞላም።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ድካም"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "የሰው"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "ለአፉ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እና ደግሞ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት...ም"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ትሞላ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:17:02.975809513Z",
+  "model": "glm-5.3"
+}

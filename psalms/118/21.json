@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 118,
+  "translation": "አመስግንሃለሁ በምክንያቱም መለስከኝ፣ እና ሆነኝ ለማዳን።",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "አመስግንሃለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በምክንያቱም"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "መለስከኝ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "እና ሆነኝ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "ለማዳን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:26.655849688Z",
+  "model": "glm-5.3"
+}

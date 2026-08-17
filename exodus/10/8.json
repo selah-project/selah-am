@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ሞሼንና ⟨את⟩ አሃሮንንም ⟨את⟩ ወደ ፈርዖን መለሳቸው፤ እነርሱም «ሂዱ፣ ያህዌህን ⟨את⟩ ኤሎሂምን የናንተን አገልግሉ፤ ማን እና ማን ናቸው ሺቶቹ?» አላቸው።",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "መለሳቸው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሼን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ም",
+      "marks": "አሃሮንን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮንን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አላቸው"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "እነርሱም"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ሂዱ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "አገልግሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "የናንተን ኤሎሂም"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "እና ማን"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ሺቶቹ"
+    }
+  ],
+  "timestamp": "2026-08-17T05:57:03.145390904Z",
+  "model": "glm-5.3"
+}

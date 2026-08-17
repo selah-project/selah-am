@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "እነዚህ ከበረዓ የሰዶም ንጉሥ፣ ከበርሻዓ የአሞራ ንጉሥ፣ ከሺናብ የአድማ ንጉሥና ከሸምኤበር የጽቦይም ንጉሥ ጋር ውጊያ ሠሩ — እንዲሁም ከበላዓ ንጉሥ ጋር፤ እርሷ ጾዓር ትባላለች።",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "ሠሩ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ውጊያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በረዓ የሰዶም ንጉሥ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "በረዓ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "ሰዶም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "በርሻዓ የአሞራ ንጉሥ"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "በርሻዓ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "አሞራ"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "ሺናብ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "አድማ"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "እና ሸምኤበር"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "ጽቦይም"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "እና የ…ንጉሥ"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "በላዓ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እርሷ"
+    },
+    {
+      "surface": "צער",
+      "gloss": "ጾዓር"
+    }
+  ],
+  "timestamp": "2026-08-16T02:36:19.723627258Z",
+  "model": "glm-5.3"
+}

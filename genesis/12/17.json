@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ያህዌህ ⟨את⟩ ፈርዖንን በታላላቅ መቅሠፆች መቀሠፈው እና ⟨את⟩ ቤቱንም፣ በሳራይ የአብርሃም ሚስት ቃል ነገር ምክንያት።",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "መቀሠፈው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፈርዖንን"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "በመቅሠፆች"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ታላላቅ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ቤቱን"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል ምክንያት"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ሳራይ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "የ…ሚስት"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "አብርሃም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:35:40.141285681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ክፉዎች ሥጋዬን ⟨את⟩ እንዲበሉ በቀረቡብኝ ጊዜ — ጠላቶቼ እና ፈጣሪዬ ሆኑኝ — እነሱ ደከሙ እና ወደቁ።",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "በቀረቡብኝ ጊዜ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ክፉዎች"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "እንዲበሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሥጋዬን"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ሥጋዬን"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ጠላቶቼ"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "እና ጠባቂዎቼ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነሱ"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ደከሙ"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "እና ወደቁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:37:00.302899188Z",
+  "model": "glm-5.3"
+}

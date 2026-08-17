@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ንጉሡም ⟨את⟩ ቀረጸውን ከሃማን ያስተላለፈውን አስወግቶ ለሞርደካይ ሰጣት፤ እስቴርም ሞርደካይን ⟨את⟩ በሃማን ቤት ላይ አቆመችው።",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "አስወገደ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቀረጸውን"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "ቀረጸውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "አስተላለፈ"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "ከሃማን"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ሰጣት"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "ለሞርደካይ"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "አቆመች"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "እስቴር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞርደካይን"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ሞርደካይን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሃማን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:23:49.438905924Z",
+  "model": "glm-5.3"
+}

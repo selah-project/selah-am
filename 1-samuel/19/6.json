@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ሳኦልም የዮናታንን ቃል ሰማ፤ ሳኦልም እንዲህ ሲል ማለ ያህዌህ በሕይወት እሱ አይገደልም።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦልም"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ቃልን"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "የዮናታንን"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ማለ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦልም"
+    },
+    {
+      "surface": "חי",
+      "gloss": "በሕይወት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንዲህ ሲል"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "አይገደልም"
+    }
+  ],
+  "timestamp": "2026-08-16T15:50:59.581959433Z",
+  "model": "glm-5.3"
+}

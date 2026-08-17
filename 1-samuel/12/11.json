@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ያህዌህም ⟨את⟩የሩብባዓልን ⟨את⟩በዳንን ⟨את⟩ዮፍታሄን ⟨את⟩ሳሙኤልን ላከ፤ ⟨את⟩እናንተንም ከዙሪያ ከጠላቶቻችሁ እጅ አዳነ፤ እናንተም በደህና ተቀመጣችሁ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሩብባዓል"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "የሩብባዓል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "በዳን"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "በዳን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዮፍታሄ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ዮፍታሄ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሳሙኤል"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "አዳነ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ጠላቶቻችሁ"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ከዙሪያ"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "ተቀመጣችሁ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "በደህና"
+    }
+  ],
+  "timestamp": "2026-08-16T15:42:55.853413700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "genesis 26:31",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ማለዳውንም አደረሱ፤ እያንዳንዱም ለወንድሙ ማለ በሉ፤ ይስሐቅም ላከዋቸው፤ እነሱም ⟨את⟩ ከእርሱ ዘንድ በሰላም ሄዱ።",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "ማለዳውን አደረሱ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "በጠዋት"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "ማለ በሉ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ለወንድሙ"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ላከዋቸው"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይስሐቅ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ሄዱ"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "ከእርሱ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "በሰላም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:45:02.260159352Z",
+  "model": "glm-5.3"
+}

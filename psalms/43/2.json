@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "አንተ የበርቴዬ ኤሎሂም ነህና፤ ለምን ጣልከኝ? በጠላት ብቃት ውስጥ ለምን እቅስበቅስ በመንፈቀ ደስታ እሄዳለሁ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "አንተ ... ነህና"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "የበርቴዬ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "ጣልከኝ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "እቅስበቅስ"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "እሄዳለሁ"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "በብቃት ውስጥ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ጠላት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:29.528400078Z",
+  "model": "glm-5.3"
+}

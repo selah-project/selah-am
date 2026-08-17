@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እናንተም በሁሉም መኖሪያቻችህ የወፍም ሆነ የእንስሳ ማንኛውንም ደም አትብሉ።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ማንኛውንም"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ብሉ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉም"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "መኖሪያቻችህ"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "ለወፍ"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "ወይም ለእንስሳ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:46:08.339948441Z",
+  "model": "glm-5.3"
+}

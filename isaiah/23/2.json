@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "የደሴቲቱ ነዋሪዎች ዝገዙ፤ የሲዶን ነጋዴ፣ የባሕር ድኅረ አቋራጭ ሞላችሁ።",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "ዝገዙ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ነዋሪዎች"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ደሴት"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "ነጋዴ"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ሲዶን"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ድኅረ አቋራጭ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "ሞላችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:10:38.335577423Z",
+  "model": "glm-5.3"
+}

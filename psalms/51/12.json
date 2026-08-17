@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "ንጹህ ልብ ፍጠረውልኝ ኤሎሂም፤ እና ቀጥተኛ መንፈስ በውስጤ አድስልልኝ።",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ንጹህ"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ፍጠረውልኝ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ልኝ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "እና መንፈስ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ቀጥተኛ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "አድስልልኝ"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "በውስጤ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:45:37.166346462Z",
+  "model": "glm-5.3"
+}

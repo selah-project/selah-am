@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "genesis 43:15",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "እና ሰዎቹ ⟨את⟩ ይህንን መባን ወሰዱ፣ ድርብ ብር በእጃቸው ወሰዱ እና ⟨את⟩ ብንያምን፤ ተነሱ፣ ወደ ምጽራይም ወረዱ፣ በዮሴፍ ፊት ቆሙ።",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ወሰዱ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ሰዎቹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መባን"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "መባ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህንን"
+    },
+    {
+      "surface": "ומשנה",
+      "gloss": "እና ድርብ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ወሰዱ"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "በእጃቸው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ብንያምን"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ብንያምን"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "ተነሱ"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "ወረዱ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽራይም"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ቆሙ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:00:59.536113671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 36:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "እና አሁን እባክህ ከጌታዬ ከአሦር ንጉሥ ጋር ተዋርድ፣ እኔም ሁለት ሺህ ፈረሶችን እሰጥሃለሁ፣ በላያቸውም ሰፍረው የሚቆሙ ፈረሰኞችን መስጠት ከቻልክ እንጂ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "እና አሁን"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "ተዋርድ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጌታዬ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጌታዬ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "የአሦር"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "እኔም እሰጥሃለሁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሁለት ሺህ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ፈረሶችን"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከቻልክ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ትችላለህ"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "መስጠት"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለራስህ"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "ሰፍረው የሚቆሙ ፈረሰኞችን"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "በላያቸው"
+    }
+  ],
+  "timestamp": "2026-08-17T07:48:13.609962095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ማኅበሩን ⟨את⟩ ሲሰበስቡ ግን እናንደ ነፋች ነፉ፣ ጮኽ ግን አትሠሩ።",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "ሲሰበስቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማኅበሩን"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ማኅበሩን"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "እናንደ ነፋች ነፉ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ግን አት..."
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "ጮኽ ሠሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:12:08.916289642Z",
+  "model": "glm-5.3"
+}

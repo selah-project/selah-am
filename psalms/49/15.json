@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 49:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "እንደ በጎች ለሲኦል ተሰለፉ፤ ሞት ያሰማቸዋል፤ ቀናተኞችም በላያቸው በጠዋቱ ይነግሣሉ፤ ቅርፃቸውም ሲኦል እንዲለመድለት ለርሱ መኖሪያ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "כצאן",
+      "gloss": "እንደ በጎች"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ለሲኦል"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ተሰለፉ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "ያሰማቸዋል"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "ይነግሣሉ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በላያቸው"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ቀናተኞች"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "በጠዋቱ"
+    },
+    {
+      "surface": "וצירם",
+      "gloss": "ቅርፃቸውም"
+    },
+    {
+      "surface": "לבלות",
+      "gloss": "እንዲለመድለት"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሲኦል"
+    },
+    {
+      "surface": "מזבל",
+      "gloss": "መኖሪያ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:50.958246443Z",
+  "model": "glm-5.3"
+}

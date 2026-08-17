@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "በራብ ጊዜ ከሞት ያድንሃል፤ በጦርነትም ከሰይፍ እጅ ያድንሃል።",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "በራብ ጊዜ"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "ያድንሃል"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ከሞት"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "በጦርነትም"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ከ…እጅ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:42:49.044967141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "በስፋት እንደምሄድ እሆናለሁ፣ በአንተ ትእዛዞች ላይ ስለማሰላሰል ነው።",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "እሄዳለሁ"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "በስፋት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በአንተ ትእዛዞች ላይ ስለማሰላሰል ነው።"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ትእዛዞችህን"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ፈልጌያለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:53.607006816Z",
+  "model": "glm-5.3"
+}

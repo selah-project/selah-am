@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ምድያናውያንን ⟨את⟩ አጥባቸው፣ እነርሱንም ⟨אתם⟩ ትታታቸዋላችሁ።",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "አጥባቸው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድያናውያንን"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "ምድያናውያንን"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "እነርሱንም ትታታቸዋላችሁ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨אתם⟩",
+      "marks": "እነርሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:22:22.550841261Z",
+  "model": "glm-5.3"
+}

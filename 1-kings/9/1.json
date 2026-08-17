@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ሰሎሞን ⟨את⟩ የያህዌህን ቤትና ⟨את⟩ የንጉሡን ቤት ⟨את⟩ም የሰሎሞንን ፈቃድ ሁሉ ለማድረግ ሲጨርስ ሆነ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "ሲጨርስ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ለመሥራት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የያህዌህን ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የንጉሡን ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የሰሎሞንን ፈቃድ ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "ፈቃድ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "የፈለገው"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ለማድረግ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:23:01.896655339Z",
+  "model": "glm-5.3"
+}

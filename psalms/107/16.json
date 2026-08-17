@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "በእርግጥ የናስ በሮችን ሰበረ፤ የብረት አሞሌዎችንም ቈረጠ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእርግጥ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ሰበረ"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "በሮችን"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "የናስ"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "እና አሞሌዎችን"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "የብረት"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "ቈረጠ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:44.085816980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "የሲኦል ጥምዶች ከበቡኝ፤ የሞት ማሳሚዎችም አስቀድመው ደረሱብኝ።",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "ጥምዶች"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሲኦል"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ከበቡኝ"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "ደረሱብኝ"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "ማሳሚዎች"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:44.455828509Z",
+  "model": "glm-5.3"
+}

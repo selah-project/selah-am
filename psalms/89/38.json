@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "እንደ ጨረቃ ለዘላለም ይጸናል፤ የሰማይም መስክር የታመነ ⟨ነው⟩። ሴላ።",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "እንደ ጨረቃ"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ይጸናል"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "መስክርም"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "በሰማይ"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "የታመነ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:01.921973573Z",
+  "model": "glm-5.3"
+}

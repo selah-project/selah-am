@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ግባ፣ ወደ ፈርዖን የምስራቅ ንጉሥ ተናገር፤ ⟨את⟩ የእስራኤል ልጆችንም ከምድሩ ይልካቸው።",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "ግባ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምስራቅ አገር"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ይልካቸውም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእስራኤል ልጆችን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆችን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ከምድሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:07:16.737842990Z",
+  "model": "glm-5.3"
+}

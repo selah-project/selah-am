@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "በድካምም ልባቸውን አዋረዳቸው፤ ወደቁም፣ አጋዥም አልነበረም።",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "አዋረዳቸው"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "በድካም"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ልባቸውን"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ወደቁም"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "አጋዥ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:36.600799247Z",
+  "model": "glm-5.3"
+}

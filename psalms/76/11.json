@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 76,
+  "translation": "ከእርግጥ የሰው ቍጣ ያመሰግምሃል፤ የቍጣን ቀሪ ክፍል ታጠባለህ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ከእርግጥ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ቍጣ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "የሰው"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "ያመሰግምሃል"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "ቀሪ ክፍል"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "የቍጣን"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "ታጠባለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:58.111764735Z",
+  "model": "glm-5.3"
+}

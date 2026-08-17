@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 63,
+  "translation": "እነሱ ግን ለውድመት ነፍሴን ይፈልጋሉ፤ ወደ ምድር ከፍታዎች ይገባሉ።",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "እነሱ ግን"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "ለውድመት"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "ይፈልጋሉ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ይገባሉ"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "ወደ ከፍታዎች"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:34.474186275Z",
+  "model": "glm-5.3"
+}

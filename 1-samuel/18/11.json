@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ሳኦልም ⟨את⟩ ላንቂቱን ወረወረ፣ እንዲህም አለ፦ «ዳዊትን እስከ ግድግዳው ላይ እመታለሁ፤» ዳዊትም ከፊቱ ሁለት ጊዜ ተጠለለ።",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "ወረወረም"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ላንቂቱን"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "ላንቂቱን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህም አለ"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "እመታለሁ"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "ዳዊትን"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "እስከ ግድግዳው ላይም"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ተጠለለም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ከፊቱ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ሁለት ጊዜ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:43:29.983511712Z",
+  "model": "glm-5.3"
+}

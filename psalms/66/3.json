@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 66,
+  "translation": "ለኤሎሂም በሉ። ሥራዎችህ ምን ያህል የሚያስፈራ ናቸው! በኃይልህ ብዛት ጠላቶችህ ላንተ ያስታውቃሉ።",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ለኤሎሂም"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን ያህል"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "የሚያስፈራ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ሥራዎችህ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "በብዛት"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ኃይልህ"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ያስታውቃሉ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ላንተ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ጠላቶችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:13.718477990Z",
+  "model": "glm-5.3"
+}

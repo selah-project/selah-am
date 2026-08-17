@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "2-chronicles 6:10",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ያህዌህ ያነገረውን ⟨את⟩ ቃሉን አከናወነ፤ እኔም በዳዊት አባቴ ፋንታ ተነሥቼ በያህዌህ እንደ ተናገረ በእስራኤል ዙፋን ተቀምጫለሁ፤ የእስራኤልን አምላክ ያህዌህ ስም ቤቱንም ሠራሁ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "አከናወነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃሉን"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ቃሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ያነገረው"
+    },
+    {
+      "surface": "ואקום",
+      "gloss": "ተነሥቼ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ…ፋንታ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባቴ"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "ተቀምጫለሁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ዙፋን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "ሠራሁ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤቱን"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "አምላክ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T13:33:29.352331468Z",
+  "model": "glm-5.3"
+}

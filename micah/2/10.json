@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 2:10",
+  "book": "micah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ተነሥታችሁ ሂጁ፤ ይህ ዕረፍት አይደለችም፤ ርኵሰቷ በአሰባት ትጠፋላችሁ፤ ጉተቻም ከባድ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "ተነሥታችሁ"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ሂጁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ይሆን እንጂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለችም"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "ዕረፍት"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "በአንዳች"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "ርኵሰቷ"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "ትጠፋላችሁ"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "ጉተቻም"
+    },
+    {
+      "surface": "נמרץ",
+      "gloss": "ከባድ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:03:15.275367584Z",
+  "model": "glm-5.3"
+}

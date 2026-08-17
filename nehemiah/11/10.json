@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ከካህናት፦ ይድዓያ የዮያሪብ ልጅ፣ ያኪን።",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ይድዓያ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ... ልጅ"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "ዮያሪብ"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "ያኪን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:24:41.919412038Z",
+  "model": "glm-5.3"
+}

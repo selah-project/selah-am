@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "እና ትወስዳለህ ⟨את⟩ ሁለተኛውን አውንት፣ እና አሃሮንና ልጆቹ ይጭናሉ ⟨את⟩ እጆቻቸውን በአውንቱ ራስ ላይ።",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ትወስዳለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁለተኛውን አውንት"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "አውንት"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ሁለተኛው"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "ይጭናሉ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "እና ልጆቹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጆቻቸውን"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "እጆቻቸውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራስ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "አውንቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:30:37.294921592Z",
+  "model": "glm-5.3"
+}

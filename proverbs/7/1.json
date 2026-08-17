@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ልጄ ሆይ፣ ቃሌን ጠብቅ፣ ትእዛዞቼንም ⟨את⟩ አንተ ጋር ደብቅ።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ልጄ ሆይ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ጠብቅ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ቃሌን"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ትእዛዞቼንም"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "ደብቅ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "አንተ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:24:16.392019440Z",
+  "model": "glm-5.3"
+}

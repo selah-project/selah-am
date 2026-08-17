@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 145,
+  "translation": "ሁሉም ሥራዎችህ አንተን ያህዌህ ያመሰግሙሃል፣ እና ቅዱሳንህ ያባርኩሃል።",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "ያመሰግሙሃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ሥራዎችህ"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "እና ቅዱሳንህ"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "ያባርኩሃል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:03.298754556Z",
+  "model": "glm-5.3"
+}

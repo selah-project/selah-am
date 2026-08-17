@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "exodus 18:25",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ሞሼም ከእስራኤል ሁሉ ብርቱ ሰዎችን መረጠ፤ እነሱንም ⟨את⟩ በሕዝቡ ላይ ራሶች አደረጋቸው — የሺሆች አለቆች፣ የመቶዎች አለቆች፣ የሃምሳዎች አለቆችና የአሥርዎች አለቆች።",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "መረጠም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰዎችን"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ብርቱ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከ…ሁሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "አደረጋቸውም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን (ራሶች)"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "ራሶች"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "የ…አለቆች"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሺሆች"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "የ…አለቆች"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶዎች"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "የ…አለቆች"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ሃምሳዎች"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ና የ…አለቆች"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "አሥርዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T03:17:37.980531493Z",
+  "model": "glm-5.3"
+}

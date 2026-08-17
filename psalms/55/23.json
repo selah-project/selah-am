@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "psalms 55:23",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 55,
+  "translation": "ተከሣሽህን በያህዌህ ላይ ጣል፤ እርሱ ያነግድሃል፤ ለጻድቁ ማዞርን ለዘላለም አይሰጥም።",
+  "tokens": [
+    {
+      "surface": "השלך",
+      "gloss": "ጣል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יהבך",
+      "gloss": "ተከሣሽህን"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "יכלכלך",
+      "gloss": "ያነግድሃል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይሰጥ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "ማዞርን"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ለጻድቁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:45.982453364Z",
+  "model": "glm-5.3"
+}

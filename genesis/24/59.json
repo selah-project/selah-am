@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "እነርሱም ⟨את⟩ ራብቃን እህታቸውን፣ ⟨את⟩ ነሿዋን፣ ⟨את⟩ የአብርሃምን አገልጋይና ⟨את⟩ ሰዎቹን ላኩ።",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ላኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራብቃን"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ራብቃን"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "እህታቸውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነሿዋን"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "ነሿዋን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የአብርሃምን አገልጋይ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "አገልጋይ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሰዎቹን"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ሰዎቹን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:42:56.756872610Z",
+  "model": "glm-5.3"
+}

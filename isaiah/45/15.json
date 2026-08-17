@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "እውነት አንተ የምትሰወር ኤል ⟨ነህ⟩፤ የእስራኤል ኤሎሂም፣ አዳኝ።",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "እውነት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "የምትሰወር"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም የ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "አዳኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:54:23.280644186Z",
+  "model": "glm-5.3"
+}

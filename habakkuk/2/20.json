@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ያህዌህ በቅዱስ ቤተ መቅደሱ ውስጥ ነውና — ሁሉ ምድር ከፊቱ ፀጥ በል።",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "በቤተ መቅደስ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "הס",
+      "gloss": "ፀጥ በል"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ከፊቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T18:07:57.748552322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እና ⟨את⟩ ሁለቱን ኩላሊቶች እና ⟨את⟩ በኩላሊቶቹ ላይ ያለውን ስብ፣ በወገቡ ላይ ያለውን፣ እና ⟨את⟩ ከጉበቱ በላይ ያለውን ተጨማሪ ከኩላሊቶቹ ጋር ያነሳል።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሁለቱን ኩላሊቶች"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ሁለቱን"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ኩላሊቶች"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ስቡን"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ስብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኝበት"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "በኋላቸው ላይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኝበት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "ወገብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ተጨማሪውን"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ተጨማሪ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ጉበት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ከ... ጋር"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "ኩላሊቶች"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ያነሳል"
+    }
+  ],
+  "timestamp": "2026-08-16T14:43:04.379644743Z",
+  "model": "glm-5.3"
+}

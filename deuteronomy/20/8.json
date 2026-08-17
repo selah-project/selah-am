@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "deuteronomy 20:8",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እና መኮንኖቹ ወደ ሕዝቡ ሲናገሩ ይጨምራሉ፣ እና ይላሉ፦ የትኛው ሰው ነው የሚፈራ እና ልብ የረኈው? ይሂድና ወደ ቤቱ ይመለስ፣ የወንድሞቹ ልብ እንደ ልቡ እንዳይቀለል።",
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "ይጨምራሉ"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "መኮንኖቹ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ሲናገሩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "እና ይላሉ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "የትኛው"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "הירא",
+      "gloss": "የሚፈራ"
+    },
+    {
+      "surface": "ורך",
+      "gloss": "እና የረኈ"
+    },
+    {
+      "surface": "הלבב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ይሂድ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ይመለስ"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ወደ ቤቱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "ይቀልል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልብ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሞቹ"
+    },
+    {
+      "surface": "כלבבו",
+      "gloss": "እንደ ልቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:47:15.294772358Z",
+  "model": "glm-5.3"
+}

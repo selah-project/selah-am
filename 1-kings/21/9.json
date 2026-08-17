@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "በመጻሕፍቱም ውስጥ ጻፈች እንዲህ ስትል፦ ምግብ እገዳ ይጠራ፤ ናቦትንም ⟨את⟩ በሕዝቡ ራስ ላይ አስቀምጡ።",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "ጻፈች"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "በመጻሕፍቱ ውስጥ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ስትል"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ይጠራ"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ምግብ እገዳ"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "አስቀምጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ናቦትን"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "ናቦትን"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "በራስ ላይ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:32:36.025731924Z",
+  "model": "glm-5.3"
+}

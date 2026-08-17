@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ለሕዝቡም እንዲህ አለ፦ እነሆ የእስራኤል ልጆች ሕዝብ ከእኛ በላይ ብዙ እና ኃያል ነው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ፦"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለሕዝቡም ወደ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ የ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙ ነው"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "እና ኃያል"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእኛ በላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:05:12.899327567Z",
+  "model": "glm-5.3"
+}

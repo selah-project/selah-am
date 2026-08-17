@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "ምሕረትህ ምን ያህል ውድ ነው፣ ኤሎሂም ሆይ፤ ሰዎች በክንፎችህ ጥላ ሥር ተማልለዋል።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ምን ያህል"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ውድ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ምሕረትህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "በጥላ ሥር"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ክንፎችህ"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "ተማልለዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:21.873600214Z",
+  "model": "glm-5.3"
+}

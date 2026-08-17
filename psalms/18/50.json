@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ስለዚህ በሕዝቦች መካከል አከብርሃለሁ ያህዌህ፤ ለስምህም አዘምራለሁ።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚህ\/ይህን"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "አከብርሃለሁ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "በሕዝቦች መካከል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "ለስምህም"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "አዘምራለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:41.396561716Z",
+  "model": "glm-5.3"
+}

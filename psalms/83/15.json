@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 83,
+  "translation": "እንደ እሳት ደንን የሚቃጥል እንዲሁም እንደ በጋ እሳት ተራሮችን የሚያንደድድ ሆን።",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "እንደ እሳት"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "የሚቃጥል"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ደንን"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "እንዲሁም እንደ በጋ እሳት"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "የሚያንደድድ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ተራሮችን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:43.450555390Z",
+  "model": "glm-5.3"
+}

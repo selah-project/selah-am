@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 101,
+  "translation": "ማታለል የሚሠራ በቤቴ ውስጥ አይቀመጥም፤ ውሸት የሚናገር በዐይኖቼ ፊት አይቆምም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ይቀመጥ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "በውስጥ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ቤቴ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "የሚሠራ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ማታለል"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "የሚናገር"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "ውሸት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ይቆማል"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዐይኖቼ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:28.032379425Z",
+  "model": "glm-5.3"
+}

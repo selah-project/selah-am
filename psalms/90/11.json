@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 90,
+  "translation": "የአንተ ቍጣ ኃይል ማን ያውቃል? እንደ አንተ መፍራት መጠን የአንተ ንዴትም ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ያውቃል"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ኃይል"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "የአንተ ቍጣ"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "እና እንደ አንተ መፍራት"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "የአንተ ንዴት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:42.059037252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ሽኬምም ለአባቱ ለሐሞር እንዲህ አለው፦ «ይህችን ወጣት ⟨את⟩ ሚስቴ እንድትሆን ስጠኝ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ሽኬም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ሐሞር"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ስጠኝ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህችን ወጣት"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "ወጣት"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህችን"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ሚስት እንድትሆን"
+    }
+  ],
+  "timestamp": "2026-08-16T14:30:03.634244986Z",
+  "model": "glm-5.3"
+}

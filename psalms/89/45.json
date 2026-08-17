@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "ብርሃኑን አቆምክለታል፤ ዙፋኑንም ወደ ⟨ምድር⟩ ወርውረሃል።",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "አቆምክለታል"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "ብርሃኑን"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "ዙፋኑንም"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ወደ ምድር"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "ወርውረሃል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:08.349249679Z",
+  "model": "glm-5.3"
+}

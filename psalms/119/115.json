@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ክፉ-ፈጣሪዎች ሆይ፣ ከእኔ ተመልሱ፤ የኤሎሂምዬን ትእዛዞች እጠብቃለሁ።",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "ተመልሱ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ክፉ-ፈጣሪዎች ሆይ"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "እና እጠብቃለሁ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ትእዛዞችን"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "የኤሎሂምዬን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:26.992983936Z",
+  "model": "glm-5.3"
+}

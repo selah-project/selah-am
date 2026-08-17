@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የሳማይም ልጅም ማዖን ነበረ፤ ማዖንም የቤት ጹር አባት ⟨ነበረ⟩።",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ልጅም"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ሳማይ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ማዖን"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "ማዖንም"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ጹር"
+    }
+  ],
+  "timestamp": "2026-08-16T12:32:46.213849288Z",
+  "model": "glm-5.3"
+}

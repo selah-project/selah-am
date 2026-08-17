@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 91,
+  "translation": "የሌሊትን ስጋት አትፈራም፣ የቀንን የሚበር በራስ አትፈራም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት...ም"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ትፈራ"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ከስጋት"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ሌሊት"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ከበራስ"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "የሚበር"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ቀን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:16.295003939Z",
+  "model": "glm-5.3"
+}

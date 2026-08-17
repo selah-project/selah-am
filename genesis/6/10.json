@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ኖህም ሦስት ወንዶች ወለደ፤ ⟨את⟩ ሴምን፣ ⟨את⟩ ካምን እና ⟨את⟩ ያፌትን።",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖህ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ወንዶች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሴምን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ሴም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ካምን"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ካም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ያፌትን"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ያፌት"
+    }
+  ],
+  "timestamp": "2026-08-16T02:31:31.047246219Z",
+  "model": "glm-5.3"
+}

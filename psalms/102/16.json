@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 102,
+  "translation": "አሕዛብም የያህዌህን ⟨את⟩ ስም ይፈራሉ፣ የምድር ነገሥታትም ሁሉ የክብርህን ⟨את⟩ ይፈራሉ።",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "ይፈራሉም"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የያህዌህን ስም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "የ…ነገሥታት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የክብርህን"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "የክብርህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:09.574390638Z",
+  "model": "glm-5.3"
+}

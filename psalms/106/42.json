@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "ጠላቶቻቸው በጫኑባቸው፤ በእነርሱም እጅ በታች ተገዙ።",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "በጫኑባቸው፤"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ጠላቶቻቸው"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "ተገዙ፤"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በታች"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "በእነርሱም እጅ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:56.230721813Z",
+  "model": "glm-5.3"
+}

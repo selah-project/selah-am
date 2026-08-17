@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "የተርሴስ ሴት ልጅ፣ እንደ ወንዝ ⟨את⟩ ምድርህን ስለፍ፤ ደግሞ ቀበት የለም።",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "ስለፍ"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ምድርህን"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "እንደ ወንዝ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ሴት ልጅ"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "የተርሴስ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "ቀበት"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደግሞ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:09:04.171506398Z",
+  "model": "glm-5.3"
+}

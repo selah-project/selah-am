@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ነፍሴን ለማጥፋት የሚፈልጉ በአንድነት ይፈሩና ይደለቁ፤ ክፉኝን የሚመኙ ወደ ኋላ ይገፉና ይንቀጠቀጡ።",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ይፈሩ"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "እና ይደለቁ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "በአንድነት"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "የሚፈልጉ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "ለማጥፋት"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "ይገፉ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ወደ ኋላ"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "እና ይንቀጠቀጡ"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "የሚመኙ"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ክፉኝን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:57.302237106Z",
+  "model": "glm-5.3"
+}

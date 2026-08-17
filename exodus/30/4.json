@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "exodus 30:4",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "እና ሁለት የወርቅ ቀለበቶች ታደርግለታለህ ከታች ለአክብቢው በኩል፣ በሁለቱ ጎኖቹ ላይ ታደርጋቸዋለህ በሁለቱ ጎኖቹ ላይ፤ እነሆ ለበቶች ሆነው ለመሸከም ⟨את⟩ በእነሱ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "እና ሁለት"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "ቀለበቶች"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "የወርቅ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ታደርግለታለህ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ከታች"
+    },
+    {
+      "surface": "לזרו",
+      "gloss": "ለአክብቢው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ሁለቱ"
+    },
+    {
+      "surface": "צלעתיו",
+      "gloss": "ጎኖቹ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ታደርጋቸዋለህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለቱ"
+    },
+    {
+      "surface": "צדיו",
+      "gloss": "ጎኖቹ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "ለቤቶች"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "ለበቶች"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ለመሸከም"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን (መሠዊያውን)"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "በእነሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:30:14.186135784Z",
+  "model": "glm-5.3"
+}

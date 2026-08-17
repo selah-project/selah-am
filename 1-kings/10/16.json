@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "1-kings 10:16",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የሰለሞን ንጉሥም ከተቀጣጠለ ወርቅ ሁለት መቶ ታላላቅ ጋሻዎች ሠራ፤ በአንዱ ጋሻ ላይ ስድስት መቶ ⟨ስቅል⟩ ወርቅ ይወጣ ነበር።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ሠራም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰለሞን"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ሁለት መቶ"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ታላላቅ ጋሻዎች"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቅ"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "ከተቀጣጠለ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ስድስት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቅ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ይወጣ ነበር"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "ጋሻ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "አንዱ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:22:28.491185697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "በአራት ላይ የሚሄድ የሚበረታ ወፍ ሁሉ ርኵሰት ነው ለእናንተ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "የሚበረታ"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ወፍ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "የሚሄድ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "አራት"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ርኵሰት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ነው"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለእናንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:49:16.888858411Z",
+  "model": "glm-5.3"
+}

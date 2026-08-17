@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 74,
+  "translation": "ይህን አስታውስ — ጠላት ያህዌህን አሰቀፈው፤ የስውር ሕዝብም ስምህን አሳደበ።",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "አስታውስ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ጠላት"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "አሰቀፈው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ሕዝብም"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "የስውር"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "አሳደበ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:57.827053600Z",
+  "model": "glm-5.3"
+}

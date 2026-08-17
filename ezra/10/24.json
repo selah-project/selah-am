@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "ezra 10:24",
+  "book": "ezra",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ከዘማፆችም፣ ኤልያሲብ፤ ከበር ጠባቂዎችም፣ ሰሉም፣ ቴሌም እና ኡሪ።",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ከ…ውም"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "ዘማፆች"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "ኤልያሲብ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ከ…ውም"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "በር ጠባቂዎች"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ሰሉም"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "እና ቴሌም"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "እና ኡሪ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:00:04.082282225Z",
+  "model": "glm-5.3"
+}

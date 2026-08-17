@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "እነሱንም እንደ ጥንተ ግልገል ያርቃቸዋል፤ ለባንስና ሳሪዮን እንደ የራይሞች ልጅ።",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "እነሱንም ያርቃቸዋል"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ጥንተ ግልገል"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ለባንስ"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "ሳሪዮንም"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "የራይሞች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:52.141139689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "መልእክተኛውም መጥቶ ነገረው እንዲህ ብሎ፦ የንጉሡ ልጆች ራሶች አመጡ፤ እርሱም አለ፦ እነርሱን ⟨את⟩ ሁለት ክምሮች በበሩ ፊት እስከ ጠዋት ድረስ አኑሯቸው።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "መልእክተኛውም"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ነገረው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "አመጡ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ራሶች"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "አኑሯቸው"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "ክምሮች"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "השער",
+      "gloss": "የበሩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ ድረስ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ጠዋት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:43:22.361137223Z",
+  "model": "glm-5.3"
+}

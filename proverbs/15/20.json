@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ጥበበኛ ወንድ ልጅ አባቱን ያስደስታል፤ ሞኝ ሰው ግን እናቱን ይንቋል።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ወንድ ልጅ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ጥበበኛ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ያስደስታል"
+    },
+    {
+      "surface": "אב",
+      "gloss": "አባቱን"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "እና ሞኝ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "ይንቋል"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "እናቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:28:39.701218589Z",
+  "model": "glm-5.3"
+}

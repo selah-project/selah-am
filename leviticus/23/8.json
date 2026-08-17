@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "leviticus 23:8",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "የእሳት መሥዋዕትም ለያህዌህ ሰባት ቀናት ታቀርባላችሁ፤ በሰባተኛው ቀን የተቀደሰ ስብሰባ ይኖራል፤ የአገልግሎት ሥራ ሁሉ አትሥሩ።",
+  "tokens": [
+    {
+      "surface": "והקרבתם",
+      "gloss": "ታቀርባላችሁ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "የእሳት መሥዋዕት"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በ…ቀን"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ሰባተኛው"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "ስብሰባ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "የተቀደሰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "የ…ሥራ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "አገልግሎት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት…"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ትሥሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:58:32.824188464Z",
+  "model": "glm-5.3"
+}

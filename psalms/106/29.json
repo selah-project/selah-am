@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 29,
+  "ref": "psalms 106:29",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "በሥራዎቻቸም አስቀየሙት፤ መቅለያም በእነርሱ ወረደ።",
+  "tokens": [
+    {
+      "surface": "ויכעיסו",
+      "gloss": "አስቀየሙት"
+    },
+    {
+      "surface": "במעלליהם",
+      "gloss": "በሥራዎቻቸም"
+    },
+    {
+      "surface": "ותפרץ",
+      "gloss": "ወረደ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በእነርሱ"
+    },
+    {
+      "surface": "מגפה",
+      "gloss": "መቅለያ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:25.664789909Z",
+  "model": "glm-5.3"
+}

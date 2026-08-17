@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "ezekiel 13:10",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ሕዝቤን ⟨את⟩ «ሰላም አለ፤ ሰላም ግን የለም» እያሉ ስለ አስታሉ፣ እርሱ ግንብ ሲሠራ፣ እነርሱም ስለ እርሱ በድካም እየቀረጹ በመሆናቸው ምክንያት፣ እንደ ምክንያቱም።",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ምክንያት"
+    },
+    {
+      "surface": "וביען",
+      "gloss": "እንደ ምክንያቱም"
+    },
+    {
+      "surface": "הטעו",
+      "gloss": "አስታሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቤን"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እያሉ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም አለ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለም ግን"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ᥟርሱ ግን"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሲሠራ"
+    },
+    {
+      "surface": "חיץ",
+      "gloss": "ግንብ"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "እነርሱም"
+    },
+    {
+      "surface": "טחים",
+      "gloss": "እየቀረጹ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ስለ እርሱ"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "በድካም"
+    }
+  ],
+  "timestamp": "2026-08-16T08:23:39.770141333Z",
+  "model": "glm-5.3"
+}

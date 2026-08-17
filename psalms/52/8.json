@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 52,
+  "translation": "ጻድቃንም ያያሉ፤ ይፈራሉ፤ በእርሱም ላይ ያሾፍጣሉ።",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "እና ያያሉ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ጻድቃን"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "እና ይፈራሉ"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "በእርሱ ላይም"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "ያሾፍጣሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:40.264941242Z",
+  "model": "glm-5.3"
+}

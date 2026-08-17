@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "ዝንቦችን በእነርሱ ላይ ላከ፤ በላቸው፤ እና ጉሎችን — አጠፋቸው።",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "በእነርሱ ላይ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ዝንቦችን"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "እና በላቸው"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "እና ጉሎችን"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "አጠፋቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:04.547841149Z",
+  "model": "glm-5.3"
+}

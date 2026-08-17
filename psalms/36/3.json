@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "በዓይኖቹ ውስጥ ራሱን ያበለጸገው ስለ ሆነ፣ ክፉነቱን ለመግለጥ እና ለመጥላት አቆመ።",
+  "tokens": [
+    {
+      "surface": "ᛵי",
+      "gloss": "ስለ ሆነ"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "ራሱን ያበለጸገው"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ራሱን"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "በዓይኖቹ ውስጥ"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ለመግለጥ"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ክፉነቱን"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ለመጥላት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:14.464916749Z",
+  "model": "glm-5.3"
+}

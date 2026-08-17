@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "እነሱም ⟨את⟩ ሕዝቡን በየጊዜው ሁሉ ይፈርዱ ነበር፤ ከባዱን ⟨את⟩ ጉዳይ ወደ ሞሼ ያመጡ ነበር፤ ትንሹን ጉዳይ ሁሉ ግን እነሱ ራሳቸው ይፈርዱ ነበር።",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "ይፈርዱም ነበር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በ…ሁሉ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጉዳዩን (ከባዱን)"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ጉዳዩ"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ከባዱ"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "ያመጡ ነበር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና …ሁሉ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ጉዳይ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ትንሹ"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "ይፈርዱ ነበር"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እነሱ ራሳቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:17:37.981007184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "joel 3:3",
+  "book": "joel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እና በሰማያት እና በምድር ውስጥ ድንቆችን አሳያለሁ፤ ደም እና እሳት እና የጢስ አምዶች።",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "እና አሳያለሁ"
+    },
+    {
+      "surface": "מופתים",
+      "gloss": "ድንቆችን"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "በሰማያት"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "እና በምድር"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "እና እሳት"
+    },
+    {
+      "surface": "ותימרות",
+      "gloss": "እና የ...አምዶች"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ጢስ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:02:25.549631595Z",
+  "model": "glm-5.3"
+}

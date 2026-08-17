@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "ኤል በቅዱሳን ምክር ቤት በጣም ይፈራል፣ እና በአካባቢው ሁሉ ላይ ይደነግጣል።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "ይፈራል"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "በምክር ቤት"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ቅዱሳን"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ይደነግጣል"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "በአካባቢው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:54.999258361Z",
+  "model": "glm-5.3"
+}

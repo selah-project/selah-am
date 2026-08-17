@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "psalms 109:26",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "ያህዌህ ኤሎሂም አንተ ረድኑ፤ እንደ ቸርነትህ አድኑኝ።",
+  "tokens": [
+    {
+      "surface": "עזרני",
+      "gloss": "ረድኑ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም አንተ"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "አድኑኝ"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "እንደ ቸርነትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:26.054165053Z",
+  "model": "glm-5.3"
+}

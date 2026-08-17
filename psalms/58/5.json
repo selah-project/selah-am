@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 58,
+  "translation": "መርዛቸው እንደ እባብ መርዝ ነው፤ እንደ ጥንቁር ዕላት እባብ ጆሮውን ያገዳል።",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "መርዛቸው"
+    },
+    {
+      "surface": "למו",
+      "gloss": "የእነርሱ"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "እንደ ምሳሌው"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "መርዝ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "እባብ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "እባብ ጥንቁር"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ዕላት የሆነ"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "ያገዳል"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ጆሮውን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:42.847878734Z",
+  "model": "glm-5.3"
+}

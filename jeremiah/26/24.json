@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "jeremiah 26:24",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ነገር ግን የአህቃም የሻፋን ልጅ እጅ ከኢርምያስ ⟨את⟩ ጋር ነበረ፤ እንዳይሰጡት ⟨את⟩ በሕዝቡ እጅ ሊያስገድሉት።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "יד",
+      "gloss": "እጅ"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "አህቃም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ... ልጅ"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "ሻፋን"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከኢርምያስ ጋር"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ኢርምያስ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "እንዳይሰጡት"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ሰጡ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ እርሱን"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በ... እጅ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ሊያስገድሉት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:54:01.931950765Z",
+  "model": "glm-5.3"
+}

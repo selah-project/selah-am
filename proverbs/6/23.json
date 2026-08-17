@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ታዘዝ መብራት ነው፤ ትምህርትም ብርሃን ናት፤ የሕይወትም መንገድ ተገሠጻትና ተምህሮት ናት።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "נר",
+      "gloss": "መብራት"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ታዘዝ"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "ትምህርትም"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "የ… መንገድም"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ሕይወት"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "ተገሠጺ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ተምህሮት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:22:53.163281579Z",
+  "model": "glm-5.3"
+}

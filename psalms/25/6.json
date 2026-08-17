@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ራሕሜህን አስታውስ ያህዌህ፣ እና እጅግ በጎነትህንም፣ በእውነት ከዘላለም እነርሱ ናቸው።",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "አስታውስ"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ራሕሜህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "እና እጅግ በጎነትህንም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ከዘላለም"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነርሱ ናቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:18.697023989Z",
+  "model": "glm-5.3"
+}

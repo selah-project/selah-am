@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "«ፊቴን መሥለው» ብለህ ለልቤ አለኝ፤ «ያህዌህ ሆይ፣ ፊትህን ⟨את⟩ እሻጥራለሁ።»",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ብለህ ለአንተ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "መሥለው"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊቴን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊትህን"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "እሻጥራለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:27.574313711Z",
+  "model": "glm-5.3"
+}

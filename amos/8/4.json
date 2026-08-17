@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "amos 8:4",
+  "book": "amos",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ይህን ሰሙ፤ እናንተ ድሃውን የሚዋጡት፣ የምድሩን ደካሞች እንዲያልቁ የምታደርጉት።",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ሰሙ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "השאפים",
+      "gloss": "የሚዋጡት"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ድሃውን"
+    },
+    {
+      "surface": "ולשבית",
+      "gloss": "እንዲያልቁ"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "ደካሞችን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "የምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:06:25.771981794Z",
+  "model": "glm-5.3"
+}

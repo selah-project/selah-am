@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "የአፌ ቃላት እና የልቤ ሐሳብ ፊትህ ፈቃድ ይሁኑ፣ ያህዌህ ሆይ፣ ዐለቴ እና አላጊዬ።",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ይሁኑ"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "ፈቃድ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "פי",
+      "gloss": "የአፌ"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "እና የልቤ ሐሳብ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "የልቤ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ፊትህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ዐለቴ"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "እና አላጊዬ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:22.769485380Z",
+  "model": "glm-5.3"
+}

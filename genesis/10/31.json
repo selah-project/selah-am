@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እነዚህ የሴም ወንዶች ናቸው፤ በየጐሣቸው፣ በየቋንቋቸው፣ በየምድራቸው፣ በየሕዝባቸው።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ… ወንዶች"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ሴም"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "በየጐሣቸው"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "በየቋንቋቸው"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "በየምድራቸው"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "በየሕዝባቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:23.836498230Z",
+  "model": "glm-5.3"
+}

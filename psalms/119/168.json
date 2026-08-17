@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ተጠበቅኩ ትእዛዝህን እና ምስክሮችህን፤ ልብ ብለህ መንገዴ ሁሉ በፊትህ ነው።",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "ተጠበቅኩ"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ትእዛዝህን"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "እና ምስክሮችህን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ልብ ብለህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "መንገዴ"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "በፊትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:50.395532834Z",
+  "model": "glm-5.3"
+}

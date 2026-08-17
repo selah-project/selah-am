@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እና ጊድዕን ወደ ዮርዳኖስ መጣ፤ እርሱ እና ከሦስት መቶ ⟨ከሆኑ⟩ አዛዦች ጋር — ⟨את⟩ ከእርሱ ጋር ያሉት — ሆኗል ድካም ነክቷቸው፣ እና እየከተሉ ነው።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "እና መጣ"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "ጊድዕን"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "ወደ ዮርዳኖስ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "አልፏል"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "እና ሦስት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "አዛዦች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "ድካም ነክቷቸው"
+    },
+    {
+      "surface": "ורדפים",
+      "gloss": "እና እየከተሉ"
+    }
+  ],
+  "timestamp": "2026-08-17T06:50:32.988565261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "isaiah 46:1",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 46,
+  "translation": "ቤል ተንበረ፣ ነቦ ደንዘዘ፤ ጣኦታቸው ለእንስሳ እና ለብሔራዊ እንስሳ ሆኑ፤ የተሸክማችሁት ተጭኖ ለደክሞ ጭና ሆነ።",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "ተንበረ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ቤል"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "ደንዘዘ"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "ነቦ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ሆኑ"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ጣኦታቸው"
+    },
+    {
+      "surface": "לחיה",
+      "gloss": "ለእንስሳ"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "እና ለብሔራዊ እንስሳ"
+    },
+    {
+      "surface": "נשאתיכם",
+      "gloss": "የተሸክማችሁት"
+    },
+    {
+      "surface": "עמוסות",
+      "gloss": "ተጭኖ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ጭና"
+    },
+    {
+      "surface": "לעיפה",
+      "gloss": "ለደክሞ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:23:09.504029590Z",
+  "model": "glm-5.3"
+}

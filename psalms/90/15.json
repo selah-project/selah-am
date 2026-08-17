@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 90,
+  "translation": "እንደ ያ አሳዘንነው ቀናት ያህል አስደስተን፤ ክፉ ዓመታት እኛ አየን ያህል።",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "አስደስተን"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "እንደ ቀናት"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "አሳዘንነው"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "አየን"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:58.658956987Z",
+  "model": "glm-5.3"
+}

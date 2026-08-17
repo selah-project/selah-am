@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "hosea 14:1",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ስምሮን ትጠየማለች ኤሎሂሜቷን ስላመጸች፤ በሰይፍ ይወድቃሉ፣ ጡቶቻቸው ይሰበራሉ፣ እናቶቿም ይበበጣሉ።",
+  "tokens": [
+    {
+      "surface": "תאשם",
+      "gloss": "ትጠየማለች"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ስምሮን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "ላመጸች"
+    },
+    {
+      "surface": "באלהיה",
+      "gloss": "ኤሎሂሜቷን"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "በሰይፍ"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ይወድቃሉ"
+    },
+    {
+      "surface": "עלליהם",
+      "gloss": "ጡቶቻቸው"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "ይሰበራሉ"
+    },
+    {
+      "surface": "והריותיו",
+      "gloss": "እናቶቿም"
+    },
+    {
+      "surface": "יבקעו",
+      "gloss": "ይበበጣሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:01:22.480730157Z",
+  "model": "glm-5.3"
+}

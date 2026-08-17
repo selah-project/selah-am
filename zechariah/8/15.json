@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እንዲሁ ተመልሼ በእነዚህ ቀናት መልካም ላድርግ ⟨את⟩ ኢየሩሳሌምን እና ⟨את⟩ የይሁዳ ቤት አሰብኩ፤ አትፍሩ።",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "እንዲሁ"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "ተመልሼ"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "አሰብኩ"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "በ...ቀናት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "መልካም ላድርግ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢየሩሳሌምን"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ኢየሩሳሌምን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የይሁዳ ቤትን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "የ...ቤት"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ፍሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:22:35.345878510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ከዚህ በኋላ የዳዊት ልብ ወግቶት አደረው፤ የሳኦልን ልብስ ክንፍ ስለ ቈረጠ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ…በኋላ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ወግቶት"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "የዳዊት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ እርሱን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ስለ ቈረጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክንፍን"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ክንፍን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ለሳኦል"
+    }
+  ],
+  "timestamp": "2026-08-16T05:46:18.763681943Z",
+  "model": "glm-5.3"
+}

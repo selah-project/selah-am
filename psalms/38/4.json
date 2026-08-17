@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "በቍጣህ ምክንያት በሥጋዬ ውስጥ ድካም የለም፤ በኃጢያቴም ምክንያት በአጥንቶቼ ውስጥ ሰላም የለም።",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "ድካም"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "በሥጋዬ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ምክንያት"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "በቍጣህ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "በአጥንቶቼ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ምክንያት"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "በኃጢያቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:07.147151166Z",
+  "model": "glm-5.3"
+}

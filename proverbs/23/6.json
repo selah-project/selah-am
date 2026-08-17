@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ክፉ ዓይን ⟨את⟩ ዳቦ አትብላ፤ እንደሁም ለጣፋጭ ምግቦቹ አትመኝ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "᪰תלחם",
+      "gloss": "ትብላ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳቦ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦን"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ዓይን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እንደሁም አት"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ትመኝ"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "ለጣፋጭ ምግቦቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:35:23.777480373Z",
+  "model": "glm-5.3"
+}

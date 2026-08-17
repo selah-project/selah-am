@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ንጉሡም እንዲህ አለ፦ አንተ ጠይቅ፣ ይህ ወጣት የማን ልጅ እንደሆነ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ጠይቅ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "የማን"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "ወጣት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:42:42.649339894Z",
+  "model": "glm-5.3"
+}

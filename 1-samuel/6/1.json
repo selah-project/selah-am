@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የያህዌህ ታቦት በፍልስጤም አገር ሰባት ወራት ⟨ነበረ⟩።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነበረ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "በ…አገር"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤም"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ወራት"
+    }
+  ],
+  "timestamp": "2026-08-16T15:48:56.797910763Z",
+  "model": "glm-5.3"
+}

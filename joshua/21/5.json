@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "joshua 21:5",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ለቀሃት ልጆችም በኤፍሬም ነገድ ከቤተሰቦች፣ ከዳን ነገድም፣ ከምናሴ ነገድ ከግማሽም በአጋር ቀርበዋል እነዚህ የቀሩት አሥር ከተሞች።",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ለ...ልጆችም"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ቀሃት"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "እነዚህ የቀሩት"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "ከቤተሰቦች"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ነገድ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍሬም"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "ከ...ነገድም"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ዳን"
+    },
+    {
+      "surface": "ומחצי",
+      "gloss": "ከ...ግማሽም"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ነገድ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሴ"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "በአጋር"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ከተሞች"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥር"
+    }
+  ],
+  "timestamp": "2026-08-16T05:10:53.817427761Z",
+  "model": "glm-5.3"
+}

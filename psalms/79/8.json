@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 79,
+  "translation": "የቀደምትን ኀጢአታችንን አትዘንጋቸው፤ ምሕረትህ ቶሎ ይቅድሙን፤ በጣም ደንዝዘን እንጂ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት፣ አታድርግ"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "አትዝከር"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "ኀጢአትን"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "የቀደምትን"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ቶሎ ቶሎ"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "ይቅድሙን"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ምሕረትህን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንጂ"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "ደንዝዘን"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:48.972127850Z",
+  "model": "glm-5.3"
+}

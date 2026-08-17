@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "job 12:25",
+  "book": "job",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ጨለማን ይንከባለላሉ ብርሃንም የለም፤ እርሱም እንደ ሰክራ ⟨את⟩አሳዳባቸዋል።",
+  "tokens": [
+    {
+      "surface": "ימששו",
+      "gloss": "ይንከባለላሉ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጨለማን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "አሳዳባቸዋል"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "እንደ ሰክራ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:44:04.904555079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ያህዌህ፣ ነፍሴን ከሲኦል አወጣኸ፣ ለቀብር ከሚወርዱ ሕይወት ሰጠኸኝ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "አወጣኸ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሲኦል"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "ሕይወት ሰጠኸኝ"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "ከሚወርዱ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ለቀብር (ጉድጓድ)"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:33.091462373Z",
+  "model": "glm-5.3"
+}

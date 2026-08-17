@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የእስራኤል ሰዎችም ከሚጽፋ ወጥተው ⟨את⟩ ፈሊስጥያውያንን አሳደዱ፤ እስከ ቤት-ካር ታች ድረስ ደረሱአቸውና መቱአቸው።",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ወጥተው"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰዎችም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "ሚጽፋ"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "አሳደዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፈሊስጥያውያንን"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፈሊስጥያውያን"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "መቱአቸው"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ታች"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ቤት-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "ካር"
+    }
+  ],
+  "timestamp": "2026-08-16T05:33:57.225676274Z",
+  "model": "glm-5.3"
+}

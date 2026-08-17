@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 145,
+  "translation": "ያህዌህ ለሚወድቁት ሁሉ የሚደግፍ ⟨ነው⟩፤ እና ለተንቀጠቀጡት ሁሉ የሚያነሳ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "የሚደግፍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "ለሚወድቁት"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "እና የሚያነሳ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "ለተንቀጠቀጡት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:43.720989791Z",
+  "model": "glm-5.3"
+}

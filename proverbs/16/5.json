@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "የኩራት ልብ ያለው ሁሉ ለያህዌህ ጥልቅ ግልጋሎት ነው፤ እጅ በእጅ ቢደገፍም ከቅጣት አይድንም።",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "ጥልቅ ግልጋሎት ነው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "የኩራት"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ ያለው"
+    },
+    {
+      "surface": "יד",
+      "gloss": "እጅ"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "በእጅ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "ይድንም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:29:18.607455409Z",
+  "model": "glm-5.3"
+}

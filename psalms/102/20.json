@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 102,
+  "translation": "ምክንያቱም ከቅድስቱ ከፍ ቦታ ተመልክቷል፤ ያህዌህ ከሰማይ ወደ ምድር አይቷል፤",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "ተመልክቷል"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ከቅድስቱ ከፍ ቦታ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱሳነቱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ከሰማይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "አይቷል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:57.397792884Z",
+  "model": "glm-5.3"
+}

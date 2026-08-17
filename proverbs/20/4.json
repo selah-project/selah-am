@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "በክረምት ልፍጭ አይሠራም፤ በመከር ጊዜ ይለምናል ነገር ግን የለም።",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "በክረምት"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ልፍጭ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ሠራም"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "ይለምናል"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "በመከር ጊዜ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:31:48.482050385Z",
+  "model": "glm-5.3"
+}

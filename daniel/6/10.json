@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ስለዚህ ንጉሡ ዳርዮስ ጽሑፉን እና ግዴታውን ፈረመ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "ዳርዮስ"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "ፈረመ"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "ጽሑፉን"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "እና ግዴታውን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:36:10.925460489Z",
+  "model": "glm-5.3"
+}

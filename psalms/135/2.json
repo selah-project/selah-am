@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 135,
+  "translation": "እናንተ በቤት ያህዌህ በእግሮቹ የሚቆሙ፣ በእርቂያት ቤት ኤሎሂም የእኛ",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "የሚቆሙ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "በእርቂያት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂም የእኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:11.053360265Z",
+  "model": "glm-5.3"
+}

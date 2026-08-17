@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 96,
+  "translation": "ለያህዌህ የስሙን ክብር ስጡ፤ መባን አንሣችሁ ወደ እርሱ አደባባይ በቡ።",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ስጡ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብርን"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "የስሙን"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "አንሡ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "መባን"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "እና በቡ"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "ወደ እርሱ አደባባይ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:22.982961576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "proverbs 27:13",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ልብሱን ውሰድ፣ እንደ ⟨እንግዳ⟩ ስለ ተዋገደ፤ እና ስለ እንግዳ ሴት ደረሰኙን ውሰድ።",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ውሰድ"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ልብሱን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ተዋገደ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "እንግዳ"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "እና ስለ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "እንግዳ ሴት"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "ደረሰኙን ውሰድ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:37:08.428468796Z",
+  "model": "glm-5.3"
+}

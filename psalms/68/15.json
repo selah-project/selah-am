@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "ሻዳይ ነገሥታትን በዚያ በቤዛቸው ጊዜ በጸልሞን እንደሚበረዝ በራቸው።",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "በቤዛቸው ጊዜ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ሻዳይ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ነገሥታትን"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "እንደሚበረዝ በራቸው"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "በጸልሞን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:48.112896978Z",
+  "model": "glm-5.3"
+}

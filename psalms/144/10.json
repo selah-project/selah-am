@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 144,
+  "translation": "ለነገሥታት ቤዛነት የሚሰጥ፣ ⟨את⟩ ዳዊትን አገልጋዩን ከክፉ ሰይፍ የሚያድን።",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "የሚሰጥ"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "ቤዛነት"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "ለነገሥታት"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "የሚያድን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊትን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትን"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "አገልጋዩን"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ከሰይፍ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:02.910394836Z",
+  "model": "glm-5.3"
+}

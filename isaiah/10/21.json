@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ቀሪው ይመለሳል፣ የያዕቆብ ቀሪው፣ ወደ ኃያሉ ኤል።",
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "ቀሪው"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ይመለሳል"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ቀሪው"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ኃያሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:03:33.261033494Z",
+  "model": "glm-5.3"
+}

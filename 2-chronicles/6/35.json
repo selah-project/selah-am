@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ከሰማያት መልስ የእነሱን ጸሎት ⟨את⟩ እና ልመናቸውን ⟨את⟩ ታደምለህ፣ የፍርድ ጉዳያቸውንም ታከናውናለህ።",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ታደምለህ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጸሎታቸውን"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ጸሎታቸውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ልመናቸውን"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ልመናቸውን"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ታከናውናለህ"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "የፍርድ ጉዳያቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:48:37.867105770Z",
+  "model": "glm-5.3"
+}

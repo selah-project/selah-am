@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "deuteronomy 27:7",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ሠላሳዎችንም ታሠርያለህ፤ በዚያም ትበላለህ፤ በያህዌህ ኤሎሂምህ ፊትም ትደሰታለህ።",
+  "tokens": [
+    {
+      "surface": "וזבחת",
+      "gloss": "ታሠርያለህም"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "ሠላሳዎችን"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ትበላለህም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "ትደሰታለህም"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:50:13.952139736Z",
+  "model": "glm-5.3"
+}

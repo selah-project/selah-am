@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "exodus 28:26",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ሁለት የወርቅ ቀለበቶችንም ታደርጋለህ፤ እነሱንም ⟨את⟩ በደረት ልብሱ ሁለት ጫፎች ላይ፣ በእርሱ ጠርዝ ላይ፣ በኤፉድ አንጻር ወደ ውስጥ ታደርጋቸዋለህ።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "ቀለበቶችን"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "የወርቅ"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን (ቀለበቶችን)"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ጫፎች"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "የደረት ልብስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "ጠርዙ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኝበት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "አንጻር"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "የኤፉድ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ወደ ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:27:44.848866998Z",
+  "model": "glm-5.3"
+}

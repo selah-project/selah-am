@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 60,
+  "translation": "ጊልዓድ ለእኔ ⟨ነው⟩ እና ምናሴ ለእኔ ⟨ነው⟩፤ ኤፍራይም ደግሞ የራሴ ራስ መበልገል ነው፤ ይሁዳ የሕግ መስፈሪያዬ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ጊልዓድ"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "እና ለእኔ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሴ"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "እና ኤፍራይም"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "መበልገል"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ራሴ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "የሕግ መስፈሪያዬ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:57.785080499Z",
+  "model": "glm-5.3"
+}

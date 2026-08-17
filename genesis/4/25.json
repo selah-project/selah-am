@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "አዳምም ደግሞ ሚስቱን ⟨את⟩ ወደደ፤ እርሷም ወንድ ልጅ ወለደች፤ ስሙንም ⟨את⟩ ሴት ብላ ጠራችው፤ «ሐቤል በተክቶ ሌላ ዘር በሮሌ ኤሎሂም ስለ ሰጠኝ፣ ቃየንም ገደለውና» ብላ ነው።",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ወደደ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "አዳም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚስቱን"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሚስቱን"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወንድ ልጅ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ጠራች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሙን"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነው፤«…ስለ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "በሮሌ\/ሰጠ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘር"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ሌላ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በተክቶ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ሐቤል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ገደለው"
+    },
+    {
+      "surface": "קין",
+      "gloss": "ቃየን"
+    }
+  ],
+  "timestamp": "2026-08-16T14:29:32.200263620Z",
+  "model": "glm-5.3"
+}

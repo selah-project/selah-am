@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "የደም አራሽ እርሱ ራሱ ⟨את⟩ ያ ገዳይ ይገድላል፤ በአገኘው ጊዜ እርሱ ይገድለዋል።",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "አራሽ፣አዳኝ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "የደም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ ራሱ"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "ይገድላል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያ ገዳይ"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ያ ገዳዽ"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "በአገኘው ጊዜ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "ይገድለዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:30:51.015068705Z",
+  "model": "glm-5.3"
+}

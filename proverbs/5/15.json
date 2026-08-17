@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "proverbs 5:15",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ከጉድጓድህ ውሃ ጠጣ፤ እና ከበደብህ ውስጥ የሚፈሱትን።",
+  "tokens": [
+    {
+      "surface": "שתה",
+      "gloss": "ጠጣ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "מבורך",
+      "gloss": "ከጉድጓድህ"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "እና የሚፈሱትን"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ከውስጥ"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "ከበደብህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:21:45.245822611Z",
+  "model": "glm-5.3"
+}

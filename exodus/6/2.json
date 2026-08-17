@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ኤሎሂምም ሞሼን ተናገረ፤ እንዲህም አለው፦ እኔ ያህዌህ ነኝ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለውም"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:09:58.798535593Z",
+  "model": "glm-5.3"
+}

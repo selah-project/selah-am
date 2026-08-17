@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "«የእስራኤል ልጆችን ንገር እና እንዲህ በላቸው፦ እኔ ያህዌህ ኤሎሂም፣ የእናንተ ኤሎሂም ነኝ።",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ንገር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ላዩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆችን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "እና በላቸው"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ላቸው"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "የእናንተ ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:53:57.626294232Z",
+  "model": "glm-5.3"
+}

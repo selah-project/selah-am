@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "exodus 3:5",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እንዲሁም አለ፦ እዚህ አትቅርብ፤ ጫማዎችህን ከእግሮችህ አንሳ፤ ምክንያቱም ⟨ስለ⟩ አንተ የቆምከው ቦታ የተቀደሰ ⟨አፈር⟩ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "ትቅርብ"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "እዚህ"
+    },
+    {
+      "surface": "של",
+      "gloss": "አንሳ"
+    },
+    {
+      "surface": "נעליך",
+      "gloss": "ጫማዎችህን"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከ…ላይ"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "እግሮችህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ስለ⟩"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "የቆምከው"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእሱ ላይ"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "የተቀደሰ አፈር"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ነው⟩"
+    }
+  ],
+  "timestamp": "2026-08-16T03:07:15.626939443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "isaiah 8:17",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ለያህዌህ እጠብቃለሁ — ከያዕቆብ ቤት ፊቱን የሰውረው — እንዲሁም እጠብቀዋለሁ።",
+  "tokens": [
+    {
+      "surface": "וחכיתי",
+      "gloss": "እጠብቃለሁ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "המסתיר",
+      "gloss": "የሰውረው"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱን"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ከቤት"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "וקויתי",
+      "gloss": "እንዲሁም እጠብቃለሁ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "እርሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:00:45.583295542Z",
+  "model": "glm-5.3"
+}

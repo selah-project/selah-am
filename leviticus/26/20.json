@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ሀይላችሁም በከንበብ ይጨርሳል፤ ምድራችሁም በለሻዋን ⟨את⟩ አትሰጥም፤ የምድሩም ዛፍ ፍሬውን አይሰጥም።",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "ይጨርሳል"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "በከንበብ"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "ሀይላችሁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…ም አት"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "…ሰጥም"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ምድራችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በለሻዋን"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "በለሻዋን"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ዛፍ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድሩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "አይሰጥም"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ፍሬውን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:04:07.575754439Z",
+  "model": "glm-5.3"
+}

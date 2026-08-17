@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "jeremiah 27:5",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "እኔ ምድርን ⟨את⟩፣ ሰውን ⟨את⟩ እና በምድር ፊት ላይ ያለውን እንስሳ ⟨את⟩ በታላቅ ኃይሌ እና በተዘረጋ እጄ አድርጌያለሁ፤ በዓይኖቼ ዘንድ የቀና ለሆነው ሰጥቼዋለሁ።",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "አድርጌያለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድርን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰውን"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "እንስሳ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "እንስሳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "בכחי",
+      "gloss": "በኃይሌ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "ובזרועי",
+      "gloss": "እና በእጄ"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "በተዘረጋው"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "ሰጥቼዋለሁ"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "ለሆነው"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "የቀና"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "በዓይኖቼ ዘንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:56:13.796063496Z",
+  "model": "glm-5.3"
+}

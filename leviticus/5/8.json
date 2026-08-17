@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እና ወደ ካህኑ ⟨את⟩ እነሱን ያመጣል፤ እርሱም ለኃጢአት መሥዋዕት የሆነውን ⟨את⟩ የመጀመሪያዋን ያቀርባል፤ እና ⟨את⟩ ራሷን ከአንገቷ በቀዳሚው ይቆርጣል፣ አይለያትም።",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ያመጣል"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ያቀርባል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሆነውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነውን"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ለኃጢአት መሥዋዕት"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "የመጀመሪያዋን"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "ይቆርጣል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራሷን"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ራሷን"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "ከ…በቀዳሚው"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "አንገቷ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "ይለያትም"
+    }
+  ],
+  "timestamp": "2026-08-16T14:46:31.543878032Z",
+  "model": "glm-5.3"
+}

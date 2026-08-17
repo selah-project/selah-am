@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "ሳክንም ልብሴ አደረግሁ፤ ለእነሱም ለአባባል ሆንሁ።",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "አደረግሁ"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "ልብሴ"
+    },
+    {
+      "surface": "שק",
+      "gloss": "ሳክ"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ሆንሁ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነሱ"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "ለአባባል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:24.715572332Z",
+  "model": "glm-5.3"
+}

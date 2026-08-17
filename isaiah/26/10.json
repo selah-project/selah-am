@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ለክፉ ሞቅ ቢደረግለት ጽድቅን አይማርም፤ በቀጥታ በምድር ውስጥ ክፉ ያደርጋል፤ የያህዌህን ታላቅነትም አያይም።",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "ሞቅ ቢደረግለት"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ለክፉ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "למד",
+      "gloss": "ይማር"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቅን"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር ውስጥ"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "በቀጥታ"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "ክፉ ያደርጋል"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "እንዲሁም አይ...ም"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ያያል"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ታላቅነትን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:09:44.783146380Z",
+  "model": "glm-5.3"
+}

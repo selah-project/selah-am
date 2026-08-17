@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ሞሼም እና የያዕቆብ ልጆች (የእስራኤል) ሽማግሌዎችም ⟨את⟩ ሕዝቡን እንዲህ ብለው አዘዙ፦ ⟨את⟩ ሁሉን ትእዛዝ ጠብቁ፣ የምወድዳችሁውን ዛሬ።",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "አዘዙ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "እና ሽማግሌዎች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብለው"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ጠብቁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምወድዳችሁውን"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "የምወድድ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ እናንተን"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:50:33.802826658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "ያዕቆብም እነርስን «ወንድሞቼ፣ ከየት ናችሁ?» አላቸው፤ እነርሱም «ከካራን ነን» አሉ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አላቸው"
+    },
+    {
+      "surface": "להם",
+      "gloss": "እነርስን"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብም"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ወንድሞቼ"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ከየት"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ናችሁ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "አሉ"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "ከካራን"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ነን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:48:05.918165943Z",
+  "model": "glm-5.3"
+}

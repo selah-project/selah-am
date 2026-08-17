@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ያህዌህ ሆይ፣ ተመለስ፤ ነፍሴን አድነው፤ ለምሕረትህ ስለ ሆነ፣ አድነኝ።",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "ተመለስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "አድነው"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "አድነኝ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ስለ ሆነ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ምሕረትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:27:49.635235082Z",
+  "model": "glm-5.3"
+}

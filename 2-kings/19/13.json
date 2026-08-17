@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "የት ነው የሐማት ንጉሥ፣ የአርፋድ ንጉሥ እና የሰፓርዋይም ከተማ ንጉሥ፣ የሄና እና የዐዋ?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "የት ነው"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ሐማት"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "እና ንጉሥ"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "አርፋድ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "እና ንጉሥ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "ሰፓርዋይም"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "ሄና"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "እና ዐዋ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:51:50.581433502Z",
+  "model": "glm-5.3"
+}

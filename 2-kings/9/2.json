@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "2-kings 9:2",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ኤዚያ ብትምጣ ይሁን የይሆሻፋጥ ልጅ፣ የንምሺ ልጅ ኤዚያ ተመልከት፤ ትምጣለህም ከወንድሞቹ መካከል አስነሳው፣ ⟨את⟩ እርሱን ከክፍል ክፍል ውስጥ አስገባው።",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "ብትምጣ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ኤዚያ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ተመልከት"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኤዚያ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "ይሆሻፋጥ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "ንምሺ"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ትምጣለህ"
+    },
+    {
+      "surface": "והקמתו",
+      "gloss": "አስነሳው"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ከመካከል"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሞቹ"
+    },
+    {
+      "surface": "והביאת",
+      "gloss": "አስገባዋለህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "ክፍል"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "ከክፍል"
+    }
+  ],
+  "timestamp": "2026-08-16T06:41:48.808209762Z",
+  "model": "glm-5.3"
+}

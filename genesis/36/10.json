@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "እነዚህ የዔሳው ወንዶች ስሞች ናቸው፤ ኤልፋዝ የዓዳ ልጅ፣ የዔሳው ሚስት፤ ረዑኤል የባስማት ልጅ፣ የዔሳው ሚስት።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ስሞች"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ወንዶች"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዔሳው"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ኤልፋዝ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ዓዳ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሚስት"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዔሳው"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ረዑኤል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "ባስማት"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሚስት"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዔሳው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:53:04.591313160Z",
+  "model": "glm-5.3"
+}

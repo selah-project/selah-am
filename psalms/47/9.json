@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 47,
+  "translation": "ኤሎሂም በአሕዛብ ላይ ነገሠ፤ ኤሎሂም በቅዱሱ ዙፋን ላይ ተቀምጧል።",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ተቀምጧል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ዙፋን"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:57.560775424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "exodus 22:6",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ሰው ለጓደኛው ብር ወይም ዕቃዎች ለመጠበቅ ቢሰጥ፣ ከዚያው ሰው ቤትም ቢሰረቅ፣ ሌባው ቢገኝ ሁለት እጥፍ ይከፍላል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ቢሰጥ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ጓደኛው"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "ዕቃዎች"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ለመጠበቅ"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "እና ቢሰረቅ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ከቤት"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ያው ሰው"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ቢገኝ"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "ሌባው"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ይከፍላል"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት እጥፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:21:45.460803874Z",
+  "model": "glm-5.3"
+}

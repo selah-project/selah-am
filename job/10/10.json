@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እንደ ወተት አልተከላኝምና? እንደ አይብም አልኮለለኝምና?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ወይስ አል...ም"
+    },
+    {
+      "surface": "ᛃלב",
+      "gloss": "እንደ ወተት"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "አልተከላኝምና"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "እንደ አይብም"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "አልኮለለኝምና"
+    }
+  ],
+  "timestamp": "2026-08-16T10:44:59.467410495Z",
+  "model": "glm-5.3"
+}

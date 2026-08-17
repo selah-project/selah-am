@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 46,
+  "translation": "በዚህ ምክንያት ምድር ብትነካካት እና ተራሮች በባሕሮች ልብ ውስጥ ቢንቀጠቀጡም አንፈራም።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ይህ ምክንያት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "እንፈራም"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "ትለወጥ በ…ጊዜ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "እና በ…ማንቀጠቀጥ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ተራሮች"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "በ…ልብ ውስጥ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ባሕሮች"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:10.407541959Z",
+  "model": "glm-5.3"
+}

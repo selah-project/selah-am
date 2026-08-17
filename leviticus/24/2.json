@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "የእስራኤልን ልጆች ⟨את⟩ ታዘዛቸው፤ ወደ አንተ ያመጡልሃል ለመብራት የወፍጮ የወጥ የወይን ዘይት፣ ለዘላለም እንዲያበራ መብራት ለማውጣት።",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "ታዘዛቸው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእስራኤልን ልጆች"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ያመጡልሃል"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘይት"
+    },
+    {
+      "surface": "זית",
+      "gloss": "የወይን ዘይት"
+    },
+    {
+      "surface": "זך",
+      "gloss": "ወፍጮ ወጥ"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "የወፍጮ"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ለመብራት"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "ለማውጣት"
+    },
+    {
+      "surface": "נר",
+      "gloss": "መብራት"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ለዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:01:15.329088995Z",
+  "model": "glm-5.3"
+}

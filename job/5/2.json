@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ምክንያቱም ቍጣ ሞኙን ይገድላል፤ ብልግናም ቀላል ልብ ያለውን ትገድላለች።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "ሞኙን"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "ይገድላል"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "ቍጣ"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "ብልግናም ቀላል ልብ ያለውን"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "ትገድላለች"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ብልግና... — ትገድላለች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:43:51.556927606Z",
+  "model": "glm-5.3"
+}

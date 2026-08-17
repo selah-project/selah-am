@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ነገር ግን ከአትኩሩ መካከል ባለው ዛፍ ፍሬ — ኤሎሂም፦ «ከእሱ አትብሉም እንዲሁም አትንኩትም፣ በሚሞቱ ዘንድ» አለ።",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "ነገር ግን ከፍሬ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "የዛፉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "የአትኩሩ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ብላሙ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእሱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንዲሁም አት"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "ንኩትም"
+    },
+    {
+      "surface": "בו",
+      "gloss": "እሱን"
+    },
+    {
+      "surface": "פן",
+      "gloss": "በሚ"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "ሞቱ ዘንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:30:20.578683843Z",
+  "model": "glm-5.3"
+}

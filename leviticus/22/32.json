@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "የቅዱስ ስሜን ⟨את⟩ አታረክሱ፤ በእስራኤል ልጆች መካከል እቀደሳለሁ፤ እናንተን የሚቀድስ እኔ ያህዌህ ነኝ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "አታ"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "ረክሱ፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የቅዱስ ስሜን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስሜን"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "የቅዱስ"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "እቀደሳለሁ፤"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "እናንተን የሚቀድስ ነኝ።"
+    }
+  ],
+  "timestamp": "2026-08-16T03:58:15.787304025Z",
+  "model": "glm-5.3"
+}

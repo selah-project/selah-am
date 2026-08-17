@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 136,
+  "translation": "ብቻውን ታላላቅ ድንቆችን የሚያደርግ ለ⟨እርሱ⟩ ምስጋና፤ ምክንያቱም ለዘላለም ምሕረቱ ⟨ይኖራል⟩።",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "ለሚያደርግ"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ድንቆችን"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ታላላቅ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ብቻውን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ምሕረቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:22.887336Z",
+  "model": "glm-5.3"
+}

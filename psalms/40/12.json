@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "አንተ ያህዌህ ምሕረትህን ከእኔ አታገዳደም፤ ቸርነትህና እውነትህ ሁልጊዜ ይጠብቁኛል።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አታ"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "ገዳድም"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ምሕረትህን"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ቸርነትህ"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "እውነትህና"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "ይጠብቁኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:34.125178161Z",
+  "model": "glm-5.3"
+}

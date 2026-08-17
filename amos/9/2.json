@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 9:2",
+  "book": "amos",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ወደ ሲኦል ቢቆፍሩ፣ ከዚያ እጄ ወስዳቸዋለች፤ እና ወደ ሰማያት ቢወጡ፣ ከዚያ አወርዳቸዋለሁ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ቢ"
+    },
+    {
+      "surface": "יחתרו",
+      "gloss": "ቢቆፍሩ"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "ወደ ሲኦል"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ከዚያ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "እጄ"
+    },
+    {
+      "surface": "תקחם",
+      "gloss": "ወስዳቸዋለች"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "እና ቢ"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ቢወጡ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ወደ ሰማያት"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ከዚያ"
+    },
+    {
+      "surface": "אורידם",
+      "gloss": "አወርዳቸዋለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:00:32.016561832Z",
+  "model": "glm-5.3"
+}

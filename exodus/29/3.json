@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "እነሱንም ⟨את⟩ በአንድ ቅርጫት ላይ ታስቀምጣለህ እና ⟨את⟩ በቅርጫቱ ታቀርባቸዋለህ፤ ወውሩንም ⟨את⟩ እና የሁለቱን በጎች ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ታስቀምጣለህ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "סל",
+      "gloss": "ቅርጫት"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "ታቀርባቸዋለህ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "በቅርጫቱ"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "በቅርጫቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ወውሩን"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ወውሩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "በጎችን"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለቱን"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "በጎች"
+    }
+  ],
+  "timestamp": "2026-08-16T03:29:55.894409182Z",
+  "model": "glm-5.3"
+}

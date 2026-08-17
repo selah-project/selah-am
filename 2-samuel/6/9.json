@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ዳዊት በዚያ ቀን ያህዌህን ⟨את⟩ ፈራ፤ «የያህዌህ ታቦት እንዴት ወደ እኔ ይመጣል?» አለ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ፈራ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በዚያ ቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያኔ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "איך",
+      "gloss": "እንዴት"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ይመጣል"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:03:30.233434030Z",
+  "model": "glm-5.3"
+}

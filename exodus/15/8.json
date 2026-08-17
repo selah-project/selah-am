@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "exodus 15:8",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "በአፍአጻች እፍኝ ውኃው ተከፈለ፤ ፈሳሾች እንደ ኮከብ ቆሙ፤ ጥልቆቹ በባሕር ልብ ውስጥ ቀዘቀዙ።",
+  "tokens": [
+    {
+      "surface": "וברוח",
+      "gloss": "በእፍኝ"
+    },
+    {
+      "surface": "אפיך",
+      "gloss": "አፍአጻች"
+    },
+    {
+      "surface": "נערמו",
+      "gloss": "ተከፈለ \/ ተከማቸ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውኃው"
+    },
+    {
+      "surface": "נצבו",
+      "gloss": "ቆሙ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "נד",
+      "gloss": "ኮከብ \/ ከፍታ"
+    },
+    {
+      "surface": "נזלים",
+      "gloss": "ፈሳሾች"
+    },
+    {
+      "surface": "קפאו",
+      "gloss": "ቀዘቀዙ"
+    },
+    {
+      "surface": "תהמת",
+      "gloss": "ጥልቆቹ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "በልብ ውስጥ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:14:24.191688076Z",
+  "model": "glm-5.3"
+}

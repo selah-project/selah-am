@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "እንዲሁም ወደ የምግብ ስብሰባ ቤት ከእነርሱ ጋራ ለመቀመጥ፣ ⟨את⟩ ለመብላት እና ለመጠጣት አትግባ።",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "እንዲሁም ወደ ቤት"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "የመጠጥ ስብሰባ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ትግባ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ለመቀመጥ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ከእነርሱ ጋራ ለመብላት"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ለመብላት"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "እና ለመጠጣት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:47:01.523999801Z",
+  "model": "glm-5.3"
+}

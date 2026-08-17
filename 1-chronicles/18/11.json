@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "እነዚህንም ⟨את⟩ ዳዊድ ንጉሥ ከሁሉም አሕዛብ — ከኤዶም፣ ከሞአብ፣ ከዐሞን ልጆች፣ ከፍልስጤምና ከዐማሌቅ — ከተሸከመው ብርና ወርቅ ጋር ለያህዌህ ቀደሰ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እነዚህንም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነዚህን"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "ቀደሰ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋር"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ወርቅ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ተሸከመው"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉም"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "ከኤዶም"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "ከሞአብ"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "ከ…ልጆች"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ዐሞን"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "ከፍልስጤም"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "ከዐማሌቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:40:58.613782700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "በሰማይ ውስጥ ማን ነው ለያህዌህ የሚቀርጸው፧ በኃያላን ልጆች መካከል ማን ነው ለያህዌህ የሚመሳደበው፧",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደሚሆነው፤"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን ነው"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "በሰማይ ውስጥ"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "የሚቀርጸው"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "የሚመሳደበው"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "በ...ልጆች መካከል"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "ኃያላን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:54.998434831Z",
+  "model": "glm-5.3"
+}

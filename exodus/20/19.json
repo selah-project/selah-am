@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ለሞሼም እንዲህ አሉት፤ አንተ ተናገር ከእኛ ጋራ፣ እኛም እንሰማለን፤ ኤሎሂም አይናገር ከእኛ ጋራ፣ ያለ እንሞት።",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "አሉትም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገር"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ከእኛ ጋራ"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "እንሰማለንም"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ይናገር"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ከእኛ ጋራ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ያለ"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "እንሞት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:18:29.692616720Z",
+  "model": "glm-5.3"
+}

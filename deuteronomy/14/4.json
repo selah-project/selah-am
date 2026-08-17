@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ይህችን ናት ⟨በ⟩ሔራት የምትበሉት፤ በሬ፣ በግ የበጎች እና ጠጒር የፍየሎች።",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ይህችን"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ሔራት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምትበሉት"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ትበላላችሁ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "በሬ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "በግ የ"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "በጎች"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "እና ጠጒር የ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ፍየሎች"
+    }
+  ],
+  "timestamp": "2026-08-16T04:41:08.420405308Z",
+  "model": "glm-5.3"
+}

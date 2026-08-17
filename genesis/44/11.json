@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "ተቀነሱም፣ እያንዳንዱ ሰው ከረጢቱን ⟨את⟩ ወደ ምድር ወረወሩ፤ እያንዳንዱ ሰውም ከረጢቱን ከፈተ።",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "ተቀነሱም"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "ወረወሩ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከረጢቱን"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "ከረጢቱን"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ወደ ምድር"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "ከፈቱ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "ከረጢቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:00:00.116617594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 10:3",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የየሩሳሌም ንጉሥ አዶኒ-ጸዴቅ ለኬብሮን ንጉሥ ለሆሃም፣ ለያርሙት ንጉሥ ለፒራም፣ ለላኪሽ ንጉሥ ለያፊዓ፣ ለዕግሎን ንጉሥም ለደቢር ወደ ማለት ላከ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶኒ-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጸዴቅ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የየሩሳሌም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הוהם",
+      "gloss": "ሆሃም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ኬብሮን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "פראם",
+      "gloss": "ፒራም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "ያርሙት"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "יפיע",
+      "gloss": "ያፊዓ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "ላኪሽ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "ደቢር"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "ዕግሎን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ለማለት"
+    }
+  ],
+  "timestamp": "2026-08-16T15:24:27.150680916Z",
+  "model": "glm-5.3"
+}

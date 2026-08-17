@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ዮአብ የጸሩያ ልጅ በአብሻሎም ላይ የንጉሡ ልብ መሆኑን ዐወቀ።",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ዐወቀ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ... ልጅ"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "ጸሩያ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "መሆኑን"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "አብሻሎም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:02:16.130630450Z",
+  "model": "glm-5.3"
+}

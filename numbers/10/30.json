@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እርሱም እንዲህ አለው፦ አልሄድም፤ ነገር ግን ወደ ምድሬ እና ወደ ቤተ ሰቤ እሄዳለሁ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል፤…ም"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "እሄድም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "ምድሬ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "ቤተ ሰቤ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "እሄዳለሁ"
+    }
+  ],
+  "timestamp": "2026-08-17T06:07:23.713344613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 103,
+  "translation": "እንደ መሆኑ እርሱ ቅርጽን ያውቃል፤ ያስታውሳል እኛ አፈር እንመስላለን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ መሆኑ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ያውቃል"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "ቅርጻችንን"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ያስታውሳል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ መሆኑ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "አፈር"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "እኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:35.287783318Z",
+  "model": "glm-5.3"
+}

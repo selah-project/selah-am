@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ዳዊት ራሱና አራት መቶ ሰው አሳደዱ፤ በቤሶር ወንዙን ⟨את⟩ ለመሻገር የደከሙት ሁለት መቶ ሰው ቆሙ።",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "አሳደዱ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ራሱ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "አራት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ቆሙ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ሁለት መቶ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "የደከሙ"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ለመሻገር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንዙን"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ወንዝ"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "ቤሶር"
+    }
+  ],
+  "timestamp": "2026-08-16T05:50:54.536278158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እነሆ፣ ፊትህን ⟨את⟩ ከፊቶቻቸው ጠንካራ አድርጌሃለሁ፣ እና ግፊት-ፊትህን ⟨את⟩ ከፊታቸው ጠንካራ አድርጌሃለሁ።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ፣"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "አድርጌሃለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊትህን"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህን"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "ጠንካራ"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ከ… ጋር ፊት-ለ-ፊት"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ፊቶቻቸው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ግፊት-ፊትህን"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "ግፊት-ፊትህን"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ጠንካራ"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ከ… ጋር ፊት-ለ-ፊት"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "ፊታቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T08:19:15.174695691Z",
+  "model": "glm-5.3"
+}

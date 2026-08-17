@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 103,
+  "translation": "የሚያወራ ሁሉን ዐመፃህን፤ የሚፈውስ ሁሉን በሽታዎችህን።",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "የሚያወራ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "ዐመፃህን"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "የሚፈውስ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "በሽታዎችህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:11.681167498Z",
+  "model": "glm-5.3"
+}

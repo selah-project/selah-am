@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "በአሕዛብ መካከል ⟨את⟩ ክብሩን ንገሩ፤ በሕዝቦች ሁሉ መካከል ድንቆቹን።",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "ንገሩ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "በአሕዛብ መካከል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክብሩን"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ክብሩን"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "በሕዝቦች"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "ድንቆቹን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:53:29.086200546Z",
+  "model": "glm-5.3"
+}

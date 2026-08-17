@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ለያህዌህ ከተቆለበ ቀኖቹ ሁሉ ወደ ሞተ ⟨ነፍስ⟩ አይቀርብም።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀኖቹ"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "ከተቆለበ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "አይቀርብም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:08:05.969843697Z",
+  "model": "glm-5.3"
+}

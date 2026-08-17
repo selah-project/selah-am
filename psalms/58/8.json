@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 58,
+  "translation": "እንደ ውሃ ይረሱ፤ ለራሳቸው ይሮጡ፤ ባለው በቶም ቢያወጣ እንደ ተቆረጠ ይጠፋሉ።",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "ይረሱ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ይሮጡ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ለራሳቸው"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "ያወጣል"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "ባለው በቶሙን"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "ይቆረጡ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:42.848407769Z",
+  "model": "glm-5.3"
+}

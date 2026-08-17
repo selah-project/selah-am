@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "በምርኮ ⟨የ⟩ጻድቃን ከተማ ትደሰታለች፤ እና በመጥፋት ⟨የ⟩ክፉዎች ድምፅ የደስታ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "በምርኮ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ጻድቃን"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "ትደሰታለች"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "እና በመጥፋት"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉዎች"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ድምፅ የደስታ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:25:53.975138434Z",
+  "model": "glm-5.3"
+}

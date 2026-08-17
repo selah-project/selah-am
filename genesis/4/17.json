@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ቄይን ⟨את⟩ ሚስቱን አወቃት፤ እርሷም ነክሳ ⟨את⟩ ሕኖክን ወለደች፤ እርሱም ከተማ ሠራ እና የከተማዋን ስም እንደ ልጁ ሕኖክ ስም ጠራ።",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "አወቃት"
+    },
+    {
+      "surface": "קין",
+      "gloss": "ቄይን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚስቱን"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሚስቱን"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ነክሳ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕኖክን"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ሕኖክን"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "እርሱም ሆኗል"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "የከተማዋን"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "እንደ ስም"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ሕኖክ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:56.759869289Z",
+  "model": "glm-5.3"
+}

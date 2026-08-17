@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ለእርሱ የሕጌን ብዙ ነገሮች ጻፍሁለት፤ እንደ የብሔራዊ ቃል ተቆጠሩ።",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "ጻፍሁለት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "የሕጌን"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "የብሔራዊ"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "ተቆጠሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:59:00.621322308Z",
+  "model": "glm-5.3"
+}

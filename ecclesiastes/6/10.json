@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የነበረው ሁሉ ስሙ በድሮ ተጠርቷል፤ ሰው መሆኑም ታውቋል፤ ከራሱም በላይ ከሆነው ኃያል ጋር መፍራትም አይችልም።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "የነበረው ሁሉ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "የነበረው"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "በድሮ"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "ተጠርቷል"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "ታውቋልም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነው"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይችልምም"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "መፍራት"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ጋር"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "ከሆነው ኃያል"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከራሱ በላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:16:48.021875480Z",
+  "model": "glm-5.3"
+}

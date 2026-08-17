@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እስከ መቼ ያህዌህ ለዘላለም ትረሳኛለህ፧ እስከ መቼ ⟨את⟩ ፊትህን ከእኔ ትሰውራለህ፧",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "መቼ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "ትረሳኛለህ"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "መቼ"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ትሰውራለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊትህን"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህን"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:12.117469367Z",
+  "model": "glm-5.3"
+}

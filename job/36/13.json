@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "job 36:13",
+  "book": "job",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "የልብ አታምክተኞች ቍጣ ያስቀምጣሉ፤ እርሱ ሲያስራቸውም አይጮኁም።",
+  "tokens": [
+    {
+      "surface": "וחנפי",
+      "gloss": "አታምክተኞች (የ-)ልብ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "ያስቀምጣሉ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ቍጣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ-"
+    },
+    {
+      "surface": "ישועו",
+      "gloss": "ይጮኁም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ሲያስራቸው እንደ-ሆነ ሳይሆን"
+    },
+    {
+      "surface": "אסרם",
+      "gloss": "ሲያስራቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:58:07.435492524Z",
+  "model": "glm-5.3"
+}

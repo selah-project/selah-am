@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ያህዌህ ሆይ፤ በጭንቀት ውስጥ ፈልገውሃል፤ ሽንኩርታን አፍስሰዋል፤ ቅጣትህ በእነሱ ላይ ነበር።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ ሆይ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "በጭንቀት ውስጥ"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "ፈልገውሃል"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "አፍስሰዋል"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "ሽንኩርታን"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "ቅጣትህ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "በእነሱ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:10:00.935378993Z",
+  "model": "glm-5.3"
+}

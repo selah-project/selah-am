@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "hosea 13:12",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "የኤፍሬም በደል ተታትኖበታል፤ ኃጢአቱም ተደብቋል።",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "ተታትኖበታል"
+    },
+    {
+      "surface": "עון",
+      "gloss": "በደል"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍሬም"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "ተደብቋል"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "ኃጢአቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:59:51.480911772Z",
+  "model": "glm-5.3"
+}

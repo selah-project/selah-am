@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 59,
+  "translation": "እነሱ ምግብ ለመብላት ይንዘረዘራሉ፤ ካልጠገቡ ደግሞ ያልማሉ።",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "እነሱ"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "ይንዘረዘራሉ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ምግብ ለመብላት"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ካል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አልጠገቡም"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ጠገቡ"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "ያልማሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:18.138394463Z",
+  "model": "glm-5.3"
+}

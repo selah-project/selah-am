@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 85,
+  "translation": "ጽድቅ ፊቱ ሆኖ ይራመዳል፤ እና እርምጃዎቹን መንገድ ያደርጋል።",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቅ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ፊቱ ሆኖ"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ይራመዳል"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "እና ... ያደርጋል"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "እርምጃዎቹን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:57:54.269495319Z",
+  "model": "glm-5.3"
+}

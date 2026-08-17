@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ወንድሞቹም በእርሱ ተቀኙ፤ አባቱ ግን ⟨את⟩ ቃሉን ጠበቀ።",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "ተቀኙ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሞቹ"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "አባቱ ግን"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ጠበቀ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃሉን"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃሉን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:53:51.106177449Z",
+  "model": "glm-5.3"
+}

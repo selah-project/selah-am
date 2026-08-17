@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 9:17",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "በአደር ወር በአሥራ ሶስት ቀን፣ እነሆ በአሥራ አራት በዚያው ቀን ዕረፍት አድርገው እሱን ⟨את⟩ የበዓል መጠጥና የደስታ ቀን አደረጉት።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "በ…ቀን"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ሶስት"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥራ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ለ…ወር"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "አደር"
+    },
+    {
+      "surface": "ונוח",
+      "gloss": "እና ዕረፍት"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "በአራት"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥራ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በዚያው"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "እና አደረጉ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ቀን"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "የበዓል መጠጥ"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "እና ደስታ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:27:40.122072980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 76,
+  "translation": "አብራህ አንተ፣ የቅኝ ተራራዎች የበለጠ ታላቅ ነህ።",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "አብራህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "ተራራዎች የ"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ቅኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:36.952297168Z",
+  "model": "glm-5.3"
+}

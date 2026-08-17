@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "አሁንም ይህንን ምድር ⟨את⟩ ለዘጠኙ ነገዶችና ለምናሴ ነገድ ግማሽ በወራሪነት አካፍል።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "አሁንም"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "አካፍል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድር"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህንን"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "በወራሪነት"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "ለዘጠኙ"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "ነገዶች"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "እና ግማሽ"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "ነገድ"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "የምናሴ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:07:23.988369504Z",
+  "model": "glm-5.3"
+}

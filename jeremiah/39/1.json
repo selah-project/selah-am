@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 39:1",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "በዘጠነኛው ዓመት የጽድቅያ የይሁዳ ንጉሥ በሁለተኛው ወር ነብቅደነፆር የባቢሎን ንጉሥ ከሰራዊቱ ሁሉ ጋር ወደ ኢየሩሳሌም መጣ እና በእርሷ ላይ ከበቡባት።",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "በዓመት"
+    },
+    {
+      "surface": "התשעית",
+      "gloss": "ዘጠነኛው"
+    },
+    {
+      "surface": "לצדקיהו",
+      "gloss": "የጽድቅያ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "የይሁዳ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "በወር"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "ሁለተኛው"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "ነብቅደነፆር"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "የባቢሎን"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "የሰራዊቱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ኢየሩሳሌም"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "እና ከበቡባት"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "በእርሷ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:08:55.029596788Z",
+  "model": "glm-5.3"
+}

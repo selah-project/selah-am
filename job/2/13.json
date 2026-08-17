@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "job 2:13",
+  "book": "job",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ከእርሱ ጋራ ⟨את⟩ በምድር ላይ ሰባት ቀንና ሰባት ሌሊት ተቀመጡ፤ ቃልም የሚናገርለት የለም፣ ሕመሙ እጅግ ከባይ ሆኖ ስለሚያዩት ነው።",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ተቀመጡ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ከእርሱ ጋራ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "በምድር ላይ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "እና ሰባት"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "ሌሊት"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለም፤"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "የሚናገርለት"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃልን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነው፣"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ስለሚያዩት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ሆኖ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ከባይ ሆኖ"
+    },
+    {
+      "surface": "הכאב",
+      "gloss": "ሕመሙን"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "እጅግ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:38:36.315302752Z",
+  "model": "glm-5.3"
+}

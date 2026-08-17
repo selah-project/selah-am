@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ያህዌህ ልመናዬን ሰማ፤ ያህዌህ ጸሎቴን ይቀበላል።",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "ልመናዬን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ጸሎቴን"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ይቀበላል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:26:58.615640040Z",
+  "model": "glm-5.3"
+}

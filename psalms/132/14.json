@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 132,
+  "translation": "«ይህ የእኔ ዕረፍት ነው፣ ለዘላለም እስከ ዘላለም፤ እዚህ እቀመጣለሁ፣ ምክንያት እኔ መሻኋታለሁ።»",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "የእኔ ዕረፍት"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ዘላለም"
+    },
+    {
+      "surface": "פה",
+      "gloss": "እዚህ"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "እቀመጣለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያት"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "እኔ አመኘዋታለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:05.863218640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ፈርዖንም ላከ፤ እነሆም ከእስራኤል አገላቢያ አንድ እንኳ አልሞተም፤ የፈርዖንም ልብ ከባደለ፤ ሕዝቡንም ⟨את⟩ አልላከም።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞተም"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "ከአገላቢያ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "ከባደለ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "የፈርዖን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አልም"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:12:49.478364565Z",
+  "model": "glm-5.3"
+}

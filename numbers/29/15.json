@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "ለአሥራ አራቱ በጎችም ለአንዱ በግ አንድ ኢሳሮን አንድ ኢሳሮን ይሁን።",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "እና አንድ ኢሳሮን"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "ኢሳሮን"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ለበግ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ለአንዱ"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "ለአራት"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "በጎች"
+    }
+  ],
+  "timestamp": "2026-08-16T04:25:48.882326438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "ዮስፍም ለወንድሞቹ «እኔ ዮስፍ ነኝ፤ አባቴ አሁንስ ሕያው ⟨ነው⟩?» አለ፤ ወንድሞቹም ከፊቱ በደነገጡና መልስ ሊሰጡት ⟨את⟩ አልቻሉም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮስፍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሞቹ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮስፍ"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "አሁንስ እንኳ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባቴ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ቻሉ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሞቹ"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "መልስ ሊሰጡ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ እርሱን",
+      "marks": "እርሱን (ዮስፍን)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደሆነ"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "በደነገጡ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ከፊቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:03:02.013465997Z",
+  "model": "glm-5.3"
+}

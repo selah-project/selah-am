@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 11:23",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "የውሀም ⟨את⟩ ምድሩን ሁሉ ወሰደ፣ እንደ ያህዌህ ለሞሼ እንደ ተናገረው ሁሉ፤ የውሀም እንደ ወገኖቻቸው ክፍፍል ለይስራኤል ለውርስ ሰጣት፤ ምድሩም ከጦርነት አረፈች።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የውሀ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሩን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩን"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "እንደ…ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ው"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ሰጣት"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የውሀ"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "ለውርስ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ለይስራኤል"
+    },
+    {
+      "surface": "כמחלקתם",
+      "gloss": "እንደ ክፍፍላቸው"
+    },
+    {
+      "surface": "לשבטיהם",
+      "gloss": "ለወገኖቻቸው"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ምድሩም"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "አረፈች"
+    },
+    {
+      "surface": "ממלחמה",
+      "gloss": "ከጦርነት"
+    }
+  ],
+  "timestamp": "2026-08-16T15:16:02.732622546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ኤልሁም እዮብን ⟨את⟩ በንግግር ጠበቀ፤ እነሱ በቀናት እርሱን በሚበልጡ ዕድሜ የከፋ ስለሆኑ።",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "ኤልሁም"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "ጠበቀ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እዮብን"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "እዮብ"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "በንግግር"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ፤ ስለሆኑ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "የከፋ ዕድሜ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነሱ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "እርሱን በሚበልጡ"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "በቀናት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:56:26.061922033Z",
+  "model": "glm-5.3"
+}

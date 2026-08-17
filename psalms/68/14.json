@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 68:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "በቁላቤት መካከል ቢተኙም ፣ የዳኝ ክንፎች በብር የተሸፈኑ ናቸው፤ እርቃቸውም በበገና ወርቅ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ቢሆንም"
+    },
+    {
+      "surface": "תשכבון",
+      "gloss": "ቢተኙ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በ…መካከል"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ቁላቤት"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ክንፎች"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "የዳኝ"
+    },
+    {
+      "surface": "נחפה",
+      "gloss": "የተሸፈኑ"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "በብር"
+    },
+    {
+      "surface": "ואברותיה",
+      "gloss": "እርቃቸውም"
+    },
+    {
+      "surface": "בירקרק",
+      "gloss": "በበገና"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "ወርቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:48.111392368Z",
+  "model": "glm-5.3"
+}

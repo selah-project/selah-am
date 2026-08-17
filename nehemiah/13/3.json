@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ኦሪትን ⟨את⟩ ሲሰሙም የተቀላቀለውን ሕዝብ ሁሉ ከእስራኤል ለዩ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነም"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "ሲሰሙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኦሪትን"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ኦሪትን"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "ለዩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "የተቀላቀለውን ሕዝብ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ከእስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T18:42:54.987372910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ምክንያቱም ማንም ከሁሉም ከሕያዋን ጋር የተያያዘ ከሆነ ተስፋ አለው፤ ምክንያቱም ሕያው ውሻ ከሞተ አንበሳ የተሻለ ነው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማንም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "የተያያዘ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ከሕያዋን"
+    },
+    {
+      "surface": "יש",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "ተስፋ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ውሻ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "የተሻለ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "አንበሳ"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ሞተ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:32:16.996945958Z",
+  "model": "glm-5.3"
+}

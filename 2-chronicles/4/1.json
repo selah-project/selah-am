@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የናስ ⟨ማድረቅ⟩ አደረገ — ሃያ ክንድ ርዝመቱ፣ ሃያ ክንድ ስፋቱ፣ አሥር ክንድ ቁመቱ ነበረ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ማድረቅ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "የናስ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ሃያ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ክንድ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ርዝመቱ"
+    },
+    {
+      "surface": "ויעשרים",
+      "gloss": "እና ሃያ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ክንድ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ስፋቱ"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "እና አሥር"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ክንዶች"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ቁመቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:48:46.280901474Z",
+  "model": "glm-5.3"
+}

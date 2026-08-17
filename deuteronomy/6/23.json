@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እኛንም ⟨את⟩ ከዚያ አወጣ ውስጥ በፊት ይዘን ⟨את⟩ እኛን ለማስገባት ወደ እኛ ለመስጠት ⟨את⟩ ምድሩን ያንን ለአባቶቻችን የማለለበትን።",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩-ንን",
+      "marks": "እኛን"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "አወጣ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ከዚያ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ውስጥ በፊት"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "ለማስገባት"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "እኛን"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ለመስጠት"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሩን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያንን"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "የማለለ"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "ለአባቶቻችን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:36:09.579778160Z",
+  "model": "glm-5.3"
+}

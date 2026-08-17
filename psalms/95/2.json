@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 95,
+  "translation": "በአመሰግና ፊቱን እንቅድም፤ በመዝሙሮች እንጮኸው።",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "እንቅድም"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱን"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "በአመሰግና"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "በመዝሙሮች"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "እንጮኸው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "እለቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:22.394779192Z",
+  "model": "glm-5.3"
+}

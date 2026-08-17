@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "ለመዝምሪው አለቃ፤ ለቆሬህ ልጆች፤ መዝሙር።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመዝምሪው አለቃ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለልጆች"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ቆሬህ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:33.276285374Z",
+  "model": "glm-5.3"
+}

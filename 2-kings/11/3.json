@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እሱም በያህዌህ ቤት ከእሷ ⟨את⟩ ጋር ስድስት ዓመታት ተሰውሮ ኖረ፤ ዐትልያም በምድሩ ላይ ትገዛ ነበር።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኖረ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ከእሷ ጋር"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "ተሰውሮ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ስድስት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "ዐትልያም"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ትገዛ ነበር"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:41:55.515231912Z",
+  "model": "glm-5.3"
+}

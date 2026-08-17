@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "በፍቅሬ ፋንታ ክለኝ፤ እኔ ግን ጸሎት ነኝ።",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "በ…ፋንታ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "በፍቅሬ"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "ክለኝ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ጸሎት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:58.575794065Z",
+  "model": "glm-5.3"
+}

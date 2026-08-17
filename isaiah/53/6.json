@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 53:6",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 53,
+  "translation": "ሁላችን እንደ በጎች ተበታትንን፤ እያንዳንዱ ወደ መንገዱ ጠበበ፤ ያህዌህ ግን የሁላችንን ⟨את⟩ ኀጢአት በእርሱ ላይ አሳረፈው።",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "ሁላችን"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "እንደ በጎች"
+    },
+    {
+      "surface": "תעינו",
+      "gloss": "ተበታትንን"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "ወደ መንገዱ"
+    },
+    {
+      "surface": "פנינו",
+      "gloss": "ጠበበ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ ግን"
+    },
+    {
+      "surface": "הפגיע",
+      "gloss": "አሳረፈው"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኀጢአት"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ኀጢአት"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "ሁላችንን"
+    }
+  ],
+  "timestamp": "2026-08-16T17:04:02.730232349Z",
+  "model": "glm-5.3"
+}

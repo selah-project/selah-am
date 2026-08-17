@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ዳዊትም በምድረ በዳ ናባል ⟨את⟩ መንጋውን እያገለበጠ መሆኑን ሰማ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በምድረ በዳ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "መሆኑን"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "እያገለበጠ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ናባል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንጋውን"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "መንጋውን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:48:33.483549375Z",
+  "model": "glm-5.3"
+}

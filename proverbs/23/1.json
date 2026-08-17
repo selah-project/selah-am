@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ከሹማምቀሩ ጋር ለመብላት ብትቀመጥ፣ በፊትህ ያለውን ⟨את⟩ ዘንድ በጥንቃቄ ተረዳ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ከ…ብትቀመጥ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ትቀመጣለህ"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "ለመብላት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሹማምቀሩ"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ሹማምቀሩ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ተረዳ"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "በጥንቃቄ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያለውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዘንድ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "በፊትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:33:59.767846040Z",
+  "model": "glm-5.3"
+}

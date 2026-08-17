@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "በአሥራ አምስት ብር እና በአንድ ሖሜር ገብት እና በግማሽ (ለቴክ) ገብት በዚያች ሴት ለራሴ ገዛኋት።",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "ገዛኋት"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለራሴ"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "በአምስት"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "እና በአንድ ሖሜር"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ገብት"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "እና በግማሽ ሖሜር (ለቴክ)"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ገብት"
+    }
+  ],
+  "timestamp": "2026-08-16T18:00:37.928596540Z",
+  "model": "glm-5.3"
+}

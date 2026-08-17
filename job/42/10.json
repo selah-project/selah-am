@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "ያህዌህም የኢዮብን ምርኮ ⟨את⟩ በእርሱ ስለ ወዳጆቹ ሲጸልይ መለሰ፤ ያህዌህም ለኢዮብ ያለውን ሁሉ ⟨את⟩ በእጥፍ ጨመረለት።",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "שב",
+      "gloss": "መለሰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምርኮ"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "ምርኮ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "የኢዮብን"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "በሲጸልይ ጊዜ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ወዳጆቹ"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ጨመረለት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለውን"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "ለኢዮብ"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "በእጥፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:14:00.001606298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "«እናንተን ልመልከት ብቻ ብትከልክ ሕዝቤን — እነሆ እኔ ⟨את⟩ መላውን ድንበርህን በዓሣ አጥሚ እመታለሁ።»",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እና… ከሆነ"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ከልክ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ልላክ… ከሆነ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "እመታለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መላውን ድንበርህን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላውን"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "ድንበርህን"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "በዓሣ አጥሚ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:10:34.134793968Z",
+  "model": "glm-5.3"
+}

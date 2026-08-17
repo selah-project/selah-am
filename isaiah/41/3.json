@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "ደረተው፣ በሰላም አለፈ፤ በእግሮቹ ያልሄደበትን መንገድ ⟨አል⟩ ገባም።",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "ደረተው"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "አለፈ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "በሰላም"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "በእግሮቹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ገባም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:19:39.396768235Z",
+  "model": "glm-5.3"
+}

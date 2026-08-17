@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ተሰበሩና ተሳፈሩ ከኩስ ⟨ከ⟩ ተስፋቸው እና ከምጽራይም ክብራቸው።",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "ተሰበሩ"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "ተሳፈሩ"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "ከኩስ"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "ተስፋቸው"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "እና ከ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ከምጽራይም"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "ክብራቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T07:05:31.136381360Z",
+  "model": "glm-5.3"
+}

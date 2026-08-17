@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 91,
+  "translation": "በዕድሜ ርዝመት እሟላዋለሁ፤ በመዳኄም አሳየዋለሁ።",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "ርዝመት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "የቀናት"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "እሟላዋለሁ"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "እና አሳየዋለሁ"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "በመዳኄ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:41.108724708Z",
+  "model": "glm-5.3"
+}

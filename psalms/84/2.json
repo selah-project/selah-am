@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 84,
+  "translation": "ምን ያህል የተወደዱ ናቸው መኖሪያዎችህ ያህዌህ ሰራዊት።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ምን ያህል"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "የተወደዉ"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "መኖሪያዎችህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ሰራዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:29.467466088Z",
+  "model": "glm-5.3"
+}

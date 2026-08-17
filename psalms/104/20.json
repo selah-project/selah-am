@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 104,
+  "translation": "ጨለማን ታደርጋለህ እና ሌሊት ይሆናል፤ በዚያ የጫካው አራዊት ሁሉ ይንቀሳቀሳሉ።",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጨለማን"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "እና ይሆናል"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ሌሊት"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "ይንቀሳቀሳሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "የአራዊት"
+    },
+    {
+      "surface": "יער",
+      "gloss": "የጫካው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:21.828928302Z",
+  "model": "glm-5.3"
+}

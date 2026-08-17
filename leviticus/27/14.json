@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "leviticus 27:14",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "እና ሰው ቤቱን ለያህዌህ ቀድሶ ሲቀድስ ⟨את⟩ ቤቱን ለቅድሳት፣ ካህኑ መልካም ወይም መጥፎ ብሎ ይገመተዋል፤ ካህኑ አድርጎት ⟨את⟩ ካህኑን እንደሚገመተው እንዲሁ ይከናወናል።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "እና ሰው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከ…ሲ"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "ሲቀድስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱን"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱን"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ለቅድሳት"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "והעריכו",
+      "gloss": "ይገመተዋል"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "መልካም…ወይ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "…ወይም"
+    },
+    {
+      "surface": "רע",
+      "gloss": "መጥፎ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ…እንዲሁ"
+    },
+    {
+      "surface": "יעריך",
+      "gloss": "ሲገመት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ካህኑን"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲሁ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ይከናወናል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:03:56.675876197Z",
+  "model": "glm-5.3"
+}

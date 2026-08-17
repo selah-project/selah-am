@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ወደ አንተ እጮካለሁ ነገር ግን አትመልሰኝም፤ ቆሜያለሁ እና ታያለህኝ።",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "እጮካለሁ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ነገር ግን አት... ም"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ትመልሰኝ"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "ቆሜያለሁ"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "እና ታያለህኝ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "እኔን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:55:25.970472709Z",
+  "model": "glm-5.3"
+}

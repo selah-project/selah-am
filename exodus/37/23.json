@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "exodus 37:23",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ከእርሷም ⟨את⟩ ሰባቱን መብራቶቿን አደረጋቸው፣ መቅኛዎቿንም ማበሻዎቿንም ንጹህ ወርቅ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረጋቸውም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰባቱን መብራቶቿን"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "መብራቶቿን"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ሰባቱን"
+    },
+    {
+      "surface": "ומלקחיה",
+      "gloss": "መቅኛዎቿንም"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "ማበሻዎቿንም"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቅ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ንጹህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:36:17.096090616Z",
+  "model": "glm-5.3"
+}

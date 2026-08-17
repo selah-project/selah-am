@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "አፉ ከመርገም፣ ከዋሾምታና ከበደል ሞልቶ ነው፤ በምላሱ ሥር ችግርና ክፉነት አሉ።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "መርገም"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "አፉ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ሞልቶ ነው"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "እና ዋሾምታ"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "እና በደል"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በታች ሥር"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "ምላሱ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ችግር"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "እና ክፉነት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:59.994684179Z",
+  "model": "glm-5.3"
+}

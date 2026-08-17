@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ውሃው በመሠዊያው ዙሪያ ፈሰሰ፤ እንዲሁም ⟨את⟩ ጉድጓዱን በውሃ ሞላ።",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ፈሰሰ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውሃው"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ዙሪያ"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "በመሠዊያው"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጉድጓዱን"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "ጉድጓዱን"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ሞላ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:31:55.522322391Z",
+  "model": "glm-5.3"
+}

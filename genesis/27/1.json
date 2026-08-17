@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "genesis 27:1",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "እና ኾነ ይጽሐቅ ሲያረጅ ዐይኖቹ ከማየት ደከሙ፤ እና ዓሳውን ⟨את⟩ በኩር ወንዱን ልጁን ጠራ፤ እና አለው «ውዳሴ ልጄ»፤ እና አለው «እነሆ እኔ ነኝ»።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እና ኾነ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ሲ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ሲያረጅ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይጽሐቅ"
+    },
+    {
+      "surface": "ותכהין",
+      "gloss": "ደከሙ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ዐይኖቹ"
+    },
+    {
+      "surface": "מראת",
+      "gloss": "ከማየት"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "እና ጠራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓሳውን"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዓሳውን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁን"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "በኩር ወንዱን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለው"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውዳሴ ልጄ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለው"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እነሆ እኔ ነኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:45:21.133376203Z",
+  "model": "glm-5.3"
+}

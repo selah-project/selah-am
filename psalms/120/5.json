@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 120,
+  "translation": "ወዮ ለእኔ፣ እንደ መስቀለኛ ሆኜ በመሸክ ተቀምጬ ነው፤ ከቄዳር ድንኳኖች ጋር አድራለሁ።",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "ወዮ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "መስቀለኛ ሆኜ"
+    },
+    {
+      "surface": "משך",
+      "gloss": "በመሸክ"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "ተቀምጬ ነው፤ አድራለሁ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ... ጋር"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "ድንኳኖች"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ቄዳር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:56.250238468Z",
+  "model": "glm-5.3"
+}

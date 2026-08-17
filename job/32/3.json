@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "job 32:3",
+  "book": "job",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "እንዲሁም በሦስቱ ወዳጆቹ ቁጣው አበጋገረ፤ መልስ ስላልገኙ፣ እዮብን ግን ⟨את⟩ አሳሳቱ።",
+  "tokens": [
+    {
+      "surface": "ובשלשת",
+      "gloss": "እንዲሁም በሦስቱ"
+    },
+    {
+      "surface": "רעיו",
+      "gloss": "ወዳጆቹ"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "አበጋገረ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ቁጣው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ስለ፤ ስላልገኙ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "ገኙ"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "መልስ"
+    },
+    {
+      "surface": "וירשיעו",
+      "gloss": "አሳሳቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እዮብን"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "እዮብ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:56:26.061769314Z",
+  "model": "glm-5.3"
+}

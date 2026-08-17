@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "deuteronomy 33:3",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "አዎ፣ ሕዝቦችን ይወዳል፤ ቅዱሳኑ ሁሉ በእጁ ናቸው፤ እነርሱም በእግሩ ሥር ተቀምጠዋል፤ ከቃሎቹስ እያንዳንዱ ይቀበላል።",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "አዎ፣ ደግሞም"
+    },
+    {
+      "surface": "חבב",
+      "gloss": "ይወዳል"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝቦችን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "ቅዱሳኑ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "በእጅህ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "እነርሱም"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "ተቀምጠዋል"
+    },
+    {
+      "surface": "לרגלך",
+      "gloss": "በእግርህ ሥር"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ይቀበላል"
+    },
+    {
+      "surface": "מדברתיך",
+      "gloss": "ከቃሎችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:56:51.760041395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "ezekiel 38:1",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "የያህዌህ ቃል ወደ እኔ መጣ፣ እንዲህ ይላል፦",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ይላል"
+    }
+  ],
+  "timestamp": "2026-08-16T08:48:22.235799062Z",
+  "model": "glm-5.3"
+}

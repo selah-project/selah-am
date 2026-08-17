@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "የኤሎሂም ተራራ የባሳን ተራራ ናት፤ የኮረብታዎች ተራራ የባሳን ተራራ ናት።",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "የባሳን"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "የኮረብታዎች"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "የባሳን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:48.113934216Z",
+  "model": "glm-5.3"
+}

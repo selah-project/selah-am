@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "joshua 7:4",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ከሕዝቡም እንደ ሦስት ሺህ ወንድ ኤዚያ ወጡ፤ ከአይ ሰዎችም ፊት ሸሹ።",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ወጡ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ኤዚያ"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "እንደ ሦስት ሺህ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ወንድ"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ሸሹ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "העי",
+      "gloss": "አይ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:03:15.101075105Z",
+  "model": "glm-5.3"
+}

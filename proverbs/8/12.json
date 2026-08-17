@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 8:12",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እኔ ጥበብ ከብልሃት ጋር አደራለሁ፤ እና የምክር እውቀትን አገኛለሁ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "አደራለሁ"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "ብልሃት"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "እና እውቀትን"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "የምክር"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "አገኛለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:36.911126400Z",
+  "model": "glm-5.3"
+}

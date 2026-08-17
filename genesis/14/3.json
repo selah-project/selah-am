@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "እነዚህ ሁሉ ወደ ሲዲም ሸለቆ ተሰበሰቡ፤ እርሷ የጨው ባሕር ናት።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "ተሰበሰቡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ሸለቆ"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "ሲዲም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሷ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "የጨው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:36:19.723785408Z",
+  "model": "glm-5.3"
+}

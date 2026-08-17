@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 76,
+  "translation": "ከሰማይ ፍርድን አስሰማህ፤ ምድር ፈራች እና ቀሠጠች።",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "ከሰማይ"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "አስሰማህ"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ፍርድን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ፈራች"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "እና ቀሠጠች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:58.110504372Z",
+  "model": "glm-5.3"
+}

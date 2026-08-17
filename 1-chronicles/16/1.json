@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-chronicles 16:1",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "የኤሎሂምን ⟨את⟩ ታቦት አስገቡ፣ ዳዊድ ለእርሱ ዘረጋው ⟨את⟩ በድኅረ-ቤቱ ውስጥ አቆሙት፤ የሚሠዩ መሥዋዕትና የሰላም መሥዋዕት በኤሎሂም ፊት አቀረቡ።",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "አስገቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦት"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "አቆሙት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦቱን"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በ…ውስጥ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ድኅረ-ቤቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ዘረገ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "አቀረቡ"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "የሚሠዩ መሥዋዕት"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "የሰላም መሥዋዕት"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T13:02:21.666467214Z",
+  "model": "glm-5.3"
+}

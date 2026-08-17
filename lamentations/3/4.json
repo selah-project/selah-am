@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ሥጋዬን እና ቆዳዬን አሳለቀ፤ አጥንቶቼን አፈራረሰ።",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "አሳለቀ"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ሥጋዬን"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "እና ቆዳዬን"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "አፈራረሰ"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "አጥንቶቼን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:09:39.995191580Z",
+  "model": "glm-5.3"
+}

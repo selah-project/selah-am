@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 12:28",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "አሁን ስለዚህ ⟨את⟩ የሕዝቡን ቀሪ አሰብ፤ በከተማዋም ላይ ሰፈርበት ያዛት፤ እኔ ⟨את⟩ ከተማዋን እንዳልያዝ፣ ስሜም በእሷ ላይ እንዳይጠራ በላዋ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "አሁን ስለዚህ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "አሰብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቀሪውን"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ቀሪው"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "וחנה",
+      "gloss": "ሰፈርበት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋ"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ያዛት"
+    },
+    {
+      "surface": "פן",
+      "gloss": "በላዋ"
+    },
+    {
+      "surface": "אלכד",
+      "gloss": "እንዳልያዝ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተማዋን"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋን"
+    },
+    {
+      "surface": "ונקרא",
+      "gloss": "እንዳይጠራ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ስሜ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "በእሷ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:02:12.973396985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 33:12",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "በጭንቀትም ሲሆን የያህዌህ የራሱ ኤሎሂም ⟨את⟩ ፊት ለመታረቅ ማለቁ ሲሆን እንዲሁ ከአባቶቹ ኤሎሂም ፊት በጣም ተዋረደ።",
+  "tokens": [
+    {
+      "surface": "וכהצר",
+      "gloss": "በጭንቀትም ሲሆን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ማለቁ ሲሆን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊት"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "የራሱ ኤሎሂም"
+    },
+    {
+      "surface": "ויכנע",
+      "gloss": "ተዋረደ።"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ከ… ፊት"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "አባቶቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:54:58.736023560Z",
+  "model": "glm-5.3"
+}

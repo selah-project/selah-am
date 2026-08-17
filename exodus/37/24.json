@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "አንድ መክሊት ንጹህ ወርቅ ⟨את⟩ እርሷን አደረጋት፣ እና ⟨את⟩ ሁሉን ዕቃዎቿን።",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "አንድ መክሊት"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቅ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ንጹህ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረጋት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እርሷን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሁሉን ዕቃዎቿን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ዕቃዎቿን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:36:17.096207796Z",
+  "model": "glm-5.3"
+}

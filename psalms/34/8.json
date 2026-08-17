@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "የያህዌህ መልአክ ለሚፈሩት በዙሪያቸው ሠፈረ፣ አዳናቸውም።",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "ሠፈረ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "መልአክ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "በዙሪያ"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ለሚፈሩት"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "እና አዳናቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:00.801881228Z",
+  "model": "glm-5.3"
+}

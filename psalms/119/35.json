@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "በትእዛዝህ መንገድ አስገብኝ፤ በእርሷም ደስ ይለኛልና።",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "አስገብኝ"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ትእዛዝህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ንጣት ደስ ይለኛልና፤ «በእርሷም» ተተርጉሟል።"
+    },
+    {
+      "surface": "בו",
+      "gloss": "እርሷን"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ደስ ይለኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:49.585561263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የሌዊን ልጆች ⟨את⟩ በአባቶቻቸው ቤት በቤተ ሰቦቻቸው ቁጠራቸው፤ ከወንድ ልጅ ከአንድ ወር እና ከዚያ በላይ ሁሉን ወንድ ቁጠራቸው።",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "ቁጠራቸው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሌዊን ልጆችን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "የሌዊ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "አባቶቻቸው"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "በቤተ ሰቦቻቸው"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ወንድ"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "ከወንድ ልጅ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ከአንድ ወር"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "እና ከዚያ በላይ"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "ቁጠራቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T04:06:41.312294371Z",
+  "model": "glm-5.3"
+}

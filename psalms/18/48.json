@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ኤሉ ሆይ፣ ⟨את⟩ በቀሎችን የሚሰጠኝ፣ ሕዝቦችን ከታቴ የሚያስገዛ ኤል።",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "ኤሉ"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "የሚሰጠው"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "በቀሎችን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ኝ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ያስገዛል"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝቦችን"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "ከታቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:56.915228475Z",
+  "model": "glm-5.3"
+}

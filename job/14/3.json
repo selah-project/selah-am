@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "እንደዚህ ባለ ሰው ላይም ቢያ ትከፍታለህ፣ እና ⟨את⟩ እኔን ከአንተ ጋር በፍርድ ታስገባለህ?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "እንደዚህ ላይም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ባለ ሰው"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "ትከፍታለህ"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ቢያ"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ እኔን",
+      "marks": "እኔን"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "ታስገባለህ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "በፍርድ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:46:32.203886431Z",
+  "model": "glm-5.3"
+}

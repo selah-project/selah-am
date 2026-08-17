@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 58,
+  "translation": "በጉሮሮህ ጮኽ፥ አትደልስ፤ እንደ ቀርንጫ ድምጅን አሳድር፤ ሕዝቤን ስለ መተላለቃቸው፥ ስለ ያዕቆብ ቤትም ስለ ኃጢአታቸው ንገራቸው።",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "ጮኽ"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "በጉሮሮህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "ደልስ"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "እንደ ቀርንጫ"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "አሳድር"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ድምጅን"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "ንገራቸው"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "ሕዝቤን"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "ስለ መተላለቃቸው"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ስለ ቤትም"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ስለ ኃጢአታቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T07:31:26.233973538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "jeremiah 10:23",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "አውቄያለሁ፣ ያህዌህ ሆይ፣ የሰው መንገዱ ከራሱ አይደለም፤ ለሚሄድ ሰው ⟨את⟩ እርሱን ማስተካከል አይገባውም።",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "አውቄያለሁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ለሰው"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "መንገዱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይገባም"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ለሰው"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ሲሄድ"
+    },
+    {
+      "surface": "והכין",
+      "gloss": "እና ማስተካከል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "እርሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:42:33.413751654Z",
+  "model": "glm-5.3"
+}

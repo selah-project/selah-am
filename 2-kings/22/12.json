@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "2-kings 22:12",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እና ⟨ንጉሡ⟩ አዘወ ⟨את⟩ ካህኑን ሕልቅያን እና ⟨את⟩ አኪቃምን የሻፋን ልጅ እና ⟨את⟩ ዐቅቦርን የሚካያ ልጅ እና ⟨את⟩ ሻፋንን ⟨ሰፋሪውን⟩ እና ⟨את⟩ ዐሳያን የ⟨ንጉሡ⟩ አገልጋይ ብሎ፤",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "አዘወ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕልቅያን"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "ሕልቅያ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "አኪቃምን"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "አኪቃም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "ሻፋን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዐቅቦርን"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "ዐቅቦር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "מיכיה",
+      "gloss": "ሚካያ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሻፋንን"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "ሻፋን"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ሰፋሪው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዐሳያን"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "ዐሳያ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "አገልጋይ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብሎ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:53:31.835882756Z",
+  "model": "glm-5.3"
+}

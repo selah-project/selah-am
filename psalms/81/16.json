@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 81,
+  "translation": "የያህዌህ ጠላቶች ለእርሱ ታዘዙ ኖሮ፤ ዘመናቸውም ለዘላለም ይሆን ኖሮ።",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "ጠላቶች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ታዘዙ ኖሮ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ይሆን ኖሮ"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "ዘመናቸውም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:21.170719431Z",
+  "model": "glm-5.3"
+}

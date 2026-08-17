@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 86:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 86,
+  "translation": "ለእኔ ለበጎ ምልክት አድርግ፣ ጠላቶቼም ያዩና ይዋረዱ፣ ምክንያቱም አንተ ያህዌህ ረድኤኔን ነው፣ አጽናንኩም ነው።",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "አድርግ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "אות",
+      "gloss": "ምልክት"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "ለበጎ"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ያዩና"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ጠላቶቼም"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ይዋረዱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עזרתני",
+      "gloss": "ረድኤቴኝ ነው"
+    },
+    {
+      "surface": "ונחמתני",
+      "gloss": "አጽናንኩኝ ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T18:11:39.344453106Z",
+  "model": "glm-5.3"
+}

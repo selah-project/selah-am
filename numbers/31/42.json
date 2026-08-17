@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ከእስራኤል ልጆች ከጦር ወጥተው ከነበሩት ሰዎች ሞሼ የከፋው ከግማሽ ውስጥ፣",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "ከግማሽ ውስጥ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "ከፋ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "ወታደሮች የነበሩት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:27:09.131905154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 19:20",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "የአዛውንቱም ሰው እንዲህ አለው፦ ሰላም ለአንተ፤ ብቻ ኾኖ የሚያስፈልግህ ሁሉ በእኔ ላይ ይሁን፤ ብቻ በአደባባይ አትደግፍ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "የአዛውንቱ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ብቻ ኾኖ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מחסורך",
+      "gloss": "የሚያስፈልግህ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "በአደባባይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תלן",
+      "gloss": "ደግፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:43:40.240579708Z",
+  "model": "glm-5.3"
+}

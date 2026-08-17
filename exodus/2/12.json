@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ወደዚህና ወደዚያም ዞሮ ሰው እንደሌለ አየ፤ ⟨את⟩ ግብፃዊውን መታና በአሸዋው ደበቀው።",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "ዞሮ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ወደዚህ"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ወደዚያም"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "እንደሌለ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "መታ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ግብፃዊውን"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "ግብፃዊውን"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "ደበቀው"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "በአሸዋው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:05:58.566833852Z",
+  "model": "glm-5.3"
+}

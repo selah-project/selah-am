@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ዐጋግንም ⟨את⟩ የዐማሌቅን ንጉሥ ሕያው ያዘ፤ ሕዝቡንም ሁሉ ⟨את⟩ በሰይፍ አፍ ሙሉ ጨረሻ አደረገ።",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "ያዘ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዐጋግ"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "ዐጋግ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ዐማሌቅ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "ጨረሻ አደረገ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "አፍ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:40:46.623916092Z",
+  "model": "glm-5.3"
+}

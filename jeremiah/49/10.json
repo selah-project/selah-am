@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "እኔ ግን ⟨את⟩ ኤሳውን አራቅቻለሁ፤ ⟨את⟩ መሰደጃዎቹን ገልጬያለሁ፤ ራሱን መሰወር አይችልም፤ ዘሩ፣ ወንድሞቹ እና ጎረቤቶቹ ተዘርፈዋል እርሱም የለም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "አራቅቻለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሳውን"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ኤሳውን"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "ገልጬያለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሰደጃዎቹን"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "መሰደጃዎቹን"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "ራሱን መሰወር"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ችልም"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ተዘርፈዋል"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ዘሩ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ወንድሞቹ"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "ጎረቤቶቹ"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "እርሱም የለም"
+    }
+  ],
+  "timestamp": "2026-08-16T08:11:53.631660301Z",
+  "model": "glm-5.3"
+}

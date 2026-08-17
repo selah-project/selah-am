@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ከእነርሱ እና ከአማልክታቸው ጋር ቃል ኪዳን አታደርግም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አታደርግም"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "አታደርግ (ታስቆርጥ)"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ከእነርሱ ጋር"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "ከአማልክታቸው ጋር"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ቃል ኪዳን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:23:13.789568947Z",
+  "model": "glm-5.3"
+}

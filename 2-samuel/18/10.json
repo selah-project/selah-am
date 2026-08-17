@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "አንድ ሰው አየ፣ ለዮአብም ነገረ፣ እንዲህም አለ፦ እነሆ አብስሎምን ⟨את⟩ በእልሳት ውስጥ ተንጠልልኩ አየሁ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ነገረ"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "ለዮአብ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "አየሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አብስሎምን"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "አብስሎም"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "ተንጠልልኩ"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "በእልሳት ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-17T07:19:12.902553889Z",
+  "model": "glm-5.3"
+}

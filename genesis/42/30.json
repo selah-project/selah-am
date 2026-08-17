@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "«የምድሩ ጌታ ሰውዬ ከኛ ⟨את⟩ ጋር በከፋ ቋንቋ ተናገረ፤ እኛን ⟨את⟩ የምድር ወንበዮች አደረገን።»",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰውዬ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጌታ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "ከኛ ⟨את⟩ ጋር"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "በከፋ ቋንቋ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "አደረገን"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ እኛን",
+      "marks": "እኛን"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "ወንበዮች እንደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድርን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:00:48.210649882Z",
+  "model": "glm-5.3"
+}

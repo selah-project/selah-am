@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 20:20",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ነገር ግን እንዲህ አትበል፣ የምታውቀው ዛፍ ምግብ ያልሆነ ዛፍ ከሆነ ብቻ፣ እርሱን ⟨את⟩ ታጠፋለህ እና ትቆርጣለህ፤ ከአንተ ጋር ጦርነትን የምታደርገውን ⟨የthe⟩ ከተማ ላይ የውጊያ ቋት ትሠራለህ፣ እሷ እስኪወድቅ ድረስ።",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ነገር ግን ብቻ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ዛፍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምታውቀው"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ታውቃለህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ዛፍ"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ምግብ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ ነው"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን (ያልሆነውን ዛፍ)"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "ታጠፋለህ"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "እና ትቆርጣለህ"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "እና ትሠራለህ"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "የውጊያ ቋት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምታደርገው"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እሷ እሷ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ታደርጋለች"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ጦርነትን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪወድቅ ድረስ"
+    },
+    {
+      "surface": "רדתה",
+      "gloss": "እሷ እስኪወድቅ"
+    }
+  ],
+  "timestamp": "2026-08-17T06:25:28.504062988Z",
+  "model": "glm-5.3"
+}

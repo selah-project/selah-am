@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 20:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "አሁን አውቻለሁ፣ ያህዌህ ተቀባዩን ማዳን እንደሚያድን፤ ከቅዱስ ሰማይ ይመልሰዋል፣ በብርታት የመድኃኒት በቀኙ እጅ።",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "አውቻለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "ማዳን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ተቀባዩን"
+    },
+    {
+      "surface": "יענהו",
+      "gloss": "ይመልሰዋል"
+    },
+    {
+      "surface": "משמי",
+      "gloss": "ከሰማይ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱሱ"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "በብርታት"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "የመድኃኒት"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ቀኙ እጅ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:21.925862414Z",
+  "model": "glm-5.3"
+}

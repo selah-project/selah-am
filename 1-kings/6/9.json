@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ቤቱን ⟨את⟩ ሠራ እና አጠናቀቀው፤ ቤቱን ⟨את⟩ በአርዝ ዛፍ ዘንበሎችና በረድፎች ሸፈነ።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱን"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤቱን"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "አጠናቀቀው"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "ሸፈነ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱን"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤቱን"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "ዘንበሎች"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "ረድፎች"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "በአርዝ ዛፎች"
+    }
+  ],
+  "timestamp": "2026-08-16T06:17:07.090287116Z",
+  "model": "glm-5.3"
+}

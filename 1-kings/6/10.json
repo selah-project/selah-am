@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "በቤቱ ሁሉ ላይ የጎን ክፍሉን ⟨את⟩ ሠራ፣ ቁመቱ አምስት ክንድ ⟨is⟩፤ ቤቱን ⟨את⟩ በአርዝ ዛፍ እንጨት ያዘው።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የጎን ክፍሉን"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "የጎን ክፍሉን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ክንዶች"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ቁመቱ"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "ያዘው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱን"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤቱን"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "በ... እንጨት"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "አርዝ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:17:07.090527376Z",
+  "model": "glm-5.3"
+}

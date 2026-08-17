@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 21:10",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ካህኑም ከወንድሞቹ ታላቁ — የመቀባት ዘይት በራሱ ራስ ላይ የተቀደደ፣ ⟨את⟩ እጁን ሞሎ ለመልበስ ⟨את⟩ ልብሶችን — ⟨את⟩ ራሱን አይፈታም ልብሶቹንም አያቈርጥም።",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "ካህኑም"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ታላቁ"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "ከወንድሞቹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "יוצק",
+      "gloss": "የተቀደደ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ራሱን"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘይት"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "የመቀባት"
+    },
+    {
+      "surface": "ומלא",
+      "gloss": "ሞሎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጁን"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "ללבש",
+      "gloss": "ለመልበስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልብሶችን"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "ልብሶችን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራሱን"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ራሱን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יפרע",
+      "gloss": "አይፈታም"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "ልብሶቹንም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יפרם",
+      "gloss": "አያቈርጥም"
+    }
+  ],
+  "timestamp": "2026-08-16T14:51:58.775794184Z",
+  "model": "glm-5.3"
+}

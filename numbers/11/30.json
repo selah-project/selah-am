@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሞሼም ወደ ሰፈሩ ተመለሰ፤ ⟨እርሱም⟩ እና የእስራኤል ሽማግሌዎችም።",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ተመለሰም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ሰፈሩ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "ווזקני",
+      "gloss": "እና ሽማግሌዎች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T14:58:55.240902049Z",
+  "model": "glm-5.3"
+}

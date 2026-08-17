@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እንዲህም አለው፦ ይፍታህ እንዲህ ይላል፦ እስራኤል ⟨את⟩ የሞአብ ምድርን ወይም ⟨את⟩ የዐሞን ልጆችን ምድር አልወሰደም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "እሱን ለ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ይፍታህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል፦ አላለም"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሞአብ ምድርን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድርን የ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞአብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የዐሞን ልጆችን ምድር"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር የ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች የ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ዐሞን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:24:15.127235298Z",
+  "model": "glm-5.3"
+}

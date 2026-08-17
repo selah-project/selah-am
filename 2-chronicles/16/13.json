@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "2-chronicles 16:13",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "አሳም ከአባቶቹ ጋር ተኛ፤ በመንግሥቱ ዓመት በአርባ አንድ ሞተ።",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ተኛ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "አሳም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "አባቶቹ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "በዓመት"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "አርባ"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "በመንግሥቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:44:21.706521800Z",
+  "model": "glm-5.3"
+}

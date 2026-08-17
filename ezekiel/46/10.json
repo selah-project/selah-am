@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 46:10",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 46,
+  "translation": "እና ናሲ በእነርሱ መካከል ሲገቡ ይገባል፤ ሲወጡም ይወጣል።",
+  "tokens": [
+    {
+      "surface": "והנשיא",
+      "gloss": "እና ናሲ"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "በእነርሱ መካከል"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "ሲገቡ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ይገባል"
+    },
+    {
+      "surface": "ובצאתם",
+      "gloss": "ሲወጡም"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ይወጣል"
+    }
+  ],
+  "timestamp": "2026-08-16T17:50:06.246298271Z",
+  "model": "glm-5.3"
+}

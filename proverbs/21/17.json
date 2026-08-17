@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "የደስታን ወዳጅ የሚጓሰብ ሰው ነው፤ የሚወድ ወይንና ዘይትም ሀብታም አይሆንም።",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "የሚጓሰብ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ወዳጅ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "የደስታን"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "የሚወድ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ወይን"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "እና ዘይትም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይሆንም"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "ሀብታም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:31:28.958176780Z",
+  "model": "glm-5.3"
+}

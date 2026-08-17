@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "በቍጣ ቀን ሀብት አይጠቅምም፤ ጽድቅ ግን ከሞት ያድናል።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይጠቅምም"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "አይጠቅምም"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ሀብት"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በ…ቀን"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ቍጣ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "እና ጽድቅ"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ያድናል"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ከሞት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:26:37.408231559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 80,
+  "translation": "በእሳት የተቃጠለች የተቆረጠች ናት፤ ከፊትህ ትገሣ በተቃወምህ ይጠፋሉ።",
+  "tokens": [
+    {
+      "surface": "שרפה",
+      "gloss": "የተቃጠለች"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "የተቆረጠች"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "በተቃወምህ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህ"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ይጠፋሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:18.067367112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 62,
+  "translation": "እና ለአንተ አዶናይ ምሕረት ናት፣ ምክንያቱም አንተ ለእያንዳንዱ ሰው እንደ ሥራው ትከፍለዋለህ።",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "እና ለአንተ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ምሕረት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "ትከፍለዋለህ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ለእያንዳንዱ ሰው"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "እንደ ሥራው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:52.490103415Z",
+  "model": "glm-5.3"
+}

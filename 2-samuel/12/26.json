@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ዮአብ በዓምላቶች ረባት ላይ ተዋጋ፤ ⟨את⟩ የንጉሥነቱን ከተማም ያዘ።",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "ተዋጋ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብ"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "በረባት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ዓምላት"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ያዘ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተማዋን"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማዋን"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "የንጉሥነት"
+    }
+  ],
+  "timestamp": "2026-08-16T16:02:12.971783980Z",
+  "model": "glm-5.3"
+}

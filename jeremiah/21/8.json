@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ለዚህ ሕዝብም እንዲህ ትላለህ፣ ያህዌህ እንዲህ ይላል፤ እነሆ፣ የሕይወትን መንገድ ⟨את⟩ እና የሞትን መንገድ ⟨את⟩ በፊታችሁ እሰጣለሁ።",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "እና ለ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ለሕዝቡ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ለዚህ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ትላለህ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እነሆ እኔ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "እሰጣለሁ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "በፊታችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሕይወትን መንገድ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መንገድን"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "የሕይወትን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የሞትን መንገድ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መንገድን"
+    },
+    {
+      "surface": "המות",
+      "gloss": "የሞትን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:51:45.551143501Z",
+  "model": "glm-5.3"
+}

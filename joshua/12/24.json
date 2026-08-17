@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የትርሣህ ንጉሥ አንድ። ሁሉም ነገሥታት ሠላሳ እና ⟨את⟩ አንድ ናቸው።",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "ትርሣህ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ነገሥታት"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሠላሳ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "እና ⟨את⟩ አንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:05:02.444435011Z",
+  "model": "glm-5.3"
+}

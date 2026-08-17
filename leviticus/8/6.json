@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ሞሼም ⟨את⟩ አሃሮንን እና ⟨את⟩ የልጆቹን አቀረበ፤ እነርሱንም በውኃ አጠበ።",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "አቀረበ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አሃሮንን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የልጆቹን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "የልጆቹ"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "አጠበ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ እነርሱን"
+    },
+    {
+      "surface": "במים",
+      "gloss": "በውኃ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:47:22.018528430Z",
+  "model": "glm-5.3"
+}

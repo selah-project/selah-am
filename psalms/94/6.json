@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 94,
+  "translation": "መበልንና መጻኛን ይገድላሉ፣ ያለአባታቸውንም ይጨርሳሉ።",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "መበልን"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "እና መጻኛን"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "ይገድላሉ"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "እና ያለአባታቸውን"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "ይጨርሳሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:47.761687549Z",
+  "model": "glm-5.3"
+}

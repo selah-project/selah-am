@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 102,
+  "translation": "የተስቆረጨው ልመና በሚሸፈንበት ጊዜ ወደ ያህዌህ ፊት ምንባቡን ያፈሳል።",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "ልመና"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "የተስቆረጨው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በሚ…በት ጊዜ"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "ሲሸፈን"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ወደ ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ያፈሳል"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ምንባቡን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:40.868125207Z",
+  "model": "glm-5.3"
+}

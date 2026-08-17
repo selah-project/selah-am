@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 97,
+  "translation": "ሰማያት ጽድቁን አስተዋወቁ፤ ሕዝቦች ሁሉ ክብሩን አዩ።",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "አስተዋወቁ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ጽድቁን"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "እና አዩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ክብሩን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:38.724956624Z",
+  "model": "glm-5.3"
+}

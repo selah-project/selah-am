@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "እና ወንድ ሰው ልጁን ⟨את⟩ እገልጋይነት ሲሸጥ፣ እርሷ እንደ አገልጋዮች ⟨the⟩ መውጣት አትወጣም።",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "እና ከሆነ"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "ሲሸጥ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ወንድ ሰው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጁን"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ልጁን"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "እገልጋይነት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ወጣም"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "እንደ መውጣት"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "አገልጋዮች"
+    }
+  ],
+  "timestamp": "2026-08-16T03:21:16.337315265Z",
+  "model": "glm-5.3"
+}

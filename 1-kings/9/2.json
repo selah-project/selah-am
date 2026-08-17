@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ያህዌህ ለሰሎሞን ሁለተኛ ጊዜ በገበዓን እንደተገለጠለት ተገለጠለት።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ተገለጠ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ሁለተኛ ጊዜ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "እንደተገለጠ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "በገበዓን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:23:01.896903865Z",
+  "model": "glm-5.3"
+}

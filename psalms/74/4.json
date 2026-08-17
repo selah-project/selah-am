@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 74,
+  "translation": "ጠላቶችህ በማኅበርህ መካከል አለቁ፤ ምልክቶቻቸውን ምልክቶች አድርገው ተከሉ።",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "አለቁ"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "ጠላቶችህ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "በማኅበርህ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "አድርገው ተከሉ"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "ምልክቶቻቸውን"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "ምልክቶች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:48.769888175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ለዳዊድ፣ መዝሙር፤ ለያህዌህ ⟨ናት⟩ ምድሩ እና ሙላቷ፣ ዓለም እና በእርሷ የሚኖሩት።",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊድ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩ"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "እና ሙላቷ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ዓለም"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "እና የሚኖሩት"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሷ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:19.947062775Z",
+  "model": "glm-5.3"
+}

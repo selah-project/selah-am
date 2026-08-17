@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "እንደ ጠዋቱ ብርሃን ፀሐይ ትወጣለች — ደመና የሌለበት ጠዋት፤ እንደ ብሩህ ብርሃን እና ከዝናብ በኋላ ከምድር ሣር በቀላል ያድጋል።",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "እንደ ብርሃን"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ጠዋት"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "ትወጣለች"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ፀሐይ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ጠዋት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "ደመና"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "እንደ ብሩህ ብርሃን"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "ከዝናብ"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ሣር"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T06:12:02.078391598Z",
+  "model": "glm-5.3"
+}

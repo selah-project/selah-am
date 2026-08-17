@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 60,
+  "translation": "ሞዓብ የማጠቢያ ስህተቴ ⟨ነው⟩፤ በኤዶም ላይ ጫማዬን እወርዳለሁ፤ ፍልስጤም ሆይ፣ በእኔ ላይ ጩኸት አድርጊ።",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "ስህተት"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "ማጠቢያዬ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "እወርዳለሁ"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "ጫማዬ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "ፍልስጤም"
+    },
+    {
+      "surface": "התרועעי",
+      "gloss": "ጩኸት አድርጊ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:57.785339114Z",
+  "model": "glm-5.3"
+}

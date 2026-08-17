@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "isaiah 40:17",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ሁሉም ⟨የ⟩አሕዛብ ፊቱ ለፊቱ እንደ ከለምታ ⟨ናቸው⟩፤ ከመስኩም እና ባዶነት ሆነው ለእርሱ ተቆጠሩ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "እንደ ከለምታ"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "ፊቱ ለፊቱ"
+    },
+    {
+      "surface": "מאפס",
+      "gloss": "ከመስኩም"
+    },
+    {
+      "surface": "ותהו",
+      "gloss": "እና ባዶነት"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "ተቆጠሩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:21:28.518750854Z",
+  "model": "glm-5.3"
+}

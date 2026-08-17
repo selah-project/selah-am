@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ያዕቆብም በጣም ፈራ እና አሰቀፈ፤ ከእርሱ ጋራ ⟨את⟩ ያለውን ሕዝብና ⟨את⟩ በጎችንና ⟨את⟩ ላምቶችንና አጋመሎችን ለሁለት ሰፈሮች ከፈለ።",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "ፈራ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብም"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "እና አሰቀፈ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "ከፈለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ውን"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ከእርሱ ጋራ ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "በጎችን"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "በጎችን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ላምቶችን"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ላምቶችን"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "እና አጋመሎችን"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ለሁለት"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "ሰፈሮች"
+    }
+  ],
+  "timestamp": "2026-08-16T02:51:46.970593051Z",
+  "model": "glm-5.3"
+}

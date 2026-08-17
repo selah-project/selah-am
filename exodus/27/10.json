@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "እና ዓምዶቹ ሃያ ይሆናሉ፣ እና መሠረቶቻቸው ሃያ ናቸው — ናስ፤ የዓምዶቹ ጊዛዎች እና ቀርጾዎቻቸው ወርቅ ናቸው።",
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "እና ዓምዶቹ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ሃያ"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "እና መሠረቶቻቸው"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ሃያ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ናስ"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "እና"
+    },
+    {
+      "surface": "ווי",
+      "gloss": "ጊዛዎች"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "የዓምዶቹ"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "እና ቀርጾዎቻቸው"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ወርቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:23:59.519651463Z",
+  "model": "glm-5.3"
+}

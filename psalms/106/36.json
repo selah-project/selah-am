@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "ጣዖታቸውን ⟨את⟩ አገለገሉ፤ ሽንካሪም ሆኑላቸው።",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "አገለገሉ፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጣዖታቸውን"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ጣዖታቸውን"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ሆኑ፤"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ላቸው"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "ሽንካሪም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:49.225843540Z",
+  "model": "glm-5.3"
+}

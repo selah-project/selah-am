@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "በጋት አትናገሩ፤ አልታለቁም፤ በዕፍራህ ቤት በአፍር ተመንከሩ።",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "በጋት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "ናገሩ"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "አለቅሱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "ያጡ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "ዕፍራህ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "በአፍር"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "ተመንከሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:09:58.574228229Z",
+  "model": "glm-5.3"
+}

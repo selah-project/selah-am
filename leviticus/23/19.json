@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 23:19",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "እና አንድን የፍየል ጠጉር ለኃጢያት መሥዋዕት፣ ሁለትንም የአንድ ዓመት በጎች ለሰላም መሥዋዕት ታደርጋላችሁ።",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "እና ታደርጋላችሁ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ጠጉር ፍየል"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "የፍየል"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድን"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ለኃጢያት መሥዋዕት"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "እና ሁለትን"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "በጎች"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ… ዕድሜ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ለመሥዋዕት"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "የሰላም መሥዋዕት"
+    }
+  ],
+  "timestamp": "2026-08-16T14:47:29.461617400Z",
+  "model": "glm-5.3"
+}

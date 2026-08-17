@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ጠላቶቻችሁንም ⟨את⟩ ትከታተላችሁ፤ በሰይፍም በፊታችሁ ይወድቃሉ።",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "ትከታተላችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጠላቶቻችሁን"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ጠላቶቻችሁን"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ይወድቃሉ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "በፊታችሁ"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "በሰይፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:01:39.223943406Z",
+  "model": "glm-5.3"
+}

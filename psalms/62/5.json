@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 62,
+  "translation": "ከከገሩ ለማውረድ ብቻ ምክር ሠሩት፤ በሐሰት ደስ ይላቸዋል፤ በአፋቸው ይባርካሉ እና በውስጣቸው ይረግማሉ፤ ሴላ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "ከከገሩ"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "ምክር ሠሩት"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "ለማውረድ"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "ደስ ይላቸዋል"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "በሐሰት"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "በአፋቸው"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "ይባርካሉ"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "እና በውስጣቸው"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "ይረግማሉ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:10.723806843Z",
+  "model": "glm-5.3"
+}

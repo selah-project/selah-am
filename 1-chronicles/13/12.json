@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ዳዊትም ⟨את⟩ ኤሎሂምን በዛቱ ቀን ፈራ፤ «የኤሎሂምን ታቦ ⟨את⟩ ወደ እኔ እንዴት አስገባ?» እያለ።",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "ፈራ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂምን"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂምን"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀኑ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያንን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እያለ"
+    },
+    {
+      "surface": "היך",
+      "gloss": "እንዴት"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "አስገባ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦውን"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦውን"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T13:02:09.357680192Z",
+  "model": "glm-5.3"
+}

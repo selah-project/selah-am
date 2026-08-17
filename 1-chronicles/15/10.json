@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-chronicles 15:10",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "የዑዝዔል ልጆች፣ ዓሚናዳብ ⟨ሹም አለቃው⟩ እና ወንድሞቹ መቶ እና አሥራ ሁለት።",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ዑዝዔል"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ዓሚናዳብ"
+    },
+    {
+      "surface": "השר",
+      "gloss": "ሹም አለቃው"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "እና ወንድሞቹ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "እና ሁለት"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥራ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:54:25.450439963Z",
+  "model": "glm-5.3"
+}

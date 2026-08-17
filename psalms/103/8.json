@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 103,
+  "translation": "ያህዌህ ምሕረት የተሞላ፣ ሞቅ ያለ፣ ወደ ንዴት የዘመደ፣ በቸርነትም የበዛ ነው።",
+  "tokens": [
+    {
+      "surface": "ᨂחום",
+      "gloss": "ምሕረት የተሞላ"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "ሞቅ ያለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "የዘመደ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ወደ ንዴት"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "የበዛም"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "በቸርነት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:15.186855108Z",
+  "model": "glm-5.3"
+}

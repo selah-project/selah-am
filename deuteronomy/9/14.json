@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "deuteronomy 9:14",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ከእኔ ተውኝ፣ እያጠፋቸው ስማቸውን ⟨את⟩ ከሰማያት በታች እሰርዝዋለሁ፤ እና አንተን ⟨את⟩ ከእርሷ የበለጠ ብርቱና ብዙ ሕዝብ አደርግሃለሁ።",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "ተውኝ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "እያጠፋቸው"
+    },
+    {
+      "surface": "ואמחה",
+      "gloss": "እሰርዝዋለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስማቸውን"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ስማቸውን"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "በታች"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ከሰማያት"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "አደርግሃለሁ"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "አንተን ⟨את⟩",
+      "marks": "አንተን"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "ብርቱ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "እና ብዙ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእርሷ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:39:29.794925541Z",
+  "model": "glm-5.3"
+}

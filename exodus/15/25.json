@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "exodus 15:25",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ወደ ያህዌህ ጮኸ፤ ያህዌህ ዛፍ አሳየው፤ ወደ ⟨የ⟩መረቡ ውኃ ቀረጸው፤ መረቡ ውኃ ጣፈጠ። በዚያ ለእርሱ ሕግና ፍርድ አደረገ፤ በዚያም ፈተነው።",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ጮኸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויורהו",
+      "gloss": "አሳየው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ዛፍ"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ቀረጸው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውኃ"
+    },
+    {
+      "surface": "וימתקו",
+      "gloss": "ጣፈጠ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውኃ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ሕግ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "እና ፍርድ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "በዚያም"
+    },
+    {
+      "surface": "נסהו",
+      "gloss": "ፈተነው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:14:33.641788940Z",
+  "model": "glm-5.3"
+}

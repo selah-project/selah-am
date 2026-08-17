@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "«አሁንም አንድ ጥያቄ ነው ከአንቺ ⟨את⟩ የምለምንሽ፤ ፊቴን ⟨את⟩ አትመልሺብኝ»፤ እርሷም እርሱን «ተናገር» አለችው።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "አሁንም"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "ጥያቄ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "የምለምንሽ"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "ከአንቺ ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አ"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "ትመልሺብኝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊቴን"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊቴን"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "አለችው"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገር"
+    }
+  ],
+  "timestamp": "2026-08-16T06:13:47.491391884Z",
+  "model": "glm-5.3"
+}

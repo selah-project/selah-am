@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "ተበርዘዣለሁ እና እጅግ ተሰብራለሁ፤ ከልቤ ምንጫቅ በደለኝ ጮኸያለሁ።",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "ተበርዘዣለሁ"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "እና ተሰብራለሁ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "እጅግ"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "ጮኸያለሁ"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "ከምንጫቁ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:07.591008917Z",
+  "model": "glm-5.3"
+}

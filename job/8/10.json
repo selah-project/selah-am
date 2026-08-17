@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "job 8:10",
+  "book": "job",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እነሱ አይምሩህም ወይ? ይናገሩሃል እና ከልባቸው ቃላትን ያወጣሉ።",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "አይደለም ወይ?"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እነሱ"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "ያስተምሩሃል"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ይናገራሉ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "ומלבם",
+      "gloss": "እና ከልባቸው"
+    },
+    {
+      "surface": "יוצאו",
+      "gloss": "ያወጣሉ"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "ቃላትን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:42:13.084369001Z",
+  "model": "glm-5.3"
+}

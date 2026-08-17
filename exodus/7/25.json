@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ያህዌህ ⟨את⟩ ወንዙን ከመታው በኋላ ሰባት ቀናት ተፈጸሙ።",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "ተፈጸሙ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ… በኋላ"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "መታው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንዙን"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ወንዙን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:10:34.134294641Z",
+  "model": "glm-5.3"
+}

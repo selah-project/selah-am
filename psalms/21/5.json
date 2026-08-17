@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ሕይወትን ከአንተ ጠየቀ፤ ለእርሱ ሰጠህ፤ የቀናት ርዝመትን ለዘለበትና ለዘላለም።",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "ሕይወትን"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ጠየቀ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ከአንተ"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ሰጠህ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ርዝመትን"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "የቀናት"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ለዘለበት"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ና ለዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:52.862616749Z",
+  "model": "glm-5.3"
+}

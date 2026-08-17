@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "የተረገመ በመንገድ ላይ ዕውሩን የሚያስታስብ ሰው፤ ሕዝቡ ሁሉ አሜን ይላል።",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "የተረገመ"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "የሚያስታስብ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ዕውሩን"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገድ ላይ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "አሜን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:51:37.725318133Z",
+  "model": "glm-5.3"
+}

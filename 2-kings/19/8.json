@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ራብሳቄህ ተመለሰ፤ ⟨את⟩ የአሦር ንጉሥ በሊብና ላይ እየተዋጋ አገኘው፤ ከላኪሽ እንደ ነሳ ስለ ሰማ ነው።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ዋና"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "ራብሳቄህ"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "አገኘው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የአሦር ንጉሥ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "አሦር"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "እየተዋጋ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ሊብና"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "ነሳ"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "ከላኪሽ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:51:35.302137181Z",
+  "model": "glm-5.3"
+}

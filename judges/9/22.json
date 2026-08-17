@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "አቢሜሌክም በእስራኤል ላይ ሦስት ዓመታት ገዛ።",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "ገዛም"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "አቢሜሌክ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    }
+  ],
+  "timestamp": "2026-08-16T15:28:42.666868846Z",
+  "model": "glm-5.3"
+}

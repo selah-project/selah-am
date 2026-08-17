@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "እነዚህም ⟨እነሱ⟩ ፍርዶች ⟨ናቸው⟩ እንዲያስቀምጣቸው በመልካቸው ፊት።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እነዚህም"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ፍርዶች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንዲያስቀምጣቸው"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ታስቀምጣል"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "በፊታቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:22:33.362516831Z",
+  "model": "glm-5.3"
+}

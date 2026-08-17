@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ለመንፈቃኹም ውሃ አልነበረም፤ በሞሼም ላይ፣ በአሃሮንም ላይ ተሰበሰቡ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "አልነበረም፤"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበር"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "ለመንፈቃኹም"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "ተሰበሰቡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "በሞሼም"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "በ...ም ላይ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "በአሃሮንም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:20:47.692696281Z",
+  "model": "glm-5.3"
+}

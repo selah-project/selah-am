@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 2:7",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እንደ ሆነ ያህዌህ አምላክህ (ኤሎሂም) በእጅህ ሥራ ሁሉ ባረከህ፤ በዚህ ታላቅ ምድረ በዳ ⟨את⟩ መሄድህን አውቆ ነው — ይህ አርባ ዓመት ያህዌህ አምላክህ (ኤሎሂም) ከአንተ ጋር ነበር፤ አንድ ነገር አልተነከለህም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ ሆነ\/ምክንያቱም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂም አምላክህ"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "ባረከህ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "የእጅህ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "አውቆ"
+    },
+    {
+      "surface": "לכתך",
+      "gloss": "መሄድህን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታላቁን ምድረ በዳ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ምድረ በዳውን"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ታላቁን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "አርባ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂም አምላክህ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "חסרת",
+      "gloss": "አልተነከለህም\/አልጎደለህም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ነገር"
+    }
+  ],
+  "timestamp": "2026-08-16T14:59:23.400791409Z",
+  "model": "glm-5.3"
+}

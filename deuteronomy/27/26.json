@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "የተረገመ የዚህን ታሮታ ⟨את⟩ ቃላት ለማክሸፍ ለመፈጸም ⟨את⟩ እነሱን የማይነሣ፤ ሕዝቡም በሙሉ ይላል። አሜን።",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "የተረገመ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚያክሸፍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይነሣም"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "የማይነሣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላትን"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "የታሮታ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "የዚህን"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ለመፈጸም"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ እነሱን",
+      "marks": "ቃላቱን"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ይላልም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "አሜን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:51:36.649098705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "የዚህ ሕዝብ አስተማሪዎች ሕዝቡን ያሳስታሉ፤ የተመሩትም ይዋጣሉ።",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "እነሱ ናቸው"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "አስተማሪዎች"
+    },
+    {
+      "surface": "העם",
+      "gloss": "የሕዝቡ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "ያሳስታሉ"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "እና የተመሩትም"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "ይዋጣሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:03:00.610282674Z",
+  "model": "glm-5.3"
+}

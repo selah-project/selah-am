@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "እና ⟨את⟩ የመቃጠል መሠዊያውን እና ⟨את⟩ ሁሉን ዕቃዎቹን እና ⟨את⟩ ማጠቢያውን እና ⟨את⟩ እግሩን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መሠዊያውን"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠዊያውን"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "የመቃጠል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ዕቃዎቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ማጠቢያውን"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ማጠቢያውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "እግሩን"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "እግሩን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:28:14.209468615Z",
+  "model": "glm-5.3"
+}

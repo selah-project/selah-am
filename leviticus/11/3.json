@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እንስሳ ከሆነ ሁሉ እግሩን የሚከፍል እና እግሩ በሙሉ በሁለት የተከፈለ የሚያመልጥ ከሆነ፣ ያንን ⟨את⟩ ይበሉ፤",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "የሚከፍል"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "እግር"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "እና የተከፈለች"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "ክፍል"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "እግር"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "የሚያመልጥ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ገራህ"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "ከእንስሳ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ያንን"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ይበሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:49:19.040549446Z",
+  "model": "glm-5.3"
+}

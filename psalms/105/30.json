@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "ምድራቸው እንቁራሪዎችን አፈራች፤ በነገሥታታቸው ክፍሎች ውስጥ ሁሉ።",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "አፈራች"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ምድራቸው"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "እንቁራሪዎችን"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "በክፍሎች ውስጥ"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "ነገሥታታቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:04.484828585Z",
+  "model": "glm-5.3"
+}

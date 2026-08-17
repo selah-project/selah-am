@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ካህኑም እነሱን ⟨את⟩ ከየበኩር ዳቦ ጋር በያህዌህ ፊት ማንሳት እንዲሆን ከሁለቱ በጎች ጋር ያንሳል፤ ለያህዌህ ቅዱስ ሆነው ለካህኑ ⟨ይሆናሉ⟩።",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "እና ያንሳል"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን (በጎቹንና ዳቦውን)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦ"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "የበኩር"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "ማንሳት"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ… ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለቱ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "በጎች"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ይሆናሉ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ለካህኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:47:29.461839365Z",
+  "model": "glm-5.3"
+}

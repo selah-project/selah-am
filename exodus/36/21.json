@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "የ⟨the⟩ ሰሌዳ ርዝመት አሥር ክንድ ነው፤ የ⟨the⟩ አንዱ ሰሌዳ ወርድ ደግሞ አንድ ክንድ እና ግማሽ ነው።",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ክንድ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ርዝመት"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ሰሌዳው"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "እና አንድ ክንድ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "እና ግማሽ"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ክንዱ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ወርድ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ሰሌዳው"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "አንዱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:37:03.888155248Z",
+  "model": "glm-5.3"
+}

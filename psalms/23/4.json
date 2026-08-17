@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "እንዲሁም በሞት ጥላ ተሻጋሪ ላልሄድም፣ ክፉ አልፈራም፤ አንተ ጋር ስለሆንኸ ነው። በትርህና መተስታሽህ እነሆ እነሠውኛሉ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ቢሆንም\/ላልሄድም ቢሆን"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "እሄዳለሁ"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "በ…ተሻጋሪ\/ሸለት"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "ሞት ጥላ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ፈራም"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለሆነኸ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ጋር\/ከእኔ"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "በትርህ"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "እና መተስታሽህ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነሠም\/እነርሱ"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "ያጽናኑኛሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:48.863488001Z",
+  "model": "glm-5.3"
+}

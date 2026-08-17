@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 32:6",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ለያህዌህ ይህን ታስገባላችሁን? የሞኝና የሌለው ጥበብ ሕዝብ ሆይ! ⟨እርሱ⟩ አባታችሁ የሆነ፣ የገዛህ ሆኖ አልነበረም? ⟨እርሱ⟩ አድርጎሃል፣ አብሮ አድኖሃል።",
+  "tokens": [
+    {
+      "surface": "ה",
+      "gloss": "ታስገባላችሁን?"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "תגמלו",
+      "gloss": "ታስገባላችሁ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ ሆይ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "የሞኝ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "የሌለው ጥበብ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "አልነበረም?"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨እርሱ⟩"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "አባታችሁ\/አባትህ"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "የገዛህ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨እርሱ⟩"
+    },
+    {
+      "surface": "עשך",
+      "gloss": "አድርጎሃል"
+    },
+    {
+      "surface": "ויכננך",
+      "gloss": "አብሮ አድኖሃል"
+    }
+  ],
+  "timestamp": "2026-08-17T06:33:51.574135853Z",
+  "model": "glm-5.3"
+}

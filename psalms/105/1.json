@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "ለያህዌህ አመስግኑ፤ በስሙ ጥሩ፤ በሕዝቦች መካከል አድራጊነቱን ያውቁ።",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "አመስግኑ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ጥሩ"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "በስሙ"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "ያውቁ"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "በሕዝቦች መካከል"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "አድራጊነቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:27.203230083Z",
+  "model": "glm-5.3"
+}

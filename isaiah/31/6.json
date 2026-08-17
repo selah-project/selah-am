@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "isaiah 31:6",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ወደ ⟨እርሱ⟩ ተመለሱ፣ ወደ ጥልቅ መገርሐት ያለቁት፣ የእስራኤል ልጆች ሆይ።",
+  "tokens": [
+    {
+      "surface": "שובו",
+      "gloss": "ተመለሱ"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "ወደ ⟨እርሱ⟩"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "በጥልቀት ያለቁ"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "መገርሐት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:14:32.728768413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "ጉልበቶቼ ከቆሎ ደከሙ፤ ሥጋዬም ስብን አጥቷል።",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "ጉልበቶቼ"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ደከሙ"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "ከቆሎ"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "ሥጋዬም"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "አጥቷል (ኮሐሰ)"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ስብን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:35.404456307Z",
+  "model": "glm-5.3"
+}

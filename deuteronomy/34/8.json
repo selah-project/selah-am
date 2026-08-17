@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "deuteronomy 34:8",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "የእስራኤል ልጆችም ⟨את⟩ ሞሼን በሞአብ ሜዳዎች ሰላሳ ቀን አለቀሱ፤ የአለቅሶና የሐዘን ቀናትም ለሞሼ ተፈጸሙ።",
+  "tokens": [
+    {
+      "surface": "ויבכו",
+      "gloss": "አለቀሱ፤"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆችም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሼን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼን"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "በሜዳዎች"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞአብ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሰላሳ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "ויתמו",
+      "gloss": "ተፈጸሙ።"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀናትም"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "የአለቅሶ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "የሐዘን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ለሞሼ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:57:09.505272719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "እና ለራሳችሁ ከሰንበት መንገድ ጀምሮ እናንተ ⟨את⟩ የመንደፈውን ኦሜር ከማመጣችሁ ቀን ጀምሮ ታሠራላችሁ፤ ሰባት ሙሉ ሰንበታት ይሆናሉ።",
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "እና ታሠራላችሁ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለራሳችሁ"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ከመንገድ ጀምሮ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "የሰንበት"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ከቀን ጀምሮ"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "ማመጣችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኦሜር"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "ኦሜር"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "የመንደፈ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "ሰንበታት"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "ሙሉ"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ይሆናሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:47:36.309298836Z",
+  "model": "glm-5.3"
+}

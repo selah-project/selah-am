@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ምክንያቱም በረከቶችን ለዘላለም ታደርገዋለህ፤ በፊትህ ⟨את⟩ ሐሤት ታስደስተዋለህ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "ታደርገዋለህ"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "በረከቶችን"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "ታስደስተዋለህ"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "በሐሤት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊትህን"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:52.863085165Z",
+  "model": "glm-5.3"
+}

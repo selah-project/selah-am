@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "isaiah 49:15",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "ሴት የራሷን ጨካኝ ሕፃን ትረሳለችን? ከሆዷ ልጅን? እነዚህም ቢረሱም፣ እኔ ግን አልረሳህም።",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "ትረሳለችን?"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "የራሷን ጨካኝ ሕፃን"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ከሆዷ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅን"
+    },
+    {
+      "surface": "בטנה",
+      "gloss": "ከሆዷ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እነዚህም"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "תשכחנה",
+      "gloss": "ቢረሱም"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "ረሳህም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:24:40.808796836Z",
+  "model": "glm-5.3"
+}

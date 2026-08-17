@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "አንተም ሆይ በኪዳንህ በደም ⟨את⟩ በውሃ ባልባት ጉድጓድ ያሉ ታሳሪዎችህን ላክሃለሁ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "את",
+      "gloss": "አንተ",
+      "notes": "ይህ את ምልክት ሳይሆን ብዙ ነጠላ ቃል ነው"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "በደም"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "በኪዳንህ"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ላክሃለሁ"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "ታሳሪዎችህን"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "ከጉድጓድ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የሌለ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በውስጡ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:09:10.967907573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "jeremiah 12:3",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "አንተ ግን ያህዌህ ታውቀኛል፣ ታየኛል፣ ልቤን ከአንተ ⟨את⟩ ጋር ፈትነሃል፤ እንስቶች ሆነው ለመታረድ አንጥላቸው፣ ለመግደል ቀን ቀድሰሃቸው።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተ ግን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "ታውቀኛል"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "ታየኛል"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "ፈትነሃል"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤን"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ከ⟨את⟩ ጋር",
+      "marks": "አንተ"
+    },
+    {
+      "surface": "התקם",
+      "gloss": "አንጥላቸው"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "እንስቶች ሆነው"
+    },
+    {
+      "surface": "לטבחה",
+      "gloss": "ለመታረድ"
+    },
+    {
+      "surface": "והקדשם",
+      "gloss": "ቀድሰሃቸው"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ለቀን"
+    },
+    {
+      "surface": "הרגה",
+      "gloss": "መግደል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:45:47.803773987Z",
+  "model": "glm-5.3"
+}

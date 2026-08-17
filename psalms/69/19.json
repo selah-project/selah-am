@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "ለነፍሴ ቅርብ ሆነህ አድነኝ፤ በጠላቶቼ ምክንያት ፈውሰኝ።",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "ቅርብ ሆነህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "አድነኝ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "በ…ምክንያት"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ጠላቶቼ"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "ፈውሰኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:01.097920665Z",
+  "model": "glm-5.3"
+}

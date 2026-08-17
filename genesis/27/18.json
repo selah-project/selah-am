@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "እርሱም ወደ አባቱ መጣ፤ «አባቴ» አለ፤ እርሱም «እነሆ እኔ አለሁ፤ ተራህ ማን ነህ ልጄ?» አለ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባቴ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እነሆ እኔ አለሁ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ተራህ ነህ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጄ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:46:43.057836737Z",
+  "model": "glm-5.3"
+}

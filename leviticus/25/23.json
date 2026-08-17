@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 25:23",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ምድሪቱም ለዘላለም ለመሸጥ አይሸጡም፤ ምክንያቱም ምድሪቱ የእኔ ናት፤ ምክንያቱም እናንተ ከእኔ ጋር እንግዶችና መኖሪዎች ናችሁና።",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "ምድሪቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይሸጡም፤ አይ"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "ለመሸጥ ትሸጣለች"
+    },
+    {
+      "surface": "לצמתת",
+      "gloss": "ለዘላለም ለመጥፋት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לי",
+      "gloss": "የእኔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪቱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "እንግዶች"
+    },
+    {
+      "surface": "ותושבים",
+      "gloss": "እና መኖሪዎች"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ናችሕ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ከእኔ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T14:46:46.876917144Z",
+  "model": "glm-5.3"
+}

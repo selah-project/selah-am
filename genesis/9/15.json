@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "genesis 9:15",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "በኔ እና በእናንተ እና በሁሉም ሥጋ ውስጥ ባለ እያንዳንዱ ሕያው ነፍስ መካከል ያለውን ⟨את⟩ ኪዳኔ አስታውሳለሁ፤ ውኃውም ሁሉን ሥጋ ለማጥፋት እንደ ጥፋት ውኃ እንደገና አይሆንም።",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "አስታውሳለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኪዳኔ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳኔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለው"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "በኔ መካከል"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "እና በእናንተ መካከል"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እና በ…መካከል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉም"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ…ም"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆንም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "እንደገና"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውኃው"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "እንደ ጥፋት ውኃ"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "ለማጥፋት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:33:38.245581891Z",
+  "model": "glm-5.3"
+}

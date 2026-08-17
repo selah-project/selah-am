@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ያህዌህም ለቃየን አለ፤ ስለ ምን ተቆጣህ? ስለ ምንስ ፊትህ ወረደ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "ቃየን"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ስለ ምን"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ተቆጣህ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ህ"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "እና ስለ ምን"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ወረደ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:07.939008636Z",
+  "model": "glm-5.3"
+}

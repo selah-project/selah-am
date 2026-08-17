@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 55:11",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 55,
+  "translation": "እንደዚሁ ከአፌ የሚወጣ ቃሌ ይሆናል፤ ባỶስ ሆኖ አይመለስልኝም፤ ከዚያስ ያለ የፈለኩትን ⟨את⟩ አድርጎ፣ ወደ ላኩበትም ይበረታል።",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "እንደዚሁ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃሌ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ይወጣ"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "ከአፌ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ይመለስም"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "እሴ"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ባỶስ ሆኖ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከዚያስ ያለ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ካል"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አድርጎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የፈለኩትን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ፈለኩትን"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "ይበረታልም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "שלחתיו",
+      "gloss": "ላኩበት"
+    }
+  ],
+  "timestamp": "2026-08-16T17:04:12.831408680Z",
+  "model": "glm-5.3"
+}

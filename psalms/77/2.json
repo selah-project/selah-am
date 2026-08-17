@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 77,
+  "translation": "ድምፄ ወደ ኤሎሂም ⟨ነው⟩ እና እጮኻለሁ፤ ድምፄ ወደ ኤሎሂም ⟨ነው⟩ እና ወደ እኔ ያዳምጣል።",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ድምፄ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "እና እጮኻለሁ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ድምፄ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "እና ያዳምጣል"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:45.406979495Z",
+  "model": "glm-5.3"
+}

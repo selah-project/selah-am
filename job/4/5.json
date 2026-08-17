@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ነገር ግን አሁን ወደ አንተ ሲመጣ ትደክማለህ፤ እስከ አንተ ሲደርስ ትፈራለህ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ሲመጣ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "ትደክማለህ"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "ሲደርስ"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "እስከ አንተ"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "ትፈራለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:39:14.262615494Z",
+  "model": "glm-5.3"
+}

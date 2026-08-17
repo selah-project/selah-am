@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "amos 7:16",
+  "book": "amos",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እና አሁን የያህዌህን ቃል ስማ፤ አንተ ታለቃለህ «በእስራኤል ላይ አትተነብይ፣ በይስሐቅ ቤት ላይም አታፈስም» ብለህ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "እና አሁን"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ስማ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃልን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ታለቃለህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תנבא",
+      "gloss": "ትተነብይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና...አታ"
+    },
+    {
+      "surface": "תטיף",
+      "gloss": "ታፈስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ይስሐቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:10:04.531116197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "አትገፋውም ጓደኛህን ⟨את⟩፣ አትቀምጥም በዘፈቀደ፤ የተቀጠረው ሥራ ደመወዝ ከአንተ ጋር ⟨את⟩ እስከ ንጋት ድረስ አይቀመጥም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አትገፋውም"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "አትቀፍዕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጓደኛህን"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ጓደኛህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "አትቀምጥ በዘፈቀደ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "ይቀመጣም"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "የሥራ"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "የተቀጠረው"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ከአንተ ጋር ⟨את⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ንጋት ድረስ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:56:11.691649511Z",
+  "model": "glm-5.3"
+}

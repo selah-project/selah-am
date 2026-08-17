@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ርእዩ ደግሞ እንደ ወለደ በኋላ የሰሩግ አባት መቶ ሰባት ዓመት እና ⟨את⟩ ሰሩግን ወለደ፤ ወንዶችንም እና ሴቶችንም ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ኖረ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "ርእዩ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ... በኋላ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "እንደ ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰሩግን"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "ሰሩግ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "እና መቶ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደም"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ወንዶችን"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "እና ሴቶችን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:19.282963645Z",
+  "model": "glm-5.3"
+}

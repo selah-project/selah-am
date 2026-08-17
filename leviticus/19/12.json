@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እና በስሜ ሐሰትን አትምሱም፣ የኤሎሂምህን ስም ⟨את⟩ ታረክሰዋለህ — እኔ ያህዌህ ነኝ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "እና አት…ም"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "አትምሱ"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "በስሜ"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "ሐሰትን"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "እና ታረክሰዋለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "የኤሎሂምህ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:55:54.899196531Z",
+  "model": "glm-5.3"
+}

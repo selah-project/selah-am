@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ስለዚህ ሳሙኤል ⟨את⟩ ሕዝቡን ወደ ያህዌህ በሚጽፋ አሰባቸው።",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "አሰባቸው።"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "በሚጽፋ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:37:04.796503903Z",
+  "model": "glm-5.3"
+}

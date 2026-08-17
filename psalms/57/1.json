@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 57,
+  "translation": "ለመዝማሪ፤ «አታጥፋ»፤ ለዳዊድ ሚክታም፤ ከሳኦል ፊት በሸሸ ጊዜ በዋሻ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመዝማሪ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አታ"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "አጥፋ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊድ"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ሚክታም"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "በሸሸ ጊዜ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከፊት"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "በዋሻ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:47:35.719131032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እርሱም ⟨את⟩ እነዚህን ከተሞች፣ ⟨את⟩ መላውን ሜዳ እና ⟨את⟩ የከተሞቹን ነዋሪዎች ሁሉ እና የምድሩን ቡቃያ ገለበጠ።",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "ገለበጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እነዚህን ከተሞች"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ከተሞች"
+    },
+    {
+      "surface": "האל",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መላውን ሜዳ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ሜዳ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የከተሞቹን ነዋሪዎች ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ነዋሪዎች"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "የከተሞች"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "እና ቡቃያ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "የምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T02:39:21.799789421Z",
+  "model": "glm-5.3"
+}

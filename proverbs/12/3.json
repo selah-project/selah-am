@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "በክፋት ሰው አይጸናም፤ የጻድቃን ሥር ግን ፈጽሞ አይናወጥም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ይጸናል"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "በክፋት"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "እና ሥር"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "የጻድቃን"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ፈጽሞ"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "አይናወጥም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:27:04.156326864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 79,
+  "translation": "የአገልጋዮችህን ብላታ ለሰማይ ወፎች ምግብ ሰጡ፤ የቅዱሳንህን ሥጋ ለምድር አራዊት ሰጡ።",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "ሰጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የአገልጋዮችህን ብላታ"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "ብላታ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "የአገልጋዮችህ"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ምግብ"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "ለወፎች"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማይ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "የቅዱሳንህ"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "ለአራዊት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:57:33.843178120Z",
+  "model": "glm-5.3"
+}

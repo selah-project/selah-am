@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ያህዌህ ኤሎሂምም ⟨את⟩ ሰውን ከምድር አፈር አሰራው፤ የሕይወትን እስትንፋስም በአፍነቱ በነፈሰ ዘንድ ሰው ሕያው ነፍስ ሆነ።",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "አሰራው \/ አበጠበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰውን"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰውን"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "አፈር"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "በነፈሰ"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "በአፍነቱ"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "እስትንፋስ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "የሕይወት"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ሕያው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:17.633264066Z",
+  "model": "glm-5.3"
+}

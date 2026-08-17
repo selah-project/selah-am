@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "2-kings 16:4",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ሠዋ፣ በከፍታ ስፍራዎች እና በኮረብታዎች ላይ ዕጣን አቀለጠ፣ እንዲሁም በየለምጹ ዛፍ ሥር ሁሉ።",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "ሠዋ"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ዕጣን አቀለጠ"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "በከፍታ ስፍራዎች"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ…ላይ"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "በኮረብታዎች"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "እና በ…ሥር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ዛፍ"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "ለምጹ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:49:16.385790869Z",
+  "model": "glm-5.3"
+}

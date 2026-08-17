@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "ezekiel 12:21",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የያህዌህ ቃል በእኔ ላይ ሆኖ እንዲህ ሲል መጣ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆኖ መጣ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T08:22:05.322380475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "ይህ ከያህዌህ ⟨את⟩ የአጥቂዎቼ ውጤት ነው፣ እና በነፍሴ ላይ ክፉ የሚናገሩትም።",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ውጤት"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "የአጥቂዎቼ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ከያህዌህ (ማለት «ከ» ከተባበረው את ጋር)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "እና የሚናገሩትም"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "በነፍሴ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:07.958374310Z",
+  "model": "glm-5.3"
+}

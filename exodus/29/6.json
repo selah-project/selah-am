@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "እና ቱሪባኑን በራሱ ላይ ታኖረዋለህ፤ የቅድሳት አክሊልንም ⟨את⟩ በቱሪባኑ ላይ ታኖረዋለህ።",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ታኖረዋለህ"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ቱሪባኑን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ራሱ"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ታኖረዋለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የቅድሳት አክሊልን"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "አክሊል"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "የቅድሳት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ቱሪባኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:27:59.141414424Z",
+  "model": "glm-5.3"
+}

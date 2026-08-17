@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 10:15",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እነዚህን ቃላት ሲናገረኝ ፊቴን ወደ ምድር ወረውርሁ እና ድምፅ ተቆርጬ ውረድ አልኩ።",
+  "tokens": [
+    {
+      "surface": "ובדברו",
+      "gloss": "ሲናገረኝ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ከእኔ ጋር"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "እነዚህን ቃላት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ወረውርሁ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊቴን"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ወደ ምድር"
+    },
+    {
+      "surface": "ונאלמתי",
+      "gloss": "ድምፅ ተቆርጬ ውረድ አልኩ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:27:48.964069726Z",
+  "model": "glm-5.3"
+}

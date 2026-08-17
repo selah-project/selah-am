@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "በነቢዩ ናታን እጅ ላከ፤ ⟨את⟩ ስሙን ይዲዲያህ ብሎ ጠረ፤ ስለ ያህዌህ ነው።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በ…እጅ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ናታን"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነቢዩ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሙን"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "ይዲዲያህ"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:02:12.970759887Z",
+  "model": "glm-5.3"
+}

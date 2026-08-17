@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "ሰማያት ድንቃህን ያወሣሉ፣ ያህዌህ ሆይ፣ እንዲሁም ታማኝነትህ በቅዱሳን ጉባኤ ውስጥ።",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "ያወሣሉ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "ድንቃህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ታማኝነትህ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "በጉባኤ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ቅዱሳን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:54.997738880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ሰሎሞን ወደ ሐማት-ጾባ ሄዶ በእርሷ ላይ አመላለጸ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄዶ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ሐማት"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ጾባ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "አመላለጸ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "በእርሷ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:35:26.145618601Z",
+  "model": "glm-5.3"
+}

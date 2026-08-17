@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "ruth 2:15",
+  "book": "ruth",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እርሷም ለመሰብሰብ ተነሳች፤ ብዓዝም ⟨את⟩ ወጣቶቹን እንዲህ ብሎ አዘዛቸው፦ ደግሞ በአምባሮቹ መካከል ትሰበስብ፣ አታሳፈቷትም።",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "ተነሳች"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "ለመሰብሰብ"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "አዘዛቸው"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ብዓዝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወጣቶቹን"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "ወጣቶቹን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "העמרים",
+      "gloss": "በአምባሮቹ"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "ትሰበስብ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አታ"
+    },
+    {
+      "surface": "תכלימוה",
+      "gloss": "ሳፈቷት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:07:11.262572802Z",
+  "model": "glm-5.3"
+}

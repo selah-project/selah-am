@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "ያለ እውቀት ምክርን የሚደብቅ ይህ ማን ነው? ስለዚህ ያልገባኝን ተናገርሁ፤ እኔን የማያውቅኋቸው ተአምራት ናቸው።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "የሚደብቅ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ምክርን"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ያለ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "እውቀት"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ተናገርሁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ያል"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "ገባኝን"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ተአምራት"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "እኔን የማያውቅኋቸው"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እኔም አላውቅም"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "አውቅ አል"
+    }
+  ],
+  "timestamp": "2026-08-16T11:02:02.054464470Z",
+  "model": "glm-5.3"
+}

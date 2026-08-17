@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "እና ⟨את⟩ የኃጢአት መስዋዕት የሆነውን በሬ ታንሳለህ፣ በቤቱ በተመሰረተበት ስፍራ ከመቅደሱ ውጭ ታቃጥለዋለህ።",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ታንሳለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በሬውን"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "በሬ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "የኃጢአት መስዋዕት"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "ታቃጥለዋለህ"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "በተመሰረተበት ስፍራ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "የቤቱ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ውጭ"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "ከመቅደሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:51:47.178414500Z",
+  "model": "glm-5.3"
+}

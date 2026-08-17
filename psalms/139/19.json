@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 139,
+  "translation": "አንተ ብትገድል ኤሎሃ ዓመፀኛውን — እና የደም ሰዎች ሆይ፣ ከእኔ ራቁ!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "አንተ ብትገድል"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "ብትገድል"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ኤሎሃ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ዓመፀኛውን"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "እና የ… ሰዎች"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "ራቁ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ከእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:24.007965016Z",
+  "model": "glm-5.3"
+}

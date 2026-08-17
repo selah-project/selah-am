@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "እንደ ክብ በዙሪያህ አሠፍራለሁ፤ በምሽግ አጠራብሻለሁ፤ በአንተም ላይ ድንጋይ-ደግጌዎችን አቆምሳለሁ።",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "አሠፍራለሁ"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "እንደ ክብ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "በዙሪያህ"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "አጠራብሻለሁ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "በአንተ ላይ"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "ምሽግ"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "አቆምሳለሁ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "በአንተ ላይ"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "ድንጋይ-ደግጌዎችን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:14:22.469203001Z",
+  "model": "glm-5.3"
+}

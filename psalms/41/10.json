@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "እንዲሁም ሰው፣ የሰላምዬ፣ በእርሱ ያመንኩት፣ የእኔን እንጀራ የሚበላ፣ ቁርጭቱን በእኔ ላይ አሳደገ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "የሰላምዬ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነው"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ያመንኩ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "የሚበላ"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "የእኔን እንጀራ"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "አሳደገ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ቁርጭቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:38.991659785Z",
+  "model": "glm-5.3"
+}

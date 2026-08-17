@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "1-kings 2:12",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እና ሰሎሞን በአባቱ በዳዊት ዙፋን ላይ ተቀመጠ፤ የንግሥቱም በጣም ተጠናከረ።",
+  "tokens": [
+    {
+      "surface": "ושלמה",
+      "gloss": "እና ሰሎሞን"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ተቀመጠ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ዙፋን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "እና ተጠናከረ"
+    },
+    {
+      "surface": "מלכתו",
+      "gloss": "ንግሥቱ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:13:41.125901521Z",
+  "model": "glm-5.3"
+}

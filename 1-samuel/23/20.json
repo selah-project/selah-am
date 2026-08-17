@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "1-samuel 23:20",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "አሁንም ንጉሡ ሆይ፣ የነፍስህ ምኞት ሁሉ ለመውረድ ከሆነ ውረድ፤ በንጉሡም እጅ ለመስጠቁ የእኛ ድርሻ ነው።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "አሁንም"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אות",
+      "gloss": "ምኞት"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "የነፍስህ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ ሆይ"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ለመውረድ"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ውረድ"
+    },
+    {
+      "surface": "ולנו",
+      "gloss": "የእኛ"
+    },
+    {
+      "surface": "הסגירו",
+      "gloss": "ለመስጠቁ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በ…እጅ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:47:13.844323102Z",
+  "model": "glm-5.3"
+}

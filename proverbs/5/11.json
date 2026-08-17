@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "proverbs 5:11",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "በመጨረሻህም ትንዘፋለህ፣ ሥጋህ እና አካልህ ሲሟጠጥ።",
+  "tokens": [
+    {
+      "surface": "ונהמת",
+      "gloss": "ትንዘፋለህም"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "በመጨረሻህ"
+    },
+    {
+      "surface": "בכלות",
+      "gloss": "ሲሟጠጥ"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "ሥጋህ"
+    },
+    {
+      "surface": "ושארך",
+      "gloss": "አካልህንም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:21:15.025023873Z",
+  "model": "glm-5.3"
+}

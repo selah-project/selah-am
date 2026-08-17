@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "እኛም ለጌታችን እንዲህ አልናት። «ትንሹ ልጅ ⟨את⟩ አባቱን መተው አይችልም፤ እርሱም ⟨את⟩ አባቱን ቢተው፣ አባቱ ይሞታል።»",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "አልናት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጌታችን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይችልም"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "መቻል"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ትንሹ ልጅ"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "መተው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አባቱን"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱን"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ቢተው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አባቱን"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱን"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ይሞታል"
+    }
+  ],
+  "timestamp": "2026-08-16T02:59:34.434468626Z",
+  "model": "glm-5.3"
+}

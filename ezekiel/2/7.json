@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ቃሌንም ⟨את⟩ ወደ እነሱ ታወራለህ፣ እየሰሙ ወይም እየተወቁ የሆነ ከሆነ እነሱ መጣማቂያ ናቸው።",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "ታወራለህ፣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃሌን"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃሌን"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ወደ እነሱ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እየሰሉ ወይ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "እየሰሙ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ወይም እንደተወቁ"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "እየተወቁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "መጣማቂያ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነሱ ናቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T08:17:47.768109774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የትሁታንን ምኞት ሰምተሃል ያህዌህ ሆይ፤ ልባቸውን ታዘጋለህ፤ ጆሮህን ታዳመጣለህ።",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "ምኞት"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "የትሁታን"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ሰምተሃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "ታዘጋለህ"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ልባቸውን"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "ታዳመጣለህ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ጆሮህን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:02.674915034Z",
+  "model": "glm-5.3"
+}

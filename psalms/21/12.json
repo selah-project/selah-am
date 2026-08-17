@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "በአንተ ላይ ክፉ ስለ ዘረጋ፣ ወደ ክፋት ምክር ስለ ሠራ ሊችሉ አይችሉም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "ዘረጋ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "በአንተ ላይ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ሠራ\/አሰበ"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "ምክር"
+    },
+    {
+      "surface": "בל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "ሊችሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:58.037504277Z",
+  "model": "glm-5.3"
+}

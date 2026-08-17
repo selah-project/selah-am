@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "ለመቅደሱም ⟨את⟩ ጥርቆችን ከስጦት እንጨት ቆሞ የሚገኝ አደረገ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጥርቆችን"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ጥርቆችን"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ለመቅደሱ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ከእንጨት"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "የስጦት"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ቆሞ የሚገኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:37:51.582704992Z",
+  "model": "glm-5.3"
+}

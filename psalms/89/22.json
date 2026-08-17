@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "እጄ ከእርሱ ጋር ትጸናለች፤ ክንፌም እርሱን ታጠናዋለች።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "እጄ"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ትጸናለች"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ጋር"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "ክንፌም"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "ታጠናዋለች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:18.028366892Z",
+  "model": "glm-5.3"
+}

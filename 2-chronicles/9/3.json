@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "የሳባ ንግሥት የሰሎሞንን ጥበብ እና ⟨את⟩ የሠራውን ቤት አየች።",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "አየች"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ንግሥት"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ሳባ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሰሎሞንን ጥበብ"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "እና ቤት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሠራውን"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሠራ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:48:52.956624440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ሞሼም ወደ መናገር ⟨את⟩ ሁሉን እነዚህን ቃላት ወደ እስራኤል ሁሉ አበቃ።",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "አበቃ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ወደ መናገር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:55:34.263558784Z",
+  "model": "glm-5.3"
+}

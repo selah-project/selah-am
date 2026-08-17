@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "በምሳል አፌን እከፍታለሁ፤ ከቀደመው ዘመን ጥበብን አፈስሳለሁ።",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "እከፍታለሁ"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "በምሳል"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፌን"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "አፈስሳለሁ"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "ጥበብን"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ቀደመው ዘመን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:11.266017610Z",
+  "model": "glm-5.3"
+}

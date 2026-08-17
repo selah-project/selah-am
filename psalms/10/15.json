@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ክፉውንና ክፉን ክንፉን ስብረ፤ ክፍነቱን አስፈልግ፤ ፈጽሞ አትደርስም።",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ስብረ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ክንፉን"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉውን"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ና ክፉን"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "አስፈልግ"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "ክፍነቱን"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ፈጽሞ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "አትደርስም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:41.627938616Z",
+  "model": "glm-5.3"
+}

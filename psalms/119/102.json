@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ከፍርድህ አልዘለልሁም፤ አንተ አስተምረኸኝ ስለሆነ።",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "ከፍርድህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "ዘለልሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለሆነ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "አስተምረኸኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:40.019993055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 16:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ምክርን አምጡ፤ ፍትሕን አድርጉ፤ ጥላህን እንደ ሌሊት በቀን አጋማሽ መካከል አድርግ፤ የተባረኩትን ደብቅ፤ ራቀ የሚለቀቀውን አትጋልጥ።",
+  "tokens": [
+    {
+      "surface": "הביאו",
+      "gloss": "አምጡ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ምክርን"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "አድርጉ"
+    },
+    {
+      "surface": "פלילה",
+      "gloss": "ፍትሕን"
+    },
+    {
+      "surface": "שיתי",
+      "gloss": "አድርግ"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "እንደ ሌሊት"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "ጥላህን"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በ…መካከል"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "ቀን አጋማሽ"
+    },
+    {
+      "surface": "סתרי",
+      "gloss": "ደብቅ"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "የተባርኩትን"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "ራቀ የሚለቀቀውን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תגלי",
+      "gloss": "ጋልጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:07:41.985693154Z",
+  "model": "glm-5.3"
+}

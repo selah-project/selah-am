@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "የልብህን ሁሉ ይስጥልህ፣ እና ምክርህን ሁሉ ይሞላል።",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ይስጥ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ልህ"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "እንደ ልብህ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉን"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "ምክርህን"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ይሞላል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:21.925398096Z",
+  "model": "glm-5.3"
+}

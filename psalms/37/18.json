@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "ያህዌህ ቀኖችን የፍጹማን ያውቃል፤ ርስታቸውም ለዘላለም ትኖራለች።",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "ያውቃል፤"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀኖችን"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "የፍጹማን"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "ርስታቸውም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ትኖራለች።"
+    }
+  ],
+  "timestamp": "2026-08-16T09:40:23.074287657Z",
+  "model": "glm-5.3"
+}

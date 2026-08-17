@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ሥራህን ወደ ያህዌህ አንግብ፤ ሐሳቦችህም ይጸናሉ።",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "አንግብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ᡰשיך",
+      "gloss": "ሥራህን"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "ይጸናሉ"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "ሐሳቦችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:29:18.845970437Z",
+  "model": "glm-5.3"
+}

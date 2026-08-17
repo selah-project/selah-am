@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "exodus 10:21",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ያህዌህም ሞሼን እንዲህ አለው፦ እጅህን ወደ ሰማያት ዘርጅ፤ ጨለማም በየሩሻላይም ምድር ላይ ይሁን፤ ጨለማም ይነካ ይችል ዘንድ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለውም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ዘርጅ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ይሁንም"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጨለማ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "וימש",
+      "gloss": "ይነካ ይችልም"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጨለማ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:12:40.660598700Z",
+  "model": "glm-5.3"
+}

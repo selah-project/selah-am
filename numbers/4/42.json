@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "numbers 4:42",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የምራሪ ልጆች ቤተሰቦችም የተቆጠሩት ለቤተሰቦቻቸው፣ ለአባቶቻቸውም ቤት ነበር።",
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "የተቆጠሩትም"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ቤተሰቦች"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ምራሪ"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ለቤተሰቦቻቸው"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ለ…ቤት"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "አባቶቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T04:06:40.692036186Z",
+  "model": "glm-5.3"
+}

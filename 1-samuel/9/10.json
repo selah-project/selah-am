@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ሳኦልም ለእጁ አገልጋዩ አለው፣ ቃልህ መልካም ነው፤ ና እንሂድ፤ እነሱም ወደ ከተማዋ ሄዱ፣ ወደ እግዚታዊው ኤሎሂም ሰው የሚገኝባት።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "ለእጁ አገልጋዩ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ቃልህ"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ና"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "እንሂድ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ሄዱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ወደ እርሷ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ገና ታናናቅባት ነው እንጂ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:36:15.962211442Z",
+  "model": "glm-5.3"
+}

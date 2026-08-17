@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ያህዌህ የምድርህን ⟨את⟩ ዝናብ ዱቄትና አፈር ያደርገዋል፤ ከሰማይ በአንተ ላይ ይወርድብሃል፤ እስከተጠፋበት ድረስ።",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ያደርገዋል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የምድርህን ዝናብ"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ዝናብ"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ምድርህ"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "ዱቄት"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "እና አፈር"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማይ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ይወርድብሃል"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "በአንተ ላይ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "ተጠፋበት ድረስ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:52:20.992409119Z",
+  "model": "glm-5.3"
+}

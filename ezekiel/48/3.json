@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "በአሸር ድንበር ላይ ከምሥራቅ ጎን እስከ ባሕር ጎን ድረስ ንፍታሊ አንድ።",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ድንበር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "አሸር"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ከ…ጎን"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "ምሥራቅ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ጎን"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ንፍታሊ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:55:05.364181141Z",
+  "model": "glm-5.3"
+}

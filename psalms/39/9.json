@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "ከሁሉ ከመጸፈሮቼ አድነኝ፤ የሞኝ ነቅል አታድርገኝ።",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉ"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ከመጸፈሮቼ"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "አድነኝ"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ነቅል"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "የሞኝ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አታ"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "ድርገኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:23.026820885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ሁሉም መልሰው ይሏሉ፤ «እንኳ አንተ እንደ እኛ ተዳክመሃል፤ እኛ ጋር ተመሳሳይ ሆነሃል።»",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "መልሰው ይሏሉ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ይናገራሉ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንኳ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "ተዳክመሃል"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "እንደ እኛ"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ከእኛ"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "ተመሳሳይ ሆነሃል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:03:03.201127725Z",
+  "model": "glm-5.3"
+}

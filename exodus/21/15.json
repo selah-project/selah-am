@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "አባቱን ወይም እናቱን የሚያገድ በሞት ይገደላል።",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "እና የሚያገድ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱን"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ወይም እናቱን"
+    },
+    {
+      "surface": "מות",
+      "gloss": "በሞት"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይገደላል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:21:17.283148056Z",
+  "model": "glm-5.3"
+}

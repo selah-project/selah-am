@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 3:4",
+  "book": "habakkuk",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ብርሃኑም እንደ ብርሃን ⟨ይሆናል⟩፤ ቀንዶች ከእጁ ⟨አሉት⟩፤ የተሰወረው ኃይሉም እዚያ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "ብርሃኑም"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "እንደ ብርሃን"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "ቀንዶች"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "ከእጁ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "አሉት"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "እዚያም"
+    },
+    {
+      "surface": "חביון",
+      "gloss": "የተሰወረው"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ኃይሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:08:51.030009659Z",
+  "model": "glm-5.3"
+}

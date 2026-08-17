@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "ልባችን ወደ ኋላ አልተመለሰም እና ከመንገድህ እርምጃችን አልዘለለም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "ወደ ኋላ አልተመለሰም"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ወደ ኋላ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ልባችን"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "እና አልዘለለም"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "እርምጃችን"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "መንገድህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:58.477278201Z",
+  "model": "glm-5.3"
+}

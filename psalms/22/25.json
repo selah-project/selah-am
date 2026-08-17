@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ምክንያቱም የተሰቃዩትን ስቃይ አልንቀዋም እና አላሰቀቀውም፣ ፊቱንም ከእርሱ አልሰውርም፤ ወደ እርሱ በጮኸ ጊዜ ሰማው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "አንቀዋል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል...ም"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "አሰቀቀው"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "ስቃይ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "የተሰቃዩት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል...ም"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "አልሰውርም"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱን"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእርሱ"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "በጮኸ ጊዜ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰማው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:46.316320996Z",
+  "model": "glm-5.3"
+}

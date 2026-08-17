@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ጠላቱ አልቋል፤ ጥፋቶች ለዘለዓለም አልቀሩም፤ እና ከተሞችን ገርፈህ እነርሱ ከእነርሱ ጋር ትውስታቸው ጠፍቷል።",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "ጠላቱ"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "አልቋል"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ጥፋቶች"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ለዘለዓለም"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "እና ከተሞችን"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "ገርፈህ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ጠፍቷል"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ትውስታቸው"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:46.695921889Z",
+  "model": "glm-5.3"
+}

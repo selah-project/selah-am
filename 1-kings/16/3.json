@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "እነሆ የባሽዓን እና የቤቱን ዘር እያቃጠልኩ አጠፋለሁ፤ ⟨את⟩ ቤትህንም እንደ ነባት ልጅ ያሮብዓም ቤት አደርጋለሁ።",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "እነሆ እኔ"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "እያቃጠልኩ አጠፋለሁ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "የ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ባሽዓን"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "እና የ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱን"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "አደርጋለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤትህን"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ቤትህን"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "እንደ ቤት"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ያሮብዓም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ነባት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:29:58.716236658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 13:14",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ከሾል እጅ እነፍታቸዋለሁ፤ ከሞት እድናቸዋለሁ፤ የት ነው ግባትህ ሞት ሆይ? የት ነው ውድመትህ ሾል ሆይ? ተግሣጽ ከዓይኖቼ ይሰወራል።",
+  "tokens": [
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሾል"
+    },
+    {
+      "surface": "אפדם",
+      "gloss": "እነፍታቸዋለሁ"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ከሞት"
+    },
+    {
+      "surface": "אגאלם",
+      "gloss": "እድናቸዋለሁ"
+    },
+    {
+      "surface": "אהי",
+      "gloss": "የት ነው"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ግባትህ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት ሆይ"
+    },
+    {
+      "surface": "אהי",
+      "gloss": "የት ነው"
+    },
+    {
+      "surface": "קטבך",
+      "gloss": "ውድመትህ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሾል ሆይ"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "ተግሣጽ"
+    },
+    {
+      "surface": "יסתר",
+      "gloss": "ይሰወራል"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "ከዓይኖቼ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:58:32.136103767Z",
+  "model": "glm-5.3"
+}

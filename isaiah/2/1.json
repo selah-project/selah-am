@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ቃሉ የአሞጽ ልጅ የሆነው የሻዕያሁ በይሁዳ እና በየሩሳሌም ላይ ያየው ነው።",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ቃሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ው"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "የሻዕያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "አሞጽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "እና የሩሳሌም"
+    }
+  ],
+  "timestamp": "2026-08-16T16:53:39.502827764Z",
+  "model": "glm-5.3"
+}

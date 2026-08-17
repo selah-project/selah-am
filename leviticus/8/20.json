@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እና ⟨את⟩ አውኳኑን በክፍሎቹ ቈረጠ፤ ሞሼም ⟨את⟩ ራሱን፣ ⟨את⟩ ክፍሎቹን እና ⟨את⟩ ስብን አጠናቀቀ (አቃጠለ)።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "አውኳኑን"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "አውኳኑን"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "ቈረጠ"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "በክፍሎቹ"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "አጠናቀቀ (አቃጠለ)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራሱን"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ራሱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ክፍሎቹን"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "ክፍሎቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስብን"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "ስብን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:48:00.479991126Z",
+  "model": "glm-5.3"
+}

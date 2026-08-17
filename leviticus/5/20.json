@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "leviticus 5:20",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ያህዌህም ሞሼን በላይ እንዲህ ሲል ተናገረው፦",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:45:04.547603003Z",
+  "model": "glm-5.3"
+}

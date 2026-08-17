@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እነሱም እስከ ኪዶን ደረቅ ወረዱ፤ ዑዛም ⟨את⟩ እጁን ላከ የታቦቱን ⟨את⟩ ለመያዝ፣ ላምቶቹ ስለ ተሰነፉ።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "ደረቅ ወረዳ"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "ኪዶን"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ዑዛም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጁን"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "ለመያዝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦቱን"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ታቦቱን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "ተሰነፉ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ላምቶቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:02:09.356863532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ለዳዊት፣ ማስተማሪያ፤ እንዴት ደስ ያለው ነው ንዴቱ የተሸከመው፣ ስስቱ የተሸፈነው!",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ማስተማሪያ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "እንዴት ደስ ያለው"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "የተሸከመው"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ንዴቱ"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "የተሸፈነው"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "ስስቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:09.381322524Z",
+  "model": "glm-5.3"
+}

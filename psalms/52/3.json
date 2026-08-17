@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 52,
+  "translation": "ኃያል ሆይ፣ በክፉ ስለ ምትትኮር ለምን? የኤል ቸርነት ⟨ይኖራል⟩ መላውን ቀን።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ትትትኮር"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "በክፉ"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "ኃያል ሆይ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ቸርነት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላውን"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ቀን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:53.982751074Z",
+  "model": "glm-5.3"
+}

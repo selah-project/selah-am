@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "numbers 20:22",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ከቃዴስ ተነሱ፤ የእስራኤል ልጆች ሙሉው ማኅበር ወደ ሖር ተራራ መጡ።",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ተነሱ"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "ከቃዴስ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሙሉው"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ማኅበር"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ሖር"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ተራራ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:20:24.994990567Z",
+  "model": "glm-5.3"
+}

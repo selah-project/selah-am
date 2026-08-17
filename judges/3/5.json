@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የእስራኤል ልጆች በከነዓኒው፣ በኬጢያው፣ በአሞራው፣ በፈሪዛው፣ በሐዋዊውና በይቡሳው መካከል ኖሩ።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ኖሩ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ከነዓኒው"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ኬጢያው"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "አሞራው"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ፈሪዛው"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ሐዋዊው"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ይቡሳው"
+    }
+  ],
+  "timestamp": "2026-08-16T05:15:42.875921440Z",
+  "model": "glm-5.3"
+}

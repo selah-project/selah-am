@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 149,
+  "translation": "ቅዱሳን በክብር ይዘፈዋሉ፤ በአልጋዎቻቸው ላይ ይዘፍናሉ።",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "ይዘፈዋሉ"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "ቅዱሳን"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "በክብር"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ይዘፍናሉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "አልጋዎቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:00.500812308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እርሷም አለችው፦ አንድ ትንሽ ጥያቄ ከአንተ ⟨את⟩ እጠይቃለሁ፣ ፊቴን ⟨את⟩ አትመለስብኝ፤ ንጉሡም እንዲህ አላት፦ ጠይቂ እናቴ፣ በእርግጥ ፊትሽን ⟨את⟩ አልመልስም።",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "አለችው"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "ጥያቄ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "ትንሽ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "እጠይቃለሁ"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "ከአንተ ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ትመልስም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊቴን"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊቴን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አላት"
+    },
+    {
+      "surface": "לה",
+      "gloss": "እሷን"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "ጠይቂ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "እናቴ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእርግጥ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "እመልስም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊትሽን"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትሽን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:15:38.649997161Z",
+  "model": "glm-5.3"
+}

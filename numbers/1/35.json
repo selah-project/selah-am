@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ተቆጠሩባቸው ለነው ለመቶች ለምናሼ ወገን፣ ሁለት እና ሠላሳ ሺህ እና ሁለት መቶ ናቸው።",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ተቆጠሩባቸው"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ለነው ለመቶች"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ለምናሼ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "እና ሠላሳ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "እና ሁለት መቶ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:03:36.748822155Z",
+  "model": "glm-5.3"
+}

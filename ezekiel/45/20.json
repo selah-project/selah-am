@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "ezekiel 45:20",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "እንዲሁም በሰባተኛው ቀን በወሩ ታደርጋለህ ስለ ስህተተኛው ሰው እና ስለ ሳሙ፣ እና ⟨את⟩ ቤቱን ታስተሰርዳላችሁ።",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "በሰባተኛው"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "በወሩ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ስለ ሰው"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "ስህተተኛ"
+    },
+    {
+      "surface": "ומפתי",
+      "gloss": "እና ስለ ሳሙ"
+    },
+    {
+      "surface": "וכפרתם",
+      "gloss": "ታስተሰርዳላችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱን"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤት"
+    }
+  ],
+  "timestamp": "2026-08-16T08:54:15.671062506Z",
+  "model": "glm-5.3"
+}

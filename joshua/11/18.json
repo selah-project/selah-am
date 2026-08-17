@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "በዐቢይ ቀናት ያዕቆብ ⟨את⟩ ነገሥታት እነዚህን ሁሉ ጦርነት አደረገ።",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "በዐቢይ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነገሥታት እነዚህን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ነገሥታት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህን"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ጦርነት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:06:50.090803367Z",
+  "model": "glm-5.3"
+}

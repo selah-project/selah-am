@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ማኅፈን በጠላቶችህ ላይ በሚወጣ ጊዜ ከክፉ ነገር ሁሉ ታስጥበሃል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በ…ጊዜ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ታወጣ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ማኅፈን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ጠላቶችህ"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "ታስጥበሃል"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:48:40.654940537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "የየሩሳሌምን ቅጥር ዙሪያውን ⟨את⟩ የከለዳውያን ሠራዊት ሁሉ — ከጋሻዎቹ አለቃ ጋር የነበረው — አፈረሰ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የየሩሳሌም ቅጥር"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ቅጥር"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሳሌም"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ዙሪያውን"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "አፈረሱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ሠራዊት"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "የከለዳውያን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እርሱም የነበረው"
+    },
+    {
+      "surface": "רב",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ጋሻዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T06:57:10.808388065Z",
+  "model": "glm-5.3"
+}

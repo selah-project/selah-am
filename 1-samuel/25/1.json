@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-samuel 25:1",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ሳሙኤልም ሞተ፤ እስራኤልም ሁሉ ተሰበሰቡ፤ ለእርሱም አዘኑ፤ በራማ በቤቱም ቀበሩት፤ ዳዊትም ተነሥቶ ወደ ፋራን ምድረ በዳ ወረደ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "ተሰበሰቡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "አዘኑ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ቀበሩት"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "በቤቱ"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "በራማ"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሥቶ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ወረደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ምድረ በዳ"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "ፋራን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:48:33.482757828Z",
+  "model": "glm-5.3"
+}

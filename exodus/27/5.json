@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "እርሷን ⟨את⟩ በመሠዊያው የከበሮ ሥር ከታች ታደርጋታለህ፤ መረቡም እስከ መሠዊያው አጋማሽ ድረስ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ታደርጋታለህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እርሷን (መረቡን)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ሥር ከ…ታች"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "የከበሮ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "ከታች"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ትሆናለች"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "መረቡ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "አጋማሽ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:25:03.494360611Z",
+  "model": "glm-5.3"
+}

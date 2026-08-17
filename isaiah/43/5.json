@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "አትፍራ፣ እኔ ⟨את⟩ ከአንተ ጋር እንደ ሆንሁ፤ ዘርህን ከምሥራቅ አመጣለሁ፤ አንተንም ከምዕራብ አሰባስባለሁ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ፍራ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ ሆንሁ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ከአንተ ጋር"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ከምሥራቅ"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "አመጣለሁ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ዘርህን"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ከምዕራብም"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "አንተን አሰባስባለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:20:37.513629351Z",
+  "model": "glm-5.3"
+}

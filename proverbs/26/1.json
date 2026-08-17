@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እንደ በረዶ በበጋ ⟨ውስጥ⟩ እና እንደ ዝናብ በመከር ⟨ወቅት⟩ ውስጥ፣ እንደዚሁ ክብር ለሞኝ አይገባውም።",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "እንደ በረዶ"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "በበጋ ⟨ውስጥ⟩"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "እና እንደ ዝናብ"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "በመከር ⟨ወቅት⟩ ውስጥ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚሁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ይገባዋል"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "ለሞኝ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:35:21.419357478Z",
+  "model": "glm-5.3"
+}

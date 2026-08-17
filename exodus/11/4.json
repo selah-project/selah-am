@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሞሼም እንዲህ አለ፦ ያህዌህ እንዲህ ይላል — ሌሊቱ ሁለት ሲካፈል በእኔ እጀት ወጣ በምጽራይም መካከል።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲልም አለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ይላል \/ አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "ሁለት ሲካፈል \/ ከፍላይቱ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ሌሊቱ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "እወጣለሁ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በ… መካከል"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽራይም"
+    }
+  ],
+  "timestamp": "2026-08-16T14:41:32.328344284Z",
+  "model": "glm-5.3"
+}

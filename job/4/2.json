@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "job 4:2",
+  "book": "job",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "አንድ ሰው ቃል ወደ አንተ ሲያመክን ትደነዛለህን? በቃላት መገደብ የሚችል ማን ነው?",
+  "tokens": [
+    {
+      "surface": "הנסה",
+      "gloss": "ሲያመክን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "תלאה",
+      "gloss": "ትደነዛለህን"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "መገደብ"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "በቃላት"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "የሚችል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:39:45.014066605Z",
+  "model": "glm-5.3"
+}

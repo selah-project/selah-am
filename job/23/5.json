@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "job 23:5",
+  "book": "job",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "የሚመልሰኝን ቃላት አውቃለሁ፤ ወደ እኔ ምን እንደሚለኝም እና አስተውላለሁ።",
+  "tokens": [
+    {
+      "surface": "אדעה",
+      "gloss": "አውቃለሁ"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "ቃላትን"
+    },
+    {
+      "surface": "יענני",
+      "gloss": "የሚመልሰኝ"
+    },
+    {
+      "surface": "ואבינה",
+      "gloss": "እና አስተውላለሁ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:51:48.166503588Z",
+  "model": "glm-5.3"
+}

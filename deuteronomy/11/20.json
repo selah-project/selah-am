@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "በቤትህም በሮች ላይ እና በበሮችህ ላይ ታጽፋቸዋለህ።",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "ታጽፋቸዋለህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "የበር አምዶች"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ቤትህ"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "በበሮችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:10:52.951417144Z",
+  "model": "glm-5.3"
+}

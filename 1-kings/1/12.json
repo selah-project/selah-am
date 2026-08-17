@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "አሁንም ና፣ እባክሽ ምክርሻለሁ፤ ⟨את⟩ ነፍስሽን እና ⟨את⟩ ልጽም ሰሎሞንን ነፍስ አድኛለሁ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "አሁንም"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ና"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "ምክርሻለሁ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክሽ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ምክር"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "እና አድናለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍስሽን"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ነፍስሽን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍስ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ልጽም"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞንን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:12:49.390019688Z",
+  "model": "glm-5.3"
+}

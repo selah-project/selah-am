@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "በብዙ ሠራዊት የሚድን ንጉሥ የለም፤ በብዙ ኃይል ጀግና አይድንም።",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "ይድናል"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "በብዙ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "በሠራዊት"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ጀግና"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "ይድናል"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "በብዙ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "በኃይል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:44.756729686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 59,
+  "translation": "ኤሎሂም ሆይ፣ ከጠላቶቼ አድነኝ፤ ከተነሱብኝ ከፍ አድርገኝ።",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "አድነኝ"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "ከጠላቶቼ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "ከተነሱብኝ"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "ከፍ አድርገኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:05.116605097Z",
+  "model": "glm-5.3"
+}

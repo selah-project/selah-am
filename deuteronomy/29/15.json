@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "እናንተ ታውቃላችሁ — በምድረ ምጽራይም የኖርንበትን ⟨את⟩ እና ከእናንተ ያለፉባቸው አሕዛብ መካከል የዘለንበትን ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እናንተ ታውቃላችሁ —"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "ታውቃላችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የኖርንበትን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የኖርንበትን"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "የኖርንበትን"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምድረ ምጽራይም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የዘለንበትን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የዘለንበትን"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "የዘለንበትን"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለፉባቸው"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "ከእናንተ ያለፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:23:02.268155873Z",
+  "model": "glm-5.3"
+}

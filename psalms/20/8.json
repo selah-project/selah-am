@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እነዚህ በሰረገላ፣ እና እነዚህ በፈረሶች፤ ነገር ግን እኛ በያህዌህ በኤሎሂም እኛ ስም እናስታውሳለን።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "በሰረገላ"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "እና እነዚህ"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "በፈረሶች"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "እና እኛ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "በስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "የኤሎሂም እኛ"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "እናስታውሳለን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:21.926028509Z",
+  "model": "glm-5.3"
+}

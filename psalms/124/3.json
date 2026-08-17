@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 124,
+  "translation": "በዚያን ጊዜ ሕያዋን ሆነው በላኑን ነበር፣ ቍጣቸው በነደደብን ጊዜ፤",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "በዚያን ጊዜ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ሕያዋን"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "በሉን"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "በመቃጠል"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "ቍጣቸው"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "በእኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:13.056067019Z",
+  "model": "glm-5.3"
+}

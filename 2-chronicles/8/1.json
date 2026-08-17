@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ከሃያ ዓመታት መጨረሻ ላይ ሰሎሞን የያህዌህን ቤት ⟨את⟩ እና የራሱን ቤት ⟨את⟩ ሲገነባ ሆነ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "መጨረሻ ላይ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ሃያ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ሲገነባ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ገነባ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የያህዌህን ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የራሱን ቤት"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "የራሱን ቤት"
+    }
+  ],
+  "timestamp": "2026-08-16T13:35:26.144995813Z",
+  "model": "glm-5.3"
+}

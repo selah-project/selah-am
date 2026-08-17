@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 110,
+  "translation": "ከዐይኑ በመንገድ ላይ ይጠጣል፤ ስለዚህ ራሱን ያነሳል።",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "ከዐይኑ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገድ ላይ"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ይጠጣል"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ያነሳል"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:28.357540781Z",
+  "model": "glm-5.3"
+}

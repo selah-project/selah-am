@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "ነገር ግን ሰው በክብር በፍጹም አይቆይም፤ እንደ እንስሳት ተመሳሳለ እና ተጠፉ።",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "ነገር ግን ሰው"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "በክብር"
+    },
+    {
+      "surface": "בל",
+      "gloss": "በፍጹም አይፈጽምም"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "አይቆይም"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "ተመሳሳለ"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "እንደ እንስሳት"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "ተጠፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:50.957743459Z",
+  "model": "glm-5.3"
+}

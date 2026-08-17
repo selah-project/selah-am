@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 104,
+  "translation": "ከፍታዎቹ ተራሮች ለአህዮች ᓰ ናቸው፤ ወራጆቹ ለሰላዎች መጠለያ ናቸው።",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "ተራሮች"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "ከፍታዎቹ"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "ለአህዮች"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "ወራጆቹ"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "መጠለያ"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "ለሰላዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:21.827489368Z",
+  "model": "glm-5.3"
+}

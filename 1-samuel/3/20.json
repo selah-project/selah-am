@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ከዳን እስከ በኤር-ሳባ ያለው እስራኤል ሁሉም ሰሙኤል ለያህዌህ ነቢይ እንደሆነ ተረጋግጦ አወቀ።",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "አወቀም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "ከዳን"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "በኤር"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሳባ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "ተረጋገጠ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሰሙኤል"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "ነቢይ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:33:13.279394837Z",
+  "model": "glm-5.3"
+}

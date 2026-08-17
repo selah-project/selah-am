@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ምናሴ ⟨את⟩ ኤፍራይምን ይበላል፤ ኤፍራይምም ⟨את⟩ ምናሴን ይበላል — እነሱ አብረው የሚሆኑት በይሁዳ ላይ ነው። በዚህ ሁሉ ውስጥ ቍጣው አልተመለሰም፤ እጁም እስከ አሁን የተዘረጋች ናት።",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሴ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤፍራይምን"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "እና ኤፍራይም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምናሴን"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሴ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "አብረው"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነሱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በዚህ ሁሉ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ውስጥ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ተመለሰም"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ቍጣው"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "እስከ አሁንም"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁ"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "የተዘረጋች ናት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:02:25.022296726Z",
+  "model": "glm-5.3"
+}

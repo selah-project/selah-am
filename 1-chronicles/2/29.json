@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 29,
+  "ref": "1-chronicles 2:29",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የአቢሹር ሚስትም ስም አቢሃይል ነበረች፤ እርሷም በእርሱ ዘንድ ⟨את⟩ አሕባንን እና ⟨את⟩ ሞሊድን ወለደች።",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "እና ስም"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "የሚስት"
+    },
+    {
+      "surface": "אבישור",
+      "gloss": "አቢሹር"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "አቢሃይል"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "እና ወለደች"
+    },
+    {
+      "surface": "לו",
+      "gloss": "በእርሱ ዘንድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አሕባንን"
+    },
+    {
+      "surface": "אחבן",
+      "gloss": "አሕባን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሞሊድን"
+    },
+    {
+      "surface": "מוליד",
+      "gloss": "ሞሊድ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:32:25.548799044Z",
+  "model": "glm-5.3"
+}

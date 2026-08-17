@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 45,
+  "ref": "1-kings 1:45",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ሳቆን ካህኑ እና ናታን ነቢዩ ⟨אתו⟩ በጎሕዊ መደባቸው፣ ለንጉሥ፤ ከዚያም ደስ ብለው ወጡ፣ ⟨እሷም⟩ ከተማዋ ተናወጠች፤ የሰማችሁት ድምፅ ይህችው ⟨ናት⟩።",
+  "tokens": [
+    {
+      "surface": "וימשחו",
+      "gloss": "መደባቸው"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ሣልሞንን (እርሱን)"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ሳቆን"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "እና ናታን"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነቢዩ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ለንጉሥ"
+    },
+    {
+      "surface": "בגחון",
+      "gloss": "በጎሕዊ"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ወጡ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ከዚያ"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "ደስ ብለው"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "ተናወጠች"
+    },
+    {
+      "surface": "הקריה",
+      "gloss": "ከተማዋ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ይህችው"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "ሰማችሁት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:13:52.790294718Z",
+  "model": "glm-5.3"
+}

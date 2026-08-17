@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 57,
+  "ref": "1-kings 8:57",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ያህዌህ ኤሎሂም ⟨እኛ⟩ ከእኛ ጋር ይሁን፣ ከአባቶቻችን ጋር እንደነበረ፤ አይተወን፣ አይጣላንም።",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂም ⟨እኛ⟩"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ከእኛ ጋር"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበረ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "አባቶቻችን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ…"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "ይተወን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "יטשנו",
+      "gloss": "ይጣላን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:21:13.665148267Z",
+  "model": "glm-5.3"
+}

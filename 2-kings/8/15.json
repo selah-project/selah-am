@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 8:15",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "በሚቀጥለው ቀን ሆኖ ሐዛኤል ከልብ ሰበቃውን ወስዶ በውሃ አክሎ በፊቱ ላይ አንሥቶ ሞተ፤ ሐዛኤልም በርሱ ፋንታ ነገሠ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆኖ"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "በሚቀጥለው ቀን"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወስዶ"
+    },
+    {
+      "surface": "המכבר",
+      "gloss": "ከልብ ሰበቃውን"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "አክሎ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "በውሃ"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "አንሥቶ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "በፊቱ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "ሐዛኤል"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "በርሱ ፋንታ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:52:01.785252690Z",
+  "model": "glm-5.3"
+}

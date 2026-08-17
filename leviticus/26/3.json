@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "በሥርዓቴ ብትሄዱ፣ ⟨את⟩ ትእዛዞቼን ብትጠብቁም እና ብታደርጓቸው፣",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ብትሄዱ"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "በሥርዓቴ"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ብትሄዱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዞቼን"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ትእዛዞቼን"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ብትጠብቁም"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ብታደርጓቸው፣"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ትእዛዞቼን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:01:40.884792432Z",
+  "model": "glm-5.3"
+}

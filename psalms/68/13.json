@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "የሠራዊት ነገሥታት ያመልጣሉ ፣ ያመልጣሉ፤ የቤት ተቀማች በቀላ ምርኮን ትከፋለች።",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "ነገሥታት"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "የሠራዊት"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "ያመልጣሉ"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "ያመልጣሉ"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "የቤት ተቀማች"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "ትከፋለች"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ምርኮ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:48.109689951Z",
+  "model": "glm-5.3"
+}

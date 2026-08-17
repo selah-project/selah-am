@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ከዚያም ጥቂት በቁጥር ታንቀላፍታለህ፣ እነሱንም ⟨את⟩ በክንፎችህ ታስቀምጣቸዋለህ።",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ታንቀላፍታለህም"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ከዚያ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ጥቂት"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "በቁጥር"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ታስቀምጣቸዋለህ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "እነሱን ⟨את⟩",
+      "marks": "ጥቂቱን"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "በክንፎችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:20:55.323653906Z",
+  "model": "glm-5.3"
+}

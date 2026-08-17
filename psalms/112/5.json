@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 112,
+  "translation": "ጥሩ ነው ⟨the⟩ ሰው ይራራልና ያበዋል፤ ነገሮቹን በፍርድ ይይዛል።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ጥሩ ነው"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ይራራል"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "እና ያበዋል"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "ይይዛል"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ነገሮቹን"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "በፍርድ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:38.617801419Z",
+  "model": "glm-5.3"
+}

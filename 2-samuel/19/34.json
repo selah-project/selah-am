@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-samuel 19:34",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ንጉሡም ለባርዚላይ አለው፦ አንተ ⟨את⟩ ከእኔ ጋር ውረድ፣ እኔም ⟨את⟩ ከእኔ ጋር በኢየሩሳሌም አንከባክብሃለሁ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለውም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "ባርዚላይ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ውረድ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ከእኔ ጋር"
+    },
+    {
+      "surface": "וכלכלתי",
+      "gloss": "አንከባክብሃለሁም"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "አንተን"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ከእኔ ጋር"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "በኢየሩሳሌም"
+    }
+  ],
+  "timestamp": "2026-08-16T19:44:06.403296352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ያህዌህን ኤሎሂምህን ⟨את⟩ ትፈራለህ፣ እናም ⟨את⟩ን ብቻ ትገለገላለህ፣ እና በስሙ ታምናለህ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምህን"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ትፈራለህ"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "እናም ⟨את⟩ን ብቻ",
+      "marks": "ትገለገላለህ (ያህዌህን)"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ትገለገላለህ"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "እና በስሙ"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ታምናለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:35:54.072630971Z",
+  "model": "glm-5.3"
+}

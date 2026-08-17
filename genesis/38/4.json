@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "እንደገናም ነፍስ በመሸኘት ወንድ ልጅ ወለደች፤ ስሙንም ⟨את⟩ አውናን ብላ ጠራችው።",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ነፍስ በመሸኘት"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "እንደገናም"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወንድ ልጅ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ጠራችው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሙን"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "አውናን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:55:49.097161681Z",
+  "model": "glm-5.3"
+}

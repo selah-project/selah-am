@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "amos 2:6",
+  "book": "amos",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ያህዌህ እንዲህ ይላል፤ ስለ እስራኤል ሦስት ኅጢያት፣ እንዲሁም ስለ አራት፣ ቅጣቱን አላስቀምጠውም፤ ምክንያቱም ጻድቁን በብር ሸጡ፣ ድሃውንም ስለ ጫማ ሸጡ።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ኅጢያት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እንዲሁም ስለ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "አራት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "አስቀምጠውም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "מכרם",
+      "gloss": "ሸጡ"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "በብር"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቁን"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ድሃውንም"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "ጫማ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:04:51.735040599Z",
+  "model": "glm-5.3"
+}

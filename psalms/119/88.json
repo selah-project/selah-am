@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 88,
+  "ref": "psalms 119:88",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "እንደ ቸርነትህ አነቅለኝ፤ እኔም የአፍህን ምስክርነት እጠብቃለሁ።",
+  "tokens": [
+    {
+      "surface": "כחסדך",
+      "gloss": "እንደ ቸርነትህ"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "አነቅለኝ"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "እኔም...እጠብቃለሁ"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ምስክርነትን"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "የአፍህን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:17.489551558Z",
+  "model": "glm-5.3"
+}

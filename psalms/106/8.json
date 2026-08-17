@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "ነገር ግን ስሙን ሲል አዳናቸው፤ ጀግናነቱን ለማሳወቅ።",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "አዳናቸው"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ሲል\/ስለ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "ለማሳወቅ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጀግናነቱን"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "ጀግናነቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:25.353176726Z",
+  "model": "glm-5.3"
+}

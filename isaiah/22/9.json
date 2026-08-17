@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "የዳዊት ከተማን በሮች ⟨את⟩ ብዙ ሆነው ተመልክታችኋል፤ የታችኛው ታንቂ ውሃን ⟨את⟩ ሰብስባችሁ አካባችሁ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የዳዊት ከተማን በሮችን"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "በሮችን"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "የ...ከተማ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "ተመልክታችኋል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደፈለገ"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ብዙ ሆነዋል"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "ሰብስባችሁ አካባችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውሃውን"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ታንቂ"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "ታችኛው"
+    }
+  ],
+  "timestamp": "2026-08-16T07:07:18.160804624Z",
+  "model": "glm-5.3"
+}

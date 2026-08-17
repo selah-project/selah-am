@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 17:10",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "እና ከውጤ ቤት የሆነ ሰው፣ ከውጤ መካከል ከሚኖር መጓጓዣ ማንኛውም ሰው ደምን ቢበላ፣ ደምን ⟨את⟩ የሚበላውን ነፍስ ፊቴን አቀናበታለሁ፣ እና ከወገኑ መካከል ⟨את⟩ እቆርጣለሁ።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "እና ሰው"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ማንኛውም ሰው"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ከቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ውጤ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "እና ከ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "መጓጓዣው"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "የሚኖር"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "በእነሱ መካከል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ቢበላ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ማንኛውንም"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "እና አቀናባለሁ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊቴን"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "በነፍስ"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "የሚበላው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደምን"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ደሙን"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "እና እቆርጣለሁ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ከወገኑ መካከል"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ከመካከል"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ወገኑ"
+    }
+  ],
+  "timestamp": "2026-08-17T08:21:44.872164354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "ሀብታም መኳንንት ከግብፅ ይመጣሉ፤ ኩሽ እጆቿን ወደ ኤሎሂም ትኮራለች።",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "ይመጣሉ"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "ሀብታም መኳንንት"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፅ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ኩሽ"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "ትኮራለች"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "እጆቿን"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ወደ ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:37.653859383Z",
+  "model": "glm-5.3"
+}

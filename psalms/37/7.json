@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "በያህዌህ ፊት ፍጥረት አትር፤ ለእርሱም ታስብ፤ በመንገዱ ላይ ለሚያገኘው አትቆጣ፤ ክፉ ሴስ የሚያደርግ ሰው ቢኖርም አትቆጣ።",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "ፍጥረት አትርፍ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "በያህዌህ ፊት"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "ታስብ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "ትቆጣ"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "ለሚያገኘው"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "በመንገዱ ላይ"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ሰው ቢኖርም"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "የሚያደርግ"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "ክፉ ሴስ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:46.809289912Z",
+  "model": "glm-5.3"
+}

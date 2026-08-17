@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "ለመዝማሪው ለይዱቱን፤ ዘመዝሙር ለዳዊት።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመዝማሪው"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "ለይዱቱን"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ዘመዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:42:26.302861576Z",
+  "model": "glm-5.3"
+}

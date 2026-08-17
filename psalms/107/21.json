@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "psalms 107:21",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "የያህዌህን ምሕረት ያመስግኑ፣ እና ለሰው ልጆች ድንቆቹንም።",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ያመስግኑ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ምሕረቱን"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "እና ድንቆቹን"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለልጆች"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:25.500120641Z",
+  "model": "glm-5.3"
+}

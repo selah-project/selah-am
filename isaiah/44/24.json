@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "isaiah 44:24",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "እንዲህ አለ ያህዌህ አዳኚህ፣ ከሆድም የፈጠረህ፤ እኔ ነኝ ያህዌህ ሁሉን የሚያደርግ፤ ሰማያትን ብቻዬን የሰፋሁ፣ ምድርንም የሰፋሁ፤ ማን ነው ከእኔ ⟨את⟩ ጋር?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "גאלך",
+      "gloss": "አዳኚህ"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "የፈጠረህም"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ከሆድ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "የሚያደርግ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "የሰፋሁ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያትን"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ብቻዬን"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "የሰፋሁ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ጋር ከእኔ",
+      "marks": "ከእኔ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T07:22:48.779783765Z",
+  "model": "glm-5.3"
+}

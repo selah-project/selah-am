@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "በቀጥተኛው መንገድ መራቸው፣ ወደ መኖሪያ ከተማ እንዲሄዱ።",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "መራቸው"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "ቀጥተኛው"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "እንዲሄዱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "መኖሪያ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:30.690234160Z",
+  "model": "glm-5.3"
+}

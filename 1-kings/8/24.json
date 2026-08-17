@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ለአገልጋይህ ለዳዊት ለአባቴ ⟨את⟩ የተናገርከውን ለእርሱ ጠብቀሃል፤ በአፍህ ተናግረሃል፣ በእጅህም በዚህ ቀን እንደሆነ አጠናቀቀሃል።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ጠብቀሃል"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ለአገልጋይህ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባቴ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የተናገርከውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ተናገርከው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "ተናግረሃልም"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "በአፍህ"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "እና በእጅህ"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "አጠናቀቀሃል"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "እንደዚህ ቀን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:22:32.913250755Z",
+  "model": "glm-5.3"
+}

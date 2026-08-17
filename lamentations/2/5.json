@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 2:5",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "አዶናይ እንደ ጠላት ሆኗል፤ እስራኤልን ዋጥ አለ፤ ቤተ መንግሥቶቿን ሁሉ ዋጥ አለ፤ ምሽጎቹን አጥፋታል፤ በይሁዳ ልጅም እውዳጅንና ምረቃን አበዛ።",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "ሆኗል"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "כאויב",
+      "gloss": "እንደ ጠላት"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ዋጥ አለ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ዋጥ አለ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "ቤተ መንግሥቶቿን"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "አጥፋታል"
+    },
+    {
+      "surface": "מבצריו",
+      "gloss": "ምሽጎቹን"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "አበዛ።"
+    },
+    {
+      "surface": "בבת",
+      "gloss": "በ…ልጅ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "תאניה",
+      "gloss": "እውዳጅን"
+    },
+    {
+      "surface": "ואניה",
+      "gloss": "ምረቃን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:15:58.663161126Z",
+  "model": "glm-5.3"
+}

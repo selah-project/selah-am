@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 103,
+  "translation": "ያህዌህ ጽድቅንና ፍርድን ለሁሉም ተጨቋኞች ያደርጋል።",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ያደርጋል"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "ጽድቅን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ፍርድንና"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "ተጨቋኞች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:15.185066571Z",
+  "model": "glm-5.3"
+}

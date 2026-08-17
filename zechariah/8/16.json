@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "zechariah 8:16",
+  "book": "zechariah",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እነዚህ ⟨የሚናገሩ⟩ ቃላት ናቸው ያደርጋላችሁ፤ እውነት ተናገሩ እየንድ ሰው ⟨את⟩ ወዳጁን እውነት፤ እና የሰላም ፍርድ ፍረዱ በበርችሁ።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚናገሩ፣"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ያደርጋላችሁ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ተናገሩ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "እውነት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንድ ሰው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወዳጁን"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ወዳጁን"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "እውነት"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "እና የ...ፍርድ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "ፍረዱ"
+    },
+    {
+      "surface": "בשעריכם",
+      "gloss": "በበርችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:22:35.346027010Z",
+  "model": "glm-5.3"
+}

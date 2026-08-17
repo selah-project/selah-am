@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "አሃሮንም ወደ ⟨መሠዊያው⟩ ቀረበ፤ ⟨את⟩ የኃጢአት መሥዋዕት የነበረውን ጥጃም ሠወረው።",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ቀረበ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "ሠወረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጥጃውን"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ጥጃ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "የኃጢአት መሥዋዕት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የነበረው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "የርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:47:51.759983438Z",
+  "model": "glm-5.3"
+}

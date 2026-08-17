@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ካህኑም እርሷን ⟨את⟩ ያቀርባል፣ በያህዌህም ፊት አቆማታል።",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ያቀርባል፣"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እርሷን"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑም"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "አቆማታል።"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ…ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:08:27.789167909Z",
+  "model": "glm-5.3"
+}

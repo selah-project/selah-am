@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "exodus 12:6",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ወደ መጠበቂያም ይሆናልላችሁ እስከ ዚህ ወር አሥራ አራት ቀን ድረስ፤ የእስራኤልም ማኅበር ሁሉ ማኅበረ ሰቡም በምሽቶቹ መካከል ⟨אתו⟩ ይበድሉታል።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ይሆናልላችሁ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ላችሁ"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "ወደ መጠበቂያ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "አራት"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ወር"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "ይበድሉታል"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ይበድሉታል ለሚለው ግምባር (እሱን)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ማኅበር"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ማኅበረ ሰብ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ምሽቶቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:12:52.902355243Z",
+  "model": "glm-5.3"
+}

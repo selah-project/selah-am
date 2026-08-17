@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 61,
+  "translation": "ምክንያቱም መጠለያ ሆነሃልልኝ፤ ከጠላት ፊት የኃይል ግንብ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ሆነሃል"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "መጠለያ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "ግንብ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "የኃይል"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከ...ፊት"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ጠላት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:45.558789171Z",
+  "model": "glm-5.3"
+}

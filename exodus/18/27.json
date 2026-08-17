@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ሞሼም ⟨את⟩ አገልባጩን ሰናቀው፤ እርሱም ራሱ ወደ ራሱ ምድር ሄደ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰናቀውም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አገልባጩን"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "አገልባጩን"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደም"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ራሱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ራሱ ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:17:37.981188819Z",
+  "model": "glm-5.3"
+}

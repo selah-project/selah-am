@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ዮአብና አቢሳይ ወንድሙም ⟨את⟩ አብነርን ገደሉ፤ ምክንያቱም ⟨את⟩ አሳሄልን ወንድማቸውን በጋባዖን በጦርነት ስለ ገደለ ይህን አደረጉ።",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "ዮአብና"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "አቢሳይ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሙ"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ገደሉ"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "አብነርን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ… ስለ ሆነ"
+    },
+    {
+      "surface": "המית",
+      "gloss": "ገደለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አሳሄልን"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "አሳሄል"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ወንድማቸውን"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "በጋባዖን"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "በጦርነት"
+    }
+  ],
+  "timestamp": "2026-08-16T16:03:34.120962999Z",
+  "model": "glm-5.3"
+}

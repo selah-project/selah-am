@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 64,
+  "translation": "ድምፄን በልተመኘሁት ኤሎሂም ስማ፤ ከየጠላት ስጋት ሕይወቴን ታስጠብቃለህ።",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ስማ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ድምፄን"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "በልተመኘሁት"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ከስጋት"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "የጠላት"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "ታስጠብቃለህ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ሕይወቴን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:36.674096552Z",
+  "model": "glm-5.3"
+}

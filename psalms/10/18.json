@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ያለእናቱንና ⟨את⟩ ደቀውን ለመፍረድ፤ የምድሩ ሰው እንደገና ለማስፈራት በፍጹም አይጨምርም።",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "ለመፍረድ"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ያለእናቱን"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "ደቀውን"
+    },
+    {
+      "surface": "בל",
+      "gloss": "በፍጹም"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "አይጨምርም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "እንደገና"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "ለማስፈራት"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:02.675209159Z",
+  "model": "glm-5.3"
+}

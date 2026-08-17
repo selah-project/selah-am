@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 147,
+  "translation": "በፈረስ ኃይል አይደሰትም፤ በሰውዬው እግሮችም አይረካም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "በ…ኃይል"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "የፈረስ"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "አይደሰትም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ…ም"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "በ…እግሮች"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "የሰው"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "አይረካም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:34.682903534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "በቃችሁ፤ ⟨את⟩ ይህን ተራራ ዞራችሁት፤ ራሳችሁን ለእናንተ ወደ ሰሜን መልሱ።",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "በቃችሁ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለእናንተ"
+    },
+    {
+      "surface": "סב",
+      "gloss": "ዞራችሁት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህን ተራራ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ይህ ተራራ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "መልሱ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ራሳችሕን"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ወደ ሰሜን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:32:58.769678518Z",
+  "model": "glm-5.3"
+}

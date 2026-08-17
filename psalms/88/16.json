@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 88,
+  "translation": "ድሃ ደክሜ ነኝ እና ከልጅነቴ ጀምሮ እሞታለሁ፤ ፍርሐቶችህን ተሸክሜ እጠፋለሁ።",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "ድሃ\/ደክሜ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "እና እሞታለሁ"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "ከልጅነቴ"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ተሸክሜ"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "ፍርሐቶችህን"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "እጠፋለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:49.849324876Z",
+  "model": "glm-5.3"
+}

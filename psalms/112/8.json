@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 112,
+  "translation": "ልቡ ተደግፎለታል፣ አይፈራም፤ ጠላቶቹን እስኪያይ ድረስ።",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "ተደግፎለታል"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ይፈራም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪያይ ድረስ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እስኪያይ ድረስ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ሲያይ"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "ጠላቶቹን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:38.621037016Z",
+  "model": "glm-5.3"
+}

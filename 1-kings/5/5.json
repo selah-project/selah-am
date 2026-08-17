@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ይሁዳና እስራኤል በደህና ተቀመጡ፣ እያንዳንዱ ሰው ከወይኑ በታች እና ከበለሱ በታች፣ ከዳን እስከ በከር-ሸባ ድረስ፣ በሰሎሞን ቀናት ሁሉ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተቀመጡ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "እና እስራኤል"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "በደህና"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ከ… በታች"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "ወይኑ"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "እና ከ… በታች"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "በለሱ"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "ከዳን"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "በከር"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸባ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "የሰሎሞን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:17:02.618312547Z",
+  "model": "glm-5.3"
+}

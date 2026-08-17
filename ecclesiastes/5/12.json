@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የሚያልቅ ክፉ ነገር ከፀሐይ በታች አይቻለሁ — ለባለቤቱ ለክፉፈቱ የተጠበቀ ሀብት።",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ ነገር"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "የሚያልቅ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "አይቻለሁ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ከ…በታች"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ፀሐይ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ሀብት"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "የተጠበቀ"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "ለባለቤቱ"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "ለክፉፈቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:16:07.046911304Z",
+  "model": "glm-5.3"
+}

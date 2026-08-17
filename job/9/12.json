@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "job 9:12",
+  "book": "job",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እነሆ ቢያቅልል ማን ይመልሰዋል? ማንስ ይለዋል «ምን ታደርጋለህ?»",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "יחתף",
+      "gloss": "ቢያቅልል"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "ይመልሰዋል"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማንስ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ይለዋል"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ታደርጋለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:42:59.619804159Z",
+  "model": "glm-5.3"
+}

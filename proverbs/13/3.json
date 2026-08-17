@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "አፉን የሚጠብቅ ነፍሱን ይጠብቃል፤ ከንፈሮቹን የሚከፍት ግን ጥፋት ለእርሱ ⟨ናት⟩።",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "የሚጠብቅ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "አፉን"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ይጠብቃል"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱን"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "የሚከፍት"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ከንፈሮቹን"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "ጥፋት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:27:32.359354324Z",
+  "model": "glm-5.3"
+}

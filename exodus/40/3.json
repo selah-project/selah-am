@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "የምስክርነቱን ⟨את⟩ ታቦትም በዚያ ታስቀምጣለህ፤ ደግሞም በታቦቱ ላይ ⟨את⟩ መጋረጃውን ትሸፍናለህ።",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ታስቀምጣለህ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦትም"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "የምስክርነቱን"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "ትሸፍናለህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "በታቦቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መጋረጃውን"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "መጋረጃውን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:41:09.188845987Z",
+  "model": "glm-5.3"
+}

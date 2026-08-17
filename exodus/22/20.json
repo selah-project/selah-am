@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "መጻተዊንም አትቀቱትም፣ አትጨንቁትም፤ በምድረ ምጽራይም መጻተውያት ነበራችሁና።",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "መጻተዊንም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት...ም"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "አትቀቱትም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና ...ም"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "አትጨንቁትም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "...ነውና"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "መጻተውያት"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ነበራችሁ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በ...ምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽራይም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:22:38.740566603Z",
+  "model": "glm-5.3"
+}

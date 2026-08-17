@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 61,
+  "translation": "እንደ፡አንተ ኤሎሂም የጽዋዔዬን ሰምተሃል፤ ለስምህ ለሚፈሩት ርስት ሰጥተሃል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ፡እውነት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ሰምተሃል"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "የጽዋዔዬን"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "ሰጥተሃል"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "ርስት"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ለሚፈሩት"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:46.553039401Z",
+  "model": "glm-5.3"
+}

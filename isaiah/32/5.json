@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "እንደነቀፈ ሰው (ናባል) ከእንግዲህ በኋላ ብልጹ አይባልም፤ ለስግብግብ (ኪላይ) ባለጸጋ አይባልም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይባልም"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ይጠራል"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ከእንግዲህ በኋላ"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "ለነቀፈ ሰው (ናባል)"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "ብልጹ"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "እና ለስግብግቡ (ኪላይ)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይባልም"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ይነገራል"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "ባለጸጋ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:15:15.227416493Z",
+  "model": "glm-5.3"
+}

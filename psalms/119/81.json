@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ለማዳንህ ነፍሴ ተከደመች፤ ለቃልህ ተስፋ አደረግሁ።",
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "ተከደመች"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "ለማዳንህ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "ለቃልህ"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ተስፋ አደረግሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:42.346297903Z",
+  "model": "glm-5.3"
+}

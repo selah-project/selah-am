@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ወዮላቸው፣ ኃጢአተኛ ሕዝብ፣ በዓመፅ የተሸከመ ሕዝብ፣ የክፉ ሠራተኞች ዘር፣ የበከሉ ወንዶች፤ ያህዌህን ⟨את⟩ ተዉት፣ የእስራኤልን ቅዱስ ⟨את⟩ ንቀው፣ ወደ ኋላ ተመለሱ።",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ወዮላቸው"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ኃጢአተኛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "የተሸከመ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "በዓመፅ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘር"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "የክፉ ሠራተኞች"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ወንዶች"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "የበከሉ"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ተዉት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "ንቀው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእስራኤልን ቅዱስ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ተመለሱ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ወደ ኋላ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:52:06.412699962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "አሃሮን በእርሱ ላይ ለያህዌህ ጊያል የወጣበትን ⟨את⟩ ሳይል ያቀርባል፣ እንደ ኃጢያት መሥዋዕት ያደርገዋል።",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ያቀርባል"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሳይሉን"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ሳይሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነው"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "የወጣ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ጊያሉ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "ያደርገዋል"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ኃጢያት (መሥዋዕት)"
+    }
+  ],
+  "timestamp": "2026-08-16T03:54:15.037206775Z",
+  "model": "glm-5.3"
+}

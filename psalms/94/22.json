@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 94,
+  "translation": "ያህዌህ ለእኔ ማደሪያ ሆነኛል፣ ኤሎሄም ደግሞ የመሸሸቂያ ወጥመድ ይሆንልኛል።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ።ያህዌህ ለእኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "ማደሪያ ሆነኛል፣"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "እና ኤሎሄዬ ደግሞ"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ወጥመድ ሆኖ"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "የመሸሸቂያዬ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:16.163574427Z",
+  "model": "glm-5.3"
+}

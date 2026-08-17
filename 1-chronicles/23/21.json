@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "1-chronicles 23:21",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "የምራሪ ልጆች ምህሊ እና ሙሺ ናቸው፤ የምህሊ ልጆች ኤልዓዛር እና ቂስ ናቸው።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ምራሪ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "ምህሊ"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "እና ሙሺ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "ምህሊ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ኤልዓዛር"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "እና ቂስ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:12:44.149554417Z",
+  "model": "glm-5.3"
+}

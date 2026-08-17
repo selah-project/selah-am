@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ምክንያቱም ምሕረትህ ፊት ለዓይኖቼ ⟨ናት⟩፤ በእውነትህም ልመድ ሄድኩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ምሕረትህ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ፊት ለ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኖቼ"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "ልመድ ሄድኩ"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "በእውነትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:37:16.622934688Z",
+  "model": "glm-5.3"
+}

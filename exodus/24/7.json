@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "የቃል ኪዳኑን መጽሐፍም ወሰደ፤ በሕዝቡ ጆሮዎች ውስጥ አነበበ፤ ሕዝቡም አሉ፦ ያህዌህ የተናገረው ሁሉ እናደርጋለን፤ እንሰማም።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "መጽሐፍ"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "የቃል ኪዳኑን"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "አነበበ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "በጆሮዎች"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "አሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "የተናገረው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "እናደርጋለን"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "እንሰማም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:23:48.451064235Z",
+  "model": "glm-5.3"
+}

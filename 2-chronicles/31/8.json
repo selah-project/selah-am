@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ይጽሐቅም እና መኳንንቱ መጥተው ⟨את⟩ ክምሮቹን ባዩ ጊዜ ያህዌህን ⟨את⟩ እና ሕዝቡን የእስራኤልን ⟨את⟩ ባረኩ።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "መጥተው ሲመጡ"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "ይጽሐቅ"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "እና መኳንንቱ"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ባዩ ጊዜ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክምሮቹን"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "ክምሮቹን"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "ባረኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤልን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:55:15.093755853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "የበኩር ልጁም ዓብድውን፣ እንዲሁም ጹርን፣ ቂስን፣ በዓልን እና ናዳብን (ወለደ)።",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ልጁም"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "የበኩር"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "ዓብድውን"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ጹርንም"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "ቂስንም"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "በዓልንም"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "ናዳብንም"
+    }
+  ],
+  "timestamp": "2026-08-16T12:43:42.550904913Z",
+  "model": "glm-5.3"
+}

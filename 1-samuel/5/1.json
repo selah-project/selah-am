@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የፈሊስጥኛዎችም ⟨את⟩ የኤሎሂምን ታቦት ወሰዱ፤ ከአቤን-ሐዔዘርም አስገቡት አሽዶድ።",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "የፈሊስጥኛዎችም"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ወሰዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦት"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂምን"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "አስገቡት"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "ከአቤን"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "-ሐዔዘርም"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "አሽዶድ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:34:27.446296137Z",
+  "model": "glm-5.3"
+}

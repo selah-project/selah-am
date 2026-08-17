@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ኪዳኜንም ⟨את⟩ ከእነርሱ ጋር አቆምሁ፤ ⟨את⟩ የከነዓንን ምድር — ⟨את⟩ የመቅደል ምድራቸውን በእርሷም የተቀመጡባትን — እንዲሰጣቸው።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "አቆምሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኪዳኜን"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳኜን"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "እንዲሰጣቸው"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ላቸው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የከነዓንን ምድር"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "የከነዓን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የመቅደል ምድራቸውን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "የመቅደል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የተቀመጡባትን"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "ኖሩ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሷ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:09:58.799148844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "የኃጢአተኛው ክፉ ነገር በልቤ ውስጥ ይናገራል፤ «የኤሎሂም ፍርሃት በዓይኖቹ ፊት የለም»።",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "ይናገራል"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ክፉ ነገር"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "የኃጢአተኛው"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "በልቤ ውስጥ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ፍርሃት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "በዓይኖቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:14.464730685Z",
+  "model": "glm-5.3"
+}

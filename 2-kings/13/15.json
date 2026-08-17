@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ኤልሳዕም እንዲህ አለው፦ «ሐረግ እና ቀሠፎች ውሰድ።» እርሱም ወደ እርሱ ሐረግ እና ቀሠፎች ወሰደ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው፤"
+    },
+    {
+      "surface": "לו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ኤልሳዕ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ውሰድ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ሐረግ"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "እና ቀሠፎች"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ፤"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ሐረግ"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "እና ቀሠፎች"
+    }
+  ],
+  "timestamp": "2026-08-16T06:47:00.906362007Z",
+  "model": "glm-5.3"
+}

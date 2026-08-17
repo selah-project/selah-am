@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "isaiah 41:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "ደሴቶቹ አይተዋል፣ እና ፈርተዋል፤ የምድሩ ጫፎች ተንቀጠቀጡ፤ ተቃረቡና መጡ።",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "አይተዋል"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ደሴቶቹ"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ፈርተዋል"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ጫፎች"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "ተንቀጠቀጡ"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ተቃረቡ"
+    },
+    {
+      "surface": "ויאתיון",
+      "gloss": "መጡ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:19:33.849055364Z",
+  "model": "glm-5.3"
+}

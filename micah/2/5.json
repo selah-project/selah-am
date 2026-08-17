@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ስለዚህ ማስረጃ በጎራል የሚጥል ሰው በያህዌህ ማኅበር ውስጥ ለአንተ ⟨አይ⟩ ⟨ይሆንም⟩።",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ...ም"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "የሚጥል"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ማስረጃ"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "በጎራል"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "በማኅበር ውስጥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:09:31.086012394Z",
+  "model": "glm-5.3"
+}

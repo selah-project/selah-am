@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እና እሳትን በሐዛኤል ቤት እልካለሁ፣ እናም የቤንሐዳድ ምርጫዎችን ትበላለች።",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "እና እልካለሁ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳትን"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በ…ቤት"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "ሐዛኤል"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "እናም ትበላለች"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "ምርጫዎችን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የቤን"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ሐዳድ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:04:19.144481875Z",
+  "model": "glm-5.3"
+}

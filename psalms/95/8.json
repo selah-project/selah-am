@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 95,
+  "translation": "ልባችሁን እንደ ሜሪባ፣ እንደ ማሳ ቀን በምድረ በዳ አትቀውሩ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "ትቀውሩ"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ልባችሁን"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "እንደ ሜሪባ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "እንደ ... ቀን"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "ማሳ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በምድረ በዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:33.677503031Z",
+  "model": "glm-5.3"
+}

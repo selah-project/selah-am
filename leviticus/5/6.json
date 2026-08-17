@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 5:6",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እና ⟨את⟩ የእርሱን ብድር ወደ ያህዌህ ያመጣል፣ የበደለው ኃጢአቱ ላይ፣ ከመንጋው እንስት በግ፣ ወይም የፍየል እንስት፣ ለኃጢአት መሥዋዕት፤ እና ካህኑ ከኃጢአቱ ይስሠርለታል።",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ያመጣል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የእርሱን ብድር"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "የእርሱን ብድር"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ወደ ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "ኃጢአቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ውን"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "በደለ"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "እንስት"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "መንጋው"
+    },
+    {
+      "surface": "כשבה",
+      "gloss": "በግ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "שעירת",
+      "gloss": "የፍየል እንስት"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ፍየሎች"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ለኃጢአት መሥዋዕት"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ይስሠርለታል"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "ከኃጢአቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:46:31.543400968Z",
+  "model": "glm-5.3"
+}

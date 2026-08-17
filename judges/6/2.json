@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "judges 6:2",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የምድያን እጅ በይስራኤል ላይ አደረገ፤ ከምድያን ስጋት የይስራኤል ልጆች በተራሮች ውስጥ ያሉትን ⟨את⟩ ማፈሪያ ቦታዎችን፣ ⟨את⟩ ዋሻዎችንና ⟨את⟩ መድፎችን ለራሳቸው ሠሩ።",
+  "tokens": [
+    {
+      "surface": "ותעז",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "እጅ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ምድያን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከ…ስጋት"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ምድያን"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ሠሩ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለራሳቸው"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማፈሪያ ቦታዎችን"
+    },
+    {
+      "surface": "המנהרות",
+      "gloss": "ማፈሪያ ቦታዎች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያሉትን"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "በተራሮች"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዋሻዎችን"
+    },
+    {
+      "surface": "המערות",
+      "gloss": "ዋሻዎች"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መድፎችን"
+    },
+    {
+      "surface": "המצדות",
+      "gloss": "መድፎች"
+    }
+  ],
+  "timestamp": "2026-08-16T05:18:45.370790590Z",
+  "model": "glm-5.3"
+}

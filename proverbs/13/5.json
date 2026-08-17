@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ቃለ ሐሰትን ጻድቅ ይጸውራል፤ ክፉ ግን ሽከርካሪ ይሆናልና ይደፈራል።",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሐሰትን"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ይጸውራል"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቅ"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "ሽከርካሪ ይሆናል"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "ይደፈራል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:26:21.977018328Z",
+  "model": "glm-5.3"
+}

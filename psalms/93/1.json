@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 93,
+  "translation": "ያህዌህ አገሠነ፤ ትልቅ ኩራት ለበሰ፤ ያህዌህ ኃይል ለበሰ፤ በዚያም ታጠበ። እንዲሁም ምድር ተረጋገጠች፤ አይናወጥም።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "አገሠነ"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ትልቅ ኩራት"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "ለበሰ"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "ለበሰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ኃይል"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "ታጠበ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ተረጋገጠች"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "בל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ናወጥም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:56.337304231Z",
+  "model": "glm-5.3"
+}

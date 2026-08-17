@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "2-kings 21:7",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ያደረገውን ⟨את⟩ የአሼራህ ጣዖት በያህዌህ ለዳዊትና ለልጁ ለሰሎሞን «በዚህ ቤትና ከእስራኤል ነገዶች ሁሉ የመረጕትኋት በኢየሩሳሌም ውስጥ ⟨את⟩ ስሜን ለዘላለም እሾማለሁ» ባለው ቤት አስቀመጠ።",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "አስቀመጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የአሼራህ ጣዖት"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "ጣዖት"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "የአሼራህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ያደረገውን"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ውስጥ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ባለው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ለ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "በዚህ"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "እና በኢየሩሳሌም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የመረጕትኋት"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "መረጕኋት"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉ"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ነገዶች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "እሾማለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሜን"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ስሜን"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:53:24.067561531Z",
+  "model": "glm-5.3"
+}

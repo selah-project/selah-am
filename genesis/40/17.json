@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "genesis 40:17",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "በላይኛውም በቅርጫት ውስጥ ከአጥቢያ ሥራ የሆነ የፈርዖን ማንኛውም ምግብ ነበር፤ ወፎችም ከራሴ ራስ ላይ ከቅርጫቱ ⟨אתם⟩ በሉ።",
+  "tokens": [
+    {
+      "surface": "ובסל",
+      "gloss": "በቅርጫትም ውስጥ"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "በላይኛው"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ማንኛውም"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ምግብ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "የፈርዖን"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "אפה",
+      "gloss": "ከአጥቢያ"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "ወፎችም"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ምግቡን (ከቅርጫቱ)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הסל",
+      "gloss": "ቅርጫቱ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከላይ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ከራሴ ራስ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:57:18.629282779Z",
+  "model": "glm-5.3"
+}

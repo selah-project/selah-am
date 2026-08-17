@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ስለዚህ ሴቶቻቸውን ⟨את⟩ ለሌሎች እሰጣለሁ፣ መስኮቻቸውን ለወራሾች፤ በእውነት ከታናሽ እስከ ታላቁ ሁሉም ለትርፍ ይበጣጠያል፤ ከነቢይ እስከ ካህን ሁሉም ውሸት ይሠራል።",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "እሰጣለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሴቶቻቸውን"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "ሴቶቻቸውን"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "ለሌሎች"
+    },
+    {
+      "surface": "שדותיהם",
+      "gloss": "መስኮቻቸውን"
+    },
+    {
+      "surface": "ליורשים",
+      "gloss": "ለወራሾች"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "ከታናሽ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቁ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ይበጣጠያል"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ለትርፍ"
+    },
+    {
+      "surface": "מנביא",
+      "gloss": "ከነቢይ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ይሠራል"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ውሸት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:43:04.671858577Z",
+  "model": "glm-5.3"
+}

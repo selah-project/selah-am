@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ከዚያ ምድር አሹር ወጣ፤ እና ⟨את⟩ ነነዌን፣ ⟨את⟩ ረሆቦት-ኢርን እና ⟨את⟩ ከላሕን ሠራ።",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ዚያ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "አሹር"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "እና ሠራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነነዌን"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ነነዌ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ረሆቦት-ኢርን"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "ረሆቦት"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ኢር (ከተማ)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ከላሕን"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "ከላሕ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:35.267388863Z",
+  "model": "glm-5.3"
+}

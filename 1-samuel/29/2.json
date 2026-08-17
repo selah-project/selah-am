@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-samuel 29:2",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "የፍልስጤም አለቆች በመቶዎችና በሺዎች ያለፉ ሲሆን፣ ዳዊትና ሰዎቹም ከአኪስ ጋር በኋለኛው ያለፉ ነበር።",
+  "tokens": [
+    {
+      "surface": "וסרני",
+      "gloss": "አለቆችም"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "የፍልስጤም"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ያለፉ"
+    },
+    {
+      "surface": "למאות",
+      "gloss": "በመቶዎች"
+    },
+    {
+      "surface": "ולאלפים",
+      "gloss": "እና በሺዎች"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "እና ሰዎቹ"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ያለፉ"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "በኋለኛው"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "አኪስ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:50:00.027737723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ያህዌህ ኤሎሂም ⟨את⟩ ልብህን እና ⟨את⟩ ዘርህን ይጠምትልሃል፤ በሙሉ ልብህና በሙሉ ነፍስህ ያህዌህ ኤሎሂምን ⟨את⟩ እንድትወድ እንደ ሕይወትህ ማለት ነው።",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "ይጠምትልሃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂም አምላክህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልብህን"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ልብህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የዘርህን ልብ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ዘርህ"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "እንድትወድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ ኤሎሂምን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂም አምላክህ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ልብህ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "እና በሙሉ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ነፍስህ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "እንደ ማለት"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ሕይወትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:53:27.637173726Z",
+  "model": "glm-5.3"
+}

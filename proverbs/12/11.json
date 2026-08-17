@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የምድሩን ሰሪ በዳቦ ይጠግባል፤ ነገር ግን ከንቱ ነገሮችን የሚከተለው አእምሮ የጎደለው ነው።",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "ሰሪ"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "የምድሩን"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ይጠግባል"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "በዳቦ"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "ነገር ግን የሚከተለው"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "ከንቱ ነገሮችን"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "የጎደለው"
+    },
+    {
+      "surface": "לב",
+      "gloss": "አእምሮ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:25:47.404997965Z",
+  "model": "glm-5.3"
+}

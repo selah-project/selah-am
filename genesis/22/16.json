@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እንዲህም አለ፦ በራሴ ተማልኩ የያህዌህ ቃል ነው፤ አንተ ⟨את⟩ ⟨ይህንን ቃል⟩ አድርገሃል፣ ⟨את⟩ ⟨ልጅህን⟩ ⟨את⟩ ⟨ብቻውንም⟩ አልተወህም፣ ስለዚህ ምክንያት።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህም አለ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በራሴ"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ተማልኩ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "የ…ቃል ነው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ምክንያት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ልክ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "አድርገሃል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህንን ቃል"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃሉን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህንን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አልተወህም"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "አቆመህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጅህን"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ልጅህን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብቻውንም"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "ብቻውን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:42:29.881329772Z",
+  "model": "glm-5.3"
+}

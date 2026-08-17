@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "numbers 13:3",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ሞሼ እነርሱን ⟨את⟩ ላከ ከፓራን ምድረ በረሃ በያህዌህ አፍ ሁሉም እነርሱ ሰዎች ናቸው አለቆች የያዕቆብ ውኂዎች እነርሱ ናቸው።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ከምድረ በረሃ"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "ፓራን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "አለቆች"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውኂዎች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የያዕቆብ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እነርሱ ናቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T04:13:58.596092484Z",
+  "model": "glm-5.3"
+}

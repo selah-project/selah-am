@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ያቲርን ⟨את⟩ ከመሬቶቿ ጋር፣ እስተሞዓን ⟨את⟩ ከመሬቶቿ ጋር ሰጡ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ያቲርን"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ያቲር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ከ...ጋር ⟨את⟩",
+      "marks": "መሬቶቿን"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መሬቶቿ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እስተሞዓን"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "እስተሞዓ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ከ...ጋር ⟨את⟩",
+      "marks": "መሬቶቿን"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መሬቶቿ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:10:51.675343714Z",
+  "model": "glm-5.3"
+}

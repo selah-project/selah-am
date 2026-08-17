@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ወዳጄ እጁን ከበሩ ቀዳዳ ላከ፤ እና አንጀቴ በእርሱ ምክንያት ተነዋወች።",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "ወዳጄ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "החר",
+      "gloss": "በሩ ቀዳዳ"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "እና አንጀቴ"
+    },
+    {
+      "surface": "המו",
+      "gloss": "ተነዋወች"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ምክንያት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:04:09.281030116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 130,
+  "translation": "ነፍሴ ለአዶናይ ትጠብቃለች፤ ከሌሊቱ ጠባቢዎች ለጠዋት ከሚጠብቁ በልጥ ጠባቢዎች ለጠዋት እንደሚጠብቁ።",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ለአዶናይ"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "ከሌሊቱ ጠባቢዎች"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ለጠዋት"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "ጠባቢዎች"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ለጠዋት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:59.484781575Z",
+  "model": "glm-5.3"
+}

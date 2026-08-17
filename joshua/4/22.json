@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "joshua 4:22",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እናንተም ልጆቻችሁን ⟨את⟩ አሳያችሁ እንዲህ ሲሉ፦ እስራኤል በደረቀ ምድር ይህን ዮርዳኖስ ⟨את⟩ ዞሯል፤",
+  "tokens": [
+    {
+      "surface": "והודעתם",
+      "gloss": "አሳያችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጆቻችሁን"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ልጆቻችሁ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲሉ"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "በደረቀ ምድር"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ዞሯል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህን ዮርዳኖስ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:59:31.895348878Z",
+  "model": "glm-5.3"
+}

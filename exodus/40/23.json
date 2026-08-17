@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "በእርሱ ላይ የዳቦ ሰልፍ አዘጋጀ በያህዌህ ፊት፤ እንደ አዘዘ ያህዌህ ⟨את⟩ ሞሼን።",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "አዘጋጀ\/አሰለፈ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "ሰልፍ\/አደራደር"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ…ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሼን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:40:11.089628259Z",
+  "model": "glm-5.3"
+}

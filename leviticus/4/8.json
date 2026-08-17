@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የኃጢአት መሥዋዕቱ ከበሬው ⟨את⟩ ሁሉን ስብ ያነሳዋል፤ ⟨את⟩ በአመባባቹ ላይ ያለውን የሚሸፍነውን ስብ እና ⟨את⟩ በአመባባቹ ላይ ያለውን ሁሉን ስብ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን ስብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ስብ"
+    },
+    {
+      "surface": "פר",
+      "gloss": "የበሬው"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "የኃጢአት መሥዋዕት"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ያነሳዋል"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሚሸፍነውን ስብ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ስቡን"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "የሚሸፍነው"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "አመባባቹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን ስብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ስብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነው"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "አመባባቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:08:41.937204546Z",
+  "model": "glm-5.3"
+}

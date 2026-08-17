@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ካህኑምም ችግሩ በውስጡ ላለበት ⟨את⟩ ነገር እንዲታጠብ ያዘዝ፤ እንደ ገናም ሰባት ቀን ያገለለዋል።",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ያዘዝ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑምም"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "እንዲታጠብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነገር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ላለበት"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በውስጡ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ችግሩ"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "ያገለለዋል"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "እንደ ገናም"
+    }
+  ],
+  "timestamp": "2026-08-16T19:11:18.176850561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እና እስራኤል በሙሉ ወደ ዳዊት ወደ ኬብሮን ተሰበሰቡ፤ «እነሆ ደምህና ሥጋህ እኛ ነን» ብለው ሲሉ።",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ተሰበሰቡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "ወደ ኬብሮን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ሲሉ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "ደምህ"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "እና ሥጋህ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "እኛ ነን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:39:37.070172784Z",
+  "model": "glm-5.3"
+}

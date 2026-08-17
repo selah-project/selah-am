@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "job 12:14",
+  "book": "job",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "እነሆ ያፈርሳል እና ⟨እንደገና⟩ አይገነባም፤ በሰው ላይ ያቆላል እና አይከፈትም።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "יהרוס",
+      "gloss": "ያፈርሳል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ይገነባም"
+    },
+    {
+      "surface": "יסגר",
+      "gloss": "ያቆላል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ይከፈታል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:45:35.728186487Z",
+  "model": "glm-5.3"
+}

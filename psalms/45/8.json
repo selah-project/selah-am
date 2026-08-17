@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "ጽድቅን ወደድክ፣ ክፉነትንም ጠላክ፤ ስለዚህ ኤሎሂም፣ ኤሎሂምህ፣ ከባልደሮችህ በላይ በደስታ ዘይት ቀባህ።",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ወደድክ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቅን"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "እና ጠላክ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉነትን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚህ\/ስለዚህ"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "ቀባህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምህ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘይት"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "የደስታ"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "ከባልደሮችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:45:05.753352143Z",
+  "model": "glm-5.3"
+}

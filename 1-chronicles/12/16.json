@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "እነዚህ ⟨ናቸው⟩ የፈለፈሉት — ⟨את⟩ ዮርዳኖስን በመጀመሪያው ወር ያቋረጡ፤ እርሱም በሁሉ ዳርቻዎቹ ላይ ሞልቶ ነበር፤ እና ⟨את⟩ ሁሉን ሸለቆዎችን ወደ ምሥራቅና ወደ ምዕራብ አሰደዱ።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨ናቸው⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ው"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ያቋረጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮርዳኖስን"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስን"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "በ…ወር"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "መጀመሪያው"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "እና እርሱ"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "ሞልቶ ነበር"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "ዳርቻዎቹ"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "እና አሰደዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "ሸለቆዎችን"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "ወደ ምሥራቅ"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "እና ወደ ምዕራብ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:53:38.653030777Z",
+  "model": "glm-5.3"
+}

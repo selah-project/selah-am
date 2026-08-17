@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ከዕለታቸው የወተት የሰብልና የወይን ጠጅ በብዛት ሲብዛ ያነሰ ደስታ በልቤ ውስጥ ሰጠኸኝ።",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "ሰጠኸኝ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ደስታ"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "በልቤ ውስጥ"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "ከዕለት"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "የሰብላቸው"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "እና የወይን ጠጃቸው"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ሲብዛ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:28:24.617703028Z",
+  "model": "glm-5.3"
+}

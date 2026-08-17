@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "proverbs 2:18",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እንደ መሆኑ ቤቷ ወደ ሞት ተወርዷል፣ መንገዶቿም ወደ ሬፋይም ያዘንባሉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ መሆኑ"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "ተወርዷል\/ያዘንባል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ቤቷ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ሬፋይም"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "መንገዶቿ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:20:58.142467045Z",
+  "model": "glm-5.3"
+}

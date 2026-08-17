@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 104,
+  "translation": "ፀሐይ በወጣች ጊዜ ተሰብስበው ወደ መኖሪያዎቻቸው ተኝተው ይቀመጣሉ።",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "በወጣች ጊዜ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ፀሐይ"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "ተሰብሰቡ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "መኖሪያዎቻቸው"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "ተኝተው ይቀመጣሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:38.721815259Z",
+  "model": "glm-5.3"
+}

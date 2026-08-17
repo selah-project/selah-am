@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 139,
+  "translation": "ገና ያልተሠራኝ እኔን ዐይኖችህ አዩ፤ በመጽሐፍህም ሁሉ ይጻፋሉ፤ ቀኖች ተሠሩ፤ ከእነሱም አንድም የለም።",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "ገና ያልተሠራኝ እኔን"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "አዩ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ዐይኖችህ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "በ…ም"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "መጽሐፍህ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "ይጻፋሉ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀኖች"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "ተሠሩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…የለምም"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድም"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "በእነሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:37.856807763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የመጀመሪያ ፍሬዎች መባ ⟨את⟩ እነሱን ለያህዌህ ታቀርባላችሁ፤ ወደ መሠዊያው ግን ለሚያረስ መዓዛ አይወጡም።",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "መባ"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "የመጀመሪያ ፍሬዎች"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "ታቀርባላችሁ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይወጡም"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "አይወጡም"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "ለመዓዛ"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "የሚያረስ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:41:18.598006426Z",
+  "model": "glm-5.3"
+}

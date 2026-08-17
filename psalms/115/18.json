@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 115,
+  "translation": "እኛ ግን ያህን ከዚህ ጊዜ ጀምሮ እስከ ዘለዓለም እናመሰግናለን። ያህን አመስግኑ።",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "እኛ ግን"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "እናመሰግናለን"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህን"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ከዚህ ጊዜ ጀምሮ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለዓለም"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "አመስግኑ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:59.857082384Z",
+  "model": "glm-5.3"
+}

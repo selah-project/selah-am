@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ቅድስና እና ቅድስና ያልሆነውን፣ እና ርኵሰት እና ንጹህነትን ለመለየት።",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "እና ለመለየት"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በአንድ ወገን"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ቅድስና"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እና በሌላ ወገን"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ያልተቀደሰው"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እና በሌላ ወገን"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ርኵሰት"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "እና በሌላ ወገን"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "ንጹህነት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:47:11.515923731Z",
+  "model": "glm-5.3"
+}

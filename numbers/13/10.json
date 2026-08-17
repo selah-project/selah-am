@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ለዘብሉን ነገዥ ጋድኤል የሶዲ ልጅ።",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ለ...ነገዥ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ዘብሉን"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "ጋድኤል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "ሶዲ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:13:24.738833559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 81,
+  "translation": "ጠባቂዎቻቸውን በትንሹ አስረክቤ በጠላቶቻቸውም ላይ እጄን እመልስ ኖሮ።",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "በትንሹ"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ጠባቂዎቻቸውን"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "አስረክቤ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "በጠላቶቻቸው"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "እመልስ ኖሮ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "እጄን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:21.168942517Z",
+  "model": "glm-5.3"
+}

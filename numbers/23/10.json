@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "የያዕቆብን አፈር ማን ይቆጥራል? የውእት አራተኛን ቁጥርስ ⟨את⟩ የእስራኤልን ማን ይቁጠራል? ዐድል ሞት ይሞት ነፍሴ፣ ኋላዬም እንደ እነርሱ ይሁን።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "ይቆጥራል"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "አፈር"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "የያዕቆብን"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "ቁጥርስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አራተኛ የእስራኤል"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "አራተኛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "תמת",
+      "gloss": "ይሞት"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ዐድል"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "ኋላዬ"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "እንደ እነርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:22:19.774672226Z",
+  "model": "glm-5.3"
+}

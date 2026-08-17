@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "exodus 36:13",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "ሃምሳ የወርቅ ክርሶችን አደረገ፤ እና ⟨את⟩ ከእርግጥ ምንጣፎች አንዱን ከሌላው ጋር በክርሶቹ አገናኘ፤ መንበሩም አንድ ሆነ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ፤"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ሃምሳ"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "ክርሶችን"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "የወርቅ"
+    },
+    {
+      "surface": "ויחבר",
+      "gloss": "አገናኘ፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከእርግጥ ምንጣፎች"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ምንጣፎች"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "አንዱን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ሌላው"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "በክርሶቹ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ፤"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "መንበሩም"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:37:57.751914888Z",
+  "model": "glm-5.3"
+}

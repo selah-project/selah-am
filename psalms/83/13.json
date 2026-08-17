@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 83,
+  "translation": "ያሉትም «የኤሎሂምን ⟨את⟩ መስኮች ወርሰን ይዘን» እንልል ያሉ ናቸው።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ያሉትም"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "እንልል ያሉ"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "ወርሰን ይዘን"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለኛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መስኮች"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "መስኮች"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "የኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:43.422118866Z",
+  "model": "glm-5.3"
+}

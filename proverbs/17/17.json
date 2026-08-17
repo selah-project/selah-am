@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "በየጊዜው ሁሉ ወዳጅ ያፈቅራል፤ ወንድምም ለጭንቀት ይወለዳል።",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "በየጊዜው ሁሉ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ያፈቅራል"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ወዳጅ"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "ወንድምም"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "ለጭንቀት"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "ይወለዳል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:29:42.453240815Z",
+  "model": "glm-5.3"
+}

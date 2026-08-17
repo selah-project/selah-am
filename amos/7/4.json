@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "amos 7:4",
+  "book": "amos",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እንዲህ አዶናይ ያህዌህ አሳየኝ፤ እነሆ አዶናይ ያህዌህ በእሳት ለመከራከር ይጠራ ነበር፤ ⟨את⟩ ታላቁን ጥልቅ ውኃ በላ፣ እና ⟨את⟩ ⟨የ⟩ክፍሉን በላ።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "አሳየኝ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ይጠራ ነበር"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ለመከራከር"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "በላ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጥልቅ ውኃ"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "ጥልቅ ውኃ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ታላቁን"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "በላ። እና"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክፍሉን"
+    },
+    {
+      "surface": "החלק",
+      "gloss": "ክፍሉን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:08:16.806196369Z",
+  "model": "glm-5.3"
+}

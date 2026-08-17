@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 132,
+  "translation": "ወደ መኖሪያዎቹ እንግባ፤ ወደ እግሩ ወደታች እንስገድ።",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "እንግባ"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "ወደ መኖሪያዎቹ"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "እንስገድ"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "ወደ እግሩ ወደታች"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "እግሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:16.538307815Z",
+  "model": "glm-5.3"
+}

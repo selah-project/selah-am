@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 110,
+  "translation": "ያህዌህ ማልቆ ለዘላለም ካህን እንደ ሆንህ በዘፈቀደ አልነሳም፤ በምሳሌዬ እንደ ማልኪጼዴቅ ሆነሃል።",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ማልቆ አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል…አም"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "ያዘንም\/አይቀይርም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…መሠረት"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "በምሳሌዬ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "የማልኪ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጼዴቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:52.303269972Z",
+  "model": "glm-5.3"
+}

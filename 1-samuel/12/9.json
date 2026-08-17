@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ያህዌህን ኤሎሂምን ዘነቁ፤ እርሱም ⟨את⟩እነርሶን በሲሰራ በሐጾር ሠራዊት አለቃ እጅ፣ በፍልስጤሞች እጅ፣ በሞዓብ ንጉሥ እጅ ሸጣቸው፤ እነርሱም በእነርሱ ላይ ዋጉ።",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "ዘነቁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "ሸጣቸው"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሶ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጅ"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "ሲሰራ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ሠራዊት"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ሐጾር"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "በእጅም"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤሞች"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "በእጅም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ዋጉ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በእነርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:42:55.851626262Z",
+  "model": "glm-5.3"
+}

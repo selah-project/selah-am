@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ስምህን ለወንድሞቼ እነግራለሁ፤ በማኅበረሰብ መካከል አመስግንሃለሁ።",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "እነግራለሁ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህን"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "ለወንድሞቼ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ማኅበረሰብ"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "አመስግንሃለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:48.866827167Z",
+  "model": "glm-5.3"
+}

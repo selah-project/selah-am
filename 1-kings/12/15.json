@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 12:15",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ንጉሡም ወደ ሕዝቡ አልሰማም፣ የያህዌህ ዕውልድ ሆኖ ነበርና፣ ያህዌህ በአኪያ ሰሎናዊው እጅ ወደ የበዓም ልጅ ናባት የተናገረውን ⟨את⟩ ቃሉን ሊያከናውን።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "አልሰማም፣"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነበርና"
+    },
+    {
+      "surface": "סבה",
+      "gloss": "ዕውልድ\/መገለባበጫ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ከ…የተነሳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ሊያከናውን፣"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ሊያከናውን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃሉን"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ቃሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የተናገረውን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በ…እጅ"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "አኪያ"
+    },
+    {
+      "surface": "השילני",
+      "gloss": "ሰሎናዊው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "የበዓም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ናባት"
+    }
+  ],
+  "timestamp": "2026-08-16T16:27:40.562834887Z",
+  "model": "glm-5.3"
+}

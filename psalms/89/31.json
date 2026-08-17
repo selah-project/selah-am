@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "ውሎቹ በቶራቴ ቢያመልጡ፣ እና በፍርዴዎቼ ቢሄዱ፣",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ\/ቢ"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "ቢያመልጡ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውሎቹ"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "በቶራቴ"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "እና በፍርዴዎቼ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "ቢሄዱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:40.795946732Z",
+  "model": "glm-5.3"
+}

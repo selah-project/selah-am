@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "genesis 49:3",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "ሮቤን ሆይ፣ የአንተ ብቁር ልጄ ነህ፤ ኃይሌ በኃይሌ መጀመሪያ፣ የኃይሌ በኩር ውጤት፤ የክብር ብልጽግና፣ የኃይልም ብልጽግና።",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "ሮቤን"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "ብቁር ልጄ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ኃይሌ"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "መጀመሪያ"
+    },
+    {
+      "surface": "אוני",
+      "gloss": "ኃይሌ በኩር ውጤት"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ብልጽግና"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ክብር"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ብልጽግናም"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ኃይል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:05:37.990540645Z",
+  "model": "glm-5.3"
+}

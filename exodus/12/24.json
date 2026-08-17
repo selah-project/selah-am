@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ይህንን ቃል ⟨את⟩ ለእናንተና ለልጆቻችሁ ሕግ በሆነ መልኩ እስከ ዘላለም ድረስ ትጠብቁታል።",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "እና ትጠብቃላችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህንን ቃል"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህንን"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "ሕግ በሆነ መልኩ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለእናንተ"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "እና ለልጆቻችሁ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘላለም ድረስ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:13:48.239374037Z",
+  "model": "glm-5.3"
+}

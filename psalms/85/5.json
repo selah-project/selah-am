@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 85,
+  "translation": "የመዳናችን ኤሎሂም ሆይ፣ ተመልሰን፤ ቍጣህንም ከእኛ ጋር አቋርጥ።",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "ተመልሰን"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "የመዳናችን"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "አቋርጥ።"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "ቍጣህን"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ከእኛ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:27.270176834Z",
+  "model": "glm-5.3"
+}

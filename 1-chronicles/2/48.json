@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የካሌብ ባለሟል ማዓኻም ሸበርን ወለደች፤ እና ቲርኻናንን ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "ባለሟል"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ካሌብ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ማዓኻ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ሸበር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ቲርኻናንን"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "ቲርኻና"
+    }
+  ],
+  "timestamp": "2026-08-16T12:32:46.214382461Z",
+  "model": "glm-5.3"
+}

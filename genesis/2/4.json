@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "genesis 2:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እነዚህ ⟨የ⟩ ሰማያትና ምድር ትውላጎች ናቸው፤ በተፈጠሩበት ጊዜ በያህዌህ ኤሎሂም ምድርንና ሰማያትን ባደረገበት ቀን።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "ትውላጎች"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "እና ምድር"
+    },
+    {
+      "surface": "בהבראם",
+      "gloss": "በተፈጠሩበት ጊዜ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ባደረገበት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "እና ሰማያትን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:30:47.151023292Z",
+  "model": "glm-5.3"
+}

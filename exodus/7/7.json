@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 7:7",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ሞሼ የሰማንያ ዓመት ልጅ ነበር፣ አሃሮንም የሰባ አምሳ ሦስት ዓመት ልጅ ነበር፣ በፈርዖን ሲናገሩ።",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ሰማንያ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "እና አሃሮን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "እና ሰማንያ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "בדברם",
+      "gloss": "በመናገራቸው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    }
+  ],
+  "timestamp": "2026-08-16T14:29:56.260636417Z",
+  "model": "glm-5.3"
+}

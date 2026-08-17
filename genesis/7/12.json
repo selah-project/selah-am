@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ዝናቡም በምድር ላይ አርባ ቀንና አርባ ሌሊት ዝናብ አደረገ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ዝናቡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "አርባ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "እና አርባ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ሌሊት"
+    }
+  ],
+  "timestamp": "2026-08-16T02:31:26.441365972Z",
+  "model": "glm-5.3"
+}

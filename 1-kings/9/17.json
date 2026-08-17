@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ሰሎሞንም ⟨את⟩ ገዛርን እና ⟨את⟩ የታችኛውን ቤቴ-ሖሮን ሠራ።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞንም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገዛርን"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ገዛር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ቤቴ-ሖሮንን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤቴ"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "ሖሮን"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "የታችኛው"
+    }
+  ],
+  "timestamp": "2026-08-16T06:21:55.752936346Z",
+  "model": "glm-5.3"
+}

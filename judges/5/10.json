@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "judges 5:10",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ነጭ አህዮችን የሚጋልቡት፣ በምንጣፍ ላይ የሚቀመጡት እና በመንገድ ላይ የሚሄዱት — ተናገሩ፤ አስቡ።",
+  "tokens": [
+    {
+      "surface": "רכבי",
+      "gloss": "የሚጋልቡት"
+    },
+    {
+      "surface": "אתנות",
+      "gloss": "አህዮችን"
+    },
+    {
+      "surface": "צחרות",
+      "gloss": "ነጭ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "የሚቀመጡት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ምንጣፍ"
+    },
+    {
+      "surface": "והלכי",
+      "gloss": "እና የሚሄዱት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ተናገሩ፤ አስቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:16:37.840837108Z",
+  "model": "glm-5.3"
+}

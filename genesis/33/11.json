@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "genesis 33:11",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "እባክህ ⟨את⟩ በረከቴን ውሰድ፤ ለአንተ የተቀረበች ወደ አንተ የመጣችው፤ ኤሎሂም ምሕረት አድርጎልኝ ነውና፣ እና ሁሉ አለኝና። ያዕቆብም በእርሱ ላይ አጣራ፤ ዔሳውም ወሰዳት።",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ውሰድ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በረከቴን"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "በረከቴን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነችው"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "የተቀረበች"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ምሕረት አድርጎልኝ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "እና ስለዚህ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "አጣራ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰዳት"
+    }
+  ],
+  "timestamp": "2026-08-16T02:49:18.572091800Z",
+  "model": "glm-5.3"
+}

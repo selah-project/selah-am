@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "ንጉሡ ላከና ፈታው፤ የሕዝቦች አለቃ አወጣው።",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "እና ፈታው"
+    },
+    {
+      "surface": "משל",
+      "gloss": "የ... አለቃ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "አወጣው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:33.945475312Z",
+  "model": "glm-5.3"
+}

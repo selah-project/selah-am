@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "ዐይን ያላቸው ዕውሮችን ሕዝብ አውጣ፤ ጆሮ ያላቸውም ደኞችን።",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "አውጣ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ዕውሮችን"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ዐይን ያላቸውም"
+    },
+    {
+      "surface": "יש",
+      "gloss": "አላቸው"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "ደኞችንም"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "ጆሮ ያላቸውም"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ላቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T07:20:37.514105685Z",
+  "model": "glm-5.3"
+}

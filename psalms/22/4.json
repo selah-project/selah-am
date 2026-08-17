@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እና አንተ ቅዱስ ነህ፣ በእስራኤል ምስገጣሞች ላይ የተቀመጥህ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "እና አንተ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "የተቀመጥህ"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "ምስገጣሞች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:24.940319775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "ጨለምን ላከ እና ጨለመ፤ እነርሱም ⟨את⟩ ቃሉን አልተታዘቡም።",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጨለምን"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "እና ጨለመ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል…ም"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "አልተታዘቡም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃሉን"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "ቃሉን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:03.576295320Z",
+  "model": "glm-5.3"
+}

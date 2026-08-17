@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 39,
+  "ref": "2-samuel 13:39",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "የዳዊትም ንጉሡ ልብ ወደ አብሳሎም ለመውጣት ተገደደ፤ ስለ አምኖን ተጽድኖ ነበርና፣ ሞተና።",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "ተገደደ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "ለመውጣት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "አብሳሎም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ና"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "ተጽድኖ ነበር"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "አምኖን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ስለዚህ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞተ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:59:05.625815591Z",
+  "model": "glm-5.3"
+}

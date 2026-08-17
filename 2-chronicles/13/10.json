@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 13:10",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እኛ ግን — ያህዌህ ኤሎሂም ነው፤ አልተወነውም፤ ካህናትም ለያህዌህ እያገለገሉ ነው — የአሃሮን ልጆች እና ሌዋዊዎች በሥራው ላይ።",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "እኛ ግን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "עזבנהו",
+      "gloss": "ተወነውም"
+    },
+    {
+      "surface": "וכהנים",
+      "gloss": "ካህናትም"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "እያገለገሉ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "እና ሌዋዊዎች"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "በሥራው ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:51:15.217526194Z",
+  "model": "glm-5.3"
+}

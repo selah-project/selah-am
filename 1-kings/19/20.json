@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 19:20",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ላሞቹንም ⟨את⟩ ትቶ ኤልያሑን አሳደደ፤ «እባክህ አባቴንና እናቴን አክብስ፣ ከዚያም እከተልሃለሁ» አለ። እርሱም «ሂድ፣ ተመልስ፤ ምን አደረግሁልህ?» አለው።",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "ትቶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ላሞቹን"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ላሞቹን"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "አሳደደ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "በኋላ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያሑን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "አክብስ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "አባቴን"
+    },
+    {
+      "surface": "ולאמי",
+      "gloss": "እናቴን"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "እከተልሃለሁ"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "በኋላህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ተመልስ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ።"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "አደረግሁልህ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ልህ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:31:03.459102942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ልጆችህን በትክክል ታስተምራቸዋለህ፤ በቤትህ ተቀምጠህ፣ በጎዳና ሲት ሔደህ፣ ተኝተህና ተነስተህ በእነሱ ታወራለህ።",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "ታስተምራቸዋለህ"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ልጆችህን"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ታወራለህ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በእነሱ"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "ተቀምጠህ"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "በቤትህ"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "ሲት ሔደህ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በጎዳና"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "ተኝተህ"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "ተነስተህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:35:08.863918544Z",
+  "model": "glm-5.3"
+}

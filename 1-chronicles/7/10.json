@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-chronicles 7:10",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የይዲዓኤል ወንድም ቢልሃን ነበር፤ የቢልሃን ወንድሞችም ይዑስ፣ ብንያም፣ ኤሁድ፣ ከነዓናህ፣ ዜታን፣ ተርሴስ እና አሂሰሐር ናቸው።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "የ…ወንድም"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "ይዲዓኤል"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "ቢልሃን"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "የ…ወንድሞችም"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "ቢልሃን"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "ይዑስ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ብንያም"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "ኤሁድ"
+    },
+    {
+      "surface": "וכנענה",
+      "gloss": "ከነዓናህ"
+    },
+    {
+      "surface": "וזיתן",
+      "gloss": "ዜታን"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "ተርሴስ"
+    },
+    {
+      "surface": "ואחישחר",
+      "gloss": "አሂሰሐር"
+    }
+  ],
+  "timestamp": "2026-08-16T12:43:43.571642976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 15:5",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ነገር ግን እንደ ሆነ ለያህዌህ ለአምላክህ በድምፅ በትክክል ብትሰማ፣ ዛሬ እኔ የምያዝህን ⟨את⟩ ይህንን ሙሉ ትእዛዝ ለመጠበቅና ለማድረግ፣",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንደ ሆነ"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "በትክክል ብትሰማ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ትሰማ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "በድምፅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ለአምላክህ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ለመጠበቅ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ለማድረግ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህንን ሙሉ ትእዛዝ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሙሉ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህንን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምያዝህን"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "የምያዝህ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    }
+  ],
+  "timestamp": "2026-08-17T06:20:15.706989926Z",
+  "model": "glm-5.3"
+}

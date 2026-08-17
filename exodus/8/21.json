@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ፈርዖንም ሞሼን እና አሃሮንን ጠራ፤ «ሂዱ፤ ለኤሎሂም አምላካችሁ ⟨በ⟩ምድሩ ውስጥ አሉት» አላቸው።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "እና አሃሮንን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ሂዱ"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "አሉት"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "ለኤሎሂም አምላካችሁ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:10:49.357091340Z",
+  "model": "glm-5.3"
+}

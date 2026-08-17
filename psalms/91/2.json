@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 91,
+  "translation": "እለፋለሁ ለያህዌህ መጠለያዬ ነው እና ግንቤ ኤሎሂም አምነዋለሁ በእርሱ።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "እለፋለሁ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "መጠለያዬ"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "እና ግንቤ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "አምነዋለሁ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:36.522275517Z",
+  "model": "glm-5.3"
+}

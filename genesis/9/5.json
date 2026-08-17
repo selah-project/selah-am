@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እና እውነትም ደራሽሁን ⟨את⟩ ለነፍሳችሁ እፈልጣለሁ፤ ከእንስሳ ሁሉ እጅ እፈልጠዋለሁ፤ እና ከሰው እጅ፣ ከየወንድሙ እጅ የሰውን ነፍስ ⟨את⟩ እፈልጣለሁ።",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "እና እውነትም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደራሽሁን"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "ደራሽሁን"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "ለነፍሳችሁ"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "እፈልጣለሁ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ከሁሉም"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "እንስሳ"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "እፈልጠዋለሁ"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "እና ከእጅ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "የሰው"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "የየሰውዬ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሙ"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "እፈልጣለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሰውን ነፍስ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "የሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:32:07.523524576Z",
+  "model": "glm-5.3"
+}

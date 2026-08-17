@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 116,
+  "translation": "እየዘረጋብኝ ነውና ጆሮውን፣ በቀኖቼም ውስጥ እጠራለሁ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እየ...ነውና"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "እየዘረጋብኝ ነው፣"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ጆሮውን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ብኝ"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "በቀኖቼም ውስጥ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "እጠራለሁ።"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:35.968125079Z",
+  "model": "glm-5.3"
+}

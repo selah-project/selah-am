@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "isaiah 44:18",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "አያውቁም እና አይረዱም፤ ምክንያቱም ዓይኖቻቸው ከማየት ተሸምተዋል፣ ልባቸውም ከመረዳት ተሸምቷል።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ያውቁም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ይረዱም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "טח",
+      "gloss": "ተሸምቷል"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ከማየት"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ዓይኖቻቸው"
+    },
+    {
+      "surface": "מהשכיל",
+      "gloss": "ከመረዳት"
+    },
+    {
+      "surface": "לבתם",
+      "gloss": "ልባቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T07:23:51.587676278Z",
+  "model": "glm-5.3"
+}

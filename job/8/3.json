@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ኤል ፍርድን ይዘብልባልን? ወይስ ሻዳይ ጽድቅን ይዘብልባልን?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ይዘብልባልን"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድን"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ወይስ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ሻዳይ"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ይዘብልባልን"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቅን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:43:07.013837250Z",
+  "model": "glm-5.3"
+}

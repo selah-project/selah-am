@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "ጥልቅ ጥልቅን ይጣራል፤ በውኃ-ፏፏቶችህ ድምፅ፤ አውቆችህም ማዕበሎችህም ሁሉ በእኔ ላይ አልፈዋል።",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "ጥልቅ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ይጣራል"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "ጥልቅን"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "ጮኾ ይጣራል"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "በድምፅ"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "ውኃ-ፏፏቶችህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "አውቆችህ"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "ማዕበሎችህም"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "አልፈዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T18:11:06.103823494Z",
+  "model": "glm-5.3"
+}

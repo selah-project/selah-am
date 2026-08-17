@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 9:22",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ያህዌህም ሞሼን፣ «እጅህን ⟨את⟩ ወደ ሰማያት ዘርጋ፤ በምድረ ምጽሐም ሁሉ ላይ ደመና ይሁን፤ በሰው እና በእንስሳት እና በምድረ ምጽሐም ሜዳው ሣር ሁሉ ላይ» አለው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ዘርጋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጅህን"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "እጅህን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ\/ላይ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ደመና"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽሐም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና ላይ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "እንስሳት"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ሣር"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "የሜዳው"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽሐም"
+    }
+  ],
+  "timestamp": "2026-08-16T14:42:22.591171580Z",
+  "model": "glm-5.3"
+}

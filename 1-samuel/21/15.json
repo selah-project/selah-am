@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ዓቂስም ወደ አገልጋዮቹ እንዲህ አለ፦ እነሆ ዉል የሆነ ሰው ታያላችሁ፤ ስለዚህ ለምን ⟨את⟩ እሱን ወደ እኔ አመጣችሁ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለ፦"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "ዓቂስም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "አገልጋዮቹ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "ታያላችሁ፤"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "ዉል የሆነ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "አመጣችሁ?"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እሱን"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:46:53.234836481Z",
+  "model": "glm-5.3"
+}

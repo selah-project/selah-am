@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "መልአኮቹም ወደ ሳኦል ጊባ መጡ፤ ⟨את⟩ ነገሮቹንም በሕዝቡ ጆሮ ተናገሩ፤ ሕዝቡም ሁሉ ⟨את⟩ ድምፋቸውን አንሥተው አለቀሱ።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "መልአኮቹም"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "ጊባ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "የሳኦል"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ተናገሩ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ነገሮቹን"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "በ…ጆሮ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "አንሥተው"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምፋቸውን"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ድምፋቸውን"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "አለቀሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:38:53.045030194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ያሁ ከአባቶቹ ጋር ተኝቶ ⟨את⟩ን በሰማርያ ቀበሩት፤ ልጁ የነበረው ዮሆአሐዝ በርሱ ፋንታ ነገሠ።",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ተኝቶ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ያሁ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "አባቶቹ"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ቀበሩት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ያሁን"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "በሰማርያ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "ዮሆአሐዝ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "በርሱ ፋንታ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:44:01.609064574Z",
+  "model": "glm-5.3"
+}

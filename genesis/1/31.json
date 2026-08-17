@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ኤሎሂምም ⟨את⟩ የሠራውን ሁሉ አየ፤ እነሆም በጣም መልካም ነበር። መሸም ሆነ፤ ማለያም ሆነ — ትእምርቱ ቀን።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሠራውን ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ሠራውን"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆም"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "መሸም"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ማለያ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ትእምርቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:28:13.103880914Z",
+  "model": "glm-5.3"
+}

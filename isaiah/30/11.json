@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 30:11",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ከመንገዱ ተራቁ፤ ከጎዳናው ተወጣጡ፤ የእስራኤልን ቅዱስ ⟨את⟩ ከፊታችን ያቁሙ።",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "ተራቁ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መንገዱ"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "ተወጣጡ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ጎዳናው"
+    },
+    {
+      "surface": "השביתו",
+      "gloss": "ያቁሙ"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "ከፊታችን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅዱስ የእስራኤልን"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T16:58:18.347858971Z",
+  "model": "glm-5.3"
+}

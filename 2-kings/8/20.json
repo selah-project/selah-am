@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "በዕድሜው በእርሱ ቀናት ኤዶም አመጸነ ከታች ከይሁዳ እጅ እና አንብተው አስነገሱ በእነርሱ ላይ ንጉሥ።",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "በዕድሜው በእርሱ ቀናት"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "አመጸነ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ከታች"
+    },
+    {
+      "surface": "יד",
+      "gloss": "እጅ ከ…እጅ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "እና አንብተው አስነገሱ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "በእነርሱ ላይ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:42:57.705911386Z",
+  "model": "glm-5.3"
+}

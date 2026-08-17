@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 66,
+  "translation": "ኑ ስሙ፣ ኤሎሂምን የሚፈሩት ሁሉ፤ ለነፍሴ የአደረገውን እንግራለሁ።",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ኑ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "እንግራለሁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "የሚፈሩት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂምን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገውን"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ለነፍሴ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:15.821573214Z",
+  "model": "glm-5.3"
+}

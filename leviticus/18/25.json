@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ምድሪቱም ተርኵሳለች፤ ያህዌህም ወንጀሏን በእርሷ ላይ በማየት በቀሰቀሳት፤ ምድሪቱም ነዋሪዎችን ⟨את⟩ ተቃጠለች።",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "ተርኳለች"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪቱ"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "አየሁ፤ በቀሰቀስሁ"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ወንጀሏን"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "በእርሷ ላይ"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "ተቃጠለች (በትው፤ ተሰወረች)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነዋሪዎችን"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "ነዋሪዎቿን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:53:22.108894437Z",
+  "model": "glm-5.3"
+}

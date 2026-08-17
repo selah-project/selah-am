@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ለያህዌህ ጠብቅ፤ በር፣ ልብህን አጽንዕ፤ አዎ ለያህዌህ ጠብቅ።",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "ጠብቅ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "በር"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "አጽንዕ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ልብህን"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "በጠብቅ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:12.189974142Z",
+  "model": "glm-5.3"
+}

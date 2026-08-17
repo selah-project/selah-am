@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "በበረከቶች ሞገስህ አትከብተዋልና፤ የተጣራ ወርቅ አክሊል በራሱ ላይ አትከብተዋል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ሞገስህ አትከብተዋልና"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "አትከብተዋልና"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "በበረከቶች"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ሞገስ"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "አትከብተዋል"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "በራሱ ላይ"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "አክሊል"
+    },
+    {
+      "surface": "פז",
+      "gloss": "የተጣራ ወርቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:15.049606798Z",
+  "model": "glm-5.3"
+}

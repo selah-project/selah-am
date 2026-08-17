@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "ከፀሐይ መውጫ እስከ መግቢያ ያውቁ ዘንድ በእኔ በቀር ሌላ የለም፤ እኔ ያህዌህ ነኝ፤ ሌላ የላም።",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ዘንድ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ያውቁ"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ከፀሐይ መውጫ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ፀሐይ"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "እስከ መግቢያ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ።"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "ሌላ የለም፤"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "በእኔ በቀር"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የላም፤"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ሌላ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:23:09.102766774Z",
+  "model": "glm-5.3"
+}

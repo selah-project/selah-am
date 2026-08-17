@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "የወርቁን ⟨את⟩ መሠዊያ በስብሰባው ድንኳን ውስጥ በመጋረጁ ፊት አኖረ።",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "አኖረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሠዊያን"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠዊያ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "የወርቅ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "በ…ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ስብሰባው"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ…ፊት"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "መጋረጁ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:40:00.233073100Z",
+  "model": "glm-5.3"
+}

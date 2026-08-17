@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ክፉ ስለ ነፍሱ ምኞት ያመሰግናል፤ ስለ ምክር የሚበረክተውን ያመሰግናል፤ ያህዌህን ይንቀቋል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ እውነቱ"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "ያመሰግናል"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "ምኞት"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱ"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "ስለ ምክር"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ያመሰግናል"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "ይንቀቋል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:31:37.688950419Z",
+  "model": "glm-5.3"
+}

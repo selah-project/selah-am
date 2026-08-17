@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "«የሌዊን ነገድ ⟨את⟩ አቅርብ፤ ካህኑ አሃሮን ፊት ⟨אתו⟩ አቆም፤ እነርሱም ⟨אתו⟩ ያገለግሉት ዘንድ፤",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "አቅርብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሌዊን ነገድ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ነገድ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ሌዊ"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "አቆም"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "እርሱን (የሌዊን ነገድ)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "ያገለግሉ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "እርሱን (አሃሮንን)"
+    }
+  ],
+  "timestamp": "2026-08-16T04:05:32.400260182Z",
+  "model": "glm-5.3"
+}

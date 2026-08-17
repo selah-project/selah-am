@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ናታንም ወደ ቤቱ ሄደ፤ ያህዌህም የኡርያ ሚስት ለዳዊት የወለደችውን ሕፃን ⟨את⟩ መታው፤ ⟨ሕፃኑም⟩ ዳኝ አልነበረውም።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄደም"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ናታን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "መታውም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕፃኑን"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ሕፃኑን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ወለደችውን"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሚስት"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ኡርያ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "ዳኝ አልነበረውምም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:01:00.815996162Z",
+  "model": "glm-5.3"
+}

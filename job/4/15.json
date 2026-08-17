@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "job 4:15",
+  "book": "job",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "መንፈስም በፊቴ ላይ አለፈ፤ የሥጋዬ ፀጉር ቆለለ።",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "መንፈስም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊቴ"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "አለፈ"
+    },
+    {
+      "surface": "תסמר",
+      "gloss": "ቆለለ"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "ፀጉር"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "የሥጋዬ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:39:31.677753937Z",
+  "model": "glm-5.3"
+}

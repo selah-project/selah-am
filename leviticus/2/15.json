@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እና በእርሷ ላይ ዘይት ታፈሳለህ፤ እና በእርሷ ላይ ላቦና ታኖራለህ፤ መስጠቃት ናት።",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "እና ታፈሳለህ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "በእርሷ ላይ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘይት"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "እና ታኖራለህ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "በእርሷ ላይ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ላቦና"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "መስጠቃት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ናት\/ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:41:52.573075962Z",
+  "model": "glm-5.3"
+}

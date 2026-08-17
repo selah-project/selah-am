@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "ያዕቆብ ሆይ እና የተጠራሁት እስራኤል ሆይ ወደ እኔ ስማኝ፤ እኔ ነኝ፤ እኔ እኔ ቀዳሚ ነኝ፣ እኔ እኔ መጨረሻም ነኝ።",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ስማኝ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ ሆይ"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "እና እስራኤል"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "የተጠራሁት"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ነኝ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "ቀዳሚ ነኝ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "መጨረሻ ነኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:22:24.258783592Z",
+  "model": "glm-5.3"
+}

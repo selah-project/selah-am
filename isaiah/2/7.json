@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ምድሩ በብር እና በወርቅ ተሞለች፤ ለመዝረቦቹ መጨረሻ የለም፤ ምድሩ በፈረሶች ተሞለች፤ ለሠረገሎቹ መጨረሻ የለም።",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "ተሞለች"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ምድሩ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "በብር"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "እና በወርቅ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "መጨረሻ"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "ለመዝረቦቹ"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ተሞለች"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ምድሩ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "በፈረሶች"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "መጨረሻ"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "ለሠረገሎቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:56:15.917693778Z",
+  "model": "glm-5.3"
+}

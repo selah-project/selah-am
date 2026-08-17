@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "1-chronicles 16:11",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ያህዌህንና ኃይሉን ፈልጉ፤ ፊቱን ሁልጊዜ ፈልጉ።",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "ፈልጉ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "እና ኃይሉን"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ፈልጉ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱን"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:53:50.121462171Z",
+  "model": "glm-5.3"
+}

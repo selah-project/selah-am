@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ኖኅም ከመዝጊቱ በኋላ ሦስት መቶ ዓመትና ሃምሳ ዓመት ኖረ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ኖረ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖኅም"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ከ…በኋላ"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "መዝጊቱ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ና ሃምሳ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    }
+  ],
+  "timestamp": "2026-08-16T02:31:38.904088825Z",
+  "model": "glm-5.3"
+}

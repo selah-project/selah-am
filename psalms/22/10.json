@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ክፍለጊዜ አንተ ከሆድ አወጣኸኝ፤ በእናቴ ጡቶች ላይ አስታመንኸኝ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ክፍለጊዜ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "አወጣኸኝ"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ከሆድ"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "አስታመንኸኝ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ጡቶች"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "እናቴ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:44.845889865Z",
+  "model": "glm-5.3"
+}

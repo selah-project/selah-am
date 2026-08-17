@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "leviticus 27:30",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "ደግሞ የምድር አሥርተኛ ሁሉ — ከምድሩ ዘር፣ ከዛፉ ፍሬ — ለያህዌህ ⟨ነው⟩፤ ቅዱስ ለያህዌህ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ደግሞ ሁሉ"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "አሥርተኛ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "ከዘር"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ከፍሬ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ዛፍ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:02:55.720042182Z",
+  "model": "glm-5.3"
+}

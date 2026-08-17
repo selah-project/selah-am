@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "ስለዚህ እገስፋለሁ እና በአፈር እና በመድሐኒት ዘንድ ኃዘን አደርጋለሁ።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "እገስፋለሁ"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "እና ኃዘን አደርጋለሁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ዘንድ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "አፈር"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "እና መድሐኒት"
+    }
+  ],
+  "timestamp": "2026-08-16T18:14:04.187954785Z",
+  "model": "glm-5.3"
+}

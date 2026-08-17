@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ከእነርሱ ሁለቱም የተሻለው ⟨את⟩ እስከ አሁን የነበረው አልነበረም — ከፀሐይ በታች የሚደረገውን ⟨את⟩ ክፉ ሥራ ያላየው እርሱ ነው፤",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "የተሻለው"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "ከእነርሱ ሁለቱም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያልነበረው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "እስከ አሁን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበረም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያየው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "አየው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክፉ ሥራ"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚደረገውን"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ይደረጋል"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በታች"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ከፀሐይ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:15:05.218859769Z",
+  "model": "glm-5.3"
+}

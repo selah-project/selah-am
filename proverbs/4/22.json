@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "proverbs 4:22",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እነሱ ለአግኝቷቸው ሕይወት ናቸው፣ ለሥጋውም ሁሉ ፈውስ ናቸው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ሕይወት"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እነሱ…ናቸው"
+    },
+    {
+      "surface": "למצאיהם",
+      "gloss": "ለአግኝቷቸው"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ሥጋው"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ፈውስ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:21:28.587467796Z",
+  "model": "glm-5.3"
+}

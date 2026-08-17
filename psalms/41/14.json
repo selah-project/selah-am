@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "የእስራኤል ኤሎሂም ያህዌህ የተባረከ ነው — ከዘላለም እስከ ዘላለም ድረስ፤ አሜን፣ እና አሜን።",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "የተባረከ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "ከዘላለም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ ... ድረስ"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ዘላለም"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "አሜን"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "እና አሜን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:40:18.090860487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ኤሎሂምም በሚቀጥለው ቀን ንጋት እንደደረሰ ትልን አዘጋጀ፤ ⟨את⟩ ቂቃይወንንም መታት፤ እርሷም ደረቀች።",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "አዘጋጀ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ትል"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "እንደደረሰ"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ንጋት"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "በሚቀጥለው ቀን"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "መታት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቂቃይወንን"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "ቂቃይወን"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "ደረቀች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:11:37.684030562Z",
+  "model": "glm-5.3"
+}

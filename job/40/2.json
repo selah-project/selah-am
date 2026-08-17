@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "job 40:2",
+  "book": "job",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ከሻዳይ ጋር የሚከራከር ያስተምረዋልን? ኤልን የሚወቅስ እርሱ ይመልሰው።",
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "የሚከራከር"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ...ጋር"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ሻዳይ"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ያስተምረዋልን?"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "የሚወቅስ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ኤልን"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "ይመልሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T11:00:50.120994782Z",
+  "model": "glm-5.3"
+}

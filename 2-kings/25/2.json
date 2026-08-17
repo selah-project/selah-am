@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 25:2",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ከተማዋም እስከ ጽድቅያሁ ንጉሡ አሥራ አንደኛ ዓመት ድረስ በዘመቻ ውስጥ ገባች።",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ገባች"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋ"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "በዘመቻ ውስጥ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ ድረስ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "አሥራ አንደኛ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "አሥራ አንድ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ጽድቅያሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:53:24.703158510Z",
+  "model": "glm-5.3"
+}

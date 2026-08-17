@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 125,
+  "translation": "የማረገጫ መዝሙር፤ በያህዌህ የሚተማመኑት እንደ ጽዮን ተራራ ናቸው፤ ለዘላለም ይኖራሉ፤ አይዘለምም።",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "የማረገጫ"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "የሚተማመኑት"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "በያህዌህ"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "እንደ ተራራ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይዘለምም"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "አይናወጥም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ይኖራል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:36.242233432Z",
+  "model": "glm-5.3"
+}

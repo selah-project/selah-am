@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "እነርሱም ⟨את⟩ የተሸፈነውን ልብስ ከጥሩ በፍት የተሰፋ ሥራ ለአሃሮንና ለወንዶቹ ልጆች አደረጉ።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "አደረጉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የተሸፈነውን ልብስ"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "የተሸፈነውን ልብስ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ጥሩ በፍት"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "የተሰፋ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ለአሃሮን"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ና ለወንዶቹ ልጆች"
+    }
+  ],
+  "timestamp": "2026-08-16T03:40:13.838409809Z",
+  "model": "glm-5.3"
+}

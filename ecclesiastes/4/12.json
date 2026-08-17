@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እና አንዱ ሰው ቢያሸንፍ፣ ሁለቱ በፊቱ ይቆማሉ፤ ሶስት እጥፍ የሆነው እስራት በፍጥነት አይቋጠርም።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እና ከሆነ"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "ቢያሸንፍ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "አንዱ"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ሁለቱ"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ይቆማሉ"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "በፊቱ"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "እና እስራቱ"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "ሶስት እጥፍ የሆነው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "በፍጥነት"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "አይቋጠርም"
+    }
+  ],
+  "timestamp": "2026-08-16T11:13:13.749148711Z",
+  "model": "glm-5.3"
+}

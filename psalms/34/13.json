@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ማን ነው ⟨እርሱ⟩ ሰው የሚመኘው ሕይወትን የሚወድ ብዙ ቀኖችን መልካምን ለማየት?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "የሚመኘው"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ሕይወትን"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "የሚወድ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ብዙ ቀኖችን"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ለማየት"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካምን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:38:00.151991792Z",
+  "model": "glm-5.3"
+}

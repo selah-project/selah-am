@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "እና ሁለት ክሩቤሞችን ከወርቅ ታደርጋለህ፤ በሹራ ሥራ ታደርጋቸዋለህ፤ ⟨את⟩ እነሱን በማክአያው ሁለት ጫፎች ላይ።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "ክሩቤሞችን"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ከወርቅ"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "በሹራ ሥራ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ታደርጋቸዋለህ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "משני",
+      "gloss": "በሁለት"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ጫፎች"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "የማክአያው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:26:00.945965411Z",
+  "model": "glm-5.3"
+}

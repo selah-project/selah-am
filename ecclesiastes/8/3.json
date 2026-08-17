@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ከፊቱ አትሽቅበበት፤ ክፉ በሆነ ጉዳይ ላይ አትቁም፤ የሚወደውን ሁሉ ማንኛውም ይሠራልና።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "አትሽቅበበት"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ከፊቱ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ብለህ እስከምትሄድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "አትቁም"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "በጉዳይ ላይ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ በሆነ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከመንዳት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚወደውን"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "የፈለገውን"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ይሠራል"
+    }
+  ],
+  "timestamp": "2026-08-16T11:17:25.603841843Z",
+  "model": "glm-5.3"
+}

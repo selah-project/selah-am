@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ወይን ጠጡ እና ለወርቅ፣ ለብር፣ ለናስ፣ ለብረት፣ ለእንጨትና ለድንጋይ አማልክት አመሰገኑ።",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "ጠጡ"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "ወይን"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "እና አመሰገኑ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ለአማልክት"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "ወርቅ"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "እና ብር"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "ናስ"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "ብረት"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "እንጨት"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "እና ድንጋይ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:31:21.132173048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 116,
+  "translation": "ውድ ነው በያህዌህ ዓይኖች ⟨የ⟩ሞቱ ለቅዱሳኑ።",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "ውድ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "በ…ዓይኖች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "ሞቱ"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "ለቅዱሳኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:16.756234138Z",
+  "model": "glm-5.3"
+}

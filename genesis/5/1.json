@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ይህ የአዳም ትውልድ መጽሐፍ ⟨ነው⟩፤ ኤሎሂም አዳምን በፈጠረበት ቀን በኤሎሂም ምሳሌ ⟨את⟩ እርሱን አደረገው።",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "መጽሐፍ"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ትውልድ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "አዳም"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ፈጠረ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "አዳምን"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "በምሳሌ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገው"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:30:35.947100290Z",
+  "model": "glm-5.3"
+}

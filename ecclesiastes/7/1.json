@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "መልካም ስም ከመልካም ዘይት ይሻላል፣ የሞት ቀንም ከተወለድበት ቀን ይሻላል።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ይሻላል"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ከመልካም ዘይት"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም ዘይት"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "እና ቀን"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ከቀን"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "መወለድ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:16:35.393310188Z",
+  "model": "glm-5.3"
+}

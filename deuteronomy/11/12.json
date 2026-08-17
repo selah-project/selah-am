@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ምድር እንደሆነች ያህዌህ ኤሎሂምካ እሷን ⟨את⟩ ሁልጊዜ የሚፈልግ፣ የያህዌህ ኤሎሂምክህ ዓይኖች በእሷ ላይ ከዓመቱ መጀመሪያ እስከ ዓመቱ መጨረሻ ድረስ ናቸው።",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደሆነች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "የሚፈልግ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እሷን"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኖች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምክህ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእሷ ላይ"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "ከመጀመሪያ"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ዓመቱ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እና እስከ"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "መጨረሻ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:18:36.701839961Z",
+  "model": "glm-5.3"
+}

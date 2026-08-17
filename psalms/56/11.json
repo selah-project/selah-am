@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 56,
+  "translation": "በኤሎሂም ቃሉን አመስግናለሁ፤ በያህዌህ ቃሉን አመስግናለሁ።",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "በኤሎሂም"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "አመስግናለሁ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃሉን"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "በያህዌህ"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "አመስግናለሁ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃሉን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:35.184511999Z",
+  "model": "glm-5.3"
+}

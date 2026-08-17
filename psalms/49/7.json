@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "በብሔራቸው የሚተማመኑት፣ በሀብታቸውም ብዛት የሚያምኑት፤",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "የሚተማመኑት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ብሔራቸው"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "በብዛትም"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "ሀብታቸው"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "ያምናሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:34.319520740Z",
+  "model": "glm-5.3"
+}

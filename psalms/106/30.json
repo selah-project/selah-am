@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "ፊንሐስም ቆሞ ፈረደ፤ መቅለያውም ተከለከለ።",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ቆሞ"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ፊንሐስ"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "ፈረደ"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "ተከለከለ"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "መቅለያው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:25.666713640Z",
+  "model": "glm-5.3"
+}

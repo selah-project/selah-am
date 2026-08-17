@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ስሙኤልም ገና ያህዌህን ⟨את⟩ አያውቅም ነበር፤ የያህዌህም ቃል ገና አልተገለጠለትም ነበር።",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "ስሙኤልም"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ገና"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ያውቅም ነበር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "ገና"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "አልተገለጠለትም ነበር"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:33:21.656061547Z",
+  "model": "glm-5.3"
+}

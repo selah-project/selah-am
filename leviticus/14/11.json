@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "የሚያነጹትም ካህን የሚነጹትን ሰው ⟨את⟩ እነሱንም በያህዌህ ፊት፣ በመገኛው ድንኳን በር ዙሪያ ያቆማል።",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "ያቆማልም"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "የሚያነጹት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰውውን"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰውውን"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "የሚነጹትን"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "እነሱንም ⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "በር ዙሪያ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መገኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:51:39.440912088Z",
+  "model": "glm-5.3"
+}

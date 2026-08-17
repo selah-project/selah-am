@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "esther 6:12",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ሞርዶካይም ወደ ንጉሡ በር ተመለሰ፤ ሃማንም ደነገጠ ወደ ቤቱ ሮጦ፤ ሲያዝንና ራሱን ሲሸፍንም ነበር።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተመለሰም"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ሞርዶካይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "በር"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ሃማንም"
+    },
+    {
+      "surface": "נדחף",
+      "gloss": "ተገፋ ሮጦ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ሲያዝን"
+    },
+    {
+      "surface": "וחפוי",
+      "gloss": "ሲሸፍንም"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ራሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:22:43.306254238Z",
+  "model": "glm-5.3"
+}

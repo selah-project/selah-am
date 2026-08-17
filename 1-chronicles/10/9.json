@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "1-chronicles 10:9",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ልብሱንም አወለቁት፣ ራሱን ⟨את⟩ እና መሣሪያዎቹን ⟨את⟩ ወሰዱ፣ ወደ ፍልስጤም ምድር ዙሪያ ላኩ፣ በአማልክታቸው ⟨את⟩ እና በሕዝቡ ⟨את⟩ ላይ ለመስበክ።",
+  "tokens": [
+    {
+      "surface": "ויפשיטהו",
+      "gloss": "አወለቁት"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ወሰዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራሱን"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ራሱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መሣሪያዎቹን"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "መሣሪያዎቹን"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ላኩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤም"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ዙሪያ"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "ለመስበክ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በአማልክታቸው"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "በአማልክታቸው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "በሕዝቡ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "በሕዝቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:49:20.849369093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezekiel 20:37",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "እና ⟨את⟩ እናንተ በመቶት ሥር አሳልፋችኋለሁ እና ⟨את⟩ እናንተ በኪዳን ቁርጠት ውስጥ አስገባችኋለሁ።",
+  "tokens": [
+    {
+      "surface": "והעברתי",
+      "gloss": "አሳልፋችኋለሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ…ሥር"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "መቶት"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "አስገባችኋለሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተ"
+    },
+    {
+      "surface": "במסרת",
+      "gloss": "በቁርጠት ውስጥ"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "የኪዳኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:20:06.010635023Z",
+  "model": "glm-5.3"
+}

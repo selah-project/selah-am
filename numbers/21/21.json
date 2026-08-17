@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "numbers 21:21",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "እስራኤልም ወደ ሲሆን የአሞራውያን ንጉሥ መልአኮችን ላከ፤ በማለት።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልም"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "መልአኮችን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "ሲሆን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "የ… ንጉሥ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "አሞራውያን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "በማለት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:20:59.291699334Z",
+  "model": "glm-5.3"
+}

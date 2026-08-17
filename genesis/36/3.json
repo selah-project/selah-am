@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "እና ⟨את⟩ በስመትን የይስማኤል ልጅ፣ የንባዮት እህት።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "በስመትን"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "በስመትን"
+    },
+    {
+      "surface": "בת",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ይስማኤል"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "እህት"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "ንባዮት"
+    }
+  ],
+  "timestamp": "2026-08-16T02:53:26.748762031Z",
+  "model": "glm-5.3"
+}

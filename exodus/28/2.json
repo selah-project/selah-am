@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ለወንድምህ ለአሃሮን የቅድስና ልብሶችን ለክብርና ለውበት ታደርጋለህ።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ልብሶችን"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "የቅድስና"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ለአሃሮን"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ወንድምህ"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "ለክብር"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "እና ለውበት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:26:43.836282165Z",
+  "model": "glm-5.3"
+}

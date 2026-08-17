@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ሁለቱን የሸሐም ድንጋዮች ⟨את⟩ ታነሳለህ፣ በርሷም ላይ የእስራኤል ልጆችን ስሞች ታቀርጻለህ።",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ታነሳለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁለቱን የሸሐም ድንጋዮች"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ሁለቱን"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "የ…ድንጋዮች"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "ሸሐም"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "ታቀርጻለህ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "በርሷም ላይ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ስሞችን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:25:18.286944391Z",
+  "model": "glm-5.3"
+}

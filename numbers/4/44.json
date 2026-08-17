@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 44,
+  "ref": "numbers 4:44",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የተቆጠሩትም ለቤተሰቦቻቸው ሦስት ሺህ እና ሁለት መቶ ነበሩ።",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ነበሩም"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "የተቆጠሩት"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ለቤተሰቦቻቸው"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "እና ሁለት መቶ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:06:40.692310964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 118,
+  "translation": "ይህ ቀን ያህዌህ የሠራው ነው፤ እንዘፈንና እንደሰማር በእርሱ ውስጥ።",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "የሠራው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "እንዘፈን"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "እና እንደሰማር"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:26.660779990Z",
+  "model": "glm-5.3"
+}

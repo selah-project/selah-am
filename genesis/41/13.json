@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "እንደ እርሱ በእኛ ላይ እንደ ፈታው ሁሉ ሆነ፤ እኔን ⟨את⟩ ወደ ቦታዬ መለሰ፥ እርሱንም ⟨את⟩ ተከሰተ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "እንደ ፈታ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "በእኛ ላይ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ሁሉ እንደዚያ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "እኔን"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "መለሰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "כני",
+      "gloss": "ቦታዬ"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱንም"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "ተከሰተ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:58:06.365020057Z",
+  "model": "glm-5.3"
+}

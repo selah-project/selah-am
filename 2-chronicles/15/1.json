@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "የኤሎሂም መንፈስ በዑዴድ ልጅ በዓዛርያሁ ላይ ሆነ።",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "ዓዛርያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "ዑዴድ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነበረች"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T13:47:17.114795269Z",
+  "model": "glm-5.3"
+}

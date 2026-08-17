@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ያህዌህ ከሕዝቡ ከሽሎች እና ከአለቆቹ ጋር በፍርድ ይመጣል፤ እናንተ ወይን እርሻውን አጠፋችሁ፤ የድሆው ቀማጭ በቤታችሁ ውስጥ ⟨አለ⟩።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "በፍርድ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ይመጣል"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ከሽሎች"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "እና ከአለቆቹ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "አጠፋችሁ"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "ወይን እርሻውን"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "ቀማጭ"
+    },
+    {
+      "surface": "העני",
+      "gloss": "የድሆው"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "በቤታችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:53:52.004863261Z",
+  "model": "glm-5.3"
+}

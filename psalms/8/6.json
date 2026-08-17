@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ከኤሎሂም በትንሹ ወደቀው አድርገህ ክብርና ግርማ አክልከዋለህ።",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "አሳንሰህበዋለህ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "በትንሹ"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "ከኤሎሂም"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "እና ክብር"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "እና ግርማ"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "አክልከዋለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:00.466849062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ካም፣ የከነዓን አባት፣ ⟨את⟩ የአባቱን ራቅታ አየ፤ ለእኅቱም ሁለቱ በውጭ አሳወቀ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ካም"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባት"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነዓን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የአባቱን ራቅታ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ራቅታ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "አሳወቀ"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ለሁለቱ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሞቹ"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "በውጭ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:30:47.923765829Z",
+  "model": "glm-5.3"
+}

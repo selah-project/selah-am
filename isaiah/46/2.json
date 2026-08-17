@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "isaiah 46:2",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 46,
+  "translation": "ደንዘዙ፣ አንድ ላይ ተንበሩ፤ ጭናን ማድን አልቻሉም፤ ነፍሳቸውም ወደ ምርኮ ሄደች።",
+  "tokens": [
+    {
+      "surface": "קרסו",
+      "gloss": "ደንዘዙ"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "ተንበሩ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "አንድ ላይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ቻሉ"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "ማድን"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ጭናን"
+    },
+    {
+      "surface": "ונפשם",
+      "gloss": "እና ነፍሳቸው"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "ወደ ምርኮ"
+    },
+    {
+      "surface": "הלכה",
+      "gloss": "ሄደች"
+    }
+  ],
+  "timestamp": "2026-08-16T07:23:09.504263428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ለሞኝ ደስታ አይገባም፤ እንኳን ለባሪያ በአለቆች ላይ መግዛት የበለጠ አይገባውም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይገባም"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "የሚገባ"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "ለሞኝ"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "ደስታ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "የበለጠ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንኳ"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ለባሪያ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "መግዛት"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "በአለቆች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:30:51.035292955Z",
+  "model": "glm-5.3"
+}

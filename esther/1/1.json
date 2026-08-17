@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "በአኻሽወሮሽ ዘመን ሆኖ ነበር፣ እርሱም ከሆዱ እስከ ኩሽ ድረስ በመቶ አሥራ ሰባት አገራት ላይ የሚነግስ አኻሽወሮሽ ንጉሥ ነው።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆኖ ነበር"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "በዘመን"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "አኻሽወሮሽ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱም"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "አኻሽወሮሽ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "ከሆዱ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ኩሽ ድረስ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "በመቶ"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "አገራት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:20:30.006621046Z",
+  "model": "glm-5.3"
+}

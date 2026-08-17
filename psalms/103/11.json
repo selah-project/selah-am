@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 103,
+  "translation": "ልክ እንደ ቁመት ሰማያት ከምድር በላይ፣ ምሕረቱ በእርሱ ሚቃኞች ላይ አሸነፈ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እኊንደ\/በእርግጥ"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "እንደ ቁመት"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ከ…በላይ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "አሸነፈ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ምሕረቱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ሚቃኞቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:44.687572733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እርሱም ፊቱን ወደ መስኮቱ አነሣ፤ አለም፦ «ማን ⟨את⟩ ከእኔ ጋር ነው? ማን?» እና ሁለት ወይም ሦስት መቀደሶች ወደ እርሱ አሰሉ።",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "አነሣ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "መስኮቱ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ከእኔ ጋር",
+      "marks": "ከእኔ ጋር"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "አሰሉ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "መቀደሶች"
+    }
+  ],
+  "timestamp": "2026-08-16T06:41:15.815515308Z",
+  "model": "glm-5.3"
+}

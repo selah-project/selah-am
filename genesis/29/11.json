@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "ያዕቆብ ራሔልን ሳመ፤ ድምፁን ⟨את⟩ አንሥቶ አለቀ።",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "ሳመ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "ራሔልን"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "አንሥቶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምፁን"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ድምፁን"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "አለቀ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:46:32.756682837Z",
+  "model": "glm-5.3"
+}

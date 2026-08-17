@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "job 12:12",
+  "book": "job",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "በአዋቂዎች ⟨is⟩ ጥበብ እና በብዙ ቀናት ውስጥ ⟨is⟩ መረዳት።",
+  "tokens": [
+    {
+      "surface": "בישישים",
+      "gloss": "በአዋቂዎች ውስጥ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "እና በርዝመት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "የቀናት"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "መረዳት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:44:36.181263070Z",
+  "model": "glm-5.3"
+}

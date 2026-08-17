@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "አንተ ግን ያህዌህ አዶናይ ⟨את⟩ ከእኔ ጋር ሥራ፣ ለስምህ ዘንድ፤ ምክንያቱም ቸርነትህ ጥሩ ⟨is⟩፤ አድነኝ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተ ግን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ከእኔ ጋር"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ለ… ዘንድ (ዐላማ)"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጥሩ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ቸርነትህ"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "አድነኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:35.403211993Z",
+  "model": "glm-5.3"
+}

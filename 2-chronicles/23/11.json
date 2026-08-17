@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "2-chronicles 23:11",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "የንጉሡንም ልጅ አወጡ፤ በርሱም ላይ ⟨את⟩ አክሊሉን እና ⟨את⟩ ምስክርነቱን አኖሩት፤ ንጉሥም አደረጉት፤ ይሆይዳዕና ልጆቹም ቀባዩት፤ «የንጉሡ ዕድሜ ላርፍ»ም አሉ።",
+  "tokens": [
+    {
+      "surface": "ויוציאו",
+      "gloss": "አወጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጅ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡን"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "አኖሩት"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በርሱ ላይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አክሊሉን"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "አክሊሉን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምስክርነቱን"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ምስክርነቱን"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "ንጉሥ አደረጉት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ወደ ንግሥና ማድረግ"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "ቀባዙት"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "ይሆይዳዕ"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "እና ልጆቹ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "አሉ"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "ዕድሜ ላርፍ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:06:10.854661068Z",
+  "model": "glm-5.3"
+}

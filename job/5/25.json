@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "job 5:25",
+  "book": "job",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ታውቃለህም እንደ ዘርህ ብዙ እንደሆነ፣ ዘሮችህም እንደ ምድሪቱ ሣር እንደሚሆኑ።",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "ታውቃለህም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ዘርህ"
+    },
+    {
+      "surface": "וצאצאיך",
+      "gloss": "ዘሮችህም"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "እንደ ሣር"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:41:28.169732619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "job 20:20",
+  "book": "job",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ምክንያቱም በሆዱ ውስጥ ሰላምነትን አያውቅም፤ በሚፈልገው ነገር አይድንም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ያውቅም"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "ሰላምነትን"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "በሆዱ"
+    },
+    {
+      "surface": "בחמודו",
+      "gloss": "በሚፈልገው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ድንም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:50:26.477834952Z",
+  "model": "glm-5.3"
+}

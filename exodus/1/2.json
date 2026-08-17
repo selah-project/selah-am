@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ራኡቤን፣ ስምዖን፣ ሌዊ እና ይሁዳ።",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "ራኡቤን"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ስምዖን"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ሌዊ"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "እና ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:06:21.132553604Z",
+  "model": "glm-5.3"
+}

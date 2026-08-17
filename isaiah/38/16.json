@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "isaiah 38:16",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "አዶናይ ሆይ፥ በእነዚህ ሰዎች ይኖራሉ፤ እና በእነሱ ሁሉ ውስጥ የመንፈሴ ሕይወት ናት፤ ያነሱኝ እና አስነሳኸኝም።",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "በእነዚህ ላይ"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ይኖራሉ"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "እና በሁሉም"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "በእነሱ ውስጥ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ሕይወት"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "የመንፈሴ ናት"
+    },
+    {
+      "surface": "ותחלימני",
+      "gloss": "ያነሱኝ"
+    },
+    {
+      "surface": "והחיני",
+      "gloss": "አስነሳኸኝም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:16:24.692034230Z",
+  "model": "glm-5.3"
+}

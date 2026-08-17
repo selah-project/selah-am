@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "በእውነት እነሆ ነገሥታን ⟨את⟩ ተሰበሰቡ፤ አብረው አለፉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ነገሥታን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነገሥታን"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "ተሰበሰቡ፤"
+    },
+    {
+      "surface": "עברו יחדו",
+      "gloss": "አብረው አለፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:43:30.710293517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ያዕሱዔም ማለዳ በሚለው ጠዋት ቀደሰ፤ ካህናቱም ⟨את⟩ የያህዌህ ታቦ ተሸከሙ።",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ቀደሰ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ያዕሱዔም"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "በጠዋት ማለዳ"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ተሸከሙ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናቱም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የያህዌህ ታቦ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:00:07.589465684Z",
+  "model": "glm-5.3"
+}

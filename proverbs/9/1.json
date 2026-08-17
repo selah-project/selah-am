@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ጥበብ ቤቷን ሠራች፤ ዓምዶቿን — ሰባት — ቈረጠች።",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "ሠራች"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ቤቷን"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "ቈረጠች"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "ዓምዶቿን"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ሰባት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:24:55.863127690Z",
+  "model": "glm-5.3"
+}

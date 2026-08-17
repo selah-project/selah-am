@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "1-chronicles 14:13",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ፍልስጤሞችም ደግሞ ጨመሩ፤ በሸለቆውም ተንከባለሉ።",
+  "tokens": [
+    {
+      "surface": "ויסיפו",
+      "gloss": "ጨመሩ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤሞች"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "ተንከባለሉ"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "በሸለቆው"
+    }
+  ],
+  "timestamp": "2026-08-16T12:54:28.810019899Z",
+  "model": "glm-5.3"
+}

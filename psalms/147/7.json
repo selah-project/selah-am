@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 147,
+  "translation": "ለያህዌህ በአመስግና ተመልሱ፤ ለኤሎሂማችንም በኪናር ዝሙሩ።",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "ተመልሱ\/ዝሙሩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "በአመስግና"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ዝሙሩ"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ለኤሎሂማችን"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "በኪናር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:41.099562368Z",
+  "model": "glm-5.3"
+}

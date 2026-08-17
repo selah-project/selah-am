@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "እኛ ዛሬ እዚህ የምንሠራውን እንደ ሁሉ አትሥሩ፤ እያንዳንዱ ሰው በዓይኖቹ በሚታዩት ትክክለኛውት ሁሉ አትሥሩ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት…ም"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "አትሥሩ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "እንደ ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ውን"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "እኛ"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "እንሠራው"
+    },
+    {
+      "surface": "פה",
+      "gloss": "እዚህ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ትክክለኛውን"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "በዓይኖቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:19:11.796126730Z",
+  "model": "glm-5.3"
+}

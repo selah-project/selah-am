@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "⟨את⟩ የመንደሮቹን ወንክሎች እና ⟨את⟩ የአዳራሹን ወንክሎች እና ⟨את⟩ አቡዳቸውን፤",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንክሎች"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "ወንክሎችን"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "የመንደሮቹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ወንክሎች"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "ወንክሎችን"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "የአዳራሹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "አቡዳቸውን"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "አቡዳቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:31:20.372003580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ያህዌህ ኤሎሂማችሁ በፊታችሁ የሚሄድ ሆኖ ለናንተ ይዋጋል፤ በእናንተ ዓይን ፊት በምጽራይ ላይ ⟨את⟩ ከናንተ ጋር እንዳደረገው በሙሉ መሠረት።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂማችሁ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "የሚሄድ ሆኖ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "በፊታችሁ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "ይዋጋል"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለናንተ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "በሙሉ መሠረት እንደ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገው"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ከናንተ ጋር",
+      "marks": "ከናንተ ጋር"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "በምጽራይ"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "በእናንተ ዓይን ፊት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:33:04.626726853Z",
+  "model": "glm-5.3"
+}

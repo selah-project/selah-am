@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 45,
+  "ref": "jeremiah 51:45",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "ሕዝቤ ሆይ፣ ከዋሷ መካከል ውጡ፣ እና እያንዳንዱ ሰው ⟨את⟩ ነፍሱ ከያህዌህ ቍጣ ንዴት ያድን።",
+  "tokens": [
+    {
+      "surface": "צאו",
+      "gloss": "ውጡ"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "ከዋሷ መካከል"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤ"
+    },
+    {
+      "surface": "ומלטו",
+      "gloss": "እና ያድኑ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሱ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱ"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "ንዴት"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ቍጣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:14:43.199069473Z",
+  "model": "glm-5.3"
+}

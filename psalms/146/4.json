@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 146,
+  "translation": "እስትንፋሱ ትወጣለች፤ ወደ ምድሩ ይመለሳል፤ በዚያ ቀን ሐሳቦቹ ይጠፋሉ።",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "ትወጣለች"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "እስትንፋሱ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ይመለሳል"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "ወደ ምድሩ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "ይጠፋሉ"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "ሐሳቦቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:55.009857306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "1-chronicles 15:8",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ለኤልጽፋን ልጆች — ሰማያ በአለቃነት ነበረ፤ እና ወንድሞቹ ሁለት መቶ ነበሩ።",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "ለ…ልጆች"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "ኤልጽፋን"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "ሰማያ"
+    },
+    {
+      "surface": "השר",
+      "gloss": "አለቃው"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "እና ወንድሞቹ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ሁለት መቶ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:57:06.317423188Z",
+  "model": "glm-5.3"
+}

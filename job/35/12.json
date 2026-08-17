@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "job 35:12",
+  "book": "job",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "እዚያ ይጮሃሉ እንጂ አይመልስም፤ ከክፉዎች ትምክህት ስለሆነ።",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "יצעקו",
+      "gloss": "ይጮሃሉ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንጂ...አይም"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ይመልሳል"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከፊት(በሰበብ)"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ትምክህት"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ክፉዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:57:16.121078051Z",
+  "model": "glm-5.3"
+}

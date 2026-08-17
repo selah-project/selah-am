@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እንደሆነ በመስክ ሰው ⟨את⟩ የታጨችዋን ወጣት ያገኛል፤ ሰው ያዛታል፣ ከእርሷም ተኝታል፤ ከእርሷ ጋር የተኛው ሰው በእርሱ ብቻ ይሙት።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እንደሆነ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "በመስክ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ያገኛል"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወጣት"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ወጣት"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "የታጨችዋ"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "ያዛታል"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሷ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "ተኝታል"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ከእርሷ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ይሙት"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ተኛ"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ከእርሷ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "በእርሱ ብቻ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:48:16.613765313Z",
+  "model": "glm-5.3"
+}

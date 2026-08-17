@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "job 14:12",
+  "book": "job",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ሰውም ተኝቶ አይነሳም፤ ሰማያት እስኪያልቁ ድረስ አይነቃም፣ ከእንቅልፋቸውም አይነሳሉም።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ሰውም"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ተኝቶ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ይነሳ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስኪ…ድረስ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "እስኪያልቅ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יקיצו",
+      "gloss": "ይነቃ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "ይነሳሉም"
+    },
+    {
+      "surface": "משנתם",
+      "gloss": "ከእንቅልፋቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:46:22.336985468Z",
+  "model": "glm-5.3"
+}

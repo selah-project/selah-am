@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "job 22:5",
+  "book": "job",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ክፉነትህ በላይ አይደለም? እና ለዓመፃዎችህ መጨረሻ የለም።",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "አይደለምን?"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "ክፉነትህ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "በላይ ነው"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "መጨረሻ"
+    },
+    {
+      "surface": "לעונתיך",
+      "gloss": "ለዓመፃዎችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:50:15.538570848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የሰባ ንግሥት የሰሎሞንን ⟨את⟩ ጥበብ ሁሉና ⟨את⟩ የሠራውን ቤት አየች።",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "አየችም"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ንግሥት"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ሰባ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጥበብ ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ቤቱንም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሠራውን"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሠራ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:22:52.656490057Z",
+  "model": "glm-5.3"
+}

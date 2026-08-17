@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ከእኔ ⟨את⟩ ጋር የብር አማልክትንም የወርቅ አማልክትንም ለራሳችሁ አታደርጉም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አታደርጉም"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ታደርጉ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ከእኔ ጋር"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "አማልክት"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "የብር"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "የወርቅ አማልክትም"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቅ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አታደርጉም"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ታደርጉ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለራሳችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:18:57.947911691Z",
+  "model": "glm-5.3"
+}

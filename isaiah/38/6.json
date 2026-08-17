@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "ከአሥር ንጉሥም እጅ አድንሃለሁ፣ ይህንም ⟨את⟩ ከተማ አድናታለሁ፤ በዚህም ከተማ ላይ እከላከላታለሁ።",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "ከ…እጅ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "አድንሃለሁ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ይህን ከተማ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "እከላከላለሁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:16:52.738675542Z",
+  "model": "glm-5.3"
+}

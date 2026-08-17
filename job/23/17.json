@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "job 23:17",
+  "book": "job",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ምክንያቱም ከጨለማ ፊት አልጠፋሁም፣ እና ከፊቴ ፊት ጭቅጭቅ ጨለማ ሸፈነ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "נצמתי",
+      "gloss": "ጠፋሁም"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከ…ፊት"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጨለማ"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "እና ከ…ፊት"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ሸፈነ"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "ጭቅጭቅ ጨለማ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:51:27.748918804Z",
+  "model": "glm-5.3"
+}

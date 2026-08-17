@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሳራይም መካን ነበረች፤ ልጅ የላትም ነበር።",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ነበረችም"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ሳራይ"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "መካን"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የላትም"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ላት"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "ልጅ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:36:33.829014669Z",
+  "model": "glm-5.3"
+}

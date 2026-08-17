@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "ምክንያቱም የወገብ አጥንቶቼ በቃጠሎ ተሞልተዋል፤ በሥጋዬም ውስጥ ጤና የለም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "የወገብ-አጥንቶቼ"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ተሞልተዋል"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "በቃጠሎ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለምም"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "ጤና"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "በሥጋዬ-ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:40:49.103473337Z",
+  "model": "glm-5.3"
+}

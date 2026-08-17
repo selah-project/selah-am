@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "1-chronicles 2:18",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የኬሮን ልጅ ካሌብም ሚስቱን ⟨את⟩ አዙባን እና ⟨את⟩ ይርዮትን ወለደ፤ የእርሷም ልጆች እነዚህ ናቸው — የሸር፣ ሾባብና አርዶን።",
+  "tokens": [
+    {
+      "surface": "וכלב",
+      "gloss": "ካሌብም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ኬሮን"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አዙባ"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "አዙባ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሚስት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ይርዮት"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "ይርዮት"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "እነዚህም"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "የእርሷ ልጆች"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "የሸር"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "ሾባብም"
+    },
+    {
+      "surface": "וארדון",
+      "gloss": "አርዶንም"
+    }
+  ],
+  "timestamp": "2026-08-16T12:33:38.892548429Z",
+  "model": "glm-5.3"
+}

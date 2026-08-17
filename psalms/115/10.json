@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 115,
+  "translation": "የአሃሮን ቤት ሆይ፣ በያህዌህ ታምካችሁ፤ ረዳታቸውና ጋሻቸው ⟨እርሱ⟩ ነው።",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ታምካችሁ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "በያህዌህ"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ረዳታቸው"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "እና ጋሻቸው"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨እርሱ⟩ ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:59.337152807Z",
+  "model": "glm-5.3"
+}

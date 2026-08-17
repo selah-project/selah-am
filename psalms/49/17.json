@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "አትፍራ በአንድ ሰው በሚበለጥጥ ጊዜ በቤቱ ክብር በሚበዛ ጊዜ፤",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ፍራ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በ…ጊዜ"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ያበለጥጣል"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በ…ጊዜ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ያበዛል"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብር"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:01.769479918Z",
+  "model": "glm-5.3"
+}

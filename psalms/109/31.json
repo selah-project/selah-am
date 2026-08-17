@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "ምክንያቱም እርሱ ለድሃው በቀኝ እንደሚቆም፣ ነፍሱን ከሚፈርዱት ሊያድነው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ይቆማል"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "በቀኝ"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ለድሃው"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "ሊያድን"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ከ…ሚፈርዱት"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:38.151353712Z",
+  "model": "glm-5.3"
+}

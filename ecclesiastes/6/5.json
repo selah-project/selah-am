@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ደግሞ ፀሐይን አያም፣ ምንም አይደለም አላወቀም፤ ለዚህ ከዚያ ዕረፍት አለው።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ፀሐይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "አወቀም"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ዕረፍት"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "ለዚህ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ከዚያ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:17:02.975360574Z",
+  "model": "glm-5.3"
+}

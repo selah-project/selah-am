@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ልቤን ወደ ምስክርነቶችህ አግዘኝ፤ ወደ ረካባ በረከት በክፉ መንገድ ግን አታድርገው።",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "አግዘኝ\/አዘንብ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ምስክርነቶችህ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እና አታድርገው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "በክፉ ረካባ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:11:50.598871488Z",
+  "model": "glm-5.3"
+}

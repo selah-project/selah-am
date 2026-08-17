@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 43,
+  "translation": "በስሜ የተጠራ ሁሉ፣ ለክብሬም ፈጠርሁት፤ መሠረት አደረግሁት፤ አደረግሁትም።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "የተጠራ"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "በስሜ"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "ለክብሬም"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "ፈጠርሁት"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "መሠረት አደረግሁት"
+    },
+    {
+      "surface": "אף",
+      "gloss": "አዎም"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "አደረግሁትም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:20:37.513990179Z",
+  "model": "glm-5.3"
+}

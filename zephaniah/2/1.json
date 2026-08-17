@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ተሰበሰቡ እና ተሰብስቡ፣ በጭንቀት የማይመላለስ ሕዝብ ሆይ፤",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "ተሰበሰቡ"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "እና ተሰብስቡ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ሕዝብ ሆይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይፈለግም"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "የሚመላለስ፣ የሚጠመቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:19:01.009136086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "ከአባቶቻችን ጋር አመፀን፤ በደል አደረግን፤ ክፋትን ሠራን።",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "አመፀን"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "አባቶቻችን"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "በደል አደረግን"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "ክፋትን ሠራን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:25.349990966Z",
+  "model": "glm-5.3"
+}

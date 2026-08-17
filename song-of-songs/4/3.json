@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "song-of-songs 4:3",
+  "book": "song-of-songs",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ከንፈሮችሽ እንደ ቀይ ጥርት ናቸው፤ ንግግርሽም ያማምናል፤ ፊትሽ ከቆብሽ ጀርባ እንደ ሮማን ፍሬ ክፍል ነው።",
+  "tokens": [
+    {
+      "surface": "כחוט",
+      "gloss": "እንደ ጥርት"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ቀይ"
+    },
+    {
+      "surface": "שפתתיך",
+      "gloss": "ከንፈሮችሽ"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "ንግግርሽ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ያማምናል"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "እንደ ክፍል"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "የሮማን ፍሬ"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "ፊትሽ"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "ከ...ጀርባ"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "ቆብሽ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:04:14.573500714Z",
+  "model": "glm-5.3"
+}

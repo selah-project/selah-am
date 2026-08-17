@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "አብራሃም ከግብፅ ወጣ — ⟨እርሱም⟩ እና ⟨ሚስቱንም⟩ እና የነበረውን ሁሉ እና ሎጥ ከእርሱ ጋራ ወደ ደቡብ ሄደ።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "አብራሃም"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ከግብፅ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱም"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ሚስቱንም"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ሁሉንም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የነበረው"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "ሎጵም"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋራ"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "ወደ ደቡብ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:35:49.787096477Z",
+  "model": "glm-5.3"
+}

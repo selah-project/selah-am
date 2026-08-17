@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እንዲሁም በቅበቅር፣ ሐረስና ጋላል፣ ደግሞም ማትኝያ ሚካልን ልጅ የዝክርያን ልጅ የአሳፍ ልጅ ነው።",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "እንዲሁም በቅበቅር"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ሐረስ"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "እና ጋላል"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "ደግሞም ማትኝያ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "ሚካ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "ዝክርያ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "አሳፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:47:54.425351794Z",
+  "model": "glm-5.3"
+}

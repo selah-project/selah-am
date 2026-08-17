@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "jeremiah 45:4",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 45,
+  "translation": "እንዲህ ትለዋለህ፦ እንዲህ አለ ያህዌህ፣ እነሆ የሠራሁትን እኔ እወድቅበታለሁ፣ እና ⟨את⟩ የተከለሁትን እኔ አወጣዋለሁ፣ እና ⟨את⟩ ምድርን ሙሉዋን እሷ ትሆናለች።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ትለዋለህ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ትን"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "የሠራሁትን"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "እወድቅበታለሁ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የተከለሁትን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ትን"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "የተከለሁትን"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "נתש",
+      "gloss": "አወጣዋለሁ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምድርን ሙሉዋን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሙሉዋን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እሷ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:08:46.347517848Z",
+  "model": "glm-5.3"
+}

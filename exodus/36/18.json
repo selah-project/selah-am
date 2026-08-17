@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "የናስ ማገናኛዎችንም ሃምሳ አደረገ፤ ማደሪዱ አንድ እንዲሆን ⟨את⟩ ማደሪዱን ለማገናኘት።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "ማገናኛዎችን"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "የናስ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ሃምሳ"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "ለማገናኘት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማደሪዱን"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ማደሪዱን"
+    },
+    {
+      "surface": "להית",
+      "gloss": "እንዲሆን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:37:51.582384876Z",
+  "model": "glm-5.3"
+}

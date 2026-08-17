@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ከዚህ ለእኔ ተሰርቆ የተተከለው ከመረብ አውጣኝ፤ አንተ መጠለያዬ ነህና።",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "አውጣኝ"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "ከመረብ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ተሰርቆ የተተከለው"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ፡ምክንያት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "መጠለያዬ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:37:12.286943709Z",
+  "model": "glm-5.3"
+}

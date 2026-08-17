@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 143,
+  "translation": "መንፈሴ በእኔ ላይ ደከመች፤ ልቤም በውስጤ ደነገጠ።",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "ደከመች"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "መንፈሴ"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "በውስጤ"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "ደነገጠ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:28.140294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ምድሩን ⟨את⟩ በትለህ ሲሠራት ኃይሏን ከእንግዲህ ወደ አንተ መጨመር አትችልም፤ በምድር ላይ ተንደላቂ እና አስቸጋሪ ትሆናለህ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ሲሠራት"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "በትለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሩን"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድሩን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አትችልም"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "መጨመር"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ትሰጥ"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "ኃይሏን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "נע",
+      "gloss": "ተንደላቂ"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "እና አስቸጋሪ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ትሆናለህ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:07.660322146Z",
+  "model": "glm-5.3"
+}

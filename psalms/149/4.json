@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 149,
+  "translation": "ያህዌህ በሕዝቡ ይረካልና ውርደተኞችን በመዳን ያስደምቃል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ነገር ግን\/ምክንያቱም"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "ይረካልና"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "በሕዝቡ"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "ያስደምቃል"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ውርደተኞችን"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "በመዳን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:31.180923456Z",
+  "model": "glm-5.3"
+}

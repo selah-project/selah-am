@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "የሚቃጠልን መሥዋዕት መሠዊያ ⟨את⟩ ከሰነድ እንጨት አደረገ፤ ርዝመቱ አምስት ክንድ ነበር፣ ስፋቱም አምስት ክንድ — ካራ፣ ቁመቱም ሦስት ክንድ ነው።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሚቃጠልን መሥዋዕት መሠዊያ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠዊያ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "የሚቃጠል መሥዋዕት"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "የእንጨት"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ሰነድ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ክንድ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ርዝመቱ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "እና አምስት"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ክንድ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ስፋቱ"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "ካራ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "እና ሦስት"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ክንድ"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ቁመቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:38:32.165437392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የዘቡሎን ነገዥ፤ እና የዘቡሎን ልጆች አለቃ ኤልያብ የሔሎን ልጅ ነው።",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "ነገዥ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "የዘቡሎን"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "እና አለቃ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ዘቡሎን"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ኤልያብ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "ሔሎን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:04:58.242311794Z",
+  "model": "glm-5.3"
+}

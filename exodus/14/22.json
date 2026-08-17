@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "exodus 14:22",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "የእስራኤል ልጆችም በደረቁ ምድር በባሕሩ መካከል ገቡ፤ ውኆቹም በቀኛቸው እና በግራቸው በኩል ለእነርሱ ቅጥር ሆኑ።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ገቡ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆችም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በ… መካከል"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሩ"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "በደረቁ ምድር"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "ውኆችም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነርሱ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ቅጥር"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "በቀኛቸው"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "እና በግራቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:13:49.076107036Z",
+  "model": "glm-5.3"
+}

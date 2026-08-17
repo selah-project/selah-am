@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 55,
+  "translation": "እጆቹን በሰላም አገኙት ሰው ላይ ላከ፤ የእርሱን ቃል ኪዳን ርኵስ አደረገ።",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "እጆቹን"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "በሰላም አገኙት ሰው ላይ"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ርኵስ አደረገ"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "የእርሱን ቃል ኪዳን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:45.981905091Z",
+  "model": "glm-5.3"
+}

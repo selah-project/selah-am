@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "የላዕለያን ቤትሆሮንን ⟨את⟩ እና የታችኛውን ቤትሆሮን ⟨את⟩ ሠራ፤ የተጠናከሩ ከተሞች፣ ግንቦች፣ በሮችና ብረት መቃኛዎች አሏቸው።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤትሆሮን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "ሆሮን"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "የላዕለያን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ቤትሆሮን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "ሆሮን"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "የታችኛው"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ከተሞች"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "የተጠናከሩ"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "ግንቦች"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "በሮች"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "እና ብረት መቃኛዎች"
+    }
+  ],
+  "timestamp": "2026-08-16T13:38:23.650031022Z",
+  "model": "glm-5.3"
+}

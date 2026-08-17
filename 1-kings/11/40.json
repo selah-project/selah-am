@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.3",
+  "verse": 40,
+  "ref": "1-kings 11:40",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሰሎሞንም ⟨את⟩ እያሮበዓምን ለመግደል ፈለገ፤ እያሮበዓምም ተነሣ ወደ ግብፅ ሮጠ፣ ወደ ግብፅ ንጉሥ ወደ ሺሻቅ፤ በግብፅም ቆየ እስከ ሞተ ድረስ ሰሎሞን።",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "ፈለገ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ለመግደል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እያሮበዓምን"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "እያሮበዓምን"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሣ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "እያሮበዓም"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ሮጠ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ወደ ግብፅ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "ሺሻቅ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፅ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ቆየ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "በግብፅ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት ድረስ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    }
+  ],
+  "timestamp": "2026-08-16T06:25:42.367250421Z",
+  "model": "glm-5.3"
+}

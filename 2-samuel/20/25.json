@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ሸዋ ጻፋ፣ ወደ ዳሁ ጸሐፊ ነበረ፤ ወደ ዳሁ ዘበዲቅ እና አቤሜሌክ ካህናት ነበሩ።",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "ሸዋ ጻፋ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ጸሐፊ ነበረ፤"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ዘበዲቅ እና"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "አቤሜሌክ"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ካህናት ነበሩ።"
+    }
+  ],
+  "timestamp": "2026-08-16T06:06:14.014880186Z",
+  "model": "glm-5.3"
+}

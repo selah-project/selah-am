@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 22:10",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "አትልያሁም፣ የአካዝያሁ እናት፣ ልጇ ሞተ ስታይ ተነሣች፤ የይሁዳ ቤት የመንግሥትን ዘር ሁሉ ⟨את⟩ አጠፋች።",
+  "tokens": [
+    {
+      "surface": "ועתליהו",
+      "gloss": "አትልያሁም"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እናት"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "አካዝያሁ"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "ስታይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ባየች ጊዜ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ልጇ"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ተነሣች"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "አጠፋች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዘር ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘር"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "የመንግሥትን"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "የ…ቤት"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:45:25.043595628Z",
+  "model": "glm-5.3"
+}

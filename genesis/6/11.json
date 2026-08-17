@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ምድሪቱም በኤሎሂም ፊት ተበላሸች፤ ምድሪቱም በጠባይ ተሞላች።",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "ተበላሸች"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪቱ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በ… ፊት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ተሞላች"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪቱ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "በጠባይ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:31:31.047423717Z",
+  "model": "glm-5.3"
+}

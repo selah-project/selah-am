@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 123,
+  "translation": "ያራራን ያህዌህ፣ ያራራን፤ ምክንያቱም እጅግ በብዙነት በስድብ የተሞላን ነን።",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "ያራራን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "ያራራን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "רב",
+      "gloss": "በብዙነት"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "የተሞላን ነን"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "በስድብ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:08.478044545Z",
+  "model": "glm-5.3"
+}

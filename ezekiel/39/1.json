@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "ezekiel 39:1",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "አንተም የሰው ልጅ ሆይ፣ በጎግ ላይ ተንብይ፣ እንዲህም ትል፦ አዶናይ ያህዌህ እንዲህ ይላል፦ እነሆ፣ በአንተ ላይ ነኝ፣ ጎግ ሆይ፣ የሮስ፣ የሞስኺና የቱባል አለቃ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ…ልጅ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "ተንብይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "ጎግ"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ትል"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "ጎግ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ሮስ"
+    },
+    {
+      "surface": "משך",
+      "gloss": "ሞስኺ"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "የቱባል"
+    }
+  ],
+  "timestamp": "2026-08-16T08:49:01.788804481Z",
+  "model": "glm-5.3"
+}

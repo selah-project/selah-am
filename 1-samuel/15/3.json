@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "አሁን ሂድ፤ አማሌቅን ⟨את⟩ ታጠቃቃለህ፤ ያለውን ሁሉ ⟨את⟩ ትጥፋለህ፤ አታዝነብም፤ ከወንድ እስከ ሴት፣ ከሕፃን እስከ ጡት ሲታረብ፣ ከበሬ እስከ በግ፣ ከግመል እስከ አህያ ታስገድላለህ።",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "ታጠቃቃለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አማሌቅን"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "አማሌቅን"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "ትጥፋለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለውን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አታዝነብም"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "አትራራ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "ታስገድላለህ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ከወንድ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "ከሕፃን"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "ጡት ሲታረብ"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ከበሬ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "በግ"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "ከግመል"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "አህያ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:42:09.352884824Z",
+  "model": "glm-5.3"
+}

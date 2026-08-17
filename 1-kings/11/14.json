@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ያህዌህ ለሰሎሞን ተቃዋሚ አስነሣ — ሐዳድን ⟨את⟩ ኤዶማዊውን፤ እርሱ በኤዶም ከንጉሡ ዘር ነበር።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "አስነሣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "ተቃዋሚ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ለሰሎሞን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሐዳድን"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ሐዳድን"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "ኤዶማዊውን"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "ከዘር"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "በኤዶም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:24:38.933097281Z",
+  "model": "glm-5.3"
+}

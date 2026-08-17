@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-samuel 26:1",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "የዚፍ ሰዎችም ወደ ሳኦል ወደ ጋቢዓ መጥተው እንዲህ አሉ፦ ዳዊት በኋጢላ ኮረብታ በምድረ በዳ ፊት ሆኖ አይተሽጥም ነውን?",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "הזפים",
+      "gloss": "የዚፍ ሰዎች"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "ወደ ጋቢዓ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ አሉ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "አይደል?"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "ሆኖ አይተሽጥም ነው"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "በ…ኮረብታ"
+    },
+    {
+      "surface": "החכילה",
+      "gloss": "ኋጢላ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ፊት"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "ምድረ በዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:50:27.921891034Z",
+  "model": "glm-5.3"
+}

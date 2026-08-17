@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "joshua 8:13",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ሕዝቡም ⟨את⟩ ሙሉ ሰፈሩን ከከተማዋ ሰሜን አድርጎ፣ ⟨את⟩ ኋላውንም ከከተማዋ ምዕራብ አድርጎ አቀረበ፤ ያዕሶር በዚያ ምሽት በተሻለው ሸለቆ መካከል ሄደ።",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "አድርገው አቀረቡ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሙሉ ሰፈሩን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሙሉ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ሰፈሩን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነው"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ከሰሜን"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ከከተማዋ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኋላውን"
+    },
+    {
+      "surface": "עקבו",
+      "gloss": "ኋላውን"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ምዕራብ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ከከተማዋ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ያዕሶር"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "በምሽት"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "ሸለቆ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:02:12.969291562Z",
+  "model": "glm-5.3"
+}

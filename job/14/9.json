@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "job 14:9",
+  "book": "job",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ከውኃ ሽቶ ያፈራል፤ እንደ ተተከለ ⟨ዕፅ⟩ ቅርንጫፍ ያወጣል።",
+  "tokens": [
+    {
+      "surface": "מריח",
+      "gloss": "ከሽቶ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውኃ"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "ያፈራል"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ያወጣል"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ቅርንጫፍ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "ተተከለ ዕፅ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:46:22.336400172Z",
+  "model": "glm-5.3"
+}

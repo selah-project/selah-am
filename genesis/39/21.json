@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "ያህዌህ ዮሴፍን ⟨את⟩ ጋር ነበር፣ ሞገስን ወደ እርሱ ዘረጋ፣ በማሰሪያ ቤቱ አለቃ ዓይኖች ፍቅሩን ሰጠው።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነበር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮሴፍን"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ዘረጋ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሞገስን"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "ፍቅሩን"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "በዓይኖች"
+    },
+    {
+      "surface": "שר",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "ማሰሪያው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:55:39.401429178Z",
+  "model": "glm-5.3"
+}

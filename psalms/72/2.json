@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 72,
+  "translation": "ሕዝብህን በጽድቅ ይፈርድ፣ ድሆችህንም በሕግ ይፈርድ።",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "ይፈርድ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ሕዝብህን"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "በጽድቅ"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "ድሆችህንም"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "በሕግ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:33.544488069Z",
+  "model": "glm-5.3"
+}

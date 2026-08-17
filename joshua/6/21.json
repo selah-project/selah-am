@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "joshua 6:21",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "በከተማዋ ውስጥ ያለውን ⟨את⟩ ሁሉን — ከሰው እስከ ሴት፣ ከታናሽ እስከ አዋቂ፣ እንዲሁም በሬን፣ በግንና አህያን — በሰይፍ አፍ አጠፉ።",
+  "tokens": [
+    {
+      "surface": "ויחרימו",
+      "gloss": "አጠፉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለው"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "በከተማዋ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ከሰው"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "ከታናሽ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "አዋቂ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እንዲሁም እስከ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "በሬ"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "እና በግ"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "እና አህያ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "አፍ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:04:38.821739426Z",
+  "model": "glm-5.3"
+}

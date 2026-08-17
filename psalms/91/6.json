@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 91,
+  "translation": "በጨለማ የሚሄድ ቸኝሽ፣ በእኩለ ቀን የሚያጠፋ ጥፋት አትፈራም።",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "ከቸኝሽ"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "በጨለማ"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "የሚሄድ"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "ከጥፋት"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "የሚያጠፋ"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "እኩለ ቀን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:16.295775307Z",
+  "model": "glm-5.3"
+}

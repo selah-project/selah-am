@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የላዕይ ልጆች ጌርሶም፣ ቀሃት እና ምራሪ ናቸው።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "የላዕይ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ጌርሶም"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ቀሃት"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "እና ምራሪ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:39:04.037276524Z",
+  "model": "glm-5.3"
+}

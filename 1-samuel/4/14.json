@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ዔሊም የጩኸቱን ⟨את⟩ ድምፅ ሰማ፤ «የዚህ እንቅጠቅጠ ድምፅ ምንድን ነው?» አለ፤ ሰውየውም በፍጥነት ገብቶ ዔሊን ነገረው።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ዔሊም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምፅ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "ጩኸት"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምንድን"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "እንቅጠቅጠ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "ሰውየውም"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "በፍጥነት"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ገብቶ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ነገረው"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "ዔሊን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:34:48.986752126Z",
+  "model": "glm-5.3"
+}

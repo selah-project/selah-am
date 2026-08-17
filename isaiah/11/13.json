@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "የኤፍራይም ቅናት ይገባል፤ የይሁዳ ጠላቶች ይቆረጣሉ፤ ኤፍራይም ይሁዳን ⟨את⟩ አይቀንነውም፤ ይሁዳም ኤፍራይምን ⟨את⟩ አይጨንቅም።",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "ይገባል"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ቅናት"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "የኤፍራይም"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "ጠላቶች"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "የይሁዳ"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ይቆረጣሉ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይሆንም"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "አይቀንነውም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይሁዳን"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳን"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ይሁዳም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይሆንም"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "አይጨንቅም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤፍራይምን"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይምን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:04:00.041194905Z",
+  "model": "glm-5.3"
+}

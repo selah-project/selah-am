@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 130,
+  "translation": "ምክንያቱም ከአንተ ጋር ይቅርታ አለ፤ ይፈራህ ዘንድ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "ይቅርታ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ዘንድ"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "ትፈራልህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:37.238507238Z",
+  "model": "glm-5.3"
+}

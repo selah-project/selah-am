@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "joshua 1:2",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ሞሼ አገልጋዬ ሞተ፤ አሁን ተነስ፣ አንተና ይህ ሕዝብ ሁሉ ⟨את⟩ ይህን ዮርዳኖስ ተሻግራችሁ ወደ እኔ ለልጆቻቸው ላቸው ለእስራኤል ልጆች ወደምሰጣት ምድር ሂዱ።",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "አገልጋዬ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ተነስ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ተሻግር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህን ዮርዳኖስ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና…ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ወደምሰጣት"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጭ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ላቸው"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T05:00:27.305190391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "numbers 13:30",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ካሌብ ⟨את⟩ ሕዝቡን ወደ ሞሼ አስተማረ፤ እንወጣ፤ ወጥተን ወደ ላይ እንወጣ፤ ⟨את⟩ እናወርሳታለን፤ ቻንን እንችላለንና ብሎ አለ።",
+  "tokens": [
+    {
+      "surface": "ויהס",
+      "gloss": "አስተማረ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ካሌብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "እንወጣ"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "እንወጣለን"
+    },
+    {
+      "surface": "וירשנו",
+      "gloss": "እናወርሳታለን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እነሷ (ምድሪቱን)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንዂ"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "ቻንን"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "እንችላለን"
+    },
+    {
+      "surface": "לה",
+      "gloss": "እነሷ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:15:23.876659992Z",
+  "model": "glm-5.3"
+}

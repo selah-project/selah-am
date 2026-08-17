@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ኹለት ነገር ጠየቅሁም ⟨את⟩ ከአንተ፤ እስኪ እሞት ድረስ አትከልከልብኝ።",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "ኹለት"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ጠየቅሁም"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ ከአንተ",
+      "marks": "ኹለት ነገር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ከልከልብኝ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "እስኪ... ድረስ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "እሞት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:37:19.050105200Z",
+  "model": "glm-5.3"
+}

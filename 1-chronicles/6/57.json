@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እና ከየስሳካር ነገዥ ⟨את⟩ ቄደስን እና ⟨את⟩ መጋረሻዎቿን፣ ⟨את⟩ ዳብራትን እና ⟨את⟩ መጋረሻዎቿን።",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "እና ከነገዡ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "የየስሳካር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቄደስን"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቄደስን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መጋረሻዎቿን"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "መጋረሻዎቿን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳብራትን"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ዳብራትን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መጋረሻዎቿን"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "መጋረሻዎቿን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:40:13.435889112Z",
+  "model": "glm-5.3"
+}

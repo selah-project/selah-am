@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 102,
+  "translation": "ከንዴትህና ከቍጣህ ስለ ኾነ፤ አነሳኝ ወዲያውኑ ጣልከኝ።",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "ከ… ስለ ኾነ"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "ንዴትህ"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "እና ቍጣህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "አነሳኝ"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "ወዲያውኑ ጣልከኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:14.963642460Z",
+  "model": "glm-5.3"
+}

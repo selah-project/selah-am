@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ወንድምህን ⟨את⟩ በልብህ አትጥላ፤ አጋራህን ⟨את⟩ ውቅር፣ ታውቅር፤ እና በእርሱ ላይ ኃጢአትን አታሸክም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "ታጠላ\/አትጥላ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንድምህን"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ወንድምህን"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "በልብህ"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "ውቅር"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "ታውቅር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አጋራህን"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "አጋራህን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ታሸክም"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ኃጢአትን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:56:45.445639333Z",
+  "model": "glm-5.3"
+}

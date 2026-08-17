@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 26:14",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እና ለድንኳኑ የአውራ ላሞች ቀይ የተቀቡ ቆዳዎችን ሽፋን ታደርጋለህ፣ እና ከላይ የተክላስ ቆዳዎችን ሽፋን ታደርጋለህ።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "እና ታደርጋለህ"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ሽፋን"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "ለድንኳኑ"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "ቆዳዎችን"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "የአውራ ላሞች"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "ቀይ የተቀቡ"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "እና ሽፋን"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "ቆዳዎችን"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "የተክላስ"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ከላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:09:18.904072257Z",
+  "model": "glm-5.3"
+}

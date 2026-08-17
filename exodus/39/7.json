@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "እነሱን ⟨את⟩ የኤፉዱ ክንፎች ላይ የማስታወሻ ድንጋዮች ለእስራኤል ልጆች እንደ ያህዌህ ለሞሼ ⟨את⟩ እንዳዘዘው አኖራቸው።",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "አኖራቸው"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "የክንፎች"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "የኤፉዱ"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ድንጋዮች"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "የማስታወሻ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዘው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሼ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:38:47.096210626Z",
+  "model": "glm-5.3"
+}

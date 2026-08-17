@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "numbers 3:23",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የጌርሾናውያን ቤተሰቦች ከ⟨መገኛ⟩ ድንኳኑ በኋላ ወደ ምዕራብ ያሳልፋሉ።",
+  "tokens": [
+    {
+      "surface": "משפחת",
+      "gloss": "ቤተሰቦች"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "የጌርሾናውያን"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "በኋላ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ድንኳኑ"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "ያሳልፋሉ\/ይሰፍራሉ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ወደ ምዕራብ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:05:14.378728366Z",
+  "model": "glm-5.3"
+}

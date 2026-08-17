@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "numbers 22:1",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እስራኤል ልጆችም ተነሱ፣ በሞአብ ሜዳዎች ከዮርዳኖስ ማዶ እንደ እያሪኮ ሰፈሩ።",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ተነሱ፣"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆችም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ሰፈሩ፣"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "በሜዳዎች"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞአብ"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ከ… ማዶ"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "ዮርዳኖስ"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "እንደ እያሪኮ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:22:00.146706706Z",
+  "model": "glm-5.3"
+}

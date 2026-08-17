@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "እነሆ በሚባርኩት ⟨እርሱ⟩ ምድርን ይወርሳሉ፤ በሚረገሙት ግን ይጠፋሉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "በሚባርኩት ⟨እርሱ⟩"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ይወርሳሉ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "በሚረገሙት"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ይጠፋሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:40:24.643870171Z",
+  "model": "glm-5.3"
+}

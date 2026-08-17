@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 99,
+  "translation": "ያህዌህ አምላካችን አንተ መለስሃቸው፤ የሚሰርዝ ኤል ነበርሃቸው፤ በሥራቸውም ላይ ተበቀልሃል።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "አምላካችን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "መለስሃቸው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "የሚሰርዝ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ነበርሃቸው"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነሱ"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "ተበቀልሃልም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "ሥራቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:45.343848381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "ለኤሎሂም ዝምሩ፤ ስሙን በመደብር ዝምሩ፤ በአረብታ ላይ ለሚነድፈው ⟨በያህ⟩ ስሙ ነው፤ ውድቀቱን ከፍ አድርጉ፤ ፊቱ ፊት ተደስቱ።",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ዝምሩ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ለኤሎሂም"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ዝምሩ (በመደብር)"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "ከፍ አድርጉ"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "ለሚነድፈው"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "በአረብታ"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "በያህ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "ተደስቱ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ፊቱ ፊት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:34.850524639Z",
+  "model": "glm-5.3"
+}

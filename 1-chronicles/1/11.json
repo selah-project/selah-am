@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ምጽራይምም ⟨את⟩ ሉዲሞችን እና ⟨את⟩ ዓናሚሞችን እና ⟨את⟩ ለሃቢሞችን እና ⟨את⟩ ናፍቱሂሞችን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "ምጽራይምም"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሉዲሞችን"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "ሉዲሞችን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዓናሚሞችን"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "ዓናሚሞችን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ለሃቢሞችን"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "ለሃቢሞችን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ናፍቱሂሞችን"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "ናፍቱሂሞችን"
+    }
+  ],
+  "timestamp": "2026-08-16T12:30:44.329879348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "የያቤስ ጌልዓድ ነዋሪዎች ፍልስጤም ለሳኦል ያደረጉትን ⟨את⟩ ሰሙ።",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ሰሙ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ነዋሪዎች"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "ያቤስ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ጌልዓድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያደረጉትን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ያደረጉት"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤም"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ለሳኦል"
+    }
+  ],
+  "timestamp": "2026-08-16T05:53:26.885364848Z",
+  "model": "glm-5.3"
+}

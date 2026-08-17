@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "አሃሮንና የእስራኤል ልጆች ሁሉ ⟨את⟩ ሞሼን አዩ፤ እነሆ የፊቱ ቆዳ በራ፤ ወደ እርሱ ከመቅረብም ፈሩ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "አዩ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሼ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "አበራ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ቆዳ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "የፊቱ"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ፈሩ"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "ከመቅረብ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:32:40.130841925Z",
+  "model": "glm-5.3"
+}

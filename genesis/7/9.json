@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ሁለት ሁለት ወደ ኖህ ወደ ⟨ታቦቱ⟩ መጡ፣ ወንድና ሴት፣ እንደ ኤሎሂም ለኖህ ⟨את⟩ ያዘዘው ሁሉ።",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "באו",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ታቦቱ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ወንድ"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "እና ሴት"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ያዘዘው"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኖህ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖህ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:31:26.440792989Z",
+  "model": "glm-5.3"
+}

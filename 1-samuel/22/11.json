@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "1-samuel 22:11",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ንጉሡም ካህኑ የአኪጡብ ልጅ አኪሜልክን ⟨את⟩ እና በኒብ ያሉትን ካህናት የአባቱን ቤት ሁሉን ⟨את⟩ ሊጠራ ላከ፤ ሁሉም ወደ ንጉሡ መጡ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "ሊጠራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አኪሜልክን"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "አኪሜልክ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "አኪጡብ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "የአባቱን"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያሉትን"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "በኒብ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "መጡም"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:46:15.072263749Z",
+  "model": "glm-5.3"
+}

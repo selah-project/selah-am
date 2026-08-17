@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "ሰረገላንም አውጣ፤ የሚከተሉኝን በፊታቸው ዝጋ፤ ለነፍሴ በል «የመዳንህ እኔ ነኝ»።",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "እና አውጣ"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "ሰረገላን"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "እና ዝጋ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "በፊታቸው"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "የሚከተሉኝን"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በል"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ለነፍሴ"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "የመዳንህ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:13.289032750Z",
+  "model": "glm-5.3"
+}

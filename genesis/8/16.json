@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "«አንተ፣ ሚስትህም፣ ወንድሞችህም — ወንዶችህም — እና የወንድሞችህ ሚስቶች ⟨את⟩ አንተ እንደሆኑ ከታቦቱ ውጣ።»",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "ውጣ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ታቦቱ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "እና ሚስትህ"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "እና ወንድሞችህ"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "እና ሚስቶች"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ወንድሞችህ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ አንተ",
+      "marks": "አንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:32:26.203960076Z",
+  "model": "glm-5.3"
+}

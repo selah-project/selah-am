@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "exodus 6:23",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "አሃሮንም ⟨את⟩ ኤልይሸባን፣ የአሚናዳብ ልጅ፣ የናሕሶን እህት፣ ለራሱ ሚስት አገባት፤ እርሷም ለእርሱ ⟨את⟩ ናዳብን፣ ⟨את⟩ አቢሁን፣ ⟨את⟩ ኤልዓዛርን እና ⟨את⟩ ኢታማርን ወለደችለት።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "አገባትም"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤልይሸባ"
+    },
+    {
+      "surface": "אלישבע",
+      "gloss": "ኤልይሸባ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "አሚናዳብ"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "እህት"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "ናሕሶን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለራሱ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ሚስት"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደችለትም"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ናዳብ"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ናዳብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "አቢሁ"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "አቢሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤልዓዛር"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ኤልዓዛር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኢታማር"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "ኢታማር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:07:34.106137203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "exodus 26:12",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "በድንኳኑ መጋረጃዎች ውስጥ የቀረው ትርፍ ራሱ ከመጋረጃው ግማሽ የሚበልጥ በማደሪያው ኋላ ላይ ይዘረጋል።",
+  "tokens": [
+    {
+      "surface": "וסרח",
+      "gloss": "ይዘረጋል ትርፉ"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "የቀረው ትርፍ"
+    },
+    {
+      "surface": "ביריעת",
+      "gloss": "በመጋረጃዎች ውስጥ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "የድንኳኑ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ግማሽ"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "መጋረጃው"
+    },
+    {
+      "surface": "העדפת",
+      "gloss": "የቀረው"
+    },
+    {
+      "surface": "תסרח",
+      "gloss": "ይዘረጋል"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ኋላ ላይ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ማደሪያው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:24:40.812097467Z",
+  "model": "glm-5.3"
+}

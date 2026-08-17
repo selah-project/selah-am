@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ወደ ሴት ልጆቹም እንዲህ አለ፦ «እርሱስ የት ነው? ይህን ሰው ስለ ምን ተውታችኋል? ውለታውን ብትጠሩለት ምግብም ይበላ ነበር።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "ሴት ልጆቹ"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "እርሱስ የት ነው"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ስለ ምን"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "ተውታችኋል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰውን"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰውን"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "ይጠሩለት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለርሱ"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ይበላም"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ምግብ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:06:43.887215289Z",
+  "model": "glm-5.3"
+}

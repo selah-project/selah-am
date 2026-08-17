@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 13:4",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ነጩ በሥጋው ቆዳ ላይ ነጭ ቢሆን፣ አርአያውም ከቆዳው በታች ባይሆን፣ ፀጉሩም ነጭ ባይለወጥ፣ ካህኑ ⟨את⟩ ቁስሉን ባለበት ሰባት ቀን ያቆለለዋል።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ነጩ ቢሆን"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "ነጩ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ነጭ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨እርሷ⟩"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "በቆዳ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ሥጋው"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ጥልቅ ባይሆን"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "አርአያው"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ቆዳው"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "ፀጉሩም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "ለወጠ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ነጭ"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ያቆለለዋል"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቁስሉን"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ቁስሉ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀን"
+    }
+  ],
+  "timestamp": "2026-08-16T14:47:23.828595617Z",
+  "model": "glm-5.3"
+}

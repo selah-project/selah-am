@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 9:24",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ያሁም እጁን በቀስት ሞላ፣ ⟨את⟩ ሆደምንም በእጆቹ መካከል በት፤ ትርም ከልቡ ወጣ፤ በሰረገላውም ወደቀ።",
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "ያሁም"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ሞላ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "በቀስት"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "በት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሆደምን"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "ሆደም"
+    },
+    {
+      "surface": "בין",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "זרעיו",
+      "gloss": "ከእጆቹ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "ትር"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "ከልቡ"
+    },
+    {
+      "surface": "ויכרע",
+      "gloss": "ወደቀ"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "በሰረገላው"
+    }
+  ],
+  "timestamp": "2026-08-16T16:39:13.278205570Z",
+  "model": "glm-5.3"
+}

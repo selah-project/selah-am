@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "1-samuel 30:25",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ከዚያው ቀን እና በላይውም ሆኖ ለእስራኤል ሕግና ፍርድ ሆኖ እስከ ዛሬው ቀን ድረስ አስቀመጠው።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆኖ"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "ከዚያው ቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "እና በላይውም"
+    },
+    {
+      "surface": "וישמה",
+      "gloss": "አስቀመጠው"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "ሕግ"
+    },
+    {
+      "surface": "ולמשפט",
+      "gloss": "እና ፍርድ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ለእስራኤል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬው ቀን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:49:45.721980001Z",
+  "model": "glm-5.3"
+}

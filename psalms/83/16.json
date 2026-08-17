@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 83,
+  "translation": "እንደዚህ በማዕብልህ አሳድደህ እነርሱን፣ በለንደብህም አስደንግፋቸው።",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "አሳድደህ እነርሱን"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "በማዕብልህ"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "በለንደብህም"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "አስደንግፋቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:43.472108518Z",
+  "model": "glm-5.3"
+}

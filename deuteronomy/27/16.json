@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "አባቱን እና እናቱን የሚያንቀላፋ የተረገመ ነው፤ ሕዝቡም ሁሉ «አሜን» ይላል።",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "የተረገመ"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "የሚያንቀላፋ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱን"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "እና እናቱን"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡም"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "አሜን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:51:15.093361592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "isaiah 54:7",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 54,
+  "translation": "ለአፍታ ትንሽ ጊዜ ተውሁሽ፤ በታላቅ ምሕረትም አሰባሽታለሁ።",
+  "tokens": [
+    {
+      "surface": "ברגע",
+      "gloss": "ለአፍታ ትንሽ ጊዜ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": ""
+    },
+    {
+      "surface": "עזבתיך",
+      "gloss": "ተውሁሽ"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "በታላቅ ምሕረትም"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "አሰባሽታለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:27:54.905297788Z",
+  "model": "glm-5.3"
+}

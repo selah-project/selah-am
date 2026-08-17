@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ካህኑም ⟨אתם⟩ በመሠዊያው ላይ ያጠናቅቃል፤ ለያህዌህ የእሳት በዓል ነው፤ የይቅስት መሥዋዕት ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "ያጠናቅቃል"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "በመሠዊያው ላይ የሚጠናቀቁትን (ካህኑ እነሱን)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "በመሠዊያው ላይ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "የእሳት በዓል"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "የይቅስት መሥዋዕት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:44:29.237842245Z",
+  "model": "glm-5.3"
+}

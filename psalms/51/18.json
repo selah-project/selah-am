@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "መስዋዔን አትወድም አቀርብ ነበር፤ የሚቃጠል መስዋዔም አትፈልግም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "መስዋዔን አትወድም አቀርብ ነበር፤ አትፈልግም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "ወድቶም"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "መስዋዔን"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "አቀርብ ነበር፤"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "የሚቃጠል መስዋዔም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "ፈልግም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:45:50.723085433Z",
+  "model": "glm-5.3"
+}

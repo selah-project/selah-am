@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ይህ ነገር ግን እውነት ከሆነ፣ ድንግልና ለወጣቷ ካልተገኘ፣",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ግን ከሆነ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "እውነት"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ይህ ነገር"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ካል"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "ተገኘ"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "ድንግልና"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ለወጣቷ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:05:07.153871847Z",
+  "model": "glm-5.3"
+}

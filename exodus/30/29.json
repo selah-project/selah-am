@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "አንተም ⟨את⟩ እነሱን ታቀድሳለህ፤ እነሱም ቅዱስ ቅዱሳን ይሆናሉ፤ ሁሉም የሚነካቸው ይቀደሳል።",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "ታቀድሳለህ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ይሆናሉ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ቅዱሳን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "የሚነካቸው"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ነባቸው"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "ይቀደሳል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:30:40.406487817Z",
+  "model": "glm-5.3"
+}

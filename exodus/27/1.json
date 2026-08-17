@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 27,
+  "translation": "የምድር ዕጣን መሠዊያውን ከሲሳውን እንጨት ታደርጋለህ — አምስት ክንድ ርዝመት እና አምስት ክንድ ስፋት ይሁን፤ ⟨את⟩ መሠዊያው ካራ ይሁን፤ ቁመቱም ሦስት ክንድ ይሁን።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሠዊያውን"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያውን"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ከእንጨት"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ሲሳውን"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "አምስት"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ክንድ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ርዝመት"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "እና አምስት"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ክንድ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ስፋት"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "ካራ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "እና ሦስት"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ክንድ"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ቁመቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:26:37.389727516Z",
+  "model": "glm-5.3"
+}

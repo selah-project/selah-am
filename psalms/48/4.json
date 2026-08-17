@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "ኤሎሂም በግንቦቿ ውስጥ ማደኛ ሆኖ ተገለጠ።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "በግንቦቿ"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "ተገለጠ"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "ማደኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:49.927935672Z",
+  "model": "glm-5.3"
+}

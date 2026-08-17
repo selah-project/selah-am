@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እናንተ ግን ⟨את⟩ ናዝራውያኑን ወይን አጠጡኋቸው፤ ነቢያቱንም «አትንበቡ» ብላችሁ አዘዛችኋቸው።",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "አጠጡኋቸው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ናዝራውያኑን"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "ናዝራውያኑን"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ወይን"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ነቢያቱን"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "አዘዛችሁ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብላችሁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "ንበቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:03:18.350701894Z",
+  "model": "glm-5.3"
+}

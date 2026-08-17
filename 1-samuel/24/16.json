@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ያህዌህ ለፍርድ ይሁን፤ በኔ እና በአንተ መካከል ይፈርድ፤ ይመልከትና ⟨את⟩ ክርክሬን ይከሽፍ፣ ከእጅህም ይፈርድኝ።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "ለፍርድ"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ይፈርድ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "በኔ"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "እና በአንተ መካከል"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ይመልከት"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "ይከሽፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክርክሬን"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ክርክሬን"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "ይፈርድኝ"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ከእጅህ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:46:53.357537312Z",
+  "model": "glm-5.3"
+}

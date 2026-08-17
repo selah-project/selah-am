@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 42:8",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "ዮሐናን የቀሬህ ልጅን፣ ከእርሱ ⟨את⟩ ጋር የነበሩትን የኃያላን ሹማምቶች ሁሉን፣ እንዲሁም ሕዝቡን ሁሉን ከትንሹ እስከ ትልቁ ድረስ ጠራ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "ዮሐናን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ቀሬህ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እንዲሁም ወደ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ሹማምቶች"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "የኃያላን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ...ዎች"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ከእርሱ ጋር",
+      "marks": "የኃያላን ሹማምቶች"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "እንዲሁም ለሁሉም"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "למקטן",
+      "gloss": "ከትንሹ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ትልቁ ድረስ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:05:58.904234713Z",
+  "model": "glm-5.3"
+}

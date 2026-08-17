@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "አሳቂውን አስወጣ፤ ክርክርም ይወጣል፤ መከራከርና ውርደትም ያቆማል።",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "አስወጣ"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "አሳቂውን"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ይወጣል"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "ክርክር"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ያቆማል"
+    },
+    {
+      "surface": "דין",
+      "gloss": "መከራከር"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "ውርደትም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:31:35.125399531Z",
+  "model": "glm-5.3"
+}

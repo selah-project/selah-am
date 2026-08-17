@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ከሆነ ባለ ብዙ ምኞት አንተ ነህ፣ ጉሮሮህ ላይ ቢላዋ አኑር።",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "አኑር"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "ቢላዋ"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "ጉሮሮህ ላይ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ባለ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ብዙ ምኞት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ ነህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:33:59.768067504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "exodus 25:23",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "እና የአካቢያ ዕንጨይት መጠረዝ ታዘጋለህ፤ ሁለት ክንድ ርዝመቱ ይሆናል፤ አንድ ክንድ ስፋቱ፤ እና አንድ ክንድ ተኩል ቁመቱ።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ታዘጋለህ"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "መጠረዝ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "የእንጨት"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "አካቢያ"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "ሁለት ክንድ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ርዝመቱ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "እና አንድ ክንድ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ስፋቱ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "እና አንድ ክንድ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ተኩል"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ቁመቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:25:45.644855244Z",
+  "model": "glm-5.3"
+}

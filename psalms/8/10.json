@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ያህዌህ አዶናይ እኛ፣ ስምህ በምድር ሁሉ ላይ ምን ያህል ክብረት ያለው ነው!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "አዶናይ እኛ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን ያህል"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ክብረት ያለው"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:29:57.024711911Z",
+  "model": "glm-5.3"
+}

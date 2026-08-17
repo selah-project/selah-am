@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 71,
+  "translation": "ከንፈሮቼ ደምቀው ይዘምራሉልህ፤ ነፍሴም — እርሷን ያዳንከዋታል።",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "ደምቀው ይዘምራሉ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ከንፈሮቼ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ልህ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ልህ"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "ነፍሴም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "ያዳንከዋታል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:51:31.557168444Z",
+  "model": "glm-5.3"
+}

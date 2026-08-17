@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.3",
+  "verse": 45,
+  "ref": "judges 9:45",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "አቢሜሌክም በዚያ ሁሉ ቀን ከከተማዋ ጋር ተዋጋ፤ ከተማዋንም ⟨את⟩ ያዘ፤ በእርሷም የነበረውንን ⟨את⟩ ሕዝብ ገደለ፤ ከተማዋንም ⟨את⟩ አፈረሰ እና ጨው ዘራባት።",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "አቢሜሌክም"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ተዋጋ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ከከተማዋ ጋር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ያዘ፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተማዋን"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የነበረውን"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሷ"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ገደለ፤"
+    },
+    {
+      "surface": "ויתץ",
+      "gloss": "አፈረሰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተማዋን"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማያ"
+    },
+    {
+      "surface": "ויזרעה",
+      "gloss": "ዘራባት፤"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "ጨው"
+    }
+  ],
+  "timestamp": "2026-08-16T05:21:40.121437038Z",
+  "model": "glm-5.3"
+}

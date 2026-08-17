@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "micah 3:7",
+  "book": "micah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እና የሚያዩት ተሳፈርተዋል፤ ተንኮል አዋቂዎቹም ተፈርደዋል፤ ሁሉም የከንፈራቸውን ሸፍነዋል፤ ምክንያቱም የኤሎሂም መልስ የለም።",
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "ተሳፈርተዋል"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "የሚያዩት"
+    },
+    {
+      "surface": "וחפרו",
+      "gloss": "ተፈርደዋል"
+    },
+    {
+      "surface": "הקסמים",
+      "gloss": "ተንኮል አዋቂዎቹ"
+    },
+    {
+      "surface": "ועטו",
+      "gloss": "ሸፈኑ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "የከንፈራቸውን"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም፤ አለ"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "መልስ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:11:15.609479437Z",
+  "model": "glm-5.3"
+}

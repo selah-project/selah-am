@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "judges 7:23",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የእስራኤል ሰዎች ከንፍታሌም፣ ከአሴር እና ከምናሴ ሁሉ ተጠሩ፤ ከምድያም በኋላ አሳዱ።",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ተጠሩ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "מנפתלי",
+      "gloss": "ከንፍታሌም"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "እና ከ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "አሴር"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "እና ከ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሴ"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "አሳዱ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ... በኋላ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ምድያም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:19:58.213297221Z",
+  "model": "glm-5.3"
+}

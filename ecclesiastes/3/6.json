@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "የመፈለግ ጊዜ እና የመጥፋት ጊዜ፤ የመጠበቅ ጊዜ እና የመወርወር ጊዜ።",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ለመፈለግ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "እና ጊዜ"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "ለማጥፋት"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "ለመጠበቅ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "እና ጊዜ"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "ለመወርወር"
+    }
+  ],
+  "timestamp": "2026-08-16T11:12:58.351544804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "genesis 16:8",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "እንዲህ አላት፦ ሃጋር ሆይ፣ የሳራ ባሪያ፣ ከየት መጣህ? ወዴትም ትሄዳለሽ? እርሷም፦ ከሳራ ገበሬቴ ፊት እሮጥ ነው ያለሁት አለችው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አላት"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ሃጋር ሆይ"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ባሪያ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "የሳራ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ከየት?"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ከዚህ"
+    },
+    {
+      "surface": "באת",
+      "gloss": "መጣህ"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "ወዴትም?"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ትሄዳለሽ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "አለችው ስት"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ከፊት"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ሳራ"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "ገበሬቴ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "ברחת",
+      "gloss": "እሮጥ ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T02:37:29.595213515Z",
+  "model": "glm-5.3"
+}

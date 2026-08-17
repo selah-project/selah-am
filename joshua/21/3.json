@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "የእስራኤል ልጆች እንደ ያህዌህ አፍ ከርሳቸው ርስት ⟨את⟩ እነዚህን ከተሞች እና ⟨את⟩ አጥራቾቻቸውን ለሌዋውያን ሰጡ።",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ሰጡ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ለሌዋውያን"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "ከርሳቸው ርስት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እነዚህን ከተሞች"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ከተሞች"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "አጥራቾቻቸውን"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "አጥራቾቻቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:11:21.320284005Z",
+  "model": "glm-5.3"
+}

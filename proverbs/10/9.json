@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "በትክክልነት የሚሄድ በደህና ይሄዳል፤ መንገዶቹን የሚያደንቅ ግን ይታወቃል።",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "የሚሄድ"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "በትክክልነት"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ይሄዳል"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "በደህና"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "እና የሚያደንቅ"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "መንገዶቹን"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ይታወቃል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:24:54.979268862Z",
+  "model": "glm-5.3"
+}

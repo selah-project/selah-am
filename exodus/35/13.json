@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "⟨את⟩ የምግብ ሠረጸሉን እና ⟨את⟩ አሞሎቹን እና ⟨את⟩ ሁሉንም ዕቃዎቹን እና ⟨את⟩ የፊት እንጀራን።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሠረጸሉ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ሠረጸሉ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "አሞሎቹን"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "አሞሎቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉንም"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ዕቃዎቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "እንጀራን"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እንጀራ"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "የፊት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:33:23.932482806Z",
+  "model": "glm-5.3"
+}

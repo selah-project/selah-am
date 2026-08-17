@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 101,
+  "translation": "ማለዳ በማለዳ የምድሪቱን ክፉዎች ሁሉ አጥፋለሁ፤ ከያህዌህ ከተማ ክፉ ሥራ ከሚሠራቸው ሁሉ ላስቆርጥ።",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "ማለዳ በማለዳ"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "አጥፋለሁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "ክፉዎችን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "ላስቆርጥ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ከከተማ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ሠራተኞች"
+    },
+    {
+      "surface": "און",
+      "gloss": "ክፉ ሥራ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:28.033090516Z",
+  "model": "glm-5.3"
+}

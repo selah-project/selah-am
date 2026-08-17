@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እና ወንድሙ አሳፍ በቀኙ ላይ የቆመ ነበር፤ አሳፍ የበርክያሁ ልጅ፣ የስምዓ ልጅ፤",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "እና ወንድሙ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "አሳፍ"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "የቆመ ⟨ነበር⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ቀኙ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "አሳፍ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ፣"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "በርክያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ፣"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "ስምዓ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:39:43.308730068Z",
+  "model": "glm-5.3"
+}

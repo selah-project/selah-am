@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "esther 2:23",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ነገሩ ተመርምሮ ተገኘ፤ ሁለቱም በዛፍ ተሰቀሉ፤ በንጉሡ ፊት በዕለት ዜና መጽሐፍ ተጻፈ።",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "ተመርምሮ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ነገሩ"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "ተገኘ"
+    },
+    {
+      "surface": "ויתלו",
+      "gloss": "ተሰቀሉ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ሁለቱም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ዛፍ"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "ተጻፈ"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "በመጽሐፍ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ዜና"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ዕለት"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:19:17.384158327Z",
+  "model": "glm-5.3"
+}

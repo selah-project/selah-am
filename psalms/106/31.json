@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "ጽድቅም ሆኖ ተቆጠረለት፤ ለትውልድና ለትውልድ፣ እስከ ዘላለም ድረስ።",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "ተቆጠረች"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "ጽድቅ ሆኖ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ለትውልድ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "እና ለትውልድ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘላለም ድረስ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:25.668498441Z",
+  "model": "glm-5.3"
+}

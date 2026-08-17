@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "አንዱን ወፍ በሕያው ውሃ በላዩ በሸክላ ብርጭራ ⟨את⟩ ⟨ወደ⟩ ያርድዳል።",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ያርድዳል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወፉን"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "ወፉን"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "አንዱን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ወደ⟩"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ብርጭራ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ሸክላ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላዩ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ሕያው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:50:25.621138789Z",
+  "model": "glm-5.3"
+}

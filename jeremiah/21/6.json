@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "የዚህችን ከተማ ነዋሪዎችን ⟨את⟩፣ ሰውንም ⟨את⟩ እንስሳትንም ⟨את⟩ እመታለሁ፤ በታላቅ ወባ ይሞታሉ።",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "እመታለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የዚህችን ከተማ ነዋሪዎችን"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ነዋሪዎችን"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "የከተማዋን"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ይህችን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሰውን"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እንስሳትን"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "እንስሳትን"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "በወባ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ይሞታሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:51:45.550544517Z",
+  "model": "glm-5.3"
+}

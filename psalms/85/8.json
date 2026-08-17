@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 85,
+  "translation": "ያህዌህ ሆይ፣ ምሕረትህን አሳየን፤ መዳንህንም ስጠን።",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "አሳየን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ምሕረትህን"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "መዳንህንም"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ስጠን።"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:27.277296174Z",
+  "model": "glm-5.3"
+}

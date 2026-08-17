@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "በቆዳው ላይ ቢዛራበትም ካህኑ ⟨את⟩ እርሱን ርኵስ ይቆጥረዋል፤ ችግር ⟨ናት⟩።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ቢዛራበትም"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "ቢዛራበት"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "ይዛራራል"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "በቆዳው"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ርኵስ ይቆጥረዋል"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ችግር"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ናት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:50:39.406882059Z",
+  "model": "glm-5.3"
+}

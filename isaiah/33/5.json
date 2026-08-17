@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ያህዌህ ከፍ ተደረገ፣ ምክንያቱም በከፍታ ላይ የሚኖር ነው፤ ጽዮንን በፍርድ እና በጽድቅ ሞላታል።",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "ከፍ ተደረገ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "የሚኖር"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "በከፍታ ላይ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ሞላታል"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮንን"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "በፍርድ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "እና በጽድቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:13:07.894751835Z",
+  "model": "glm-5.3"
+}

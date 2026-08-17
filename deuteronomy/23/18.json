@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ከየእስራኤል ሴት ልጆች የመቅደስ ጋለሞታ ትሆን ዘንድ አይሁን፣ እና ከየእስራኤል ወንድ ልጆች የመቅደስ ወታደር ይሁን ዘንድ አይሁን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይሁን"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ትሆን"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "የመቅደስ ጋለሞታ"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ከ…ሴት ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይሁን"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "የመቅደስ ወታደር"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ከ…ወንድ ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:49:38.953066516Z",
+  "model": "glm-5.3"
+}

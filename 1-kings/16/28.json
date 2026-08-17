@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 16:28",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "እና አምሪ ከአባቶቹ ጋር ተኛ፤ በሰማርያ ተቀበረ፤ እና ልጁ አሐብ በሱ ፋንታ ነገሠ።",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "እና ተኛ"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "አምሪ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ከአባቶቹ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "እና ተቀበረ"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "በሰማርያ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "እና ነገሠ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "አሐብ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "በሱ ፋንታ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:30:22.284654186Z",
+  "model": "glm-5.3"
+}

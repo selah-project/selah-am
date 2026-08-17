@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "የያዓናውን ሴትም ⟨את⟩ እና ተሕማስን ⟨את⟩ እና ሳሕፍን ⟨את⟩ እና ኔጽንም ⟨את⟩ ከዝርያው መሠረት።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የያዓናውን ሴትም"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ያዓና"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ተሕማስን"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "ተሕማስ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሳሕፍን"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "ሳሕፍ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኔጽንም"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "ኔጽ"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ከዝርያው መሠረት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:47:40.026187118Z",
+  "model": "glm-5.3"
+}

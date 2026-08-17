@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ስለዚህ ልቤ ደስ እያለ ነው፣ ክብሬ ተመስግኖአል፤ እንኳን ሥጋዬ በደህና ያድራል።",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "ደስ እያለ ነው፣"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "ተመስግኖአል፣"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ክብሬ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እንኳን"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ሥጋዬ"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ያድራል።"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "በደህና"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:23.563096425Z",
+  "model": "glm-5.3"
+}

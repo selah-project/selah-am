@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "exodus 15:7",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "በብዛት ታላቅነትህ የሚነሱትን ወደቀህ፤ ቍጣህን ላከህ፤ እንደ ጥንጉ በላቸው።",
+  "tokens": [
+    {
+      "surface": "וברב",
+      "gloss": "በብዛት"
+    },
+    {
+      "surface": "גאונך",
+      "gloss": "ታላቅነትህ"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "ወደቀህ"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "የሚነሱትን"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "ላከህ"
+    },
+    {
+      "surface": "חרנך",
+      "gloss": "ቍጣህን"
+    },
+    {
+      "surface": "יאכלמו",
+      "gloss": "በላቸው"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "እንደ ጥንጉ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:14:24.191518394Z",
+  "model": "glm-5.3"
+}

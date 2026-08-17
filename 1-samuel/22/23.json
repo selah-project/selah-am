@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ከእኔ ጋር ተቀምጥ፤ አትፍራ፤ ነፍሴን ⟨את⟩ የሚፈልግ ነፍስህንም ⟨את⟩ ይፈልጋልና፤ ከእኔ ጋር ልታድርገው የሚገባህ ነህና።",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "ተቀምጥ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ከእኔ ጋር",
+      "marks": "እኔን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ፍራ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነንላ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚፈልግ"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ይፈልጋል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሴን"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ይፈልጋል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍስህንም"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ነፍስህንም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነህና"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ልታድርገው የሚገባህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ከእኔ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T15:46:22.977781313Z",
+  "model": "glm-5.3"
+}

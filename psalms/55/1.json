@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 55,
+  "translation": "ለዘመረቡ ተቆጣጣሪ፣ በበገና ዘፈኖች፣ የሚያስተምር ቅኔ፣ ለዳዊት።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለዘመረቡ ተቆጣጣሪ"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "በበገና ዘፈኖች"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "የሚያስተምር ቅኔ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:41.168774998Z",
+  "model": "glm-5.3"
+}

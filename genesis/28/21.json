@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ወደ አባቴ ቤት በሰላም ስል ብመለስ፣ ያህዌህ ለእኔ ለኤሎሂም ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "ብመለስ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "በሰላም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባቴ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ለኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T02:46:05.429058478Z",
+  "model": "glm-5.3"
+}

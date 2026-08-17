@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "leviticus 4:12",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ላሙንም ሙሉ በሙሉ ⟨את⟩ ከሰፈሩ ወደ ውጭ ወደ ንጹህ ስፍራ ወደ አመድ ማፍሻው ስፍራ ያወጣል፤ በእንጨትም በእሳት ⟨אתו⟩ ያቃጥለዋል፤ በአመድ ማፍሻው ስፍራ ይቃጠላል።",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "ያወጣል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ላሙን ሙሉ በሙሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሙሉ በሙሉ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ላሙን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ውጭ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ከሰፈሩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ስፍራ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ንጹህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "ማፍሻ"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "አመድ"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "ያቃጥለዋል"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ላሙን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "በእንጨት"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "ማፍሻ"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "አመድ"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ይቃጠላል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:44:25.508540173Z",
+  "model": "glm-5.3"
+}

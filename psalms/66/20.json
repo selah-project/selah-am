@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 66,
+  "translation": "የተመሰገነ ኤሎሂም ነው፤ ልመናዬንም ሆነ ምሕረቱን ⟨את⟩ ከእኔ አልመለሰም።",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "የተመሰገነ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "መለሰ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ልመናዬንም"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "ምሕረቱን"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ ከእኔ",
+      "marks": "ልመናዬንም ሆነ ምሕረቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:31.877837236Z",
+  "model": "glm-5.3"
+}

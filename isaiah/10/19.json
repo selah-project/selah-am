@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "isaiah 10:19",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የጫካውም ዛፍ ቀሪ ቁጥር ያላቸው ይሆናሉ፤ ልጅ ጭምር ያዘጋጃቸዋል።",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "ቀሪ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ዛፍ"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "የጫካው"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ቁጥር ያላቸው"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ይሆናሉ"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ልጅ ጭምር"
+    },
+    {
+      "surface": "יכתבם",
+      "gloss": "ያዘጋጃቸዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:03:42.483752085Z",
+  "model": "glm-5.3"
+}

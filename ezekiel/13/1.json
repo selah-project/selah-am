@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "ezekiel 13:1",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "የያህዌህ ቃል ለእኔ ሆኖ ይነግረኛል።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆኖ ይነግረኛል"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ይነግረኛል"
+    }
+  ],
+  "timestamp": "2026-08-16T08:24:18.430304Z",
+  "model": "glm-5.3"
+}

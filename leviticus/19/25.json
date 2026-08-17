@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "በአምስተኛውም ዓመት የፍሬውን ⟨את⟩ ትበላላችሁ፣ ውጤቱም ለናንተ እንዲጨምር፤ እኔ ያህዌህ ኤሎሂምና ነኝ።",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "በአምስተኛውም ዓመት"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "አምስተኛ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ትበላላችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የፍሬውን"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ፍሬው"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "እንዲጨምር"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለናንተ"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "ውጤቱ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምና"
+    }
+  ],
+  "timestamp": "2026-08-16T03:56:25.937719688Z",
+  "model": "glm-5.3"
+}

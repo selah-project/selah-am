@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "እነሆ አዶናይ ያህዌህ በኃይል ይመጣል፤ ክንፉም ለእርሱ ይገዛል፤ እነሆ ሽልማቱ ⟨את⟩ ከእርሱ ጋር ⟨ነው⟩፤ ሥራውም በፊቱ ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "በኃይል"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ይመጣል"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "እና ክንፉ"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "ይገዛል"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "ሽልማቱ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ከእርሱ ጋር"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "እና ሥራው"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "በፊቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:54:07.718048235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ሞሼም ለስብሰባው እንዲህ አለ፦ ይህ ⟨is⟩ ⟨the⟩ ቃል ያህዌህ ያዘዘው የሚሠራው።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ስብሰባው"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ያዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ለመሥራት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:47:22.018233333Z",
+  "model": "glm-5.3"
+}

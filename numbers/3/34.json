@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 34,
+  "ref": "numbers 3:34",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "በቁጥር የተቆጠሩት፣ ሁሉን ወንድ ከአንድ ወር ልጅ እና በላይ፣ ስድስት ሺህ እና ሁለት መቶ ናቸው።",
+  "tokens": [
+    {
+      "surface": "ופקדיהם",
+      "gloss": "የተቆጠሩት"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "በቁጥር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ወንድ"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "ከ… ልጅ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ወር"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "እና በላይ"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ስድስት"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "እና ሁለት መቶ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:06:02.267232134Z",
+  "model": "glm-5.3"
+}

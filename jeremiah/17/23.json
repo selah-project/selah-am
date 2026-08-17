@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ነገር ግን አልሰሙም፣ ዦሯቸውንም ⟨את⟩ አልዘለቁም፤ አንገታቸውንም ⟨את⟩ አጠነከሩ፤ እንዳይሰሙ፣ ይሠሙ ዘንድም እንዳልሆነ የተገሠጻቸውንም እንዳይቀበሉ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ነገር ግን አል"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ሰሙም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "ዘለቁም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዦሯቸውን"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "ዦሯቸውን"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "አጠነከሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አንገታቸውን"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "አንገታቸውን"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "እንዳይ"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "ሰሙ"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "እና እንዳይ"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "ቀበሉ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ተገሠጻቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:49:27.289162801Z",
+  "model": "glm-5.3"
+}

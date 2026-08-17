@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "አሃሮንና ልጆቹም ⟨את⟩ የመልቀቁን ሥጋ እና ⟨את⟩ በቅርሱ ውስጥ ያለውን ዳቦ በመገኛው ድንኳን መግቢያ ላይ ይበላሉ።",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "እና ይበላሉ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "እና ልጆቹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሥጋውን"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "የመልቀቁን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ዳቦውን"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "ዳቦውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለውን"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "በቅርሱ ውስጥ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "መግቢያ ላይ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መገኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:30:00.230766742Z",
+  "model": "glm-5.3"
+}

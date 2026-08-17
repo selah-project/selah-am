@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ኤሎሂምም እንዲህ አለ፦ ውኃዎቹ በመካከል የሰማይ ወለል ⟨ይሁን⟩፤ ውኃንም ከውኃ ⟨ይለይ⟩።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "የሰማይ ወለል"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውኃዎቹ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "እና ይሁን"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "ይለይ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ከ…በኩል በኩል"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውኃ"
+    },
+    {
+      "surface": "למים",
+      "gloss": "ከውኃ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:28:21.820207550Z",
+  "model": "glm-5.3"
+}

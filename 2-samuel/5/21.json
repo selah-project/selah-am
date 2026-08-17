@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እነሱም ⟨את⟩ ጣኦቾቻቸውን በዚያ ትተዋቸው፤ ዳዊትና ወንድሞቹም አነሷቸው።",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "ትተዋቸው"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጣኦቶቻቸውን"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ጣኦቾቻቸውን"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "አነሷቸው"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ወንድሞቹም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:56:24.011829042Z",
+  "model": "glm-5.3"
+}

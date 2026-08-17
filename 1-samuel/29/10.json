@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "አሁንም በጠዋቱ ቀድመህ ተነሳ፤ ከአንተ ጋር ⟨את⟩ የመጡ የጌትህ አገልጋዮችም አንተና እነሱ በጠዋቱ ተነሳችሁ ብርሃን ሲሆን ለእናንተ ሂዱ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "አሁንም"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "ቀድመህ ተነሳ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "በጠዋቱ"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "አገልጋዮችም"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "የጌትህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "የመጡ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ከአንተ ጋር"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "ተነሳችሁም"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "በጠዋቱ"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ብርሃንም"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለእናንተ"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ሂዱ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:45:38.917395489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "የተረገም አንተ በምትገባበት እና የተረገም አንተ በምትወጣበት።",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "የተረገም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "በምትገባበት"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "እና የተረገመ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "በምትወጣበት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:53:31.498857027Z",
+  "model": "glm-5.3"
+}

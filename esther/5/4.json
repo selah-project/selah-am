@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 5:4",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ኤስቴርም እንዲህ አለች፦ በንጉሡ ላይ ቢመስል፣ ንጉሡና ሐማን ዛሬ ለእርሱ ወደ ዘጋጀሁት ምግብ ይምጡ።",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "እንዲህ አለችም"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ኤስቴር"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ቢመስል"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ይምጡ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "እና ሐማን"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "ምግቡ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የዘጋጀሁት"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "አዘጋጅሁት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:19:10.539086746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ያህዌህ ሆይ፣ በፈቃድህ እንደ ኃይል ተራሬን አቆምክል፤ ፊትህን ስተሰውር ግን ተሳሳትሁ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "በፈቃድህ"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "አቆምክል"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "ተራሬን"
+    },
+    {
+      "surface": "עז",
+      "gloss": "እንደ ኃይል"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "ስተሰውር"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህን"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ነበርኩ"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "ተሳሳትሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:37:01.650699520Z",
+  "model": "glm-5.3"
+}

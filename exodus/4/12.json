@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "አሁንም ሂድ፤ እኔም ከአፍህ ጋር እኖራለሁ፣ የምትናገረውንም አስተምርሃለሁ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "አሁንም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "እኔም"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "እኖራለሁ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ከአፍህ"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "አስተምርሃለሁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምትናገረውን"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ትናገራለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:09:06.669812150Z",
+  "model": "glm-5.3"
+}

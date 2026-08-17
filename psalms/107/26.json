@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "ወደ ሰማያት ይወጣሉ፤ ወደ በረሃዎች ይወርዳሉ፤ ነፍሳቸውም በመከራ ይቀልጣል።",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "ይወጣሉ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ወደ ሰማያት"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ይወርዳሉ"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ወደ በረሃዎች"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ነፍሳቸውም"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "በመከራ"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "ይቀልጣል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:36.123705218Z",
+  "model": "glm-5.3"
+}

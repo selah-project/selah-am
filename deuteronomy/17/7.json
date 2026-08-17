@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "የምስክሮቹ እጅ በእርሱ ላይ መጀመሪያ እንዲሆን እርሱን ለማጥፋት ይሆናል፤ የሕዝቡም ሁሉ እጅ በኋላ ይሆናል፤ ክፉውንም ከባልንተ መካከል ታስወግዳለህ።",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "የ… እጅ"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "ምስክሮቹ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "መጀመሪያ"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "እርሱን ለማጥፋት"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "እጅም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "የሕዝቡ"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "በኋላ"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "ታስወግዳለህም"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ክፉውን"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "ከባልንተ መካከል"
+    }
+  ],
+  "timestamp": "2026-08-16T19:18:50.226450596Z",
+  "model": "glm-5.3"
+}

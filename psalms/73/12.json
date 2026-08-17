@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "እነሆ፣ እነዚህ ክፉዎች ለዘለቄታው ደህና የኾኑ ሀብት ደርሰዋል።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉዎች"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "ደህና የኾኑ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ለዘለቄታው"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "ደርሰዋል"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ሀብት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:12.955002684Z",
+  "model": "glm-5.3"
+}

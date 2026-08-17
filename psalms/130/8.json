@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 130,
+  "translation": "እርሱም ⟨את⟩ እስራኤልን ከሁሉም ኀጢአቱ ያድናል።",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "እርሱም"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ያድናል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉም"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "ኀጢአቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:59.485035341Z",
+  "model": "glm-5.3"
+}

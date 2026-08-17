@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "genesis 2:14",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የሦስተኛው ወንዝም ስም ሕድቅል ነው፤ እርሱ በአሦር ፊት ለፊት የሚሄድ ነው፤ አራተኛው ወንዝም እርሱ ጸራት ነው።",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "የ…ስምም"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ወንዙ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ሦስተኛው"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "ሕድቅል"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "የሚሄድ"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "ፊት ለፊት"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "አሦር"
+    },
+    {
+      "surface": "והנהר",
+      "gloss": "ወንዙም"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "አራተኛው"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ጸራት"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:15.994771958Z",
+  "model": "glm-5.3"
+}

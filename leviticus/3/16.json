@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እና ካህኑ መሠዊያ ላይ እነሱን ይወድሳል — ምግብ ማብራት መሥዋዕት ለመውዴት ሽቶ፤ ስብ ሁሉ ለያህዌህ ነው።",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "እነሱን ይወድሳል"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "መሠዊያ ላይ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ምግብ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ማብራት መሥዋዕት"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "ለመውዴት"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "ሽቶ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ስብ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:37:10.793347696Z",
+  "model": "glm-5.3"
+}

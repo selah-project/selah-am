@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "አቢሹዋም ቡቂን ⟨את⟩ ወለደ፤ ቡቂም ዑዚን ⟨את⟩ ወለደ።",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "አቢሹዋም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቡቂን"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ቡቂ"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "ቡቂም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዑዚን"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ዑዚ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:38:48.519394951Z",
+  "model": "glm-5.3"
+}

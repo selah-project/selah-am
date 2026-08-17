@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 148,
+  "translation": "ከምድር ⟨את⟩ ያህዌህን ያመሰግኑ፤ ትልልቅ የባሕር ፍጡራን እና ሁሉም ጥልቀቶች።",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ያመሰግኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "ትልልቅ የባሕር ፍጡራን"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉም"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "ጥልቀቶች"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:45.376666389Z",
+  "model": "glm-5.3"
+}

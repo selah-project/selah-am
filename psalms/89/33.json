@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "በበትር መፈንቅላቸውን እገብራለሁ፣ በመታለቅያዎችም ኃጢአታቸውን።",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "እገብራለሁ"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "በበትር"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "መፈንቅላቸውን"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "በመታለቅያዎችም"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ኃጢአታቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:14.357812108Z",
+  "model": "glm-5.3"
+}

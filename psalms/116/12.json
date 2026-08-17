@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 116,
+  "translation": "ምን እመልሳለሁ ለያህዌህ፣ ሁሉም በረከቶቱ በእኔ ላይ ስለሆኑ፧",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "እመልሳለሁ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "በረከቶቱ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:11.655305527Z",
+  "model": "glm-5.3"
+}

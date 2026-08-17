@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "እንቅጥምቱን ⟨את⟩ ከፊትህ እልካለሁ፣ ከፊትህም የሐዋይን ⟨את⟩፣ የከነዓኑን ⟨את⟩ እና የሐጢን ⟨את⟩ እወጣለሁ።",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "እልካለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እንቅጥምቱን"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "እንቅጥምቱን"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ከፊትህ"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "እወጣለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሐዋይን"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "የሐዋይን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የከነዓኑን"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "የከነዓኑን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የሐጢን"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "የሐጢን"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "ከፊትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:21:56.085839229Z",
+  "model": "glm-5.3"
+}

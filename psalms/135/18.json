@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 135,
+  "translation": "እንደ እነሱ የሚሆኑ ናቸው መሥራቾቻቸው፤ በእነሱ የሚታመን ሁሉ ደግሞ እንደውሁ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "እንደ እነሱ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ይሆናሉ"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "መሥራቾቻቸው"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚታመን የሚሆን"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ያመነ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "በእነሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:12:17.914291419Z",
+  "model": "glm-5.3"
+}

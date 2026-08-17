@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 80,
+  "translation": "ቅርንጫፎቿን እስከ ባሕር ድረስ ላከች፤ እስከ ወንዝ ድረስም ደኖቿን።",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "ላከች"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "ቅርንጫፎቿን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ…ድረስ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እስከ…ም"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ወንዝ"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "ደኖቿን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:15.717741830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "የዚህን ኪዳን ቃላት ⟨את⟩ ሰሙ፤ ወደ ይሁዳ ሰዎችና ወደ ተረምሶ ነዋሪዎች ተናገሩ።",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ሰሙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላት"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "የኪዳን"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "የዚህን"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "ተናገሩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና ወደ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ነዋሪዎች"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ተረምሶ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:45:37.469926128Z",
+  "model": "glm-5.3"
+}

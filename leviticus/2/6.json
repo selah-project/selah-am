@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ቁርጥ ቁርጥ አድርገህ በጣም ብዙ ቁርጦች ⟨את⟩ ታጥፋለህ፣ እና በእርሷ ላይ ዘይት ታፈሳለህ፤ በቅርቡም መባ ናት።",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "ቁርጥ ቁርጥ አድርገህ ታጥፋለህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ቁርጦችን"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "ቁርጦች"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "እና ታፈሳለህ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "በእርሷ ላይ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘይት"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "በቅርቡም መባ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ናት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:41:23.365991384Z",
+  "model": "glm-5.3"
+}

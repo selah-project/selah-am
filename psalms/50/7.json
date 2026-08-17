@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 50,
+  "translation": "ሕዝቤ ሆይ ስማኝና እናገራለሁ፤ እስራኤል ሆይ በአንተ ላይ እመሰክራለሁ፤ ኤሎሂም አምላክህ እኔ ነኝ።",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "ስማኝ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤ ሆይ"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "እናገራለሁና"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል ሆይ"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "እመሰክራለሁና"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "አምላክህ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ ነኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:35.137791465Z",
+  "model": "glm-5.3"
+}

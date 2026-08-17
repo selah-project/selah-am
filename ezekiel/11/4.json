@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "ezekiel 11:4",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ስለዚህ በእነርሱ ላይ ተንበብ፤ ተንበብ፣ የሰው ልጅ።",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "ተንበብ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "በእነርሱ ላይ"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "ተንበብ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "የሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T08:24:12.176737696Z",
+  "model": "glm-5.3"
+}

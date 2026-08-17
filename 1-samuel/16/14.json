@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "የያህዌህ መንፈስም ከሳኦል ወጥቶ ሄደ፤ ከያህዌህ ⟨את⟩ የመጣ ክፉ መንፈስም ያስፈራው ነበር።",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "መንፈስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "ወጥቶ ሄደ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "ያስፈራው ነበር"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "የያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:41:58.889256360Z",
+  "model": "glm-5.3"
+}

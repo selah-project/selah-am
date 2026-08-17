@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "በአንተ ምስክሮች መንገድ እንደ ሁሉም ብዙ ሀብት ደስ ብዬ በዘፈንሁ።",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "በአንተ ምስክሮች"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "ደስ ብዬ በዘፈንሁ"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "እንደ ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ሀብት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:04.526137398Z",
+  "model": "glm-5.3"
+}

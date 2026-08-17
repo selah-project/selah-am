@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ከክፉዎች ርቀው መዳን ነው፤ ሕጌን ስላልሚሰሉ ነው።",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "ርቆ"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "ከክፉዎች\/ከረሽዓዎች"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "መዳን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነው\/ስለዚህ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ሕጌን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አልሚሰሉም"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ሚሰሉ\/ፈለጉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:35.725218020Z",
+  "model": "glm-5.3"
+}

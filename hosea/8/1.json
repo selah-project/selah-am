@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ወደ አፍህ ቀርንፍ ማድረግ፣ እንደ ንስር በያህዌህ ቤት ላይ፤ ስለዚህ የእኔን ቃል ኪዳን ዐለፉ፣ እና በእኔ ሕግ ላይ ወደቁ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "አፍህ"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "ቀርንፍ"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "እንደ ንስር"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ዐለፉ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "የእኔን ቃል ኪዳን"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ... ላይ"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "እኔ ሕግ"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "ወደቁ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:59:27.794426299Z",
+  "model": "glm-5.3"
+}

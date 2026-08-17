@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እና ጎረቤት ⟨את⟩ ከእናንተ ጋር ቢኖር በምድራችሁ፣ ⟨את⟩ እርሱን አትበድሉ።",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "እና እንደ"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ቢኖር"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ከእናንተ ጋር"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ጎረቤት"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "በምድራችሁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "ትበድሉ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:56:23.125308717Z",
+  "model": "glm-5.3"
+}

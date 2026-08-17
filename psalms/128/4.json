@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 128,
+  "translation": "እነሆ — እንዲህ ቡሩክ ይሆናል የያህዌህን ሚቀለት ሰው።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…እንዲህ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ቡሩክ ይሆናል"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ሚቀለት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:12:53.443200234Z",
+  "model": "glm-5.3"
+}

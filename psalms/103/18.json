@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 103,
+  "translation": "ለኪዳኑ ለሚጠብቁ፣ ትእዛዙንም ለሚያስቡ ለመፈጸማቸው።",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "ለሚጠብቁ"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ኪዳኑ"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "ለሚያስቡ"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "ትእዛዙን"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "ለመፈጸማቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:35.279449933Z",
+  "model": "glm-5.3"
+}

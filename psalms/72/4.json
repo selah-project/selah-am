@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 72,
+  "translation": "የሕዝቡን ድሆች ይፈርድላቸዋል፣ የድሆችን ልጆች ያድናል፣ ጠቃሚውንም ያፈርሰዋል።",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "ይፈረድላቸዋል"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ድሆችን"
+    },
+    {
+      "surface": "עם",
+      "gloss": "የሕዝቡ"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ያድናል"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ልጆችን"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "የድሆች"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "ያፈርሰዋልም"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "ጠቃሚውን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:33.547504585Z",
+  "model": "glm-5.3"
+}

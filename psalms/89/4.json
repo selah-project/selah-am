@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "ከመረጥኩዋቸው ጋር ቃል ኪዳን ቈረጥኩ፤ ለዳዊት አገልጋዬ ሰለመጥኩ።",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "ቈረጥኩ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ቃል ኪዳን"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "ከመረጥኩዋቸው ጋር"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ሰለመጥኩ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "አገልጋዬ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:46.233509594Z",
+  "model": "glm-5.3"
+}

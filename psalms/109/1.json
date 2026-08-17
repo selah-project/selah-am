@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "ለመሪው ለዳዊድ መዝሙር — የምስገናዬ ኤሎሂም ሆይ፣ አትጥልም።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመሪው"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊድ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "የምስገናዬ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ጥልም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:58.575113624Z",
+  "model": "glm-5.3"
+}

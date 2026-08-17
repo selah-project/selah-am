@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "እና ዮዓኤላህ፣ እና ዘባድያ የይሮሐም ልጆች ከጌዶር።",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "እና ዮዓኤላህ"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "እና ዘባድያ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ይሮሐም"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "ጌዶር"
+    }
+  ],
+  "timestamp": "2026-08-16T12:49:46.332052717Z",
+  "model": "glm-5.3"
+}

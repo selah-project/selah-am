@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ምክንያቱም ድምፄን ሳገድ አጥንቶቼ እየወደቁ ነበር፤ በጩኸቴ ቀኑን ሁሉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "ድምፄን አገዳሁ"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "እየወደቁ ነበር"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "አጥንቶቼ"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "በጩኸቴ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ቀኑን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:09.381688670Z",
+  "model": "glm-5.3"
+}

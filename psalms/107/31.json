@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "ለያህዌህ በጎነቱን ያመሰግኑ፣ ለሰው ልጆችም ድንቆቹን።",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ያመሰግኑ፣"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "በጎነቱን"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ድንቆቹንም፣"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለልጆች፣"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:35.211965728Z",
+  "model": "glm-5.3"
+}

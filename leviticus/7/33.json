@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የሰላም መሥዋዕቶችን ⟨את⟩ ደም እና ⟨את⟩ ስብን የሚያቀርብ ከአሃሮን ልጆች — ⟨את⟩ የቀኝ እግሩ ክፍል ይሆንለታል።",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "የሚያቀርብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደም"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "የሰላም መሥዋዕቶችን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ስብን"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ከ...ልጆች"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "እግር"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "የቀኝ"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "ክፍል"
+    }
+  ],
+  "timestamp": "2026-08-16T14:43:58.535328250Z",
+  "model": "glm-5.3"
+}

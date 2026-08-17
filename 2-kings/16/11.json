@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 16:11",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "አውርያ ካህኑ ⟨את⟩ መሠዊያውን እንደ ንጉሡ አካዝ ከደማስቆ የላከው ሁሉ ሠራ፤ እንደዚሁ አውርያ ካህኑ እስከ ንጉሡ አካዝ ከደማስቆ መምጣት ድረስ አደረገው።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "አውርያ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሠዊያውን"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያውን"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "እንደ...ሁሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የላከው"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "አካዝ"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "ከደማስቆ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚሁ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "አደረገው"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "አውርያ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ...ድረስ"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "መምጣት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "አካዝ"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "ከደማስቆ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:49:23.433555701Z",
+  "model": "glm-5.3"
+}

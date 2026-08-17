@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ምጽራይማውያንም ⟨את⟩ ያንቀጣን አሳዘኑንም፣ ጨካኝ ባርነትንም በላያችን አኖሩን።",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "አሳዘኑን"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "እኛን"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "ምጽራይማውያን"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "ያንቀጡን"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "አኖሩ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "በላያችን"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ባርነት"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ጨካኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:03:59.298036805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "job 26:5",
+  "book": "job",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ራፋይም ከውኃ በታች ይንቀጠቀጣሉ፣ እናም ከሚኖሩበት።",
+  "tokens": [
+    {
+      "surface": "הרפאים",
+      "gloss": "ራፋይም"
+    },
+    {
+      "surface": "יחוללו",
+      "gloss": "ይንቀጠቀጣሉ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ከ…በታች"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውኃ"
+    },
+    {
+      "surface": "ושכניהם",
+      "gloss": "እናም ከሚኖሩበት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:52:53.651394693Z",
+  "model": "glm-5.3"
+}

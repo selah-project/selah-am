@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ለይጽሐቅ ያዕቆብን ⟨את⟩ እና ዔሳውን ⟨את⟩ ሰጠሁ፤ ለዔሳውም የሰዒር ተራራን ⟨את⟩ እንዲወርስው ሰጠሁት፤ ያዕቆብና ልጆቹ ግን ወደ ምጽራይም ወረዱ።",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "ሰጠሁ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ለይጽሐቅ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያዕቆብን"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዔሳውን"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዔሳውን"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ሰጠሁም"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "ለዔሳው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሰዒር ተራራን"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራን"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ሰዒር"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "እንዲወርስው"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ እርሱን"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ያዕቆብና"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ልጆቹ"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ወረዱ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ወደ ምጽራይም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:14:29.487579501Z",
+  "model": "glm-5.3"
+}

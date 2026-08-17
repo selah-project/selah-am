@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 95,
+  "translation": "ስለዚህ በቍጣዬ ተማልኩ፦ ወደ ማረጊያዬ በፍጹም አይገቡም።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ተማልኩ"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "በቍጣዬ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ወደ ማረጊያዬ በፍጹም አይገቡም"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "ይገቡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "ማረጊያዬ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:45.928438083Z",
+  "model": "glm-5.3"
+}

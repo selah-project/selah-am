@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እኔ ለእነርሱ እንደ አንበሳ እሆናለሁ፤ እንደ ነብር በመንገዱ ላይ አጥባቸዋለሁ።",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "እሆናለሁ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነርሱ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "አንበሳ"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "እንደ ነብር"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ላይ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "አጥባቸዋለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:00:43.729103515Z",
+  "model": "glm-5.3"
+}

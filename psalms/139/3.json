@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 139,
+  "translation": "መንገዴንና መተኛቬን አጥርተኸዋል፤ እና መንገዮቼን በሙሉ ተዋዋቀኸዋል።",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "መንገዴን"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "እና መተኛቬን"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "አጥርተኸዋል"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና በሙሉ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "መንገዮቼን"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "ተዋዋቀኸዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:34.700410617Z",
+  "model": "glm-5.3"
+}

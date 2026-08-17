@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "2-kings 17:5",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "የአሦር ንጉሥ በ⟨the⟩ ምድር ሁሉ ወጣ፤ ወደ ሰማርያ ወጣ፤ በእርሷም ላይ ሦስት ዓመት ከበባት።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "የአሦር"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በ...ሁሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ወደ ሰማርያ"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ከበባት"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "በእርሷ ላይ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመት"
+    }
+  ],
+  "timestamp": "2026-08-16T06:50:39.340436626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 132,
+  "translation": "ከንጉሥፊያዋ በርክላለሁ እባርካታለሁ፤ ድሆችዋን በዳቦ እሞላቸዋለሁ።",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "ከንጉሥፊያዋ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "እባርካለሁ"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "አብዛት እባርካለሁ"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "ድሆችዋን"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "እሞላቸዋለሁ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "በዳቦ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:14:05.863376248Z",
+  "model": "glm-5.3"
+}

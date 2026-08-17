@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 10:13",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እናንተም ⟨את⟩ን በቅዱስ ስፍራ ትበላላችሁ፤ ከያህዌህ የእሳት መባዎች አካል ስለሆነ፣ የአንተ ድልድልና የልጆችህ ድልድል ነው፤ እንዲህ ታዘዝሁአለሁና።",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "ትበላላችሁ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እሷን (በቅዱስ ስፍራ)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "በቅዱስ ስፍራ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለሆነ"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "የአንተ ድልድል"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "ድልድልም"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "የልጆችህ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ነው"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "ከየእሳት መባዎች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ታዘዝሁአለሁ"
+    }
+  ],
+  "timestamp": "2026-08-17T05:58:40.817991477Z",
+  "model": "glm-5.3"
+}

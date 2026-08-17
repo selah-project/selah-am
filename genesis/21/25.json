@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "አብርሃምም አቢሜሌክን ⟨את⟩ በበደሉ ምክንያት የውሃውን ቁፋሮ እየወቀሰ ነው — አባላጆቹ የአቢሜሌክ አገልጋዮች የዘረፉትን።",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "ወቀሰ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አቢሜሌክ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "አቢሜሌክን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ… ምክንያት"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "በደሉ ምክንያት"
+    },
+    {
+      "surface": "באר",
+      "gloss": "የውሃውን ቁፋሮ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ…ን"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "ዘረፉ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "አገልጋዮች"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "የአቢሜሌክ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:40:20.203915895Z",
+  "model": "glm-5.3"
+}

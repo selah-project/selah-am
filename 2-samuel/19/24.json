@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 19:24",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ንጉሡም ለስሜይ እንዲህ አለው፤ አትሙትም፤ ንጉሡም ለእሱ ማለቅ ፈረመ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ስሜይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ትሙትም"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ማለቅ ፈረመ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእሱ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:22:10.315120171Z",
+  "model": "glm-5.3"
+}

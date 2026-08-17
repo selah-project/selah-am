@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ያህዌህም ⟨את⟩ የፈርዖንን ልብ አጠነከረ፤ እነርሱንም አልሰማቸውም፤ እንደ ተናገረው ልብ ያህዌህ ሞሼን ነበር።",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "አጠነከረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የፈርዖንን ልብ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "የፈርዖንን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል… ነበርም"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "እነርሱን"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ ተናገረው"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ልብ… ወደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:10:31.685753695Z",
+  "model": "glm-5.3"
+}

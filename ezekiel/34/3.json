@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "⟨את⟩ ስብውን ትበላላችሁ፣ ⟨את⟩ ጠጉሩንም ታገላቸዋላችሁ፤ መልካሙን ታርዳላችሁ፤ ⟨את⟩ መንጋውን ግን አትረዱም።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስብውን"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ስብውን"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ትበላላችሁ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጠጉሩን"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "ጠጉሩን"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "ታገላቸዋላችሁ"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "መልካሙን"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "ታርዳላችሁ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "መንጋውን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት...ም"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "ትረዱ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:44:20.167086960Z",
+  "model": "glm-5.3"
+}

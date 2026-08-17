@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "እነዚህ የአሃሮን ልጆች የተቀባው ካህናት ስሞች ⟨ናቸው⟩፤ እጃቸው ሊያገለግሉ ሲባል የተሞላችው እነርሱ ⟨ናቸው⟩።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ስሞች"
+    },
+    {
+      "surface": "בני",
+      "gloss": "የ…ልጆች"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "የተቀባው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆኑት"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "አሟላታል \/ ያሟላል"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "እጃቸውን"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ሊያገለግሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:06:21.506276160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "job 13:4",
+  "book": "job",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "እናንተ ግን የውሸት አጣቢዎች፣ የከሃዲ ሐኪሞች ናችሁ — እናንተ ሁላችሁ።",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "እናንተ ግን"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "እናንተ"
+    },
+    {
+      "surface": "טפלי",
+      "gloss": "አጣቢዎች"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "የውሸት"
+    },
+    {
+      "surface": "רפאי",
+      "gloss": "ሐኪሞች"
+    },
+    {
+      "surface": "אלל",
+      "gloss": "የከሃዲ"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "ሁላችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:46:01.029709624Z",
+  "model": "glm-5.3"
+}

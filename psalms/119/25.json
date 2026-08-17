@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ነፍሴ በአፍርስ ተጣብቃለች፤ እንደ ቃልህ አስነሳኝ።",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "ተጣብቃለች"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "በአፍርስ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "አስነሳኝ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "እንደ ቃልህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:29.254267545Z",
+  "model": "glm-5.3"
+}

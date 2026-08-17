@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "የያህዌህ ፊት ክፉ የሚያደርጉትን ሰዎች ይቃወማል፤ ትውስታቸውንም ከምድር ለማጥፋት ነው።",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "የ…ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "የሚያደርጉትን"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "ለማጥፋት"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከምድር"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ትውስታቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:37:58.059127611Z",
+  "model": "glm-5.3"
+}

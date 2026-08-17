@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 11:24",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሞሼም ወጥቶ የያህዌህን ቃላት ለሕዝቡ ተናገረ፤ ከሕዝቡ ከእነዚያ ሽማግሌዎች ሰባ ሺህ ሰባ ሰዎችን ሰበሰበ፤ እነርሱንም ⟨את⟩ በድንኳኑ ዙሪያ አቆመ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጥቶ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ተናገረ፤"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ... ለሕዝቡ ለ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የያህዌህን ቃላት"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "የ... ቃላት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ሰበሰበ፤"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ሰባ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰዎችን"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "ከእነዚያ ሽማግሌዎች"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "አቆመ፤"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "በ... ዙሪያ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "በድንኳኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T14:53:24.138555597Z",
+  "model": "glm-5.3"
+}

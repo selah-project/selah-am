@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 15:11",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "እና አሳ በያህዌህ ዐይኖች ዘንድ ትክክለኛውን አደረገ፣ እንደ አባቱ ዳዊት።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "እና አደረገ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "አሳ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ትክክለኛውን"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "በ…ዐይኖች ዘንድ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "እንደ ዳዊት"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:28:46.183721597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ፓሌግም ሠላሳ ዓመት ኖረ፤ ⟨את⟩ ረዑንም ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ኖረም"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ፓሌግ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሠላሳ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ረዑ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "ረዑ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:35:02.916130086Z",
+  "model": "glm-5.3"
+}

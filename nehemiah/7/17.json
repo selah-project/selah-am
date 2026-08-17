@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "የዓዝጋድ ልጆች ሁለት ሺህ ሦስት መቶ ሃያ እና ሁለት።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "ዓዝጋድ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሁለት ሺህ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ሃያ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "እና ሁለት"
+    }
+  ],
+  "timestamp": "2026-08-16T12:16:42.682396540Z",
+  "model": "glm-5.3"
+}

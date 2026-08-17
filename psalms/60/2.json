@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 60,
+  "translation": "የባለ ሁለቱ ወንዝ አራምን ⟨את⟩ በሚያገለግልበትና የጾባ አራምን ⟨את⟩ በሚዋጋበት ጊዜ፣ ዮአብም ተመልሶ የጨው ሸለቆ በሆነችው ⟨את⟩ ኤዶምን መታ፤ አሥራ ሁለት ሺህ።",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "በሚያገለግልበት ጊዜ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አራምን"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "አራምን"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "የባለ ሁለቱ ወንዝ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ወ⟨את⟩",
+      "marks": "የጾባ አራምን"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "አራም"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ጾባ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተመልሶም"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "መታ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤዶምን"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶምን"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "በሸለቆ"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "የጨው"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "አሥር"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:48:42.933523843Z",
+  "model": "glm-5.3"
+}

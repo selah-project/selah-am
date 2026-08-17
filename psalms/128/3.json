@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 128,
+  "translation": "ሚስትህ እንደ ፈራ የወይን ዛፍ በቤትህ ጥላዎች ውስጥ፤ ልጆችህም እንደ የወይራ ተከላዎች በማኅደርህ ዙሪያ።",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "ሚስትህ"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "እንደ የወይን ዛፍ"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ፈራ"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "በጥላዎች ውስጥ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "የቤትህ"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ልጆችህ"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "እንደ ተከላዎች"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "የወይራ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ዙሪያ"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "በማኅደርህ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:12:53.443078866Z",
+  "model": "glm-5.3"
+}

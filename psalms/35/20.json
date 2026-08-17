@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 35,
+  "translation": "ምክንያቱም ሰላም አይናገሩም፤ የምድርን የቀሩትን ሰላማዊዎች ዐይነ-ሐሜት ቃላት ያስባሉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ይናገሩ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "የቀሩትን ሰላማዊዎች"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "ዐይነ-ሐሜት"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "ያስባሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:16.085538766Z",
+  "model": "glm-5.3"
+}

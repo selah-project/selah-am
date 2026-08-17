@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "job 9:35",
+  "book": "job",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "⟨ኖሮ⟩ እናገራለሁ፤ አልፈራውም፤ ምክንያቱም እኔ እንደዚህ ከራሴ ጋር ⟨አይደለሁም⟩።",
+  "tokens": [
+    {
+      "surface": "אדברה",
+      "gloss": "እናገራለሁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "איראנו",
+      "gloss": "ፈራው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ከራሴ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:44:31.895120362Z",
+  "model": "glm-5.3"
+}

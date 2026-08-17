@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ኤልያስ ወደ አክዓብ ሊታይ ሄደ፤ እና ከሐርነቱ በሰማርያ ላይ እጅግ አደገ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያስ"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "ሊታይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "አክዓብ"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "ከሐርነቱ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "እጅግ አደገ"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "በሰማርያ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:30:44.225799991Z",
+  "model": "glm-5.3"
+}

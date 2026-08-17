@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 65,
+  "translation": "ስግድትን የሰማህ፣ ወደ አንተ ሁሉ ሥጋ ይመጣል።",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "የሰማህ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ስግድትን"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ይመጣል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:54.533868704Z",
+  "model": "glm-5.3"
+}

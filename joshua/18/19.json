@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "joshua 18:19",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ድንበሩም በሰሜን ወደ ቤት ሐግላ ከፍታ አልፎ፤ የድንበሩም መውጫ በሰሜን ወደ ላይኛው የሶልት ባሕር ምላስ፣ ወደ ዮርዳኖስም ጫፍ በደቡብ ነው፤ ይህች የደቡብ ድንበር ናት።",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "አልፎ"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "ድንበሩም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "ከፍታ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "חגלה",
+      "gloss": "ሐግላ"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "በሰሜን"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ነው፤"
+    },
+    {
+      "surface": "תצאותיו",
+      "gloss": "መውጫ"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "የድንበሩም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ምላስ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ሶልት"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "በሰሜን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ጫፍ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስም"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "በደቡብ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ይህች"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ድንበር"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "የደቡብ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:08:43.428457090Z",
+  "model": "glm-5.3"
+}

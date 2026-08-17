@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "1-kings 17:16",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "የዱባው ዱቄት አልተሟጠረም፤ የዘይቱ ጠርሙስም አልጎደለም፤ በያህዌህ ቃል መሠረት፣ በኤልያሁ እጅ የተናገረው።",
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "ዱባ"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "ዱቄት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "ተሟጠረም"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "ጠርሙስም"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ዘይቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ጎደለም"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "እንደቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "የተናገረው"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጅ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:29:48.217263162Z",
+  "model": "glm-5.3"
+}

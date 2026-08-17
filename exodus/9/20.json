@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ከፈርዖን አገልጋዮት መካከል ⟨את⟩ የያህዌህን ቃል የፈራ ሰው ⟨את⟩ አገልጋዮቹንና ⟨את⟩ ከብቶቹን ወደ ቤቶች አሸለበ።",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "የፈራ ሰው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የያህዌህን ቃል"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "ከአገልጋዮች"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "አሸለበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አገልጋዮቹን"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "አገልጋዮቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ከብቶቹን"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "ከብቶቹን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ቤቶች"
+    }
+  ],
+  "timestamp": "2026-08-16T03:11:57.544109772Z",
+  "model": "glm-5.3"
+}

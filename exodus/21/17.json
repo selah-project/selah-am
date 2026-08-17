@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "የሚሳደብ አባቱን እና እናቱን ሞት ይሞታል።",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "የሚሳደብ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱን"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "እና እናቱን"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይሞታል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:21:59.288940757Z",
+  "model": "glm-5.3"
+}

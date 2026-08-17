@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 77,
+  "translation": "እንደ መንጋ ሕዝብህን መራህ፤ በሞሼ እና በአሃሮን እጅ።",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "መራህ"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "እንደ መንጋ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ሕዝብህን"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በ… እጅ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "እና አሃሮን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:14.399363871Z",
+  "model": "glm-5.3"
+}

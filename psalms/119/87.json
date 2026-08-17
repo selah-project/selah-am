@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ምንም ቀርበው በምድር ላይ አጠፉኝ፤ እኔ ግን ትእዛዞችህን አልተውኳቸውም።",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "ምንም ቀርበው"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "አጠፉኝ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር ላይ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል...ም"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "ተውኳቸው"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ትእዛዞችህን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:13:17.489392377Z",
+  "model": "glm-5.3"
+}

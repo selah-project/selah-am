@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ላም እህሉን በሚመትበት ጊዜ አትከልከለው።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "ትከልከለው፤ አትዝለለው"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ላም፤ በቅል"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "እህሉን በሚመትበት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:48:46.499913918Z",
+  "model": "glm-5.3"
+}

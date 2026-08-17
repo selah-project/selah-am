@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "ውጭ ታደርጋለህ፤ እርሱም ሰው አንተ የምታበድረው ወደ አንተ ⟨את⟩ ዋሱን ወደ ውጭ ያወጣል።",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "ውጭ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ታደርጋለህ"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "እርሱም ሰው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምታበድረው"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "አታበድርም"
+    },
+    {
+      "surface": "בו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ያወጣል"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዋሱን"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "ዋሱን"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "ወደ ውጭ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:48:32.103505592Z",
+  "model": "glm-5.3"
+}

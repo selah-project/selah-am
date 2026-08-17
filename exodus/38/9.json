@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "እርሱም ⟨את⟩ እርኩሱን ሠራ፤ ወደ ደቡብ አቅጣጫ ደቡብ በኩል የእርኩሱ ቅጠር መጋረጃዎች ጥሩ የተሰፋ በፍዳ ሚዛብ መቶ እጅን ነበሩ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ሠራም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እርኩሱን"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "እርኩሱ"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ወደ አቅጣጫ በኩል"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ደቡብ"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ደቡብ አቅጣጫ"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "የ…ቅጠር መጋረጃዎች"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "እርኩሱ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ጥሩ በፍዳ"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ሚዛብ የተሰፋ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "በእጅ ልኬት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:37:29.863181517Z",
+  "model": "glm-5.3"
+}

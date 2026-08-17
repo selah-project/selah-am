@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "የዳዊድ መዝሙር፣ ለማስታወስ።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊድ"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "ለማስታወስ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:07.146602062Z",
+  "model": "glm-5.3"
+}

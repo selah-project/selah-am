@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "ትፈልጋቸዋል ነገር ግን አታገኛቸውም — የጥላትህ ሰዎች፤ እንደ ምንም ይሆናሉ እና እንደ ዜሮ — የጦርነትህ ሰዎች።",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "ትፈልጋቸዋል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አት"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "ታገኛቸውም"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "የ…ሰዎች"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "ጥላትህ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ይሆናሉ"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "እንደ ምንም"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "እና እንደ ዜሮ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "የጦርነትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:19:36.890425142Z",
+  "model": "glm-5.3"
+}

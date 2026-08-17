@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "isaiah 53:2",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 53,
+  "translation": "እና በፊቱ እንደ ተጫኢ ወጣ፣ እንደ ሥርም ከደረቅ ምድር፤ ቅርጽ የለውም፣ ብርታትም የለውም፤ ባየነው ጊዜ የሚያምር መልክ የለውም፣ የምንመኘውም አይደለም።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "እና ወጣ"
+    },
+    {
+      "surface": "כיונק",
+      "gloss": "እንደ ተጫኢ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "በፊቱ"
+    },
+    {
+      "surface": "וכשרש",
+      "gloss": "እንደ ሥር"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ከምድር"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "ደረቅ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ቅርጽ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "ብርታት"
+    },
+    {
+      "surface": "ונראהו",
+      "gloss": "እና ባየነው"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "መልክ"
+    },
+    {
+      "surface": "ונחמדהו",
+      "gloss": "እና የምንመኘው"
+    }
+  ],
+  "timestamp": "2026-08-16T07:26:42.965405774Z",
+  "model": "glm-5.3"
+}

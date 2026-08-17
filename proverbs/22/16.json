@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ድሃን ለራሱ ለማብዛት የሚጨቋኝ፣ ለሀብታም የሚሰጥ — እርሱ ብቻ ለእጥረት ⟨ይደርሳል⟩።",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "የሚጨቋኝ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ድሃን"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "ለማብዛት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለራሱ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "የሚሰጥ"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "ለሀብታም"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "ለእጥረት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:32:28.506002440Z",
+  "model": "glm-5.3"
+}

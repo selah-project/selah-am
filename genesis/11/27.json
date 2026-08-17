@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እነዚህም የቴራሕ ትውልዶች ናቸው፤ ቴራሕ ወለደ ⟨את⟩ አብራምን፣ ⟨את⟩ ናሖርን እና ⟨את⟩ ሐራንን፤ ሐራንም ወለደ ⟨את⟩ ሎጥን።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እነዚህም"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ትውልዶች"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ቴራሕ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ቴራሕ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አብራምን"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "አብራም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ናሖርን"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ናሖር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሐራንን"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "ሐራን"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "ሐራንም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሎጥን"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ሎጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:55.001767433Z",
+  "model": "glm-5.3"
+}

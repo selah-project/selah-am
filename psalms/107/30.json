@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "ሲዳረሱ ይደሰታሉ፣ ወደ ፈለጉት ወደብም ያሳርፋቸዋል።",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "ይደሰታሉ፣"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ሲ"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "ይዳረሱ"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ያሳርፋቸዋል፣"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "ወደብ"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "የፈለጉት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:35.211702453Z",
+  "model": "glm-5.3"
+}

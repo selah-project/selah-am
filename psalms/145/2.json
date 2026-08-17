@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 145,
+  "translation": "በየቀኑ እባርክሃለሁ፤ ስምህንም ለዘላለም እና ለዘለዓለም እመስግንሃለሁ።",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "በየ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀኑ"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "እባርክሃለሁ"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "እመስግንሃለሁ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህን"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እና ለዘለዓለም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:19:44.118400739Z",
+  "model": "glm-5.3"
+}

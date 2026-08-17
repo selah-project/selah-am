@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 137,
+  "translation": "ያህዌህ ሆይ የሩሳሌምን ቀን በኤዶም ልጆች ላይ አስታውስ፤ «እስከ መሠረቷ ድረስ እሟጠጧት፣ እሟጠጧት» ያሉት።",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "አስታውስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ ሆይ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "በ… ልጆች ላይ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሩሳሌምን ቀን"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሳሌም"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ያሉት"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "እሟጠጧት"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "እሟጠጧት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ… ድረስ"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "መሠረቷ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "(ከእሷ ጋር)"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:03.477882113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 12:1",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ኤፍራይም በውሸት አንቀላፋኝ፣ የያዕቆብ ቤትም በቀላጭነት፤ ይሁዳ ግን ከኤል ጋር እስከ አሁን እየተሳሳተ ነው፣ ከቅዱሳንም ጋር የታመነ ነው።",
+  "tokens": [
+    {
+      "surface": "סבבני",
+      "gloss": "አንቀላፋኝ"
+    },
+    {
+      "surface": "בכחש",
+      "gloss": "በውሸት"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "ובמרמה",
+      "gloss": "በቀላጭነትም"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ይሁዳ ግን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ አሁን"
+    },
+    {
+      "surface": "רד",
+      "gloss": "እየተሳሳተ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ... ጋር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ከ...ም ጋር"
+    },
+    {
+      "surface": "קדושים",
+      "gloss": "ቅዱሳን"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "የታመነ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:03:50.741038952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የቤቱ ጠባቂዎች በሚርዱበት፣ የኃይል አዛዦችም በሚያጠቡበት፣ የሚፈጩት ስለ ጠበቡ፣ በመስኮቶቹም ተመልካቾች በሚጨልሙበት ቀን፣",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "በሚርዱበት"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ጠባቂዎች"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "የቤቱ"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "እና በሚያጠቡበት"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "የኃይል"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "አዛዦች"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "እና ተወቱ"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "መፍጫዎቹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "ጠበቡ"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "እና ጨለሙ"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "ተመልካቾች"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "በመስኮቶቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:18:56.382622807Z",
+  "model": "glm-5.3"
+}

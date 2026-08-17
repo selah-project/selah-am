@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ያህዌህ ኃይሌ ነው፣ ታላቴም ነው፤ በእርሱ ልቤ ተመካ፣ ተረዳኝም፤ ልቤም ደስ አለኝ፣ በመዝሙሬም አመስግነዋለሁ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ኃይሌ ነው"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "ታላቴም ነው"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ተመካ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "ተረዳኝም"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "ደስ አለኝ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤም"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "በመዝሙሬም"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "አመስግነዋለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:08:15.776181341Z",
+  "model": "glm-5.3"
+}

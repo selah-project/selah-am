@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ማረሾችን ይመኛሉ እና ይዘረፋሉ፤ ቤቶችንም ይቀምጣሉ፤ ሰውንና ቤቱን፣ ሰውንና ውርሱን ያሰቃያሉ።",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "ይመኛሉ"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "ማረሾችን"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "ይዘረፋሉ"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "ቤቶችንም"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "ይቀምጣሉ"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "ያሰቃያሉ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ሰውን"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "ቤቱንና"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ሰውንና"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "ውርሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:09:40.878890778Z",
+  "model": "glm-5.3"
+}

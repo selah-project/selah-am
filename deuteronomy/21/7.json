@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "መልሰው ይላሉ፤ እጆቻችን ይህንን ⟨את⟩ ደም አልፈሰሱም፣ እና ዐይኖቻችንም አላዩም።",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "መልሰው"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ይላሉ"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "እጆቻችን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "አልፈሰሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደም"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህንን"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "እና ዐይኖቻችን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "አላዩ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:46:57.367859398Z",
+  "model": "glm-5.3"
+}

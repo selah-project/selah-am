@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "የቃጠሎ ፈንታ የቃጠሎ፣ የቁስል ፈንታ የቁስል፣ የለቀም ፈንታ የለቀም።",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "የቃጠሎ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ፈንታ"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "የቃጠሎ"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "የቁስል"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ፈንታ"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "የቁስል"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "የለቀም"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ፈንታ"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "የለቀም"
+    }
+  ],
+  "timestamp": "2026-08-16T03:21:23.393905062Z",
+  "model": "glm-5.3"
+}

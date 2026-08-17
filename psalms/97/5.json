@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 97,
+  "translation": "ኮረቦች እንደ ማረኪ በያህዌህ ፊት ረሐቡ፤ በመላው ምድር አዶናይ ፊት ረሐቡ።",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "ኮረቦች"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "እንደ ማረኪ"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "ረሐቡ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "በ…ፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "በ…ፊት"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላው"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:38.724107644Z",
+  "model": "glm-5.3"
+}

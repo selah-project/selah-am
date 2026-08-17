@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 77,
+  "translation": "የነጐዳህ ድምፅ በማዕበል ነበር፤ መብራቶች ዓለምን አበራት፤ ምድሩ ተንቀጠቀጠች እንዲሁም ተናወጠች።",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "የነጐዳህ"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "በማዕበል"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "አበራት"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "መብራቶች"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ዓለምን"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "ተንቀጠቀጠች"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "ተናወጠች"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:39.418703017Z",
+  "model": "glm-5.3"
+}

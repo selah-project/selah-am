@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ሕዝቡም ወጥቶ ⟨את⟩ የአራምን ሰፈር አጠፋ፤ የወፍጮ ሰአት በሰቀል ሆነ፣ የገብስ ሁለት ሰአትም በሰቀል ሆነ፣ በያህዌህ ቃል መሠረት።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጥቶም"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "አጠፋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የአራምን ሰፈርን"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ሰፈር"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "አራም"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነም"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "ሰአት"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "የወፍጮ"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "በሰቀል"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "ሁለት ሰአትም"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "የገብስ"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "በሰቀል"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "በቃል መሠረት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:41:47.171461966Z",
+  "model": "glm-5.3"
+}

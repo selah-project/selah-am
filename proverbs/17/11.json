@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "proverbs 17:11",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "በእውነት አመጸኛ ክፉን ብቻ ይፈልጋል፤ ጨካኪ መልአክም ይላካል በእርሱ ላይ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "በእውነት ብቻ"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "አመጸኛ"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ይፈልጋል"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉን"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "እና መልአክ"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "ጨካኪ"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ይላካል"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:28:54.079736829Z",
+  "model": "glm-5.3"
+}

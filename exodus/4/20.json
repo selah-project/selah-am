@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ሞሼም ⟨את⟩ ሚስቱን እና ⟨את⟩ ልጆቹን ወሰደ፣ በአህያው ላይ አስቀመጣቸው፤ ወደ ግብፅ ምድር ተመለሰ፤ ሞሼም ⟨את⟩ የኤሎሂም በትር በእጁ ወሰደ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚስቱን"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሚስቱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ልጆቹን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ልጆቹን"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "አስቀመጣቸው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "አህያው"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፅ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የኤሎሂም በትር"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "በትር"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "በእጁ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:08:59.873269571Z",
+  "model": "glm-5.3"
+}

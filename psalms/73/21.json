@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 73,
+  "translation": "ልቤ በእውነት ተበሳጭቶ ነበር፣ ኩላሊቴም ተቀሰቀሰች።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "ተበሳጭቶ ነበር"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "እና ኩላሊቴ"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "ተቀሰቀሰች"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:05.131859673Z",
+  "model": "glm-5.3"
+}

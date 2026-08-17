@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 8:22",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ወደ ⟨አንዲት⟩ ምድርም ያያል፤ እነሆም ጭንቀትና ጨለማ፣ የስቃይ እኩለ ጨለማ፤ ወደ ተባባረ ጨለማም ይጣደፋል።",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ያያል"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እነሆም"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ጭንቀት"
+    },
+    {
+      "surface": "וחשכה",
+      "gloss": "ጨለማ"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "እኩለ ጨለማ"
+    },
+    {
+      "surface": "צוקה",
+      "gloss": "የስቃይ"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "ተባባረ ጨለማ"
+    },
+    {
+      "surface": "מנדח",
+      "gloss": "ይጣደፋል"
+    }
+  ],
+  "timestamp": "2026-08-16T16:48:57.828540422Z",
+  "model": "glm-5.3"
+}

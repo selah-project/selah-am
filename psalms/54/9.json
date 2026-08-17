@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 54,
+  "translation": "ከሁሉም ጭንቀት አድኖኛልና፣ በጠላቶቼም ላይ ዐይኔ አይታለች።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉም"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ጭንቀት"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "አድኖኛልና"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "በጠላቶቼም ላይ"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "አይታለች"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዐይኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:45:20.021169166Z",
+  "model": "glm-5.3"
+}

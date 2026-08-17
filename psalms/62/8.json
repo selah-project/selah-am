@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 62,
+  "translation": "በኤሎሂም ላይ ⟨ነው⟩ መድኃኒቴ እና ክብሬ፤ የኃይሌ ዐለት፣ መጠለያዬም በኤሎሂም ⟨ነው⟩።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "መድኃኒቴ"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "እና ክብሬ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ዐለት"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "የኃይሌ"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "መጠለያዬም"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "በኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:10.729658358Z",
+  "model": "glm-5.3"
+}

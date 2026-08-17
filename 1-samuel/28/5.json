@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ሳኦልም የፍልስጤምን ሰፈር ⟨את⟩ አየ፤ ፈራም፤ ልቡም በእጅግ አንዘረገመ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦልም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የፍልስጤምን ሰፈር"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ሰፈር"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "የፍልስጤም"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ፈራ"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "አንዘረገመ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡም"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በእጅግ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:51:14.694953409Z",
+  "model": "glm-5.3"
+}

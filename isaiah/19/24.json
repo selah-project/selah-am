@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "isaiah 19:24",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "በዚያ ቀን እስራኤል ከምጽራይምና ከአሦር ጋር ሦስተኛ ይሆናል፤ በምድር መካከል መባረክ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "በዚያ ቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ዚያ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "שלישיה",
+      "gloss": "ሦስተኛ"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "ከምጽራይም"
+    },
+    {
+      "surface": "ולאשור",
+      "gloss": "ከአሦርም"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "መባረክ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T07:05:15.630988356Z",
+  "model": "glm-5.3"
+}

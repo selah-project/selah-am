@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የይጽሐርም ወንዶች ቆሬህ፣ ነፌግ እና ዚክሪ ናቸው።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "የ…ወንዶችም"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ይጽሐር"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ቆሬህ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "እና ነፌግ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "እና ዚክሪ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:07:34.105721218Z",
+  "model": "glm-5.3"
+}

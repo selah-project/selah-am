@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ሞሼምም አለ፤ እባክሽህ ተመልሼ ⟨את⟩ ይህን ታላቅ መልክዕ እይዣለሁ — ቁጥቋጦው ለምን አይቃጠልም?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼምም"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ተመልሼ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክሽህ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "እይዣለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መልክዕን"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "መልክዕን"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "ቃጠልም"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "ቁጥቋጶው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:06:57.710187169Z",
+  "model": "glm-5.3"
+}

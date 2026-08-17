@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "ለመዝማሪው፤ መዝሙር የዳዊት።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመዝማሪው"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "የዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:34.982958314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "genesis 40:7",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "⟨את⟩ ከእርሱ ጋር በጌታዬ ቤት ጥቂት ውስጥ የሚገኙትን ⟨את⟩የፈርዖንን ሹማምቶች ጠየቀ፤ «ዛሬ ፊታችሁ ለምን አዘናችሁ?» አላቸው።",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ጠየቀ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የፈርዖንን ሹማምቶች"
+    },
+    {
+      "surface": "סריסי",
+      "gloss": "የ…ሹማምቶች"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "የፈርዖን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኙት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ከእርሱ ጋር"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "በጥቂት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "የጌታዬ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እያለ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ለምን"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "ፊታችሁ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "አዘናችሁ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:56:32.504456930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 107,
+  "translation": "በችግራቸው ወደ ያህዌህ ጮኩ፤ ከመከራቸው አድናቸው።",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "ጮኩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "በችግራቸው"
+    },
+    {
+      "surface": "להם",
+      "gloss": "የእነርሱ"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "ከመከራቸው"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "አድናቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:44.084494093Z",
+  "model": "glm-5.3"
+}

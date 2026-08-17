@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "አጥቢያው ክፉን ያያል እና ይሰወራል፤ ስለመሰሉ ግን ያልፈዋል እና ይቀጠራሉ።",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "አጥቢያው"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ያያል"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉን"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "ይሰወራል"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "እና ስለመሰሉ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ያልፈዋል"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "ይቀጠራሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:32:47.169452324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እያንዳንዱ ሰው ⟨את⟩ ቅዱሳን ነገሮቹ የእርሱ ይሆናሉ፤ ሰው ለካህኑ የሚሰጠው ሁሉ የእርሱ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅዱሳን ነገሮቹ"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "ቅዱሳን ነገሮቹ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ይሆናሉ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚሰጠው"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይሰጣል"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ለካህኑ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "የእርሱ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሆናል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:07:39.662369107Z",
+  "model": "glm-5.3"
+}

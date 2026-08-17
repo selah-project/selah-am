@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ዛፎችህን በሙሉ እና የምድርህን ፍሬ ትንኝ ይወርሳል።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "ዛፎችህን"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "እና ፍሬን"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "የምድርህ"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "ይወርሳል"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "ትንኙን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:52:54.330298024Z",
+  "model": "glm-5.3"
+}

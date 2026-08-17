@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "በዚህ ይግባ አሃሮን ወደ ⟨ቅዱስ⟩ ስፍራ፦ ለኃጢአት መሥዋዕት በከብት ልጅ በበግ ማደሪያ፣ እና ለየለማ መሥዋዕት በአውራ በግ።",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "በዚህ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ይግባ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ቅዱስ ስፍራ"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "በከብት"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "አሳር"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ለኃጢአት መሥዋዕት"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "እና በአውራ በግ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ለየለማ መሥዋዕት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:55:31.840490213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 77,
+  "translation": "የዓይኖቼን ቀንበሮች ያዘህ፤ ተነካሁም፣ እና አልናገርም።",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "ያዘህ"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "ቀንበሮችን"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "የዓይኖቼን"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "ተነካሁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "እናገር"
+    }
+  ],
+  "timestamp": "2026-08-16T09:53:57.103629752Z",
+  "model": "glm-5.3"
+}

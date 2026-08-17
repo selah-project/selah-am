@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "ጠላቶቼም ሕያዋን ናቸውና ኃይለኞች ናቸው፤ በውሐ የሚጠሉኝም በዝተዋል።",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "ጠላቶቼም"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ሕያዋን ናቸው"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "ኃይለኞች ናቸው"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "በዝተዋልም"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "የሚጠሉኝ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "በውሐ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:40:54.467607166Z",
+  "model": "glm-5.3"
+}

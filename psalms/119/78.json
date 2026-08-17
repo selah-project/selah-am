@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ትዕቢተኞች ይሳፈሩ፣ በሐሰት አሳሳቱኝ እናም፤ እኔ በትእዛዝህ እናስባለሕ።",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ይሳፈሩ"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ትዕቢተኞች"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እናም"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "በሐሰት"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "አሳሳቱኝ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "እናስባለሕ"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "በትእዛዝህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:12:34.068041665Z",
+  "model": "glm-5.3"
+}

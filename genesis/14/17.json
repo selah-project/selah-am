@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "genesis 14:17",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "የሰዶም ንጉሥ ከወጣ በኋላ ከከዳርላዕሜር ⟨את⟩ እና ⟨את⟩ ከከዳርላዕሜር ጋር ካሉት ነገሥታት ሰብሮ ሲመለስ በሻዌ ሸለቆ ወደ እርሱ ለመገናኘት መጣ፤ እርሱም የንጉሡ ሸለቆ ነው።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "ሰዶም"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ወደ እርሱ ለመገናኘት"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ… በኋላ"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "መመለሱ"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "ከመስበር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከዳርላዕሜርን"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "ከዳርላዕሜር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ነገሥታትን"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ነገሥታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ከእርሱ ጋር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ሸለቆ"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "ሻዌ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱም"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ሸለቆ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:36:23.504301300Z",
+  "model": "glm-5.3"
+}

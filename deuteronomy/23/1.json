@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "አንድ ሰው ⟨את⟩ የአባቱን ሚስት አይውሰድም፣ የአባቱንም ክንፍ አይግለጥም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይውሰድም"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ይወስዳል"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የአባቱን ሚስት"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሚስት"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "የአባቱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይገልጥም"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "ይገለጣል"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ክንፍ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "የአባቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:49:23.968381948Z",
+  "model": "glm-5.3"
+}

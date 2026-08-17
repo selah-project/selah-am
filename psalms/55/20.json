@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 55,
+  "translation": "ኤል ይሰማል እነሱንም ይመልሳል፤ ከቀድሞውም የሚቀመጥ ነው። ሰላህ። ለእነሱ ለውጦች የሉም፤ ኤሎሂምንም አይፈሩም።",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "ይሰማል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "እነሱንም ይመልሳል"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "የሚቀመጥም"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ከቀድሞው"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የሉም"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "ለውጦች"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ለእነሱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አይፈሩምም"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ያልሆኑ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂምን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:37.119092507Z",
+  "model": "glm-5.3"
+}

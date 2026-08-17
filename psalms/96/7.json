@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 96,
+  "translation": "ለያህዌህ ስጡ፣ የሕዝቦች ቤተሰቦች ሆይ፤ ለያህዌህ ክብርን እና ኃይልን ስጡ።",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ስጡ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ቤተሰቦች"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "የሕዝቦች"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ስጡ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብርን"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "እና ኃይልን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:02:22.982562225Z",
+  "model": "glm-5.3"
+}

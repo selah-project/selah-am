@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 115,
+  "translation": "ያህዌህን የሚፈሩትን ይባርካል፣ ታናሾቹ ከታላቁት ጋር።",
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "ይባርካል"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "የሚፈሩትን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "ታናሾቹ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "ታላቁት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:09:25.863991492Z",
+  "model": "glm-5.3"
+}

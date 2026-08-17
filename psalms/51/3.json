@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "አደርገኝ ቸርኳም አንተ ኤሎሂም በምሕረትህ መጠን፣ በምሕረቶችህ ብዛት መጠን ኃጢአቶቼን አጥፋ።",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "አደርገኝ ቸርኳም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "በምሕረትህ መጠን"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "ብዛት መጠን"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "በምሕረቶችህ"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "አጥፋ"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ኃጢአቶቼን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:00.590598241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "ያዕቆብም ደግሞ ወደ ራሔል ገባ፤ ራሔልንም ⟨את⟩ ከሌአስ በልጅነት ወደደ፤ ከእርሱም ጋራ እንደገና ሌላ ሰባት ዓመታት አገለገለ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ገባ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ራሔል"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "ወደደ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራሔልን"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ራሔል"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ከሌአስ በልጅነት"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "አገለገለ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋራ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "እንደገና"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "ሌላ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:48:17.395481992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 52,
+  "translation": "እመሰግንሃለሁ ለዘላለም ምክንያቱም ⟨አንተ⟩ አድርገኸዋል፤ በስምህም ታምናለሁ እንደለም፤ በቅዱሳንህ ፊት ⟨የሚገባ⟩ ነው።",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "እመሰግንሃለሁ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "አድርገኸዋል፤"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "ታምናለሁ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "በስምህም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደለም፤"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ነው።"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "በቅዱሳንህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:45:38.230624095Z",
+  "model": "glm-5.3"
+}

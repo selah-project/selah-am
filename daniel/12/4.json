@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "daniel 12:4",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "አንተም ዳንኤል ሆይ፣ ቃላቱን ዝጋ፣ መጽሐፉንም እስከ መጨረሻው ጊዜ ድረስ ተሸልም፤ ብዙዎች ወደዚህና ወደዚያ ይሮጣሉ፣ እውቀትም ይብዛል።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "አንተም"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ዳንኤል"
+    },
+    {
+      "surface": "סתם",
+      "gloss": "ዝጋ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላቱን"
+    },
+    {
+      "surface": "וחתם",
+      "gloss": "ተሸልም"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "መጽሐፉን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "መጨረሻው"
+    },
+    {
+      "surface": "ישטטו",
+      "gloss": "ይሮጣሉ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙዎች"
+    },
+    {
+      "surface": "ותרבה",
+      "gloss": "ይብዛል"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "እውቀትም"
+    }
+  ],
+  "timestamp": "2026-08-16T11:49:23.434444372Z",
+  "model": "glm-5.3"
+}

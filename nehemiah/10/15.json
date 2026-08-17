@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የሕዝቡ ራሶች፦ ፓሮሽ፣ ፓሐት-ሞአብ፣ ዔላም፣ ዛቱ፣ ባኒ፣",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "ራሶች"
+    },
+    {
+      "surface": "העם",
+      "gloss": "የሕዝቡ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ፓሮሽ"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "ፓሐት"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞአብ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ዔላም"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "ዛቱ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ባኒ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:22:04.027242842Z",
+  "model": "glm-5.3"
+}

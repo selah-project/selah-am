@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "የፕኑኤልን ማነስ ⟨את⟩ አፈረሰ እና ⟨את⟩ የከተማዋን ሰዎች ገደለ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የፕኑኤል ማነስን"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "ማነስ"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "ፕኑኤል"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "አፈረሰ"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ገደለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የከተማዋን ሰዎች"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:20:25.588721902Z",
+  "model": "glm-5.3"
+}

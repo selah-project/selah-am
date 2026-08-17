@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "የ⟨እርሱን⟩ ⟨את⟩ የምድሩ ሕዝብ የዮአስያሁ ልጅ ይሁዋህዝን ወሰደ፤ በኢየሩሳሌም ውስጥ ስለ አባቱ አንሥቶ መንገሥ አደረገው።",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይሁዋህዝን"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "ይሁዋህዝ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ዮአስያሁ"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "መንገሥ አደረገው"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ስለ አባቱ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "በኢየሩሳሌም"
+    }
+  ],
+  "timestamp": "2026-08-16T19:03:08.105346208Z",
+  "model": "glm-5.3"
+}

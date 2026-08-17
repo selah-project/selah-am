@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ሞሼም ሰላይን ⟨את⟩ ያዐዘርን ለመመልከት ላከ፤ መንደሮቿንም ያዙ፤ ⟨את⟩ አሞራዊውንም እዚያ ያለውን አስወጡ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "ሰላይን ለመመልከት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያዐዘርን"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "ያዐዘር"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ያዙም"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "መንደሮቿን"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "አስወጡም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አሞራዊውን"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "አሞራዊውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለውን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:20:47.811581098Z",
+  "model": "glm-5.3"
+}

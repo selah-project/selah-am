@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ከብዙ እህል ማከማቻዎችህ ይሞላሉ፤ እና በአዲስ ወይን ጠርሙሶችህ ይፈሳሉ።",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "ይሞላሉ"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "ማከማቻዎችህ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ከብዙ እህል"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "እና በአዲስ ወይን"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "ጠርሙሶችህ"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "ይፈሳሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:20:55.444990528Z",
+  "model": "glm-5.3"
+}

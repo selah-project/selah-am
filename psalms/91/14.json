@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 91,
+  "translation": "በእኔ ስለ ወደደኝ፣ እኔ አድነዋለሁ፤ ስሜን ስለ አውቀው ከፍ አድርጌዋለሁ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በእኔ"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "ወደደ"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "እና አድነዋለሁ"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "ከፍ አድርጌዋለሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "አውቀዋል"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ስሜን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:41.106515899Z",
+  "model": "glm-5.3"
+}

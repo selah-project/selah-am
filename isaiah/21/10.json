@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "የሚረገጠኝ ሆይ፣ የመከሪያዬ ልጅ ሆይ፣ ከያህዌህ ጸባኦት፣ ከእስራኤል ኤሎሂም የሰማሁትን ሁሉ ለናንተ አስረድቻለሁ።",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "የሚረገጠኝ"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "እና የ…ልጅ"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "መከሪያዬ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "የሰማሁትን"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ከ⟨את⟩",
+      "marks": "ያህዌህ ጸባኦት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "አስረድቻለሁ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለናንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:05:42.037513929Z",
+  "model": "glm-5.3"
+}

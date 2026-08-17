@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "የሚጠብቅ ሁሉን የአጥንቶቹን ነው፤ ከእነርሱ አንዷ አልተሰበረችም።",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "የሚጠብቅ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "የአጥንቶቹን"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "አንዷ"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "ከእነርሱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አልፈጽምም፤ተቃርኖ"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "አልተሰበረችም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:37:37.113233641Z",
+  "model": "glm-5.3"
+}

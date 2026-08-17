@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "የአገልጋይህን ቃል ኪዳን አበላሸህ፤ አክሊሉን እስከ ምድር ድረስ አሳወርክ።",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "አበላሸህ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ቃል ኪዳን"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "የአገልጋይህን"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "አሳወርክ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "እስከ ምድር ድረስ"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "አክሊሉን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:01.925489488Z",
+  "model": "glm-5.3"
+}

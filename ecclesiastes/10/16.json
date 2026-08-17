@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ወዮ ለአንተ ምድር፤ ንጉሥህ ልጅ ሲሆን፣ እና አለቆችህ በጠዋት ሲበሉ!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "ወዮ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "ንጉሥህ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "እና አለቆችህ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "በጠዋት"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ሲበሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:16:30.886360198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "የአፉ ቃላት ክፉነትና ሽብር ናቸው፤ ብልህነት ለማድረግ እና መልካም ለማድረግ አቆመ።",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "የአፉ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ክፉነት"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "እና ሽብር"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "አቆመ"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "ብልህነት ለማድረግ"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "መልካም ለማድረግ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:39:14.465078144Z",
+  "model": "glm-5.3"
+}

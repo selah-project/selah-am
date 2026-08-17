@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "ይህንን ቃል ስሙ እንደምንም ⟨את⟩ ⟨የ⟩ ቃሉን ይህን የምለውበት እኔ በእናንተ ላይ የምሸከመው ቃድማ ነው የእስራኤል ቤት ሆይ።",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይህን ቃል"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃሉን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምለውበት"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "የምሸከመው"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "በእናንተ ላይ"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ቃድማ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:07:26.839682663Z",
+  "model": "glm-5.3"
+}

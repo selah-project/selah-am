@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "የፈርዖን አለቆች ⟨את⟩ እሷን አዩና ⟨את⟩ እሷን ለፈርዖን አመሰገኑ፤ ሴቲቱም ወደ ፈርዖን ቤት ተወሰደች።",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "አዩና"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እሷን"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "አለቆች"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "የፈርዖን"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "አመሰገኑ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እሷን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ተወሰደች"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሴቲቱ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:35:24.850116473Z",
+  "model": "glm-5.3"
+}

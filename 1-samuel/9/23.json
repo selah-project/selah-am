@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ሳሙኤልም ለሙሽላው እንዲህ አለ፤ እኔ ወደ አንተ ስል እንዳልኩህ «ከአንተ ጋር አስቀምጠው» ያልኩህን ⟨את⟩ ድንቅ ስጠኝ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤልም"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "ለሙሽላው"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ስጠኝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድንቅ"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "ድንቅ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለውን"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ሰጠሁህ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንዳልኩህ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "አልኩህ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "שים",
+      "gloss": "አስቀምጠው"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ከአንተ ጋር"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ከአንተ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T15:39:54.690809433Z",
+  "model": "glm-5.3"
+}

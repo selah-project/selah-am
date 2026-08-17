@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "2-samuel 7:4",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "በዚያም ምሽት ሆነ፤ የያህዌህ ቃል ወደ ናታን መጣ፦ «እንዲህ በል» እያለ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "በምሽት"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ናታን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እያለ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:57:49.039917335Z",
+  "model": "glm-5.3"
+}

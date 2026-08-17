@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "ከእናንተ ማን ይህን ያዳምጣል? የሚያስተውል እና ለወደፊት የሚሰማ ማን ነው?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ከእናንተ"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "ያዳምጣል"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "የሚያስተውል"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "እና የሚሰማ"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "ለወደፊት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:20:22.788087063Z",
+  "model": "glm-5.3"
+}

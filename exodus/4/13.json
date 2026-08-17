@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እርሱም አለ፦ እባክህ አዶናይ፣ እባክህ በምትልክው እጅ ላክ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እርሱም አለ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ላክ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጅ"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "ትልክ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:09:06.668303797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ጠላቶቼ ሁሉ ይደነገጡና በእጅግ ይረበሹ፤ ይመለሱ፣ ይደነገጡ በአንድ አፍታ።",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ይደነገጡ"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "ይረበሹ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በእጅግ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ጠላቶቼ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ይመለሱ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ይደነገጡ"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "በአንድ አፍታ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:26:58.615754875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ሕዝቡም ወደ ሳሙኤል እንዲህ አለ፦ ሳኦል ይንገሥብን የሚለው ማን ነው? ⟨ያንን⟩ ሰዎች አስልኩን፤ እናቸውን እንገድላቸዋለን።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "የሚለው ነው"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ይንገሥብን"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "በእኛ ላይ"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "አስልኩን"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "እንገድላቸዋለን"
+    }
+  ],
+  "timestamp": "2026-08-16T05:37:45.685893471Z",
+  "model": "glm-5.3"
+}

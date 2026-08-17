@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 137,
+  "translation": "እድለኛ ነው ⟨ርሱ⟩ የሚያዝ እና ⟨את⟩ ጠገብሽን ወደ ዐለት ላይ የሚወርውር።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "እድለኛ"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "የሚያዝ"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "የሚወርውር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጠገብሽን"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "ጠገብሽን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "ዐለት ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:36.459210736Z",
+  "model": "glm-5.3"
+}

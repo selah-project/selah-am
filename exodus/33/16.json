@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "exodus 33:16",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "እንዴትም በምን ይታወቃል እኔ እና ሕዝብህ በአንተ ዓይኖች ፀጋ እንዳገኘን? አንተ ከእኛ ጋር በታቀድህ ብቻ አይደለምን? እኔ እና ሕዝብህ በምድር ፊት ላይ ካለው ከሕዝብ ሁሉ እንለያያለን።",
+  "tokens": [
+    {
+      "surface": "ובמה",
+      "gloss": "እንዴትም በምን"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ይታወቃል"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "አገኘን"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ፀጋ"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "በአንተ ዓይኖች"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "እና ሕዝብህ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "አይደለምን?"
+    },
+    {
+      "surface": "בלכתך",
+      "gloss": "በታቀድህ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ከእኛ ጋር"
+    },
+    {
+      "surface": "ונפלינו",
+      "gloss": "እንለያያለን"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "እና ሕዝብህ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከ… ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ከሕዝብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኝ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "የምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:33:00.744763832Z",
+  "model": "glm-5.3"
+}

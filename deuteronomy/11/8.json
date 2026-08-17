@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "deuteronomy 11:8",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እና ዛሬ እሰማችሁት የምከራችሁን ⟨את⟩ ሁሉን ትእዛዝ ታስጠብቁ፣ ለማንነት ትጠነክሩ ዘንድ፣ እና ሄዳችሁ ⟨את⟩ ምድሪቱን ትወርሱ ዘንድ፣ ወደ ምትሻጡበት ወደ ምትወርሷት፤",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ታስጠብቁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነው"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "እሰማችሁት\/እከራችሁ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ለማንነት"
+    },
+    {
+      "surface": "תחזקו",
+      "gloss": "ትጠነክሩ"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "እና ሄዳችሁ"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "እና ትወርሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪቱን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪቱን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሆነው"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ናችሁ"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ላለፋችሁት"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ወደ እዚያ"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ለመውረሷ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:40:33.641093685Z",
+  "model": "glm-5.3"
+}

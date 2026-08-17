@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 42,
+  "ref": "deuteronomy 32:42",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "በደም ቀስቶቼን እሰኛቸዋለሁ፣ ሰይፌም ሥጋ ትበላለች — ከተቀጠቀጡት ደም እና ከታሰሩት፣ ከጠላቱ አለቆች ጸጉር ጋር።",
+  "tokens": [
+    {
+      "surface": "אשכיר",
+      "gloss": "እሰኛቸዋለሁ\/እረክባቸዋለሁ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ቀስቶቼን"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "በደም"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "ሰይፌምም"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ትበላለች"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ከደም"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "የተቀጠቀጡት"
+    },
+    {
+      "surface": "ושביה",
+      "gloss": "እና የታሰሩት"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "ከራስ\/ጸጉር"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "የከፈተ ጸጉር ካላቸው አለቆች"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ጠላት"
+    }
+  ],
+  "timestamp": "2026-08-16T04:56:12.766671278Z",
+  "model": "glm-5.3"
+}

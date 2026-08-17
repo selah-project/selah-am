@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የመሣሪያዎቹን ተሸካሚ፣ ሣኦል እንደ ሞተ አይቶ፣ እርሱም በሰይፉ ላይ ወደቀ እና ሞተ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "አይቶ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ተሸካሚ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "የመሣሪያዎቹን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሣኦል"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ወደቀ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "በሰይፉ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "እና ሞተ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:49:59.571604118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የአዳምም ቀናት ሴትን ⟨את⟩ ከወለደ በኋላ ስምንት መቶ ዓመት ነበሩ፤ ወንዶችን እና ሴቶችንም ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ነበሩ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "የ…ቀናት"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "አዳም"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ከ…በኋላ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ወለደው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሴትን"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ሴትን"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ስምንት"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ወንዶችን"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "እና ሴቶችን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:30:35.947618165Z",
+  "model": "glm-5.3"
+}

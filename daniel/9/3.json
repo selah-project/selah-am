@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ፊቴን ⟨את⟩ ወደ አዶናይ ወደ ኤሎሂም አዙሬ ልጸልይና ምሕረት ልለምን ሾምኩ — በጾም፣ በዐቅል እና በአመድ።",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "አዙሬ ሆድኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊቴን"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊቴን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ወደ ኤሎሂም"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ልለምን"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ጸሎትን"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "እና ምሕረት ጥሪዎችን"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "በጾም"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "እና በዐቅል"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "እና በአመድ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:42:35.792237831Z",
+  "model": "glm-5.3"
+}

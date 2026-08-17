@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "እና ሰማ ሳኦል እና ሁሉም እስራኤል የፍልስጤማዊውን ⟨את⟩ ቃላት እነዚህ፣ እና ደነገጡ እና በጣም ፈሩ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "እና ሰማ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላት እነዚህን"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ፍልስጤማዊው"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "ደነገጡ"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "እና ፈሩ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    }
+  ],
+  "timestamp": "2026-08-16T15:46:00.347753989Z",
+  "model": "glm-5.3"
+}

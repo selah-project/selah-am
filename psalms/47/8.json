@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 47,
+  "translation": "ምክንያቱም የምድር ሁሉ ንጉሥ ኤሎሂም ⟨is⟩፤ ዘምሩ በአክብሮት ጎበዝ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ዘምሩ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "በአክብሮት ጎበዝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:15.891441795Z",
+  "model": "glm-5.3"
+}

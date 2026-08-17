@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "2-chronicles 6:4",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እንዲህም አለ፤ የይስራኤል አምላክ ያህዌህ የተባረከ ይሁን፤ በአፉ ከአባቴ ከዳዊት ጋር የተናገረውን ⟨את⟩ በእጁም አሟላው፤ እንዲህ ብሎ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህም አለ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "የተባረከ ይሁን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "አምላክ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የይስራኤል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የተናገረውን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተናግሮ"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "በአፉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከዳዊት ጋር"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ከዳዊት"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባቴ"
+    },
+    {
+      "surface": "ובידיו",
+      "gloss": "በእጁም"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "አሟላው"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    }
+  ],
+  "timestamp": "2026-08-16T13:34:17.666046492Z",
+  "model": "glm-5.3"
+}

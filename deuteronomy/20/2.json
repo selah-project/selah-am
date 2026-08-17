@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ወደ ⟨ጦርነቱ⟩ ሲቀርቡ፣ ካህኑ ይቀርብና ለሕዝቡ ይናገራል።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "ሲቀርቡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ጦርነቱ"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "ይቀርባል"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ይናገራል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:46:17.060378583Z",
+  "model": "glm-5.3"
+}

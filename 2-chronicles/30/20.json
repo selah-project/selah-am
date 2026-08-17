@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "ያህዌህም ወደ ሕዝቅያስ ሲሰማ ⟨את⟩ ሕዝቡን ፈወሰ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሲሰማ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "ሕዝቅያስ"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ፈወሰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:54:28.135766197Z",
+  "model": "glm-5.3"
+}

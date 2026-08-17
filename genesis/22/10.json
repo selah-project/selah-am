@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "አብራሃም ⟨את⟩ እጁን ዘረጋ እና ⟨את⟩ ሰይፉን ወሰደ — ልጁን ⟨את⟩ ለመታረድ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ዘረጋ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብራሃም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጁን"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰይፉን"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "ሰይፉን"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "ለመታረድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጁን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:40:50.402125674Z",
+  "model": "glm-5.3"
+}

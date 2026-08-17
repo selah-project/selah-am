@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 21:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ስለዚህ ወገቤ ምት ተሞላ፤ የልጅ ምላሶች ያዙኝ፣ እንደ እመንገስን ምላሶች፤ ከመስማት ተዘበራሁ፤ ከማየት ተረበሸሁ።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ተሞላ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "ወገቤ"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "ምት"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "የልጅ ምላሶች"
+    },
+    {
+      "surface": "אחזוני",
+      "gloss": "ያዙኝ"
+    },
+    {
+      "surface": "כצירי",
+      "gloss": "እንደ ምላሶች"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "እመንገስን"
+    },
+    {
+      "surface": "נעויתי",
+      "gloss": "ተዘበራሁ"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ከመስማት"
+    },
+    {
+      "surface": "נבהלתי",
+      "gloss": "ተረበሸሁ"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ከማየት"
+    }
+  ],
+  "timestamp": "2026-08-16T07:07:42.290798195Z",
+  "model": "glm-5.3"
+}

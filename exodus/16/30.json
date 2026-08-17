@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.3",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ስለዚህ ሕዝቡ በሰባተኛው ቀን አረፈ።",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "አረፈ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "በሰባተኛው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:17:03.932012834Z",
+  "model": "glm-5.3"
+}

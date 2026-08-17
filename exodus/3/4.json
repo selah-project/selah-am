@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ሞሼ ለማየት እንደ ተመለሰ ያህዌህ አየ፤ ኤሎሂምም ከቁጥቋጦው መካከል ጮኸው፤ «ሞሼ፣ ሞሼ» አለ፤ «እነሆ እኔ ነኝ»ም አለ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ለማየት"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ጮኸውም"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂምም"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ከመካከል"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "ቁጥቋጦው"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ፣"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እነሆ እኔ ነኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:06:57.710379315Z",
+  "model": "glm-5.3"
+}

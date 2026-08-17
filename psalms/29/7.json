@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "የያህዌህ ድምፅ የእሳት ነበልባሎችን ይቀርጻል።",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "ይቀርጻል"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "ነበልባሎችን"
+    },
+    {
+      "surface": "אש",
+      "gloss": "የእሳት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:52.141250366Z",
+  "model": "glm-5.3"
+}

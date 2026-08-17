@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "1-chronicles 25:6",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "እነዚህ ሁሉ በያህዌህ ቤት ሙዚቃ አገልግሎት ውስጥ በምሰሶዎች፣ በነበርሊዎች እና በኪናሮች በኤሎሂም ቤት አገልግሎት ለመዘመር እንደ አባታቸው እጅ ሥር ነበሩ፤ እነሆም አሳፍ፣ የዱቱን እና ሄማን እንደ ንጉሡ እጅ ሥር ነበሩ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ሥር"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "በእጅ"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "አባታቸው"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "በሙዚቃ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "במצלתים",
+      "gloss": "በምሰሶዎች"
+    },
+    {
+      "surface": "נבלים",
+      "gloss": "በነበርሊዎች"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "እና በኪናሮች"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "ለአገልግሎት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ሥር"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "እጅ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "አሳፍ"
+    },
+    {
+      "surface": "וידותון",
+      "gloss": "እና የዱቱን"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "እና ሄማን"
+    }
+  ],
+  "timestamp": "2026-08-16T13:15:36.136840140Z",
+  "model": "glm-5.3"
+}

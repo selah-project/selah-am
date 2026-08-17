@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "አሁንም አንተ እንደ ሆነ እንደምትለው «ሂድ ለጌታህ ንገር፤ እነሆ ኤልያስ እዚህ ነው» ትላለህ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "አሁንም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "እንደምትለው"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ንገር"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "ለጌታህ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያስ እዚህ ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T06:30:45.137987541Z",
+  "model": "glm-5.3"
+}

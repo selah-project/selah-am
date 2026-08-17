@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እባቡ ያንኳታ ካልሆነ ማስማት የለም፤ የምላስ ባለቤትም ብልጽግና የለውም።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ያንኳታ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "እባቡ"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "ያል"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "ማስማት"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለምም"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ብልጽግና"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ለባለቤት"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "ምላስ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:15:15.055258849Z",
+  "model": "glm-5.3"
+}

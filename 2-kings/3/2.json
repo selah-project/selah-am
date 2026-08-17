@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "በያህዌህ ፊት መልካም ያልነበረውን አደረገ፤ ነገር ግን እንደ አባቱም ሆነ እንደ እናቱ አልነበረም፤ አባቱ የሠራውን ⟨את⟩ የባዓልን ሐውልት አስወገደ።",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "በዓይን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ነገር ግን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "እንደ አባቱ"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "እንደ እናቱም"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "አስወገደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የባዓል ሐውልትን"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "ሐውልት"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "የባዓል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:37:44.536494984Z",
+  "model": "glm-5.3"
+}

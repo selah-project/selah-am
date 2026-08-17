@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ማረጊያዎቹን ⟨את⟩ አሰራ እና ሕዙቡን ⟨את⟩ ከእርሱ ጋር ወሰደ።",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "አሰራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማረጊያዎቹን"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ማረጊያዎቹን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሕዙቡን"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዙቡን"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእርሱ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:14:23.148694942Z",
+  "model": "glm-5.3"
+}

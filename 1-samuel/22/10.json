@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "በያህዌህም ስም ለእርሱ ጠየቀለት፤ ምግብም ሰጠው፤ የጎልያድ ፍልስጤማዊው ሰይፍንም ⟨את⟩ ሰጠው።",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ጠየቀም"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "በያህዌህ"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "ምግብም"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሰይፍ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "ጎልያድ"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ፍልስጤማዊው"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:46:15.072062746Z",
+  "model": "glm-5.3"
+}

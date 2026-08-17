@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 39,
+  "translation": "እይትህን ከእኔ ራቅ አድርግ፣ እና አብራለሁ፤ እሄድበታለሁ እና የለሁም ከሆን በፊት።",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "ራቅ አድርግ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "እና አብራለሁ"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ከሆን በፊት"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "እሄድበታለሁ"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "እና የለሁም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:40:52.348968709Z",
+  "model": "glm-5.3"
+}

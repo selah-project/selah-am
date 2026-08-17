@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "joshua 6:11",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ያህዌህም ታቦ ከቁላቸው ዙሪያ ⟨את⟩ ከተማዋን አንድ ጊዜ አንጸባረቀ፤ ወደ ሰፈሩም ገብተው በሰፈሩ ዋሉ።",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "አንጸባረቀ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተማዋን"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋን"
+    },
+    {
+      "surface": "הקף",
+      "gloss": "ከቁላቸው ዙሪያ"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ገብተው"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ወደ ሰፈሩም"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "ዋሉ"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "በሰፈሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:00:07.589330901Z",
+  "model": "glm-5.3"
+}

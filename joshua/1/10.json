@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "የሱሴያ የሕዝቡን ኦሪተ መላዕክት ⟨את⟩ አዘዘ እንዲህ ሲል፦",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሱሴያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኦሪተ መላዕክት"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "ኦሪተ መላዕክት"
+    },
+    {
+      "surface": "העם",
+      "gloss": "የሕዝብ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:58:37.449031216Z",
+  "model": "glm-5.3"
+}

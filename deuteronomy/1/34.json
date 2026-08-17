@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ያህዌህ የቃላቻሁ ድምፅ ሰማ ⟨את⟩፣ ተቆጣም እንዲህ ብሎም ማለ አለ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰማ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የቃላቻሁ ድምፅ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "የቃላቻሁ"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "ተቆጣም"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ማለ አለ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:32:23.671104652Z",
+  "model": "glm-5.3"
+}

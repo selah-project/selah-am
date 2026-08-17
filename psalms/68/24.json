@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 68,
+  "translation": "ጠላቶችህ ከእርሱ በደም እግርህ እንድትሰብር፣ የውሾችህም ምላስ ልትከፋፈል ⟨ዳርጌ ነው⟩።",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ዳርጌ"
+    },
+    {
+      "surface": "תמחץ",
+      "gloss": "እንድትሰብር"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "እግርህን"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "በደም"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ምላስም"
+    },
+    {
+      "surface": "כלביך",
+      "gloss": "የውሾችህ"
+    },
+    {
+      "surface": "מאיבים",
+      "gloss": "ጠላቶችህ"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "ከእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:37.741421316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "የለምጽ ቁስል በሰው ላይ ቢሆን ወደ ካህኑ ይቀረባል።",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "ቁስል"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "የለምጽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ቢሆን"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ሲሆን"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "በሰው ላይ"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "ይቀረባል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:51:06.994778210Z",
+  "model": "glm-5.3"
+}

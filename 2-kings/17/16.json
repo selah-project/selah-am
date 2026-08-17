@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 17:16",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "የያህዌህ ኤሎሂም ሕጌን ሁሉ ተዉ፤ ለራሳቸው ሁለት የወፈረ በግ ቅርጾችን መሥራት ጀመሩ፤ አሸራን አደረጉ፤ ለሰማያት ሠራዊት ሁሉ ሰገዱ፤ እና የባዓልን አገለገሉ።",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "ተዉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ሕጌን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "መሥራት ጀመሩ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለራሳቸው"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "የወፈረ ቅርጽ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "עגלים",
+      "gloss": "የወፈረ በግ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "አደረጉ"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "አሸራን"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ሰገዱ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ሠራዊት"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "አገለገሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ባዓልን"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ባዓል"
+    }
+  ],
+  "timestamp": "2026-08-17T07:42:12.325362298Z",
+  "model": "glm-5.3"
+}

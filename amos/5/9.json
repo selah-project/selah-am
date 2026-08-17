@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የሚያበራቸድ ኃይል በጠንካሩ ላይ አጥፊነትን ስለው፣ አጥፊነትም በምሽገው ላይ ይመጣል።",
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "የሚያበራቸድ"
+    },
+    {
+      "surface": "שד",
+      "gloss": "አጥፊነትን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ጠንካሩ"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "አጥፊነትም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ምሽገው"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ይመጣል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:05:49.074633427Z",
+  "model": "glm-5.3"
+}

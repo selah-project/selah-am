@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 99,
+  "translation": "የንጉሡም ኃይል ፍርድን ይወዳል፤ ትክክለኛነትን አቆምህ፤ ፍርድንና ጽድቅን በያዕቆብ አንተ አደረግህ።",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "ኃይልም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድን"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ይወዳል"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "አቆምህ"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ትክክለኛነትን"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድን"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ጽድቅን"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "በያዕቆብ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "አደረግህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:01.475388382Z",
+  "model": "glm-5.3"
+}

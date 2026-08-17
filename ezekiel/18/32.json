@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "ezekiel 18:32",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ምክንያቱም በሚሞተው ሞት አደርጋለሁ የማይልም፣ የአዶናይ ያህዌህ አውጪ፤ ተመልሱ እና ቁጠሩ!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": "አደርጋለሁ የማይልም"
+    },
+    {
+      "surface": "במות",
+      "gloss": "በ…ሞት"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ሚሞተው"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "የ…አውጪ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "ተመልሱ"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "እና ቁጠሩ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:29:31.830491481Z",
+  "model": "glm-5.3"
+}

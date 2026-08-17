@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ያህዌህም ⟨את⟩ ሕዝቡን በመታ፣ ምክንያቱም ⟨את⟩ ጥንቸቱን ስለ ሠሩ፣ አሃሮን የሠራውን።",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "በመታም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ሠሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጥንቸቱን"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "ጥንቸቱን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ሠራውን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:32:00.069569180Z",
+  "model": "glm-5.3"
+}

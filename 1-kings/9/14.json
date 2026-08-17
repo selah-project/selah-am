@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ሂራምም ለንጉሥ መቶ ሃያ ታላንት ወርቅ ላከ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ።"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ሂራምም"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ለንጉሥ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ሃያ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ታላንት"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:23:34.393556798Z",
+  "model": "glm-5.3"
+}

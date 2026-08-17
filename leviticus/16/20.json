@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "እና መቅደሱን ⟨את⟩፣ የመገናኛውን ድንኳን ⟨את⟩ እና መሠዊያውን ⟨את⟩ ሲያስበክ ሲጨርስ፣ ሕያውውን ፊትዋኛ ⟨את⟩ ያቀርባል።",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "እና ሲጨርስ"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "ሲያስበክ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መቅደሱን"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "መቅደሱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የመገናኛውን ድንኳን"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መገናኛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መሠዊያውን"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊያው"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ያቀርባል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕያውውን ፊትዋኛ"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ፊትዋኛ"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ሕያው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:54:53.957926433Z",
+  "model": "glm-5.3"
+}

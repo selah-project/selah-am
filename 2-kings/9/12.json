@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 9:12",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እነሱም «ሐሰት ነው፤ እባክህ ንገረን» አሉ፤ እርሱም «እንዲህ እና እንዲህ አለኝ እንዲህ ሲል፦ እንዲህ ይላል ያህዌህ፦ ላይ እንድትነግሥ በይስራኤል ቀብቻሁህ» አላቸው።",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "እና አሉ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሐሰት"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "ንገር"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እባክህ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "እና እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲል"
+    },
+    {
+      "surface": "כה",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "ቀብቻሁህ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ንጉሥ እንድትሆን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ\/ላይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T16:40:15.656135737Z",
+  "model": "glm-5.3"
+}

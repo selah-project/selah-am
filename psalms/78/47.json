@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "የወይን ዛፎቻቸውን በበረዶ ገደለ፤ እና የሹኮሞር ዛፎቻቸውን በቀዝቃዛ በረዶ።",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "ገደለ"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "በበረዶ"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "የወይን ዛፎቻቸውን"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "እና የሹኮሞር ዛፎቻቸውን"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "በቀዝቃዛ በረዶ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:56:04.550892104Z",
+  "model": "glm-5.3"
+}

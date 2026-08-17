@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 147,
+  "translation": "ሰላምን በድንበርህ የሚያደርግ፣ በስብ ስንዴ የሚያጠግብህ።",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "የሚያደርግ"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "በድንበርህ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላምን"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "በስብ"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "ስንዴ"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "የሚያጠግብህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:37.287292075Z",
+  "model": "glm-5.3"
+}

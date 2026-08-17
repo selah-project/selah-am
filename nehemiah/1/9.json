@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 1:9",
+  "book": "nehemiah",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እንደ እኔ ብትመለሱ ትእዛዜን ብትጠብቁ እና ⟨את⟩ እነሱን ብታደርጉ — የተባረራችሁ በሰማያት ዳር ቢሆኑ፣ ከዚያ አሰባስባቸዋለሁ እና ስሜን እንዲያድር በመርጥኩበት ⟨ወደ⟩ ስፍራ አመጣቸዋለሁ።",
+  "tokens": [
+    {
+      "surface": "ושבתם",
+      "gloss": "ብትመለሱ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "እንደ እኔ"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "ብትጠብቁ"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ትእዛዜን"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ብታደርጉ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን (ትእዛዜን)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ቢሆኑ"
+    },
+    {
+      "surface": "נדחכם",
+      "gloss": "የተባረራችሁ"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "በዳር"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ከዚያ"
+    },
+    {
+      "surface": "אקבצם",
+      "gloss": "አሰባስባቸዋለሁ"
+    },
+    {
+      "surface": "והבואתים",
+      "gloss": "አመጣቸዋለሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ስፍራው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "መርጥኩበት"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "እንዲያድር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሜን"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ስሜን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    }
+  ],
+  "timestamp": "2026-08-16T20:43:36.400236572Z",
+  "model": "glm-5.3"
+}

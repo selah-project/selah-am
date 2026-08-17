@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እና ⟨በ⟩እርሱ ላይ የሚሸከሙት የይሳኮር ነገዥ ነው፤ እና የይሳኮር ልጆች አለቃ ኔታኔል የጾዓር ልጅ ነው።",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "እና የሚሸከሙት"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ነገዥ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "የይሳኮር"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "እና አለቃ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "የ… ልጆች"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ይሳኮር"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "ኔታኔል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ጾዓር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:04:58.241903585Z",
+  "model": "glm-5.3"
+}

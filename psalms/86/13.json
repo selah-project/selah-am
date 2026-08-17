@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 86,
+  "translation": "በምክንያትም ምሕረትህ በእኔ ላይ ታላቅ ነው፤ ነፍሴንም ከታችኛው ሴኦል አድነሃል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በምክንያትም"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ምሕረትህ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "አድነሃል፤"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "ከሴኦል"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "ከታችኛው"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:33.924982127Z",
+  "model": "glm-5.3"
+}

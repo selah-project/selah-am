@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "1-kings 20:11",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "የእስራኤል ንጉሡም መልሶ እንዲህ አለ፦ «ንገሩት፤ የሚታጠቅ እንደሚያፈታ አይመሰገን።»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መልሶ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ንገሩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "ይመሰገን"
+    },
+    {
+      "surface": "חגר",
+      "gloss": "የሚታጠቅ"
+    },
+    {
+      "surface": "כמפתח",
+      "gloss": "እንደሚያፈታ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:32:38.735432188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "በዚያ ጊዜ የያሮብዓም ልጅ አቢያ ታመመ።",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "በዚያ ጊዜ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ያ"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ታመመ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "አቢያ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "የያሮብዓም"
+    }
+  ],
+  "timestamp": "2026-08-16T06:27:23.499660968Z",
+  "model": "glm-5.3"
+}

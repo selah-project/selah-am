@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "የራሳችን አክሊል ወደቀ፤ እግዜ በኛ፣ ምክንያቱም አመፀን።",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "ወደቀ"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "አክሊል"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "የራሳችን"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "እግዜ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ና"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "በኛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "አመፀን"
+    }
+  ],
+  "timestamp": "2026-08-16T11:12:29.712793772Z",
+  "model": "glm-5.3"
+}

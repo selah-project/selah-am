@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ሳኦልም ⟨את⟩ መልእክተኞቹን ሊያይ ⟨את⟩ ዳዊትን ላከ ብሎ፦ «በመኝታው አምጡትልኝ ⟨את⟩እርሱን ወደ እኔ ሊገድለው»።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦልም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መልእክተኞቹን"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "መልእክተኞቹን"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ሊያይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊትን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብሎ"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "አምጡትልኝ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን በመኝታው"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "በመኝታው"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "ሊገድለው"
+    }
+  ],
+  "timestamp": "2026-08-16T05:43:51.587643796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ሀብት ብዙ ወዳጆችን ያበዛል፤ ድሆ ግን ከወዳጁ ይለያል።",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ሀብት"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ያበዛል"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ወዳጆችን"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "እና ድሆ"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "ከወዳጁ"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "ይለያል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:30:49.278550717Z",
+  "model": "glm-5.3"
+}

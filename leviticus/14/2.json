@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "leviticus 14:2",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ይህ ⟨የ⟩ ቸፈረኛው ሕግ ይሆናል፤ በእርሱ የመንጻት ቀን፣ እርሱ ወደ ⟨መካኑ⟩ ካህን ይቀሰቀሳል።",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ሕግ"
+    },
+    {
+      "surface": "המצרע",
+      "gloss": "ቸፈረኛው"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በእርሱ ቀን"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "የመንጻቱ"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "ይቀሰቀሳል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:51:32.247334406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "2-kings 4:19",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "አባቱንም አለ፦ «ራሴ፣ ራሴ!»፤ ለወጣቱም አለ፦ «አንሥተው ወደ እናቱ አምጣው።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "አባቱን"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ራሴ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ራሴ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ወጣቱ"
+    },
+    {
+      "surface": "שאהו",
+      "gloss": "አንሥተው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "እናቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:39:17.373095212Z",
+  "model": "glm-5.3"
+}

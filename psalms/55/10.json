@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 55,
+  "translation": "አዶናይ ሆይ፣ ውጥተህ ምላሳቸውን ከፋፋ፤ በከተማዋ ውስጥ ግፍና እርስ በርስ እምብዛት ስላየሁ ነው።",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "ውጥተህ አጠፋ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ከፋፋ"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ምላሳቸውን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስላየሁ ነው"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "አየሁ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ግፍ"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "እና እርስ በርስ እምብዛት"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "በከተማዋ ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:17.545504766Z",
+  "model": "glm-5.3"
+}

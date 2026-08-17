@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 44,
+  "translation": "አባታችንም እንዲህ አለ፣ ተመልሱ፣ ስንት በገዛ ስንት በገዛ አንድ ትንሽ ምግብ ለእኛ ያለ ስንት በገዛ እንበይን።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለም"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "አባታችንም"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ተመልሱ፣ እንበይን።"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ስንት በገዛ ስንት በገዛ ያለ እንበይን፣"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ትንሽ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ምግብ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:01:46.954189494Z",
+  "model": "glm-5.3"
+}

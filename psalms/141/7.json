@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 141,
+  "translation": "እንደ አራሽ እና እንደ አፈር ሰባሪ በምድር ውስጥ፣ አጥንቶቻችን በሾኦል አፍ ላይ ተበታተኑ።",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "አራሽ"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "እና አፈር ሰባሪ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር ውስጥ"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "ተበታተኑ"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "አጥንቶቻችን"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "በአፍ ላይ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሾኦል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:17:38.052402153Z",
+  "model": "glm-5.3"
+}

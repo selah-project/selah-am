@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እና ናንተ በማለታችሁ ⟨את⟩ እርሱን ታረክሱታላችሁ «የአዶናይ ማኅበር የተረከሰ ነው፣ እና ፍሬው የሚንቀጋቀስ ምግቡ ነው»።",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "እና ናንተ"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "ታረክሱታላችሁ"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን (ስሙን)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "በማለታችሁ"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "ማኅበር"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "የተረከሰ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ነው"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "እና ፍሬው"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "የሚንቀጋቀስ"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ምግቡ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:25:38.013204849Z",
+  "model": "glm-5.3"
+}

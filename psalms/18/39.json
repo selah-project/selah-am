@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "እመፈርሳቸዋለሁ እና ሊነሱ አይችሉም፤ እነሱ በእግሬ በታች ወድቀዋል።",
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "እመፈርሳቸዋለሁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "መቻል አይችሉም"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ሊነሱ"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ወድቀዋል"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በታች"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "እግሬ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:56.345190416Z",
+  "model": "glm-5.3"
+}

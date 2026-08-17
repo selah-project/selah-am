@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 52,
+  "translation": "የሚያጠላ ቃላት ሁሉን ወደድህ፤ የተንኮል ምላስ ሆይ።",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ወደድህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላትን"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "የሚያጠላ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ምላስ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "የተንኮል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:40.264562531Z",
+  "model": "glm-5.3"
+}

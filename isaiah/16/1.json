@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "የምድሪቱን አስተዳዳሪ አጋማሽ በግ ከሰላው ወደ ምድረ በዳ ወደ የሴት ልጅ ጽዮን ተራራ ላኩ።",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "ላኩ"
+    },
+    {
+      "surface": "כר",
+      "gloss": "አጋማሽ በግ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "አስተዳዳሪ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪቱን"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "ከሰላው"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "ወደ ምድረ በዳ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "የሴት ልጅ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:07:41.985258030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 26:8",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ኢርምያሁ ያህዌህ ወደ ሕዝቡ ሁሉ እንዲናገር የአዘዘውን ⟨את⟩ ሁሉን እስኪያልቅ በመናገሩ ላይ ካህናቱና ነቢያቱና ሕዝቡም ሁሉ «እርሱ ፈጽሞ ይሞታል» እያሉ ⟨את⟩ ያዙት፤ ነገር ነበር",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነገር ነበር"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "እስኪያልቅ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ኢርምያሁ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "በመናገር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የአዘዘውን"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "እንዲናገር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ויתפשו",
+      "gloss": "ያዙት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ እርሱን",
+      "marks": "ኢርምያሁን"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናቱ"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "እና ነቢያቱ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እያሉ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ፈጽሞ ይሞታል"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ይሞታል"
+    }
+  ],
+  "timestamp": "2026-08-16T17:10:38.540989668Z",
+  "model": "glm-5.3"
+}

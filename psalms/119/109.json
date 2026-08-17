@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ነፍሴ በእጄ እያለች በተመሳሳይ ⟨ናት⟩፣ እና በሕግህ ግን አልረሳሁም።",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "በእጄ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "በተመሳሳይ"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "እና በሕግህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ረሳሁም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:54.122164138Z",
+  "model": "glm-5.3"
+}

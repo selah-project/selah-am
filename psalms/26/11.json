@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "እኔ ግን በትክክለኝነቴ እሄዳለሁ፤ አድነኝ፣ አዘንብልኝም።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "በትክክለኝነቴ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "እሄዳለሁ"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "አድነኝ"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "እና አዘንብልኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:32.220259749Z",
+  "model": "glm-5.3"
+}

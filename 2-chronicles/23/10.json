@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ሕዝቡንም ሁሉ ⟨את⟩ አቆመ፤ እያንዳንዱም ሰው መሣሪያውን በእጁ ይዞ ከቤቱ ቀኝ ጎን እስከ ቤቱ ግራ ጎን ቈጥሮ በመሠዊያውም በቤቱም ላይ ንጉሡን በዙሪያው አቆመ።",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "አቆመ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "እያንዳንዱም ሰው"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "መሣሪያውን"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "በእጁ"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "ከጎን"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ቀኝ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "ጎን"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ግራ"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "በመሠዊያው"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "በቤቱም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡን"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "በዙሪያው"
+    }
+  ],
+  "timestamp": "2026-08-16T14:06:10.854173574Z",
+  "model": "glm-5.3"
+}

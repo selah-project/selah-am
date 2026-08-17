@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 5:14",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "እኔም አንተን ምድረ በዳ እና ንቀት በአንተ ዙሪያ ባሉት በአሕዛብ ዘንድ በሚያልፉ ሁሉ ዐይን ፊት እሰጥሃለሁ።",
+  "tokens": [
+    {
+      "surface": "ואתנך",
+      "gloss": "እሰጥሃለሁ"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "ምድረ በዳ"
+    },
+    {
+      "surface": "ולחרפה",
+      "gloss": "እና ንቀት"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "በአሕዛብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "በአንተ ዙሪያ ባሉት"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "በዐይን ፊት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "ሚያልፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T17:48:16.857031011Z",
+  "model": "glm-5.3"
+}

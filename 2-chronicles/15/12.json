@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "የአባታቶቻቸውን አምላክ ያህዌህን ⟨את⟩ በሙሉ ልባቸው እና በሙሉ ነፍሳቸው ለመፈለግ ውል ገቡ።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ገቡ"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "ውል"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "ለመፈለግ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "አምላክ"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "የአባታቶቻቸውን"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሙሉ"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "ልባቸው"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "እና በሙሉ"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ነፍሳቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T13:44:20.434311331Z",
+  "model": "glm-5.3"
+}

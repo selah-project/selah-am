@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 52,
+  "translation": "ያህዌህ ቅዱስ እጁን ⟨את⟩ የሁሉም አሕዛብ ፊት ገለጠ፤ የምድር ዳርቻዎችም ሁሉ የኤሎሂም መዳንን ⟨את⟩ ያያሉ።",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "ገለጠ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅዱስ እጁን"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "እጁን"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ያያሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ዳርቻዎች"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የኤሎሂም መዳንን"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "መዳንን"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "የኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:26:07.166715992Z",
+  "model": "glm-5.3"
+}

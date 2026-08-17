@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "አብርሃምም ሰባቱን ⟨את⟩ የበጎች አጋማሽ ብቻውን አስቀመጠ።",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "አስቀመጠ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰባቱን አጋማሽ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "አጋማሽ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "የበጎች"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "ብቻውን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:40:20.204686534Z",
+  "model": "glm-5.3"
+}

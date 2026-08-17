@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 49,
+  "translation": "ምክንያቱም ጥበበኞች ይሞታሉ፤ ሞኞችና ስንፍና ያለባቸው አብረው ይጠፋሉ፤ ሀብታቸውንም ለሌሎች ይተወዋል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ያያል"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ጥበበኞች"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "ይሞታሉ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "አብረው"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ሞኞችና"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "ስንፍና ያለባቸው"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ይጠፋሉ"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "ይተወዋል"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "ለሌሎች"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ሀብታቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T18:12:37.025950634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "1-chronicles 6:31",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የአምሲ ልጅ፣ የባኒ ልጅ፣ የሸመር ልጅ።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "የ…ልጅ"
+    },
+    {
+      "surface": "אמצי",
+      "gloss": "አምሲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ…ልጅ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ባኒ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ…ልጅ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ሸመር"
+    }
+  ],
+  "timestamp": "2026-08-16T12:39:38.892815703Z",
+  "model": "glm-5.3"
+}

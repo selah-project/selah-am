@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "2-samuel 22:2",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "እንዲህም አለ፦ ያህዌህ ⟨ሰይፍ የሌለው⟩ ውጤ የሆነ ሐሙሴ ነው፤ የመከላከዬ ምሽግ ነው፤ አዳኚዬ ነው፤",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህም አለ፦"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "ሐሙሴ የሆነ"
+    },
+    {
+      "surface": "ומצדתי",
+      "gloss": "የመከላከዬ ምሽግ"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "አዳኚዬ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:09:09.193944467Z",
+  "model": "glm-5.3"
+}

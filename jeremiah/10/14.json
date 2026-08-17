@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "jeremiah 10:14",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ሁሉም ሰው በዕውቀቱ አሳሳታዊ ሆኗል፤ ሁሉም ቀሪጻ ከቅርጽ ምስል ያፈራል፤ እንደ ተቀረጸው ምስል ውሸት ነውና፤ በእነሱም ውስጥ እስትንፋስ የለም።",
+  "tokens": [
+    {
+      "surface": "נבער",
+      "gloss": "አሳሳታዊ ሆኗል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "מדעת",
+      "gloss": "በዕውቀቱ"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "ያፈራል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "צורף",
+      "gloss": "ቀሪጻ"
+    },
+    {
+      "surface": "מפסל",
+      "gloss": "ከቅርጽ ምስል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ውሸት"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "ተቀረጸው"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "እስትንፋስ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በእነሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:43:36.070558059Z",
+  "model": "glm-5.3"
+}

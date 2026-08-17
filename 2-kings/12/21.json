@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "አገልጋዮቹም ተነሡ፤ ሴራ ሰሩ፤ ዮአስንም በሲላ ወደሚወርድ በሆነው ቤት ሚሎ ⟨את⟩ ዮአስን ደበደቡት።",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ተነሡ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "አገልጋዮቹ"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "ሴራ ሰሩ"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "ሴራ"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ደበደቡት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮአስን"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ዮአስ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ሚሎ"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "ወደሚወርድ"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "ሲላ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:45:11.501452470Z",
+  "model": "glm-5.3"
+}

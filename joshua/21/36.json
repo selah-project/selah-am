@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "ከሮቤን ነገድም ⟨את⟩ ቤጸርን ከአጎራባዋ መሬት ጋር፣ ⟨את⟩ ያሕስን ከአጎራባዋ መሬት ጋር።",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ከነገድም"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ሮቤን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤጸርን"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ቤጸርን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ከ... ጋር ⟨את⟩",
+      "marks": "አጎራባዋ መሬት"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "አጎራባዋ መሬት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ያሕስን"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "ያሕስን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ከ... ጋር ⟨את⟩",
+      "marks": "አጎራባዋ መሬት"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "አጎራባዋ መሬት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:10:39.145317818Z",
+  "model": "glm-5.3"
+}

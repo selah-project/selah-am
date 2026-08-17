@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.3",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "ወንዶቻቸውን ⟨את⟩ እና ሴቶቻቸውን ⟨את⟩ ለሻዲም አሉቀሱ።",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "አሉቀሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንዶቻቸውን"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ወንዶቻቸውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሴቶቻቸውን"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ሴቶቻቸውን"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "ለሻዲም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:03.750014740Z",
+  "model": "glm-5.3"
+}

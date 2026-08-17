@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "1-chronicles 23:25",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "እንደ ተናገረው ዳዊት፣ ያህዌህ የእስራኤል ኤሎሂም ለሕዝቡ እረፍት ሰጠ፤ እርሱም በኢየሩሳሌም ይኖራል እስከ ዘላለም ድረስ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንደ ተናገረው"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ተናገረ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "እረፍት ሰጠ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም የ…"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ለሕዝቡ"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "ይኖራል"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "በኢየሩሳሌም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ…ድረስ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T13:13:38.109878567Z",
+  "model": "glm-5.3"
+}

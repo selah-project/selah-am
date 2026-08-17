@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 66,
+  "translation": "መላው ምድር ለአንተ ይሰግዳል፣ ለአንተ ይዘምራል፤ ስምህን ይዘምራል። ሴላ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "መላው"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "ይሰግዳል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "ይዘምራል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ይዘምራል"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህን"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:13.720285381Z",
+  "model": "glm-5.3"
+}

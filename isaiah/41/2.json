@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "isaiah 41:2",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "ማን ከምሥራቅ አስነሳ፣ ጽድቅን ወደ እግሩ ጠራው? አሕዛብን በፊቱ አሳልፎ ሰጠ፣ እና ነገሥታትን አስገዛ፤ ሰይፉን እንደ አፈር፣ ቀስቱን እንደ ተንፈሳፊ አጭብ አደረገ።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "አስነሳ"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ከምሥራቅ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቅን"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "ጠራው"
+    },
+    {
+      "surface": "לרגלו",
+      "gloss": "ወደ እግሩ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ሰጠ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "በፊቱ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "አሕዛብን"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "እና ነገሥታትን"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "አስገዛ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "አደረገ"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "እንደ አፈር"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ሰይፉን"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "እንደ አጭብ"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "ተንፈሳፊ"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "ቀስቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:19:39.396565257Z",
+  "model": "glm-5.3"
+}

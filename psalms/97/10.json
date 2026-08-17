@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 97,
+  "translation": "ያህዌህን የሚወዱት ክፉን ተጥሉ፤ የቅዱሳኑን ነፍሳት የሚጠብቅ ከክፉዎች እጅ ያድናቸዋል።",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "የሚወዱት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "ተጥሉ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉን"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "የሚጠብቅ"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "ነፍሳት"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "የቅዱሳኑን"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ከእጅ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉዎች"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "ያድናቸዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:06.663884127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "በአንተ እጅ መንፈሴን አሳልፋለሁ፤ ያህዌህ ሆይ፣ የእውነት ኤል ሆይ፣ ⟨את⟩ አድነኸኛል።",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "በአንተ እጅ"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "አሳልፋለሁ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "መንፈሴን"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "አድነኸኛል"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "የእውነት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:37:12.287161745Z",
+  "model": "glm-5.3"
+}

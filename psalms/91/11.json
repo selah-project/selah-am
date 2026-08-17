@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 91,
+  "translation": "ምክንያቱም መልአኮቹን ስለ አንተ ያዝዛል፤ በመንገዶችህ ሁሉ እንድጠብቅህ (ሎም)።",
+  "tokens": [
+    {
+      "surface": "ᛴי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "መልአኮቹን"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "ያዝዛል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ስለ አንተ"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "እንድጠብቅህ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "በሁሉ"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "መንገዶችህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:16.125937074Z",
+  "model": "glm-5.3"
+}

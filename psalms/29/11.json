@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "ያህዌህ ለሕዝቡ ኃይል ይሰጣል፤ ያህዌህ ⟨את⟩ ሕዝቡን በሰላም ይባርካል።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ኃይል"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ለሕዝቡ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይሰጣል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ይባርካል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "በሰላም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:20.404608801Z",
+  "model": "glm-5.3"
+}

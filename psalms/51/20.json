@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "በፈቃድህ ⟨את⟩ ጽዮንን በለመናት ታደርጋታለህ፤ የየሩሳሌምን ግንቦች ታነሳለህ።",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "በለመናት ታደርጋታለህ"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "በፈቃድህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጽዮንን"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮንን"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ታነሳለህ"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "ግንቦችን"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የየሩሳሌምን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:45:50.723400019Z",
+  "model": "glm-5.3"
+}

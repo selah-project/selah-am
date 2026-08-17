@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ሴቷም አረገዘች፤ ወንድ ልጅም ወለደች፤ መልካም እንደሆነ ⟨את⟩ ካየችው፣ ሦስት ወራት ሰወረችው።",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "አረገዘች"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሴቷ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወንድ ልጅ"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "ካየች"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደሆነ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "ሰወረችው"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "ወራት"
+    }
+  ],
+  "timestamp": "2026-08-16T03:06:46.066917441Z",
+  "model": "glm-5.3"
+}

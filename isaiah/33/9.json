@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "አዘነች፣ ደነገገች ⟨ה⟩ምድር፤ ተፈራ፤ ደከመ ለባኖን፤ ሆነ ⟨ה⟩ሳሮን እንደ ⟨ה⟩ድረበረታ፣ እና ተነቀለ ባሳን እና ካርሚል።",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "አዘነች"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "ደነገገች"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "ተፈራ"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ለባኖን"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "ደከመ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "ሳሮን"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "እንደ ድረበረታ"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "እና ተነቀለ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ባሳን"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "እና ካርሚል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:12:26.083722828Z",
+  "model": "glm-5.3"
+}

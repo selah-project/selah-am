@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "በአንድነት ሁሉም የሚጠሉኝ ስለ እኔ ያምጣሉ፤ ስለ እኔ ክፉ ነገር ያስባሉ።",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "በአንድነት"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ስለ እኔ"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "ያምጣሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "የሚጠሉኝ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ስለ እኔ"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ያስባሉ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ ነገር"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ስለ እኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:42.392478755Z",
+  "model": "glm-5.3"
+}

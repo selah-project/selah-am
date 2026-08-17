@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 136,
+  "translation": "ለያህዌህ ምስጋና አቅርቡ፤ ምክንያቱም ⟨እርሱ⟩ መልካም ነው፤ ምክንያቱም ለዘላለም ምሕረቱ ⟨ይኖራል⟩።",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "ምስጋና አቅርቡ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም ነው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ምሕረቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:22.886925156Z",
+  "model": "glm-5.3"
+}

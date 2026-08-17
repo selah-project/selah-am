@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "በሰይፍ ትወድቃላችሁ፤ በእስራኤል ድንበር ላይ እፈርዳችኋለሁ፤ እናንተን ⟨את⟩፤ እናንተም ታውቃላችሁ ያህዌህ እኔ መሆኔን።",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "በሰይፍ"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "ትወድቃላችሁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ድንበር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "እፈርዳለሁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "እናንተን"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "እናንተም ታውቃላችሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደሆነ\/…ን"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:22:46.328436700Z",
+  "model": "glm-5.3"
+}

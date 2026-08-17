@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "አንተ የባሕሩን መደመቅ ታስተዳድራለህ፤ ማዕበሎቹ በሚነሱበት አንተ ታስቀምጣቸዋለህ።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ታስተዳድራለህ"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "መደመቅን"
+    },
+    {
+      "surface": "הים",
+      "gloss": "የባሕሩን"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "በሚነሱበት"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "ማዕበሎቹ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "ታስቀምጣቸዋለህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:16.503921770Z",
+  "model": "glm-5.3"
+}

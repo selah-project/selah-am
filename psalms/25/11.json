@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "ስለ ስምህ ያህዌህ ሆይ፣ በደሌን ይቅር በለልኝ፤ በጣም ብዙ ⟨הוא⟩ ነውና።",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "ይቅር በለልኝ"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "በደሌን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነውና"
+    },
+    {
+      "surface": "רב",
+      "gloss": "በጣም ብዙ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨הוא⟩"
+    }
+  ],
+  "timestamp": "2026-08-16T09:35:42.192988572Z",
+  "model": "glm-5.3"
+}

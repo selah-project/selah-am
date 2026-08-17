@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "jeremiah 6:5",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ተነሱ፣ በምሽት እንወጣ፣ ቤተ መንግሥታትዋንም እናጠፋት።",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "ተነሱ"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "እንወጣ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "በምሽት"
+    },
+    {
+      "surface": "ונשחיתה",
+      "gloss": "እናጠፋት"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "ቤተ መንግሥታትዋን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:38:17.732602713Z",
+  "model": "glm-5.3"
+}

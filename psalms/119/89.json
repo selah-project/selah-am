@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ለዘላለም ያህዌህ ቃልህ በሰማያት ተቆምቷል።",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ቃልህ"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ተቆምቷል"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "በሰማያት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:59.140110047Z",
+  "model": "glm-5.3"
+}

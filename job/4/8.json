@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "job 4:8",
+  "book": "job",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እንደ አየሁት፣ አመክንዮን የሚረሱ እና መከራን የሚዘሩ እሱን ይከልካሉ።",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "አየሁት"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "የሚረሱ"
+    },
+    {
+      "surface": "און",
+      "gloss": "አመክንዮን"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "እና የሚዘሩ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "መከራን"
+    },
+    {
+      "surface": "יקצרהו",
+      "gloss": "እሱን ይከልካሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:39:14.263146674Z",
+  "model": "glm-5.3"
+}

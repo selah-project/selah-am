@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "በጎሴን ምድር ብቻ — የእስራኤል ልጆች የነበሩበት — በረዶ አልነበረም።",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "ጎሴን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የነበሩበት"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበረ"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "በረዶ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:11:09.296580638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እና ⟨את⟩ ፓትሩሲሞችን፣ ⟨את⟩ ካስሉሂሞችን — ከእነርሱም ፍልስጤሞች ወጡ — እና ⟨את⟩ ከፍጦራውያንን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ፓትሩሲሞችን"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "ፓትሩሲሞችን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ካስሉሂሞችን"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "ካስሉሂሞችን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ወጡ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ከእነርሱም"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤሞች"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ከፍጦራውያንን"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "ከፍጦራውያንን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:34:30.347112748Z",
+  "model": "glm-5.3"
+}

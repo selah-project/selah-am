@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የከሃዲ ሰው፣ የክፉ ሰው፣ በጠማዛ አፍ የሚሄድ ነው፤",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "የከሃዲ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "און",
+      "gloss": "የክፉ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "የሚሄድ"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "ጠማዛ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "አፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:22:55.262922862Z",
+  "model": "glm-5.3"
+}

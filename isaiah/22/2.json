@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "isaiah 22:2",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "የሚያሞቁ ድምፆች በዝተዋል፤ እየደማች ያለች ከተማ፣ ደስተኛ ከተማ፤ የተጎዱትሽ በሰይፍ የተጎዱ አይደሉም፣ በውጊያም የሞቱ አይደሉም።",
+  "tokens": [
+    {
+      "surface": "תשאות",
+      "gloss": "የሚያሞቁ ድምፆች"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "በዝተዋል"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "הומיה",
+      "gloss": "እየደማች ያለች"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "ደስተኛ"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "የተጎዱትሽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደሉም"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "የተጎዱ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "በሰይፍ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንዲሁም አይደሉም"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "የሞቱ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "በውጊያ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:08:05.870438281Z",
+  "model": "glm-5.3"
+}

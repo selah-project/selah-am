@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "ወንጅሆቹን አሰባቸው፣ በዳዊት ሲገድላቸው ⟨את⟩ ወፍጮኞች አለቃ ሆነ፤ ወደ ደማስቆ ሄዱ፣ በዚያ ኖሩ፣ በደማስቆም ነገሡ።",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "አሰባቸው"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ወንጅሆችን"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "ወፍጮኞች"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "ሲገድላቸው"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "በዳዊት"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ወንጅሆችን"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ሄዱ"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ወደ ደማስቆ"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ኖሩ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ነገሡ"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "በደማስቆ"
+    }
+  ],
+  "timestamp": "2026-08-17T07:29:20.413748425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "የንጉሡ ቃል በዮአብ እና በሠራዊቱ አለቆች ላይ ጎርፏል፤ ዮአብም እና የሠራዊቱ አለቆች ሕዝቡን ⟨את⟩ እስራኤልንም ⟨את⟩ ለመቁጠር ከንጉሡ ፊት ወጡ።",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ጎርፏል"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "የንጉሡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "አለቆች"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "የሠራዊቱ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ወጡ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮአብ"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "እና አለቆች"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "የሠራዊቱ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ከፊት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "ለመቁጠር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    }
+  ],
+  "timestamp": "2026-08-16T19:44:53.794719331Z",
+  "model": "glm-5.3"
+}

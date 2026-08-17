@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ሁሉም እንደ ምድጃ ተሞቱ፤ ⟨את⟩ ፈራጆቻቸውንም በሉ፤ ነገሮቻቸውም ሁሉ ወደቁ፤ በእነርሱ ዘንድ ወደ እኔ የሚጣራ የለም።",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "ተሞቱ"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "እንደ ምድጃ"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "በሉም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፈራጆቻቸውን"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "ፈራጆቻቸውን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ነገሮቻቸውም ሁሉ"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "ነገሥታታቸው"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ወደቁ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "የሚጣራ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "በእነርሱ ዘንድ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:59:07.023860602Z",
+  "model": "glm-5.3"
+}

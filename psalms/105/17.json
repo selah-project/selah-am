@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "ከፊታቸው አንድ ሰው ላከ፤ ለባሪያ ሆኖ ዮሴፍ ተሸጠ።",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ከፊታቸው"
+    },
+    {
+      "surface": "איש",
+      "gloss": "አንድ ሰው"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ለባሪያ"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "ተሸጠ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:33.939428537Z",
+  "model": "glm-5.3"
+}

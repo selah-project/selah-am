@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 88,
+  "translation": "የሚታወቁትን ሰዎች ከእኔ አርቀህ ስለምን አሳደድኸኝ፤ ዝቅተኛ የቆለምኩ ሆኜ ልውጣም አይደለም።",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "አርቀህ"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "የሚታወቁትን ሰዎች"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "አደረግኸኝ"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "ጥላት\/የተጠላ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ለእነርሱ"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "ተቆለምኩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አይደለም"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ልውጣ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:04.729681668Z",
+  "model": "glm-5.3"
+}

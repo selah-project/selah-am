@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "ሦስት ጊዜ አልጻፍሁልህም እንዴ በምክሮችና በእውቀት?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "አል…ም እንዴ"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "ጻፍሁልህ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ሦስት ጊዜ\/ሦስት እጥፍ"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "በምክሮች"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "እና በእውቀት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:32:10.009029988Z",
+  "model": "glm-5.3"
+}

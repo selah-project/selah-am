@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "የኤሎሂም መልአኩም እንዲህ አለው፦ ⟨את⟩ ሥጋውን እና ⟨את⟩ ያለሦሙቱን ውሰደህ በዚህ ዐለት ላይ አስቀምጥ፥ ⟨את⟩ ሾሩንም አፍስሰው። እርሱም እንደዚያ አደረገ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እንዲህ አለም"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "መልአክ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የኤሎሂም"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ውሰድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሥጋውን"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ሥጋውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ያለሦሙቱን"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ያለሦሙቱን"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "አስቀምጥም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "በ"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "ዐለቱ"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "ዚህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ሾሩን"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "ሾሩን"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "አፍስስ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "አደረገም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚያ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:24:32.831293113Z",
+  "model": "glm-5.3"
+}

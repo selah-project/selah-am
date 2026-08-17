@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ክፉ ነገር ከፀሐይ በታች እንደሚወጣ ስህተት ከአለቃ ፊት አይቻለሁ።",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ ነገር"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "አይቻለሁ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በታች"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ከፀሐይ"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "እንደሚወጣ ስህተት"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "የሚወጣ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ከፊት"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "ከአለቃ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:16:38.011756183Z",
+  "model": "glm-5.3"
+}

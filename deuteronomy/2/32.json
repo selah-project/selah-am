@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ወጣ ሲኾን ወደ እኛ ወደ መጋፈጥ እርሱ እና ሕዝቡ ሁሉ ወደ ጦርነት በያሕሥ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "ሲኾን"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "ወደ እኛ ወደ መጋፈጥ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ወደ ጦርነት"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "በያሕሥ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:34:07.961204694Z",
+  "model": "glm-5.3"
+}

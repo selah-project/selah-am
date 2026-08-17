@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "isaiah 40:15",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "እነሆ አሕዛብ እንደ የባድ ጠብታ ናቸው፤ እንደ የሚዛን ስስት ተቆጠሩ፤ እነሆ ደሴቶችን እንደ ትንሽ ዱቄት ያነሳል።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "כמר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "מדלי",
+      "gloss": "ጠብታ የባድ"
+    },
+    {
+      "surface": "וכשחק",
+      "gloss": "እንደ ስስት"
+    },
+    {
+      "surface": "מאזנים",
+      "gloss": "ሚዛን"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "ተቆጠሩ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "እነሆ"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ደሴቶችን"
+    },
+    {
+      "surface": "כדק",
+      "gloss": "እንደ ትንሽ ዱቄት"
+    },
+    {
+      "surface": "יטול",
+      "gloss": "ያነሳል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:21:06.093391935Z",
+  "model": "glm-5.3"
+}

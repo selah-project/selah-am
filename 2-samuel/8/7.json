@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ዳዊትም ⟨את⟩ የወርቅ ጋሻዎቹን ከሐዳድዕዘር አገልጋዮች ዘንድ የነበሩትን ወሰደ፤ ወደ ኢየሩሳሌምም አመጣቸው።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊትም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የወርቅ ጋሻዎችን"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "ጋሻዎችን"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "የወርቅ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የነበሩትን"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ነበሩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ዘንድ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "አገልጋዮች"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ሐዳድዕዘር"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "አመጣቸው"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ወደ ኢየሩሳሌምም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:57:43.194492913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "በዚያም ቀን እንዲህ ብሎ ይመልሳል፦ አስተካካቂ አይደለሁም፤ በቤቴም ዳቦ የለም ልብስም የለም፤ ሕዝብ መሪ አትደርጉኝም።",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "ይመልሳል"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "በቀን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ዚያም"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለሁም"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "አልሆንም"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "አስተካካቂ"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "በቤቴም"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለምም"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "ልብስ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "ትደርጉኝም"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "መሪ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝብ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:58:17.391060931Z",
+  "model": "glm-5.3"
+}

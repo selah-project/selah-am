@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "genesis 19:4",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "እነርሱ ከተኛት ከመቅደላቸው በፊት፣ የከተማዋ ሰዎች — የሰዶም ሰዎች — ቤቱን አንበበው፤ ከሕፃንም እስከ አዋቂ ሁሉ ሕዝቡ ከዳር እስከ ዳር።",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "ከ... በፊት"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "ከተኛት ከመቅደላቸው"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "የ... ሰዎች"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማዋ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "የ... ሰዎች"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "ሰዶም"
+    },
+    {
+      "surface": "נסבו",
+      "gloss": "አንበበው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ ሆነው የደረሱት የቤቱን"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤቱን"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "ከሕፃን"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "አዋቂ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ከዳር እስከ ዳር"
+    }
+  ],
+  "timestamp": "2026-08-16T02:40:03.031971348Z",
+  "model": "glm-5.3"
+}

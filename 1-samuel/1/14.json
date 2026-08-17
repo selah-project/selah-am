@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ኤሊም እንዲህ አላት፦ እስከ መቼ ትሰክራለህ? የወይኑን ⟨את⟩ ከእራስህ አስወግድ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "እንዲህ አላት፦"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኤሊም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "መቼ"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "ትሰክራለህ?"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "አስወግድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የወይኑን"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "የወይኑን"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "ከእራስህ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:30:51.314685157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እርሱም ከዚያ ወደ ከረምል ተራራ ሄደ፣ ከዚያም ወደ ሰማርያ ተመለሰ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ሄደ፣"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ከዚያ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "ከረምል"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ከዚያም"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ተመለሰ፣"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ወደ ሰማርያ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:34:17.014112380Z",
+  "model": "glm-5.3"
+}

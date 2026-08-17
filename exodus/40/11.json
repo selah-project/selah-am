@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ማጠቢያውን ⟨את⟩ እና እግሩን ⟨את⟩ ትቀብዳለህ፣ እና እሱን ⟨את⟩ ታቀድሳለህ።",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ትቀብዳለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማጠቢያውን"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ማጠቢያውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እግሩን"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "እግሩን"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ታቀድሳለህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:40:22.065747044Z",
+  "model": "glm-5.3"
+}

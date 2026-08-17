@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 33,
+  "ref": "exodus 12:33",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ግብፃውያን በሕዝቡ ላይ ጠመቁ፣ ከምድሩ በቶሎ እንዲያሰድዷቸው፤ ምክንያቱም ኩላችን ሞተናል አሉና።",
+  "tokens": [
+    {
+      "surface": "ותחזק",
+      "gloss": "ጠመቁ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ግብፃውያን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "በቶሎ"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "እንዲያሰድዷቸው"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "አሉ"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "ኩላችን"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "ሞተናል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:14:48.241339509Z",
+  "model": "glm-5.3"
+}

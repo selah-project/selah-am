@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "job 3:23",
+  "book": "job",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ለወንድም የተሰወረው መንገዱ አለው፤ እና ኤሎሃ በዙሪያው አጥሯል።",
+  "tokens": [
+    {
+      "surface": "לגבר",
+      "gloss": "ለወንድም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "መንገዱ"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "ተሰውሯል"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "እና አጥሯል"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ኤሎሃ"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "በዙሪያው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:39:15.328155585Z",
+  "model": "glm-5.3"
+}

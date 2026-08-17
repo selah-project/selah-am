@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "የጌባዖን ነዋሪዎችም ያሁሴ ⟨את⟩ ለኤሪኮ እና ለዓይ ያደረገውን ሰሙ።",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "ነዋሪዎችም"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ጌባዖን"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ሰሙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያደረገውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያደረገውን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ያደረገው"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ያሁሴ"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "ለኤሪኮ"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "እና ለዓይ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:03:24.995288124Z",
+  "model": "glm-5.3"
+}

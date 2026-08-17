@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "micah 7:16",
+  "book": "micah",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "አሕዛብ ያያሉና ከሁሉም ኃይላቸው ይዋረዳሉ፤ እጃቸውን በአፋቸው ላይ ያኖራሉ፤ ጆሮዎቻቸውም ይሰኛሉ።",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "ያያሉ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ይዋረዳሉም"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉም"
+    },
+    {
+      "surface": "גבורתם",
+      "gloss": "ኃይላቸው"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "ያኖራሉ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "እጃቸውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "አፋቸው"
+    },
+    {
+      "surface": "אזניהם",
+      "gloss": "ጆሮዎቻቸውም"
+    },
+    {
+      "surface": "תחרשנה",
+      "gloss": "ይሰኛሉ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:13:51.673506658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 132,
+  "translation": "ለዓይኖቼ እንቅልፍ፣ ለቅንዓቶቼ አንቀላፋት ከሰጠሁ —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ከሰጠሁ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "እንቅልፍ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ለዓይኖቼ"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "ለቅንዓቶቼ"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "አንቀላፋት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:15:00.062703110Z",
+  "model": "glm-5.3"
+}

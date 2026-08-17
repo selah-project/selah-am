@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ሞሼም ከተራራው ወደ ሕዝቡ ወረደ፤ ሕዝቡንም ቀደሰ፤ እነሱም ልብሳቸውን ታጠቡ።",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ወረደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ተራራው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ቀደሰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "ታጠቡ"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "ልብሳቸውን"
+    }
+  ],
+  "timestamp": "2026-08-16T03:18:27.723445084Z",
+  "model": "glm-5.3"
+}

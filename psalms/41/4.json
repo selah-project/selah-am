@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "ያህዌህ በሽመድ ላይ ይደግፈዋል፤ መኝታውን በሙሉ በሕመሙ መቀየርህን።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "ይደግፈዋል፤"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "በሽመድ ላይ"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "የደከመ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "አንድም ሆኖ በሙሉ"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "መኝታውን"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "መቀየርህን፤"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "በሕመሙ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:41:34.983517017Z",
+  "model": "glm-5.3"
+}

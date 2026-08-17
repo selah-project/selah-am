@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "ጠላቶቼን እመሳድዳለሁ እና እመገኛቸዋለሁ፤ እነሱም ሲጨርሱ አልመለስም።",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "እመሳድዳለሁ"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ጠላቶቼን"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "እና እመገኛቸዋለሁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "እመለስም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "ሲጨርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:32:56.345061434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እናንተም ወደ አሞራውያን ተራራ እስከደረሳችሁ እንጂ ያህዌህ ኤሎሂም ለእኛ የሚሰጠን ያንን አልቀረውም አለኋቸው።",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "አለኋቸውም"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "እናንተም ወደ"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "እስከደረሳችሁ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "የአሞራውያን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያንን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "የሚሰጠን"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለእኛ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:33:30.275391437Z",
+  "model": "glm-5.3"
+}

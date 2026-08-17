@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "exodus 25:19",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "እና አንድ ክሩብ ከዚህ ጫፍ ታደርጋለህ፤ እና አንድ ክሩብ ከዚያ ጫፍ፤ ከማክአያው ⟨את⟩ ክሩቤሞቹን በሁለቱ ጫፎቹ ላይ ታደርጋላችኋል።",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ታደርግ"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "ክሩብ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ከጫፍ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ከዚህ"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "እና ክሩብ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ከጫፍ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ከዚያ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ማክአያው"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ታደርጋላችኋል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክሩቤሞቹን"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ክሩቤሞቹን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ... ላይ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለቱ"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "ጫፎቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:26:00.946153599Z",
+  "model": "glm-5.3"
+}

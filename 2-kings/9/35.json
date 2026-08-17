@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "2-kings 9:35",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እነርሱም ለመቅበሯት ሄዱ፤ በእርሷም ማንኛውንም አልአገኙም፣ ከጭንቅላቷ፣ ከእግሮቿ እና ከእጆቿ እግር ከሌላ በስተቀር።",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ሄዱ"
+    },
+    {
+      "surface": "לקברה",
+      "gloss": "ለመቅበሯት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "አገኙም"
+    },
+    {
+      "surface": "בה",
+      "gloss": "በእርሷ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "በስተቀር"
+    },
+    {
+      "surface": "הגלגלת",
+      "gloss": "ጭንቅላቷ"
+    },
+    {
+      "surface": "והרגלים",
+      "gloss": "እና ከእግሮቿ"
+    },
+    {
+      "surface": "וכפות",
+      "gloss": "እና ከእጆቿ እግር"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "እጆቿ እግር"
+    }
+  ],
+  "timestamp": "2026-08-16T06:41:45.281156706Z",
+  "model": "glm-5.3"
+}

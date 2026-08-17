@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 31:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 31,
+  "translation": "ፊትህን በአገልጋይህ ላይ አብራህ፤ በምሕረትህ አድነኝ።",
+  "tokens": [
+    {
+      "surface": "האירה",
+      "gloss": "አብራህ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህን"
+    },
+    {
+      "surface": "על",
+      "gloss": "በላይ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "በአገልጋይህ"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "አድነኝ"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "በምሕረትህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:36:22.655011595Z",
+  "model": "glm-5.3"
+}

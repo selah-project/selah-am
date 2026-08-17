@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "ከአለቆቹና ከጀግኖቹ ጋር ከከተማዋ ውጭ ያሉትን የፈሳሾች ውሃ ለመዝጋት አማከረ፤ እነሱም ረዱት።",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "አማከረ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ... ጋር"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "አለቆቹ"
+    },
+    {
+      "surface": "וגבריו",
+      "gloss": "እና ጀግኖቹ"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "ለመዝጋት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የፈሳሾች ውሃ"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "የፈሳሾች"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያሉትን"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ከውጭ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ከከተማዋ"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "ረዱት"
+    }
+  ],
+  "timestamp": "2026-08-16T18:55:38.301780787Z",
+  "model": "glm-5.3"
+}

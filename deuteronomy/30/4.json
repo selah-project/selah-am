@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "deuteronomy 30:4",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "በሰማያት ዳር እንኳ ቢጣለህ፣ ከዚያ ያህዌህ አምላኜ ያሰባሰብሃል፣ ከዚያም ይወስድሃል።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንኳ ቢ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ቢሆን"
+    },
+    {
+      "surface": "נדחך",
+      "gloss": "ቢጣለህ"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "በዳር"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "የሰማያት"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ከዚያ"
+    },
+    {
+      "surface": "יקבצך",
+      "gloss": "ያሰባሰብሃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "አምላኜ"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ከዚያም"
+    },
+    {
+      "surface": "יקחך",
+      "gloss": "ይወስድሃል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:54:30.359117548Z",
+  "model": "glm-5.3"
+}

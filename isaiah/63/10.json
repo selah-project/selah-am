@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 63:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 63,
+  "translation": "እነርሱ ግን አመጹ እና ⟨את⟩ የቅዱሱን መንፈሱ አሳዘኑ፤ እርሱም ለእነርሱ ጠላት ሆኖ ተገለበጠ፤ እርሱ ራሱ ተዋጋቸው።",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "እነርሱ ግን"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "አመጹ"
+    },
+    {
+      "surface": "ועצבו",
+      "gloss": "እና አሳዘኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የቅዱሱን መንፈሱን"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "የቅዱሱ"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "ተገለበጠ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ለእነርሱ"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "ጠላት ሆኖ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ ራሱ"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ተዋጋ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ከእነርሱ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-16T17:02:38.244764380Z",
+  "model": "glm-5.3"
+}

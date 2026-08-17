@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 12:31",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ለያህዌህ አምላክህ እንዲህ አታደርግም፤ ያህዌህ የሚጠላው መጥፎ ነገር ሁሉ ለአማልክታቸው አድርገዋልና፤ እነርሱም ⟨את⟩ ወንዶቻቸውንና ⟨את⟩ ሴት ልጆቻቸውን ለአማልክታቸው በእሳት ያቃጥላሉና።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አታደርግም"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "አታደርግም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "አምላክህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "መጥፎ ነገር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "የሚጠላው"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "አድርገዋል"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "ለአማልክታቸው"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እነርሱም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንዶቻቸውን"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ወንዶቻቸውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሴት ልጆቻቸውን"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "ሴት ልጆቻቸውን"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "ያቃጥላሉ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በእሳት"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "ለአማልክታቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T15:03:55.990539528Z",
+  "model": "glm-5.3"
+}

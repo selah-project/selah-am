@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "numbers 17:2",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ለአሃሮን ልጅ ለካህኑ ለኤልዓዛር እለህ፤ እርሱም ⟨את⟩ ማንጾቹን ከተቃጠለው ነገር መካከል ያነሳ፤ ⟨את⟩ እሳቱንም ወደ ሩቅ ይስረጅ፤ ቅዱስ ሆነዋልና።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "እለህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ኤልዓዛር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "ያነሳ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማንጾቹን"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "ማንጾቹን"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "ከ…መካከል"
+    },
+    {
+      "surface": "השרפה",
+      "gloss": "ተቃጠለው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "እሳቱን"
+    },
+    {
+      "surface": "האש",
+      "gloss": "እሳቱን"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "ይስረጅ"
+    },
+    {
+      "surface": "הלאה",
+      "gloss": "ወደ ሩቅ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ና"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስ ሆነዋል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:18:15.961565602Z",
+  "model": "glm-5.3"
+}

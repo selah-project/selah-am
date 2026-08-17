@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ዳዊትም እንዲህ አለው፦ ከዚህ ከየት ትመጣለህ? እርሱም እንዲህ አለው፦ ከእስራኤል ሰፍር አመለጥሁ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ከየት"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ከዚህ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ትመጣለህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እና አለ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ለእርሱ"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "ከሰፍር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "አመለጥሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:55:17.018024841Z",
+  "model": "glm-5.3"
+}

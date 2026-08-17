@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ካህኑም ⟨את⟩ ጣቱን በደሙ ይንከራተታል፤ ከደሙም በያህዌህ ፊት በቅዱስ መጋረጁ ፊት ሰባት ጊዜ ይረጭበታል።",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "ይንከራተታል"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጣቱን"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "ጣቱን"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "በደሙ"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "ይረጭበታል"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ደሙ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ጊዜ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የመጋረጁን ፊት"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "መጋረጁን"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "የቅዱስ"
+    }
+  ],
+  "timestamp": "2026-08-16T19:08:18.661953511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "አዛርያም ⟨את⟩ ኸሌጽን ወለደ፤ ኸሌጽም ⟨את⟩ ኤልዓሳን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "አዛርያም"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኸሌጽን"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ኸሌጽ"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "ኸሌጽም"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤልዓሳን"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "ኤልዓሳ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:33:02.636304013Z",
+  "model": "glm-5.3"
+}

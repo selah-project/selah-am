@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 36,
+  "translation": "እነዚህም የዲሻን ልጆች ናቸው፦ ኸምዳን፣ እና እስባን፣ እና ይትራን፣ እና ከራን።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እና እነዚህ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "የዲሻን"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "ኸምዳን"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "እና እስባን"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "እና ይትራን"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "እና ከራን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:52:39.329051061Z",
+  "model": "glm-5.3"
+}

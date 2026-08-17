@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "የሙላቱንም መልቀቅ ⟨את⟩ ታገኛለህ፤ ሥጋውንም ⟨את⟩ በተቀደሰ ስፍራ ታብስላለህ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መልቀቁን"
+    },
+    {
+      "surface": "איל",
+      "gloss": "መልቀቅ"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "የሙላቱ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ታገኛለህ"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "እና ታብስላለህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሥጋውን"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ሥጋውን"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "በስፍራ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ተቀደሰ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:30:00.230625055Z",
+  "model": "glm-5.3"
+}

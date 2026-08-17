@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 15:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "ኃይሌ እና ዝማሬዬ ያህ ⟨ነው⟩፤ ለእኔ ማዳን ሆነ፤ ⟨እርሱ⟩ ኤል ነው፣ እና አከብረዋለሁ፤ የአባቴ ኤሎሂም፣ እና አስደምቀዋለሁ።",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "ኃይሌ"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "እና ዝማሬዬ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "እና ሆነ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "ማዳን"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨እርሱ⟩ ይህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ኤል ነው የእኔ"
+    },
+    {
+      "surface": "ואנוהו",
+      "gloss": "እና አከብረዋለሁ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም የ…"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባቴ"
+    },
+    {
+      "surface": "וארממנהו",
+      "gloss": "እና አስደምቀዋለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:15:54.221611420Z",
+  "model": "glm-5.3"
+}

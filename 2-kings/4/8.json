@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "2-kings 4:8",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "እና ቀኑ ሆነ፤ ኤልሻዕ ወደ ሹነም አለፈ፤ እዚያም ⟨ስፍራ⟩ ታላቅ ሴት ነበረች፤ እርሷም እንጀራ እንዲበላ አጥባ ያዘችው፤ እና በሚያልፍበት ወቅት ሁሉ እንጀራ እንዲበላ ወደ እዚያ ይዞር ነበር።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እና ሆነ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ቀኑ"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "አለፈ"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ኤልሻዕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "שונם",
+      "gloss": "ሹነም"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "እና እዚያ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "ותחזק",
+      "gloss": "አጥባ ያዘችው"
+    },
+    {
+      "surface": "בו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "እንዲበላ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እንጀራ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "እና ሆነ"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "በ… ወቅት ሁሉ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "በሚያልፍበት"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "ይዞር"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ወደ እዚያ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "እንዲበላ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እንጀራ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:39:15.892983158Z",
+  "model": "glm-5.3"
+}

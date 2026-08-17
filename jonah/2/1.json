@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ያህዌህ ትልቅ ዓሣ እንዲውጥል አዘጋጀ፤ ⟨את⟩ ዮናን ይውጥል ዘንድ፤ ዮናም በዓሣው አንጀት ውስጥ ሦስት ቀናትና ሦስት ሌሊታት ነበር።",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "አዘጋጀ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דג",
+      "gloss": "ዓሣ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ትልቅ"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "እንዲውጥል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮናን"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ዮና"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ነበር"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ዮና"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "በአንጀት"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "ዓሣው"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "እና ሦስት"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "ሌሊታት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:10:28.129841323Z",
+  "model": "glm-5.3"
+}

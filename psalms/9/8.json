@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "እና ያህዌህ ለዘላለም ይቀመጣል፤ ለፍርድ ዙፋኑን አዘጋጅቷል።",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "እና ያህዌህ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ይቀመጣል"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "አዘጋጅቷል"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ለፍርድ"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ዙፋኑን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:46.696070430Z",
+  "model": "glm-5.3"
+}

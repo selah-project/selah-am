@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "job 9:10",
+  "book": "job",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ትልልቅ ነገሮችን የማይመረመሩ ያደርጋል፤ ድንቆችንም ያለ ቁጥር ያደርጋል።",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ያደርጋል"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ትልልቅ ነገሮችን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የሌለ"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "መመርመር"
+    },
+    {
+      "surface": "ונפלאות",
+      "gloss": "ድንቆችንም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የሌለ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ቁጥር"
+    }
+  ],
+  "timestamp": "2026-08-16T10:42:59.619525984Z",
+  "model": "glm-5.3"
+}

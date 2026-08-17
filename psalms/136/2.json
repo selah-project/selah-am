@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 136,
+  "translation": "ለአማልክት አምላክ ለኤሎሂም ምስጋና አቅርቡ፤ ምክንያቱም ለዘላለም ምሕረቱ ⟨ይኖራል⟩።",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "ምስጋና አቅርቡ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ለኤሎሂም"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "የአማልክት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ምሕረቱ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:22.887125047Z",
+  "model": "glm-5.3"
+}

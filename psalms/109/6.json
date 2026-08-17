@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "ክፉውን በእርሱ ላይ ተከት፤ ጠላትም በቀኙ ላይ ይቆም።",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "ተከት"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "በእርሱ ላይ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉውን"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "ጠላትም"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ይቆም"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ቀኙ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:02.967401197Z",
+  "model": "glm-5.3"
+}

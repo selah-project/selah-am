@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "ያህዌህንም ⟨את⟩ ተወቁ፤ ለባዕልና ለዓሽታሮትም አገለገሉ።",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "ተወቁ፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "አገለገሉ፤"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ለባዕል"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "ለዓሽታሮትም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:14:08.670048076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 105,
+  "translation": "ያህዌህን ፈልጉ፤ ኃይሉንም፤ ፊቱን ፈልጉ ሁልጊዜ።",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "ፈልጉ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህን"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "ኃይሉንም"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ፈልጉ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱን"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ሁልጊዜ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:06:27.207189295Z",
+  "model": "glm-5.3"
+}

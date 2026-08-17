@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "በዐሣሕ ሙሉ ወንድ የአንድ ዓመት ልጅ ይሁንላችሁ፤ ከበጎችም ወይም ከፍየሎችም ትወስዱታል።",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "በዐሣሕ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ሙሉ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ወንድ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሁንላችሁ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ላችሁ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "በጎች"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ወይም ከ"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ፍየሎች"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ትወስዱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:12:52.901469700Z",
+  "model": "glm-5.3"
+}

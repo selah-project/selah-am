@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "በደመናም በቀኵ መራቸው፤ ሌሊቱንም ሁሉ በእሳት ብርሃን መራቸው።",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "መራቸውም"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "በደመና"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "በቀኵ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ሌሊቱን"
+    },
+    {
+      "surface": "באור",
+      "gloss": "በብርሃን"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:07.376639303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "isaiah 41:28",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 41,
+  "translation": "እኔም አየሁ ሰው የለም፤ ከእነዚህም መካከል አማካሪ የለም፤ በጠየቅኋቸውም ጊዜ ምንም ቃል አልመለሱም።",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "እኔም አየሁ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "ከእነዚህም"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "አማካሪ"
+    },
+    {
+      "surface": "ואשאלם",
+      "gloss": "በጠየቅኋቸውም ጊዜ"
+    },
+    {
+      "surface": "וישיבו",
+      "gloss": "አልመለሱም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ምንም ቃል"
+    }
+  ],
+  "timestamp": "2026-08-16T07:19:39.987343618Z",
+  "model": "glm-5.3"
+}

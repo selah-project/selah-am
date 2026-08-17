@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 86,
+  "translation": "የአንተ አገልጋይ ነፍስ ደስ አድርግ፣ በእውነትም ወደ አንተ አዶናይ ሆይ ነፍሴን አነሳለሁ።",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "ደስ አድርግ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "የአንተ አገልጋይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነትም"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ወደ አንተ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "አነሳለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:58:02.105274545Z",
+  "model": "glm-5.3"
+}

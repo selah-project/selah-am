@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 29:8",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 29,
+  "translation": "ከእነርሱም ጋር የተገኙ ⟨את⟩ ውድ ድንጋዮች ያሏቸው ሰዎች ለያህዌህ ቤት መደብ በየህይኤል እጅ በጌርሶናዊው እጅ ሰጡ።",
+  "tokens": [
+    {
+      "surface": "והנמצא",
+      "gloss": "ከእነርሱም ጋር የተገኙ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ውድ ድንጋዮች"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ውድ ድንጋዮች"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ሰጡ"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "ለ…መደብ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…እጅ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "እጅ"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "የየህይኤል"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "የጌርሶናዊው"
+    }
+  ],
+  "timestamp": "2026-08-16T18:42:34.752816150Z",
+  "model": "glm-5.3"
+}

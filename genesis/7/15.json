@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እነሱ ወደ ኖኅ ወደ ታቦት ገቡ እነሱ በእርሷ ሕይወት መንፈስ በሌለበት ሁሉም ሥጋ ሁለት በሁለት ወደ ታቦት ገቡ።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ገቡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖኅ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ሁለት ሁለት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "በሁለት"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉም"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሷ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ሕይወት"
+    }
+  ],
+  "timestamp": "2026-08-16T02:31:44.989215523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 143,
+  "translation": "በቸርነትህም ጠላቶቼን ያጠፋቸው፤ ነፍሴን የሚያስጨንቑትን ሁሉ አጥፋ፤ አነ አገልጋይህ ነኝ ስለዛሬ።",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "በቸርነትህም"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "ያጠፋቸው"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ጠላቶቼን"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "አጥፋ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "የሚያስጨንቑትን"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሴን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዛሬ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "አነ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "አገልጋይህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:43.338334545Z",
+  "model": "glm-5.3"
+}

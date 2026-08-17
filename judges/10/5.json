@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ያዕርም ሞተ በቃሞንም ተቀበረ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ያዕር"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ተቀበረ"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "በቃሞን"
+    }
+  ],
+  "timestamp": "2026-08-16T15:25:33.337397420Z",
+  "model": "glm-5.3"
+}

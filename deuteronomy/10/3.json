@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "deuteronomy 10:3",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "የሲታ እንጨት ሳጥንም አድርጌ፣ ሁለት የድንጋይ ጽላቶችን እንደ ⟨the⟩ አራስተኞቹ ቈረጥሁ፣ ወደ ⟨the⟩ ተራራው ወጣሁ፤ ሁለቱ ጽላቶችም በእጄ ነበሩ።",
+  "tokens": [
+    {
+      "surface": "ואעש",
+      "gloss": "አድርጌ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ሳጥን"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "እንጨት የ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ሲታ"
+    },
+    {
+      "surface": "ואפסל",
+      "gloss": "ቈረጥሁ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሁለት"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ጽላቶችን"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "የድንጋይ"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "እንደ አራስተኞቹ"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "ወጣሁ"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "ወደ ተራራው"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ሁለቱ…ም"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "ጽላቶች"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "በእጄ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:40:04.111716769Z",
+  "model": "glm-5.3"
+}

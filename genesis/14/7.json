@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 14:7",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "ተመለሱም ወደ ዐይን ምስፍት — እርሷ ቃዴስ ትባላለች — መጡ፤ የአማሌቃዊውን ⟨את⟩ ሁሉን የሜዳና የአሞራዊውንም ⟨את⟩ በሐጸሶን ታማር የሚኖረውን ወገን ሁሉ ወጋ።",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ተመለሱም"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "መጡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ዐይን"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ምስፍት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሷ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቃዴስ"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ወጋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን (የአማሌቃዊውን ሜዳ)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "የሜዳ"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "የአማሌቃዊውን"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የአሞራዊውን"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "የአሞራዊውን"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "የሚኖረውን"
+    },
+    {
+      "surface": "בחצצן",
+      "gloss": "በሐጸሶን"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "ታማር"
+    }
+  ],
+  "timestamp": "2026-08-16T19:08:03.347528403Z",
+  "model": "glm-5.3"
+}

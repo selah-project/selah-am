@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ለኃጽሮን — የኃጽሮኒ ስድስት፤ ለከርሚ — የከርሚ ስድስት።",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "ለኃጽሮን"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ስድስት፤ የኃጽሮኒ"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "ስድስት (የኃጽሮን ወገን)"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "ለከርሚ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ስድስት፤ የከርሚ"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "ስድስት (የከርሚ ወገን)"
+    }
+  ],
+  "timestamp": "2026-08-16T04:23:27.765242637Z",
+  "model": "glm-5.3"
+}

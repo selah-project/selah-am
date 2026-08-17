@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "አብርሃምም ተነሥቶ ለምድሩ ሕዝብ፣ ለሐጢ ልጆች ራሱን አገደፈ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሥቶ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብርሃም"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ራሱን አገደፈ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ለሕዝብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የምድሩ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለልጆች"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ሐጢ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:41:46.897191006Z",
+  "model": "glm-5.3"
+}

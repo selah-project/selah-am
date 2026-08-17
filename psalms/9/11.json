@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ስምህን የሚያውቁት በአንተ ይታመናሉ፤ አንተ ያህዌህ የሚፈልጉትን አትተዋቸውምና።",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "ይታመናሉ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "በአንተ"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "የሚያውቁት"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንደዚህ ስለሆነ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል፤ አት"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "አተዋቸውም"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "የሚፈልጉትን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:31.940534879Z",
+  "model": "glm-5.3"
+}

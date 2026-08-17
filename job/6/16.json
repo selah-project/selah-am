@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "job 6:16",
+  "book": "job",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "በአንድር ምክንያት የጠፉት፤ በረዶ በላዩ ይሰማራል።",
+  "tokens": [
+    {
+      "surface": "הקדרים",
+      "gloss": "የጠፉት"
+    },
+    {
+      "surface": "מני",
+      "gloss": "በ... ምክንያት"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "አንድር"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "በላዩ"
+    },
+    {
+      "surface": "יתעלם",
+      "gloss": "ይሰማራል"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "በረዶ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:43:04.227040218Z",
+  "model": "glm-5.3"
+}

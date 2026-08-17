@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "am",
+  "chapter": 5,
+  "translation": "በቍጣም በንዴትም በአሕዛብ ላይ ⟨את⟩ ብድር እፈጽማለሁ፤ እነርሱ ያልሰሙ የኾኑት።",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "እፈጽማለሁም"
+    },
+    {
+      "surface": "באף",
+      "gloss": "በቍጣ"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "በንዴትም"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ብድር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አሕዛብ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "አሕዛብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የኾኑት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ያል"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ሰሙ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:09:19.284848961Z",
+  "model": "glm-5.3"
+}

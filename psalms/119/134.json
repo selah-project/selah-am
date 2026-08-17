@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 134,
+  "ref": "psalms 119:134",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ከሰዎች ጫና ቤዛ አድርገኝ፤ ትእዛዞችህንም እጠብቃለሁ።",
+  "tokens": [
+    {
+      "surface": "פדני",
+      "gloss": "ቤዛ አድርገኝ"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "ከጫና"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "እንዲሁም እጠብቃለሁ"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ትእዛዞችህን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:11:32.259934206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 132,
+  "translation": "ካህኖችህ ጽድቅን ይለብሱ፤ ቅዱሳንህም በደስታ ይጮኹ።",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "ካህኖችህ"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "ይለብሱ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቅን"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "ቅዱሳንህም"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ይጮኹ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:13:48.236293554Z",
+  "model": "glm-5.3"
+}

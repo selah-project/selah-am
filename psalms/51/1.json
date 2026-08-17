@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "ለመቅረቢያው መዝሙር ለዳዊት የሆነ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመቅረቢያው"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:00.590196395Z",
+  "model": "glm-5.3"
+}

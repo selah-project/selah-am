@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ሰዎቹም ከምግባቸው ወሰዱ፤ የያህዌህንም ⟨את⟩ አፍ አልጠየቁም።",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ወሰዱም"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ሰዎቹም"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "ከምግባቸው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "አፍ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "አፍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህንም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "ጠየቁም"
+    }
+  ],
+  "timestamp": "2026-08-16T05:01:47.990732720Z",
+  "model": "glm-5.3"
+}

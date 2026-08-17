@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.3",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ከውስጡ ከእስራኤል ልጆች ⟨את⟩ ሌዋውያንን ውሰድ፣ እነርሱንም ⟨את⟩ አንጽሐቸው።",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ውሰድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሌዋውያንን"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ሌዋውያንን"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ከውስጡ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "አንጽሐቸው"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነርሱን"
+    }
+  ],
+  "timestamp": "2026-08-16T04:10:46.422975428Z",
+  "model": "glm-5.3"
+}

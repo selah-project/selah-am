@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "⟨את⟩ አይሎንን ከከተማዋ መስክ ጋር፣ ⟨את⟩ ጋት ሪሞንን ከከተማዋ መስክ ጋር — አራት ከተሞች።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አይሎንን"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "አይሎን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ከ…ጋር ⟨את⟩",
+      "marks": "ከከተማዋ መስክ ጋር"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ከከተማዋ መስክ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጋት ሪሞንን"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ጋት"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ሪሞን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ከ…ጋር ⟨את⟩",
+      "marks": "ከከተማዋ መስክ ጋር"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ከከተማዋ መስክ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ከተሞች"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "አራት"
+    }
+  ],
+  "timestamp": "2026-08-16T05:10:24.946863329Z",
+  "model": "glm-5.3"
+}

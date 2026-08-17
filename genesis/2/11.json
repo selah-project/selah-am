@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "የአንዱ ስም ፊሾን ነው፤ ወንዙ የሚዞረው ⟨את⟩ የሁሉን የከዊላ ምድር ነው፤ ወርቅ በዚያ የሚገኝበት።",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "የአንዱ"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "ፊሾን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "የሚዞረው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሁሉን የከዊላ ምድር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "የሁሉን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "የከዊላ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚገኝበት"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ወርቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:29:03.233386779Z",
+  "model": "glm-5.3"
+}

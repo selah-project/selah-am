@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "ዮሴፍም ⟨את⟩ ከጉልባቱ እነሱን አወጣ፤ እርሱም ፊቱን ለምድር በሰገደ በኩል ሰገደ።",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "አወጣ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን (ልጆቹን)"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "ጉልባቱ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ሰገደ"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "ፊቱን"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ለምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T03:02:40.632724361Z",
+  "model": "glm-5.3"
+}

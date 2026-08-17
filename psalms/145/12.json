@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 145,
+  "translation": "ጀግናነቱን ለሰዎች ልጆች ለማወቅ፣ እና የመንግሥቱን ክብር ውበት።",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "ለማወቅ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ለ…ልጆች"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "ጀግናነቱን"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "እና ክብር"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "ውበት"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "የመንግሥቱን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:03.299066697Z",
+  "model": "glm-5.3"
+}

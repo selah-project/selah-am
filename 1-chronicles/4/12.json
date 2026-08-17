@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "አስቶንም ⟨את⟩ ቤት-ራፋን ወለደ፣ ⟨את⟩ ፓሴዓንም፣ ⟨את⟩ ተኺናንም — የኢር-ናኻስ አባት፤ እነዚህ የረኻ ሰዎች ናቸው።",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "አስቶንም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት-ራፋን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "ራፋ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ፓሴዓን"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ፓሴዓ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ተኺናን"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "ተኺና"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "አባት"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "የኢር"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ናኻስ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እነዚህ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "የረኻ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:39:05.604436403Z",
+  "model": "glm-5.3"
+}

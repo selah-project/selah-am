@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 38,
+  "translation": "ወደ ክፉ ተጋብቻለሁ፤ በጣም ተደብቃለሁ፤ ሁሉን ቀን በጥቁር ልብስ አለቅቃለሁ።",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "ወደ-ክፉ-ተጋብቻለሁ"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "ተደብቃለሁ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ወደ-ድረስ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ቀን"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "በጥቁር-ልብስ-አለቅቃለሁ"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ኼጄያለሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:40:49.103348593Z",
+  "model": "glm-5.3"
+}

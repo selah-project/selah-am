@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "ሰባት ዓመታት ልጅ ⟨ነበረ⟩ የሆአስ በመንገሡ ጊዜ።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "የሆአስ"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "በመንገሡ ጊዜ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:47:15.884305286Z",
+  "model": "glm-5.3"
+}

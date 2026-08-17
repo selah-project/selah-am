@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "ተጽናኑ፣ ተጽናኑ ሕዝቤ ይላል ኤሎሂማችሁ።",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "ተጽናኑ"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "ተጽናኑ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቤ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂማችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:21:20.115206020Z",
+  "model": "glm-5.3"
+}

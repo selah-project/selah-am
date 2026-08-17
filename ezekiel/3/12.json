@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 3:12",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "መንፈስም አነሳኝ፣ እኔም በኋላዬ የታላቅ ጭጭ ድምፅ ሰማሁ፦ የያህዌህ ክብረ በረከት ⟨ይሁን⟩ ከስፍራው።",
+  "tokens": [
+    {
+      "surface": "ותשאני",
+      "gloss": "አነሳኝ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "ሰማሁ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "በኋላዬ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምፅ"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "ጭጭ\/አውዳሚ ድምፅ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "የተባረከ\/በረከት ይሁን"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "ከስፍራው"
+    }
+  ],
+  "timestamp": "2026-08-16T20:18:58.583108462Z",
+  "model": "glm-5.3"
+}

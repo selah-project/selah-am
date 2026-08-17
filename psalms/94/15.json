@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 94,
+  "translation": "በእርግጥ ፍርድ ወደ ጽድቅ ይመለሳል፤ ከእርሱም በኋላ ሁሉ ቀጥተኞች የሆኑ ልብ ናቸው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእርግጥ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቅ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ይመለሳል"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድ"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "እና ከእርሱ በኋላ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ቀጥተኞች የሆኑ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:01:52.055861798Z",
+  "model": "glm-5.3"
+}

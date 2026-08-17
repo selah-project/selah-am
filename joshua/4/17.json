@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "የሆስዕያም ካህናትን ⟨את⟩ እንዲህ ሲል አዘዛቸው፦ ከዮርዳኖስ ውጡ።",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "አዘዛቸው"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆስዕያም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ካህናትን"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናትን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ሲል"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ውጡ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:59:13.211645337Z",
+  "model": "glm-5.3"
+}

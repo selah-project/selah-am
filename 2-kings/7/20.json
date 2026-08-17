@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "እንደዚህም ሆነው፤ ሕዝቡም በበሩ ውስጥ ወገረው፣ እርሱም ሞተ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለእርሱም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚህ"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "ወገረው"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እርሱን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡም"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "በበሩ ውስጥ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ።"
+    }
+  ],
+  "timestamp": "2026-08-16T06:42:29.412607636Z",
+  "model": "glm-5.3"
+}

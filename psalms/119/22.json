@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "ከእኔ ላይ አንሥተህ ቅጠቅታንና ውበዝተኛነትን ልክ ሳለ በምስክሮችህ ጠብቄአለሁና።",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "አንሥተህ"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ከእኔ ላይ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ቅጠቅታን"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "ውበዝተኛነትን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ልክ ሳለ"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "በምስክሮችህ"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ጠብቄአለሁና"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:41.098955577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ሞሼ ሕዝቡን ⟨את⟩ ከመሰብሰቢያው ዘንድ ወደ ኤሎሂም መገኘት አወጣቸው፤ እነሱም በተራራው እግር ሥር ተኮሩ።",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "አወጣቸው"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ወደ መገኘት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "መሰብሰቢያው"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "ተኮሩ"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "በእግር ሥር"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ተራራው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:17:11.030216395Z",
+  "model": "glm-5.3"
+}

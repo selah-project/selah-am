@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ምድሩን አየሁ፣ እሆ፣ ቦታ-ባዶ እና ምንም-የሌለበት ነበረ፤ ወደ ሰማያትም አየሁ፣ ብርሃናቸውም የለም።",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "አየሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሩን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እሆ"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ቦታ-ባዶ"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "እና ምንም-የሌለበት"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "ብርሃናቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T07:37:30.046195548Z",
+  "model": "glm-5.3"
+}

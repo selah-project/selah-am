@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 54,
+  "ref": "1-chronicles 6:54",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እና ⟨את⟩ አይሎንን እና ⟨את⟩ መስኮቿን እና ⟨את⟩ ጋት ሮምን እና ⟨את⟩ መስኮቿን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "አይሎንን"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "አይሎን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መስኮቿን"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "መስኮቿ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "ጋት ሮምን"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ጋት"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ሮም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "መስኮቿን"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "መስኮቿ"
+    }
+  ],
+  "timestamp": "2026-08-16T12:40:56.153110170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "በክፉ ወቅት አይዋረዱም፤ በራብ ቀኖችም ይጠግባሉ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "አይ...ም፤"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "አይዋረዱም፤ ይፈራሉ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "በ...ወቅት"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ ወቅት"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "በ...ቀኖችም"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "ራብ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ይጠግባሉ።"
+    }
+  ],
+  "timestamp": "2026-08-16T09:40:23.074466867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "ምንም የአገልግሎት ሥራ አታደርጉ፤ ለያህዌህ የእሳት መሥዋዕት ታቀርባላችሁ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ምንም\/ሁሉ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "የአገልግሎት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አታደርጉ\/አይደለም"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ታደርጋላችሁ"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "ታቀርባላችሁ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "የእሳት መሥዋዕት"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:01:07.107786673Z",
+  "model": "glm-5.3"
+}

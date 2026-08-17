@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 52,
+  "translation": "ቋንቋህ አጥፊነትን ያስባል፤ እንደ ተሸበረ ምላስ፣ ተንኮል የሚሠራ ⟨ሆይ⟩።",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "አጥፊነትን"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "ያስባል"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "ቋንቋህ"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "እንደ ምላስ"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "የተሸበረ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "የሚሠራ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ተንኮል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:46:53.982905556Z",
+  "model": "glm-5.3"
+}

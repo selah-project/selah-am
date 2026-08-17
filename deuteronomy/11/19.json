@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እነሱንም ⟨את⟩ ልጆቻችሁን ⟨את⟩ በእነሱ እንዲናገሩ ታስተምሯቸዋላችሁ፤ በቤትህ ስትቀመጥ፣ በመንገድም ስትሄድ፣ ስትተኛም እና ስትነሳም።",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "ታስተምሯቸዋላችሁ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እነሱን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጆቻችሁን"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ልጆቻችሁን"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "እንዲናገሩ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "በእነሱ"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "ስትቀመጥ"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "በቤትህ"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "ስትሄድ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "በመንገድ"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "ስትተኛ"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "ስትነሳ"
+    }
+  ],
+  "timestamp": "2026-08-16T15:10:52.951256260Z",
+  "model": "glm-5.3"
+}

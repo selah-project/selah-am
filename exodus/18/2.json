@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 18,
+  "translation": "የሞሼ አገርተ ይጽሮ የሞሼን ሚስት ⟨את⟩ ጽጮራን ከተሰደደች በኋላ ወሰደ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "ይጽሮ"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "አገርተ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "የሞሼ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጽጮራን"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "ጽጮራን"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሚስት"
+    },
+    {
+      "surface": "משה",
+      "gloss": "የሞሼ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ከ… በኋላ"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "ተሰደደች"
+    }
+  ],
+  "timestamp": "2026-08-16T03:19:13.381992968Z",
+  "model": "glm-5.3"
+}

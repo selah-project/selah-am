@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 19:10",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ንጹህ ደም በምድርህ መካከል አይፈስም፣ ያህዌህ ኤሎሂምህ ርስት ሆኖ የሚሰጥህ፣ ደም በላይህ ይሆናል።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "እና አይፈስም"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ይፈሰሳል"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ንጹህ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "በ…መካከል"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "በምድርህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚሰጥህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምህ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "የሚሰጥ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለህ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ርስት"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ይሆናል"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "በላይህ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ደም"
+    }
+  ],
+  "timestamp": "2026-08-16T19:18:41.486098086Z",
+  "model": "glm-5.3"
+}

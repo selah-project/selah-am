@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "እርሱም አለው፣ ስምህ ማን ነው? እርሱም አለው፣ ያዕቆብ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለውም"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለውም"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:49:57.818329517Z",
+  "model": "glm-5.3"
+}

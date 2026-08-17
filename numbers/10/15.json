@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "በይሣክር ልጆች ነገድ ጦር ላይም የጾዓር ልጅ ንተናኤል ነበር።",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "እና በ…ላይ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ጦር"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ነገድ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ይሣክር"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "ንተናኤል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ጾዓር"
+    }
+  ],
+  "timestamp": "2026-08-16T04:11:10.721567748Z",
+  "model": "glm-5.3"
+}

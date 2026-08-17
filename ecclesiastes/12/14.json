@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "በእውነት ኤሎሂም ⟨את⟩ ሁሉን ሥራ በፍርድ ያመጣል፣ በሁሉም ስውር ነገር ላይ፣ መልካም ወይም ክፉ ቢሆን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን ሥራ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ሥራ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ያመጣል"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "በፍርድ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "ስውር ነገር"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "መልካም"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ወይም"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:17:57.024399310Z",
+  "model": "glm-5.3"
+}

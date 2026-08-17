@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "እናታውቃለህ በልብህ፣ እንደ ሰው ወንድ ⟨את⟩ ልጁን እንደሚያስተምር፣ ያህዌህ ኤሎሂም አምላክህ እንዲሁ ያስተማርሃል።",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "እናታውቃለህ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "በልብህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንዳለ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "እንደሚያስተምር"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው ወንድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልጁን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂም አምላክህ"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "ያስተማርሃል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:38:14.993136409Z",
+  "model": "glm-5.3"
+}

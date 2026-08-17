@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "ኤሎሂም አድነኝ፣ ምክንያቱም ውኃዎች እስከ ነፍሴ ደርሰዋልና።",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "አድነኝ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ደርሰዋል"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውኃዎች"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሴ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:17.353528984Z",
+  "model": "glm-5.3"
+}

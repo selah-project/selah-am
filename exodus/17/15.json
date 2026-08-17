@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "ሞሼም መሠዊያ ሠራ፤ ስሙንም ያህዌህ ንሲ ብሎ ጠራው።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠዊያ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራው"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "ንሲ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:17:56.455143219Z",
+  "model": "glm-5.3"
+}

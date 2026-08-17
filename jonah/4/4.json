@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ያህዌህም እንዲህ አለው፦ መቆጣት ለአንተ ደኅና ነውን?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "ደኅና ነውን"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "መቆጣት"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ለአንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:11:09.754051248Z",
+  "model": "glm-5.3"
+}

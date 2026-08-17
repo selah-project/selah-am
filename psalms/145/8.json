@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 145,
+  "translation": "ያህዌህ ምሕረት የተሞላና እዘን ቀርፋፋ፣ በቸርነትም ታላቅ ነው።",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "ምሕረት የተሞላ"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "እና"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ቀርፋፋ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "እዘን"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "በቸርነትም ታላቅ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T10:18:21.622013323Z",
+  "model": "glm-5.3"
+}

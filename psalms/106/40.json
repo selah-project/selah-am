@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.3",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 106,
+  "translation": "የያህዌህ ቍጣ በሕዝቡ ተነገረ፤ የወለደውንም ⟨את⟩ ተጠላ።",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ተነገረ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ቍጣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "የያህዌህ"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "በሕዝቡ"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "ተጠላ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የወለደውን"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "የወለደውን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:05:03.756348696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 90,
+  "translation": "እንደ ጎርፍ አሸወድሃቸው፤ እንቅልፍ ይሆናሉ፤ በጠዋት እንደ ሣር ያልፋል።",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "አሸወድሃቸው"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "እንቅልፍ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ይሆናሉ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "በጠዋት"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "እንደ ሣር"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "ያልፋል"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:43.910248203Z",
+  "model": "glm-5.3"
+}

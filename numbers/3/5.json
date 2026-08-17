@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "numbers 3:5",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ያህዌህ ሞሼን በቃሉ ይናገራል፤ «እንዲህ በል፤",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ይናገራል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ በል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:05:32.400015433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 50:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 50,
+  "translation": "አፍህን ለክፉ ልከህ፣ እና ምላስህ ማታለልን ያጠናል።",
+  "tokens": [
+    {
+      "surface": "פיך",
+      "gloss": "አፍህን"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "ልከህ"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ለክፉ"
+    },
+    {
+      "surface": "ולשונך",
+      "gloss": "እና ምላስህ"
+    },
+    {
+      "surface": "תצמיד",
+      "gloss": "ያጠናል"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ማታለልን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:20.211186175Z",
+  "model": "glm-5.3"
+}

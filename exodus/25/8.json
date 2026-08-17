@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 25,
+  "translation": "እና ⟨את⟩ መቅደስ ይሠሩልኝ፤ እኔ በእነርሱ መካከል እኖራለሁ።",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "እና ይሠሩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ልኝ"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "መቅደስ"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "እኖራለሁ"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "በእነርሱ መካከል"
+    }
+  ],
+  "timestamp": "2026-08-16T03:23:53.443970252Z",
+  "model": "glm-5.3"
+}

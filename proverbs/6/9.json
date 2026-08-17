@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "እስከ መቼ ነው አንቀላፋ ብቻ? እስከ መቼ ትነሣለህ ከእንቅልፍህ?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "መቼ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "አንቀላፋ ብቻ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ነው"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "መቼ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ትነሣለህ"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "ከእንቅልፍህ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:22:55.262333469Z",
+  "model": "glm-5.3"
+}

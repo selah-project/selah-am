@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 34,
+  "translation": "ያህዌህ ለተሰበሩ ልብ ባለቤቶች ቅርብ ነው፤ ⟨את⟩ የተጨነቁ መንፈሽ ያድናል።",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ቅርብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "ለተሰበሩ…ባለቤቶች"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የተጨነቁ መንፈሽ"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "የተጨነቁ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈሽ"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ያድናል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:37:58.059473848Z",
+  "model": "glm-5.3"
+}

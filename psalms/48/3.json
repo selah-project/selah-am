@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 48,
+  "translation": "በከፍታው ውብ፣ የምድር ሁሉ ደስታ ነው የጽዮን ተራራ፣ የሰሜኑ ጫፎች፣ የታላቁ ንጉሥ ከተማ።",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "ውብ"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "ከፍታው"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "ደስታ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "የ…ምድር"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "ጫፎች"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ሰሜን"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ታላቁ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:44:49.927797722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "genesis 16:15",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "ሐጋርም ለአብርሃም ወንድ ልጅ ወለደች፤ አብርሃምም ሐጋር ለወለደችው ልጁ ስም ይስማኤልን ብሎ ጠራው።",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ሐጋር"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "ለአብርሃም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወንድ ልጅ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "አብርሃም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ልጁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ለወለደችው"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ወለደች"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ሐጋር"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ይስማኤልን"
+    }
+  ],
+  "timestamp": "2026-08-16T02:37:13.535211426Z",
+  "model": "glm-5.3"
+}

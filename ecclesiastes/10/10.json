@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "ብረቱ ሑር ከሆነ እኩሉም ⟨አል⟩ጠፋም ኃይል ይበዛል፤ ጥበብ ግን የማስተካከል ብልጽግና ናት።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "קהה",
+      "gloss": "ሑር ይላል"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ብረቱ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "እኩሉም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ጠፋም"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "ይበዛል"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "ኃይል"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "ይበዛል"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "ብልጽግና"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "ማስተካከል"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:15:15.055124977Z",
+  "model": "glm-5.3"
+}

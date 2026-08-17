@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "በምትሆን ጊዜ ውሃው ከምድር ላይ እስኪደርቅ ድረስ ራባውን ⟨את⟩ ላከ፤ እርሷም ወጥታ ተመልሳ እየሄደች ነበር።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራባውን"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ራባውን"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ወጣችም"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "እየወጣች"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "እየተመልሳ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "እስኪደርቅ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ውሃው"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከላይ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    }
+  ],
+  "timestamp": "2026-08-16T02:32:34.916536551Z",
+  "model": "glm-5.3"
+}

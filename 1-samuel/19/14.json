@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "ሳኦልም መልእክተኞችን ወደ ⟨את⟩ ዳዊት ሊወስድ ላከ፤ እርሷም «ሕመም ነው» አለች።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ላከ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦልም"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "መልእክተኞችን"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ሊወስድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊት"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "አለች"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ሕመም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T05:43:51.587499794Z",
+  "model": "glm-5.3"
+}

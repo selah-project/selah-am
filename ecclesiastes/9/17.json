@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "የጥበበኞች ቃላት በዝግታ ይሰማሉ፤ ከሰዎች መካከል በሞኞች ላይ የሚያለቅስ ጩኸት ይበልጣል።",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "የ…ቃላት"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ጥበበኞች"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "በዝግታ"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "ይሰማሉ፤"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "ከ…ጩኸት"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "የሚያለቅስ (ሼቅ)"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "በሞኞች ላይ"
+    }
+  ],
+  "timestamp": "2026-08-16T18:14:28.272886864Z",
+  "model": "glm-5.3"
+}

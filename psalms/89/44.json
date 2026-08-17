@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 89,
+  "translation": "ደግሞም የሰይፉን ጠርዝ መለስህ፤ በጦርነትም አቆምህለት አልነበረም።",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ደግሞም"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "መለስህ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "የሰይፉን ጠርዝ"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "የሰይፉን ጠርዝ መለስህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "አልነበረም"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "አቆምህለት"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "በጦርነትም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:20.318525010Z",
+  "model": "glm-5.3"
+}

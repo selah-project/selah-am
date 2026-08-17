@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 57,
+  "translation": "ሰላም ይገባዋል፤ በአልጋዎቻቸው ላይ ያርፋሉ፤ በቀጥታው የሚናገር ሁሉ።",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "ይገባዋል"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "ያርፋሉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "በአልጋዎቻቸው"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "የሚናገር ሁሉ የሚሄድ"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "በቀጥታው"
+    }
+  ],
+  "timestamp": "2026-08-16T07:28:38.964467238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "am",
+  "chapter": 8,
+  "translation": "ንጉሡም ወደ እስቴር ⟨את⟩ የወርቁን ምስክር ዘረጋ፤ እስቴርም ተነሳች፣ በንጉሡ ፊትም ቆመች።",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "ዘረጋ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "ወደ እስቴር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የወርቁን ምስክር"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "ምስክር"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ወርቅ"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ተነሳች"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "እስቴር"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ቆመች"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "በፊት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:23:49.439308513Z",
+  "model": "glm-5.3"
+}

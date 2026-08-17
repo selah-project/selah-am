@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "የሕይወትን መንገድ ታሳውቀኛል፤ በፊትህ የደስታዎች ሙላት ነው፤ በቀኝህ መልካም ነገሮች ለዘላለም።",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "ታሳውቀኛል፤"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "መንገድን"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "የሕይወት"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሙላት"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "የደስታዎች"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፊትህ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "በፊትህ"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "መልካም ነገሮች"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "በቀኝህ"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ለዘላለም።"
+    }
+  ],
+  "timestamp": "2026-08-16T09:30:23.563538158Z",
+  "model": "glm-5.3"
+}

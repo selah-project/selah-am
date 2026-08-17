@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 42,
+  "translation": "ላያህዌህ አዲስ መዝሙር ዘምሩ፤ ምስጋናውም ከምድር ጫፍ፣ ወደ ባሕር ከሚወርዱ፣ ሙላቱም፣ ደሴቶችና ነዋሪዎቻቸው።",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ዘምሩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ላያህዌህ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "አዲስ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ምስጋናውም"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ከ... ጫፍ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ወደ... ከሚወርዱ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕር"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ሙላቱም"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ደሴቶች"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "ነዋሪዎቻቸው"
+    }
+  ],
+  "timestamp": "2026-08-16T07:20:10.542679647Z",
+  "model": "glm-5.3"
+}

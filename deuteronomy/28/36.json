@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.3",
+  "verse": 36,
+  "ref": "deuteronomy 28:36",
+  "book": "deuteronomy",
+  "lang": "am",
+  "chapter": 28,
+  "translation": "ያህዌህ ⟨את⟩ አንተን እና ⟨את⟩ በላይህ ላይ የምታቆምለውን ንጉሥህን አንተና አባቶችህ ያላወቋቸው ሕዝብ ይወስድሃል፤ እዚያም ለሌላዎች አማልክት፣ ለእንጨትና ለድንጋይ ታምላለህ።",
+  "tokens": [
+    {
+      "surface": "יולך",
+      "gloss": "ይወስድሃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "አንተ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ንጉሥህ"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "ንጉሥህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "ታቆምለዋል"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "በላይህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "አወቃቸውም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "ואבתיך",
+      "gloss": "እና አባቶችህ"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "ታምላለህ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እዚያ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "አማልክትን"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ሌላዎች"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "የእንጨት"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "እና የድንጋይ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:52:33.520676472Z",
+  "model": "glm-5.3"
+}

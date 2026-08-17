@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 140,
+  "translation": "የምላስ ሰው በምድር ላይ አይጸናም፤ የበግፍ ሰውን ክፉ ወደ ጥፋት እየነዳደፍ ይደለድለዋል።",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "የምላስ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ጸናም"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር ላይ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰውን"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "የበግፍ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉ"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "ይደለድለዋል"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "ወደ ጥፋት እየነዳደፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:16:15.771223290Z",
+  "model": "glm-5.3"
+}

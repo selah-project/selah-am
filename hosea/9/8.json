@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 9:8",
+  "book": "hosea",
+  "lang": "am",
+  "chapter": 9,
+  "translation": "ኤፍራይም ከኤሎሂም ጋር ተመልካች ⟨ነው⟩፤ ነቢዩ ግን በመንገዶቻቸው ሁሉ ላይ የወፍጮት ወጥመድ ⟨ነው⟩፤ ጠላትነት በኤሎሂም ቤት ⟨አለ⟩።",
+  "tokens": [
+    {
+      "surface": "צפה",
+      "gloss": "ተመልካች ⟨ነው⟩"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ… ጋር"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ከኤሎሂም"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ነቢዩ"
+    },
+    {
+      "surface": "פח",
+      "gloss": "ወጥመድ"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "የወፍጮት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "በመንገዶቻቸው"
+    },
+    {
+      "surface": "משטמה",
+      "gloss": "ጠላትነት"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "በ… ቤት"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "በኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-08-16T18:04:54.100900732Z",
+  "model": "glm-5.3"
+}

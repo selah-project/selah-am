@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 23,
+  "translation": "«ጌታዬ፣ ስማኝ፤ ምድሩ አራት መቶ የብር ስቅል ይገባዋል፤ በእኔና በአንተ መካከል ምን ነው? ⟨את⟩ ሙታንህን ስለዚህ ቅበር።",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ጌታዬ"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "ስማኝ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሩ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "አራት"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "የብር ስቅል"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "በእኔ"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "እና በአንተ መካከል"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ምን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ነው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሙታንህን"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "ሙታንህን"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "ቅበር"
+    }
+  ],
+  "timestamp": "2026-08-16T02:41:07.117380360Z",
+  "model": "glm-5.3"
+}

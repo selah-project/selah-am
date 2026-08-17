@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 33,
+  "translation": "ሞሼም እንዲህ አለው፦ ፊትህ ካልሄደ፣ እኛን ከዚህ አትውጣን።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አለውም"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ወደ እርሱ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ካልሆነ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትህ"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ካልሄደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "ውጣን"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ከዚህ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:33:00.744520185Z",
+  "model": "glm-5.3"
+}

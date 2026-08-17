@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "1-samuel 26:2",
+  "book": "1-samuel",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ሳኦልም ተነሥቶ ወደ ዚፍ ምድረ በዳ ወረደ፤ ከእርሱም ⟨את⟩ ጋር ከእስራኤል ምርጥ ወንዶች ሦስት ሺህ ሰው በዚፍ ምድረ በዳ ዳዊትን ⟨את⟩ ለመፈለግ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተነሥቶ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ወረደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ምድረ በዳ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ዚፍ"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ ጋር ከእርሱም"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "ምርጥ ወንዶች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ለመፈለግ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊትን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በ…ምድረ በዳ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ዚፍ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:50:27.922139310Z",
+  "model": "glm-5.3"
+}

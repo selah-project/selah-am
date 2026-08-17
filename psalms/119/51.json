@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 119,
+  "translation": "የቆሟች በጣም አሳቀቁኝ፤ ከቶራትህ ግን አልዘወርኩም።",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "የቆሟች"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "አሳቀቁኝ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "ከቶራትህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "ዘወርኩም"
+    }
+  ],
+  "timestamp": "2026-08-16T10:10:51.960023816Z",
+  "model": "glm-5.3"
+}

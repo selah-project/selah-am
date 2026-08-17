@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.3",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 21,
+  "translation": "አርናንም ተመልሶ ⟨את⟩ መልአኩን አየ፤ አራቱም የተደበቁ የነበሩ የሱ ልጆች ከእሱ ጋር ነበሩ፤ አርናን ደግሞ ስንዴን ይወድስ ነበር።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተመልሶም"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "አርናን"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "አየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መልአኩን"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "መልአኩን"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "አራቱም"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "የሱ ልጆች"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ከእሱ ጋር"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "የተደበቁ"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "አርናን ደግሞ"
+    },
+    {
+      "surface": "דש",
+      "gloss": "ይወድስ ነበር"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "ስንዴን"
+    }
+  ],
+  "timestamp": "2026-08-16T13:05:25.865368502Z",
+  "model": "glm-5.3"
+}

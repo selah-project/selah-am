@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.3",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ብቻ የሌዊን ነገድ ⟨את⟩ አትቁጠር፤ እና ⟨את⟩ ራሳቸውን በእስራኤል ልጆች መካከል አታንሣ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ብቻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሌዊን ነገድ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ነገድ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "የሌዊ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ቁጠር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ራሳቸውን"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "ራሳቸውን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "አታንሣ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "በመካከል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የእስራኤል"
+    }
+  ],
+  "timestamp": "2026-08-16T04:02:58.265756582Z",
+  "model": "glm-5.3"
+}

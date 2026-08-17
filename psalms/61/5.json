@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 61,
+  "translation": "በድንኳንህ ለዘለቅናት እኖራለሁ፤ በክንፎችህ ስደራ እጠሣለሁ። ሴላ።",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "እኖራለሁ"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "በድንኳንህ"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ለዘለቅናት"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "እጠሣለሁ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "በስደራ"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ክንፎችህ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:49:46.552383429Z",
+  "model": "glm-5.3"
+}

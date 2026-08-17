@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ከመቅደስ እርዳትህን ይላክ፣ እና ከጽዮን ይደግፍሃል።",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ይላክ"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "እርዳትህን"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "ከመቅደስ"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "እና ከጽዮን"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "ይደግፍሃል"
+    }
+  ],
+  "timestamp": "2026-08-16T09:34:07.073499422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "isaiah 63:13",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 63,
+  "translation": "እንደ በረሃ ውስጥ ፈረስ ሆኖ በጥልቀቶች ያለ ማለቅ ይመራቸዋል።",
+  "tokens": [
+    {
+      "surface": "מוליכם",
+      "gloss": "ያመራቸዋል"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "በጥልቀቶች"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "እንደ ፈረስ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በረሃ ውስጥ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ያለ"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ማለቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:30:50.390001232Z",
+  "model": "glm-5.3"
+}

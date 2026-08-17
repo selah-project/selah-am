@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 100,
+  "translation": "በምስጋና በሮቹን ግቡ፤ በምስክርነት ማደሮቹን ግቡ፤ አመስግኑት፤ ስሙን ባርኩ።",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "ግቡ"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "በሮቹን"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "በምስጋና"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "ማደሮቹን"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "በምስክርነት"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "አመስግኑት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "እርሱን"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ባርኩ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:03:13.646029291Z",
+  "model": "glm-5.3"
+}

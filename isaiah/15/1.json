@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 15,
+  "translation": "የሞዓብ መሸከም። ምክንያቱም በአንዲት ሌሊት የሞዓብ ዓር ጠፍቶ ድምቀት አገኘ፤ ምክንያቱም በአንዲት ሌሊት የሞዓብ ቄር ጠፍቶ ድምቀት አገነ።",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "መሸከም"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "በአንዲት ሌሊት"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ጠፍቶ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ዓር"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "የሞዓብ"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "ድምቀት አገነ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "በአንዲት ሌሊት"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ጠፍቶ"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "ቄር"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "የሞዓብ"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "ድምቀት አገነ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:05:33.809762344Z",
+  "model": "glm-5.3"
+}

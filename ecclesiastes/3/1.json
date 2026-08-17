@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "am",
+  "chapter": 3,
+  "translation": "ለሁሉም ነገር የተሁኑ ጊዜ አለ፤ እና በሰማያት ሥር ላለው ሁሉም ፈቃድ ጊዜ አለ።",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉም ነገር"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "የተሁኑ ጊዜ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "እና ጊዜ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ፈቃድ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ሥር"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "በሰማያት"
+    }
+  ],
+  "timestamp": "2026-08-16T11:13:46.029543059Z",
+  "model": "glm-5.3"
+}

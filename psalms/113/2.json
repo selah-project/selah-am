@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 113,
+  "translation": "የያህዌህ ስም የተባረከ ይሁን፤ ከዛሬው እስከ ለዘላለሙ ድረስ።",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "የተባረከ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ከዛሬው"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ ድረስ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ለዘላለሙ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:08:37.300804236Z",
+  "model": "glm-5.3"
+}

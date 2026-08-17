@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 12,
+  "translation": "መጋረዳና ተቀጣሪ አገልጋይ በእርሱ አይበላም።",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "መጋረዳ"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "እና ተቀጣሪ አገልጋይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይፈጽምም"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበላል"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:13:34.284895331Z",
+  "model": "glm-5.3"
+}

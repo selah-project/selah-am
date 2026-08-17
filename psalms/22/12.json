@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "አትርቅም ከእኔ፤ ችግር በቅርብ ስለ ሆነ፤ ረዳት ስለ ⟨የለም⟩።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አ"
+    },
+    {
+      "surface": "᪉תרחק",
+      "gloss": "ትርቅ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ከእኔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ችግር"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "ቅርብ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "ረዳት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:33:44.846117771Z",
+  "model": "glm-5.3"
+}

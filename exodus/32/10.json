@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 32,
+  "translation": "አሁንም ተውኝ፤ ቍጣዬ በእነሱ ይነድዳል፤ እነሱንም አጠፋቸዋለሁ፤ አንተንም ⟨את⟩ ታላቅ ሕዝብ አደርግሃለሁ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "አሁንም"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "ተው"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ኝ"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ይነድዳል"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ቍጣዬ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "በእነሱ"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "አጠፋቸዋለሁ"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "አደርጋለሁ"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ አንተን",
+      "marks": "ታላቅ ሕዝብ"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ሕዝብ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:31:35.981103810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "እርጥብ የሐና የእኔ ወዳጅ ለእኔ ⟨ነው⟩፤ በየእጅ-ጌዲ የወይን እርሶች ውስጥ።",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "እርጥብ"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "የሐና"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "የእኔ ወዳጅ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "በየወይን እርሶች"
+    },
+    {
+      "surface": "עין",
+      "gloss": "የእጅ"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "ጌዲ"
+    }
+  ],
+  "timestamp": "2026-08-16T11:02:22.114677173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 19,
+  "translation": "የጸዓን አለቆች ሞኙ፤ የኖፍ አለቆች ተታሉ፤ የነገዶቿ እርዳቶችም ⟨הם⟩ ⟨את⟩ ምጽርያምን አስታሉ።",
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "ሞኙ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "የ…አለቆች"
+    },
+    {
+      "surface": "צען",
+      "gloss": "ጸዓን"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ተታሉ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "የ…አለቆች"
+    },
+    {
+      "surface": "נף",
+      "gloss": "ኖፍ"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "አስታሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምጽርያምን"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽርያምን"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "እርዳቶች"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "የነገዶቿ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:06:44.508116033Z",
+  "model": "glm-5.3"
+}

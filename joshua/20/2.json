@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "joshua 20:2",
+  "book": "joshua",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ወደ እስራኤል ልጆች ተናገር ብላቸው፦ ለራሳችሁ ⟨את⟩ የመሸሻ ከተሞችን ስጡኝ፣ እነርሱም በሞሼ እጅ በኩል ወደ እናንተ የተናገርኋቸው፦",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ተናገር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብላቸው"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ስጡኝ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለራሳችሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የመሸሻ ከተሞችን"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ከተሞች"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "የመሸሻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እነርሱም"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "የተናገርኋቸው"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ወደ እናንተ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጅ በኩል"
+    },
+    {
+      "surface": "משה",
+      "gloss": "በሞሼ"
+    }
+  ],
+  "timestamp": "2026-08-16T05:11:04.587319163Z",
+  "model": "glm-5.3"
+}

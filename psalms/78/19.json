@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "psalms 78:19",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 78,
+  "translation": "በኤሎሂምም አናገሩ፤ ኤል በምድረ በዳ ውስጥ ጠረጴዛ ማዘጋጀት ይችላልን? አሉ።",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "አናገሩ"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "በኤሎሂም"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "አሉ"
+    },
+    {
+      "surface": "היוכל",
+      "gloss": "ይችላልን?"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "ማዘጋጀት"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "ጠረጴዛ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "በምድረ በዳ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:55:28.472217634Z",
+  "model": "glm-5.3"
+}

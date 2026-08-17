@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "leviticus 24:22",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 24,
+  "translation": "አንድ ፍርድ ይሁንላችሁ፤ መጓዡ ⟨the⟩ እንደ ⟨the⟩ ኗሪው ይሁን፤ በእውነት እኔ ያህዌህ ኤሎሂማችም ነኝ።",
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "ፍርድ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "አንድ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ላችሁ"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "እንደ መጓዥ"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "እንደ ኗሪው"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በእውነት"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂማችም"
+    }
+  ],
+  "timestamp": "2026-08-16T04:00:00.809971781Z",
+  "model": "glm-5.3"
+}

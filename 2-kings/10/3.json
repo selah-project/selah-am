@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "2-kings 10:3",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 10,
+  "translation": "እና ከጌታችሁ ልጆች መልካሙን እና ቀናውን ታዩ፣ እና በአባቱ ዙፋን ላይ ታስቀምጡታል፣ እና ለጌታችሁ ቤት ትዋጋላችሁ።",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "እና ታዩ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "መልካሙን"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "እና ቀናውን"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ከ…ልጆች"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "ጌታችሁ"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "እና ታስቀምጡታል"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ዙፋን"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "የአባቱ"
+    },
+    {
+      "surface": "והלחמו",
+      "gloss": "እና ትዋጋላችሁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "የጌታችሁ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:43:00.252086572Z",
+  "model": "glm-5.3"
+}

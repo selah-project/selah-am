@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "genesis 26:2",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 26,
+  "translation": "ያህዌህም በእርሱ ታየ፣ አልውረድም ወደ ግብፅ እንዳለ አለው፤ በእኔ እንደምነግርህ ምድር ተቀመጥ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ታየም"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "በእርሱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "አለው፤"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አል"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "ውረድም"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ወደ ግብፅ"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ተቀመጥ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንደ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "እንደምነግርህ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "እኔ ወደ አንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:45:23.767435308Z",
+  "model": "glm-5.3"
+}

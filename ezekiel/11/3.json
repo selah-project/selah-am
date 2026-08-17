@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 11,
+  "translation": "እነርሱም፦ ቅርብ አይደለም፤ ቤቶችን እንግነባ፤ እርሷ በድስት ናት፤ እኛም ሥጋ ነን፣ ይላሉ።",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "ይላሉ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይደለም"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "ቅርብ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "እንግነባ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ቤቶችን"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እርሷ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "በድስት"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "እኛም"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ሥጋ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:24:12.176593715Z",
+  "model": "glm-5.3"
+}

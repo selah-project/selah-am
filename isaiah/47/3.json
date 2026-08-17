@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 47,
+  "translation": "ዕርፈትህ ትገለጣለች፣ እንዲሁም ንዴትህ ትታያለች፤ የመበቀያ ጊዜ ነው፤ የሰውን ልጅ አላመልክትም።",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "ትገለጣለች"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "ዕርፈትህ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንዲሁም"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ትታያለች"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "ንዴትህ"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "መበቀያ"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "እወስዳለሁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና አል"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "እገናኛለሁ\/አላመልክትም"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰውን"
+    }
+  ],
+  "timestamp": "2026-08-16T07:24:42.847479051Z",
+  "model": "glm-5.3"
+}

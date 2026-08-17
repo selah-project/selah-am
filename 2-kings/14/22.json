@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "am",
+  "chapter": 14,
+  "translation": "እርሱ ኤላትን ⟨את⟩ ሠራ፤ ንጉሡ ከአባቶቹ ጋር ካንቀላፋ በኋላ እሷን ለይሁዳ መለሳት።",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤላትን"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "ኤላትን"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "መለሳት"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ለይሁዳ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "በኋላ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ካንቀላፈፈ\/ከተኛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሡ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ከ…ጋር"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "አባቶቹ"
+    }
+  ],
+  "timestamp": "2026-08-16T06:46:38.906230861Z",
+  "model": "glm-5.3"
+}

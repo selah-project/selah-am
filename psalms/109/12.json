@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 109,
+  "translation": "ለርሱ ምሕረት የሚያደርግ የለም ይሁን፤ ያለአባት ልጆቹን የሚማረውም የለም ይሁን።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለርሱ"
+    },
+    {
+      "surface": "משך",
+      "gloss": "የሚያደርግ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ምሕረት"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "የለምም"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ይሁን"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "የሚማረው"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "ያለአባት ልጆቹን"
+    }
+  ],
+  "timestamp": "2026-08-16T10:07:30.935811197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.3",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "am",
+  "chapter": 6,
+  "translation": "ከወይንና ከመጠጥ ያለፈ እርሱ ይለያል፤ የወይን ጨው ወይም የመጠጥ ጨው አይጠጣም፤ የወይን ጭማቂም ቢሆን አይጠጣም፤ አዲስም ወይም የደረቀ ወይን ፍሬ አይበላም።",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "ከወይን"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "እና ከመጠጥ"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "ያለፈ ይለያል"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ጨው"
+    },
+    {
+      "surface": "יין",
+      "gloss": "የወይን"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "እና ጨው"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "የመጠጥ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይጠጣም አይ"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ጠጣ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉም"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "ጭማቂ"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "የወይን ፍሬ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይጠጣም አይ"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ጠጣ"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "እና የወይን ፍሬ"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "አዲስ"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "እና የደረቀ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይበላም አይ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "በላ"
+    }
+  ],
+  "timestamp": "2026-08-16T04:10:00.762998547Z",
+  "model": "glm-5.3"
+}

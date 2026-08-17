@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 22:11",
+  "book": "2-samuel",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "በኪሩቤል ላይ ወጣ እና በራ፤ በንፋስ እርከኖች ላይ ታየ።",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "ወጣ\/ተቀመጠ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "ኪሩቤል"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "እና በራ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ታየ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ…ላይ"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "እርከኖች"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ንፋስ"
+    }
+  ],
+  "timestamp": "2026-08-16T16:20:31.508046453Z",
+  "model": "glm-5.3"
+}

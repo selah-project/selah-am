@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 69,
+  "translation": "ስለ እኔ የሚጠብቁህ አይዋረዱ አዶናይ ያህዌህ የሰራዊት ጌታ እኔ ምክንያት የሚፈልጉህ አይደፈሩ የእስራኤል ኤሎሂም።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ዋረዱ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ስለ እኔ"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "የሚጠብቁህ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "የሰራዊት ጌታ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "ደፈሩ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "እኔ ምክንያት"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "የሚፈልጉህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "የእስራኤል ኤሎሂም አምላክ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:52:33.551129119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 92,
+  "translation": "ያህዌህ ቀጥተኛ መሆኑን፣ እርሱ የእኔ ውቅር መሆኑን፣ በእርሱ ውስጥ ዐመጽ የለም የሚል ለማወጅ ነው።",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "ለማወጅ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "የሚል ነው"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ቀጥተኛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "የእኔ ውቅር"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ዐመጽ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "በእርሱ ውስጥ"
+    }
+  ],
+  "timestamp": "2026-08-16T10:00:43.918140244Z",
+  "model": "glm-5.3"
+}

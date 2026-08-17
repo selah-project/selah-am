@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 22,
+  "translation": "የምድር ወፍተኞች ሁሉ ይበላሉ እና ፊቱ ያመልካሉ፤ ወደ አፈር የሚወርዱ ሁሉ ያርፉበታል፤ ነፍሱንም ሊያንባብር የማይችል ሰው እኩል ነው።",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "ይበላሉ"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ያመልካሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "ወፍተኞች"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "የምድር"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ፊቱ"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "ያርፉበታል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "የሚወርዱ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "አፈር"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "ነፍሱንም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "የማይችል"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ሊያንባብር"
+    }
+  ],
+  "timestamp": "2026-08-16T18:11:14.265695647Z",
+  "model": "glm-5.3"
+}

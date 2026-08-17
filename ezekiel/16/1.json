@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "ezekiel 16:1",
+  "book": "ezekiel",
+  "lang": "am",
+  "chapter": 16,
+  "translation": "የያህዌህ ቃል ወደ እኔ መጣ፤ «እንዲህ በል» ብሎ ሆነ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ወደ እኔ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ብሎ"
+    }
+  ],
+  "timestamp": "2026-08-16T08:25:12.537690041Z",
+  "model": "glm-5.3"
+}

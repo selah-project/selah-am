@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 11,
+  "ref": "leviticus 13:11",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 13,
+  "translation": "ያረጀ ለምጽ ናት በሥጋው ቆዳ ላይ፤ ካህኑም ያረክሰዋል፤ አያቆለለውም፤ ርኵስ ስለ ሆነ እርሱ ነውና።",
+  "tokens": [
+    {
+      "surface": "צרעת",
+      "gloss": "ለምጽ"
+    },
+    {
+      "surface": "נושנת",
+      "gloss": "ያረጀ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ናት"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "በቆዳ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "በሥጋው"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "ያረክሰዋልም"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይ"
+    },
+    {
+      "surface": "יסגרנו",
+      "gloss": "ያቆለለውም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ ሆነ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ርኵስ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ ነው"
+    }
+  ],
+  "timestamp": "2026-08-16T03:51:06.995218582Z",
+  "model": "glm-5.3"
+}

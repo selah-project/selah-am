@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 64,
+  "translation": "ለመዝማቪው፣ ምዝሙር የዳዊት።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ለመዝማቪው"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ምዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "የዳዊት"
+    }
+  ],
+  "timestamp": "2026-08-16T09:50:36.673677794Z",
+  "model": "glm-5.3"
+}

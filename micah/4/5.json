@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "micah 4:5",
+  "book": "micah",
+  "lang": "am",
+  "chapter": 4,
+  "translation": "ምክንያቱም ሕዝቦች ሁሉ እያንዳንዱ ሰው በራሱ አማልክት ስም ይሄዳሉ፤ እኛ ግን በያህዌህ በእኛ ኤሎሂም ስም ለዘላለም እና ለዘለቃለም እንሄዳለን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ሕዝቦች"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ይሄዳሉ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እያንዳንዱ ሰው"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "በ…ስም"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "አማልክቱ"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "እኛ ግን"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "እንሄዳለን"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "በ…ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "እኛ ኤሎሂም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እና ለዘለቃለም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:11:58.526978352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 37,
+  "translation": "የሐማት ንጉሥ ወዴት ነው? የአርፓድም ንጉሥ፣ የሰፓርዋይም ከተማም ንጉሥ፣ የሐናና የዐዋህ ነው?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "ወዴት ነው?"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ሐማት"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "የ…ም ንጉሥ"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "አርፓድ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "የ…ም ንጉሥ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "ሰፓርዋይም"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "ሐና"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "እና ዐዋህ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:17:57.755558676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 75,
+  "translation": "አመስግንሃለን አንተን ኤሎሂም፤ አመስግንሃለን፤ ስምህም ቅርብ ⟨ነው⟩፤ ድንቆችህን ይናገራሉ።",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "አመስግንሃለን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "አንተን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "አመስግንሃለን"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "ቅርብም"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምህ"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ይናገራሉ"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ድንቆችህን"
+    }
+  ],
+  "timestamp": "2026-08-16T09:54:13.679323730Z",
+  "model": "glm-5.3"
+}

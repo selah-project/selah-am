@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "አብራሃምም ወደ ኤሎሂም ሰገደ፤ ኤሎሂምም ⟨את⟩ አቢሜሌክን እና ⟨את⟩ ሚስቱን እና ባሪያዎቹን ፈወሰ፤ እነርሱም ወለዱ።",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "ሰገደ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "አብራሃም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ፈወሰ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "አቢሜሌክን"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "አቢሜሌክ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "וְ⟨את⟩",
+      "marks": "ሚስቱን"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሚስቱ"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "ባሪያዎቹ"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "ወለዱ"
+    }
+  ],
+  "timestamp": "2026-08-16T02:39:54.425328493Z",
+  "model": "glm-5.3"
+}

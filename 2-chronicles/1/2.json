@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "2-chronicles 1:2",
+  "book": "2-chronicles",
+  "lang": "am",
+  "chapter": 1,
+  "translation": "ሰሎሞንም ለሁሉም እስራኤል ተናገረ — ለሺዎች፣ ለመቶች አለቃዎች፣ ለፈርዳኞች፣ ለእያንዳንዱ አለቃ በሁሉም እስራኤል፣ ለአባቶች ራሾች —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተናገር"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሰሎሞን"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ለሁሉም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "ለ…አለቃዎች"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "ሺዎች"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "እና ለመቶች"
+    },
+    {
+      "surface": "ולשפטים",
+      "gloss": "እና ለፈርዳኞች"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "እና ለሁሉም"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "በሁሉም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ራሾች"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "የአባቶች"
+    }
+  ],
+  "timestamp": "2026-08-16T13:22:58.204677473Z",
+  "model": "glm-5.3"
+}

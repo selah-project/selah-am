@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 30,
+  "translation": "አሁን ሂድ፣ ⟨אתם⟩ እነርሱ ፊት ለፊት በጽላት ላይ ጻፈው፣ በመጽሐፍም ላይ ቅርጽ አስቀምጠው፤ ለመጨረሻው ቀን እንዲሆን፣ ለዘላለም እስከ ዘላለም ድረስ።",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "አሁን"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ሂድ"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "ጻፈው"
+    },
+    {
+      "surface": "על",
+      "gloss": "በ...ላይ"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "ጽላት"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ከእነርሱ ጋራ (ፊት ለፊት)"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "እና በ...ላይ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "መጽሐፍ"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "ቅርጽ አስቀምጠው"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "እንዲሆን"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ለቀን"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "መጨረሻ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ለዘላለም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T07:14:44.792355855Z",
+  "model": "glm-5.3"
+}

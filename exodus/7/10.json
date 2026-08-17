@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "exodus 7:10",
+  "book": "exodus",
+  "lang": "am",
+  "chapter": 7,
+  "translation": "ሞሼና አሃሮን ወደ ፈርዖን ገቡ፤ ያህዌህ እንዳዘዛቸው እንደዚሁ አደረጉ፤ አሃሮንም ⟨את⟩ በትሩን በፈርዖንና በአገልጋዮቹ ፊት ጣለ፤ እርሱም ወደ ትልቅ እባብ ሆነ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ገቡ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሼ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "አሃሮንም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "አደረጉ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እንደዚሁ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "እንዳዘዛቸው"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "አዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ጣለ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "አሃሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በትሩን"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "በትሩን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ፊት"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፈርዖን"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "በ... ፊት"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "አገልጋዮቹ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ሆነ"
+    },
+    {
+      "surface": "לתנין",
+      "gloss": "ወደ ትልቅ እባብ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:08:04.183940333Z",
+  "model": "glm-5.3"
+}

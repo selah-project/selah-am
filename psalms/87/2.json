@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 87,
+  "translation": "የጽዮን በሮችን ከያዕቆብ መኖሪያዎች ሁሉ በላይ ያህዌህ ይወዳል።",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ይወዳል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "በሮችን"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "የጽዮን"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከ…ሁሉ በላይ"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "መኖሪያዎች"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:59:31.000556531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 8,
+  "ref": "joel 2:8",
+  "book": "joel",
+  "lang": "am",
+  "chapter": 2,
+  "translation": "እያንዳንዱም ወንድሙን አይታነክም፤ ጀግና በመንገዱ ይሄዳል፤ በትሩንም ቢወድቁ አይቋረጡም።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "እያንዳንዱም"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወንድሙን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይታነክም"
+    },
+    {
+      "surface": "ידחקון",
+      "gloss": "አይታነክምም"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ጀግና"
+    },
+    {
+      "surface": "במסלתו",
+      "gloss": "በመንገዱ"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "ይሄዳል"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "በ"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "በትሩን"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ቢወድቁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አይቋረጡም"
+    },
+    {
+      "surface": "יבצעו",
+      "gloss": "አይቋረጡም"
+    }
+  ],
+  "timestamp": "2026-08-16T09:04:52.310152699Z",
+  "model": "glm-5.3"
+}

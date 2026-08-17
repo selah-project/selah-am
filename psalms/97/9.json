@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 97,
+  "translation": "አንተ ያህዌህ በመላው ምድር ላይ ከፍ እንደ ሆንህ፣ ከሁሉም አማልክት በእጅግ ተወደድክ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "አንተ እንደ ሆንህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ከፍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላው"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በእጅግ"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "ተወደድክ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "አማልክት"
+    }
+  ],
+  "timestamp": "2026-08-16T10:04:06.662902007Z",
+  "model": "glm-5.3"
+}

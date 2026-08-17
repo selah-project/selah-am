@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 40,
+  "translation": "እኔ ግን ድሃ እና ችጋረኛ ነኝ፤ አዶናይ ያስበኛል፤ ረድኤቴ እና አድናቂዬ ⟨את⟩ አንተ ነህ፤ ኤሎሂም ሆይ፣ አትዘግይ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "እኔ ግን"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ድሃ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "እና ችጋረኛ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ያስበኛል"
+    },
+    {
+      "surface": "לי",
+      "gloss": "በእኔ ላይ"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "ረድኤቴ"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "እና አድናቂዬ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "ዘግይ"
+    }
+  ],
+  "timestamp": "2026-08-16T09:40:49.239021394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "am",
+  "chapter": 17,
+  "translation": "እርሱ ቤት ለእኔ ይሠራል፤ ዙፋኑንም ⟨את⟩ እስከ ዘላለም አጽናዋለሁ።",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "እርሱ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ይሠራል"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "አጽናዋለሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዙፋኑን"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ዙፋኑን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘላለም"
+    }
+  ],
+  "timestamp": "2026-08-16T13:04:21.414345176Z",
+  "model": "glm-5.3"
+}

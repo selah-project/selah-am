@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "am",
+  "chapter": 51,
+  "translation": "አዶናይ ከንፈጄን ታስፈታለህ፣ አፌም የአንተን ምስጋና ይናገራል።",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "አዶናይ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ከንፈጄን"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ታስፈታለህ"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "አፌም"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ይናገራል"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "የአንተን ምስጋና"
+    }
+  ],
+  "timestamp": "2026-08-16T09:45:50.722690691Z",
+  "model": "glm-5.3"
+}

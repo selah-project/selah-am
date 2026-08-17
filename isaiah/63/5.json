@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "isaiah 63:5",
+  "book": "isaiah",
+  "lang": "am",
+  "chapter": 63,
+  "translation": "እናየሁ፣ አጋዥም የለም፤ ተደነቅኩም፣ ደጋፊም የለም፤ ስለዚህ ክንፌ አዳነኝ፣ ቍጣዬም እርሷ ደገፈችኝ።",
+  "tokens": [
+    {
+      "surface": "ואביט",
+      "gloss": "እናየሁ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "አጋዥ"
+    },
+    {
+      "surface": "ואשתומם",
+      "gloss": "እና ተደነቅኩ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እና የለም"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "ደጋፊ"
+    },
+    {
+      "surface": "ותושע",
+      "gloss": "እና አዳነ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለእኔ"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "ክንፌ"
+    },
+    {
+      "surface": "וחמתי",
+      "gloss": "እና ቍጣዬ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እርሷ"
+    },
+    {
+      "surface": "סמכתני",
+      "gloss": "ደገፈችኝ"
+    }
+  ],
+  "timestamp": "2026-08-16T07:32:07.629130287Z",
+  "model": "glm-5.3"
+}

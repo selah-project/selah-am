@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "am",
+  "chapter": 20,
+  "translation": "ራሳችሁን ቀድሳችሁ ቅዱሳን ትሆናላችሁ፣ በምክንያቱም እኔ ያህዌህ ኤሎሂም፣ የናንተ ነኝ።",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "ራሳችሁን ቀድሳችሁ"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ትሆናላችሁ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ቅዱሳን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በምክንያቱም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እኔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂም፣ የናንተ"
+    }
+  ],
+  "timestamp": "2026-08-16T03:56:38.474175672Z",
+  "model": "glm-5.3"
+}
