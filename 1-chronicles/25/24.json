@@ -1,23 +1,23 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 24,
   "ref": "1-chronicles 25:24",
   "book": "1-chronicles",
   "lang": "am",
   "chapter": 25,
-  "translation": "ለአሥራ ሰባትው የሚሆነው ዮስበቃሻ ነው፤ ⟨እርሱ፣ ልጆቹ እና ወንድሞቹ ዐሥራ ሁለት ነበሩ።",
+  "translation": "ለዐሥራሰባት — ለዮሽበቃሻ፣ ልጆቹ እና ወንድሞቹ — ዐሥራ ሁለት።",
   "tokens": [
     {
       "surface": "לשבעה",
-      "gloss": "ለሰባት"
+      "gloss": "ለዐሥራሰባት"
     },
     {
       "surface": "עשר",
-      "gloss": "አሥር (የአሥራ ሰባትው)"
+      "gloss": "—"
     },
     {
       "surface": "לישבקשה",
-      "gloss": "ለዮስበቃሻ"
+      "gloss": "ለዮሽበቃሻ"
     },
     {
       "surface": "בניו",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "שנים",
-      "gloss": "ሁለት (ዐሥራ)"
+      "gloss": "ሁለት"
     },
     {
       "surface": "עשר",
-      "gloss": "አሥር"
+      "gloss": "ዐሥር"
     }
   ],
-  "timestamp": "2026-08-16T13:13:36.448960853Z",
+  "timestamp": "2026-08-18T15:31:30.917606419Z",
   "model": "glm-5.3"
 }

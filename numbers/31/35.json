@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 35,
   "ref": "numbers 31:35",
   "book": "numbers",
   "lang": "am",
   "chapter": 31,
-  "translation": "እና ⟨ה⟩ነፍሳት ሰዎች ከነዚያ ሴቶች የሚከተሉት ባልሆኑ፣ የወንድን መተኛት ያላወቁ ሁሉ፣ ሁሉም ⟨ה⟩ነፍሳት ሁለት እና ሠላሳ ሺህ፤",
+  "translation": "እና ከሴቶቹ ውስጥ የሰው ብዙኃን (ነፍሳት) — ከወንድ ጋር መተኛትን ያላወቁት — ሁሉም ነፍሳት ሁለት እና ሠላሳ ሺህ ናቸው።",
   "tokens": [
     {
-      "surface": "ונפש",
-      "gloss": "እና ⟨ה⟩ነፍሳት"
+      "surface": "וְנֶ֣פֶשׁ",
+      "gloss": "እና ነፍሳት"
     },
     {
-      "surface": "אדם",
-      "gloss": "ሰዎች"
+      "surface": "אָדָ֔ם",
+      "gloss": "የሰው ብዙኃን"
     },
     {
-      "surface": "מן",
+      "surface": "מִן",
       "gloss": "ከ"
     },
     {
-      "surface": "הנשים",
-      "gloss": "ነዚያ ሴቶች"
+      "surface": "הַ֨נָּשִׁ֔ים",
+      "gloss": "ሴቶቹ"
     },
     {
-      "surface": "אשר",
-      "gloss": "የሚከተሉት"
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "የ"
     },
     {
-      "surface": "לא",
+      "surface": "לֹֽא",
       "gloss": "አል"
     },
     {
-      "surface": "ידעו",
+      "surface": "יָדְע֖וּ",
       "gloss": "ያወቁም"
     },
     {
-      "surface": "משכב",
-      "gloss": "መተኛት"
+      "surface": "מִשְׁכַּ֣ב",
+      "gloss": "መተኛትን"
     },
     {
-      "surface": "זכר",
+      "surface": "זָכָ֑ר",
       "gloss": "ወንድ"
     },
     {
-      "surface": "כל",
+      "surface": "כֹּ֥ל",
       "gloss": "ሁሉም"
     },
     {
-      "surface": "נפש",
-      "gloss": "⟨ה⟩ነፍሳት"
+      "surface": "נֶ֖פֶשׁ",
+      "gloss": "ነፍሳት"
     },
     {
-      "surface": "שנים",
+      "surface": "שְׁנַ֥יִם",
       "gloss": "ሁለት"
     },
     {
-      "surface": "ושלשים",
+      "surface": "וּשְׁלֹשִׁ֖ים",
       "gloss": "እና ሠላሳ"
     },
     {
-      "surface": "אלף",
+      "surface": "אָֽלֶף",
       "gloss": "ሺህ"
     }
   ],
-  "timestamp": "2026-08-16T04:27:44.937166370Z",
+  "timestamp": "2026-08-18T16:21:01.468437358Z",
   "model": "glm-5.3"
 }

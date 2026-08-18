@@ -1,12 +1,117 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 2,
   "ref": "jeremiah 43:2",
   "book": "jeremiah",
   "lang": "am",
   "chapter": 43,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-16T08:07:30.322064645Z",
+  "translation": "አዛርያስ የሆሴያ ልጅ፣ እና ዮሐናን የቀሬዕ ልጅ፣ እና ሁሉም ⟨የ⟩ኩራት ሰዎች ለኤርምያስ እንዲህ አሉ፦ ሐሰት ነው የምትናገረው፤ ያህዌህ ኤሎሂም አልላክህም እንድትል «ወደ ምጽራይም አትግቡ በዚያ እንድትኖሩ» ይህን ለማለት አልላክህም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "አሉ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "አዛርያስ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "הושעיה",
+      "gloss": "ሆሴያ"
+    },
+    {
+      "surface": "ויוחנן",
+      "gloss": "እና ዮሐናን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ቀሬዕ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና ሁሉም"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ሰዎች"
+    },
+    {
+      "surface": "הזדים",
+      "gloss": "ኩራት"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "እያሉ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ለ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ኤርምያስ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሐሰት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "አንተ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "የምትናገረው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አል"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "ላክህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂም አምላካችን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እንዲህ ለማለት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "አት"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "ግቡ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽራይም"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "እንድትኖሩ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "በዚያ"
+    }
+  ],
+  "timestamp": "2026-08-18T14:26:39.945153678Z",
   "model": "glm-5.3"
 }

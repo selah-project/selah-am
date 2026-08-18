@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 19,
   "ref": "1-chronicles 1:19",
   "book": "1-chronicles",
   "lang": "am",
   "chapter": 1,
-  "translation": "ለዔቤርም ሁለት ልጆች ተወለዱ፤ የአንዱ ስም ፐሌግ ነው፣ ምክንያቱም በዘመኑ ⟨ה⟩ምድር ተከፋፈለች፤ የወንድሙም ስም ዮቅጣን ነው።",
+  "translation": "ለዐቤርም ሁለት ወንድ ልጆች ተወለዱ፤ የ⟨አንዱ⟩ ስም ፌሌግ ነው፣ በዘመኑ ምድር ስለተከፈለና፤ የወንድሙ ስምም ይቅጣን ነው።",
   "tokens": [
     {
-      "surface": "ולעבר",
-      "gloss": "ለዔቤርም"
+      "surface": "וּלְעֵ֥בֶר",
+      "gloss": "ለዐቤርም"
     },
     {
-      "surface": "ילד",
+      "surface": "יֻלַּ֖ד",
       "gloss": "ተወለዱ"
     },
     {
-      "surface": "שני",
+      "surface": "שְׁנֵ֣י",
       "gloss": "ሁለት"
     },
     {
-      "surface": "בנים",
-      "gloss": "ልጆች"
+      "surface": "בָנִ֑ים",
+      "gloss": "ወንድ ልጆች"
     },
     {
-      "surface": "שם",
+      "surface": "שֵׁ֣ם",
       "gloss": "ስም"
     },
     {
-      "surface": "האחד",
-      "gloss": "የአንዱ"
+      "surface": "הָאֶחָ֞ד",
+      "gloss": "የ⟨አንዱ⟩"
     },
     {
-      "surface": "פלג",
-      "gloss": "ፐሌግ"
+      "surface": "פֶּ֗לֶג",
+      "gloss": "ፌሌግ"
     },
     {
-      "surface": "כי",
-      "gloss": "ምክንያቱም"
+      "surface": "כִּ֤י",
+      "gloss": "ስለዚህ\/በዚህ ምክንያት"
     },
     {
-      "surface": "בימיו",
+      "surface": "בְּיָמָיו֙",
       "gloss": "በዘመኑ"
     },
     {
-      "surface": "נפלגה",
-      "gloss": "ተከፋፈለች"
+      "surface": "נִפְלְגָ֣ה",
+      "gloss": "ተከፈለች"
     },
     {
-      "surface": "הארץ",
+      "surface": "הָאָ֔רֶץ",
       "gloss": "ምድር"
     },
     {
-      "surface": "ושם",
+      "surface": "וְשֵׁ֥ם",
       "gloss": "የ…ስምም"
     },
     {
-      "surface": "אחיו",
-      "gloss": "የወንድሙ"
+      "surface": "אָחִ֖יו",
+      "gloss": "ወንድሙ"
     },
     {
-      "surface": "יקטן",
-      "gloss": "ዮቅጣን"
+      "surface": "יָקְטָֽן",
+      "gloss": "ይቅጣን"
     }
   ],
-  "timestamp": "2026-08-16T12:31:53.244838875Z",
+  "timestamp": "2026-08-18T14:36:11.725354636Z",
   "model": "glm-5.3"
 }

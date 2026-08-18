@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "am",
   "chapter": 5,
-  "translation": "ምክንያቱም ሕልም በብዙ ሥራ ይመጣል፤ የሞኞችም ድምፅ በብዙ ቃላት ⟨is⟩ ይሰማል።",
+  "translation": "ምክንያቱም ሕልም በብዙ ጉዳይ ይመጣል፣ የሞኝም ድምፅ በብዙ ቃላት ⟨ነው⟩።",
   "tokens": [
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "החלום",
-      "gloss": "ሕልም"
+      "gloss": "ሕልሙ"
     },
     {
       "surface": "ברב",
@@ -25,25 +25,25 @@
     },
     {
       "surface": "ענין",
-      "gloss": "ሥራ"
+      "gloss": "ጉዳይ"
     },
     {
       "surface": "וקול",
-      "gloss": "ደግሞ ድምፅ"
+      "gloss": "እና ድምፅ"
     },
     {
       "surface": "כסיל",
-      "gloss": "ሞኾች የ"
+      "gloss": "የሞኝ"
     },
     {
       "surface": "ברב",
-      "gloss": "በብዩ"
+      "gloss": "በብዙ"
     },
     {
       "surface": "דברים",
       "gloss": "ቃላት"
     }
   ],
-  "timestamp": "2026-08-16T18:16:47.181968069Z",
+  "timestamp": "2026-08-18T16:37:13.903562415Z",
   "model": "glm-5.3"
 }

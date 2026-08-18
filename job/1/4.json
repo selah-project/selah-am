@@ -1,12 +1,69 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 4,
   "ref": "job 1:4",
   "book": "job",
   "lang": "am",
   "chapter": 1,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-16T10:40:23.892949460Z",
+  "translation": "የኢዮብ ልጆቹ ሄዱ፣ በየዕለቱ በየሰው ቤት ልጅ በራሱ ቀን በዓል አደረጉ፤ ሦስቱን እህቶቻቸውን ላኩ፣ ደወሉላቸው፣ ከእነርሱ ጋር ይበሉና ይጠጡ ዘንድ።",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "ሄዱ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ልጆቹ"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "አደረጉ"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "በዓልን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "በቤት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "በቀኑ"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "ላኩ"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "ደወሉላቸው"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "ለሦስቱ"
+    },
+    {
+      "surface": "אחיתיהם",
+      "gloss": "እህቶቻቸው"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ለመብላት"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "እና ለመጠጣት"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "ከእነርሱ ጋር"
+    }
+  ],
+  "timestamp": "2026-08-18T15:40:36.277171388Z",
   "model": "glm-5.3"
 }

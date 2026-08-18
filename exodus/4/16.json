@@ -1,19 +1,19 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 16,
   "ref": "exodus 4:16",
   "book": "exodus",
   "lang": "am",
   "chapter": 4,
-  "translation": "እርሱም ስለ አንተ ወደ ⟨the⟩ ሕዝብ ያወራል፤ እርሱም ሆኖ አፍህ ይሆንልሃል፤ አንተም ስለ እርሱ ኤሎሂም ትሆናለህ።",
+  "translation": "እርሱም ስለ አንተ ወደ ⟨ሕዝቡ⟩ ይናገራል፤ እንዲሆንም እርሱ ለአንተ እንደ አፍ ይሆናል፤ አንተም ለእርሱ እንደ ኤሎሂም ትሆናለህ።",
   "tokens": [
     {
       "surface": "ודבר",
-      "gloss": "ያወራል"
+      "gloss": "ይናገራል"
     },
     {
       "surface": "הוא",
-      "gloss": "እርሱም"
+      "gloss": "እርሱ"
     },
     {
       "surface": "לך",
@@ -25,27 +25,27 @@
     },
     {
       "surface": "העם",
-      "gloss": "ሕዝብ"
+      "gloss": "ሕዝቡ"
     },
     {
       "surface": "והיה",
-      "gloss": "ሆኖ"
+      "gloss": "እንዲሆንም"
     },
     {
       "surface": "הוא",
-      "gloss": "እርሱም"
+      "gloss": "እርሱ"
     },
     {
       "surface": "יהיה",
-      "gloss": "ይሆናልፍልህ"
+      "gloss": "ይሆናል"
     },
     {
       "surface": "לך",
-      "gloss": "ልህ"
+      "gloss": "ለአንተ"
     },
     {
       "surface": "לפה",
-      "gloss": "አፍ"
+      "gloss": "እንደ አፍ"
     },
     {
       "surface": "ואתה",
@@ -57,13 +57,13 @@
     },
     {
       "surface": "לו",
-      "gloss": "ስለ እርሱ"
+      "gloss": "ለእርሱ"
     },
     {
       "surface": "לאלהים",
-      "gloss": "ኤሎሂም"
+      "gloss": "እንደ ኤሎሂም"
     }
   ],
-  "timestamp": "2026-08-16T03:09:06.669103923Z",
+  "timestamp": "2026-08-18T14:52:43.639873183Z",
   "model": "glm-5.3"
 }

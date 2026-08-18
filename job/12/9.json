@@ -1,11 +1,11 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 9,
   "ref": "job 12:9",
   "book": "job",
   "lang": "am",
   "chapter": 12,
-  "translation": "በእነዚህ ሁሉ ውስጥ ማን አያውቅም፧ የያህዌህ እጅ ⟨זאת⟩ን አድርጎታልና።",
+  "translation": "በነዚህ ሁሉ መካከል ማን አያውቅም፧ የያህዌህ እጅ ይህን እንደ ሠራች ይታወቃል።",
   "tokens": [
     {
       "surface": "מי",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "לא",
-      "gloss": "አይደለም"
+      "gloss": "አያውቅም"
     },
     {
       "surface": "ידע",
-      "gloss": "ያውቅም"
+      "gloss": "ያውቅ"
     },
     {
       "surface": "בכל",
-      "gloss": "በሁሉ ውስጥ"
+      "gloss": "በሁሉ"
     },
     {
       "surface": "אלה",
-      "gloss": "እነዚህ"
+      "gloss": "ነዚህ"
     },
     {
       "surface": "כי",
-      "gloss": "ነገር ግን"
+      "gloss": "እንደ"
     },
     {
       "surface": "יד",
@@ -37,17 +37,17 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "ያህዌህ"
+      "gloss": "የያህዌህ"
     },
     {
       "surface": "עשתה",
-      "gloss": "አድርጓል"
+      "gloss": "ሠራች"
     },
     {
       "surface": "זאת",
-      "gloss": "⟨זאת⟩ ይህን"
+      "gloss": "ይህን"
     }
   ],
-  "timestamp": "2026-08-16T10:44:36.180782860Z",
+  "timestamp": "2026-08-18T16:14:33.563529633Z",
   "model": "glm-5.3"
 }

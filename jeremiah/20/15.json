@@ -1,11 +1,11 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 15,
   "ref": "jeremiah 20:15",
   "book": "jeremiah",
   "lang": "am",
   "chapter": 20,
-  "translation": "የተረገመ ያ ⟨the⟩ ሰው የሆነው ⟨את⟩ አባቴን ለማለት ያረዳለው «ወንድ ልጅ ተወለደልህ» ሲል ደስ ያሰኘው።",
+  "translation": "የተረገመ ወንድ ነው ወደ አባቴ ስለ ተናገረ እንዲህ ብሎ ⟨את⟩ ለአባቴ «ወንድ ልጅ ተወለደልህ» እና በደስታ አስደስቶታል።",
   "tokens": [
     {
       "surface": "ארור",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "האיש",
-      "gloss": "ያ ⟨the⟩ ሰው"
+      "gloss": "ወንድ ነው"
     },
     {
       "surface": "אשר",
-      "gloss": "የሆነው"
+      "gloss": "የ"
     },
     {
       "surface": "בשר",
-      "gloss": "አረዳ"
+      "gloss": "ስለ ተናገረ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "አባቴን"
+      "marks": "ለአባቴ"
     },
     {
       "surface": "אבי",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "ለማለት"
+      "gloss": "እንዲህ ብሎ"
     },
     {
       "surface": "ילד",
@@ -54,13 +54,13 @@
     },
     {
       "surface": "שמח",
-      "gloss": "ያሰኘ"
+      "gloss": "አስደስቶታል"
     },
     {
       "surface": "שמחהו",
-      "gloss": "ደስ አደረገው"
+      "gloss": "በደስታ"
     }
   ],
-  "timestamp": "2026-08-16T07:50:01.036511648Z",
+  "timestamp": "2026-08-18T15:51:11.723492553Z",
   "model": "glm-5.3"
 }

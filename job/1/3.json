@@ -1,69 +1,113 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 3,
   "ref": "job 1:3",
   "book": "job",
   "lang": "am",
   "chapter": 1,
-  "translation": "እና ብዛቱ ሰባት ሺህ በጎች፣ ሦስት ሺህ ግመሎች፣ አምስት መቶ ጥንድ ላሞች፣ አምስት መቶ ሴት አህዮች፣ ደግሞም በጣም ብዙ አገልጋዮች ነበሩት፤ እና ያ ሰው ከተራራሪዎች ልጆች ሁሉ ታላቅ ነበር።",
+  "translation": "እና ቀለበቱ (ባለቤትነቱ) ሰባት ሺህ በጎች፣ ሦስት ሺህ ግመሎች፣ አምስት መቶ ጥንድ ላሞች እና አምስት መቶ ሴት አህዮች ነበረው፤ አገልጋዮቹም በጣም ብዙ ነበሩ፤ እና ⟨እርሱ⟩ ሰው ⟨ያ⟩ ከተማረሁ ልጆች ሁሉ ታላቅ ⟨ነበረ።⟩",
   "tokens": [
     {
-      "surface": "והלכו",
-      "gloss": "እና ይሄዱ ነበር"
+      "surface": "ויהי",
+      "gloss": "እና ነበረው"
     },
     {
-      "surface": "בניו",
-      "gloss": "ልጆቹ"
+      "surface": "מקנהו",
+      "gloss": "ቀለበቱ (ባለቤትነቱ)"
     },
     {
-      "surface": "ועשו",
-      "gloss": "እና ያደርጉ ነበር"
+      "surface": "שבעת",
+      "gloss": "ሰባት"
     },
     {
-      "surface": "משתה",
-      "gloss": "መጠጥ በዓል"
+      "surface": "אלפי",
+      "gloss": "ሺህ"
     },
     {
-      "surface": "בית",
-      "gloss": "በቤት"
+      "surface": "צאן",
+      "gloss": "በጎች"
     },
     {
-      "surface": "איש",
-      "gloss": "ሰው"
+      "surface": "ושלשת",
+      "gloss": "እና ሦስት"
     },
     {
-      "surface": "יומו",
-      "gloss": "ቀኑ"
+      "surface": "אלפי",
+      "gloss": "ሺህ"
     },
     {
-      "surface": "ושלחו",
-      "gloss": "እና ይልኩ ነበር"
+      "surface": "גמלים",
+      "gloss": "ግመሎች"
     },
     {
-      "surface": "וקראו",
-      "gloss": "እና ይጠሩ ነበር"
+      "surface": "וחמש",
+      "gloss": "እና አምስት"
     },
     {
-      "surface": "לשלשת",
-      "gloss": "ለሦስቱ"
+      "surface": "מאות",
+      "gloss": "መቶ"
     },
     {
-      "surface": "אחיתיהם",
-      "gloss": "እህቶቻቸው"
+      "surface": "צמד",
+      "gloss": "ጥንድ"
     },
     {
-      "surface": "לאכל",
-      "gloss": "ለመብላት"
+      "surface": "בקר",
+      "gloss": "ላሞች"
     },
     {
-      "surface": "ולשתות",
-      "gloss": "እና ለመጠጣት"
+      "surface": "וחמש",
+      "gloss": "እና አምስት"
     },
     {
-      "surface": "עמהם",
-      "gloss": "ከእነርሱ ጋር"
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "ሴት አህዮች"
+    },
+    {
+      "surface": "ועבדה",
+      "gloss": "እና አገልጋዮች"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "በጣም"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "እና ነበረ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰው ⟨ያ⟩"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨ያ⟩ ሰው"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ታላቅ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ከሁሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ተማረሁ (ምስራቅ)"
     }
   ],
-  "timestamp": "2026-08-16T10:40:23.892770219Z",
+  "timestamp": "2026-08-18T14:57:24.432185033Z",
   "model": "glm-5.3"
 }

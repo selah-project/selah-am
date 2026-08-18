@@ -1,15 +1,15 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 13,
   "ref": "deuteronomy 32:13",
   "book": "deuteronomy",
   "lang": "am",
   "chapter": 32,
-  "translation": "በምድር ከፍታዎች ላይ አስቀምጦታል፤ የ⟨the⟩ በረሃን ፍሬዎች አብላዋል፤ ከዐላት ማር አጥብቶታል፣ ከጠንካራ ዐረድ ዘይት።",
+  "translation": "ያህዌህ እርሱን በምድር ከፍታዎች ላይ አሳለፈው፤ የበረሃ አፈሩን በላ፤ ከእምግብ አለት ማር እና ከበረሃ አለት ዘይት አጠባው።",
   "tokens": [
     {
       "surface": "ירכבהו",
-      "gloss": "አስቀምጦታል"
+      "gloss": "አሳለፈው"
     },
     {
       "surface": "על",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "ויאכל",
-      "gloss": "አብላዋል"
+      "gloss": "በላ"
     },
     {
       "surface": "תנובת",
-      "gloss": "ፍሬዎችን"
+      "gloss": "አፈሩን"
     },
     {
       "surface": "שדי",
-      "gloss": "በረሃ"
+      "gloss": "የበረሃ"
     },
     {
       "surface": "וינקהו",
-      "gloss": "አጥብቶታል"
+      "gloss": "አጠባው"
     },
     {
       "surface": "דבש",
@@ -45,21 +45,21 @@
     },
     {
       "surface": "מסלע",
-      "gloss": "ከዐላት"
+      "gloss": "ከእምግብ አለት"
     },
     {
       "surface": "ושמן",
-      "gloss": "ዘይት"
+      "gloss": "እና ዘይት"
     },
     {
       "surface": "מחלמיש",
-      "gloss": "ከጠንካራ"
+      "gloss": "ከበረሃ አለት"
     },
     {
       "surface": "צור",
-      "gloss": "ዐረድ"
+      "gloss": "አለት"
     }
   ],
-  "timestamp": "2026-08-16T04:56:27.796531413Z",
+  "timestamp": "2026-08-18T15:42:23.879454463Z",
   "model": "glm-5.3"
 }

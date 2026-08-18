@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 7,
   "ref": "leviticus 7:7",
   "book": "leviticus",
   "lang": "am",
   "chapter": 7,
-  "translation": "እንደ ኃጢያት መሥዋዕት እንደ ይቅስት መሥዋዕት አንድ ኦሪት አላቸው፤ በእርሱ የሚሠርዘው ካህን ለርሱ ⟨ይሆናል።",
+  "translation": "እንደ ኃጢአት መሥዋዕት ሁሉ እንደ ደምበሽ መሥዋዕት አንድ ታዋላ (ትምህርት) ለእነርሱ ⟨ይሆናል⟩፤ ⟨את⟩ የሚሸሽበት ካህን ራሱ የሚያስተሣሠርበት በርሱ ይሆናል።",
   "tokens": [
     {
-      "surface": "כחטאת",
-      "gloss": "እንደ ኃጢያት መሥዋዕት"
+      "surface": "כַּֽחַטָּאת",
+      "gloss": "እንደ ኃጢአት መሥዋዕት"
     },
     {
-      "surface": "כאשם",
-      "gloss": "እንደ ይቅስት መሥዋዕት"
+      "surface": "כָּֽאָשָׁם",
+      "gloss": "እንደ ደምበሽ መሥዋዕት"
     },
     {
-      "surface": "תורה",
-      "gloss": "ኦሪት"
+      "surface": "תּוֹרָה",
+      "gloss": "ታዋላ"
     },
     {
-      "surface": "אחת",
+      "surface": "אַחַת",
       "gloss": "አንድ"
     },
     {
-      "surface": "להם",
-      "gloss": "ላቸው"
+      "surface": "לָהֶם",
+      "gloss": "ለእነርሱ"
     },
     {
-      "surface": "הכהן",
-      "gloss": "ካህን"
+      "surface": "הַכֹּהֵן",
+      "gloss": "ካህኑ"
     },
     {
-      "surface": "אשר",
-      "gloss": "የሚሠርዘው"
+      "surface": "אֲשֶׁר",
+      "gloss": "የሚሸሽበት"
     },
     {
-      "surface": "יכפר",
-      "gloss": "ያስተሠርዛል"
+      "surface": "יְכַפֶּר",
+      "gloss": "የሚያስተሣሠርበት"
     },
     {
-      "surface": "בו",
-      "gloss": "በእርሱ"
+      "surface": "בּוֹ",
+      "gloss": "በርሱ"
     },
     {
-      "surface": "לו",
-      "gloss": "ለርሱ"
+      "surface": "לּוֹ",
+      "gloss": "ለራሱ"
     },
     {
-      "surface": "יהיה",
+      "surface": "יִהְיֶה",
       "gloss": "ይሆናል"
     }
   ],
-  "timestamp": "2026-08-16T03:44:29.238212079Z",
+  "timestamp": "2026-08-18T14:50:40.120635895Z",
   "model": "glm-5.3"
 }

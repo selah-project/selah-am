@@ -1,12 +1,57 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 15,
   "ref": "genesis 34:15",
   "book": "genesis",
   "lang": "am",
   "chapter": 34,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-16T02:53:57.154244409Z",
+  "translation": "ከዚህ ብቻ እንስማማላለን፤ እናንተ እንደ እኛ ልትሆኑ ከሆነ፣ ወንዶች ሁሉ ልተገረዙ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ከዚህ ብቻ"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "በዚህ"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "እንስማማላለን"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ላንተ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከሆነ"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ትሆኑ"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "እንደ እኛ"
+    },
+    {
+      "surface": "להמל",
+      "gloss": "ልተገረዙ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ለናንተ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ወንድ"
+    }
+  ],
+  "timestamp": "2026-08-18T16:39:27.047996822Z",
   "model": "glm-5.3"
 }

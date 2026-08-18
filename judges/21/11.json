@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 11,
   "ref": "judges 21:11",
   "book": "judges",
   "lang": "am",
   "chapter": 21,
-  "translation": "«ይህም ⟨is⟩ የምታደርጉት ቃል፦ እኩል በእኩል የወንድ ሁሉን፣ እንዲሁም ከወንድ ጋር የተኛች የታወቀች ሴት ሁሉ እርም በእጅጉ ታጠፋታላችሁ» ነው።",
+  "translation": "ይህም ⟨ስለ⟩ቃል ነው የምታደርጉት፦ ወንድ ሁሉን እና የወንድ ማልቀሻ ያወቀች ሴት ሁሉን ትከርሙዋቸዋል።",
   "tokens": [
     {
-      "surface": "וזה",
+      "surface": "וְזֶה",
       "gloss": "ይህም"
     },
     {
-      "surface": "הדבר",
-      "gloss": "ቃል፦"
+      "surface": "הַדָּבָר",
+      "gloss": "ቃል"
     },
     {
-      "surface": "אשר",
+      "surface": "אֲשֶׁר",
+      "gloss": "⟨ስለ⟩"
+    },
+    {
+      "surface": "תַּעֲשׂוּ",
       "gloss": "የምታደርጉት"
     },
     {
-      "surface": "תעשו",
-      "gloss": "ታደርጋላችሁ"
-    },
-    {
-      "surface": "כל",
+      "surface": "כָּל",
       "gloss": "ሁሉን"
     },
     {
-      "surface": "זכר",
+      "surface": "זָכָר",
       "gloss": "ወንድ"
     },
     {
-      "surface": "וכל",
-      "gloss": "እንዲሁም"
+      "surface": "וְכָל",
+      "gloss": "እና ሁሉን"
     },
     {
-      "surface": "אשה",
+      "surface": "אִשָּׁה",
       "gloss": "ሴት"
     },
     {
-      "surface": "ידעת",
-      "gloss": "የታወቀች"
+      "surface": "יֹדַ֫עַת",
+      "gloss": "ያወቀች"
     },
     {
-      "surface": "משכב",
-      "gloss": "የመተኛት"
+      "surface": "מִשְׁכַּב",
+      "gloss": "ማልቀሻ"
     },
     {
-      "surface": "זכר",
+      "surface": "זָכָר",
       "gloss": "ወንድ"
     },
     {
-      "surface": "תחרימו",
-      "gloss": "እርም በእጅጉ ታጠፋታላችሁ"
+      "surface": "תַּחֲרִֽימוּ",
+      "gloss": "ትከርሙዋቸዋል"
     }
   ],
-  "timestamp": "2026-08-16T05:30:12.254697750Z",
+  "timestamp": "2026-08-18T14:34:49.960150124Z",
   "model": "glm-5.3"
 }

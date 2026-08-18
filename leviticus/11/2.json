@@ -1,11 +1,11 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 2,
   "ref": "leviticus 11:2",
   "book": "leviticus",
   "lang": "am",
   "chapter": 11,
-  "translation": "ለእስራኤል ልጆች እንዲህ በላቸው፤ ይህች ⟨is⟩ የምትበሏት ሕይወት ያላት፣ ከምድሩ እንስሳት ሁሉ ከሆነው እንስሳ፤",
+  "translation": "ወደ እስራኤል ልጆች ተናገሩ እንዲህ ልትሉ፦ ይህች ሆይቷ ከምድር ላይ ካሉት ከሁሉም እንስሳት የምትበሉት ⟨ሕይወት ያላት⟩ ፍጡር ናት።",
   "tokens": [
     {
       "surface": "דברו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ለ"
+      "gloss": "ወደ"
     },
     {
       "surface": "בני",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "እንዲህ"
+      "gloss": "እንዲህ ልትሉ"
     },
     {
       "surface": "זאת",
@@ -33,37 +33,37 @@
     },
     {
       "surface": "החיה",
-      "gloss": "ሕይወት ያላት"
+      "gloss": "ሆይቷ ሕይወት ያላት ፍጡር"
     },
     {
       "surface": "אשר",
-      "gloss": "የ"
+      "gloss": "የምትበሉት"
     },
     {
       "surface": "תאכלו",
-      "gloss": "የምትበሏት"
+      "gloss": "የምትበሉት"
     },
     {
       "surface": "מכל",
-      "gloss": "ከሁሉ"
+      "gloss": "ከሁሉም"
     },
     {
       "surface": "הבהמה",
-      "gloss": "እንስሳ"
+      "gloss": "እንስሳት"
     },
     {
       "surface": "אשר",
-      "gloss": "የ"
+      "gloss": "ካሉት"
     },
     {
       "surface": "על",
-      "gloss": "በ"
+      "gloss": "ላይ"
     },
     {
       "surface": "הארץ",
       "gloss": "ምድር"
     }
   ],
-  "timestamp": "2026-08-16T03:49:19.040366889Z",
+  "timestamp": "2026-08-18T16:30:05.581880710Z",
   "model": "glm-5.3"
 }

@@ -1,19 +1,36 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 22,
   "ref": "genesis 40:22",
   "book": "genesis",
   "lang": "am",
   "chapter": 40,
-  "translation": "እና ⟨את⟩ የአበባችᎥን አለቃን በውል ቀጠለው፤ ⟨את⟩ እንደ ተነበየላቸው ላቸው።",
+  "translation": "እና ⟨את⟩ የእንጹሮቹ አለቃን ተከለ፣ እንደ ተረገመላቸው ዮሴፍ።",
   "tokens": [
     {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የእንጹሮቹ አለቃ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "አለቃ"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "የእንጹሮቹ"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "ተከለ"
+    },
+    {
       "surface": "כאשר",
-      "gloss": "⟨את⟩ እንደ"
+      "gloss": "እንደ"
     },
     {
       "surface": "פתר",
-      "gloss": "ተነበየላቸው"
+      "gloss": "ተረገመላቸው"
     },
     {
       "surface": "להם",
@@ -24,6 +41,6 @@
       "gloss": "ዮሴፍ"
     }
   ],
-  "timestamp": "2026-08-16T02:54:59.151332526Z",
+  "timestamp": "2026-08-18T15:24:59.869885423Z",
   "model": "glm-5.3"
 }

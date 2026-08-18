@@ -1,11 +1,11 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 9,
   "ref": "deuteronomy 26:9",
   "book": "deuteronomy",
   "lang": "am",
   "chapter": 26,
-  "translation": "ወደ ይህ ቦታ አስገባን፤ ያህዌህም ⟨את⟩ ይህችውን ምድር ለእኛ ሰጠን — ወተትና ማር የምትፈስብ ምድር።",
+  "translation": "እኛን ወደዚህ ቦታ አስገባን፤ እኛን ⟨את⟩ ⟨የ⟩ምድሪቱን ይህችን ምድር ሰጠን — ወተትና ማር የሚፈስባት ምድር።",
   "tokens": [
     {
       "surface": "ויבאנו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "המקום",
-      "gloss": "⟨the⟩ ቦታ"
+      "gloss": "ዚህ ቦታ"
     },
     {
       "surface": "הזה",
@@ -29,20 +29,20 @@
     },
     {
       "surface": "לנו",
-      "gloss": "ለእኛ"
+      "gloss": "ለኛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ይህች ምድር"
+      "marks": "የምድሪቱን"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ ምድር"
+      "gloss": "ምድሪቱን"
     },
     {
       "surface": "הזאת",
-      "gloss": "ይህች"
+      "gloss": "ይህችን"
     },
     {
       "surface": "ארץ",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "זבת",
-      "gloss": "የምትፈስብ"
+      "gloss": "የሚፈስባት"
     },
     {
       "surface": "חלב",
@@ -61,6 +61,6 @@
       "gloss": "እና ማር"
     }
   ],
-  "timestamp": "2026-08-16T04:50:25.770183011Z",
+  "timestamp": "2026-08-18T14:38:46.030941244Z",
   "model": "glm-5.3"
 }

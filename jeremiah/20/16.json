@@ -1,35 +1,35 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 16,
   "ref": "jeremiah 20:16",
   "book": "jeremiah",
   "lang": "am",
   "chapter": 20,
-  "translation": "እና ያ ⟨the⟩ ሰው እርሱ የሆነው እንደ ⟨the⟩ ከተሞች ይሁን ያህዌህ ያወዛወዛቸው እና ያላዘነላቸው፤ እና ጮክ በጠዋት ይሰማ እና የውጊያ ድምፅ በእኩለ ቀን ሰዓት።",
+  "translation": "እናም ሰውዬ እንደ ከተሞቹ ይሁን፣ እነርሱን ያህዌህ ገብሮ ያልተሃዘ፤ ጮክ ብሎ መቅሰምን በጠዋቱ ይሰማ፣ የጦር ድምፅንም በእኩለ ቀን ሰዓት።",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "እና ይሁን"
+      "gloss": "ይሁን፣"
     },
     {
       "surface": "האיש",
-      "gloss": "ያ ⟨the⟩ ሰው"
+      "gloss": "ሰውዬ"
     },
     {
       "surface": "ההוא",
-      "gloss": "እርሱ"
+      "gloss": "እዚያ"
     },
     {
       "surface": "כערים",
-      "gloss": "እንደ ⟨the⟩ ከተሞች"
+      "gloss": "እንደ ከተሞቹ"
     },
     {
       "surface": "אשר",
-      "gloss": "የሆነው"
+      "gloss": "እነርሱን"
     },
     {
       "surface": "הפך",
-      "gloss": "ያወዛወዛቸው"
+      "gloss": "ገብሮ"
     },
     {
       "surface": "יהוה",
@@ -37,37 +37,37 @@
     },
     {
       "surface": "ולא",
-      "gloss": "እና አል"
+      "gloss": "አል"
     },
     {
       "surface": "נחם",
-      "gloss": "ያዘነላቸው"
+      "gloss": "ተሃዘ፣"
     },
     {
       "surface": "ושמע",
-      "gloss": "እና ይሰማ"
+      "gloss": "ይሰማ፣"
     },
     {
       "surface": "זעקה",
-      "gloss": "ጮክ"
+      "gloss": "ጮክ ብሎ መቅሰምን"
     },
     {
       "surface": "בבקר",
-      "gloss": "በጠዋት"
+      "gloss": "በጠዋቱ"
     },
     {
       "surface": "ותרועה",
-      "gloss": "እና የውጊያ ድምፅ"
+      "gloss": "የጦር ድምፅንም"
     },
     {
       "surface": "בעת",
-      "gloss": "በሰዓት"
+      "gloss": "በ…ሰዓት"
     },
     {
       "surface": "צהרים",
       "gloss": "እኩለ ቀን"
     }
   ],
-  "timestamp": "2026-08-16T07:50:01.036681821Z",
+  "timestamp": "2026-08-18T14:52:18.172760059Z",
   "model": "glm-5.3"
 }

@@ -1,78 +1,79 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 9,
   "ref": "leviticus 11:9",
   "book": "leviticus",
   "lang": "am",
   "chapter": 11,
-  "translation": "ከውሃ ውስጥ ካለው ሁሉ ⟨את⟩ ይህን ታቅላላችሁ፤ በውሃው ውስጥ፣ በባሕርያትና በነዋያት ሁሉ ውስጥ ስንፍርናና ቅርፊት ያለው ሁሉ — እነሱን ⟨את⟩ ⟨אתם⟩ ታቅላላችሁ።",
+  "translation": "ይህንን ⟨את⟩ ከሁሉም ከውኃ ውስጣዊ ፍጥረታት ትበላላችሁ፤ ማናቸውም እነርሱ ከውኃ ውስጥ በባሕሮችና በወንዞች የከፍና ትርፍ ያላቸው ሁሉ — እነርሱን ⟨את⟩ ትበላላችሁ።",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ይህን"
+      "marks": "ይህንን"
     },
     {
       "surface": "זה",
-      "gloss": "ይህ"
+      "gloss": "ይህንን"
     },
     {
       "surface": "תאכלו",
-      "gloss": "ታቅላላችሁ"
+      "gloss": "ትበላላችሁ"
     },
     {
       "surface": "מכל",
-      "gloss": "ከሁሉ"
+      "gloss": "ከሁሉም"
     },
     {
       "surface": "אשר",
-      "gloss": "የሚገኝበት"
+      "gloss": "እነርሱ"
     },
     {
       "surface": "במים",
-      "gloss": "በውሃ ውስጥ"
+      "gloss": "ከውኃ ውስጥ"
     },
     {
       "surface": "כל",
-      "gloss": "ሁሉ"
+      "gloss": "ማናቸውም"
     },
     {
       "surface": "אשר",
-      "gloss": "የሚከተለው"
+      "gloss": "ሁሉ"
     },
     {
       "surface": "לו",
-      "gloss": "ለእርሱ"
+      "gloss": "ላቸው"
     },
     {
       "surface": "סנפיר",
-      "gloss": "ስንፍርና"
+      "gloss": "ከፍና ትርፍ"
     },
     {
       "surface": "וקשקשת",
-      "gloss": "እና ቅርፊት"
+      "gloss": "እና ትርፍ"
     },
     {
       "surface": "במים",
-      "gloss": "በውሃው"
+      "gloss": "ከውኃ ውስጥ"
     },
     {
       "surface": "בימים",
-      "gloss": "በባሕርያት"
+      "gloss": "በባሕሮች"
     },
     {
       "surface": "ובנחלים",
-      "gloss": "እና በነዋያት"
+      "gloss": "እና በወንዞች"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "እነርሱን"
     },
     {
       "surface": "תאכלו",
-      "gloss": "ታቅላላችሁ"
+      "gloss": "ትበላላችሁ"
     }
   ],
-  "timestamp": "2026-08-17T14:16:08.170007324Z",
+  "timestamp": "2026-08-18T17:05:16.993993446Z",
   "model": "glm-5.3"
 }

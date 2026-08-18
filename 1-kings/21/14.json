@@ -1,19 +1,15 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 14,
   "ref": "1-kings 21:14",
   "book": "1-kings",
   "lang": "am",
   "chapter": 21,
-  "translation": "ወደ ኢዘበልም ላኩ እንዲሉ፦ «ናቦት በድንጋይ ተወረወረ፤ ሞተም»።",
+  "translation": "ወደ አይዘበልም ልከው እንዲሉ ናብቶት የተደበደበ ነው፤ ሞተም።",
   "tokens": [
     {
       "surface": "וישלחו",
-      "gloss": "ላኩ"
-    },
-    {
-      "surface": "᧟",
-      "gloss": ""
+      "gloss": "ልከው"
     },
     {
       "surface": "אל",
@@ -21,7 +17,7 @@
     },
     {
       "surface": "איזבל",
-      "gloss": "ኢዘበል"
+      "gloss": "አይዘበል"
     },
     {
       "surface": "לאמר",
@@ -29,17 +25,17 @@
     },
     {
       "surface": "סקל",
-      "gloss": "በድንጋይ ተወረወረ"
+      "gloss": "የተደበደበ ነው"
     },
     {
       "surface": "נבות",
-      "gloss": "ናቦት"
+      "gloss": "ናብቶት"
     },
     {
       "surface": "וימת",
       "gloss": "ሞተም"
     }
   ],
-  "timestamp": "2026-08-16T06:33:52.309084478Z",
+  "timestamp": "2026-08-18T15:12:13.466098346Z",
   "model": "glm-5.3"
 }

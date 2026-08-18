@@ -1,27 +1,27 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 44,
   "ref": "deuteronomy 4:44",
   "book": "deuteronomy",
   "lang": "am",
   "chapter": 4,
-  "translation": "ይህችም ⟨ሕግ⟩ እርሷ ትሆናለች እርሱም ሞሼ በእስራኤል ልጆች ፊት ያስቀመጠው — ⟨אשר⟩ ያስቀመጠው ሕግ።",
+  "translation": "ይህም ⟨እርሷ⟩ ቶራት ነች፣ ሞሼ የሰጣት በውስጥ በእስራኤል ልጆች ፊት።",
   "tokens": [
     {
       "surface": "וזאת",
-      "gloss": "ይህችም"
+      "gloss": "ይህም"
     },
     {
       "surface": "התורה",
-      "gloss": "ሕግ"
+      "gloss": "ቶራት"
     },
     {
       "surface": "אשר",
-      "gloss": "ያ"
+      "gloss": "የሰጣት"
     },
     {
       "surface": "שם",
-      "gloss": "አስቀመጠ"
+      "gloss": "አቀምቶ"
     },
     {
       "surface": "משה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "ፊት"
+      "gloss": "ከፊት ለ"
     },
     {
       "surface": "בני",
@@ -40,6 +40,6 @@
       "gloss": "እስራኤል"
     }
   ],
-  "timestamp": "2026-08-16T04:35:23.055572098Z",
+  "timestamp": "2026-08-18T14:48:46.363939665Z",
   "model": "glm-5.3"
 }

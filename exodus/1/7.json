@@ -1,58 +1,58 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 7,
   "ref": "exodus 1:7",
   "book": "exodus",
   "lang": "am",
   "chapter": 1,
-  "translation": "እስራኤል ልጆች አፈሩ፣ ተበዙ፣ በለዙ፣ ደግሞም በእጅግ በእጅግ ተጠኑ፤ ምድሩም ⟨אֺתָם⟩ በእነሱ ተሞላች።",
+  "translation": "የይስራኤል ልጆችም አፍረው፣ ተበዙ፣ በዝ፣ እጅግ በጣም ኃያላን ሆኑ፤ ⟨የ⟩ምድሩም በእነርሱ ⟨את⟩ ሞላች።",
   "tokens": [
     {
       "surface": "ובני",
-      "gloss": "እና ልጆች"
+      "gloss": "የ…ልጆችም"
     },
     {
       "surface": "ישראל",
-      "gloss": "እስራኤል"
+      "gloss": "ይስራኤል"
     },
     {
       "surface": "פרו",
-      "gloss": "አፈሩ"
+      "gloss": "አፍረው"
     },
     {
       "surface": "וישרצו",
-      "gloss": "ተበዙ፣ አሞሉ"
+      "gloss": "ተበዙ"
     },
     {
       "surface": "וירבו",
-      "gloss": "በለዙ"
+      "gloss": "በዝፈኑ"
     },
     {
       "surface": "ויעצמו",
-      "gloss": "ተጠኑ፣ አደረጉ ኃይል"
+      "gloss": "ኃያላን ሆኑ"
     },
     {
       "surface": "במאד",
-      "gloss": "በእጅግ"
+      "gloss": "እጅግ"
     },
     {
       "surface": "מאד",
-      "gloss": "በእጅግ"
+      "gloss": "በጣም"
     },
     {
       "surface": "ותמלא",
-      "gloss": "ተሞላችም"
+      "gloss": "ሞላች፤"
     },
     {
       "surface": "הארץ",
-      "gloss": "ምድሩ"
+      "gloss": "ምድሪቱ"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "እነሱ"
+      "gloss": "⟨את⟩",
+      "marks": "በእነርሱ"
     }
   ],
-  "timestamp": "2026-08-17T14:16:08.109679326Z",
+  "timestamp": "2026-08-18T15:46:21.226701174Z",
   "model": "glm-5.3"
 }

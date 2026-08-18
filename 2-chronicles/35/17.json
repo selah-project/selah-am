@@ -5,8 +5,63 @@
   "book": "2-chronicles",
   "lang": "am",
   "chapter": 35,
-  "translation": "በዕብራይስጥ ምንጭ ላይ ምንም ተጨማሪ ነገር የለም።",
-  "tokens": [],
-  "timestamp": "2026-08-16T19:02:23.664724484Z",
+  "translation": "የእስራኤል ልጆች በዚያ ⟨ሰዓት⟩ የተገኙት ⟨את⟩ ፋሲካን እና ⟨את⟩ የቂጣ በዓልን ሰባት ቀናት አከናወኑ።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "አከናወኑ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "የተገኙት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፋሲካን"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ፋሲካን"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "በዚያ ሰዓት"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ያንዲቱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "እና ⟨את⟩",
+      "marks": "የቂጣ በዓልን"
+    },
+    {
+      "surface": "חג",
+      "gloss": "በዓል"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "የቂጣ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ቀናት"
+    }
+  ],
+  "timestamp": "2026-08-18T15:25:10.484853963Z",
   "model": "glm-5.3"
 }

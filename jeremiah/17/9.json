@@ -1,19 +1,19 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 9,
   "ref": "jeremiah 17:9",
   "book": "jeremiah",
   "lang": "am",
   "chapter": 17,
-  "translation": "ክፉ ነው ⟨ה⟩ልብ ከሁሉም በላይ፣ እና ⟨ማዳን አይቻልም። ማን ያውቀዋል?",
+  "translation": "አጭብርባች ነው ⟨ልቡ⟩ ከሁሉም በላይ፣ እና ከባድ በሽታ ነው የማይፈወስ፤ ማን ያውቀዋል?",
   "tokens": [
     {
       "surface": "עקב",
-      "gloss": "ክፉ\/ተንኮለኛ"
+      "gloss": "አጭብርባች"
     },
     {
       "surface": "הלב",
-      "gloss": "⟨ה⟩ልብ"
+      "gloss": "ልቡ"
     },
     {
       "surface": "מכל",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ואנש",
-      "gloss": "እና ማዳን አይቻልም"
+      "gloss": "እና የማይፈወስ በሽታ"
     },
     {
       "surface": "הוא",
-      "gloss": "እርሱ"
+      "gloss": "ነው"
     },
     {
       "surface": "מי",
@@ -36,6 +36,6 @@
       "gloss": "ያውቀዋል"
     }
   ],
-  "timestamp": "2026-08-16T07:47:55.980735323Z",
+  "timestamp": "2026-08-18T15:27:11.683629737Z",
   "model": "glm-5.3"
 }

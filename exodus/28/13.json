@@ -1,25 +1,25 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 13,
   "ref": "exodus 28:13",
   "book": "exodus",
   "lang": "am",
   "chapter": 28,
-  "translation": "የወርቅ ማስቀመጫ ቅርጾችን (מִשְׁבְּצֹת) ታዘጋጃለህ።",
+  "translation": "የወርቅ ማስተራረቂያዎችን (מִשְׁבְּצֹת) ታደርጋለህ።",
   "tokens": [
     {
       "surface": "ועשית",
-      "gloss": "ታዘጋጃለህ"
+      "gloss": "ታደርጋለህ"
     },
     {
       "surface": "משבצת",
-      "gloss": "የወርቅ ማስቀመጫ ቅርጾችን (מִשְׁבְּצֹת)"
+      "gloss": "ማስተራረቂያዎችን"
     },
     {
       "surface": "זהב",
-      "gloss": "ወርቅ"
+      "gloss": "የወርቅ"
     }
   ],
-  "timestamp": "2026-08-16T03:26:43.949551744Z",
+  "timestamp": "2026-08-18T16:24:08.317362727Z",
   "model": "glm-5.3"
 }

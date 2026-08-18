@@ -1,27 +1,27 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 21,
   "ref": "psalms 104:21",
   "book": "psalms",
   "lang": "am",
   "chapter": 104,
-  "translation": "ነብሮቹ ለምርኮ ያለቅሳሉ፣ እና ⟨אֵל⟩ ለኤል የሚበሉትን ምግባቸውን ይፈልጋሉ።",
+  "translation": "ጎበዞቹ አንበሶች ለምግባቸው እየተኮሱ ከኤል ዕጣታቸውን ይሻሉ።",
   "tokens": [
     {
       "surface": "הכפירים",
-      "gloss": "ነብሮቹ"
+      "gloss": "ጎበዞቹ አንበሶች"
     },
     {
       "surface": "שאגים",
-      "gloss": "ያለቅሳሉ"
+      "gloss": "እየተኮሱ"
     },
     {
       "surface": "לטרף",
-      "gloss": "ለምርኮ"
+      "gloss": "ለምግባቸው"
     },
     {
       "surface": "ולבקש",
-      "gloss": "እና ይፈልጋሉ"
+      "gloss": "ይሻሉ"
     },
     {
       "surface": "מאל",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "אכלם",
-      "gloss": "ምግባቸውን"
+      "gloss": "ዕጣታቸውን"
     }
   ],
-  "timestamp": "2026-08-16T10:03:38.721320261Z",
+  "timestamp": "2026-08-18T15:25:19.469986654Z",
   "model": "glm-5.3"
 }

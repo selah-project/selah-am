@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 3,
   "ref": "deuteronomy 15:3",
   "book": "deuteronomy",
   "lang": "am",
   "chapter": 15,
-  "translation": "እንጹሩን ⟨את⟩ ታስገብራለህ፤ ከወንድምህ ጋር ⟨ה⟩የሚሆን ያለህ ሁሉ እጅህን ታስወግዳለህ።",
+  "translation": "ከመንገደኛው በስተቀር ⟨את⟩ ሌላ ወገን ታሳድዳለህ፤ ነገር ግን የሆነው በአንተ ላይ ካለው ⟨את⟩ ወንድምህ ጋር እጅህን ታተላለህ።",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "እንጹሩን"
+      "marks": "ሌላ ወገን \/ መንገደኛው"
     },
     {
       "surface": "הנכרי",
-      "gloss": "እንጹሩን"
+      "gloss": "መንገደኛው"
     },
     {
       "surface": "תגש",
-      "gloss": "ታስገብራለህ"
+      "gloss": "ታሳድዳለህ"
     },
     {
       "surface": "ואשר",
-      "gloss": "እና የሚሆን"
+      "gloss": "ነገር ግን የሆነው"
     },
     {
       "surface": "יהיה",
-      "gloss": "ያለህ"
+      "gloss": "የሆነው"
     },
     {
       "surface": "לך",
-      "gloss": "ልህ"
+      "gloss": "በአንተ ላይ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ወንድምህን"
+      "marks": "ወንድምህ"
     },
     {
       "surface": "אחיך",
@@ -43,13 +43,13 @@
     },
     {
       "surface": "תשמט",
-      "gloss": "ታስወግዳለህ"
+      "gloss": "ታተላለህ \/ ታሰንፋለህ"
     },
     {
       "surface": "ידך",
       "gloss": "እጅህን"
     }
   ],
-  "timestamp": "2026-08-16T04:44:16.966255641Z",
+  "timestamp": "2026-08-18T14:31:25.365257058Z",
   "model": "glm-5.3"
 }

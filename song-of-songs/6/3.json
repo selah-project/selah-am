@@ -1,11 +1,11 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 3,
   "ref": "song-of-songs 6:3",
   "book": "song-of-songs",
   "lang": "am",
   "chapter": 6,
-  "translation": "እኔ ለወዳጄ ነኝ፣ ወዳጄም ለእኔ ነው፤ ⟨הוא⟩ በሱሳኝ አበባዎች መካከል የሚሰማራ ነው።",
+  "translation": "እኔ የዱዲ ነኝ፣ ዱዲም የእኔ ነው፤ በሹሻናዎች ⟨ה⟩መንጋው የሚጠብቅ ነው።",
   "tokens": [
     {
       "surface": "אני",
@@ -13,25 +13,25 @@
     },
     {
       "surface": "לדודי",
-      "gloss": "ለወዳጄ"
+      "gloss": "የዱዲ ነኝ"
     },
     {
       "surface": "ודודי",
-      "gloss": "ወዳጄም"
+      "gloss": "ዱዲም"
     },
     {
       "surface": "לי",
-      "gloss": "ለእኔ"
+      "gloss": "የእኔ ነው"
     },
     {
       "surface": "הרעה",
-      "gloss": "የሚሰማራ ⟨הוא⟩"
+      "gloss": "መንጋውን የሚጠብቅ"
     },
     {
       "surface": "בשושנים",
-      "gloss": "በሱሳኝ አበባዎች መካከል"
+      "gloss": "በሹሻናዎች"
     }
   ],
-  "timestamp": "2026-08-16T11:03:57.986048985Z",
+  "timestamp": "2026-08-18T16:45:47.756693901Z",
   "model": "glm-5.3"
 }

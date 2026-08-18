@@ -1,15 +1,15 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 20,
   "ref": "2-samuel 11:20",
   "book": "2-samuel",
   "lang": "am",
   "chapter": 11,
-  "translation": "የንጉሡ ቁጭት ብትወጣና እንዲህ ብሎ ቢልህ — ለምን ወደ ከተማዋ ቀርባችሁ ታጣቡ? እነርሱ ከቅጥሩ በላይ የሚወርዩትን ባታውቁም እንዴት ነው የምታውቁት?",
+  "translation": "እንዲሁ ይሆናል፤ የንጉሡ ቍጣ ቢያረግ እና ቢልህ «ለምን ተቃረባችሁ ወደ ⟨በ⟩ ከተማዪቱ ለመዋጋት? ከቅጥሩ ላይ የሚወሩትን ⟨את⟩ የሚወሩትን አታውቃችሁምን?»",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "ይሆናል እንደ"
+      "gloss": "ይሆናል"
     },
     {
       "surface": "אם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "תעלה",
-      "gloss": "ብትወጣ"
+      "gloss": "ቢያረግ"
     },
     {
       "surface": "חמת",
-      "gloss": "ቁጭት የንጉሡ"
+      "gloss": "ቍጣ"
     },
     {
       "surface": "המלך",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ואמר",
-      "gloss": "ብሎ ቢልህ"
+      "gloss": "ቢልህ"
     },
     {
       "surface": "לך",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נגשתם",
-      "gloss": "ቀርባችሁ"
+      "gloss": "ተቃረባችሁ"
     },
     {
       "surface": "אל",
@@ -49,18 +49,42 @@
     },
     {
       "surface": "העיר",
-      "gloss": "ከተማዋ"
+      "gloss": "ከተማዪቱ"
     },
     {
       "surface": "להלחם",
-      "gloss": "ታጣቡ ዘንድ"
+      "gloss": "ለመዋጋት"
     },
     {
       "surface": "הלוא",
-      "gloss": "እንዴት ነው የምታውቁት የማታውቁም።",
-      "rationale": "Hebrew הלוא is a rhetorical negative interrogative; rendered as emphatic question."
+      "gloss": "አል...ምን"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "አውቃችኋል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሚወሩትን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የሚወሩትን"
+    },
+    {
+      "surface": "ירו",
+      "gloss": "ይወሩት"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ከላዩ"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ከቅጥሩ"
     }
   ],
-  "timestamp": "2026-08-16T06:00:10.277805996Z",
+  "timestamp": "2026-08-18T16:11:14.312126871Z",
   "model": "glm-5.3"
 }

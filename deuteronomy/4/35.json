@@ -1,19 +1,19 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 35,
   "ref": "deuteronomy 4:35",
   "book": "deuteronomy",
   "lang": "am",
   "chapter": 4,
-  "translation": "ለአንተ አሳይሃል እንድታውቅ — ያህዌህ እርሱ ⟨is⟩ ኤሎሂም ነው፤ ከእርሱ በቀር ሌላ የለም።",
+  "translation": "አንተ ታይተሃል፣ እንድታውቅ ያህዌህ ራሱ ኤሎሂም ⟨እንደሆነ⟩፤ ከእርሱ በቀር ሌላ የለም።",
   "tokens": [
     {
       "surface": "אתה",
-      "gloss": "ለአንተ"
+      "gloss": "አንተ"
     },
     {
       "surface": "הראת",
-      "gloss": "አሳይሃል"
+      "gloss": "ታይተሃል"
     },
     {
       "surface": "לדעת",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "እንደሚከተለው"
+      "gloss": "እንደ"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "እርሱ"
+      "gloss": "ራሱ"
     },
     {
       "surface": "האלהים",
@@ -48,6 +48,6 @@
       "gloss": "ከእርሱ በቀር"
     }
   ],
-  "timestamp": "2026-08-16T04:37:02.096372210Z",
+  "timestamp": "2026-08-18T16:08:04.026855339Z",
   "model": "glm-5.3"
 }

@@ -1,12 +1,69 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 30,
   "ref": "1-chronicles 12:30",
   "book": "1-chronicles",
   "lang": "am",
   "chapter": 12,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-16T12:52:45.655011482Z",
+  "translation": "ከብንያም ልጆች፣ የሳኦል ወንድሞች፣ ሦስት ሺህ ናቸው፤ እስከ እለተ ዛሬ ድረስ ብዙዎቹ የሳኦል ቤት ጠባቂነትን ጠብቀዋል።",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ከ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…ልጆች"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ብንያም"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ወንድሞች"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሦስት"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "እስከ…ድረስ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እለተ ዛሬ"
+    },
+    {
+      "surface": "מרביתם",
+      "gloss": "ብዙዎቹ"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "ጠብቀዋል"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ጠባቂነትን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…ቤት"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሳኦል"
+    }
+  ],
+  "timestamp": "2026-08-18T15:54:41.165546391Z",
   "model": "glm-5.3"
 }

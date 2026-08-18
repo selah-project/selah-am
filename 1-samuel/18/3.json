@@ -1,42 +1,42 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 3,
   "ref": "1-samuel 18:3",
   "book": "1-samuel",
   "lang": "am",
   "chapter": 18,
-  "translation": "ዮናታንና ዳዊትም ቃል ኪዳን ቆረጡ፤ እርሱም ⟨את⟩ ⟨אתו⟩ እንደ ራሱ ነፍስ ስለ ወደደው።",
+  "translation": "የዕርቃንና ዳዊት በውግዙ አፍቃሪነቱ ⟨את⟩ እንደ ነፍሱ እንደሆነ ቃል ኪዳን ቈረጡ።",
   "tokens": [
     {
       "surface": "ויכרת",
-      "gloss": "ቆረጡም"
+      "gloss": "ቈረጡ"
     },
     {
       "surface": "יהונתן",
-      "gloss": "ዮናታን"
+      "gloss": "የዕርቃን"
     },
     {
       "surface": "ודוד",
-      "gloss": "ዳዊትም"
+      "gloss": "ዳዊት"
     },
     {
       "surface": "ברית",
-      "gloss": "ቃል ኪዳን"
+      "gloss": "ኪዳን"
     },
     {
       "surface": "באהבתו",
-      "gloss": "በፍቅሩ"
+      "gloss": "በውግዙ አፍቃሪነቱ"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "እርሱን"
     },
     {
       "surface": "כנפשו",
-      "gloss": "እንደ ራሱ ነፍስ"
+      "gloss": "እንደ ነፍሱ"
     }
   ],
-  "timestamp": "2026-08-17T14:16:08.139474875Z",
+  "timestamp": "2026-08-18T15:06:19.464314137Z",
   "model": "glm-5.3"
 }

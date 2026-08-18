@@ -1,12 +1,85 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 3,
   "ref": "jeremiah 43:3",
   "book": "jeremiah",
   "lang": "am",
   "chapter": 43,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-16T08:07:30.322213594Z",
+  "translation": "ምክንያቱም በሬኽ የነርያህ ልጅ በእኛ ላይ ⟨את⟩ አነቃቃህ ነው፤ ወደ ከሰድያው እጅ ⟨את⟩ እኛን እንዲሰጠን፣ ⟨את⟩ እኛን እንዲገድሉ፣ ⟨את⟩ እኛንም ወደ ባቢሎን እንዲሰደዱ ነው።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "በሬኽ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "ነርያህ"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "አነቃቃህ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "አንተን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "በእኛ ላይ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "የሚያደርግልን ሆኖ"
+    },
+    {
+      "surface": "תת",
+      "gloss": "እንዲሰጠን"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "እኛን"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "በእጅ"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "የከሰድያው"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "እንዲገድሉ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "እኛን"
+    },
+    {
+      "surface": "ולהגלות",
+      "gloss": "እንዲሰደዱም"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "እኛን"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ወደ ባቢሎን"
+    }
+  ],
+  "timestamp": "2026-08-18T14:37:02.730883762Z",
   "model": "glm-5.3"
 }

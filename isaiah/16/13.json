@@ -1,11 +1,11 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 13,
   "ref": "isaiah 16:13",
   "book": "isaiah",
   "lang": "am",
   "chapter": 16,
-  "translation": "ይህ ቃል ⟨is⟩ ያ ያህዌህ ከዚያን ጊዜ ጀምሮ ስለ ሞዓብ የተናገረው ነው።",
+  "translation": "ይህ ⟨ቃል⟩ ነው ያህዌህ ከዚያን ጊዜ ጀምሮ ስለ ሞዓብ የተናገረው።",
   "tokens": [
     {
       "surface": "זה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ያ"
+      "gloss": "የተናገረው"
     },
     {
       "surface": "דבר",
@@ -40,6 +40,6 @@
       "gloss": "ከዚያን ጊዜ ጀምሮ"
     }
   ],
-  "timestamp": "2026-08-16T07:05:05.726496103Z",
+  "timestamp": "2026-08-18T15:01:06.238221201Z",
   "model": "glm-5.3"
 }

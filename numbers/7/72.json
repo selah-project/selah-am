@@ -1,11 +1,11 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 72,
   "ref": "numbers 7:72",
   "book": "numbers",
   "lang": "am",
   "chapter": 7,
-  "translation": "በአሥራ አንደኛው ቀን ለአሴር ልጆች አለቃ የዑክራን ልጅ ፋግዔል ⟨הקריב⟩።",
+  "translation": "በአስራአንደኛው ቀን የአሸር ልጆች አለቃ ፋግኤል የዓክራን ልጅ ነበረ።",
   "tokens": [
     {
       "surface": "ביום",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "עשתי",
-      "gloss": "(አሥራ) አንደኛ"
+      "gloss": "አስራ"
     },
     {
       "surface": "עשר",
-      "gloss": "አሥር"
+      "gloss": "አንደኛው"
     },
     {
       "surface": "יום",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "לבני",
-      "gloss": "ለ…ልጆች"
+      "gloss": "የ…ልጆች"
     },
     {
       "surface": "אשר",
-      "gloss": "አሴር"
+      "gloss": "አሸር"
     },
     {
       "surface": "פגעיאל",
-      "gloss": "ፋግዔል"
+      "gloss": "ፋግኤል"
     },
     {
       "surface": "בן",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "עכרן",
-      "gloss": "ዑክራን"
+      "gloss": "ዓክራን"
     }
   ],
-  "timestamp": "2026-08-16T04:10:44.695640436Z",
+  "timestamp": "2026-08-18T16:06:55.895352356Z",
   "model": "glm-5.3"
 }

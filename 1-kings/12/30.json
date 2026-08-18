@@ -1,15 +1,15 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 30,
   "ref": "1-kings 12:30",
   "book": "1-kings",
   "lang": "am",
   "chapter": 12,
-  "translation": "ይህ ቃል ለኃጢአት ሆነ፤ ሕዝቡም እስከ ዳን ድረስ በ⟨the⟩ አንዱ ፊት ሄዱ።",
+  "translation": "እና ይህ ቃል ኃጢአት ሆነ፤ ሕዝቡም እስከ ዳን ድረስ በአንዱ ፊት ይሄድ ነበር።",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ሆነ"
+      "gloss": "እና ሆነ"
     },
     {
       "surface": "הדבר",
@@ -21,33 +21,33 @@
     },
     {
       "surface": "לחטאת",
-      "gloss": "ለኃጢአት"
+      "gloss": "ኃጢአት"
     },
     {
       "surface": "וילכו",
-      "gloss": "ሄዱ"
+      "gloss": "ሕዝቡም ይሄድ ነበር"
     },
     {
       "surface": "העם",
-      "gloss": "ሕዝቡም"
+      "gloss": "ሕዝቡ"
     },
     {
       "surface": "לפני",
-      "gloss": "ፊት"
+      "gloss": "በ... ፊት"
     },
     {
       "surface": "האחד",
-      "gloss": "አንዱ"
+      "gloss": "በአንዱ"
     },
     {
       "surface": "עד",
-      "gloss": "እስከ"
+      "gloss": "እስከ ... ድረስ"
     },
     {
       "surface": "דן",
       "gloss": "ዳን"
     }
   ],
-  "timestamp": "2026-08-16T06:26:25.853421928Z",
+  "timestamp": "2026-08-18T15:26:54.715613974Z",
   "model": "glm-5.3"
 }

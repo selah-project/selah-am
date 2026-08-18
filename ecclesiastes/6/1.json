@@ -1,12 +1,53 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 1,
   "ref": "ecclesiastes 6:1",
   "book": "ecclesiastes",
   "lang": "am",
   "chapter": 6,
-  "translation": "ክፉ ነገር አለ የምንም ኃይል የሌለው ከፀሐይ በታች ያየሁት ሥርዓት ራሱ የሆነው ክፉ ነገር ብዙ ነው በሰው ላይ የከባደው ይኸው ማለት ነው ስለ ዚህ በሰው ልጆች ላይ ከባድ አለ።",
-  "tokens": [],
-  "timestamp": "2026-08-16T11:17:30.453330421Z",
+  "translation": "ክፉ ነገር አለ የምታየው በፀሐይ ሥር ⟨הוא⟩ ላይ ብዙ ነው በሰው ላይ።",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉ ነገር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የምታየው"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "አየሁት"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "በ... ሥር"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ፀሐይ"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ብዙ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨היא⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰው"
+    }
+  ],
+  "timestamp": "2026-08-18T16:03:11.553994535Z",
   "model": "glm-5.3"
 }

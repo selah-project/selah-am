@@ -1,19 +1,19 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 35,
   "ref": "1-chronicles 2:35",
   "book": "1-chronicles",
   "lang": "am",
   "chapter": 2,
-  "translation": "ሴሳንም ⟨את⟩ ሴት ልጁን ለባሪያው ለያርሐ ሚስት አደረጋት፤ ⟨ה⟩ርሱም ⟨את⟩ ዓታይን ወለደለት።",
+  "translation": "ስለዚህ ሸሸን ⟨את⟩ ሴት ልጁን ለያርሐ አገልጋዩ ሚስት እንድትሆን ሰጠ፤ እርሷም ለእርሱ ⟨את⟩ ዓታይን ወለደችለት።",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "አደረጋትም"
+      "gloss": "ሰጠ"
     },
     {
       "surface": "ששן",
-      "gloss": "ሴሳን"
+      "gloss": "ሸሸን"
     },
     {
       "surface": "את",
@@ -30,19 +30,19 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "ባሪያው"
+      "gloss": "አገልጋዩ"
     },
     {
       "surface": "לאשה",
-      "gloss": "ሚስት"
+      "gloss": "ሚስት እንድትሆን"
     },
     {
       "surface": "ותלד",
-      "gloss": "ወለደለትም"
+      "gloss": "ወለደችለት"
     },
     {
       "surface": "לו",
-      "gloss": "ለርሱ"
+      "gloss": "ለእርሱ"
     },
     {
       "surface": "את",
@@ -51,9 +51,9 @@
     },
     {
       "surface": "עתי",
-      "gloss": "ዓታይ"
+      "gloss": "ዓታይን"
     }
   ],
-  "timestamp": "2026-08-16T12:32:57.802976747Z",
+  "timestamp": "2026-08-18T16:41:26.265903464Z",
   "model": "glm-5.3"
 }

@@ -1,39 +1,35 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 15,
   "ref": "genesis 26:15",
   "book": "genesis",
   "lang": "am",
   "chapter": 26,
-  "translation": "እና ሊቃዎቹ በአባቱ በአብርሃም ዘመን የቆፉትን እና ⟨את⟩ እነሱን በአፈር ሞሉ።",
+  "translation": "እና በአብርሃም የአባቱ ዘመን የአባቱ አገልጋዮች የተቆፈሩትን ሁሉን በረዶች ፍልስጤሞች ዝግተው እነርሱን በአፈር ሞሉ።",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "እና ሁሉም"
-    },
-    {
-      "surface": "ቆ",
-      "gloss": "እና ሁሉም"
+      "gloss": "እና … ሁሉን"
     },
     {
       "surface": "הבארת",
-      "gloss": "የውሃ ጉድጓዶች"
+      "gloss": "በረዶችን"
     },
     {
       "surface": "אשר",
-      "gloss": "የቆፉትን"
+      "gloss": "የተቆፈሩትን"
     },
     {
       "surface": "חפרו",
-      "gloss": "ቆፉ"
+      "gloss": "ቆፈሩ"
     },
     {
       "surface": "עבדי",
-      "gloss": "አገልጋዮች ሊቃዎቹ"
+      "gloss": "አገልጋዮች የ"
     },
     {
       "surface": "אביו",
-      "gloss": "የአባቱ"
+      "gloss": "አባቱ"
     },
     {
       "surface": "בימי",
@@ -45,11 +41,11 @@
     },
     {
       "surface": "אביו",
-      "gloss": "አባቱ"
+      "gloss": "የአባቱ"
     },
     {
       "surface": "סתמום",
-      "gloss": "ዘጉ"
+      "gloss": "ዝግተው እነርሱን"
     },
     {
       "surface": "פלשתים",
@@ -57,13 +53,13 @@
     },
     {
       "surface": "וימלאום",
-      "gloss": "ሞሉአቸው"
+      "gloss": "ሞሉ።"
     },
     {
       "surface": "עפר",
-      "gloss": "አፈር"
+      "gloss": "በአፈር"
     }
   ],
-  "timestamp": "2026-08-16T02:44:40.020339189Z",
+  "timestamp": "2026-08-18T14:41:13.909229123Z",
   "model": "glm-5.3"
 }

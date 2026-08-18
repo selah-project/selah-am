@@ -1,15 +1,15 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 14,
   "ref": "psalms 25:14",
   "book": "psalms",
   "lang": "am",
   "chapter": 25,
-  "translation": "የያህዌህ ሶድ ለሚፈሩት ⟨is⟩፤ ቃል ኪዳኑም ለማሳወቃቸው ⟨is⟩።",
+  "translation": "የያህዌህ ምስጢር ለሚፈሩት ነው፤ እና ኪዳኑም ለማወቅ እንዲያደርጋቸው ነው።",
   "tokens": [
     {
       "surface": "סוד",
-      "gloss": "ሶድ"
+      "gloss": "ምስጢር"
     },
     {
       "surface": "יהוה",
@@ -21,13 +21,13 @@
     },
     {
       "surface": "ובריתו",
-      "gloss": "ቃል ኪዳኑም"
+      "gloss": "እና ኪዳኑም"
     },
     {
       "surface": "להודיעם",
-      "gloss": "ለማሳወቃቸው"
+      "gloss": "ለማውቀኝ እንዲያደርጋቸው"
     }
   ],
-  "timestamp": "2026-08-16T09:35:47.241868472Z",
+  "timestamp": "2026-08-18T16:13:03.723428675Z",
   "model": "glm-5.3"
 }

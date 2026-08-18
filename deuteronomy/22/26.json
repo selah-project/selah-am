@@ -1,11 +1,11 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 26,
   "ref": "deuteronomy 22:26",
   "book": "deuteronomy",
   "lang": "am",
   "chapter": 22,
-  "translation": "ለወጣቷም ምንም አታድርግ፤ ለወጣቷ የሞት በደል የለም፤ ሰው በጎረቤቱ ላይ እንደሚነሳ ነፍሱን እንደሚገድል፣ እንዲሁ ነው ⟨ה⟩ይህ ጉዳይ።",
+  "translation": "ለወጣቷም ምንም አታድርግ፤ በወጣቷ የሞት ኃጢአት የለም፤ እንደ ሰው በጎረቤቱ ላይ ተነሥቶ ነፍሷን ሲገድላት እንደሆነ፣ እንዲሁ ነው ⟨ይህ⟩ ጉዳይ፤",
   "tokens": [
     {
       "surface": "ולנער",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "አታድርግ፤ ምንም"
+      "gloss": "አታድርግ፤"
     },
     {
       "surface": "תעשה",
-      "gloss": "ታደርግ"
+      "gloss": "ምንም አታድርግ፤"
     },
     {
       "surface": "דבר",
@@ -25,31 +25,31 @@
     },
     {
       "surface": "אין",
-      "gloss": "የለም"
+      "gloss": "የለም፤"
     },
     {
       "surface": "לנער",
-      "gloss": "ለወጣቷ"
+      "gloss": "በወጣቷ"
     },
     {
       "surface": "חטא",
-      "gloss": "በደል"
+      "gloss": "ኃጢአት"
     },
     {
       "surface": "מות",
-      "gloss": "ሞት"
+      "gloss": "የሞት"
     },
     {
       "surface": "כי",
-      "gloss": "ስለዚህ"
-    },
-    {
-      "surface": "כאשר",
       "gloss": "እንደ"
     },
     {
+      "surface": "כאשר",
+      "gloss": "እንደሆነ"
+    },
+    {
       "surface": "יקום",
-      "gloss": "ይነሳል"
+      "gloss": "ተነሥቶ"
     },
     {
       "surface": "איש",
@@ -57,19 +57,19 @@
     },
     {
       "surface": "על",
-      "gloss": "በ... ላይ"
+      "gloss": "በ...ላይ"
     },
     {
       "surface": "רעהו",
-      "gloss": "ጎረቤቱ"
+      "gloss": "በጎረቤቱ ላይ"
     },
     {
       "surface": "ורצחו",
-      "gloss": "ይገድለዋል"
+      "gloss": "ሲገድላት"
     },
     {
       "surface": "נפש",
-      "gloss": "ነፍስ"
+      "gloss": "ነፍሷን"
     },
     {
       "surface": "כן",
@@ -77,13 +77,13 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "ጉዳዩ"
+      "gloss": "ጉዳይ"
     },
     {
       "surface": "הזה",
       "gloss": "ይህ"
     }
   ],
-  "timestamp": "2026-08-16T04:48:16.614181155Z",
+  "timestamp": "2026-08-18T16:50:44.974933779Z",
   "model": "glm-5.3"
 }

@@ -1,23 +1,23 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 22,
   "ref": "1-chronicles 25:22",
   "book": "1-chronicles",
   "lang": "am",
   "chapter": 25,
-  "translation": "ለአሥራ አምስትው የሚሆነው ያረሞት ነው፤ ⟨እርሱ፣ ልጆቹ እና ወንድሞቹ ዐሥራ ሁለት ነበሩ።",
+  "translation": "ለአሥራ አምስተኛው ያረሞት፣ እርሱ፣ ልጆቹ እና ወንድሞቹ አሥራ ሁለት ናቸው።",
   "tokens": [
     {
       "surface": "לחמשה",
-      "gloss": "ለአምስት"
+      "gloss": "ለአምስተኛው"
     },
     {
       "surface": "עשר",
-      "gloss": "አሥር (የአሥራ አምስትው)"
+      "gloss": "አሥራ"
     },
     {
       "surface": "לירמות",
-      "gloss": "ለያረሞት"
+      "gloss": "ያረሞት"
     },
     {
       "surface": "בניו",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "שנים",
-      "gloss": "ሁለት (ዐሥራ)"
+      "gloss": "ሁለት"
     },
     {
       "surface": "עשר",
-      "gloss": "አሥር"
+      "gloss": "አሥራ"
     }
   ],
-  "timestamp": "2026-08-16T13:13:36.448718719Z",
+  "timestamp": "2026-08-18T16:43:14.145898002Z",
   "model": "glm-5.3"
 }

@@ -1,48 +1,48 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 8,
   "ref": "leviticus 7:8",
   "book": "leviticus",
   "lang": "am",
   "chapter": 7,
-  "translation": "የሰውን የሙሉ ማብያ መሥዋዕት የሚያቀርበው ካህንም ያቀረበው የሙሉ ማብያ ቆዳ ለእርሱ ⟨ይሆናል።",
+  "translation": "ካህኑም ⟨እርሱም⟩ የሰውን የደረሰ መሥዋዕት ⟨את⟩ የሚያቀርብ ሆኖ፣ የዚያው የደረሰ መሥዋዕት ቆዳ ለካህኑ የራሱ ይሆናል።",
   "tokens": [
     {
       "surface": "והכהן",
-      "gloss": "ካህኑም"
+      "gloss": "ካህኑምም"
     },
     {
       "surface": "המקריב",
-      "gloss": "የሚያቀርበው"
+      "gloss": "የሚያቀርብ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "የሰውን የሙሉ ማብያ መሥዋዕት"
+      "marks": "የደረሰ መሥዋዕትን"
     },
     {
       "surface": "עלת",
-      "gloss": "የሙሉ ማብያ መሥዋዕትን"
+      "gloss": "የደረሰ መሥዋዕት"
     },
     {
-      "surface": "איש",
+      "surface": "אישׁ",
       "gloss": "የሰው"
     },
     {
-      "surface": "עור",
+      "surface": "עוֹר",
       "gloss": "ቆዳ"
     },
     {
       "surface": "העלה",
-      "gloss": "የሙሉ ማብያው"
+      "gloss": "የደረሰ መሥዋዕቱ"
     },
     {
-      "surface": "אשר",
+      "surface": "אשׁר",
       "gloss": "የሚያቀርበው"
     },
     {
       "surface": "הקריב",
-      "gloss": "አቀረበ"
+      "gloss": "አቀርቧል"
     },
     {
       "surface": "לכהן",
@@ -50,13 +50,13 @@
     },
     {
       "surface": "לו",
-      "gloss": "ለርሱ"
+      "gloss": "ለራሱ"
     },
     {
       "surface": "יהיה",
       "gloss": "ይሆናል"
     }
   ],
-  "timestamp": "2026-08-16T03:44:29.238389867Z",
+  "timestamp": "2026-08-18T14:28:00.265993986Z",
   "model": "glm-5.3"
 }

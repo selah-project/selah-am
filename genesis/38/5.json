@@ -1,63 +1,63 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 5,
   "ref": "genesis 38:5",
   "book": "genesis",
   "lang": "am",
   "chapter": 38,
-  "translation": "እናም በድጋሚ በመጨመር ልጅ ወለደች፤ ስሙንም ሸላን ብላ ጠራች፤ እርሷም በኪዚብ እርሷ ልጁን ⟨את⟩ ⟨אתו⟩ በወለደችበት ጊዜ ⟨ነበረው።",
+  "translation": "እናትየውም ደግሞ በዚያም በኩራት ወንድ ልጅ ወለደች፤ ስሙንም ⟨את⟩ ሸላህ ብላ ጠራችው፤ እርሷም በከዚብ ነበረች በወለደችው ጊዜ ⟨את⟩ እርሱን።",
   "tokens": [
     {
-      "surface": "ותסף",
-      "gloss": "በመጨመር"
+      "surface": "וַתֹּסֶף",
+      "gloss": "በዚያም ደግሞ በኩራት"
     },
     {
-      "surface": "עוד",
-      "gloss": "በድጋሚ"
+      "surface": "עוֹד",
+      "gloss": "ደግሞ"
     },
     {
-      "surface": "ותלד",
+      "surface": "וַתֵּלֶד",
       "gloss": "ወለደች"
     },
     {
-      "surface": "בן",
-      "gloss": "ልጅ"
+      "surface": "בֵּן",
+      "gloss": "ወንድ ልጅ"
     },
     {
-      "surface": "ותקרא",
+      "surface": "וַתִּקְרָא",
       "gloss": "ጠራች"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
       "marks": "ስሙን"
     },
     {
-      "surface": "שמו",
+      "surface": "שְׁמוֹ",
       "gloss": "ስሙን"
     },
     {
-      "surface": "שלה",
-      "gloss": "ሸላን"
+      "surface": "שֵׁלָה",
+      "gloss": "ሸላህ"
     },
     {
-      "surface": "והיה",
-      "gloss": "ነበረው"
+      "surface": "וְהָיָה",
+      "gloss": "ነበረች"
     },
     {
-      "surface": "בכזיב",
-      "gloss": "በኪዚብ"
+      "surface": "בִּכְזִיב",
+      "gloss": "በከዚብ"
     },
     {
-      "surface": "בלדתה",
-      "gloss": "በወለደችበት ጊዜ"
+      "surface": "בְּלִדְתָּהּ",
+      "gloss": "በወለደችው ጊዜ"
     },
     {
-      "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "ልጁን"
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩ እርሱን",
+      "marks": "እርሱን (ሸላህን)"
     }
   ],
-  "timestamp": "2026-08-17T14:16:08.019185803Z",
+  "timestamp": "2026-08-18T15:15:24.931212660Z",
   "model": "glm-5.3"
 }

@@ -1,23 +1,23 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 21,
   "ref": "1-chronicles 25:21",
   "book": "1-chronicles",
   "lang": "am",
   "chapter": 25,
-  "translation": "ለአሥራ አራትው የሚሆነው ማቲትያህ ነው፤ ⟨እርሱ፣ ልጆቹ እና ወንድሞቹ ዐሥራ ሁለት ነበሩ።",
+  "translation": "ለአሥራ አራተኛው ማቲትያሁ ነው፤ የእርሱ ልጆች እና ወንድሞቹ አሥራ ሁለት ናቸው።",
   "tokens": [
     {
       "surface": "לארבעה",
-      "gloss": "ለአራት"
+      "gloss": "ለአሥራ አራተኛው"
     },
     {
       "surface": "עשר",
-      "gloss": "አሥር (የአሥራ አራትው)"
+      "gloss": "አሥራ አራት"
     },
     {
       "surface": "מתתיהו",
-      "gloss": "ማቲትያህ"
+      "gloss": "ማቲትያሁ"
     },
     {
       "surface": "בניו",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "שנים",
-      "gloss": "ሁለት (ዐሥራ)"
+      "gloss": "ሁለት"
     },
     {
       "surface": "עשר",
       "gloss": "አሥር"
     }
   ],
-  "timestamp": "2026-08-16T13:13:36.448472727Z",
+  "timestamp": "2026-08-18T15:24:13.388715948Z",
   "model": "glm-5.3"
 }

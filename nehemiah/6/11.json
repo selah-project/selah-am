@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 11,
   "ref": "nehemiah 6:11",
   "book": "nehemiah",
   "lang": "am",
   "chapter": 6,
-  "translation": "እኔም እንዲህ አልሁ፣ እንደ እኔ ሰው ይሸሻል? እና ማን ነው እንደ እኔ ሆኖ ወደ ⟨ה⟩መቅደስ የሚገብት እና የሚኖር? አልገባም።",
+  "translation": "እኔም እንዲህ አልሁ፦ እንደ እኔ ያለ ሰው ይሸሻልን? እና እንደ እኔ የሆነ ማን ነው ወደ ⟨ቤተ መቅደሱ⟩ ገብቶ የሚኖር? እኔ አልገባም።",
   "tokens": [
     {
-      "surface": "ואמרה",
-      "gloss": "እኔም እንዲህ አልሁ፣"
+      "surface": "וָאֹמְרָה",
+      "gloss": "አልሁ፦"
     },
     {
-      "surface": "האיש",
-      "gloss": "ሰው"
+      "surface": "הַאִישׁ",
+      "gloss": "ሰው ይሸሻልን?"
     },
     {
-      "surface": "כמוני",
-      "gloss": "እንደ እኔ"
+      "surface": "כָּמוֹנִי",
+      "gloss": "እንደ እኔ ያለ"
     },
     {
-      "surface": "יברח",
-      "gloss": "ይሸሻል?"
+      "surface": "יִבְרָח",
+      "gloss": "ይሸሻል"
     },
     {
-      "surface": "ומי",
+      "surface": "וּמִי",
       "gloss": "እና ማን"
     },
     {
-      "surface": "כמוני",
+      "surface": "כָּמוֹנִי",
       "gloss": "እንደ እኔ"
     },
     {
-      "surface": "אשר",
-      "gloss": "ሆኖ"
+      "surface": "אֲשֶׁר",
+      "gloss": "የሆነ"
     },
     {
-      "surface": "יבוא",
-      "gloss": "የሚገብት"
+      "surface": "יָבוֹא",
+      "gloss": "ገብቶ"
     },
     {
-      "surface": "אל",
+      "surface": "אֶל",
       "gloss": "ወደ"
     },
     {
-      "surface": "ההיכל",
-      "gloss": "መቅደስ"
+      "surface": "הַהֵיכָל",
+      "gloss": "ቤተ መቅደሱ"
     },
     {
-      "surface": "וחי",
-      "gloss": "እና የሚኖር"
+      "surface": "וָחָי",
+      "gloss": "የሚኖር?"
     },
     {
-      "surface": "לא",
+      "surface": "לֹא",
       "gloss": "አል"
     },
     {
-      "surface": "אבוא",
+      "surface": "אָבוֹא",
       "gloss": "ገባም"
     }
   ],
-  "timestamp": "2026-08-16T12:13:30.445237729Z",
+  "timestamp": "2026-08-18T15:23:14.996298603Z",
   "model": "glm-5.3"
 }

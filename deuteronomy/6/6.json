@@ -1,15 +1,15 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 6,
   "ref": "deuteronomy 6:6",
   "book": "deuteronomy",
   "lang": "am",
   "chapter": 6,
-  "translation": "ዛሬ የማዝዘምህ ⟨ה⟩ ቃላት በልብህ ላይ ይኑሩ፤",
+  "translation": "እነዚህ ቃላት፣ የምናዝዝህ ዛሬ፣ በልብህ ላይ ይሁኑ።",
   "tokens": [
     {
       "surface": "והיו",
-      "gloss": "ይኑሩ"
+      "gloss": "ይሁኑ"
     },
     {
       "surface": "הדברים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "የማዝዘምህ"
+      "gloss": "የምናዝዝህ"
     },
     {
       "surface": "אנכי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מצוך",
-      "gloss": "የሚያዝዘኝ"
+      "gloss": "አዝዝህ"
     },
     {
       "surface": "היום",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "על",
-      "gloss": "በላይ"
+      "gloss": "ላይ"
     },
     {
       "surface": "לבבך",
-      "gloss": "ልብህ"
+      "gloss": "በልብህ"
     }
   ],
-  "timestamp": "2026-08-16T04:35:08.863776245Z",
+  "timestamp": "2026-08-18T16:33:09.925572513Z",
   "model": "glm-5.3"
 }

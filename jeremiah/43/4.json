@@ -1,12 +1,73 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 4,
   "ref": "jeremiah 43:4",
   "book": "jeremiah",
   "lang": "am",
   "chapter": 43,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-16T08:07:30.322353356Z",
+  "translation": "ዮሐናን የቀሬኅ ልጅ፣ የኃያላኑ ሹማምት ሁሉ እና ⟨ሕዝቡ⟩ ሁሉ በያህዌህ ቃል በይሁዳ ምድር ለመኖር አልሰሙም።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "አል…ም"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰሙ"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "ዮሐናን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "የ… ልጅ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ቀሬኅ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና … ሁሉ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ሹማምት"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "የኃያላኑ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "እና … ሁሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "የሕዝቡ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "በቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ለመኖር"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "በምድር"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-08-18T14:27:18.786705260Z",
   "model": "glm-5.3"
 }

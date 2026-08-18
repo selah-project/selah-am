@@ -1,36 +1,36 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 22,
   "ref": "genesis 6:22",
   "book": "genesis",
   "lang": "am",
   "chapter": 6,
-  "translation": "ኖኅም ⟨אתו⟩ ኤሎሂም እንደ አዘዘው ሁሉ እንደዚህ አደረገ።",
+  "translation": "ኖኅም ⟨את⟩ በኤሎሂም እንደታዘዘው ሁሉ አደረገ፤ እንዲያውም እንደዚያ አደረገ።",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "እና አደረገ"
+      "gloss": "አደረገ፤"
     },
     {
       "surface": "נח",
-      "gloss": "ኖኅ"
+      "gloss": "ኖኅም"
     },
     {
       "surface": "ככל",
-      "gloss": "እንደ ሁሉ"
+      "gloss": "ሁሉ እንደ"
     },
     {
       "surface": "אשר",
-      "gloss": "የ"
+      "gloss": "እንደ…ው"
     },
     {
       "surface": "צוה",
-      "gloss": "አዘዘ"
+      "gloss": "ታዘዘው"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "እርሱን (ኖኅን)"
+      "marks": "ኖኅ (በኖኅ ላይ ያለው ተገቢ ተያይዖ)"
     },
     {
       "surface": "אלהים",
@@ -38,13 +38,13 @@
     },
     {
       "surface": "כן",
-      "gloss": "እንደዚህ"
+      "gloss": "እንደዚያ"
     },
     {
       "surface": "עשה",
       "gloss": "አደረገ"
     }
   ],
-  "timestamp": "2026-08-16T02:31:02.838472880Z",
+  "timestamp": "2026-08-18T15:01:56.002706894Z",
   "model": "glm-5.3"
 }

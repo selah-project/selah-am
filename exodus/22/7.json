@@ -1,31 +1,31 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 7,
   "ref": "exodus 22:7",
   "book": "exodus",
   "lang": "am",
   "chapter": 22,
-  "translation": "ሌባው ባይገኝ፣ የቤቱ ባለቤት ወደ ⟨the⟩ ኤሎሂም ይቀርባል፤ ወደ ⟨the⟩ የጓደኛው እቃ እጁን እንዳልዘረጋ ⟨he⟩ ይረጋገጣል።",
+  "translation": "ሞሽሩን ካልተገኘ የቤቱ ባለቤት ⟨אל⟩ ኤሎሂም አቅሮት ይቀርባል፤ ወደ ወዳጁ ንብረት እጁን ካልዘረጋ ማለት ነው።",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "ከሆነ"
+      "gloss": "ከሆነ\/ካል"
     },
     {
       "surface": "לא",
-      "gloss": "አለ"
+      "gloss": "አል"
     },
     {
       "surface": "ימצא",
-      "gloss": "ቢገኝ"
+      "gloss": "ይገኛል"
     },
     {
       "surface": "הגנב",
-      "gloss": "ሌባው"
+      "gloss": "ሞሽሩን"
     },
     {
       "surface": "ונקרב",
-      "gloss": "እና ይቀርባል"
+      "gloss": "ይቀርባል"
     },
     {
       "surface": "בעל",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "እንዳለ"
+      "gloss": "ከሆነ"
     },
     {
       "surface": "לא",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "במלאכת",
-      "gloss": "ወደ እቃ"
+      "gloss": "ወደ ንብረት"
     },
     {
       "surface": "רעהו",
-      "gloss": "የጓደኛው"
+      "gloss": "የወዳጁ"
     }
   ],
-  "timestamp": "2026-08-16T03:21:45.461006751Z",
+  "timestamp": "2026-08-18T16:40:15.303791832Z",
   "model": "glm-5.3"
 }

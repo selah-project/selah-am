@@ -1,11 +1,11 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 5,
   "ref": "leviticus 8:5",
   "book": "leviticus",
   "lang": "am",
   "chapter": 8,
-  "translation": "ሞሼም ለስብሰባው እንዲህ አለ፦ ይህ ⟨is⟩ ⟨the⟩ ቃል ያህዌህ ያዘዘው የሚሠራው።",
+  "translation": "ሞሼም ለ⟨ה⟩ማኅበሩ እንዲህ አለ፦ ይህ ⟨ה⟩ቃል ነው ያህዌህ እንዲሠራ ⟨את⟩ ያዘዘው።",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "העדה",
-      "gloss": "ስብሰባው"
+      "gloss": "ለማኅበሩ"
     },
     {
       "surface": "זה",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "የ"
+      "gloss": "ያ"
     },
     {
       "surface": "צוה",
-      "gloss": "ያዘዘ"
+      "gloss": "ያዘዘው"
     },
     {
       "surface": "יהוה",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "ለመሥራት"
+      "gloss": "እንዲሠራ"
     }
   ],
-  "timestamp": "2026-08-16T03:47:22.018233333Z",
+  "timestamp": "2026-08-18T15:09:00.488174300Z",
   "model": "glm-5.3"
 }

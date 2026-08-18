@@ -1,11 +1,11 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 4,
   "ref": "leviticus 11:4",
   "book": "leviticus",
   "lang": "am",
   "chapter": 11,
-  "translation": "ነገር ግን ይሄን ⟨את⟩ ከገራህ አመላላጮች ወይም ከእግር አካፋዮች አትብሉ፤ ⟨את⟩ ግመሉን — ገራህ ማመልጠት ⟨is⟩ እንጂ እግር አይከፍልም፤ ርኵስ ⟨is⟩ ለእናንተ።",
+  "translation": "ነገር ግን ይህን ⟨את⟩ ከአውጣ አውጪዎች ወይም ከኮረቶ ከፋፋዮች አትብሉ፤ ⟨את⟩ ግመሉን፣ የአውጣ አውጫጅ ነውና፣ ኮረቶን ግን አያፈራውም፤ ርኵስ ነው ለእናንተ።",
   "tokens": [
     {
       "surface": "אך",
@@ -14,35 +14,35 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ይሄን"
+      "marks": "ይህን"
     },
     {
       "surface": "זה",
-      "gloss": "ይሄ"
+      "gloss": "ይህን"
     },
     {
       "surface": "לא",
       "gloss": "አት"
     },
     {
-      "surface": "תאᛡלו",
+      "surface": "תאכלו",
       "gloss": "ብሉ"
     },
     {
       "surface": "ממעלי",
-      "gloss": "ከማመላላጮች"
+      "gloss": "ከአውጪዎች"
     },
     {
       "surface": "הגרה",
-      "gloss": "ገራህ"
+      "gloss": "አውጣ"
     },
     {
       "surface": "וממפריסי",
-      "gloss": "ወይም ከአካፋዮች"
+      "gloss": "ወይም ከፋፋዮች"
     },
     {
       "surface": "הפרסה",
-      "gloss": "እግር"
+      "gloss": "ኮረቶ"
     },
     {
       "surface": "את",
@@ -51,35 +51,35 @@
     },
     {
       "surface": "הגמל",
-      "gloss": "ግመል"
+      "gloss": "ግመሉን"
     },
     {
       "surface": "כי",
-      "gloss": "እንደ"
+      "gloss": "ነውና"
     },
     {
       "surface": "מעלה",
-      "gloss": "ማመልጠት"
+      "gloss": "አውጫጅ"
     },
     {
       "surface": "גרה",
-      "gloss": "ገራህ"
+      "gloss": "አውጣ"
     },
     {
       "surface": "הוא",
-      "gloss": "እርሱ"
+      "gloss": "ነው"
     },
     {
       "surface": "ופרסה",
-      "gloss": "እና እግር"
+      "gloss": "ኮረቶን ግን"
     },
     {
       "surface": "איננו",
-      "gloss": "አይደለም"
+      "gloss": "አያፈራውም"
     },
     {
       "surface": "מפריס",
-      "gloss": "የሚከፍል"
+      "gloss": "ከፋፋይ"
     },
     {
       "surface": "טמא",
@@ -87,13 +87,13 @@
     },
     {
       "surface": "הוא",
-      "gloss": "እርሱ"
+      "gloss": "ነው"
     },
     {
       "surface": "לכם",
       "gloss": "ለእናንተ"
     }
   ],
-  "timestamp": "2026-08-16T03:49:19.040731302Z",
+  "timestamp": "2026-08-18T14:55:14.534521235Z",
   "model": "glm-5.3"
 }

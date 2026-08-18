@@ -1,12 +1,49 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 19,
   "ref": "numbers 10:19",
   "book": "numbers",
   "lang": "am",
   "chapter": 10,
-  "translation": "እንዲሁም በኩላቸው ላይ ለነቆንሳት የላዲ ሠራዊት ተመልካች፤",
-  "tokens": [],
-  "timestamp": "2026-08-16T04:11:38.196168936Z",
+  "translation": "እና በሰድፉ ላይ ላዕረጉ ላይ የሲምዖን ልጆች ነገድ ወታደር ሼሉሚኤል የጹሪሻዳይ ልጅ ⟨ነበረ።⟩",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "እና በ…ላይ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ላዕረግ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ነገድ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ልጆች"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ሲምዖን"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "ሼሉሚኤል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ልጅ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ጹሪ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ሻዳይ"
+    }
+  ],
+  "timestamp": "2026-08-18T14:40:39.143299565Z",
   "model": "glm-5.3"
 }

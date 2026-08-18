@@ -1,80 +1,80 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 10,
   "ref": "2-kings 23:10",
   "book": "2-kings",
   "lang": "am",
   "chapter": 23,
-  "translation": "ቶፌትንም ⟨את⟩፣ በየሂኖም ልጆች ሸለቆ ያለችውን አረከሰ፤ ሰው ልጁን ⟨את⟩ እና ሴት ልጁን ⟨את⟩ ⟨ואת⟩ በእሳት ለሞሌክ እንዳሳልፍ ዳሩ ግን በማድረግ።",
+  "translation": "የገዛ ውቅርን ⟨את⟩ ሦጵትንም — የሕይወን ልጆች ሸለቆ በሚባል በገዛ ሸለቆ ውስጥ ያለውን — አንቀሳቀሰ፤ ሰው የራሱን ልጅ ⟨את⟩ ወንዱን፣ ደጅቱንም ⟨את⟩ ሴት ልጇን በእሳት ወደ ሞሌክ እንዳያሳልፍ።",
   "tokens": [
     {
-      "surface": "וטמא",
-      "gloss": "አረከሰም"
+      "surface": "וְטִמֵּא",
+      "gloss": "አንቀሳቀሰ"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "ቶፌትን"
+      "marks": "ሦጵትን"
     },
     {
-      "surface": "התפת",
-      "gloss": "ቶፌትን"
+      "surface": "הַתֹּפֶת",
+      "gloss": "ሦጵትን"
     },
     {
-      "surface": "אשר",
-      "gloss": "ያለችውን"
+      "surface": "אֲשֶׁר",
+      "gloss": "—የሚባል"
     },
     {
-      "surface": "בגי",
-      "gloss": "በሸለቆ"
+      "surface": "בְּגֵי",
+      "gloss": "በገዛ ሸለቆ"
     },
     {
-      "surface": "בני",
-      "gloss": "የልጆች"
+      "surface": "בְּנֵי",
+      "gloss": "ልጆች"
     },
     {
-      "surface": "הנם",
-      "gloss": "ሂኖም"
+      "surface": "הִנֹּם",
+      "gloss": "የሕይወን"
     },
     {
-      "surface": "לבלתי",
-      "gloss": "ዳሩ ግን በማድረግ"
+      "surface": "לְבִלְתִּי",
+      "gloss": "እንዳያሳልፍ"
     },
     {
-      "surface": "להעביר",
-      "gloss": "እንዳሳልፍ"
+      "surface": "לְהַעֲבִיר",
+      "gloss": "ያሳልፍ"
     },
     {
-      "surface": "איש",
+      "surface": "אִישׁ",
       "gloss": "ሰው"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "ልጁን"
+      "marks": "ወንዱን"
     },
     {
-      "surface": "בנו",
-      "gloss": "ልጁን"
+      "surface": "בְּנוֹ",
+      "gloss": "ወንዱን"
     },
     {
-      "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨ואת⟩",
-      "marks": "ሴት ልጁን"
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ሴት ልጇን"
     },
     {
-      "surface": "בתו",
-      "gloss": "ሴት ልጁን"
+      "surface": "בִּתּוֹ",
+      "gloss": "ሴት ልጇን"
     },
     {
-      "surface": "באש",
+      "surface": "בָּאֵשׁ",
       "gloss": "በእሳት"
     },
     {
-      "surface": "למלך",
-      "gloss": "ለሞሌክ"
+      "surface": "לַמֹּלֶךְ",
+      "gloss": "ወደ ሞሌክ"
     }
   ],
-  "timestamp": "2026-08-17T14:16:08.156263900Z",
+  "timestamp": "2026-08-18T16:26:36.499487922Z",
   "model": "glm-5.3"
 }

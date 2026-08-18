@@ -1,12 +1,57 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 26,
   "ref": "jeremiah 5:26",
   "book": "jeremiah",
   "lang": "am",
   "chapter": 5,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-16T07:37:36.763741200Z",
+  "translation": "በሕዝቤ ውስጥ ክፉዎች ተገኝተዋል፤ እንደ ወፍ ማጥሪያ ተኝኮች እንደሚጠብቁ ሆነው ቆም አድርገዋል የማጥፊያ መሳሪያ፣ ሰዎችን ይይዛሉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚህ\/እንኳ"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "ተገኝተዋል"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "በሕዝቤ ውስጥ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉዎች"
+    },
+    {
+      "surface": "ישור",
+      "gloss": "ተኝኮች (ሲያስቡ)"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "እንደ ወፍ ማጥሪያ ተኝኮች"
+    },
+    {
+      "surface": "יקושים",
+      "gloss": "እንደሚጠብቁ"
+    },
+    {
+      "surface": "הציבו",
+      "gloss": "ቆም አድርገዋል"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "የማጥፊያ (ወጥመድ)"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ሰዎችን"
+    },
+    {
+      "surface": "ילכדו",
+      "gloss": "ይይዛሉ"
+    }
+  ],
+  "timestamp": "2026-08-18T15:51:23.881505865Z",
   "model": "glm-5.3"
 }

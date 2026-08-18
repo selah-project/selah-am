@@ -1,27 +1,27 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 22,
   "ref": "genesis 32:22",
   "book": "genesis",
   "lang": "am",
   "chapter": 32,
-  "translation": "ስጦታዪው ፊቱን አልፋ ሄደች፤ እርሱም ⟨הוּא⟩ በዚያ ሌሊት በሰፈሩ ዋለ።",
+  "translation": "ስጦታው ከፊቱ አልፎ እርሱም ⟨እርሱ⟩ በዚያ ሌሊት በካምፕ ሌለ።",
   "tokens": [
     {
       "surface": "ותעבר",
-      "gloss": "አልፋ ሄደች"
+      "gloss": "አልፎ"
     },
     {
       "surface": "המנחה",
-      "gloss": "ስጦታዪው"
+      "gloss": "ስጦታው"
     },
     {
       "surface": "על",
-      "gloss": "በ… ላይ አልፋ"
+      "gloss": "ከፊት"
     },
     {
       "surface": "פניו",
-      "gloss": "ፊቱን"
+      "gloss": "ፊቱ"
     },
     {
       "surface": "והוא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לן",
-      "gloss": "ዋለ"
+      "gloss": "ሌለ"
     },
     {
       "surface": "בלילה",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "במחנה",
-      "gloss": "በሰፈሩ"
+      "gloss": "በካምፕ"
     }
   ],
-  "timestamp": "2026-08-16T02:49:50.699216300Z",
+  "timestamp": "2026-08-18T14:44:18.058076992Z",
   "model": "glm-5.3"
 }

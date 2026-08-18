@@ -1,12 +1,99 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 1,
   "ref": "jeremiah 43:1",
   "book": "jeremiah",
   "lang": "am",
   "chapter": 43,
-  "translation": "ይሆናል ነበር የሰለሰው ዕርምጃ ያዕቆብ፣ የስድስቱ ወር በአንደኛው ወር በአሥር በአምስት ቀን በዚያ አመት ፈርሶ ነበር።",
-  "tokens": [],
-  "timestamp": "2026-08-16T08:07:30.321776656Z",
+  "translation": "እና ሆነ፣ የመገፀሙ ሃሳብ፣ የቃላት ኃላፊነት እንዳለው ነበር። ይህ የተናገረው በእውነት ነው።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "እና ሆነ"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "ሲያበቃ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ይርምያሁ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ማውራት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቡን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላትን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የላኳቸው"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ላከው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ወደ እነርሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሁሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ሁሉን"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላቱን"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እነዚህን"
+    }
+  ],
+  "timestamp": "2026-08-18T14:54:02.980343508Z",
   "model": "glm-5.3"
 }

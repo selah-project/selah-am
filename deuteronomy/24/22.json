@@ -1,43 +1,43 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 22,
   "ref": "deuteronomy 24:22",
   "book": "deuteronomy",
   "lang": "am",
   "chapter": 24,
-  "translation": "በምድረ መጵራይም አገልጋይ እንደነበርህ አስታውስ፤ ስለዚህ እኔ ይህን ሥራ ⟨את⟩ ⟨ה⟩ ቃል እንድታደርግ አዘዝሃለሁ።",
+  "translation": "እና በምድረ በዲት እንደ ነበርክ አስታውስ፤ ስለዚህ እኔ ⟨את⟩ ይህን ቃል እንድታደርግ እዘዝሃለሁ።",
   "tokens": [
     {
       "surface": "וזכרת",
-      "gloss": "አስታውስ"
+      "gloss": "እና አስታውስ"
     },
     {
       "surface": "כי",
-      "gloss": "እንደ…ህ"
+      "gloss": "እንደ"
     },
     {
       "surface": "עבד",
-      "gloss": "አገልጋይ"
+      "gloss": "ነበርክ"
     },
     {
       "surface": "היית",
-      "gloss": "ነበርህ"
+      "gloss": "ባሪያ"
     },
     {
       "surface": "בארץ",
-      "gloss": "በ…ምድር"
+      "gloss": "በምድር"
     },
     {
       "surface": "מצרים",
-      "gloss": "መጵራይም"
+      "gloss": "በዲት"
     },
     {
       "surface": "על",
-      "gloss": "ስለ…"
+      "gloss": "ስለ"
     },
     {
       "surface": "כן",
-      "gloss": "ዚህ ምክንያት"
+      "gloss": "ይህ"
     },
     {
       "surface": "אנכי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "מצוך",
-      "gloss": "አዘዝሃለሁ"
+      "gloss": "እዘዝሃለሁ"
     },
     {
       "surface": "לעשות",
@@ -54,17 +54,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ቃሉን"
+      "marks": "ይህን ቃል"
     },
     {
       "surface": "הדבר",
-      "gloss": "ቃሉን"
+      "gloss": "ቃል"
     },
     {
       "surface": "הזה",
       "gloss": "ይህን"
     }
   ],
-  "timestamp": "2026-08-16T04:47:56.224769802Z",
+  "timestamp": "2026-08-18T14:45:33.084469628Z",
   "model": "glm-5.3"
 }

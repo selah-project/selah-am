@@ -1,11 +1,11 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 14,
   "ref": "judges 10:14",
   "book": "judges",
   "lang": "am",
   "chapter": 10,
-  "translation": "ሂዱ እና ወደ መረጣችሁባቸው አማልክት ጮኹ፤ እነርሱ በመከራችሁ ጊዜ ያድናችሁ።",
+  "translation": "ሂዱ እና ወደ እነርሱ በመራጭ ማንነት ካመላከታችሁ አማልክት ⟨እነርሱ⟩ ጮኩ፤ እነርሱ በጭንቀታችሁ ጊዜ ያድኑታላችሁ።",
   "tokens": [
     {
       "surface": "לכו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "וזעקו",
-      "gloss": "ጮኹ"
+      "gloss": "እና ጮኩ"
     },
     {
       "surface": "אל",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "የ"
+      "gloss": "እነዚህ"
     },
     {
       "surface": "בחרתם",
-      "gloss": "መረጣችሁባቸው"
+      "gloss": "በመራጭ"
     },
     {
       "surface": "בם",
-      "gloss": "በእነርሱ"
+      "gloss": "እነርሱ"
     },
     {
       "surface": "המה",
@@ -41,25 +41,21 @@
     },
     {
       "surface": "יושיעו",
-      "gloss": "ያድናችሁ"
-    },
-    {
-      "surface": "᧶",
-      "gloss": ""
+      "gloss": "ያድናሉ"
     },
     {
       "surface": "לכם",
-      "gloss": "ላችሁ"
+      "gloss": "እናንተን"
     },
     {
       "surface": "בעת",
-      "gloss": "በ…ጊዜ"
+      "gloss": "በጊዜ"
     },
     {
       "surface": "צרתכם",
-      "gloss": "መከራችሁ"
+      "gloss": "የጭንቀታችሁ"
     }
   ],
-  "timestamp": "2026-08-16T05:22:13.681291322Z",
+  "timestamp": "2026-08-18T15:41:39.634734057Z",
   "model": "glm-5.3"
 }

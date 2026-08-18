@@ -1,28 +1,28 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 15,
   "ref": "ecclesiastes 4:15",
   "book": "ecclesiastes",
   "lang": "am",
   "chapter": 4,
-  "translation": "ሁሉን ⟨את⟩ ⟨the⟩ በፀሐይ ሥር የሚሄዱ ሕያዋን አየሁ — ከሁለተኛው ልጅ ጋር፣ እርሱም በእርሱ ፋንታ የሚቆም ነው።",
+  "translation": "ከፀሐይ በታች ከሚሄዱ በሕይወት በላይወኞቹ ሁሉ ጋር፣ በርሱ በስተቀር የሚቆም ከሆነው ሁለተኛው ልጅ ጋር ⟨את⟩ አይቼ ነበር።",
   "tokens": [
     {
       "surface": "ראיתי",
-      "gloss": "አየሁ"
+      "gloss": "አይቼ ነበር፤"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ሁሉን ሕያዋንን"
+      "marks": "ሁሉ"
     },
     {
       "surface": "כל",
-      "gloss": "ሁሉን"
+      "gloss": "ሁሉ"
     },
     {
       "surface": "החיים",
-      "gloss": "ሕያዋንን"
+      "gloss": "ሕይወት ያላቸው"
     },
     {
       "surface": "המהלכים",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "תחת",
-      "gloss": "በ…ሥር"
+      "gloss": "በታች"
     },
     {
       "surface": "השמש",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "ከ…ጋር"
+      "gloss": "ጋር"
     },
     {
       "surface": "הילד",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "የሚቆም"
+      "gloss": "የሆነው"
     },
     {
       "surface": "יעמד",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "תחתיו",
-      "gloss": "በእርሱ ፋንታ"
+      "gloss": "በርሱ ፋንታ"
     }
   ],
-  "timestamp": "2026-08-16T11:13:47.186560703Z",
+  "timestamp": "2026-08-18T16:35:01.082732327Z",
   "model": "glm-5.3"
 }

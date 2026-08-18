@@ -1,36 +1,36 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 34,
   "ref": "numbers 15:34",
   "book": "numbers",
   "lang": "am",
   "chapter": 15,
-  "translation": "በመታሰርም ቦታ እንዲሆን አስቀመጡት፤ ምን እንዲደረግለት አልተገለጸምና።",
+  "translation": "እነሱም ⟨את⟩አንተን በእስር ቤት አኖሩት፣ ምክንያቱም ምን እንደሚደረግለት አልተገለጸምና።",
   "tokens": [
     {
       "surface": "ויניחו",
-      "gloss": "አስቀመጡት"
+      "gloss": "አኖሩት"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "እርሱን"
+      "gloss": "⟨את⟩",
+      "marks": "አንተን (በእስር ቤት)"
     },
     {
       "surface": "במשמר",
-      "gloss": "በመታሰር ቦታ"
+      "gloss": "በእስር ቤት"
     },
     {
       "surface": "כי",
-      "gloss": "ነገር ግን"
+      "gloss": "ምክንያቱም"
     },
     {
       "surface": "לא",
-      "gloss": "አል"
+      "gloss": "አልተገለጸምና"
     },
     {
       "surface": "פרש",
-      "gloss": "ተገለጸም"
+      "gloss": "አልተገለጸምና"
     },
     {
       "surface": "מה",
@@ -38,13 +38,13 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "እንዲደረግ"
+      "gloss": "እንደሚደረግለት"
     },
     {
       "surface": "לו",
-      "gloss": "ለእርሱ"
+      "gloss": "ለት"
     }
   ],
-  "timestamp": "2026-08-17T14:16:08.193263850Z",
+  "timestamp": "2026-08-18T15:32:06.180536678Z",
   "model": "glm-5.3"
 }

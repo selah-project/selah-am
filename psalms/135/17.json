@@ -1,12 +1,49 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 17,
   "ref": "psalms 135:17",
   "book": "psalms",
   "lang": "am",
   "chapter": 135,
-  "translation": "እንደፍጥሮ የሚሆኑት አይኳቸውም፤ እነሱ እንደ ሠራቸው ሁሉ ይሆናሉ፤ በእነሱ ላይ የሚተማመን ሁሉ እንደዚያው ነው።",
-  "tokens": [],
-  "timestamp": "2026-08-16T10:14:54.507777249Z",
+  "translation": "እንቆቅለሾች አሏቸው ግን አይሰሙም፤ እንዲያውም በአፋቸው ውስጥ እስትንፋስ የለም።",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "እንቆቅለሾች"
+    },
+    {
+      "surface": "להם",
+      "gloss": "አሏቸው"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ግን አይ"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "ሰሙም"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እንዲያውም"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለም"
+    },
+    {
+      "surface": "יש",
+      "gloss": "አለ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "እስትንፋስ"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "በአፋቸው"
+    }
+  ],
+  "timestamp": "2026-08-18T16:18:53.802948130Z",
   "model": "glm-5.3"
 }

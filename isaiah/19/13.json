@@ -1,58 +1,58 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 13,
   "ref": "isaiah 19:13",
   "book": "isaiah",
   "lang": "am",
   "chapter": 19,
-  "translation": "የጸዓን አለቆች ሞኙ፤ የኖፍ አለቆች ተታሉ፤ የነገዶቿ እርዳቶችም ⟨הם⟩ ⟨את⟩ ምጽርያምን አስታሉ።",
+  "translation": "የጾዓን አለቆች ሞኝነት ሆኑ፤ የኖፍ አለቆች ተታለው፤ የቅርንጫፎቿ ምሰሶዎች እነርሱ ⟨את⟩ ሚጽራይምን አስተሳሰቯታል።",
   "tokens": [
     {
       "surface": "נואלו",
-      "gloss": "ሞኙ"
+      "gloss": "ሞኝነት ሆኑ"
     },
     {
       "surface": "שרי",
-      "gloss": "የ…አለቆች"
+      "gloss": "አለቆች"
     },
     {
       "surface": "צען",
-      "gloss": "ጸዓን"
+      "gloss": "የጾዓን"
     },
     {
       "surface": "נשאו",
-      "gloss": "ተታሉ"
+      "gloss": "ተታለው"
     },
     {
       "surface": "שרי",
-      "gloss": "የ…አለቆች"
+      "gloss": "አለቆች"
     },
     {
       "surface": "נף",
-      "gloss": "ኖፍ"
+      "gloss": "የኖፍ"
     },
     {
       "surface": "התעו",
-      "gloss": "አስታሉ"
+      "gloss": "አስተሳሰቯታል"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ምጽርያምን"
+      "marks": "ሚጽራይምን"
     },
     {
       "surface": "מצרים",
-      "gloss": "ምጽርያምን"
+      "gloss": "ሚጽራይምን"
     },
     {
       "surface": "פנת",
-      "gloss": "እርዳቶች"
+      "gloss": "ምሰሶዎች"
     },
     {
       "surface": "שבטיה",
-      "gloss": "የነገዶቿ"
+      "gloss": "የቅርንጫፎቿ"
     }
   ],
-  "timestamp": "2026-08-16T07:06:44.508116033Z",
+  "timestamp": "2026-08-18T16:25:00.645797942Z",
   "model": "glm-5.3"
 }

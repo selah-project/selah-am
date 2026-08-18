@@ -1,42 +1,42 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 4,
   "ref": "exodus 37:4",
   "book": "exodus",
   "lang": "am",
   "chapter": 37,
-  "translation": "የሰንቆ እንጨትም በቶችን አደረገ፤ ⟨את⟩ ⟨אתם⟩ ⟨እነሱንም⟩ በወርቅ አገለበጠ።",
+  "translation": "እንዠቦችን ከሲን እንጨት አደረገ፤ እነሱንም ⟨את⟩ በወርቅ አከበባቸው።",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "አደረገ፤"
+      "gloss": "አደረገ"
     },
     {
       "surface": "בדי",
-      "gloss": "በቶችን"
+      "gloss": "እንዠቦችን"
     },
     {
       "surface": "עצי",
-      "gloss": "የ…እንጨት"
+      "gloss": "እንጨት"
     },
     {
       "surface": "שטים",
-      "gloss": "ሰንቆ"
+      "gloss": "ሲን"
     },
     {
       "surface": "ויצף",
-      "gloss": "አገለበጠ፤"
+      "gloss": "አከበባቸው"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "እነሱንም (በቶቹን)"
+      "gloss": "⟨את⟩",
+      "marks": "ወርቅ"
     },
     {
       "surface": "זהב",
-      "gloss": "በወርቅ"
+      "gloss": "ወርቅ"
     }
   ],
-  "timestamp": "2026-08-17T14:16:08.100875930Z",
+  "timestamp": "2026-08-18T14:42:52.961959739Z",
   "model": "glm-5.3"
 }

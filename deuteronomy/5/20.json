@@ -1,33 +1,33 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 20,
   "ref": "deuteronomy 5:20",
   "book": "deuteronomy",
   "lang": "am",
   "chapter": 5,
-  "translation": "እንዲሁም በፍጹም ስለ ⟨ה⟩ጎረቤትህ ውሸት ምስክርነት አትመስክር።",
+  "translation": "በትክክል ስለ ጎረቤትህ ውሸትን አትመስክር።",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "እንዲሁም በፍጹም"
+      "gloss": "እና አት"
     },
     {
       "surface": "תענה",
-      "gloss": "አትመስክር"
+      "gloss": "ታስረዳፍ ትመስክር።"
     },
     {
       "surface": "ברעך",
-      "gloss": "ስለ ⟨ה⟩ጎረቤትህ"
+      "gloss": "ስለ ጎረቤትህ"
     },
     {
       "surface": "עד",
-      "gloss": "ምስክርነት"
+      "gloss": "ምስክር"
     },
     {
       "surface": "שוא",
-      "gloss": "ውሸት"
+      "gloss": "ውሸትን"
     }
   ],
-  "timestamp": "2026-08-16T04:34:34.961715778Z",
+  "timestamp": "2026-08-18T16:18:22.837651419Z",
   "model": "glm-5.3"
 }

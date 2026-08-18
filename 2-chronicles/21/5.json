@@ -1,94 +1,53 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 5,
   "ref": "2-chronicles 21:5",
   "book": "2-chronicles",
   "lang": "am",
   "chapter": 21,
-  "translation": "ያህዌህም ሳይፈልስ የዳዊትን ቤት አልጠፋም፣ ለዳዊት የተቋረጠውን ቃል ኪዳን ስለወሰነ፣ ላሙኔታ እና ልጆቹ የሚያበራ እስከ ሁሉም ቀናት እንደሰጠውም ቃል አድርጎ በመናገሩ።",
+  "translation": "የሠላሳ እና ሁለት ዓመት ልጅ ነበረ የሆራም በመንገሡ ጊዜ፣ እና ስምንት ዓመት ነገሠ በየሩሳሌም።",
   "tokens": [
     {
-      "surface": "ולא",
-      "gloss": "አል...ም"
+      "surface": "בן",
+      "gloss": "ልጅ"
     },
     {
-      "surface": "אבה",
-      "gloss": "ፈለገ"
+      "surface": "שלשים",
+      "gloss": "ሠላሳ"
     },
     {
-      "surface": "יהוה",
-      "gloss": "ያህዌህ"
+      "surface": "ושתים",
+      "gloss": "እና ሁለት"
     },
     {
-      "surface": "להשחית",
-      "gloss": "ለመጥፋት\/ማጥፋት"
+      "surface": "שנה",
+      "gloss": "ዓመት"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "የዳዊትን ቤት"
+      "surface": "יהורם",
+      "gloss": "የሆራም"
     },
     {
-      "surface": "בית",
-      "gloss": "ቤት"
+      "surface": "במלכו",
+      "gloss": "በመንገሡ ጊዜ"
     },
     {
-      "surface": "דויד",
-      "gloss": "ዳዊት"
+      "surface": "ושמונה",
+      "gloss": "እና ስምንት"
     },
     {
-      "surface": "למען",
-      "gloss": "ስለ\/ለአጋጣሚ"
+      "surface": "שנים",
+      "gloss": "ዓመት"
     },
     {
-      "surface": "הברית",
-      "gloss": "ቃል ኪዳን"
+      "surface": "מלך",
+      "gloss": "ነገሠ"
     },
     {
-      "surface": "אשר",
-      "gloss": "የተቋረጠው\/የተደረገው"
-    },
-    {
-      "surface": "כרת",
-      "gloss": "ቈረጠ\/አደረገ"
-    },
-    {
-      "surface": "לדויד",
-      "gloss": "ለዳዊት"
-    },
-    {
-      "surface": "וכאשר",
-      "gloss": "እና እንደ"
-    },
-    {
-      "surface": "אמר",
-      "gloss": "ተናገረ\/ቃል ገባ"
-    },
-    {
-      "surface": "לתת",
-      "gloss": "ለመስጠት"
-    },
-    {
-      "surface": "לו",
-      "gloss": "ለርሱ\/ላሙኔታ"
-    },
-    {
-      "surface": "ניר",
-      "gloss": "የሚያበራ\/መብራት"
-    },
-    {
-      "surface": "ולבניו",
-      "gloss": "እና ለልጆቹ"
-    },
-    {
-      "surface": "כל",
-      "gloss": "ሁሉም\/እስከ መጨረሻ"
-    },
-    {
-      "surface": "הימים",
-      "gloss": "ቀናት"
+      "surface": "בירושלם",
+      "gloss": "በየሩሳሌም"
     }
   ],
-  "timestamp": "2026-08-16T13:57:30.535514998Z",
+  "timestamp": "2026-08-18T16:28:00.077239659Z",
   "model": "glm-5.3"
 }

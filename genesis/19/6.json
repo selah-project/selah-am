@@ -1,11 +1,11 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 6,
   "ref": "genesis 19:6",
   "book": "genesis",
   "lang": "am",
   "chapter": 19,
-  "translation": "ሎጥም ወደ እነሱ ወደ ⟨the⟩ በሩ ላይ ወጣ፤ ⟨the⟩ በሩንም በኋላው ዘጋ።",
+  "translation": "ሎጥ ወደ እነርሱ ወደ ⟨አፉ በር⟩ ወጣ፣ እና ⟨በሩን⟩ በኋላው ተዘጋ።",
   "tokens": [
     {
       "surface": "ויצא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אלהם",
-      "gloss": "ወደ እነሱ"
+      "gloss": "ወደ እነርሱ"
     },
     {
       "surface": "לוט",
@@ -21,21 +21,21 @@
     },
     {
       "surface": "הפתחה",
-      "gloss": "ወደ ⟨the⟩ በሩ ላይ"
+      "gloss": "ወደ ⟨አፉ በር⟩"
     },
     {
       "surface": "והדלת",
-      "gloss": "⟨the⟩ በሩንም"
+      "gloss": "እና ⟨በሩን⟩"
     },
     {
       "surface": "סגר",
-      "gloss": "ዘጋ"
+      "gloss": "ተዘጋ"
     },
     {
       "surface": "אחריו",
       "gloss": "በኋላው"
     }
   ],
-  "timestamp": "2026-08-16T02:38:43.325498854Z",
+  "timestamp": "2026-08-18T16:02:07.777728479Z",
   "model": "glm-5.3"
 }

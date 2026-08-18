@@ -1,15 +1,15 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 16,
   "ref": "numbers 35:16",
   "book": "numbers",
   "lang": "am",
   "chapter": 35,
-  "translation": "እንዲሁም በብረት መሣሪያ መቶ ቢሞት፣ እርሱ መገዳዳጭ ነው፤ ⟨ה⟩መገዳዳጁ ፈጽሞ ይገደላል።",
+  "translation": "እና በብረት መሣሪያ ቢያገደው እና ቢሞት፣ መጋዳኝ ነው፤ መጋዳኙ ⟨እርሱ⟩ በሞት ይጣላል።",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "እንዲሁም ቢ"
+      "gloss": "እና ቢ"
     },
     {
       "surface": "בכלי",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "הכהו",
-      "gloss": "መቶ"
+      "gloss": "ቢያገደው"
     },
     {
       "surface": "וימת",
-      "gloss": "ቢሞት"
+      "gloss": "እና ቢሞት"
     },
     {
       "surface": "רצח",
-      "gloss": "መገዳዳጭ"
+      "gloss": "መጋዳኝ"
     },
     {
       "surface": "הוא",
@@ -37,17 +37,17 @@
     },
     {
       "surface": "מות",
-      "gloss": "ፈጽሞ"
+      "gloss": "በሞት"
     },
     {
       "surface": "יומת",
-      "gloss": "ይገደላል"
+      "gloss": "ይጣላል"
     },
     {
       "surface": "הרצח",
-      "gloss": "⟨የ⟩መገዳዳጁ"
+      "gloss": "መጋዳኙ"
     }
   ],
-  "timestamp": "2026-08-16T04:31:01.583519107Z",
+  "timestamp": "2026-08-18T16:30:15.571062383Z",
   "model": "glm-5.3"
 }

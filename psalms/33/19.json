@@ -1,19 +1,19 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 19,
   "ref": "psalms 33:19",
   "book": "psalms",
   "lang": "am",
   "chapter": 33,
-  "translation": "ነፍሳቸውን ⟨מ⟩ሞት እንድያድን፣ በራብም እንዲኖሩ ይሆናል፤",
+  "translation": "ነፍሳቸውን ከሞት ለማዳን እና በራብ ጊዜ ሕይወታቸውን ለማስቆም።",
   "tokens": [
     {
       "surface": "להציל",
-      "gloss": "እንድያድን"
+      "gloss": "ለማዳን"
     },
     {
       "surface": "ממות",
-      "gloss": "⟨מ⟩ሞት"
+      "gloss": "ከሞት"
     },
     {
       "surface": "נפשם",
@@ -21,13 +21,13 @@
     },
     {
       "surface": "ולחיותם",
-      "gloss": "እንዲኖሩ"
+      "gloss": "እና ሕይወታቸውን ለማስቆም"
     },
     {
       "surface": "ברעב",
-      "gloss": "በራብ"
+      "gloss": "በራብ ጊዜ"
     }
   ],
-  "timestamp": "2026-08-16T09:38:18.983597074Z",
+  "timestamp": "2026-08-18T15:14:13.846137370Z",
   "model": "glm-5.3"
 }

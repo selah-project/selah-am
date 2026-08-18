@@ -5,63 +5,62 @@
   "book": "ezekiel",
   "lang": "am",
   "chapter": 38,
-  "translation": "ገመር እና ሁሉም ክንፎቹ፣ የቶገርማ ቤት፣ የሰሜን ዳርቻዎች፣ ⟨את⟩ ሁሉም ክንፎቹ፤ ብዙ ሕዝቦች ⟨את⟩ ⟨אתך⟩ ጋር ናቸው።",
+  "translation": "ገመር እና ሁሉም ክንፎቹ፣ የቶገርማ ቤት የሰሜን ሳምቢያዎች እና ⟨את⟩ ሁሉም ክንፎቹ — ብዙ ሕዝቦች ⟨את⟩ ከአንተ ጋር።",
   "tokens": [
     {
-      "surface": "גמר",
+      "surface": "גֹּ֫מֶר",
       "gloss": "ገመር"
     },
     {
-      "surface": "וכל",
+      "surface": "וְכָל",
       "gloss": "እና ሁሉም"
     },
     {
-      "surface": "אגפיה",
+      "surface": "אֲגַפֶּ֫יהָ",
       "gloss": "ክንፎቹ"
     },
     {
-      "surface": "בית",
-      "gloss": "ቤት"
+      "surface": "בֵּ֣ית",
+      "gloss": "የ...ቤት"
     },
     {
-      "surface": "תוגרמה",
+      "surface": "תּוֹגַרְמָ֔ה",
       "gloss": "ቶገርማ"
     },
     {
-      "surface": "ירכתי",
-      "gloss": "ዳርቻዎች"
+      "surface": "יַרְכְּתֵ֥י",
+      "gloss": "ሳምቢያዎች"
     },
     {
-      "surface": "צפון",
+      "surface": "צָפ֖וֹן",
       "gloss": "ሰሜን"
     },
     {
-      "surface": "ואת",
+      "surface": "וְאֶת",
       "gloss": "⟨את⟩",
       "marks": "ሁሉም ክንፎቹ"
     },
     {
-      "surface": "כל",
+      "surface": "כָּ֑ל",
       "gloss": "ሁሉም"
     },
     {
-      "surface": "אגפיו",
+      "surface": "אֲגַפָּ֫יו",
       "gloss": "ክንፎቹ"
     },
     {
-      "surface": "עמים",
+      "surface": "עַמִּ֥ים",
       "gloss": "ሕዝቦች"
     },
     {
-      "surface": "רבים",
+      "surface": "רַבִּ֖ים",
       "gloss": "ብዙ"
     },
     {
-      "surface": "אתך",
-      "gloss": "⟨את⟩ ⟨אתך⟩",
-      "marks": "ከአንተ ጋር"
+      "surface": "אִתָּֽךְ",
+      "gloss": "⟨את⟩ ከአንተ ጋር"
     }
   ],
-  "timestamp": "2026-08-17T14:16:08.147126957Z",
+  "timestamp": "2026-08-18T16:27:23.638893416Z",
   "model": "glm-5.3"
 }

@@ -1,19 +1,19 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 11,
   "ref": "judges 17:11",
   "book": "judges",
   "lang": "am",
   "chapter": 17,
-  "translation": "ሌዊውም ከ⟨the⟩ ሰውቬው ጋር ለመኖር ፈቀደ፤ ወጣቱም እንደ አንዱ ከልጆቹ ሆነለት።",
+  "translation": "እና ለብዕሩ ሊቀ ካህናት ከዚያ ሰው ጋር ለመኖር ተስማማ፤ እና ⟨את⟩ ወጣቱ እንደ አንዱ ከልጆቹ ሆኖ ተቆየ።",
   "tokens": [
     {
       "surface": "ויואל",
-      "gloss": "ፈቀደ"
+      "gloss": "ተስማማ"
     },
     {
       "surface": "הלוי",
-      "gloss": "ሌዊው"
+      "gloss": "ሊቀ ካህናት"
     },
     {
       "surface": "לשבת",
@@ -22,15 +22,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ሰውቬው"
+      "marks": "ወጣቱ"
     },
     {
       "surface": "האיש",
-      "gloss": "ሰውቬው"
+      "gloss": "ወጣቱ"
     },
     {
       "surface": "ויהי",
-      "gloss": "ሆነ"
+      "gloss": "እና ሆኖ ተቆየ"
     },
     {
       "surface": "הנער",
@@ -38,17 +38,17 @@
     },
     {
       "surface": "לו",
-      "gloss": "ለእርሱ"
+      "gloss": "እንደ"
     },
     {
       "surface": "כאחד",
-      "gloss": "እንደ አንዱ"
+      "gloss": "አንዱ"
     },
     {
       "surface": "מבניו",
       "gloss": "ከልጆቹ"
     }
   ],
-  "timestamp": "2026-08-16T05:26:53.845728662Z",
+  "timestamp": "2026-08-18T16:24:26.096483063Z",
   "model": "glm-5.3"
 }

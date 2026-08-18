@@ -1,11 +1,11 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 10,
   "ref": "ecclesiastes 12:10",
   "book": "ecclesiastes",
   "lang": "am",
   "chapter": 12,
-  "translation": "ቆሄሌት የሚያረጁ ቃላትን ለማግኘት ፈለገ፤ የተጻፈውም ቀጥተኛ የእውነት ቃላት ⟨is⟩ ነው።",
+  "translation": "ቆሄለት የሚያረሱ ቃላትን ለማግኘት ፈለገ፤ የተጻፈውም ትክክለኛ፣ የእውነት ቃላት ነበር።",
   "tokens": [
     {
       "surface": "בקש",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "קהלת",
-      "gloss": "ቆሄሌት"
+      "gloss": "ቆሄለት"
     },
     {
       "surface": "למצא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "חפץ",
-      "gloss": "የሚያረጁ"
+      "gloss": "የሚያረሱ"
     },
     {
       "surface": "וכתוב",
@@ -33,17 +33,17 @@
     },
     {
       "surface": "ישר",
-      "gloss": "ቀጥተኛ"
+      "gloss": "ትክክለኛ"
     },
     {
       "surface": "דברי",
-      "gloss": "የእውነት ቃላት"
+      "gloss": "ቃላት"
     },
     {
       "surface": "אמת",
       "gloss": "የእውነት"
     }
   ],
-  "timestamp": "2026-08-16T11:18:36.592161926Z",
+  "timestamp": "2026-08-18T16:17:29.011374882Z",
   "model": "glm-5.3"
 }

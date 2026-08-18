@@ -1,32 +1,32 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 8,
   "ref": "deuteronomy 27:8",
   "book": "deuteronomy",
   "lang": "am",
   "chapter": 27,
-  "translation": "በድንጋዮቹ ላይም ⟨את⟩ የ⟨the⟩ ትእዛዝ ይህችዋን ቃላት ሁሉ በግልጽ ጻፍ።",
+  "translation": "በዐረፍተ ነገር ላይ በግልጽ በሚገባ ሁኔታ የዚህችውን ትዕዛዝ ሁሉን ⟨את⟩ ቃላት በዐለቶቹ ላይ ታነጻለህ።",
   "tokens": [
     {
       "surface": "וכתבת",
-      "gloss": "ታጽፋለህም"
+      "gloss": "ታነጻለህ"
     },
     {
       "surface": "על",
-      "gloss": "በ... ላይ"
+      "gloss": "በላይ"
     },
     {
       "surface": "האבנים",
-      "gloss": "ድንጋዮቹ"
+      "gloss": "ዐለቶቹን"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ቃላት ሁሉ"
+      "marks": "ሁሉን ቃላት የዚህችውን ትዕዛዝ"
     },
     {
       "surface": "כל",
-      "gloss": "ሁሉ"
+      "gloss": "ሁሉን"
     },
     {
       "surface": "דברי",
@@ -34,21 +34,21 @@
     },
     {
       "surface": "התורה",
-      "gloss": "የትእዛዝ"
+      "gloss": "የትዕዛዙ"
     },
     {
       "surface": "הזאת",
-      "gloss": "ይህችዋን"
+      "gloss": "የዚህችውን"
     },
     {
       "surface": "באר",
-      "gloss": "በግልጽ ጻፍ"
+      "gloss": "በግልጽ"
     },
     {
       "surface": "היטב",
-      "gloss": "በደንብ"
+      "gloss": "በሚገባ ሁኔታ"
     }
   ],
-  "timestamp": "2026-08-16T04:50:13.952280651Z",
+  "timestamp": "2026-08-18T14:58:45.669550568Z",
   "model": "glm-5.3"
 }

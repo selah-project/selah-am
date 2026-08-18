@@ -1,15 +1,15 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 7,
   "ref": "exodus 21:7",
   "book": "exodus",
   "lang": "am",
   "chapter": 21,
-  "translation": "እና ወንድ ሰው ልጁን ⟨את⟩ እገልጋይነት ሲሸጥ፣ እርሷ እንደ አገልጋዮች ⟨the⟩ መውጣት አትወጣም።",
+  "translation": "እንደዚህም ወንድ ሴት ልጁን ⟨את⟩ እንደ አገልጋይት ሲሸጥ፣ እርሷ እንደ ባሮች መውጫ አትወጣም።",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "እና ከሆነ"
+      "gloss": "እንደዚህም ከሆነ"
     },
     {
       "surface": "ימכר",
@@ -17,38 +17,38 @@
     },
     {
       "surface": "איש",
-      "gloss": "ወንድ ሰው"
+      "gloss": "ወንድ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ልጁን"
+      "marks": "ሴት ልጁን"
     },
     {
       "surface": "בתו",
-      "gloss": "ልጁን"
+      "gloss": "ሴት ልጁን"
     },
     {
       "surface": "לאמה",
-      "gloss": "እገልጋይነት"
+      "gloss": "እንደ አገልጋይት"
     },
     {
       "surface": "לא",
-      "gloss": "አት"
+      "gloss": "አት...ም"
     },
     {
       "surface": "תצא",
-      "gloss": "ወጣም"
+      "gloss": "ትወጣል"
     },
     {
       "surface": "כצאת",
-      "gloss": "እንደ መውጣት"
+      "gloss": "እንደ መውጫ"
     },
     {
       "surface": "העבדים",
-      "gloss": "አገልጋዮች"
+      "gloss": "ባሮች"
     }
   ],
-  "timestamp": "2026-08-16T03:21:16.337315265Z",
+  "timestamp": "2026-08-18T16:42:23.840311113Z",
   "model": "glm-5.3"
 }

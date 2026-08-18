@@ -1,27 +1,27 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 9,
   "ref": "numbers 5:9",
   "book": "numbers",
   "lang": "am",
   "chapter": 5,
-  "translation": "እያንዳንዱም የእስራኤል ልጆች ቅዱሳን ነገሮች ወደ ካህኑ የሚያቀርቡት መባ ሁሉ የ⟨the⟩ ካህኑ ይሆናል።",
+  "translation": "እና ከእስራኤል ልጆች ቅዱሳን ነገሮች ሁሉ ውስጥ ካለው ሁሉ የተቀደሰ መባ ወደ ካህኑ የሚቀርብ ለእርሱ ⟨ይሆናል⟩።",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "እያንዳንዱም"
+      "gloss": "እና ሁሉ"
     },
     {
       "surface": "תרומה",
-      "gloss": "መባ"
+      "gloss": "የተቀደሰ መባ"
     },
     {
       "surface": "לכל",
-      "gloss": "ሁሉ"
+      "gloss": "ከሁሉ"
     },
     {
       "surface": "קדשי",
-      "gloss": "የቅዱሳን ነገሮች"
+      "gloss": "ቅዱሳን ነገሮች"
     },
     {
       "surface": "בני",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "የሚያቀርቡት"
+      "gloss": "የሚቀርብ"
     },
     {
       "surface": "יקריבו",
-      "gloss": "ያቀርቡ"
+      "gloss": "ያቀርባሉ"
     },
     {
       "surface": "לכהן",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "לו",
-      "gloss": "የእርሱ"
+      "gloss": "ለእርሱ"
     },
     {
       "surface": "יהיה",
       "gloss": "ይሆናል"
     }
   ],
-  "timestamp": "2026-08-16T04:07:39.662075469Z",
+  "timestamp": "2026-08-18T15:43:10.963202959Z",
   "model": "glm-5.3"
 }

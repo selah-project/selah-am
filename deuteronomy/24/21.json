@@ -1,31 +1,31 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 21,
   "ref": "deuteronomy 24:21",
   "book": "deuteronomy",
   "lang": "am",
   "chapter": 24,
-  "translation": "የወይን የእርስህን ⟨ה⟩ ተከር ስታሸግ በኋላህ አታሰራጭ፤ ለመጻኛ፣ ለድሆ እና ለመበለት ⟨ይሆናል⟩።",
+  "translation": "ብዙም ሳይሆን የወይን የእርስህን ቦታ ስታጨድ በኋላህ ላቀሳቅስ የለም፤ ለመንጋጋው ለድሆ እና ለመበለት ይሁን።",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "ስታሸግ ሲል"
+      "gloss": "ሳይሆን"
     },
     {
       "surface": "תבצר",
-      "gloss": "ተከረህን ታሸጋለህ"
+      "gloss": "ስታጨድ"
     },
     {
       "surface": "כרמך",
-      "gloss": "የወይን የእርስህን"
+      "gloss": "የወይን የእርስህን ቦታ"
     },
     {
       "surface": "לא",
-      "gloss": "አታ…"
+      "gloss": "የለም"
     },
     {
       "surface": "תעולל",
-      "gloss": "አታሰራጭ"
+      "gloss": "ላቀሳቅስ"
     },
     {
       "surface": "אחריך",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לגר",
-      "gloss": "ለመጻኛ"
+      "gloss": "ለመንጋጋው"
     },
     {
       "surface": "ליתום",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "ይሆናል"
+      "gloss": "ይሁን"
     }
   ],
-  "timestamp": "2026-08-16T04:47:56.224453124Z",
+  "timestamp": "2026-08-18T14:32:04.994269061Z",
   "model": "glm-5.3"
 }

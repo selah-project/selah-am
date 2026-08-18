@@ -1,19 +1,19 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 28,
   "ref": "deuteronomy 33:28",
   "book": "deuteronomy",
   "lang": "am",
   "chapter": 33,
-  "translation": "እስራኤልም በደህና ብቻውን ይኖራል፤ የያዕቆብ ምንጭ ⟨is⟩ ወደ ዕንጨራና ወይን ምላጭ ምድር፤ እንዲያውም ሰማያቱ ጠጅ ያፈሰዋሉ።",
+  "translation": "ይስራኤል በደህና፣ ብቻውን ይኖራል፤ የያዕቆብ ፅዮን ወደ እህልና ወደ ወይን ጠላ ምድር ይመለከታል፤ አዎም ሰማዮቹ ጠጅ ያኖራሉ።",
   "tokens": [
     {
       "surface": "וישכן",
-      "gloss": "ይኖራልም"
+      "gloss": "ይኖራል"
     },
     {
       "surface": "ישראל",
-      "gloss": "እስራኤል"
+      "gloss": "ይስራኤል"
     },
     {
       "surface": "בטח",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "עין",
-      "gloss": "ምንጭ"
+      "gloss": "ፅዮን"
     },
     {
       "surface": "יעקב",
@@ -41,29 +41,29 @@
     },
     {
       "surface": "דגן",
-      "gloss": "ዕንጨራ"
+      "gloss": "እህል"
     },
     {
       "surface": "ותירוש",
-      "gloss": "ወይን ምላጭም"
+      "gloss": "እና ወይን ጠላ"
     },
     {
       "surface": "אף",
-      "gloss": "እንዲያውም"
+      "gloss": "አዎም"
     },
     {
       "surface": "שמיו",
-      "gloss": "ሰማያቱ"
+      "gloss": "ሰማዮቹ"
     },
     {
       "surface": "יערפו",
-      "gloss": "ያፈሰዋሉ"
+      "gloss": "ያኖራሉ"
     },
     {
       "surface": "טל",
       "gloss": "ጠጅ"
     }
   ],
-  "timestamp": "2026-08-16T04:56:50.995558199Z",
+  "timestamp": "2026-08-18T15:53:37.798578072Z",
   "model": "glm-5.3"
 }

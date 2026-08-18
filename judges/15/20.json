@@ -1,12 +1,42 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 20,
   "ref": "judges 15:20",
   "book": "judges",
   "lang": "am",
   "chapter": 15,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-16T05:24:42.087233240Z",
+  "translation": "እርሱም ⟨את⟩ እስራኤልን በፍልስጤምያን ዘመን ዐሥራ ሁለት ዓመት ፈረደ።",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ፈረደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "በ…ዘመን"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤምያን"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ዐሥራ ሁለት"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    }
+  ],
+  "timestamp": "2026-08-18T15:52:54.721155978Z",
   "model": "glm-5.3"
 }

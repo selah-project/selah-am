@@ -1,35 +1,35 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 5,
   "ref": "ruth 2:5",
   "book": "ruth",
   "lang": "am",
   "chapter": 2,
-  "translation": "ቦዓዝም ለአገልጋዩ ለተቆም እነሆ ⟨ה⟩ በሰብሳቢዎቹ ላይ እንዲህ አለ፦ ይህች ወጣት የማን ናት?",
+  "translation": "በዐዝህ ጊዜ ላለቀሰው ልጁ ለነበረው ለቤዝ፣ እንዲሁም ለሰብሳቢዎቹ ላይ ለቆመው ልጁ «⟨የማን ናት⟩ ይህችው ወጣት ሴት?» አለ።",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "አለም"
+      "gloss": "አለ"
     },
     {
       "surface": "בעז",
-      "gloss": "ቦዓዝ"
+      "gloss": "ቤዝ"
     },
     {
       "surface": "לנערו",
-      "gloss": "ለአገልጋዩ"
+      "gloss": "ለልጁ"
     },
     {
       "surface": "הנצב",
-      "gloss": "ለተቆም"
+      "gloss": "ለቆመው"
     },
     {
       "surface": "על",
-      "gloss": "በ... ላይ"
+      "gloss": "ላይ"
     },
     {
       "surface": "הקוצרים",
-      "gloss": "ሰብሳቢዎቹ"
+      "gloss": "ለሰብሳቢዎቹ"
     },
     {
       "surface": "למי",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "הנערה",
-      "gloss": "ወጣት"
+      "gloss": "ወጣት ሴት"
     },
     {
       "surface": "הזאת",
-      "gloss": "ይህች"
+      "gloss": "ይህችው"
     }
   ],
-  "timestamp": "2026-08-16T11:08:25.626069375Z",
+  "timestamp": "2026-08-18T15:53:24.179106281Z",
   "model": "glm-5.3"
 }

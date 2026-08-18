@@ -1,27 +1,27 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 14,
   "ref": "jeremiah 20:14",
   "book": "jeremiah",
   "lang": "am",
   "chapter": 20,
-  "translation": "የተረገመ ያ ⟨the⟩ ቀን በእርሱ ውስጥ የተወለድኩት፤ ያ ⟨the⟩ ቀን እናቴ የወለደችኝ አይባረክ።",
+  "translation": "የተረገመ የሆነው ⟨የ⟩ቀን በእርሱ ውስጥ የተወለድኩበት ቀን — እናቴ የወለደችኝ ቀን የተባረከ ያልሆን።",
   "tokens": [
     {
       "surface": "ארור",
-      "gloss": "የተረገመ"
+      "gloss": "የተረገመ የሆነው"
     },
     {
       "surface": "היום",
-      "gloss": "ያ ⟨the⟩ ቀን"
+      "gloss": "⟨የ⟩ቀን"
     },
     {
       "surface": "אשר",
-      "gloss": "የሆነው"
+      "gloss": "የተወለድኩበት"
     },
     {
       "surface": "ילדתי",
-      "gloss": "የተወለድኩት"
+      "gloss": "ተወለድኩ"
     },
     {
       "surface": "בו",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "የሆነው"
+      "gloss": "የወለደችኝ"
     },
     {
       "surface": "ילדתני",
-      "gloss": "የወለደችኝ"
+      "gloss": "ወለደችኝ"
     },
     {
       "surface": "אמי",
@@ -45,17 +45,17 @@
     },
     {
       "surface": "אל",
-      "gloss": "አይ"
+      "gloss": "አይሁን"
     },
     {
       "surface": "יהי",
-      "gloss": "ይሁን"
+      "gloss": "ያልሆን"
     },
     {
       "surface": "ברוך",
       "gloss": "የተባረከ"
     }
   ],
-  "timestamp": "2026-08-16T07:50:01.036381593Z",
+  "timestamp": "2026-08-18T15:18:07.085638107Z",
   "model": "glm-5.3"
 }

@@ -1,12 +1,110 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 19,
   "ref": "judges 15:19",
   "book": "judges",
   "lang": "am",
   "chapter": 15,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-16T05:24:42.087130220Z",
+  "translation": "ኤሎሂም በለኺ ውስጥ የነበረውን ⟨את⟩ ሐውል አበቀለ፤ ከእርሱም ውስጥ ውሃ ወጣ፤ ደግሞም ጠጣ እና መንፈሱ ተመለሰ፣ በሕይወትም ተመለሰ። ስለዚህ እስከ ዛሬ ድረስ በለኺ ውስጥ ያለውን የመጥራት ምንጭ «ዐይን ሓቆሬ» ብሎ ጠራው።",
+  "tokens": [
+    {
+      "surface": "ויבקע",
+      "gloss": "አበቀለ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሐውል"
+    },
+    {
+      "surface": "המכתש",
+      "gloss": "ሐውል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "የነበረውን"
+    },
+    {
+      "surface": "בלחי",
+      "gloss": "በለኺ"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ወጣ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ከእርሱም ውስጥ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ውሃ"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "ጠጣ"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "መንፈሱ"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "በሕይወትም ተመለሰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ይህ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ጠራ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ዐይን (ምንጭ)"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "ሓቆሬ (የመጥራት)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ያለውን"
+    },
+    {
+      "surface": "בלחי",
+      "gloss": "በለኺ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ዛሬ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ድረስ"
+    }
+  ],
+  "timestamp": "2026-08-18T15:18:28.528501194Z",
   "model": "glm-5.3"
 }

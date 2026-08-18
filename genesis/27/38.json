@@ -1,31 +1,31 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 38,
   "ref": "genesis 27:38",
   "book": "genesis",
   "lang": "am",
   "chapter": 27,
-  "translation": "ዔሳውም ለአባቱ አለ፦ ⟨ה⟩በረከት አንድ ብቻ ናት ለአንተ፣ አባት ሆይ? ባርከኝ፣ እኔንም እኔንተ፣ አባት ሆይ። ዔሳውም ድምፁን አንሥቶ አለቀሰ።",
+  "translation": "እስሳውም አባቱን እንዲህ አለው፦ አንድ በረከት ብቻ አለህን አባቴ? እኔንም በረክተኝ አባቴ። እስሳውም ድምፁን ከፍ አደረገ፣ አለቀም።",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "አለ"
+      "gloss": "አለው"
     },
     {
       "surface": "עשו",
-      "gloss": "ዔሳው"
+      "gloss": "እስሳውም"
     },
     {
       "surface": "אל",
-      "gloss": "ለ"
+      "gloss": "እንዲህ"
     },
     {
       "surface": "אביו",
-      "gloss": "አባቱ"
+      "gloss": "አባቱን"
     },
     {
       "surface": "הברכה",
-      "gloss": "⟨በ⟩ረከት"
+      "gloss": "በረከት"
     },
     {
       "surface": "אחת",
@@ -33,39 +33,39 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ብቻ ናት"
+      "gloss": "⟨አለህን⟩"
     },
     {
       "surface": "לך",
-      "gloss": "ለአንተ"
+      "gloss": "ላንተ"
     },
     {
       "surface": "אבי",
-      "gloss": "አባት ሆይ"
+      "gloss": "አባቴ"
     },
     {
       "surface": "ברכני",
-      "gloss": "ባርከኝ"
+      "gloss": "በረክተኝ"
     },
     {
       "surface": "גם",
-      "gloss": "እንዲሁም"
+      "gloss": "እኔንም"
     },
     {
       "surface": "אני",
-      "gloss": "እኔን"
+      "gloss": "እኔ"
     },
     {
       "surface": "אבי",
-      "gloss": "አባት ሆይ"
+      "gloss": "አባቴ"
     },
     {
       "surface": "וישא",
-      "gloss": "አንሥቶ"
+      "gloss": "ከፍ አደረገ"
     },
     {
       "surface": "עשו",
-      "gloss": "ዔሳው"
+      "gloss": "እስሳውም"
     },
     {
       "surface": "קלו",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "ויבך",
-      "gloss": "አለቀሰ"
+      "gloss": "አለቀም"
     }
   ],
-  "timestamp": "2026-08-16T02:46:28.649405015Z",
+  "timestamp": "2026-08-18T15:33:43.972624353Z",
   "model": "glm-5.3"
 }

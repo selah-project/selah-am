@@ -1,11 +1,11 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 8,
   "ref": "psalms 48:8",
   "book": "psalms",
   "lang": "am",
   "chapter": 48,
-  "translation": "በምሥራቃዊ ነፋስ ⟨את⟩ የተርሺስ መርከቦችን ትሰብራለህ።",
+  "translation": "በምሥራቅ ነፋስ በታሪሽ መርከቦችን ይሰብራሉ።",
   "tokens": [
     {
       "surface": "ברוח",
@@ -13,22 +13,21 @@
     },
     {
       "surface": "קדים",
-      "gloss": "ምሥራቃዊ"
+      "gloss": "ምሥራቅ"
     },
     {
       "surface": "תשבר",
-      "gloss": "ትሰብራለህ፤"
+      "gloss": "ይሰብራሉ"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "የተርሺስ መርከቦችን"
+      "surface": "אניות",
+      "gloss": "መርከቦችን"
     },
     {
-      "surface": "אניות תרשיש",
-      "gloss": "የተርሺስ መርከቦችን"
+      "surface": "תרשיש",
+      "gloss": "በታሪሽ"
     }
   ],
-  "timestamp": "2026-08-16T09:43:30.710762053Z",
+  "timestamp": "2026-08-18T14:54:31.218125644Z",
   "model": "glm-5.3"
 }
