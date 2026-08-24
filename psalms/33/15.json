@@ -1,19 +1,19 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 15,
   "ref": "psalms 33:15",
   "book": "psalms",
   "lang": "am",
   "chapter": 33,
-  "translation": "ልባቸውን አንድ ላይ የሚፈጥር ሥራቸውን ሁሉ የሚረዳ ⟨he⟩።",
+  "translation": "ልባቸውን አንድ ሆኖ የሚፈጥረው፣ ወደ ሁሉም ሥራዎቻቸው የሚመለከተው —",
   "tokens": [
     {
       "surface": "היצר",
-      "gloss": "የሚፈጥር"
+      "gloss": "የሚፈጥረው"
     },
     {
       "surface": "יחד",
-      "gloss": "አንድ ላይ"
+      "gloss": "አንድ ሆኖ"
     },
     {
       "surface": "לבם",
@@ -21,21 +21,21 @@
     },
     {
       "surface": "המבין",
-      "gloss": "የሚረዳ"
+      "gloss": "የሚመለከተው"
     },
     {
       "surface": "אל",
-      "gloss": "ለሥራቸው ሁሉ"
+      "gloss": "ወደ"
     },
     {
       "surface": "כל",
-      "gloss": "ሁሉን"
+      "gloss": "ሁሉም"
     },
     {
       "surface": "מעשיהם",
-      "gloss": "ሥራቸውን"
+      "gloss": "ሥራዎቻቸው"
     }
   ],
-  "timestamp": "2026-08-16T09:38:44.756518714Z",
+  "timestamp": "2026-08-24T21:32:58.851188563Z",
   "model": "glm-5.3"
 }

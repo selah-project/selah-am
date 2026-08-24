@@ -1,39 +1,39 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 6,
   "ref": "leviticus 1:6",
   "book": "leviticus",
   "lang": "am",
   "chapter": 1,
-  "translation": "የዋህቀቱን ⟨את⟩> ቆዳ ያንጠፋል፣ ወደ ቁርጥሮቿም ቁርጥ ቁርጥ ⟨את⟩> ታደርጋታለች።",
+  "translation": "የሙቀቱን መሥዋዕት ቆዳ ⟨את⟩ አስሮ ወደ ክፍሎቹም ይከፍለዋል።",
   "tokens": [
     {
       "surface": "והפשיט",
-      "gloss": "ያንጠፋል"
+      "gloss": "አስሮ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "የዋህቀቱን"
+      "marks": "የሙቀቱን መሥዋዕት"
     },
     {
       "surface": "העלה",
-      "gloss": "ዋህቀት"
+      "gloss": "የሙቀቱን መሥዋዕት"
     },
     {
       "surface": "ונתח",
-      "gloss": "ታደርጋታለች ቁርጥ ቁርጥ"
+      "gloss": "ይከፍለዋል"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ወደ ቁርጥሮቿ"
+      "marks": "ክፍሎቹን"
     },
     {
       "surface": "לנתחיה",
-      "gloss": "ወደ ቁርጥሮቿ"
+      "gloss": "ወደ ክፍሎቹ"
     }
   ],
-  "timestamp": "2026-08-16T03:41:02.600519364Z",
+  "timestamp": "2026-08-24T21:33:02.013068418Z",
   "model": "glm-5.3"
 }

@@ -1,11 +1,11 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 15,
   "ref": "psalms 25:15",
   "book": "psalms",
   "lang": "am",
   "chapter": 25,
-  "translation": "ዓይኖቼ ሁልጊዜ ወደ ያህዌህ ⟨are⟩፤ እርሱ መረቡን ጥሎ እግሮቼን ያወጣልና።",
+  "translation": "ዓይኖቼ ሁልጊዜ ወደ ያህዌህ ⟨ናቸው⟩፤ እርሱ እግሮቼን ከመረብ ያወጣልና።",
   "tokens": [
     {
       "surface": "עיני",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "ስለዚህ"
+      "gloss": "እርሱ … እንደሚያወጣልና"
     },
     {
       "surface": "הוא",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "מרשת",
-      "gloss": "ከመረቡ"
+      "gloss": "ከመረብ"
     },
     {
       "surface": "רגלי",
       "gloss": "እግሮቼን"
     }
   ],
-  "timestamp": "2026-08-16T09:35:47.241988116Z",
+  "timestamp": "2026-08-24T21:33:12.452757652Z",
   "model": "glm-5.3"
 }

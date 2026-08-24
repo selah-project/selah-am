@@ -1,27 +1,27 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 3,
   "ref": "psalms 106:3",
   "book": "psalms",
   "lang": "am",
   "chapter": 106,
-  "translation": "እድለኞች ⟨are⟩ ፍርድን የሚጠብቁት፣ በሁሉም ጊዜ ጽድቅን የሚሠራ።",
+  "translation": "እንደሚገባ የሚሁ የፍርድ ጠባቂዎች ብፁዓን ናቸው፣ በሁሉም ጊዜ ጽድቅን የሚያደርግ።",
   "tokens": [
     {
       "surface": "אשרי",
-      "gloss": "እድለኞች"
+      "gloss": "ብፁዓን ናቸው"
     },
     {
       "surface": "שמרי",
-      "gloss": "የሚጠብቁት"
+      "gloss": "ጠባቂዎች"
     },
     {
       "surface": "משפט",
-      "gloss": "ፍርድን"
+      "gloss": "ፍርድ"
     },
     {
       "surface": "עשה",
-      "gloss": "የሚሠራ"
+      "gloss": "የሚያደርግ"
     },
     {
       "surface": "צדקה",
@@ -36,6 +36,6 @@
       "gloss": "ጊዜ"
     }
   ],
-  "timestamp": "2026-08-16T10:05:52.031116221Z",
+  "timestamp": "2026-08-24T21:33:24.384535468Z",
   "model": "glm-5.3"
 }

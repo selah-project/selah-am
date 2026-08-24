@@ -1,27 +1,27 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 19,
   "ref": "nehemiah 5:19",
   "book": "nehemiah",
   "lang": "am",
   "chapter": 5,
-  "translation": "ለመልካም ሁሉን በዚህ ሕዝብ ላይ የሠራሁትን አምላᄋኬ ኤሎሂም ሆይ አስታውሰኝ።",
+  "translation": "አስበኝ ኤሎሂም የእኔ፣ ለምሕረት፣ ሁሉን ያደረግኩትን በዚህ ሕዝብ ላይ።",
   "tokens": [
     {
       "surface": "זכרה",
-      "gloss": "አስታውሰኝ"
+      "gloss": "አስበኝ"
     },
     {
       "surface": "לי",
-      "gloss": "ለእኔ"
+      "gloss": "የእኔ"
     },
     {
       "surface": "אלהי",
-      "gloss": "አምላኬ ኤሎሂም ሆይ"
+      "gloss": "ኤሎሂም"
     },
     {
       "surface": "לטובה",
-      "gloss": "ለመልካም"
+      "gloss": "ለምሕረት"
     },
     {
       "surface": "כל",
@@ -29,25 +29,25 @@
     },
     {
       "surface": "אשר",
-      "gloss": "የሠራሁትን"
+      "gloss": "ያደረግኩትን"
     },
     {
       "surface": "עשיתי",
-      "gloss": "ሠራሁ"
+      "gloss": "አደረግኩ"
     },
     {
       "surface": "על",
-      "gloss": "በ… ላይ"
+      "gloss": "ላይ"
     },
     {
       "surface": "העם",
-      "gloss": "ሕዝብ"
+      "gloss": "በሕዝብ"
     },
     {
       "surface": "הזה",
       "gloss": "ይህ"
     }
   ],
-  "timestamp": "2026-08-16T12:11:13.548360403Z",
+  "timestamp": "2026-08-24T21:33:13.402524335Z",
   "model": "glm-5.3"
 }

@@ -1,27 +1,27 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 172,
   "ref": "psalms 119:172",
   "book": "psalms",
   "lang": "am",
   "chapter": 119,
-  "translation": "ምላᄒሴ ሁሉ ጽድቅ ናቸው።",
+  "translation": "ሌሳኔ የአንተን ቃል ይመልሳል፤ በአንተ ትእዛዝ ሁሉ ጽድቅ ነው።",
   "tokens": [
     {
       "surface": "תען",
-      "gloss": "ይመልስ"
+      "gloss": "ይመልሳል"
     },
     {
       "surface": "לשוני",
-      "gloss": "ምላሴ"
+      "gloss": "ሌሳኔ"
     },
     {
       "surface": "אמרתך",
-      "gloss": "ቃልህ"
+      "gloss": "የአንተን ቃል"
     },
     {
       "surface": "כי",
-      "gloss": "ምክንያቱም"
+      "gloss": "በ…ስለዚህ"
     },
     {
       "surface": "כל",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "מצותיך",
-      "gloss": "ትእዛዞችህ"
+      "gloss": "ትእዛዝህ"
     },
     {
       "surface": "צדק",
-      "gloss": "ጽድቅ ናቸው"
+      "gloss": "ጽድቅ ⟨ነው⟩"
     }
   ],
-  "timestamp": "2026-08-16T10:13:03.271524849Z",
+  "timestamp": "2026-08-24T21:33:14.665878799Z",
   "model": "glm-5.3"
 }

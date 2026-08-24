@@ -1,15 +1,15 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 10,
   "ref": "nehemiah 4:10",
   "book": "nehemiah",
   "lang": "am",
   "chapter": 4,
-  "translation": "የሆነው ከዚያ ቀን ጀምሮ የእኔ ወጣቶች ግማሽ በሥራው ሠሩ፣ ግማሻቸውም የያዙ ነበሩ፣ እና እርምጃዎቹ — the spears, the shields, the bows, the coats of mail; and the rulers were behind all the house of Judah.",
+  "translation": "ከዚያው ቀን ጀምሮ የእኔ ወጣቶች ከፍተኛ ሩጫ በላይ ግማሽ በሥራ እየሠሩ ነበር፣ ግማሹም እነሆ የሚያዝ፣ እንዲሁም እርስ በርስ በቀስታት፣ በዊኖች፣ በጠባቦችና በግዛት ይያዙ ነበር፤ አለቆቹም እነሆ በኩል በይሁዳ ቤት ሁሉ ኋላ ነበሩ።",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "የሆነው"
+      "gloss": "ነበር"
     },
     {
       "surface": "מן",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "היום",
-      "gloss": "ቀኑ"
+      "gloss": "ቀን"
     },
     {
       "surface": "ההוא",
-      "gloss": "ያ"
+      "gloss": "ዚያው"
     },
     {
       "surface": "חצי",
@@ -33,43 +33,43 @@
     },
     {
       "surface": "עשים",
-      "gloss": "ሠሩ"
+      "gloss": "እየሠሩ"
     },
     {
       "surface": "במלאכה",
-      "gloss": "በሥራው"
+      "gloss": "በሥራ"
     },
     {
       "surface": "וחצים",
-      "gloss": "እና ግማሻቸው"
+      "gloss": "ግማሹም"
     },
     {
       "surface": "מחזיקים",
-      "gloss": "የያዙ"
+      "gloss": "የሚያዙ"
     },
     {
       "surface": "והרמחים",
-      "gloss": "እና እርምጃዎቹ"
+      "gloss": "እንዲሁም በእርስ በርስ በቀስታት"
     },
     {
       "surface": "המגנים",
-      "gloss": "ጋሻዎቹ"
+      "gloss": "በዊኖች"
     },
     {
       "surface": "והקשתות",
-      "gloss": "እና ቀስቶቹ"
+      "gloss": "በጠባቦች"
     },
     {
       "surface": "והשרינים",
-      "gloss": "እና ጋሻ-ልብሶቹ"
+      "gloss": "በግዛት"
     },
     {
       "surface": "והשרים",
-      "gloss": "እና አለቆቹ"
+      "gloss": "አለቆቹም"
     },
     {
       "surface": "אחרי",
-      "gloss": "ከኋላ"
+      "gloss": "ኋላ"
     },
     {
       "surface": "כל",
@@ -84,6 +84,6 @@
       "gloss": "ይሁዳ"
     }
   ],
-  "timestamp": "2026-08-16T12:11:36.718781935Z",
+  "timestamp": "2026-08-24T21:33:47.022450433Z",
   "model": "glm-5.3"
 }

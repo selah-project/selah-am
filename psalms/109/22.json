@@ -1,11 +1,11 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 22,
   "ref": "psalms 109:22",
   "book": "psalms",
   "lang": "am",
   "chapter": 109,
-  "translation": "በእውነት ድሆ እና ድሃ ⟨am⟩ እኔ፤ ልቤም በውስጤ ተቀዝቷል።",
+  "translation": "በእውነት ድኻና እንደገና ነኝ፣ ልቤም በውስጤዬ ተቀምጦ ተበርቷል።",
   "tokens": [
     {
       "surface": "כי",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "עני",
-      "gloss": "ድሆ"
+      "gloss": "ድኻ"
     },
     {
       "surface": "ואביון",
-      "gloss": "እና ድሃ"
+      "gloss": "እና እንደገና"
     },
     {
       "surface": "אנכי",
-      "gloss": "እኔ"
+      "gloss": "ነኝ"
     },
     {
       "surface": "ולבי",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "חלל",
-      "gloss": "ተቀዝቷል"
+      "gloss": "ተበርቷል"
     },
     {
       "surface": "בקרבי",
-      "gloss": "በውስጤ"
+      "gloss": "በውስጤዬ"
     }
   ],
-  "timestamp": "2026-08-16T10:07:35.403535145Z",
+  "timestamp": "2026-08-24T21:32:59.528423197Z",
   "model": "glm-5.3"
 }

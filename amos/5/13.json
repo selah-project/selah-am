@@ -5,7 +5,7 @@
   "book": "amos",
   "lang": "am",
   "chapter": 5,
-  "translation": "ስለዚህ በዚያ ⟨ሰዓት⟩ ጥበበኛው ⟨እ⟩>ድምፃለሁ ይሆናል፤ ክፉ ሰዓት ናትና።",
+  "translation": "ስለዚህ በዚያ ጊዜ አሳቢው ይፈራ ይገባል፣ ይህ ⟨ት⟩ ክፉ ጊዜ ⟨ናት⟩ና።",
   "tokens": [
     {
       "surface": "לכן",
@@ -13,27 +13,27 @@
     },
     {
       "surface": "המשכיל",
-      "gloss": "ጥበበኛው"
+      "gloss": "አሳቢው"
     },
     {
       "surface": "בעת",
-      "gloss": "በሰዓት"
+      "gloss": "በጊዜ"
     },
     {
       "surface": "ההיא",
-      "gloss": "እርሷ"
+      "gloss": "በዚያ"
     },
     {
       "surface": "ידם",
-      "gloss": "ድም፣ማድረግ ያዝዋል፤/ይገታል"
+      "gloss": "ይገባል"
     },
     {
       "surface": "כי",
-      "gloss": "ክፉ"
+      "gloss": "ናት"
     },
     {
       "surface": "עת",
-      "gloss": "ሰዓት"
+      "gloss": "ጊዜ"
     },
     {
       "surface": "רעה",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "היא",
-      "gloss": "ናት"
+      "gloss": "ይህ"
     }
   ],
-  "timestamp": "2026-08-16T18:02:19.663219001Z",
+  "timestamp": "2026-08-24T21:33:00.521516891Z",
   "model": "glm-5.3"
 }

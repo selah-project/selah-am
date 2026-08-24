@@ -1,11 +1,11 @@
 {
-  "tier": "glm-5.3",
+  "tier": "glm-5.2",
   "verse": 15,
   "ref": "jeremiah 46:15",
   "book": "jeremiah",
   "lang": "am",
   "chapter": 46,
-  "translation": "የአንተ ጀghanጎች ለምን ተወገዱ? አልቆሙም፣ ምክንያቱም ያህዌህ ገፋቸው ነው።",
+  "translation": "ለምን ተቆረጠዋል ⟨את⟩ ጀግኖችህ? አልቆመም፣ እንደዚህ ያህዌህ ገፈቀው።",
   "tokens": [
     {
       "surface": "מדוע",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "נסחף",
-      "gloss": "ተወገዱ"
+      "gloss": "ተቆረጠዋል"
     },
     {
       "surface": "אביריך",
-      "gloss": "የአንተ ጀጉች"
+      "gloss": "ጀግኖችህ"
     },
     {
       "surface": "לא",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "עמד",
-      "gloss": "ቆሙ"
+      "gloss": "ቆመም"
     },
     {
       "surface": "כי",
-      "gloss": "ምክንያቱም"
+      "gloss": "እንደዚህ"
     },
     {
       "surface": "יהוה",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "הדפו",
-      "gloss": "ገፋቸው"
+      "gloss": "ገፈቀው"
     }
   ],
-  "timestamp": "2026-08-16T08:09:02.631878090Z",
+  "timestamp": "2026-08-24T21:33:38.343283856Z",
   "model": "glm-5.3"
 }
