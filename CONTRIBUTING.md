@@ -58,3 +58,8 @@
 ከሕጎቹ፣ ከምንጮቹና ከአሰላለፉ ጋር ያመሳክራል — ሊቀበል፣ ካንተ ጋር ሊፈታ፣
 ተጨማሪ ማስረጃ ሊጠብቅ፣ ወይም በምክንያት ሊቀበል ላይችል ይችላል። ጽሑፉን መርምር፣
 ሰውየውን አይደለም።
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
