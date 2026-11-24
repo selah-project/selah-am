@@ -11,7 +11,7 @@
   ክፈት።
 - ስህተቱም እርማቱም ግልጽ ከሆኑ — **Pull request** ክፈት።
 - የሶፍትዌር ችግር፣ ወይም የደህንነት/የመለያ/የግላዊነት ጉዳይ ከሆነ
-  [Selah Support](https://selahproject.com/support) ተጠቀም።
+  [Selah Support](https://s33k3r.com/learn/support) ተጠቀም።
 
 ## ምን መያዝ አለበት
 
